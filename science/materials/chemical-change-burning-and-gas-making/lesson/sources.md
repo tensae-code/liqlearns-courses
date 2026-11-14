@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only), Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only), Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -497,3 +497,51 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, materials/chemical-change-burning-and-gas-making
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 4, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 4. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-22-2. PDF 250 pages, 11,552,458 bytes. Verdict: COMPLETE (97 lessons: Chapters 1–16 — the Life Cycle of Plants sequence is split across Chapters 2, 4, 7 and 9 — plus Science Tool Box and glossary). Twin records: TSV blob record grade-04/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 4 (§§6–9). Bullets are guide evidence (lesson flows, teacher notes, answers), cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chemical Changes in Matter (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 137 |
+
+**Book 2 (Papua New Guinea — Grade 5, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 5. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-23-9. PDF 226 pages, 12,524,044 bytes. Verdict: COMPLETE (87 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-05/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 5 (§§10–13). Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How to Tell a Chemical Change has taken place (New Matter) (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 57 |
+
+**Book 3 (Papua New Guinea — Grade 4, Part 2, student book):** Title as printed: National Science Textbook, Grade 4 (Part 2 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 84 pages, 14,171,310 bytes. Verdict: COMPLETE for its part — Chapters 8, 9, 10, 11, 12 (textbook printed pp. 75–158). Twin records: TSV release record (mid-size-books-2) and books.json record grade-04/gov/papua-new-guinea/science/student/part-2.pdf are the same book; cited once here.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chemical Changes in Matter (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 137 |
+
+**Book 4 (Papua New Guinea — Grade 5, Part 1, student book):** Title as printed: National Science Textbook, Grade 5 (Part 1 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 69 pages, 17,987,898 bytes. Verdict: COMPLETE for its part — front matter and Chapters 1, 2, 3, 4 (textbook printed pp. 11–68). Twin records: TSV release record (mid-size-books-2) and books.json record grade-05/gov/papua-new-guinea/science/student/part-1.pdf are the same book; cited once here. Companion manual §4.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How to Tell a Chemical Change has taken place (New Matter) (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 57 |
+
+**Book 5 (Papua New Guinea — Grade 5, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 5, Standards Based (the second title page also carries a stray 'Grade 3' line from the series template; the cover, contents and all content are Grade 5). Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN 978-9980-86-580-9. PDF 108 pages, 5,241,009 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (88 lessons in the yearly overview). Twin records: TSV blob record and books.json record grade-05/gov/papua-new-guinea/science/teacher/grade-5-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Physical and Chemical Changes lessons 84–87: properties of chemical change; observing chemical change — combustion and rusting; difference between chemical and physical change (Papua New Guinea, Grade 5, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 5, Standards Based*, PNG SBC G5 TG, printed p. 16 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 25 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

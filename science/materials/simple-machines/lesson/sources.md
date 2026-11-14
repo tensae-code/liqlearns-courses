@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -712,3 +712,113 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/simple-machines
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What is a Simple Machine: tools that help us do things easier (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 189 |
+| Inclined Plane: how it works (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 191 |
+| Lever: how a lever works (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 193 |
+| Pulley: how a pulley works (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 195 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for What is a Simple Machine: tools that help us do things easier (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 189 |
+| guide evidence: lesson flow, teacher notes and answers for Inclined Plane: how it works (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 191 |
+| guide evidence: lesson flow, teacher notes and answers for Lever: how a lever works (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 193 |
+| guide evidence: lesson flow, teacher notes and answers for Pulley: how a pulley works (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 195 |
+
+**Book 3 (Papua New Guinea — Grade 4, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 4. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-22-2. PDF 250 pages, 11,552,458 bytes. Verdict: COMPLETE (97 lessons: Chapters 1–16 — the Life Cycle of Plants sequence is split across Chapters 2, 4, 7 and 9 — plus Science Tool Box and glossary). Twin records: TSV blob record grade-04/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 4 (§§6–9). Bullets are guide evidence (lesson flows, teacher notes, answers), cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Six Simple Machines: the types there are (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 217 |
+| Lever: how a lever makes work easier (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 219 |
+| Inclined Plane: how it makes work easier (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 221 |
+| Pulleys: how a pulley makes work easier (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 223 |
+| Wheel and Axle: how it works (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 225 |
+| Wedge: how a wedge makes work easier (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 227 |
+| Screw: how a screw works (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 229 |
+
+**Book 4 (Papua New Guinea — Grade 5, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 5. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-23-9. PDF 226 pages, 12,524,044 bytes. Verdict: COMPLETE (87 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-05/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 5 (§§10–13). Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lifting a Load Using a Lever 1: lifting with less force (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 29 |
+| Lifting a Load Using a Lever 2: distance from fulcrum to load affects effort (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 31 |
+| Law of Lever to Balance: how to balance a lever (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 33 |
+
+**Book 5 (Papua New Guinea — Grade 4, Part 4, student book):** Title as printed: National Science Textbook, Grade 4 (Part 4 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 43 pages, 14,329,470 bytes. Verdict: COMPLETE for its part — Chapter 16 (textbook printed pp. 209–235) plus Science Tool Box and glossary back matter. Twin records: TSV release record (mid-size-books-2) and books.json record grade-04/gov/papua-new-guinea/science/student/part-4.pdf are the same book; cited once here.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Six Simple Machines: the types there are (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 217 |
+| Lever: how a lever makes work easier (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 219 |
+| Inclined Plane: how it makes work easier (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 221 |
+| Pulleys: how a pulley makes work easier (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 223 |
+| Wheel and Axle: how it works (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 225 |
+| Wedge: how a wedge makes work easier (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 227 |
+| Screw: how a screw works (Papua New Guinea, Grade 4, Part 4, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 4 of 4)*, PNG G4 SB Pt4, printed p. 229 |
+
+**Book 6 (Papua New Guinea — Grade 5, Part 1, student book):** Title as printed: National Science Textbook, Grade 5 (Part 1 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 69 pages, 17,987,898 bytes. Verdict: COMPLETE for its part — front matter and Chapters 1, 2, 3, 4 (textbook printed pp. 11–68). Twin records: TSV release record (mid-size-books-2) and books.json record grade-05/gov/papua-new-guinea/science/student/part-1.pdf are the same book; cited once here. Companion manual §4.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lifting a Load Using a Lever 1: lifting with less force (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 29 |
+| Lifting a Load Using a Lever 2: distance from fulcrum to load affects effort (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 31 |
+| Law of Lever to Balance: how to balance a lever (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 33 |
+
+**Book 7 (Papua New Guinea — Grade 3, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 3, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN: not printed in the front matter extracted. PDF 150 pages, 10,309,235 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (99 lessons in the yearly overview; contents, content overview, background notes, guided lessons, KSAVs, assessment). Twin records: TSV release record (mid-size-books-8) and books.json record grade-03/gov/papua-new-guinea/science/teacher/grade-3-science-teachers-guide.pdf are the same book; cited once here. An earlier QUIS-ME manual for Grade 3 is §2. Bullets are guide evidence from the guide's termly and yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Simple Machines lessons 68–71: inclined plane, lever, pulley; daily use of simple machines (Papua New Guinea, Grade 3, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 3, Standards Based*, PNG SBC G3 TG, printed p. 16 |
+
+**Book 8 (Papua New Guinea — Grade 4, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 4, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. PDF 146 pages, 11,554,020 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-04/gov/papua-new-guinea/science/teacher/grade-4-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Simple Machines lessons 78–83: levers, pulleys, inclined planes, screws, wheel and axle, wedges (Papua New Guinea, Grade 4, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 4, Standards Based*, PNG SBC G4 TG, printed p. 16 |
+
+**Book 9 (Papua New Guinea — Grade 5, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 5, Standards Based (the second title page also carries a stray 'Grade 3' line from the series template; the cover, contents and all content are Grade 5). Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN 978-9980-86-580-9. PDF 108 pages, 5,241,009 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (88 lessons in the yearly overview). Twin records: TSV blob record and books.json record grade-05/gov/papua-new-guinea/science/teacher/grade-5-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Machines lessons 51–53, 55: types of levers; pivot, load and distance in a lever; relationship between distance and force; uses of levers in daily life (Papua New Guinea, Grade 5, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 5, Standards Based*, PNG SBC G5 TG, printed p. 15 |
+
+**Book 10 (Papua New Guinea — Grade 9, Standards Based teacher guide):** Title as printed: Science Junior High Grade 9 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 244 pages, 16,295,580 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 9.1–9.11, guided sections). Twin records: TSV blob record and books.json record grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf name the same book, but both repo routes (tree and blob) returned 404 — the file is not actually in GitHub. It was read from the record's own source_url (Papua New Guinea Department of Education site) and, under the 2026-11-13 staging rule, the downloaded file was NOT deleted: it is staged at ~/workspace/phase3-staging/grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf, where its books.json record already exists with the matching size and page count. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page. The guide's Using Mathematical Functions in Science topic (quadratic and trigonometric applications) is mathematics, not science, and is not placed.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Parts and functions of a pulley (Balances, Scales and Pulleys topic) (Papua New Guinea, Grade 9, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 9 Teacher Guide, Standards-Based*, PNG SBC G9 TG, printed p. 42 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 28 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

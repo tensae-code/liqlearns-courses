@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -237,3 +237,27 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/rust-and-corrosion-how-air-and-water-attack-iron
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 5, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 5. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-23-9. PDF 226 pages, 12,524,044 bytes. Verdict: COMPLETE (87 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-05/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 5 (§§10–13). Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rusting: is rusting a chemical change (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 59 |
+
+**Book 2 (Papua New Guinea — Grade 5, Part 1, student book):** Title as printed: National Science Textbook, Grade 5 (Part 1 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 69 pages, 17,987,898 bytes. Verdict: COMPLETE for its part — front matter and Chapters 1, 2, 3, 4 (textbook printed pp. 11–68). Twin records: TSV release record (mid-size-books-2) and books.json record grade-05/gov/papua-new-guinea/science/student/part-1.pdf are the same book; cited once here. Companion manual §4.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rusting: is rusting a chemical change (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 59 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 14 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea, Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -735,3 +735,39 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, sound/sound-vibration-volume-and-pitch
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 4, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 4. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-22-2. PDF 250 pages, 11,552,458 bytes. Verdict: COMPLETE (97 lessons: Chapters 1–16 — the Life Cycle of Plants sequence is split across Chapters 2, 4, 7 and 9 — plus Science Tool Box and glossary). Twin records: TSV blob record grade-04/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 4 (§§6–9). Bullets are guide evidence (lesson flows, teacher notes, answers), cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound: how sound is made (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 119 |
+| Soft and Loud Sound: what makes sound soft or loud (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 123 |
+| High and Low Sound: what makes sound high or low (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 125 |
+
+**Book 2 (Papua New Guinea — Grade 4, Part 2, student book):** Title as printed: National Science Textbook, Grade 4 (Part 2 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 84 pages, 14,171,310 bytes. Verdict: COMPLETE for its part — Chapters 8, 9, 10, 11, 12 (textbook printed pp. 75–158). Twin records: TSV release record (mid-size-books-2) and books.json record grade-04/gov/papua-new-guinea/science/student/part-2.pdf are the same book; cited once here.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound: how sound is made (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 119 |
+| Soft and Loud Sound: what makes sound soft or loud (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 123 |
+| High and Low Sound: what makes sound high or low (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 125 |
+
+**Book 3 (Papua New Guinea — Grade 4, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 4, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. PDF 146 pages, 11,554,020 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-04/gov/papua-new-guinea/science/teacher/grade-4-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Sound lessons 62–64: what sound is; making sounds; how sound travels (Papua New Guinea, Grade 4, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 4, Standards Based*, PNG SBC G4 TG, printed p. 15 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 39 countries — Papua New Guinea added.** Papua New Guinea was named in this lesson as teacher-guide evidence only before; it counts now through its student books above, and its teacher guides/manuals in this section remain guide evidence beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

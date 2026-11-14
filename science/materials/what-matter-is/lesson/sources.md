@@ -1,6 +1,6 @@
 # Sources — What matter is
 
-countries: Kuwait, South Sudan
+countries: Kuwait, South Sudan, Papua New Guinea
 
 **Book (Kuwait — Grade 1, Term 2):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الثاني – القسم الأول (Science, Grade 1, Second Term – Section 1). Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 65,714,706 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 (القسم الثاني) is not in the file. What is missing: the whole second section of the term book. This is a library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter Around Us, Ch.2 Energy Around Us, Ch.3 Force, Motion and the Magnet. Tally: 11 to existing lessons, 1 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
 
@@ -62,3 +62,31 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 Placement choice, on the record: the South Sudan placements filed these as "NEW LESSON NEEDED — what-is-matter" — south-sudan-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so South Sudan stocks into it here, with the original slug recorded in this note, instead of a duplicate lesson being built.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter around Us: what matter is (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 31 |
+| Taking Up Space: a common property of all matter (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 45 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Matter around Us: what matter is (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 31 |
+| guide evidence: lesson flow, teacher notes and answers for Taking Up Space: a common property of all matter (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 45 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 3 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Placement choice, on the record: the Papua New Guinea placements filed 4 of these rows as "NEW LESSON NEEDED — matter-takes-up-space, what-is-matter" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -1160,3 +1160,79 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, materials/solids-liquids-and-gases
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 4, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 4. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-22-2. PDF 250 pages, 11,552,458 bytes. Verdict: COMPLETE (97 lessons: Chapters 1–16 — the Life Cycle of Plants sequence is split across Chapters 2, 4, 7 and 9 — plus Science Tool Box and glossary). Twin records: TSV blob record grade-04/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 4 (§§6–9). Bullets are guide evidence (lesson flows, teacher notes, answers), cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water around Us: the forms water can exist in (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 143 |
+| Heating Water: how water changes form when heated (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 145 |
+| What is Steam: what steam is made of (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 147 |
+| Changes in States of Water (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 151 |
+
+**Book 2 (Papua New Guinea — Grade 5, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 5. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-23-9. PDF 226 pages, 12,524,044 bytes. Verdict: COMPLETE (87 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-05/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 5 (§§10–13). Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shape of the Three States of Matter (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 69 |
+| Volume of Three States of Matter (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 71 |
+| Change in State of Matter 1: solid to liquid (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 73 |
+| Change in State of Matter 2: liquid to gas (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 75 |
+
+**Book 3 (Papua New Guinea — Grade 4, Part 2, student book):** Title as printed: National Science Textbook, Grade 4 (Part 2 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 84 pages, 14,171,310 bytes. Verdict: COMPLETE for its part — Chapters 8, 9, 10, 11, 12 (textbook printed pp. 75–158). Twin records: TSV release record (mid-size-books-2) and books.json record grade-04/gov/papua-new-guinea/science/student/part-2.pdf are the same book; cited once here.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water around Us: the forms water can exist in (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 143 |
+| Heating Water: how water changes form when heated (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 145 |
+| What is Steam: what steam is made of (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 147 |
+| Changes in States of Water (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 151 |
+
+**Book 4 (Papua New Guinea — Grade 5, Part 2, student book):** Title as printed: National Science Textbook, Grade 5 (Part 2 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 64 pages, 11,062,678 bytes. Verdict: COMPLETE for its part — Chapters 5, 6, 7, 8 (textbook printed pp. 69–132). Twin records: TSV release record (mid-size-books-2) and books.json record grade-05/gov/papua-new-guinea/science/student/part-2.pdf are the same book; cited once here.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shape of the Three States of Matter (Papua New Guinea, Grade 5, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 2 of 4)*, PNG G5 SB Pt2, printed p. 69 |
+| Volume of Three States of Matter (Papua New Guinea, Grade 5, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 2 of 4)*, PNG G5 SB Pt2, printed p. 71 |
+| Change in State of Matter 1: solid to liquid (Papua New Guinea, Grade 5, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 2 of 4)*, PNG G5 SB Pt2, printed p. 73 |
+| Change in State of Matter 2: liquid to gas (Papua New Guinea, Grade 5, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 2 of 4)*, PNG G5 SB Pt2, printed p. 75 |
+
+**Book 5 (Papua New Guinea — Grade 3, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 3, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN: not printed in the front matter extracted. PDF 150 pages, 10,309,235 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (99 lessons in the yearly overview; contents, content overview, background notes, guided lessons, KSAVs, assessment). Twin records: TSV release record (mid-size-books-8) and books.json record grade-03/gov/papua-new-guinea/science/teacher/grade-3-science-teachers-guide.pdf are the same book; cited once here. An earlier QUIS-ME manual for Grade 3 is §2. Bullets are guide evidence from the guide's termly and yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Properties of Matter unit (Yearly Overview grid, Terms 1–2) (Papua New Guinea, Grade 3, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 3, Standards Based*, PNG SBC G3 TG, printed p. 9 |
+
+**Book 6 (Papua New Guinea — Grade 5, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 5, Standards Based (the second title page also carries a stray 'Grade 3' line from the series template; the cover, contents and all content are Grade 5). Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN 978-9980-86-580-9. PDF 108 pages, 5,241,009 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (88 lessons in the yearly overview). Twin records: TSV blob record and books.json record grade-05/gov/papua-new-guinea/science/teacher/grade-5-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Three States of Matter lessons 13–19: properties of solids, liquids and gases; similarities and differences; changing states of water; changes of state and temperature (Papua New Guinea, Grade 5, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 5, Standards Based*, PNG SBC G5 TG, printed p. 14 |
+
+**Book 7 (Papua New Guinea — Grade 8, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 8, Standards Based. Publisher: Department of Education, Papua New Guinea, 2018. PDF 188 pages, 3,879,090 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (content overview, termly and yearly overviews, background notes, guided lesson samples, KSAVs, assessment). Twin records: TSV blob record and books.json record grade-08/gov/papua-new-guinea/science/teacher/grade-8-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the content and termly/yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: State Changes lessons: properties of solid, liquid and gas in volume; effect of heat on the motion of particles in solids, liquids and gases; melting and boiling points; arrangement of atoms and molecules; process of changes in states of matter; physical changes and energy (Papua New Guinea, Grade 8, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 8, Standards Based*, PNG SBC G8 TG, printed p. 47 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 50 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

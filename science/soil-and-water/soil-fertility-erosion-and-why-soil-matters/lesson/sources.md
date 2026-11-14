@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -515,3 +515,51 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, soil-and-water/soil-fertility-erosion-and-why-soil-matters
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Importance of Soil for Plants and Animals (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 211 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Importance of Soil for Plants and Animals (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 211 |
+
+**Book 3 (Papua New Guinea — Grade 4, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 4. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-22-2. PDF 250 pages, 11,552,458 bytes. Verdict: COMPLETE (97 lessons: Chapters 1–16 — the Life Cycle of Plants sequence is split across Chapters 2, 4, 7 and 9 — plus Science Tool Box and glossary). Twin records: TSV blob record grade-04/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 4 (§§6–9). Bullets are guide evidence (lesson flows, teacher notes, answers), cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uses of Soil for People: how we use soil in our lives (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 27 |
+
+**Book 4 (Papua New Guinea — Grade 4, Part 1, student book):** Title as printed: National Science Textbook, Grade 4 (Part 1 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 75 pages, 20,602,957 bytes. Verdict: COMPLETE for its part — front matter and Chapters 1, 2, 3, 4, 5, 6, 7 (textbook printed pp. 11–74). Twin records: TSV release record (mid-size-books-2) and books.json record grade-04/gov/papua-new-guinea/science/student/part-1.pdf are the same book; cited once here. Companion manual §3.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uses of Soil for People: how we use soil in our lives (Papua New Guinea, Grade 4, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 1 of 4)*, PNG G4 SB Pt1, printed p. 27 |
+
+**Book 5 (Papua New Guinea — Grade 4, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 4, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. PDF 146 pages, 11,554,020 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-04/gov/papua-new-guinea/science/teacher/grade-4-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Our Earth unit lessons 18–22: uses of soil for human beings; what soil pollution is; effects of soil pollution; protecting and conserving soil (Papua New Guinea, Grade 4, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 4, Standards Based*, PNG SBC G4 TG, printed p. 14 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 24 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

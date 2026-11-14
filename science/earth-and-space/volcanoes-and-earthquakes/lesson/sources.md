@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China, Syria, North Macedonia, Indonesia
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China, Syria, North Macedonia, Indonesia, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -172,3 +172,28 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space volcanoes-and-earthquakes
 
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 6, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 6, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2019. PDF 218 pages, 8,376,217 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly lesson overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-06/gov/papua-new-guinea/science/teacher/grade-6-science-teachers-guide.pdf are the same book; the repo tree route for this file returned 404 and the book was read from the release route; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Volcanoes and earthquakes; natural disasters (lessons 69–70) (Papua New Guinea, Grade 6, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 6, Standards Based*, PNG SBC G6 TG, printed p. 42 |
+
+**Book 2 (Papua New Guinea — Grade 8, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 8, Standards Based. Publisher: Department of Education, Papua New Guinea, 2018. PDF 188 pages, 3,879,090 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (content overview, termly and yearly overviews, background notes, guided lesson samples, KSAVs, assessment). Twin records: TSV blob record and books.json record grade-08/gov/papua-new-guinea/science/teacher/grade-8-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the content and termly/yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 1 Our Earth — Volcano lessons: what a volcano is; types of volcano; mechanism of volcano (Papua New Guinea, Grade 8, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 8, Standards Based*, PNG SBC G8 TG, printed p. 46 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 8 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Placement choice, on the record: the Papua New Guinea placements filed 2 of these rows as "NEW LESSON NEEDED — volcanoes-and-earthquakes" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

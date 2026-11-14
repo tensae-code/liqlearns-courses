@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait, Sri Lanka, Fiji, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait, Sri Lanka, Fiji, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Papua New Guinea
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -303,3 +303,49 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, electricit
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, electricity-and-magnetism/electromagnets-a-magnet-you-switch-on
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 6, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-24-6. PDF 202 pages, 10,326,169 bytes. Verdict: COMPLETE (74 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is §14. Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Characteristics of an Electromagnet (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 125 |
+| How to Strengthen an Electromagnet 1 (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 127 |
+| How to Strengthen an Electromagnet 2 (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 129 |
+| Uses of Electromagnets in Daily Life (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 131 |
+
+**Book 2 (Papua New Guinea — Grade 6, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 6, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2019. PDF 218 pages, 8,376,217 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly lesson overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-06/gov/papua-new-guinea/science/teacher/grade-6-science-teachers-guide.pdf are the same book; the repo tree route for this file returned 404 and the book was read from the release route; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Electromagnet lessons 15–18: characteristics of an electromagnet; how to strengthen an electromagnet (1) and (2); uses of electromagnets in daily life (Papua New Guinea, Grade 6, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 6, Standards Based*, PNG SBC G6 TG, printed p. 40 |
+
+**Book 3 (Papua New Guinea — Grade 8, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 8, Standards Based. Publisher: Department of Education, Papua New Guinea, 2018. PDF 188 pages, 3,879,090 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (content overview, termly and yearly overviews, background notes, guided lesson samples, KSAVs, assessment). Twin records: TSV blob record and books.json record grade-08/gov/papua-new-guinea/science/teacher/grade-8-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the content and termly/yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Electromagnet topics: properties of electromagnets; magnetic field around an electric current; force received by electric currents within a magnetic field (Papua New Guinea, Grade 8, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 8, Standards Based*, PNG SBC G8 TG, printed p. 36 |
+
+**Book 4 (Papua New Guinea — Grade 6, student book):** Title as printed: National Science Textbook, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition, published 2020 (developed with JICA QUIS-ME Project). ISBN 978-9980-905-16-1. PDF 204 pages, 31,585,046 bytes. Verdict: COMPLETE (Chapters 1–11, textbook printed pp. 11–179, plus Science Tool Box, answers and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §5. This section supersedes §14: the earlier UNREAD verdict rested on two truncated downloads (25,609,284 and 20,503,416 bytes). The repo file itself is sound — the Contents API metadata gives its true size as 31,585,046 bytes with git blob SHA 95c010b9625f88f1632cb76ae81aebe7248eb0d6; a fresh full download matched both the byte size and, on recomputation, the blob SHA exactly, pdfinfo opened it cleanly at 204 pages, and the cover/title page matches the record. The library debt recorded in §14 is therefore cleared: no clean copy is owed. Bullets below are the student textbook's own lessons, cited by textbook printed page; Summary/Exercise pages and Chapter Tests are not teaching items and are not placed, as in §1.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Characteristics of an Electromagnet: a coil of wire around an iron nail attracting clips only while current flows (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 125 |
+| How to Strengthen an Electromagnet 1: adding dry cells to increase the electric current (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 127 |
+| How to Strengthen an Electromagnet 2: increasing the number of coils (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 129 |
+| Uses of Electromagnets in Daily Life: lifting heavy iron and steel objects and other uses (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 131 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 23 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

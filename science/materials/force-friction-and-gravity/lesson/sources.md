@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji, Saudi Arabia, Iraq, El Salvador, Colombia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -375,3 +375,43 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/force-friction-and-gravity
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Slower and Stop: what makes things slow down and stop (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 179 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Slower and Stop: what makes things slow down and stop (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 179 |
+
+**Book 3 (Papua New Guinea — Grade 6, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-24-6. PDF 202 pages, 10,326,169 bytes. Verdict: COMPLETE (74 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is §14. Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Gravity: what gravity is (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 49 |
+
+**Book 4 (Papua New Guinea — Grade 6, student book):** Title as printed: National Science Textbook, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition, published 2020 (developed with JICA QUIS-ME Project). ISBN 978-9980-905-16-1. PDF 204 pages, 31,585,046 bytes. Verdict: COMPLETE (Chapters 1–11, textbook printed pp. 11–179, plus Science Tool Box, answers and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §5. This section supersedes §14: the earlier UNREAD verdict rested on two truncated downloads (25,609,284 and 20,503,416 bytes). The repo file itself is sound — the Contents API metadata gives its true size as 31,585,046 bytes with git blob SHA 95c010b9625f88f1632cb76ae81aebe7248eb0d6; a fresh full download matched both the byte size and, on recomputation, the blob SHA exactly, pdfinfo opened it cleanly at 204 pages, and the cover/title page matches the record. The library debt recorded in §14 is therefore cleared: no clean copy is owed. Bullets below are the student textbook's own lessons, cited by textbook printed page; Summary/Exercise pages and Chapter Tests are not teaching items and are not placed, as in §1.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Gravity: the non-contact force attracting objects towards each other (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 49 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 22 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

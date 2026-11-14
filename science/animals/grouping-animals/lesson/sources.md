@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -836,3 +836,27 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, animals/grouping-animals
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animal Groups: how animals can be grouped (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 87 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Animal Groups: how animals can be grouped (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 87 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 36 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

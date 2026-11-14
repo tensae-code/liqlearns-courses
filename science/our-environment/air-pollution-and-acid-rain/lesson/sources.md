@@ -1,6 +1,6 @@
 # Sources — Air pollution and acid rain
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab), Samoa, Cambodia, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Nepal
+countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab), Samoa, Cambodia, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Nepal, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -272,3 +272,19 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-enviro
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, our-environment/air-pollution-and-acid-rain
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 9, Standards Based teacher guide):** Title as printed: Science Junior High Grade 9 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 244 pages, 16,295,580 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 9.1–9.11, guided sections). Twin records: TSV blob record and books.json record grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf name the same book, but both repo routes (tree and blob) returned 404 — the file is not actually in GitHub. It was read from the record's own source_url (Papua New Guinea Department of Education site) and, under the 2026-11-13 staging rule, the downloaded file was NOT deleted: it is staged at ~/workspace/phase3-staging/grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf, where its books.json record already exists with the matching size and page count. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page. The guide's Using Mathematical Functions in Science topic (quadratic and trigonometric applications) is mathematics, not science, and is not placed.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Human impact on the atmosphere (Earth's Atmosphere topic) (Papua New Guinea, Grade 9, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 9 Teacher Guide, Standards-Based*, PNG SBC G9 TG, printed p. 45 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 18 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

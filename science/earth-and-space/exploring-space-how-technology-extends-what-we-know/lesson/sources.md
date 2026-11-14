@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, Colombia
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -277,3 +277,28 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/exploring-space-how-technology-extends-what-we-know
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 8, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 8, Standards Based. Publisher: Department of Education, Papua New Guinea, 2018. PDF 188 pages, 3,879,090 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (content overview, termly and yearly overviews, background notes, guided lesson samples, KSAVs, assessment). Twin records: TSV blob record and books.json record grade-08/gov/papua-new-guinea/science/teacher/grade-8-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the content and termly/yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 3 Space lessons: what the Universe is; how we study the Universe; history of space exploration (Papua New Guinea, Grade 8, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 8, Standards Based*, PNG SBC G8 TG, printed p. 49 |
+
+**Book 2 (Papua New Guinea — Grade 10, Standards Based teacher guide):** Title as printed: Science Junior High Grade 10 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 225 pages, 16,946,123 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 10.1–10.11, guided sections). Twin records: TSV release record (mid-size-books-8) and books.json record grade-10/gov/papua-new-guinea/science/teacher/grade-10-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Telescope topic: history and types of telescopes; parts, functions and how to use a telescope; making a simple telescope (Papua New Guinea, Grade 10, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 10 Teacher Guide, Standards-Based*, PNG SBC G10 TG, printed p. 42 |
+| guide evidence: Space Equipment, Usage and Functions topic: spacecraft and instruments; how to use them; making a model of a spacecraft; what space technology is (Papua New Guinea, Grade 10, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 10 Teacher Guide, Standards-Based*, PNG SBC G10 TG, printed p. 46 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 18 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

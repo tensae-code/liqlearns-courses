@@ -1,6 +1,6 @@
 # Sources — Cells — respiration: releasing energy from food
 
-countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka, Indonesia, Yemen, Nicaragua, South Sudan, El Salvador, Colombia
+countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka, Indonesia, Yemen, Nicaragua, South Sudan, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -197,3 +197,19 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/respiration-releasing-energy-from-food
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 8, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 8, Standards Based. Publisher: Department of Education, Papua New Guinea, 2018. PDF 188 pages, 3,879,090 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (content overview, termly and yearly overviews, background notes, guided lesson samples, KSAVs, assessment). Twin records: TSV blob record and books.json record grade-08/gov/papua-new-guinea/science/teacher/grade-8-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the content and termly/yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Respiration of Plants lessons: what respiration is; parts and functions of respiration; roles of leaf stomata; process of respiration in plants; gas exchange in plants (Papua New Guinea, Grade 8, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 8, Standards Based*, PNG SBC G8 TG, printed p. 46 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 12 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

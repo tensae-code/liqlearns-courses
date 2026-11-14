@@ -1,6 +1,6 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia, Fiji, Malaysia, El Salvador, Colombia, Nepal
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia, Fiji, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -209,3 +209,27 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, science-skills/measurement-quantities-units-prefixes-and-accuracy-grade-8
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 9, Standards Based teacher guide):** Title as printed: Science Junior High Grade 9 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 244 pages, 16,295,580 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 9.1–9.11, guided sections). Twin records: TSV blob record and books.json record grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf name the same book, but both repo routes (tree and blob) returned 404 — the file is not actually in GitHub. It was read from the record's own source_url (Papua New Guinea Department of Education site) and, under the 2026-11-13 staging rule, the downloaded file was NOT deleted: it is staged at ~/workspace/phase3-staging/grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf, where its books.json record already exists with the matching size and page count. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page. The guide's Using Mathematical Functions in Science topic (quadratic and trigonometric applications) is mathematics, not science, and is not placed.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 9.2 Measurement and Accuracy — International System of Units (SI) topic: what SI units are; comparing SI and other conventional units; importance of SI units in science (Papua New Guinea, Grade 9, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 9 Teacher Guide, Standards-Based*, PNG SBC G9 TG, printed p. 43 |
+
+**Book 2 (Papua New Guinea — Grade 10, Standards Based teacher guide):** Title as printed: Science Junior High Grade 10 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 225 pages, 16,946,123 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 10.1–10.11, guided sections). Twin records: TSV release record (mid-size-books-8) and books.json record grade-10/gov/papua-new-guinea/science/teacher/grade-10-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Scientific Notation topic: why scientific notation is important; applying scientific notation in science (Papua New Guinea, Grade 10, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 10 Teacher Guide, Standards-Based*, PNG SBC G10 TG, printed p. 42 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 11 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

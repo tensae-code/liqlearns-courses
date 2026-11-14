@@ -1,6 +1,6 @@
 # Sources — Air pressure and what it does
 
-countries: Armenia, Seychelles, Angola, Kuwait, Eritrea, Sri Lanka, South Sudan (teacher-guide evidence only)
+countries: Armenia, Seychelles, Angola, Kuwait, Eritrea, Sri Lanka, South Sudan (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only)
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -109,3 +109,21 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 Placement choice, on the record: the South Sudan placements filed these as "NEW LESSON NEEDED — air-pressure-and-how-it-pushes" — south-sudan-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so South Sudan stocks into it here, with the original slug recorded in this note, instead of a duplicate lesson being built.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 7, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 7, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2019. PDF 222 pages, 14,050,436 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (116 lessons in the yearly lesson overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-07/gov/papua-new-guinea/science/teacher/grade-7-science-teachers-guide.pdf are the same book; read from the release route after the tree route returned 404; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Types of air pressure — low pressure and high pressure; atmospheric movements (lessons 81–84) (Papua New Guinea, Grade 7, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 7, Standards Based*, PNG SBC G7 TG, printed p. 42 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 6 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Placement choice, on the record: the Papua New Guinea placements filed 1 of these rows as "NEW LESSON NEEDED — air-pressure-high-and-low" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

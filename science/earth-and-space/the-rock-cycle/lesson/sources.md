@@ -1,6 +1,6 @@
 # Sources — The rock cycle
 
-countries: United States, Samoa, Egypt, Cambodia, Dominican Republic, Syria, Nicaragua, El Salvador
+countries: United States, Samoa, Egypt, Cambodia, Dominican Republic, Syria, Nicaragua, El Salvador, Papua New Guinea (teacher-guide evidence only)
 
 **Book (United States — Utah Grade 7):** *Utah OER Science Textbook – Grade 7* (student book) — United States. Title as printed: "7th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 64,618,223 bytes (matches repo size), 202 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -142,3 +142,21 @@ Placement choice, on the record: the El Salvador placement(s) above filed as NEW
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/the-rock-cycle
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 10, Standards Based teacher guide):** Title as printed: Science Junior High Grade 10 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 225 pages, 16,946,123 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 10.1–10.11, guided sections). Twin records: TSV release record (mid-size-books-8) and books.json record grade-10/gov/papua-new-guinea/science/teacher/grade-10-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Strand 4 Earth and Space, Unit 10.9 Our Earth — The Rock Cycle topic: types of rocks; the rock cycle; fossils — pre-history (Papua New Guinea, Grade 10, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 10 Teacher Guide, Standards-Based*, PNG SBC G10 TG, printed p. 46 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 8 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Placement choice, on the record: the Papua New Guinea placements filed 1 of these rows as "NEW LESSON NEEDED — the-rock-cycle" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

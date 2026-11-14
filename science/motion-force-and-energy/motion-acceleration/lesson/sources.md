@@ -1,6 +1,6 @@
 # Sources — Motion — acceleration
 
-countries: Ethiopia, Mozambique, Syria, Eritrea, North Macedonia
+countries: Ethiopia, Mozambique, Syria, Eritrea, North Macedonia, Papua New Guinea
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -60,3 +60,27 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, motion
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, motion-force-and-energy motion-acceleration
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 5, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 5. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-23-9. PDF 226 pages, 12,524,044 bytes. Verdict: COMPLETE (87 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-05/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 5 (§§10–13). Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Change in Speed: how an applied force changes the speed of an object (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 23 |
+
+**Book 2 (Papua New Guinea — Grade 5, Part 1, student book):** Title as printed: National Science Textbook, Grade 5 (Part 1 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 69 pages, 17,987,898 bytes. Verdict: COMPLETE for its part — front matter and Chapters 1, 2, 3, 4 (textbook printed pp. 11–68). Twin records: TSV release record (mid-size-books-2) and books.json record grade-05/gov/papua-new-guinea/science/student/part-1.pdf are the same book; cited once here. Companion manual §4.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Change in Speed: how an applied force changes the speed of an object (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 23 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 6 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

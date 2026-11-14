@@ -1,6 +1,6 @@
 # Sources — Plate tectonics
 
-countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Malaysia, Iraq, Colombia
+countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Malaysia, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only)
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -237,3 +237,29 @@ Placement choice, on the record: the Colombia placement(s) above filed as “tec
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/plate-tectonics
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 7, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 7, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2019. PDF 222 pages, 14,050,436 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (116 lessons in the yearly lesson overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-07/gov/papua-new-guinea/science/teacher/grade-7-science-teachers-guide.pdf are the same book; read from the release route after the tree route returned 404; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Plates and plate movement — movement of tectonic plates and its effects (lessons 25–30, including volcanoes and earthquakes in the unit background) (Papua New Guinea, Grade 7, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 7, Standards Based*, PNG SBC G7 TG, printed p. 40 |
+
+**Book 2 (Papua New Guinea — Grade 10, Standards Based teacher guide):** Title as printed: Science Junior High Grade 10 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 225 pages, 16,946,123 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 10.1–10.11, guided sections). Twin records: TSV release record (mid-size-books-8) and books.json record grade-10/gov/papua-new-guinea/science/teacher/grade-10-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Causes and Effects of Plate Tectonics topic: Earth and plate tectonics; causes and effects of plate tectonics (Papua New Guinea, Grade 10, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 10 Teacher Guide, Standards-Based*, PNG SBC G10 TG, printed p. 46 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 15 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Placement choice, on the record: the Papua New Guinea placements filed 2 of these rows as "NEW LESSON NEEDED — plate-tectonics-and-moving-plates" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Ecuador, Venezuela, Bhutan, Dominican Republic, Syria, Eritrea, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, El Salvador, Colombia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Ecuador, Venezuela, Bhutan, Dominican Republic, Syria, Eritrea, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, El Salvador, Colombia, Papua New Guinea
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -702,3 +702,89 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, motion-for
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, motion-force-and-energy/force-what-force-is-and-what-it-does
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Push and Pull: pushing or pulling heavy and light objects (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 177 |
+| Speed Up and Slow Down: forces change the movement of things (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 181 |
+| The Way Objects Move: what makes the direction of things change (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 183 |
+| More about Forces: other things force can do (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 185 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Push and Pull: pushing or pulling heavy and light objects (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 177 |
+| guide evidence: lesson flow, teacher notes and answers for Speed Up and Slow Down: forces change the movement of things (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 181 |
+| guide evidence: lesson flow, teacher notes and answers for The Way Objects Move: what makes the direction of things change (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 183 |
+| guide evidence: lesson flow, teacher notes and answers for More about Forces: other things force can do (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 185 |
+
+**Book 3 (Papua New Guinea — Grade 5, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 5. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-23-9. PDF 226 pages, 12,524,044 bytes. Verdict: COMPLETE (87 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-05/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 5 (§§10–13). Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Change in Direction: how a force changes the direction of a moving object (Papua New Guinea, Grade 5, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 5*, PNG G5 TM, printed p. 25 |
+
+**Book 4 (Papua New Guinea — Grade 6, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-24-6. PDF 202 pages, 10,326,169 bytes. Verdict: COMPLETE (74 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is §14. Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forces in Daily Life: types of forces around us (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 47 |
+
+**Book 5 (Papua New Guinea — Grade 5, Part 1, student book):** Title as printed: National Science Textbook, Grade 5 (Part 1 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 69 pages, 17,987,898 bytes. Verdict: COMPLETE for its part — front matter and Chapters 1, 2, 3, 4 (textbook printed pp. 11–68). Twin records: TSV release record (mid-size-books-2) and books.json record grade-05/gov/papua-new-guinea/science/student/part-1.pdf are the same book; cited once here. Companion manual §4.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Change in Direction: how a force changes the direction of a moving object (Papua New Guinea, Grade 5, Part 1, student book) | Papua New Guinea, *National Science Textbook, Grade 5 (Part 1 of 4)*, PNG G5 SB Pt1, printed p. 25 |
+
+**Book 6 (Papua New Guinea — Grade 3, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 3, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN: not printed in the front matter extracted. PDF 150 pages, 10,309,235 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (99 lessons in the yearly overview; contents, content overview, background notes, guided lessons, KSAVs, assessment). Twin records: TSV release record (mid-size-books-8) and books.json record grade-03/gov/papua-new-guinea/science/teacher/grade-3-science-teachers-guide.pdf are the same book; cited once here. An earlier QUIS-ME manual for Grade 3 is §2. Bullets are guide evidence from the guide's termly and yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Moving Objects unit: what a force is; types of forces — pushing and pulling; function of force (Papua New Guinea, Grade 3, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 3, Standards Based*, PNG SBC G3 TG, printed p. 12 |
+
+**Book 7 (Papua New Guinea — Grade 5, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 5, Standards Based (the second title page also carries a stray 'Grade 3' line from the series template; the cover, contents and all content are Grade 5). Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN 978-9980-86-580-9. PDF 108 pages, 5,241,009 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (88 lessons in the yearly overview). Twin records: TSV blob record and books.json record grade-05/gov/papua-new-guinea/science/teacher/grade-5-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Force and Motion lessons 50, 54: balanced and unbalanced forces; using a beam balance (Papua New Guinea, Grade 5, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 5, Standards Based*, PNG SBC G5 TG, printed p. 15 |
+
+**Book 8 (Papua New Guinea — Grade 6, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 6, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2019. PDF 218 pages, 8,376,217 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly lesson overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-06/gov/papua-new-guinea/science/teacher/grade-6-science-teachers-guide.pdf are the same book; the repo tree route for this file returned 404 and the book was read from the release route; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 2 Force and Motion — Force lessons 39–44: different types of force; frictional, gravitational and elastic force; uses and effects of forces in daily life; describing force (Papua New Guinea, Grade 6, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 6, Standards Based*, PNG SBC G6 TG, printed p. 41 |
+
+**Book 9 (Papua New Guinea — Grade 6, student book):** Title as printed: National Science Textbook, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition, published 2020 (developed with JICA QUIS-ME Project). ISBN 978-9980-905-16-1. PDF 204 pages, 31,585,046 bytes. Verdict: COMPLETE (Chapters 1–11, textbook printed pp. 11–179, plus Science Tool Box, answers and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §5. This section supersedes §14: the earlier UNREAD verdict rested on two truncated downloads (25,609,284 and 20,503,416 bytes). The repo file itself is sound — the Contents API metadata gives its true size as 31,585,046 bytes with git blob SHA 95c010b9625f88f1632cb76ae81aebe7248eb0d6; a fresh full download matched both the byte size and, on recomputation, the blob SHA exactly, pdfinfo opened it cleanly at 204 pages, and the cover/title page matches the record. The library debt recorded in §14 is therefore cleared: no clean copy is owed. Bullets below are the student textbook's own lessons, cited by textbook printed page; Summary/Exercise pages and Chapter Tests are not teaching items and are not placed, as in §1.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forces in Daily Life: contact and non-contact forces around us (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 47 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 35 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

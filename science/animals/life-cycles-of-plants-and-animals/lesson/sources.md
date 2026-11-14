@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Nepal
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Nepal, Papua New Guinea
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -370,3 +370,43 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, animals/life-cycles-of-plants-and-animals
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 4, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 4. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-22-2. PDF 250 pages, 11,552,458 bytes. Verdict: COMPLETE (97 lessons: Chapters 1–16 — the Life Cycle of Plants sequence is split across Chapters 2, 4, 7 and 9 — plus Science Tool Box and glossary). Twin records: TSV blob record grade-04/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is the four-part National Science Textbook Grade 4 (§§6–9). Bullets are guide evidence (lesson flows, teacher notes, answers), cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Life Cycle of Insects (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 105 |
+| Life Cycle of Fish and Amphibians (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 107 |
+| Life Cycle of Reptiles and Birds (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 109 |
+| Life Cycle of Mammals (Papua New Guinea, Grade 4, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 4*, PNG G4 TM, printed p. 111 |
+
+**Book 2 (Papua New Guinea — Grade 4, Part 2, student book):** Title as printed: National Science Textbook, Grade 4 (Part 2 of 4). Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). PDF 84 pages, 14,171,310 bytes. Verdict: COMPLETE for its part — Chapters 8, 9, 10, 11, 12 (textbook printed pp. 75–158). Twin records: TSV release record (mid-size-books-2) and books.json record grade-04/gov/papua-new-guinea/science/student/part-2.pdf are the same book; cited once here.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Life Cycle of Insects (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 105 |
+| Life Cycle of Fish and Amphibians (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 107 |
+| Life Cycle of Reptiles and Birds (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 109 |
+| Life Cycle of Mammals (Papua New Guinea, Grade 4, Part 2, student book) | Papua New Guinea, *National Science Textbook, Grade 4 (Part 2 of 4)*, PNG G4 SB Pt2, printed p. 111 |
+
+**Book 3 (Papua New Guinea — Grade 4, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 4, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. PDF 146 pages, 11,554,020 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-04/gov/papua-new-guinea/science/teacher/grade-4-science-teachers-guide.pdf are the same book; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Life Cycle of Animals lessons 24–29: what a life cycle is; life cycles of a butterfly, frogs, a chicken, a fish and dogs (Papua New Guinea, Grade 4, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 4, Standards Based*, PNG SBC G4 TG, printed p. 14 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 16 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Placement choice, on the record: the Papua New Guinea placements filed 9 of these rows as "NEW LESSON NEEDED — animal-life-cycles" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

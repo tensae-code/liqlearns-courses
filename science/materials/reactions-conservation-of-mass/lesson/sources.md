@@ -1,6 +1,6 @@
 # Sources — Reactions — conservation of mass
 
-countries: Ethiopia, United States, Dominican Republic, Syria, Saudi Arabia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, United States, Dominican Republic, Syria, Saudi Arabia, Morocco (teacher-guide evidence only), Papua New Guinea
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -84,3 +84,43 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials reactions-conservation-of-mass
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Weight and Shape of Matter: weight stays the same when shape changes (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 51 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Weight and Shape of Matter: weight stays the same when shape changes (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 51 |
+
+**Book 3 (Papua New Guinea — Grade 6, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-24-6. PDF 202 pages, 10,326,169 bytes. Verdict: COMPLETE (74 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is §14. Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Weight of Solution: what happens to the weight of a substance in a solution (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 169 |
+
+**Book 4 (Papua New Guinea — Grade 6, student book):** Title as printed: National Science Textbook, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition, published 2020 (developed with JICA QUIS-ME Project). ISBN 978-9980-905-16-1. PDF 204 pages, 31,585,046 bytes. Verdict: COMPLETE (Chapters 1–11, textbook printed pp. 11–179, plus Science Tool Box, answers and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §5. This section supersedes §14: the earlier UNREAD verdict rested on two truncated downloads (25,609,284 and 20,503,416 bytes). The repo file itself is sound — the Contents API metadata gives its true size as 31,585,046 bytes with git blob SHA 95c010b9625f88f1632cb76ae81aebe7248eb0d6; a fresh full download matched both the byte size and, on recomputation, the blob SHA exactly, pdfinfo opened it cleanly at 204 pages, and the cover/title page matches the record. The library debt recorded in §14 is therefore cleared: no clean copy is owed. Bullets below are the student textbook's own lessons, cited by textbook printed page; Summary/Exercise pages and Chapter Tests are not teaching items and are not placed, as in §1.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Weight of Solution: the total weight stays the same when salt dissolves in water (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 169 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 6 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

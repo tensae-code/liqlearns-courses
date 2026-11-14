@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -560,3 +560,19 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, light/sources-of-light
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Primary Grade 3, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2017. ISBN: not printed in the front matter extracted. PDF 150 pages, 10,309,235 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (99 lessons in the yearly overview; contents, content overview, background notes, guided lessons, KSAVs, assessment). Twin records: TSV release record (mid-size-books-8) and books.json record grade-03/gov/papua-new-guinea/science/teacher/grade-3-science-teachers-guide.pdf are the same book; cited once here. An earlier QUIS-ME manual for Grade 3 is §2. Bullets are guide evidence from the guide's termly and yearly overviews, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Properties of Light unit: sources of light; properties of light (Papua New Guinea, Grade 3, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Primary Grade 3, Standards Based*, PNG SBC G3 TG, printed p. 12 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 33 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

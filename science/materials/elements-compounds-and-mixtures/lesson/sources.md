@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Iraq, El Salvador, Colombia
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Iraq, El Salvador, Colombia, Papua New Guinea
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -494,3 +494,37 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/elements-compounds-and-mixtures
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 6, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (JICA QUIS-ME). ISBN 978-9980-905-24-6. PDF 202 pages, 10,326,169 bytes. Verdict: COMPLETE (74 lessons: Chapters 1–11, plus Science Tool Box and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. Its student textbook is §14. Bullets are guide evidence, cited by textbook printed page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mixtures and Substances: what a mixture is (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 157 |
+| Types of Mixtures (Papua New Guinea, Grade 6, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 6*, PNG G6 TM, printed p. 159 |
+
+**Book 2 (Papua New Guinea — Grade 6, Standards Based teacher guide):** Title as printed: Science Teacher Guide, Grade 6, Standards Based. Publisher: Department of Education, Papua New Guinea, First Edition 2019. PDF 218 pages, 8,376,217 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (97 lessons in the yearly lesson overview). Twin records: TSV release record (mid-size-books-8) and books.json record grade-06/gov/papua-new-guinea/science/teacher/grade-6-science-teachers-guide.pdf are the same book; the repo tree route for this file returned 404 and the book was read from the release route; cited once here. Bullets are guide evidence from the yearly lesson overview, cited by printed overview page.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Saturated and unsaturated solutions; components of different types of mixtures; solutions and suspensions (lessons 79–82) (Papua New Guinea, Grade 6, Standards Based teacher guide) | Papua New Guinea, *Science Teacher Guide, Grade 6, Standards Based*, PNG SBC G6 TG, printed p. 42 |
+
+**Book 3 (Papua New Guinea — Grade 6, student book):** Title as printed: National Science Textbook, Grade 6. Publisher: Department of Education, Papua New Guinea, First Edition, published 2020 (developed with JICA QUIS-ME Project). ISBN 978-9980-905-16-1. PDF 204 pages, 31,585,046 bytes. Verdict: COMPLETE (Chapters 1–11, textbook printed pp. 11–179, plus Science Tool Box, answers and glossary). Twin records: TSV blob record grade-06/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §5. This section supersedes §14: the earlier UNREAD verdict rested on two truncated downloads (25,609,284 and 20,503,416 bytes). The repo file itself is sound — the Contents API metadata gives its true size as 31,585,046 bytes with git blob SHA 95c010b9625f88f1632cb76ae81aebe7248eb0d6; a fresh full download matched both the byte size and, on recomputation, the blob SHA exactly, pdfinfo opened it cleanly at 204 pages, and the cover/title page matches the record. The library debt recorded in §14 is therefore cleared: no clean copy is owed. Bullets below are the student textbook's own lessons, cited by textbook printed page; Summary/Exercise pages and Chapter Tests are not teaching items and are not placed, as in §1.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mixtures and Substances: a substance as one kind of matter; a mixture as two or more kinds (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 157 |
+| Types of Mixtures: classifying mixtures of solids, liquids and gases (salad and ocean compared) (Papua New Guinea, Grade 6, student book) | Papua New Guinea, *National Science Textbook, Grade 6*, PNG G6 SB, printed p. 159 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 26 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.

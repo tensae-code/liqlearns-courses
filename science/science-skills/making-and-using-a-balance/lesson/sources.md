@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -273,3 +273,37 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, science-sk
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, science-skills/making-and-using-a-balance
+
+## Papua New Guinea growth (2026-11-14, General Science expansion)
+
+**Book 1 (Papua New Guinea — Grade 3, student book):** Title as printed: National Science Textbook, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019 (developed with JICA QUIS-ME Project). The PDF's front matter carries the companion Teacher's Manual copyright page (ISBN 978-9980-905-21-5) before the textbook title page — a binding artifact of the secured file, noted here; the body is the Grade 3 student textbook. PDF 236 pages, 17,383,494 bytes. Verdict: COMPLETE (Chapters 1–10, textbook printed pp. 11–217, plus Science Tool Box, glossary and answers). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year.pdf; no separate books.json record. Cited once here; its companion manual is §2.
+
+It counts in the acceptance count (student book, not evidence-only), except where Papua New Guinea is already counted in this lesson through its other student books in this section — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Heavy or Light: comparing the weight of different matter (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 35 |
+| Weight and Volume of Matter: comparing weights fairly (Papua New Guinea, Grade 3, student book) | Papua New Guinea, *National Science Textbook, Grade 3*, PNG G3 SB, printed p. 53 |
+
+**Book 2 (Papua New Guinea — Grade 3, teacher's manual (QUIS-ME)):** Title as printed: Science Teacher's Manual, Grade 3. Publisher: Department of Education, Papua New Guinea, First Edition 2019. ISBN 978-9980-905-21-5. PDF 234 pages, 11,763,928 bytes. Verdict: COMPLETE (94 lessons: Chapters 1–10, Science Tool Box, glossary, basic science instruments). Twin records: TSV blob record grade-03/gov/papua-new-guinea/science/full-year-teacher-guide.pdf. The Standards Based Grade 3 guide (§15) is a different book. Bullets below are the manual's lesson flows, teacher notes and answers (guide evidence) for the same lessons as the student textbook (§1), cited by textbook printed page as printed in the manual's tables.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: lesson flow, teacher notes and answers for Heavy or Light: comparing the weight of different matter (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 35 |
+| guide evidence: lesson flow, teacher notes and answers for Weight and Volume of Matter: comparing weights fairly (Papua New Guinea, Grade 3, teacher's manual (QUIS-ME)) | Papua New Guinea, *Science Teacher's Manual, Grade 3*, PNG G3 TM, printed p. 53 |
+
+**Book 3 (Papua New Guinea — Grade 9, Standards Based teacher guide):** Title as printed: Science Junior High Grade 9 Teacher Guide, Standards-Based. Publisher: Department of Education, Papua New Guinea, First Edition 2020. PDF 244 pages, 16,295,580 bytes — byte size and page count match the books.json record exactly. Verdict: COMPLETE (four strands, Units 9.1–9.11, guided sections). Twin records: TSV blob record and books.json record grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf name the same book, but both repo routes (tree and blob) returned 404 — the file is not actually in GitHub. It was read from the record's own source_url (Papua New Guinea Department of Education site) and, under the 2026-11-13 staging rule, the downloaded file was NOT deleted: it is staged at ~/workspace/phase3-staging/grade-09/gov/papua-new-guinea/science/teacher/grade-9-science-teachers-guide.pdf, where its books.json record already exists with the matching size and page count. Bullets are guide evidence from the Strands, Units and Topics overview, cited by printed overview page. The guide's Using Mathematical Functions in Science topic (quadratic and trigonometric applications) is mathematics, not science, and is not placed.
+
+Guide evidence: the rows below are cited as the evidence they are. Teacher guide/manual — evidence only: outside the acceptance count, except where Papua New Guinea is counted in this lesson through its student books in this section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/papua-new-guinea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Balances, Scales and Pulleys topic: parts and functions of a balance and of a scale (Papua New Guinea, Grade 9, Standards Based teacher guide) | Papua New Guinea, *Science Junior High Grade 9 Teacher Guide, Standards-Based*, PNG SBC G9 TG, printed p. 42 |
+
+| Do it first; key ideas; Do It Yourself | Papua New Guinea, as cited in the rows above |
+
+**Acceptance count: taught in 17 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
+
+Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
