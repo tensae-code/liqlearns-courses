@@ -1,6 +1,6 @@
 # Sources — Computer hardware — four categories
 
-countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia
+countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia
 
 **Book 5:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
 
+**Book 6:** *Информатика — учебник для 5 класса средней общеобразовательной школы (Informatika, Grade 5)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: Б. Болтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2008. ISBN 978-9943-05-161-4. 73 PDF pages. Verdict: COMPLETE. Scanned image-only; read via title/imprint/cover renders and the book's complete printed contents at reading resolution, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by Muxtor Mahkamov. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Parts 1–2 — hardware and input devices | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 19–20 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia
 | Chapter 2: meaning of computer hardware and its categories (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 15 (teacher guide — evidence) |
 | Chapter 2, Lesson 3 "Components of the computer" | Afghanistan, *Computer, Grade 11*, printed p. 11 |
 | Lesson 4: The computer's components (hardware in five units — input, memory, processing, storage, output — and software in two kinds) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 24 |
+| Урок 2 "Компьютер. Основные устройства компьютера и их функции" | Uzbekistan, *Informatika, Grade 5*, printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Saudi Arabia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -30,4 +33,7 @@ The teacher guide's Unit 2 answer key (printed p. 16) was used as the verified-a
 
 Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
 
-Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3
+
+Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety and hygiene before the machine is even described, and Paint gets five of the seventeen lessons — drawing is the grade-5 child's main creative tool, with keyboard training on a typing trainer in between. The Boltaev-team informatics line runs from keyboard trainers and Paint in Grades 5–6 to a full Pascal course in Grades 8–9; this book is its Russian-language edition.
+
+Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5

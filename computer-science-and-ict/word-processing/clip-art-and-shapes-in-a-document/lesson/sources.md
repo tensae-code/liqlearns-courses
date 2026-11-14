@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda, Yemen, Sudan
+countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Uganda, Yemen, Sudan
 
 **Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 7:** *Информатика — учебник для 6 класса общеобразовательной школы с русским языком обучения (Informatika, Grade 6)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом „Узбекистан", Tashkent. Authors: Б. Балтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2009. No ISBN printed on the colophon page. 72 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks (the scan's front-cover image is damaged — grey render — but every content page is intact). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
+**Book 8:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -26,8 +30,11 @@ countries: Ethiopia, Uganda, Yemen, Sudan
 | Unit 5 activity (pictures) | Yemen, *Computer, Grade 10*, printed p. 117 |
 | Unit 5 closing training | Yemen, *Computer, Grade 10*, printed p. 118 |
 | Unit 4 Lesson 4: Shapes and pictures, changing a shape's colour | Sudan, *ICT, Grade 5*, printed p. 47 |
+| Урок 10 "Фигуры и схемы в документе" (shapes and diagrams) | Uzbekistan, *Informatika, Grade 6*, printed p. 40 |
+| Урок 11 "Практическая работа с рисунками и схемами" | Uzbekistan, *Informatika, Grade 6*, printed p. 45 |
+| Урок 32 "Фигуры и схемы в документах" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 129 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Yemen, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -35,4 +42,9 @@ Yemen's own way (Grade 10): a skills ladder — every unit alternates short teac
 
 Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5
+
+Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught to mastery — MS Word from its interface to formulas and print — on the principle that one tool learned deeply beats many tools skimmed.
+
+Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
+
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8

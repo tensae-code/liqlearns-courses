@@ -1,6 +1,6 @@
 # Sources — Folders — containers for files
 
-countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia
+countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia
 
 **Book 8:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 1e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — front matter (introduction, principles, annual plan over 6 units × 5 weeks), a visual-programming/Scratch introduction (printed pp. 7–10), and 25 one-page lesson fiches (5 per unit; the 5th in each unit is evaluation/support and is not placed as new teaching). The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Folders and subfolders; file vs folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia
 | Lesson 06 Managing folders (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 12 (teacher guide — evidence) |
 | Lesson 9: Folders and files (what a folder and a file are; folder and file icons) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 54 |
 | U.D.4 Séance 1 distinguishing files from folders/directories (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 27 (teacher guide — evidence) |
+| Урок 22 "Файлы и каталоги" (files and directories) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 91 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -41,4 +44,7 @@ Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book fo
 
 Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hardware first — plug in, switch on, draw with the mouse, type in Word — with every unit taught in the same five-step rhythm (mobilisation, découverte, application, évaluation, réemploi) in pairs/groups, and files taught through paper folders and plastic sleeves before the screen. (teacher guide — evidence)
 
-Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1
+
+Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
+
+Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8

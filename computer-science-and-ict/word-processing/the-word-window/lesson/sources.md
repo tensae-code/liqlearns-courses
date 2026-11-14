@@ -1,6 +1,6 @@
 # Sources — The Word window — naming its parts
 
-countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan
+countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -15,6 +15,10 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan
 **Book 8:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
 **Book 9:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 10:** *Информатика — учебник для 6 класса общеобразовательной школы с русским языком обучения (Informatika, Grade 6)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом „Узбекистан", Tashkent. Authors: Б. Балтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2009. No ISBN printed on the colophon page. 72 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks (the scan's front-cover image is damaged — grey render — but every content page is intact). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
+**Book 11:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -34,8 +38,10 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan
 | Lesson 15 "The important parts of the Word window" | Afghanistan, *Computer, Grade 10*, printed p. 53 |
 | Unit 2 Ch.1 Lesson 2 The main interface of Microsoft Word | Iraq, *Computer, Grade 8*, printed p. 36 |
 | Unit 4 Lesson 1: The main interface of MS Word and its components | Sudan, *ICT, Grade 5*, printed p. 37 |
+| Урок 2 "Интерфейс текстового процессора MS Word" | Uzbekistan, *Informatika, Grade 6*, printed p. 9 |
+| Урок 25 "Интерфейс программы MS Word" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 104 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -47,4 +53,9 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5
+
+Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught to mastery — MS Word from its interface to formulas and print — on the principle that one tool learned deeply beats many tools skimmed.
+
+Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8

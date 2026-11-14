@@ -1,6 +1,6 @@
 # Sources — The keyboard — ten groups of keys
 
-countries: Ethiopia, Saudi Arabia
+countries: Ethiopia, Saudi Arabia, Uzbekistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Saudi Arabia
 
 **Book 6:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 1e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — front matter (introduction, principles, annual plan over 6 units × 5 weeks), a visual-programming/Scratch introduction (printed pp. 7–10), and 25 one-page lesson fiches (5 per unit; the 5th in each unit is evaluation/support and is not placed as new teaching). The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Информатика — учебник для 5 класса средней общеобразовательной школы (Informatika, Grade 5)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: Б. Болтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2008. ISBN 978-9943-05-161-4. 73 PDF pages. Verdict: COMPLETE. Scanned image-only; read via title/imprint/cover renders and the book's complete printed contents at reading resolution, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by Muxtor Mahkamov. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Saudi Arabia
 | Unit 2, Lesson 1: The keyboard (its parts — letters section, numbers section, special keys Enter and Shift; the correct hand position for typing) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 45 (teacher guide — evidence) |
 | Strand 5 Unit 2, Topic Keyboarding, Lesson 1: Introduction to Keyboard (filed as first-steps/keyboard-tour; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 80 (teacher guide — evidence, PARTIAL) |
 | U.D.1 Séance 4 Le clavier (keyboard zones, typing text in Word) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 15 (teacher guide — evidence) |
+| Урок 6 "Знакомство с клавиатурой" (meeting the keyboard) | Uzbekistan, *Informatika, Grade 5*, printed p. 22 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Uzbekistan).**
 
 Printed p. 20 of the student book carries a stray character run (a run of the capital letter K typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -39,4 +42,7 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hardware first — plug in, switch on, draw with the mouse, type in Word — with every unit taught in the same five-step rhythm (mobilisation, découverte, application, évaluation, réemploi) in pairs/groups, and files taught through paper folders and plastic sleeves before the screen. (teacher guide — evidence)
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1
+
+Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety and hygiene before the machine is even described, and Paint gets five of the seventeen lessons — drawing is the grade-5 child's main creative tool, with keyboard training on a typing trainer in between. The Boltaev-team informatics line runs from keyboard trainers and Paint in Grades 5–6 to a full Pascal course in Grades 8–9; this book is its Russian-language edition.
+
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5

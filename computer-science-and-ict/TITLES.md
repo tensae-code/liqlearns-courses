@@ -953,3 +953,19 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Sudan): A School Management Information System — ipSchools · Smartphone Apps in Daily Life · Computers in Police Work — ID Documents and Traffic · Data Processing Methods and Ready-Made Packages · Systems Analysis and Design — the Eight Steps
 
 **Programming** (ICT expansion, from Sudan): What Programming Is — Concepts and the Parts of a Language · Why Programming Matters · Working with Data in Scratch · BASIC — the Beginners' Language of 1964 · Numbered Lines in BASIC · Comments in BASIC — REM · BASIC Program Commands — RUN, SAVE, LOAD, LIST · Built-In Functions in BASIC — SQR, SIN, LEFT$ and LEN · Defining Your Own Function — DEF FN
+
+**First Steps** (ICT expansion, from Uzbekistan): What Informatics Is and Studies · Positional and Non-Positional Number Systems · Converting Numbers Between Systems · Representing Information with Numbers · End-of-Year Review Tasks · Glossary of Informatics Terms
+
+**Hardware** (ICT expansion, from Uzbekistan): Keyboard Trainer Practice · Logic Elements — the Building Blocks
+
+**Software** (ICT expansion, from Uzbekistan): What an Interface Is · The Programs That Make Up an Operating System · Program Shells for the Operating System
+
+**Word Processing** (ICT expansion, from Uzbekistan): Basic Document Settings · WordArt — Decorative Text · Formulas in Word · Inserting Charts and Graphs in a Document
+
+**Multimedia** (ICT expansion, from Uzbekistan): What a Graphics Editor Can Do · The Paint Toolbox · Pixels, Bitmaps and Colour Depth · The Parts an Image Is Made Of · Editing a Drawing in Paint
+
+**Programming** (ICT expansion, from Uzbekistan): The Pascal Alphabet and Symbols · Standard Functions and Expressions in Pascal · Assignment and Output in Pascal · Entering Data in a Dialogue — Readln · Working with the Screen in Pascal · Writing Linear Programs in Pascal · Switching to Graphics Mode in Pascal · Drawing Figures with Pascal Graphics · Working with Files in Pascal · Procedures and Functions in Pascal
+
+**Safety, Security and Care** (ICT expansion, from Uzbekistan): Safety Rules in the Computer Room
+
+**Computers in Society** (ICT expansion, from Uzbekistan): About Computer Games · Puzzle and Word-Building Games

@@ -1,6 +1,6 @@
 # Sources — if…else — one action or the other
 
-countries: Ethiopia, Finland, North Macedonia, Iraq
+countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq
 
 **Book 6:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 5e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 35 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a third full Scratch year: control blocks (wait, loops, conditions, clones), sensing blocks, and three game/story projects; the 5th séance of each teaching unit is evaluation and is not placed. The three U.D.3 sensor fiches carry misprinted titles (“Les boucles (1)–(3)”) and are placed by their objectives, which are the sensing topics. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -24,8 +26,11 @@ countries: Ethiopia, Finland, North Macedonia, Iraq
 | "Exercises on the if else structure [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.22, printed p. 164 |
 | Unit 3 Ch.2 Lesson 1 Conditional control statements: if-then | Iraq, *Computer, Grade 8*, printed p. 92 |
 | U.D.2 Séance 2 Les conditions (2) (if… then… else…, in Scratch) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 18 (teacher guide — evidence) |
+| Урок 50 "Операторы перехода и ветвления" (jump and branching operators) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 97 |
+| Урок 51 "Составление ветвящихся программ" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 100 |
+| Урок 52 "Повторение пройденного материала" (review) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 101 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Finland, North Macedonia, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan).**
 
 BOOK ERROR flagged: the student book's if…else example on printed p. 171 carries a printed Word cross-reference failure — the words 'error: reference source not found' appear where a figure reference belongs. The lesson teaches the if…else content itself, which is complete and correct; the broken reference is named here, not reproduced as teaching. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -35,4 +40,7 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real program logic — wait/repeat-until, if–then–else, clones and sensors (answer, mouse position, touching colour, date) — and the year is half projects: a space-voyage story, a don't-touch-the-barriers ball game, and an aquarium game. (teacher guide — evidence)
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5
+
+Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9
