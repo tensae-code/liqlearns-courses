@@ -65,3 +65,17 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Textbook, Senior One* (student textbook) — Uganda, National Curriculum Development Centre, Kampala, 2020. Title as printed: General Science Textbook, Senior One, Lower Secondary Curriculum (Prototype). Publisher: National Curriculum Development Centre, Kampala, 2020. PDF 142 pages. Verdict: COMPLETE (Chapters 1–10, printed pp. 1–129). Records: the TSV release record and the books.json record `grade-08/gov/uganda/general-science/student/full-year.pdf` are the same book (the same NCDC prototype PDF) — cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| density of different substances; determining density; density applied to floating and sinking (Uganda, Senior One) | Uganda, *General Science Textbook, Senior One*, printed pp. 35–37 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Uganda, Finland).** Uganda was already counted in this lesson from its *Physics Textbook — Senior One (NCDC Prototype)*; the General Science student book above is a second Uganda book teaching this thing, not a second count for Uganda.
+
+Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum

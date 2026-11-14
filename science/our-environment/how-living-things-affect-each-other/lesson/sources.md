@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -155,3 +155,17 @@ Note, as filed: the teaching-tips rows above are guide evidence inside the stude
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, how living things affect each other
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, 2020. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| effects of changes in the environment, positive and negative (Uganda, Primary Five) | Uganda, *Home-Study Learning, Primary Five, Science*, printed p. 39 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning

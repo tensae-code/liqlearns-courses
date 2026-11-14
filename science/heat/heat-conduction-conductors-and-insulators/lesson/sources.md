@@ -142,3 +142,17 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, energy for cooking, 
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, 2020. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heat transfer: how heat travels in different states of matter; how the Sun's heat reaches Earth (Uganda, Primary Five) | Uganda, *Home-Study Learning, Primary Five, Science*, printed pp. 24–25 |
+
+**Acceptance count unchanged: taught in 22 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia).** Uganda was already counted in this lesson from its *Physics Textbook — Senior One (NCDC Prototype)*; the Primary Five home-study booklet above is a second Uganda book teaching this thing, not a second count for Uganda.
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning

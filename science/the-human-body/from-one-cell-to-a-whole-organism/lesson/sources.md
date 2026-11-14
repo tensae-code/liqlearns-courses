@@ -1,6 +1,6 @@
 # Sources — Cells — from one cell to a whole organism
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -26,3 +26,19 @@ Pairing warning (carried exactly): this Grade 7 Teacher Guide is an Addis Ababa 
 Cross-reference: Biology's *From cell to organism* covers this ground at secondary depth; this Grade 7 lesson is a new first-depth build.
 
 Searchable tags: unicellular, multicellular, tissue, organ, organ system, organism, levels of organisation, Ethiopia, Grade 7, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Teacher's Guide, Senior One* (teacher guide) — Uganda, National Curriculum Development Centre, Kampala. Title as printed: General Science Teacher's Guide, Senior One (Prototype). PDF 52 pages. Verdict: COMPLETE as far as it goes — it guides the same ten chapters as the student book (guide printed pp. 1–40+); no content beyond the student book's chapters. Guide evidence is marked as such; the guide adds teaching method, answers and activity guidance for the student book above, chapter by chapter (Introduction printed p. 1; Hazards and Safety p. 5; Measurements and Density p. 9; Matter p. 16; Temperature p. 19; Diversity of Living Things p. 22; Plant Structure p. 27; Reproduction in Plants p. 31; Elements and Compounds p. 34; Air, Burning and Rusting p. 37). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: levels of organisation from cells to organism in the diversity chapter (guide evidence) (Uganda, Senior One) | Uganda, *General Science Teacher's Guide, Senior One* (teacher guide — evidence), printed p. 22 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Uganda is named as teacher-guide evidence only (*General Science Teacher's Guide, Senior One (Prototype)* — teacher guide), not added to this count.
+
+The guide's own way — the same ten chapters as the student book, carried as teaching method, answers and activity guidance, chapter by chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum

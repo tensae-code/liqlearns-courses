@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -108,3 +108,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vii, todays-weather
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Four, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, August 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Four, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, August 2020. PDF 48 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather changes around us; project: recording weather changes in your area morning and evening (Uganda, Primary Four) | Uganda, *Home-Study Learning, Primary Four, Science*, printed p. 1 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning

@@ -1,6 +1,6 @@
 # Sources — Food — a balanced diet
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -45,3 +45,22 @@ Searchable tags: balanced diet, meal plan, bread and tea, nutrients, cook island
 **Acceptance count unchanged: taught in 2 countries (Ethiopia, Cook Islands).** Djibouti is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: djibouti, sciences expérimentales, balanced diet, eating well, teacher guide, grade 4
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Four, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, August 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Four, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, August 2020. PDF 48 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+**Book (Uganda):** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, 2020. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| classes of food; what a balanced diet is (Uganda, Primary Four) | Uganda, *Home-Study Learning, Primary Four, Science*, printed p. 7 |
+| breastfeeding vs bottle feeding: advantages of breastfeeding (food values, antibodies); when bottle feeding happens (Uganda, Primary Five) | Uganda, *Home-Study Learning, Primary Five, Science*, printed pp. 46–47 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning, primary five, home-study learning

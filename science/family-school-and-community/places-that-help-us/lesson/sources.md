@@ -1,6 +1,6 @@
 # Sources — Our Community — Places That Help Us
 
-countries: Ethiopia
+countries: Ethiopia, Uganda
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -29,3 +29,18 @@ TRUNCATED mid-unit: the file holds printed pp. 1–66 (Units 1–2 complete, Uni
 Publisher figure-number misprint in the Grade 2 student book (activity 4.10 refers to figure 1.12 where 4.12 is meant, printed p.86) is the book's own error, recorded in the placements; no part of this lesson depends on it.
 
 Searchable tags: institutions, health station, bank, police, iddir, court, important places
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, 2020. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vulnerable groups (pregnant women, sick people) and primary health care: elements of PHC (Uganda, Primary Five) | Uganda, *Home-Study Learning, Primary Five, Science*, printed pp. 48–49 |
+| roles of individuals, families and communities in promoting primary health care (Uganda, Primary Five) | Uganda, *Home-Study Learning, Primary Five, Science*, printed p. 51 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning

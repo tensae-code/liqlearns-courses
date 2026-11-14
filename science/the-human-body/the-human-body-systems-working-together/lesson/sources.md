@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -102,3 +102,17 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class x, the-human-body-systems-working-together
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Four, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, August 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Four, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, August 2020. PDF 48 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| major organs of the human body and what each does (brain, lungs, ear, gall bladder in the review table) (Uganda, Primary Four) | Uganda, *Home-Study Learning, Primary Four, Science*, printed pp. 11–14 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Guyana, Costa Rica, India, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning

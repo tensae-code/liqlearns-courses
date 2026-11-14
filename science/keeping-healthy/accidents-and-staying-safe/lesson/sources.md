@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only)
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -63,3 +63,22 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Textbook, Senior One* (student textbook) — Uganda, National Curriculum Development Centre, Kampala, 2020. Title as printed: General Science Textbook, Senior One, Lower Secondary Curriculum (Prototype). Publisher: National Curriculum Development Centre, Kampala, 2020. PDF 142 pages. Verdict: COMPLETE (Chapters 1–10, printed pp. 1–129). Records: the TSV release record and the books.json record `grade-08/gov/uganda/general-science/student/full-year.pdf` are the same book (the same NCDC prototype PDF) — cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+**Book (Uganda):** *Home-Study Learning, Primary Four, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, August 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Four, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, August 2020. PDF 48 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| first aid procedures; contents of a first aid box and their uses (Uganda, Senior One) | Uganda, *General Science Textbook, Senior One*, printed p. 15 |
+| common accidents, poisoning and first aid: preventing accidents; what poisoning is (Uganda, Primary Four) | Uganda, *Home-Study Learning, Primary Four, Science*, printed pp. 31–34 |
+
+**Acceptance count: taught in 3 countries (Turkey, Suriname, Uganda).** — Ethiopia's rows stand on teacher-guide evidence only, as first built, counted nowhere for Ethiopia; Uganda's rows are pupil-taught from its Senior One student book and its Primary Four home-study booklet.
+
+Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum, primary four, home-study learning

@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey
+countries: Ethiopia, Turkey, Uganda
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -28,3 +28,17 @@ Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 
 As first built, this lesson's Sub lessons 1–2 rested only on teacher-guide evidence (Grade 2 and Grade 3 teacher guides); that position was superseded first by the Grade 3 student-book chart (printed p. 22, 2026-11-12 coverage fix) and now by Turkey's Grade 2 student-book placement (printed p. 48) — the acceptance count above reflects the pupil-taught rows. The Grade 2 guide bundles the food-group discussion into its weather subtopic (§3.1); the placement is recorded as printed, not tidied away.
 
 Searchable tags: healthy food, unhealthy food, spoiled food, contaminated food, preserving food, food groups, turkey, hayat bilgisi, life studies grade 2
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Four, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, August 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Four, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, August 2020. PDF 48 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food hygiene: washing hands, cleaning plates before eating and serving (Uganda, Primary Four) | Uganda, *Home-Study Learning, Primary Four, Science*, printed p. 10 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning

@@ -145,3 +145,17 @@ Searchable tags: matter, particle theory, postulates, Democritus, dilution, Expe
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, matter the particle theory, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Teacher's Guide, Senior One* (teacher guide) — Uganda, National Curriculum Development Centre, Kampala. Title as printed: General Science Teacher's Guide, Senior One (Prototype). PDF 52 pages. Verdict: COMPLETE as far as it goes — it guides the same ten chapters as the student book (guide printed pp. 1–40+); no content beyond the student book's chapters. Guide evidence is marked as such; the guide adds teaching method, answers and activity guidance for the student book above, chapter by chapter (Introduction printed p. 1; Hazards and Safety p. 5; Measurements and Density p. 9; Matter p. 16; Temperature p. 19; Diversity of Living Things p. 22; Plant Structure p. 27; Reproduction in Plants p. 31; Elements and Compounds p. 34; Air, Burning and Rusting p. 37). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: explaining matter and Brownian motion to learners (guide evidence) (Uganda, Senior One) | Uganda, *General Science Teacher's Guide, Senior One* (teacher guide — evidence), printed p. 16 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia).** Uganda was already counted in this lesson from its *Physics Textbook — Senior One (NCDC Prototype)* (student book); the General Science Teacher's Guide row above is teacher-guide evidence for Uganda, not a second count.
+
+The guide's own way — the same ten chapters as the student book, carried as teaching method, answers and activity guidance, chapter by chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum

@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only)
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -69,3 +69,17 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Textbook, Senior One* (student textbook) — Uganda, National Curriculum Development Centre, Kampala, 2020. Title as printed: General Science Textbook, Senior One, Lower Secondary Curriculum (Prototype). Publisher: National Curriculum Development Centre, Kampala, 2020. PDF 142 pages. Verdict: COMPLETE (Chapters 1–10, printed pp. 1–129). Records: the TSV release record and the books.json record `grade-08/gov/uganda/general-science/student/full-year.pdf` are the same book (the same NCDC prototype PDF) — cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| variations in daily and atmospheric temperature (Uganda, Senior One) | Uganda, *General Science Textbook, Senior One*, printed p. 70 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Italy, Mongolia, Uganda).**
+
+Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum

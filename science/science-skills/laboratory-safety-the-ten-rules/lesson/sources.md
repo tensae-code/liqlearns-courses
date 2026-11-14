@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — the ten rules
 
-countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia
+countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Uganda (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -30,3 +30,19 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
 Searchable tags: laboratory safety, ten rules, hazardous poisonous flammable explosive, acid rule, eye splash, accident report, Grade 7 Unit 1, jamaica, jamaica nsc integrated science, trinidad and tobago, trinidad and tobago ncse integrated science, australia, pearson science 9
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Teacher's Guide, Senior One* (teacher guide) — Uganda, National Curriculum Development Centre, Kampala. Title as printed: General Science Teacher's Guide, Senior One (Prototype). PDF 52 pages. Verdict: COMPLETE as far as it goes — it guides the same ten chapters as the student book (guide printed pp. 1–40+); no content beyond the student book's chapters. Guide evidence is marked as such; the guide adds teaching method, answers and activity guidance for the student book above, chapter by chapter (Introduction printed p. 1; Hazards and Safety p. 5; Measurements and Density p. 9; Matter p. 16; Temperature p. 19; Diversity of Living Things p. 22; Plant Structure p. 27; Reproduction in Plants p. 31; Elements and Compounds p. 34; Air, Burning and Rusting p. 37). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: teaching hazard and first-aid work safely (guide evidence) (Uganda, Senior One) | Uganda, *General Science Teacher's Guide, Senior One* (teacher guide — evidence), printed p. 5 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Moldova, Australia).**
+
+Uganda is named as teacher-guide evidence only (*General Science Teacher's Guide, Senior One (Prototype)* — teacher guide), not added to this count.
+
+The guide's own way — the same ten chapters as the student book, carried as teaching method, answers and activity guidance, chapter by chapter — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum

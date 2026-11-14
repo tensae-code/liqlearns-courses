@@ -69,3 +69,17 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
 Searchable tags: prefixes, scientific notation and significant figures, grade 9 physics, unit 2, kilo means 10³ and milli means 10⁻³., scientific notation writes a number as a value between 1 and 10 times a power of ten., significant figures are the digits that carry real information, including the estimated digit., uganda, kenya, iraq, cambodia, iran, north macedonia, libya
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *General Science Textbook, Senior One* (student textbook) — Uganda, National Curriculum Development Centre, Kampala, 2020. Title as printed: General Science Textbook, Senior One, Lower Secondary Curriculum (Prototype). Publisher: National Curriculum Development Centre, Kampala, 2020. PDF 142 pages. Verdict: COMPLETE (Chapters 1–10, printed pp. 1–129). Records: the TSV release record and the books.json record `grade-08/gov/uganda/general-science/student/full-year.pdf` are the same book (the same NCDC prototype PDF) — cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| scientific notation and significant figures in measurements (Uganda, Senior One) — filed as NEW LESSON NEEDED — scientific-notation-and-significant-figures; stocked into this existing lesson, which already covers this thing | Uganda, *General Science Textbook, Senior One*, printed p. 32 |
+
+**Acceptance count unchanged: taught in 13 countries (Ethiopia, Uganda, Kenya, Iraq, Cambodia, Bhutan, India, Iran, North Macedonia, Libya, Jordan, Pakistan (Punjab), Kazakhstan).** Uganda was already counted in this lesson from its *Physics Textbook — Senior One (NCDC Prototype)*; the General Science student book above is a second Uganda book teaching this thing, not a second count for Uganda.
+
+Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum

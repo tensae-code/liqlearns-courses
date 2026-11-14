@@ -1,6 +1,6 @@
 # Sources — Saving the soil — conservation methods
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Uganda
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -71,3 +71,17 @@ Searchable tags: niue, usp reader 4, tonga soil fertility, intercropping, fallow
 **Acceptance count unchanged: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, landgræðsla, land reclamation, gravel plains, teacher guide, grade 5
+
+## Uganda growth (2026-11-13, General Science expansion)
+
+**Book (Uganda):** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. Publisher: National Curriculum Development Centre / Ministry of Education and Sports, 2020. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| prevention and control of soil erosion; mulching with dry vegetation; compost pit layering with kitchen waste, topsoil and ash (Uganda, Primary Five) | Uganda, *Home-Study Learning, Primary Five, Science*, printed pp. 18–20 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Uganda).**
+
+Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
+
+Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning

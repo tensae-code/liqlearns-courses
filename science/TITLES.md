@@ -160,7 +160,7 @@ The titles, in ladder order:
     book's social-skills opening, starting the year with the self
     before the body) — 15 lessons in CURRICULUM.md Unit 12.
 13. **Work and Heritage** — farming and making things, markets,
-    the country's heritage and culture, the great river. The General Science expansion (2026-11-13) adds Barbados's lesson — aquaculture — fish farming (aquaculture defined: the fish reared, how fish farms are created, and its advantages and disadvantages — curriculum evidence only, acceptance 0) — 23 lessons in CURRICULUM.md Unit 13.
+    the country's heritage and culture, the great river. The General Science expansion (2026-11-13) adds Barbados's lesson — aquaculture — fish farming (aquaculture defined: the fish reared, how fish farms are created, and its advantages and disadvantages — curriculum evidence only, acceptance 0) — and Uganda's two lessons — rabbit keeping (breeds and uses of rabbits, building a hutch, and care, parasites and diseases of rabbits — Uganda's own primary agriculture-science way) and keeping goats, sheep and pigs (exotic vs local breeds; diseases, signs and control — pneumonia, heartwater, African swine fever; care of the animals) — 25 lessons in CURRICULUM.md Unit 13.
 14. **Keeping Healthy** — cleanliness and the hygiene song,
     sickness from dirt, exercise and sleep, safety at home and
     on the road. The General Science expansion (2026-11-13) adds
@@ -185,8 +185,15 @@ The titles, in ladder order:
     equipment (getting to know safety equipment on piers and
     docks — Iceland's harbour-side safety way) and fireworks
     safety (learning how to handle fireworks) — both
-    teacher-guide evidence only, acceptance 0 —
-    26 lessons in CURRICULUM.md Unit 14.
+    teacher-guide evidence only, acceptance 0. The expansion
+    also adds Uganda's two lessons — diarrhoea and worm
+    infestations (diarrhoea from contaminated water and food,
+    treated at home with ORS/SSS in amounts by age; threadworm
+    and other worms, how they enter and their signs) and
+    immunisation and immunity (how vaccines make the body
+    resistant and cut child deaths; measles and the immunisation
+    table; cholera prevention; the child health card) —
+    28 lessons in CURRICULUM.md Unit 14.
 15. **Science Skills** — making instruments, running experiments,
     thinking and debating like a scientist. The General Science
     expansion (2026-11-13) adds the Cook Islands' lesson —

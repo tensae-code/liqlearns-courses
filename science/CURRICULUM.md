@@ -708,6 +708,8 @@ solar-system comparison lessons.
 21. **Work and Livelihood — Trade That Harms Nature; Ways of Travelling** (`work-and-heritage/trade-that-harms-nature-and-ways-of-travelling`) — the trade in firewood, charcoal, timber, sand and stone — and what it costs nature — plus transport: pack animals of old and the modern vehicles th…
 22. **Work and Livelihood — When Our Work Hurts Nature** (`work-and-heritage/when-our-work-hurts-nature`) — how economic activity can harm natural resources — growing demand for farmland and firewood, lacking energy alternatives, overgrazing and backward …
 23. **Aquaculture — fish farming** (`work-and-heritage/aquaculture-fish-farming`) — aquaculture defined: the fish reared, how fish farms are created, and its advantages and disadvantages — curriculum evidence only, acceptance 0 (Barbados, Class 4 — *Primary Science Syllabus, Class One–Four*, printed p. 19)
+24. **Rabbit keeping** (`work-and-heritage/rabbit-keeping`) — rabbit keeping whole: breeds and uses of rabbits, building a hutch, and care, parasites and diseases of rabbits — Uganda's own primary agriculture-science way (Uganda, Primary Four — *Home-Study Learning, Primary Four, Science*, printed pp. 35–38)
+25. **Keeping goats, sheep and pigs** (`work-and-heritage/keeping-goats-sheep-and-pigs`) — keeping goats, sheep and pigs: exotic vs local breeds; diseases, signs and control (pneumonia, heartwater, African swine fever); care of the animals (Uganda, Primary Five — *Home-Study Learning, Primary Five, Science*, printed pp. 40–45)
 
 ## Unit 14 — Keeping Healthy
 
@@ -739,6 +741,8 @@ solar-system comparison lessons.
 24. **Environmental diseases and where they come from** (`keeping-healthy/environmental-diseases-and-where-they-come-from`) — diseases whose cause lies in the surroundings themselves — the air, the water, the substances and conditions people live among — sorted from infectious diseases by where they come from (Australia, Grade 9 — *Pearson Science 9*, 8.3, printed p. 328)
 25. **Water safety and harbour safety equipment** (`keeping-healthy/water-safety-and-harbour-safety-equipment`) — getting to know safety equipment on piers and docks — Iceland's harbour-side safety way — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.5 aims, printed p. 1)
 26. **Fireworks safety** (`keeping-healthy/fireworks-safety`) — learning how to handle fireworks — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.5 aims, printed p. 1)
+27. **Diarrhoea and worm infestations** (`keeping-healthy/diarrhoea-and-worm-infestations`) — diarrhoea diseases: causes (contaminated water and food), using ORS/SSS at home with amounts by age — and worm infestations: threadworm and other worms, how they enter, signs (Uganda, Primary Four — *Home-Study Learning, Primary Four, Science*, printed pp. 23–27)
+28. **Immunisation and immunity** (`keeping-healthy/immunisation-and-immunity`) — immunity and immunisation: how vaccines make the body resistant and cut child deaths; childhood immunisable diseases (measles — virus, sores, rash; vaccine by injection in the left upper arm — and the immunisation table); cholera prevention (boiled water, covering food); the child health card (Uganda, Primary Five — *Home-Study Learning, Primary Five, Science*, printed pp. 1–8)
 
 
 ## Unit 15 — Science Skills
