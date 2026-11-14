@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -108,3 +108,19 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 **Acceptance count: taught in 13 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sounds in the environment identified and made; loud/soft and high/low; useful sounds vs nuisance sounds; the ear as the organ of hearing (Class 1) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 24 |
+
+**Acceptance count unchanged: taught in 13 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean

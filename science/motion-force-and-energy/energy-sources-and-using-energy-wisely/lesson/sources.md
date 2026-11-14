@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -161,3 +161,19 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 24 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8, grade 9
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ways solar energy is used and its importance and impact on man (Class 3) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 24 |
+
+**Acceptance count unchanged: taught in 24 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean

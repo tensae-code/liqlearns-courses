@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only)
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -133,3 +133,20 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Honesty: the Djibouti Grade 3 guide file is PARTIAL — DAMAGED (broken page tree); only the first 44 of a reported 80 pages are readable — a clean copy is library debt, as filed.
 
 Searchable tags: djibouti, sciences expérimentales, cripen, grouping animals, how animals are born, teacher guide, grade 3, partial damaged
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| diurnal and nocturnal animals compared and classified (Class 1) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 13 |
+| vertebrates and invertebrates defined and classified; the five vertebrate groups with two characteristics each (Class 4) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 13 |
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean

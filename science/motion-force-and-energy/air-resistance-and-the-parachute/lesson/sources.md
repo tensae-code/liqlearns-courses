@@ -1,6 +1,6 @@
 # Sources — Air resistance and the parachute
 
-countries: Finland (instructor-pack evidence only), Vietnam, Armenia
+countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only)
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -22,3 +22,19 @@ countries: Finland (instructor-pack evidence only), Vietnam, Armenia
 Placement choice, on the record: this NEW LESSON was built for the Finland placement "Air resistance and the parachute — falling slowly when drag balances weight" — finland-placements.md, Book 1, Lesson 4, PDF p. 13. It sits in motion-force-and-energy/, not physics/, because its content is forces in motion — weight against drag — and its register home is CURRICULUM.md Unit 20 (Motion, Force and Energy), beside the gravity and Newton's-laws lessons it builds on. The source is an instructor pack (an adult-led experiment pack with pupil sheets), so the lesson rests on instructor-pack evidence only and is counted nowhere.
 
 Searchable tags: air resistance, drag, parachute, tissue paper canopy, drag balances weight, steady fall, finland
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| friction defined; factors affecting friction; how friction is useful (Class 4) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 26 |
+
+**Acceptance count unchanged: taught in 2 countries (Vietnam, Armenia).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean

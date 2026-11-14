@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only), Mongolia
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only)
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -44,3 +44,19 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, dissolving when solids disappear into liquids, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soluble and insoluble substances; factors affecting the rate of dissolving; dissolving in food preparation (Class 3) (curriculum — evidence) (Barbados) Filed as NEW LESSON NEEDED — materials/dissolving-solids-in-water; stocked into this lesson, the existing lesson covering that thing, original slug recorded here. | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 20 |
+
+**Acceptance count unchanged: taught in 2 countries (Serbia, Mongolia).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean

@@ -569,6 +569,7 @@ solar-system comparison lessons.
 18. **Wetland plants — sedges and horsetails** (`plants/wetland-plants-sedges-and-horsetails`) — telling sedges and horsetails apart from other plant kinds, including the wintergreen horsetail relative vetrarkvíðastör with its long seed spikes — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 38)
 19. **Reproducing plants — seeds and other ways** (`plants/reproducing-plants-seeds-and-other-ways`) — the different ways to grow a new plant: from a seed, and without starting from a seed — from a bulb or a cutting — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, Module 3, printed pp. 29, 40; PARTIAL — damaged file, as filed)
 20. **Life stages of a plant** (`plants/life-stages-of-a-plant`) — the great stages of a plant's life, compared with the stages of a human life — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, printed p. 42; PARTIAL — damaged file, as filed)
+21. **Plant adaptations — to where they live** (`plants/plant-adaptations-to-where-they-live`) — plant adaptations for desert, rain forest and swampy conditions, and how adaptations assist survival — curriculum evidence only, acceptance 0 (Barbados, Classes 2–3 — *Primary Science Syllabus, Class One–Four*, printed p. 11)
 
 
 ## Unit 9 — Animals
@@ -596,6 +597,7 @@ solar-system comparison lessons.
 21. **Life cycles of plants and animals** (`animals/life-cycles-of-plants-and-animals`) — the stages a living thing passes through from beginning to adult, in Sweden's set of ten small creeping things: the four-stage road egg, larva, pupa, adult (butterfly, bumblebee, fly, mosquito, ladybird, wasp, ant; the grasshopper's stages carried exactly as printed — egg, pupa, larva, grasshopper) and the simpler roads with no pupa (earthworm: jelly, cocoon, worm; spider: egg, cocoon, spider) (Sweden, Grade 1 — *Samtalsbilder, Tio små kryp*, PDF pp. 1–20)
 22. **Snails and slugs in the grassland** (`animals/snails-and-slugs-in-the-grassland`) — grassland snails: how the brekkubobbi may have reached Iceland (with birds or people), and the measure-a-snail's-speed activity — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 29–30)
 23. **Animal teeth — and what they eat** (`animals/animal-teeth-and-what-they-eat`) — do all animals have the same teeth? Teeth and diet: an animal's teeth fit what it eats — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, printed p. 27; PARTIAL — damaged file, as filed)
+24. **Camouflage — how animals hide** (`animals/camouflage-how-animals-hide`) — camouflage defined, taught through insect examples, and why it matters for survival — curriculum evidence only, acceptance 0 (Barbados, Class 3 — *Primary Science Syllabus, Class One–Four*, printed p. 14)
 
 
 ## Unit 10 — Natural Resources
@@ -658,6 +660,7 @@ solar-system comparison lessons.
 45. **Estuaries — where river meets sea** (`our-environment/estuaries-where-river-meets-sea`) — fresh and salt water mix; the saltiness changes with the tide and with distance, and the mixing makes a rich food supply (Micronesia, Grades 6–8 — *Pacific High Island Environments*, printed p. 13)
 46. **Patch reefs** (`our-environment/patch-reefs`) — solid reef islands on the lagoon floor, growing toward the sunlight, giving shallow-water animals their hiding places (Micronesia, Grades 6–8 — *Pacific Low Island Environments*, printed p. 13)
 47. **Flood and landslide emergency plans** (`our-environment/flood-and-landslide-emergency-plans`) — making a community emergency plan for floods and landslides before the emergency comes — Costa Rica's own preparedness task (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 124)
+48. **Coral reefs — a Caribbean habitat** (`our-environment/coral-reefs-a-caribbean-habitat`) — the coral reef as habitat and ecosystem: reef organisms, its importance to the Caribbean, and how people destroy reefs — curriculum evidence only, acceptance 0 (Barbados, Class 4 — *Primary Science Syllabus, Class One–Four*, printed p. 17)
 
 
 ## Unit 12 — Family, School and Community
@@ -703,6 +706,7 @@ solar-system comparison lessons.
 20. **Tourism — the Smokeless Industry** (`work-and-heritage/tourism-the-smokeless-industry`) — tourism as an industry: what visitors come for in Ethiopia and across East Africa, what tourism earns, and what it builds.
 21. **Work and Livelihood — Trade That Harms Nature; Ways of Travelling** (`work-and-heritage/trade-that-harms-nature-and-ways-of-travelling`) — the trade in firewood, charcoal, timber, sand and stone — and what it costs nature — plus transport: pack animals of old and the modern vehicles th…
 22. **Work and Livelihood — When Our Work Hurts Nature** (`work-and-heritage/when-our-work-hurts-nature`) — how economic activity can harm natural resources — growing demand for farmland and firewood, lacking energy alternatives, overgrazing and backward …
+23. **Aquaculture — fish farming** (`work-and-heritage/aquaculture-fish-farming`) — aquaculture defined: the fish reared, how fish farms are created, and its advantages and disadvantages — curriculum evidence only, acceptance 0 (Barbados, Class 4 — *Primary Science Syllabus, Class One–Four*, printed p. 19)
 
 ## Unit 14 — Keeping Healthy
 
@@ -770,6 +774,7 @@ solar-system comparison lessons.
 30. **Science words — glossary of action verbs** (`science-skills/science-words-glossary-of-action-verbs`) — the closing glossary that defines the curriculum's action verbs (annotate, classify, compare, define, demonstrate, describe, observe) so learners know what each instruction word asks — curriculum-guide evidence only, acceptance 0 (Trinidad and Tobago, Forms 1–3 — *Secondary School Curriculum — Integrated Science, Forms One–Three*, closing glossary, printed p. 109)
 31. **Indigenous technologies — living technologies** (`science-skills/indigenous-technologies-living-technologies`) — fibre technology, food preparation and preservation, textiles and woodwork as living technologies — a living science of land, resources and culture, still practised and handed down — teacher-guide evidence only, acceptance 0 (Canada, Grades 10–12 — *Secondary Science First Peoples: Teacher Resource Guide*, Unit 10 Living Technologies, printed p. 251)
 32. **Science and industry — technology in daily life** (`science-skills/science-and-industry-technology-in-daily-life`) — technological products and their uses, and industry as science organised to make things and keep them — foods and how they are preserved among its indicators — curriculum evidence only, acceptance 0 (Ghana, Basic 2 — *Science Curriculum for Primary Schools (Basic 1–3)*, printed p. 53; Basic 5 — *Science Curriculum for Primary Schools (Basic 4–6)*, printed p. 31; Basic 7 — *Science Curriculum for Junior High Schools*, printed p. 47)
+33. **Drawing biological specimens** (`science-skills/drawing-biological-specimens`) — how to draw a specimen: a drawing is not a diagram — true proportion, magnification stated, and ruled label lines — curriculum evidence only, acceptance 0 (Barbados, Appendix B — *Primary Science Syllabus, Class One–Four*, printed p. 119)
 
 ## Unit 16 — Biology
 

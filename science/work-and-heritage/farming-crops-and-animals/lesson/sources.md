@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only)
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -147,3 +147,22 @@ Searchable tags: iceland, líf á landi, cultivated land, settlement, farming, t
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, farming crops and animals
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what agriculture is; five crops grown in the region; why agriculture matters; garden hand tools, their uses and tool safety (Class 1) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed pp. 18–19 |
+| preparing a seed-box, tray or tyre garden; transplanting seedlings and why it is necessary; cultivating crops and keeping crop records (Class 2) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 18 |
+| livestock and poultry: types of poultry, steps in rearing chickens, importance of poultry (Class 3) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 18 |
+| cattle: breeds reared in the Caribbean, the two types of cattle, products from cattle, importance to Caribbean agriculture (Class 4) (curriculum — evidence) (Barbados) | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 18 |
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean

@@ -1,6 +1,6 @@
 # Sources — Reproducing plants — seeds and other ways
 
-countries: Djibouti (teacher-guide evidence only), Mongolia
+countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only)
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -29,3 +29,19 @@ Searchable tags: reproducing plants, seeds, bulb, cutting, djibouti, sciences ex
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, reproducing plants seeds and other ways, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## Barbados growth (2026-11-13, General Science expansion)
+
+**Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ways plants are propagated; classifying crops by method of propagation; advantages of propagating without seeds (Class 3–4) (curriculum — evidence) (Barbados) Filed as NEW LESSON NEEDED — plants/seed-dispersal-how-seeds-travel; stocked into this lesson, the existing lesson covering that thing, original slug recorded here. | Barbados, *Primary Science Syllabus, Class One–Four* (curriculum/syllabus — evidence), printed p. 11 |
+
+**Acceptance count unchanged: taught in 1 country (Mongolia).**
+
+Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class One–Four* — curriculum syllabus), not added to this count.
+
+Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
+
+Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
