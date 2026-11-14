@@ -1,6 +1,6 @@
 # Sources — Plankton — the ocean's tiniest life
 
-countries: Nauru, Tuvalu
+countries: Nauru, Tuvalu, Niue
 
 **Book 1:** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 file was byte-compared against the Tuvalu record's file — same size, 14,826,178 bytes). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
 
@@ -30,3 +30,19 @@ Placement choice, on the record: Tuvalu's placement was filed as "NEW LESSON NEE
 Tuvalu’s own way — opening the ocean with its tiniest life, in the shared Pacific reader Tuvalu adopted — is itself course content, carried exactly as filed.
 
 Searchable tags: tuvalu, usp reader 2, plankton, phytoplankton, oceans tiniest life, photosynthesis oxygen, ocean food webs, years 5-6
+
+## Niue growth (2026-11-13, General Science expansion)
+
+**Book (Niue):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Niue (regional USP reader adopted by Niue). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Niue; cited under Niue as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (Reader 2 verified by download: 14,826,178 bytes, 24 PDF pages, as filed in Niue's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/niue-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Life began in the sea; phytoplankton — tiny plants seen only with microscopes — drift on currents, produce over half the world's oxygen by photosynthesis, and anchor ocean food webs (Niue, Years 5–6) | Niue, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 2 |
+
+**Acceptance count: taught in 3 countries (Nauru, Tuvalu, Niue).**
+
+Placement choice, on the record: Niue's placement was filed as "NEW LESSON NEEDED — plankton-the-oceans-tiniest-life", but this lesson already exists in the live repo — built for Nauru's identical placement in the same reader (checked at merge time) — so Niue's adoption is stocked into it here, the original filed slug recorded in this note; no new lesson was built. The teaching is stocked once per lesson, every adopting country cited, each adoption counting separately, as instructed for the shared USP readers.
+
+Niue’s own way — opening the ocean with its tiniest life, in the shared Pacific reader Niue adopted — is itself course content, carried exactly as filed.
+
+Searchable tags: niue, usp reader 2, plankton, phytoplankton, oceans tiniest life, photosynthesis oxygen, ocean food webs, years 5-6

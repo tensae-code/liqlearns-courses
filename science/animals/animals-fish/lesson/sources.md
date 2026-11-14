@@ -1,6 +1,6 @@
 # Sources — Animals — fish
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -76,3 +76,18 @@ Searchable tags: nauru, usp reader 2, pacific ocean fish, gills, swim bladder, o
 Tuvalu’s own way — fish taught from the Pacific Ocean’s own animals, in the adopted USP reader — is itself course content, carried exactly as filed.
 
 Searchable tags: tuvalu, usp reader 2, pacific ocean fish, gills, swim bladder, ocean food webs
+
+## Niue growth (2026-11-13, General Science expansion)
+
+**Book (Niue):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Niue (regional USP reader adopted by Niue). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Niue; cited under Niue as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (Reader 2 verified by download: 14,826,178 bytes, 24 PDF pages, as filed in Niue's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/niue-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animal life in the Pacific Ocean: kinds of sea animals and their groupings (Niue, Years 5–6) | Niue, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 5 |
+| All about fish: vertebrates with gills, swim bladders and fins; over 20,000 ocean species; jaws and teeth suited to their food; ocean food webs (Niue, Years 5–6) | Niue, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 5 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue).**
+
+Niue’s own way — fish taught from the Pacific Ocean’s own animals, in the adopted USP reader — is itself course content, carried exactly as filed.
+
+Searchable tags: niue, usp reader 2, pacific ocean fish, gills, swim bladder, ocean food webs

@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Nauru, Tuvalu
+countries: Ethiopia, Nauru, Tuvalu, Niue
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -54,3 +54,17 @@ Searchable tags: nauru, usp reader 4, ecological services, natural resources, tr
 Tuvalu’s own way — natural resources taught as ecological services — everything the land provides an island people — is itself course content, carried exactly as filed.
 
 Searchable tags: tuvalu, usp reader 4, ecological services, natural resources, traditional medicines
+
+## Niue growth (2026-11-13, General Science expansion)
+
+**Book (Niue):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Niue (regional USP reader adopted by Niue). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Niue; cited under Niue as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (Reader 4 verified by download: 17,577,352 bytes, 24 PDF pages, as filed in Niue's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/niue-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecological services: all the things land provides — drinking water, food, timber for building and boats, carving and tool materials, instruments, handicrafts, fuel wood, traditional medicines (Niue, Years 7–8) | Niue, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 6 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Nauru, Tuvalu, Niue).**
+
+Niue’s own way — natural resources taught as ecological services — everything Niue's own land provides, from drinking water to traditional medicines, in the adopted USP reader — is itself course content, carried exactly as filed.
+
+Searchable tags: niue, usp reader 4, ecological services, natural resources, traditional medicines

@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -124,3 +124,17 @@ Searchable tags: nauru, usp reader 2, states of coral, hard coral, soft coral, b
 Tuvalu’s own way — the states of matter taught through the book’s own framing — hard coral and soft coral as the two states of coral — is itself course content, carried exactly as filed.
 
 Searchable tags: tuvalu, usp reader 2, states of coral, hard coral, soft coral, brain coral
+
+## Niue growth (2026-11-13, General Science expansion)
+
+**Book (Niue):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Niue (regional USP reader adopted by Niue). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Niue; cited under Niue as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (Reader 2 verified by download: 14,826,178 bytes, 24 PDF pages, as filed in Niue's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/niue-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The two states of coral — hard coral builds reefs (brain coral); soft coral bends in currents; both filter and clean ocean water (the book's own 'states' framing) (Niue, Years 5–6) | Niue, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 13 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue).**
+
+Niue’s own way — the states of matter taught through hard and soft coral — the book’s own ‘states’ framing, carried as filed — in Niue’s adopted reader — is itself course content, carried exactly as filed.
+
+Searchable tags: niue, usp reader 2, states of coral, hard coral, soft coral, brain coral

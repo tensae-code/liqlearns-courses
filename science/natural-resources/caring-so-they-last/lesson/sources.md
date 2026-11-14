@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -96,3 +96,20 @@ Searchable tags: nauru, usp readers 2 and 4, overfishing, uga crab, export ban, 
 Tuvalu’s own way — caring taught through Pacific fishing practice and Niue’s uga export ban — a real conservation decision — is itself course content, carried exactly as filed.
 
 Searchable tags: tuvalu, usp readers 2 and 4, overfishing, uga crab, export ban, conservation
+
+## Niue growth (2026-11-13, General Science expansion)
+
+**Book (Niue):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Niue (regional USP reader adopted by Niue). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Niue; cited under Niue as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (Reader 2 verified by download: 14,826,178 bytes, 24 PDF pages, as filed in Niue's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/niue-placements.md.
+
+**Book (Niue):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Niue (regional USP reader adopted by Niue). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Niue; cited under Niue as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (Reader 4 verified by download: 17,577,352 bytes, 24 PDF pages, as filed in Niue's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/niue-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unsustainable fishing: overfishing, nets and anchors damaging coral, illegal killing of giant clams, sharks and turtles, explosive fishing, commercial depletion (Niue, Years 5–6) | Niue, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 18 |
+| Over-harvesting the uga: about 10,000 exported in bags in 2014, decline, and Niue's 2015 export ban — a Pacific conservation decision (Niue, Years 7–8) | Niue, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 13 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue).**
+
+Niue’s own way — caring taught through Pacific fishing practice and Niue’s own uga export ban of 2015 — Niue's own conservation decision, in its own adopted readers — is itself course content, carried exactly as filed.
+
+Searchable tags: niue, usp readers 2 and 4, overfishing, uga crab, export ban, conservation
