@@ -1,6 +1,6 @@
 # Sources — GPS and Digital Maps
 
-countries: Ethiopia, Sudan, Indonesia
+countries: Ethiopia, Sudan, Indonesia, Malaysia
 
 **Book 1:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል — Environmental Science Student Textbook, Grade 5* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md
 
@@ -54,3 +54,17 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, location-and-maps gps-and-digital-maps
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 5"; Grade 11 (Tingkatan 5); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Tho Lai Hoong, Thum Lai Chun); 2020; ISBN 978-983-77-1851-7. PDF: 268 pages, 111,255,620 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 4, 5, 6 (Chemistry), Bab 7 (Physics) and Bab 8 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3 and 9 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| GPS, the Global Positioning System: its control segment (master control stations, antennas, monitoring stations) relaying satellite signals — filed as NEW LESSON NEEDED — gps-how-satellites-tell-you-where-you-are; stocked into this lesson, which already covers the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 243 |
+| using GPS coordinates (degrees, minutes, seconds) with Google Maps and Waze screenshots; recording coordinates of five locations (activity) — filed as NEW LESSON NEEDED — gps-how-satellites-tell-you-where-you-are; stocked into this lesson, which already covers the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 246 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Indonesia, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, location-and-maps gps-and-digital-maps

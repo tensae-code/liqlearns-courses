@@ -1,6 +1,6 @@
 # Sources — The branches of science
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia (teacher-guide evidence only), Egypt, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Dominican Republic, Laos (teacher-guide evidence only), Indonesia, Vietnam
+countries: Ethiopia, Costa Rica, Uganda, Armenia (teacher-guide evidence only), Egypt, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Dominican Republic, Laos (teacher-guide evidence only), Indonesia, Vietnam, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -202,3 +202,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills the-branches-of-science
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 7 (Form 1)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 1"; Grade 7 (Tingkatan 1 / Form 1); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2016; ISBN 978-967-10679-1-8. PDF: 299 pages, 162,218,809 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index) + answers/glossary from 278; printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-07/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: this is a combined book whose Bab 2, 3, 4 (Biology), Bab 5, 6 (Chemistry) and Bab 8 (Physics) are pure split-subject chapters — each gets ONE chapter line below naming it as already covered by the earlier waves, with no item placements. General chapters (Bab 1, 7 in part, 9) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fields of science and science careers, and the school subjects each career needs (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 6 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Uganda, Egypt, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Dominican Republic, Indonesia, Vietnam, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills the-branches-of-science

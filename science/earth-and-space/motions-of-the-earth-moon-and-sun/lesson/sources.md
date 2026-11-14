@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -238,3 +238,24 @@ Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space motions-of-the-earth-moon-and-sun
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth has two motions at once: it rotates on its axis while revolving in its orbit around the Sun (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 160 |
+| build an Earth simulation model from a used box, screws and two polystyrene balls of different sizes (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 166 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon rotates on its axis while revolving around the Earth (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 201 |
+
+**Acceptance count: taught in 16 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space motions-of-the-earth-moon-and-sun

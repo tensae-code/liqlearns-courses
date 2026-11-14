@@ -1,6 +1,6 @@
 # Sources — How animals breathe — lungs, gills, skin and surface
 
-countries: Bulgaria, Mauritania, Kuwait, North Macedonia, Nicaragua
+countries: Bulgaria, Mauritania, Kuwait, North Macedonia, Nicaragua, Malaysia
 
 **Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
 
@@ -78,3 +78,17 @@ Placement choice, on the record: the Nicaragua placement(s) above filed as NEW L
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals how-animals-breathe-lungs-gills-skin-and-surface
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animal breathing organs: land animals breathe with lungs (cow), insects with spiracles (grasshopper), water animals with gills (fish), worms through moist skin — filed as NEW LESSON NEEDED — how-animals-breathe-lungs-gills-skin-and-spiracles; stocked into this lesson, which already covers the thing (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 54 |
+
+**Acceptance count: taught in 6 countries (Bulgaria, Mauritania, Kuwait, North Macedonia, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals how-animals-breathe-lungs-gills-skin-and-surface

@@ -1,6 +1,6 @@
 # Sources — Time measurement and the calendar
 
-countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic
+countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic, Malaysia
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -93,3 +93,17 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, time measurement and the calendar
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the lunar calendar (Takwim Qamari) built from the Moon's phases, with a ball-and-lamp modelling activity (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 206 |
+
+**Acceptance count: taught in 5 countries (Uzbekistan, Kazakhstan, Afghanistan, Dominican Republic, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space time-measurement-and-the-calendar

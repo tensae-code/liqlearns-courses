@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -548,3 +548,19 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space rotation-revolution-day-night-and-seasons
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| direction and period: rotation is west to east (anticlockwise) taking 24 hours / 1 day; revolution follows its orbit anticlockwise taking 1 year / 365¼ days (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 161 |
+| effects of rotation: day and night, the Sun appearing to change position, and changing shadow length and direction (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 163 |
+| globe-and-torch activity marking Malaysia and Canada in clay to watch day and night as the globe turns anticlockwise (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 164 |
+
+**Acceptance count: taught in 31 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space rotation-revolution-day-night-and-seasons

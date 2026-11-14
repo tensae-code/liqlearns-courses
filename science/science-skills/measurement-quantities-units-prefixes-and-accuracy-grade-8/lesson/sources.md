@@ -1,6 +1,6 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia, Fiji
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia, Fiji, Malaysia
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -132,3 +132,18 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, scie
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, science-skills measurement-quantities-units-prefixes-and-accuracy-grade-8
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 7 (Form 1)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 1"; Grade 7 (Tingkatan 1 / Form 1); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2016; ISBN 978-967-10679-1-8. PDF: 299 pages, 162,218,809 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index) + answers/glossary from 278; printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-07/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: this is a combined book whose Bab 2, 3, 4 (Biology), Bab 5, 6 (Chemistry) and Bab 8 (Physics) are pure split-subject chapters — each gets ONE chapter line below naming it as already covered by the earlier waves, with no item placements. General chapters (Bab 1, 7 in part, 9) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| physical quantities and their SI units (length, mass, time, temperature, electric current) with prefixes (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 15 |
+| Bab 1 "Praktis Sumatif 1" summative practice on units, measurement and density (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 41 |
+
+**Acceptance count: taught in 8 countries (Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia, Fiji, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills measurement-quantities-units-prefixes-and-accuracy-grade-8

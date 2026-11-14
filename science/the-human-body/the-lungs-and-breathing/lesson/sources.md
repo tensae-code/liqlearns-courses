@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -531,3 +531,26 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-h
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, the-human-body the-lungs-and-breathing
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| human breathing organs labelled: nose, trachea, lungs (left lung smaller because the heart sits on the left) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 24 |
+| clay-model activity: build and label the nose, trachea and lungs (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 25 |
+| the breathing process told as an air journey: air enters the nose, travels down the trachea both ways, gas exchange in the lungs (oxygen in, carbon dioxide out) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 26 |
+| inhaling and exhaling pathways drawn as flow diagrams (nose → trachea → lungs; lungs → trachea → nose) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 28 |
+| inhaled air holds more oxygen, exhaled air more carbon dioxide; air also contains nitrogen, other gases and water vapour (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 29 |
+| chest movement while breathing: chest rises when inhaling, falls when exhaling, tested with a book resting on a partner's chest (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 31 |
+| breathing rate defined as chest rises/falls per minute and measured after slow walking, running on the spot and star jumps: the more vigorous the activity, the higher the rate (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 33 |
+| situations that affect breathing (open burning, green parks, crowds, cigarette smoke, haze) and how to keep lungs healthy, in a jigsaw group activity (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 35 |
+| build a working lung model from a plastic bottle, straws, balloons, tape and clay (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 49 |
+| Unit 2 summary (17 numbered points) and "Uji Minda" review questions (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 50 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, the-human-body the-lungs-and-breathing

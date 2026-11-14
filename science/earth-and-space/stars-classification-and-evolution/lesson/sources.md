@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -165,3 +165,18 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space stars-classification-and-evolution
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 8 (Form 2)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 2"; Grade 8 (Tingkatan 2 / Form 2); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2017; ISBN 978-967-14472-6-0. PDF: 296 pages, 75,708,049 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-08/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 6 (Chemistry), Bab 7, 8, 9, 10 (Physics) and the digestive-system sections of Bab 3 (Biology) are pure split-subject material — chapter lines only. General chapters placed in full: Bab 1, 2, 4, 11, 12, 13, Bab 3's nutrition parts and Bab 5's water-treatment part. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how stars form and die, and how stars differ from one another (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 243 |
+| Bab 11 "Latihan Sumatif 11" questions on stars and galaxies (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 249 |
+
+**Acceptance count: taught in 12 countries (Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab, Bangladesh, Saudi Arabia, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space stars-classification-and-evolution

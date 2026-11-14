@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Yemen, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -510,3 +510,27 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-h
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, the-human-body the-skeleton-frame-joints-and-fractures
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "X-ray card" craft: animal skeletons drawn in white on black card to show the backbone (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 64 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the human skeleton system and its functions: support, shape, protection of internal organs, movement with muscles (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 20 |
+| positions of the joints in the skeleton labelled on a diagram (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 22 |
+| joint functions joint by joint: neck joint turns the head, knee and hip joints move the legs, elbow and shoulder joints move the arms (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 23 |
+| importance of the skeleton system in everyday situations (standing, sitting, carrying) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 25 |
+| Unit 2 summary and "Asah Minda" questions on skeleton functions, joints and circulation importance (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 45 |
+
+**Acceptance count: taught in 31 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab, Bangladesh, Yemen, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, the-human-body the-skeleton-frame-joints-and-fractures

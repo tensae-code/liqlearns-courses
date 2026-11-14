@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -590,3 +590,19 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space the-moon-earths-natural-satellite-and-its-phases
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon is Earth's natural satellite and the brightest object easily seen in the night sky (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 199 |
+| phases of the Moon: the lit half seen from Earth changes through the month (new, crescent, half, gibbous, full) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 204 |
+| Unit 9 summary and "Asah Minda" questions (including a radio-report passage on moonlight) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 215 |
+
+**Acceptance count: taught in 32 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space the-moon-earths-natural-satellite-and-its-phases

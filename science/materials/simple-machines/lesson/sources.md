@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -481,3 +481,30 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, materials simple-machines
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the lever: a screwdriver prising a paint-tin lid, with its three parts named — load (lid), fulcrum (driver tip on the tin) and effort (hand) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 170 |
+| station activity: pupils label load, fulcrum and effort on tongs, scissors, a stapler and a feather duster (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 171 |
+| fulcrum position matters, told as two youths moving a boulder with a log: moving the small stone (fulcrum) closer to the boulder makes lifting easier (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 172 |
+| ruler-and-block experiment: the nearer the fulcrum to the load, the less effort needed to lift it (fulcrum at 25, 20 and 15 cm compared) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 173 |
+| the seven simple machines met around the school, each defined with an example: wheel and axle (door knob), lever (broom), screw (bottle cap), gear (clock), pulley (window blind), inclined plane (steps), wedge (knife, door stopper) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 174 |
+| simple machines solve problems: loading a lorry with an inclined plank plus a trolley (wheel and axle) — combining machines makes work easier and faster (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 177 |
+| build a robot hand (lever machine) from ice-cream sticks, straws and bottle caps (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 183 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| machines help make work easier in daily life (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 218 |
+| Unit 10 summary ("machines make daily work easier") and "Asah Minda" questions (lifting parcels with combined machines) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 229 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials simple-machines

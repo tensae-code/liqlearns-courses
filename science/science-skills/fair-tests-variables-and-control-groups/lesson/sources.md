@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -270,3 +270,25 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, scien
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, science-skills fair-tests-variables-and-control-groups
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| defining operationally: "ability of a material to absorb water" defined as the volume of water left in the beaker; mung-bean growth defined by leaf count and height (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 10 |
+| controlling variables in the two-plant watering story: manipulated, responding and constant variables named; the unfair test spotted (one plant in a cupboard, no sunlight) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 12 |
+| "Far and Near" toy-car investigation: pupils list all variables involved, then choose which to manipulate, hold constant and observe (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 14 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| full investigation: does rubber-band stretch length change a paper plane's flight distance (10/20/30 cm pulls), with manipulated/responding/constant variables identified (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 6 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa, Seychelles, China, North Macedonia, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills fair-tests-variables-and-control-groups

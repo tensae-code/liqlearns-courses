@@ -1,6 +1,6 @@
 # Sources — Experiment 2.1: saliva and the starch test
 
-countries: Ethiopia, Cook Islands, Seychelles, Fiji
+countries: Ethiopia, Cook Islands, Seychelles, Fiji, Malaysia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -40,3 +40,17 @@ Searchable tags: saliva experiment, Experiment 2.1, starch test iodine, digestio
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body experiment-saliva-and-the-starch-test
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS RUMAH TANGGA TINGKATAN 4"; Grade 10 (Tingkatan 4); student book (elective Home Science, formerly Ekonomi Rumah Tangga) Publisher: Utusan Publications & Distributors Sdn. Bhd. for Kementerian Pendidikan Malaysia; first printing 2016; ISBN 978-967-61-2758-7. PDF: 272 pages, 44,395,892 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-10/gov/malaysia/sains-rumah-tangga/student/full-year.pdf) is the same book, cited once here. No DLP twin exists among the targets. Verdict: PARTIAL (science part) — this is a specialised home-science book. Four of its five chapters (Bab 1 Kerja Sepasukan/teamwork, Bab 2 Pengurusan Sumber Keluarga/family resource management, Bab 3 Pakaian dan Jahitan/clothing and sewing, Bab 5 Perniagaan dan Keusahawanan/business) are not general science and are record-only. Only Bab 4 Makanan dan Pemakanan (Food and Nutrition) is science; it is placed below, with its digestion section as a Biology chapter line. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food tests: Millon's test for protein and Benedict's test for glucose, with procedures (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Rumah Tangga Tingkatan 4*, printed p. 165 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cook Islands, Seychelles, Fiji, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, the-human-body experiment-saliva-and-the-starch-test

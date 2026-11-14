@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam, Malaysia
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -319,3 +319,22 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, soil-and-water treating-water-to-make-it-safe-filtering-and-settling
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 8 (Form 2)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 2"; Grade 8 (Tingkatan 2 / Form 2); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2017; ISBN 978-967-14472-6-0. PDF: 296 pages, 75,708,049 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-08/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 6 (Chemistry), Bab 7, 8, 9, 10 (Physics) and the digestive-system sections of Bab 3 (Biology) are pure split-subject material — chapter lines only. General chapters placed in full: Bab 1, 2, 4, 11, 12, 13, Bab 3's nutrition parts and Bab 5's water-treatment part. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water purification and supply: how raw water is treated and supplied safely (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 113 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 5"; Grade 11 (Tingkatan 5); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Tho Lai Hoong, Thum Lai Chun); 2020; ISBN 978-983-77-1851-7. PDF: 268 pages, 111,255,620 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 4, 5, 6 (Chemistry), Bab 7 (Physics) and Bab 8 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3 and 9 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| treating polluted water with effective microorganisms (EM): making EM mud balls from soil and EM bokashi to clean a pond or drain (Activity 3.6) — filed under our-environment/water-treatment-making-water-safe; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 104 |
+
+**Acceptance count: taught in 16 countries (India, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Bangladesh, Yemen, Vietnam, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, soil-and-water treating-water-to-make-it-safe-filtering-and-settling

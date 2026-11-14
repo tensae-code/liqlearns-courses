@@ -1,6 +1,6 @@
 # Sources — Musical instruments as physics
 
-countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh, Fiji (teacher-guide evidence only), Malaysia
 
 **Book 1:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press. Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2. Grade: SS2 (Grade 11) · Teacher's guide · Repo path: grade-11/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,350,466 (Contents API meta = downloaded) · PDF pages: 80 · Offset: guide printed p. 1 ≈ PDF p. 11. Verdict: COMPLETE as published — Introduction and scheme of work, then Themes 1, 2, 3, 5 and 6; Theme 4 is expressly not included per the NERDC curriculum for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
@@ -91,3 +91,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, sound musical-instruments
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, sound musical-instruments-as-physics
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| build a musical instrument from recycled materials (cardboard guitar with rubber-band strings) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 121 |
+
+**Acceptance count: taught in 4 countries (China, Sri Lanka, Bangladesh, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, sound musical-instruments-as-physics

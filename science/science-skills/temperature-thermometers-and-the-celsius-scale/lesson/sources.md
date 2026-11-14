@@ -1,6 +1,6 @@
 # Sources — Measuring: temperature, thermometers and the Celsius scale
 
-countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -380,3 +380,26 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, scien
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, science-skills temperature-thermometers-and-the-celsius-scale
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the thermometer: its liquid expands when warm and contracts when cool, so the level rises and falls (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 147 |
+| reading a thermometer correctly: eye level with the meniscus, with wrong-eye-position diagrams (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 148 |
+| measuring the temperature of tap, hot and cold water with correct technique and comparing bar charts between groups (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 149 |
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 4"; Grade 10 (Tingkatan 4); student book. Publisher: Odonata Publishing Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Noraini binti Abdullah, Nor Mazliana binti Abdul Hashim, Mohammad Amirul bin Adnan, Shamsulikram bin Abdul Hamid); 2019 (the Malay scan's ISBN page is image-only; the DLP twin below carries ISBN 978-967-2088-73-8) PDF: 293 pages, 83,054,622 bytes — the Malay PDF is IMAGE-ONLY (no text layer). Reading method: the book's content was read in full from its DLP English twin (MY-F4-DLP below, which has a complete text layer), and the Malay edition's own front matter and introduction were verified from page images: same writers, same publisher and year, same four themes (1 Kaedah Saintifik, 2 Penyenggaraan dan Kesinambungan Hidup, 3 Penerokaan Unsur dalam Alam, 4 Tenaga dan Kelestarian Hidup) at the same printed pagination as the twin's contents. Records: TSV release copy read (via the twin as described); the books.json record for the same title (grade-10/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. Scope note: Bab 5, 6, 7 (Biology), Bab 8, 9 (Chemistry) and Bab 11 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3, 4, 10 and 12 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| body temperature: types of thermometer (clinical 35–42 °C, rectal), measuring technique, and accuracy compared (clinical 0.1 °C vs laboratory 1 °C) — filed under the-human-body/measuring-body-temperature; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 34 |
+| Bab 3 summary chart (temperature, pulse rate, blood pressure, BMI) and "Praktis Sumatif 3" — filed under the-human-body/measuring-body-temperature; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 45 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills temperature-thermometers-and-the-celsius-scale

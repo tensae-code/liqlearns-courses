@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -324,3 +324,19 @@ Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-sp
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space inside-the-earth-crust-mantle-core
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 7 (Form 1)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 1"; Grade 7 (Tingkatan 1 / Form 1); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2016; ISBN 978-967-10679-1-8. PDF: 299 pages, 162,218,809 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index) + answers/glossary from 278; printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-07/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: this is a combined book whose Bab 2, 3, 4 (Biology), Bab 5, 6 (Chemistry) and Bab 8 (Physics) are pure split-subject chapters — each gets ONE chapter line below naming it as already covered by the earlier waves, with no item placements. General chapters (Bab 1, 7 in part, 9) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's layers by composition and by physical property: crust, mantle (lithosphere, asthenosphere, mesosphere) and core, and why only Earth supports life (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 258 |
+| build a model of Earth's structure (modelling activity 9.2) (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 260 |
+| Bab 9 "Praktis Sumatif 9" questions on Earth structure and resources (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 275 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space inside-the-earth-crust-mantle-core

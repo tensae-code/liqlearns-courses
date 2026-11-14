@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua, Malaysia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -411,3 +411,17 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, light sources-of-light
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| moonlight: the Moon does not make its own light; it reflects sunlight (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 200 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Guyana, United States, Pakistan (Punjab, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, light sources-of-light

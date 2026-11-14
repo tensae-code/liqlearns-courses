@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -484,3 +484,28 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-h
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, the-human-body the-heart
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the blood circulation system: main parts are the heart (cross-section shown), blood vessels, blood and lungs; blood carries oxygen, nutrients, water and waste such as carbon dioxide (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 28 |
+| blood vessels as tubes carrying blood all over the body; the lungs as the place where oxygen and carbon dioxide are exchanged (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 29 |
+| the circulation pathway: oxygen-rich blood pumped from the heart to the body, carbon-dioxide-rich blood returning to the heart and lungs, the loop repeating with every breath (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 30 |
+| craft activity: draw and build the circulation pathway with printed organ pictures and red/blue drinking straws for vessels (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 32 |
+| importance of the circulation system: delivers oxygen, nutrients and water; removes carbon dioxide and other waste (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 33 |
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 4"; Grade 10 (Tingkatan 4); student book. Publisher: Odonata Publishing Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Noraini binti Abdullah, Nor Mazliana binti Abdul Hashim, Mohammad Amirul bin Adnan, Shamsulikram bin Abdul Hamid); 2019 (the Malay scan's ISBN page is image-only; the DLP twin below carries ISBN 978-967-2088-73-8) PDF: 293 pages, 83,054,622 bytes — the Malay PDF is IMAGE-ONLY (no text layer). Reading method: the book's content was read in full from its DLP English twin (MY-F4-DLP below, which has a complete text layer), and the Malay edition's own front matter and introduction were verified from page images: same writers, same publisher and year, same four themes (1 Kaedah Saintifik, 2 Penyenggaraan dan Kesinambungan Hidup, 3 Penerokaan Unsur dalam Alam, 4 Tenaga dan Kelestarian Hidup) at the same printed pagination as the twin's contents. Records: TSV release copy read (via the twin as described); the books.json record for the same title (grade-10/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. Scope note: Bab 5, 6, 7 (Biology), Bab 8, 9 (Chemistry) and Bab 11 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3, 4, 10 and 12 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pulse rate: pulse points, and a full experiment on whether pulse rate differs by gender (problem statement, hypothesis, variables) — filed under the-human-body/the-circulatory-system-and-the-heart; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 37 |
+| blood pressure: what it is (pressure of blood on vessel walls), measured with a sphygmomanometer; regular readings as a health check — filed under the-human-body/the-circulatory-system-and-the-heart; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 41 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, the-human-body the-heart

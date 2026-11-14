@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -491,3 +491,24 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-e
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment pollution-and-its-four-kinds
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS TAMBAHAN TINGKATAN 4"; Grade 10 (Tingkatan 4); student book (elective Additional Science) Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2019; ISBN 978-967-2212-52-2. PDF: 210 pages, 31,147,222 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 196 (index); printed page = PDF page − 12. Records: TSV release copy read; the books.json record for the same title (grade-10/gov/malaysia/sains-tambahan/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: this elective book is mostly split-subject — Bab 1 (Biology), Bab 3, 4, 5, 6 (Chemistry) and Bab 7, 8 (Physics) get chapter lines only. Its general chapter, Bab 2 (dynamic ecosystems), is placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| threats to the ecosystem (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tambahan Tingkatan 4*, printed p. 38 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 5"; Grade 11 (Tingkatan 5); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Tho Lai Hoong, Thum Lai Chun); 2020; ISBN 978-983-77-1851-7. PDF: 268 pages, 111,255,620 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 4, 5, 6 (Chemistry), Bab 7 (Physics) and Bab 8 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3 and 9 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| microplastics moving up a marine food chain (plankton → bivalves → fish larvae → humans, turtles, marine mammals), with a STEM project on managing plastic waste (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 98 |
+| measuring pollution levels: the Air Pollution Index (IPU) for air and Biochemical Oxygen Demand (BOD) for water polluted by domestic waste — filed under our-environment/water-treatment-making-water-safe; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 101 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment pollution-and-its-four-kinds

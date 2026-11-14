@@ -456,3 +456,20 @@ Placement choice, on the record: the Saudi Arabia placement(s) above filed as "N
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, motion-force-and-energy force-gravity-weight-and-the-newton-meter
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's gravity introduced: everything thrown up falls back because Earth pulls all objects towards its centre; "graviti" from the Latin for weight (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 156 |
+| dropping a plastic ball from a chair, from the side and tossed up and backwards: it always moves downwards (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 157 |
+| paper models stuck on a globe stay in place all over it, showing gravity holds objects on Earth wherever they are (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 158 |
+| why gravity matters: without it everything (girl, cat, toys) would float in the air (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 159 |
+
+**Acceptance count unchanged: taught in 30 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, India, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia).** Malaysia was already counted in this lesson from its Physics-wave books; the rows above add its General Science *Sains* books, cited once per book.
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and-energy force-gravity-weight-and-the-newton-meter

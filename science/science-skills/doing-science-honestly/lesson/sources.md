@@ -1,6 +1,6 @@
 # Sources — Doing science honestly — ethics and Ethiopian scientists
 
-countries: Ethiopia, Laos, Australia, Costa Rica, Armenia (teacher-guide evidence only), Venezuela, Indonesia (teacher-guide evidence only), Bangladesh, Nicaragua
+countries: Ethiopia, Laos, Australia, Costa Rica, Armenia (teacher-guide evidence only), Venezuela, Indonesia (teacher-guide evidence only), Bangladesh, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -140,3 +140,42 @@ Searchable tags: bangladesh, bangladesh science, nctb, science-skills doing-scie
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, science-skills doing-science-honestly
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jawapan dan Rujukan: printed model answers for every unit's "Uji Minda" and the higher-order (KBAT) questions, pp. 185–186 (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 185 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jawapan dan Rujukan: printed model answers for every unit's review and higher-order questions, pp. 231–234 (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 231 |
+
+**Book (Malaysia — Grade 7 (Form 1)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 1"; Grade 7 (Tingkatan 1 / Form 1); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2016; ISBN 978-967-10679-1-8. PDF: 299 pages, 162,218,809 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index) + answers/glossary from 278; printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-07/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: this is a combined book whose Bab 2, 3, 4 (Biology), Bab 5, 6 (Chemistry) and Bab 8 (Physics) are pure split-subject chapters — each gets ONE chapter line below naming it as already covered by the earlier waves, with no item placements. General chapters (Bab 1, 7 in part, 9) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| scientific attitudes and noble values when investigating (honesty in recording, responsibility, cooperation) (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 37 |
+| Jawapan: printed model answers for the summative practices, pp. 278–283, with glossary pp. 284–287 (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 278 |
+
+**Book (Malaysia — Grade 8 (Form 2)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 2"; Grade 8 (Tingkatan 2 / Form 2); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2017; ISBN 978-967-14472-6-0. PDF: 296 pages, 75,708,049 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-08/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 6 (Chemistry), Bab 7, 8, 9, 10 (Physics) and the digestive-system sections of Bab 3 (Biology) are pure split-subject material — chapter lines only. General chapters placed in full: Bab 1, 2, 4, 11, 12, 13, Bab 3's nutrition parts and Bab 5's water-treatment part. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jawapan: printed model answers, pp. 277–283, with glossary pp. 284–287 (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 277 |
+
+**Book (Malaysia — Grade 9 (Form 3)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 3"; Grade 9 (Tingkatan 3 / Form 3); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (KPM); first printing 2018; ISBN 978-983-77-0393-3. PDF: 300 pages, 161,476,750 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-09/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 1, 2, 3 (Biology), Bab 4, 5 (Chemistry) and Bab 6, 7, 8 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 9, 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jawapan: printed model answers, pp. 284–287 (Malaysia, Grade 9 (Form 3)) | Malaysia, *Sains Tingkatan 3*, printed p. 284 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Australia, Costa Rica, Bangladesh, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills doing-science-honestly

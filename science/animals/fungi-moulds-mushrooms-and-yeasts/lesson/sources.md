@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -199,3 +199,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, anima
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals fungi-moulds-mushrooms-and-yeasts
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 5"; Grade 11 (Tingkatan 5); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Tho Lai Hoong, Thum Lai Chun); 2020; ISBN 978-983-77-1851-7. PDF: 268 pages, 111,255,620 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 4, 5, 6 (Chemistry), Bab 7 (Physics) and Bab 8 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3 and 9 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fungi seen up close: mushroom, yeast under the electron microscope, and Mucor — a microscopic fungus whose bread colony is visible to the naked eye — filed under the-human-body/our-senses-and-how-they-work; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 6 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS RUMAH TANGGA TINGKATAN 5"; Grade 11 (Tingkatan 5); student book (elective Home Science, Mata Pelajaran Elektif Ikhtisas) Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Abdul Hisham bin Udin, Siti Farahliza binti Mohamed Isa); first printing 2017; ISBN 978-967-0520-89-6. PDF: 300 pages, 131,655,024 bytes; scan with an OCR text layer (read from the full extracted text, page by page; the inherited extract stopped at PDF page 261 and the tail, PDF pp. 262–300, was re-extracted from the PDF by this reader); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains-rumah-tangga/student/full-year.pdf) is the same book, cited once here. No DLP twin exists among the targets. Verdict: PARTIAL (science part) — this Form 5 volume is a hospitality-and-catering book. Bab 3 Peralatan Penyediaan dan Penyajian Makanan (kitchen equipment, cutlery, table settings, printed pp. 76–105) and the recipe, costing and food-business project material inside Bab 4 are not general science and are record-only. The science parts — Bab 1 (workplace safety), Bab 2 (food sanitation) and the food-science parts of Bab 4 (cooking principles, food groups) — are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| yeast at work in bread and yeasted dishes: the ingredients of bread (flour, yeast, liquid, salt, sugar), lean and rich doughs, and the seven basic steps of bread making (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Rumah Tangga Tingkatan 5*, printed p. 239 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Sweden, Uganda, Moldova, Pakistan (Punjab, Samoa, Kuwait, Yemen, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals fungi-moulds-mushrooms-and-yeasts

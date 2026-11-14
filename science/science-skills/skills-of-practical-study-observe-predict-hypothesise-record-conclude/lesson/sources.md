@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia (teacher-guide evidence only), Fiji, Saudi Arabia, Vietnam, Nicaragua
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia (teacher-guide evidence only), Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -543,3 +543,26 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, scien
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the twelve science process skills introduced through a recycling story (observing, classifying, measuring, inferring, predicting, communicating) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 2 |
+| using space-and-time relationships: describing how a parameter (shape, size) changes with time, melting ice lolly at 10 and 20 minutes (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 6 |
+| Unit 1 "Uji Minda" review questions (observation/inference/prediction on a pencil in water; variables and hypothesis from a guitar-string pitch table) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 22 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the science process skills revisited through a paper-aeroplane contest: pointed nose to reduce air resistance, wing size, paper size and thickness as design choices (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 2 |
+| Unit 1 "Imbas Kembali" summary and "Asah Minda" questions (including a chemical-properties investigation and a planet-position question) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 15 |
+
+**Acceptance count: taught in 24 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa, Ecuador, Venezuela, Bhutan, China, Syria, Laos, North Macedonia, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude

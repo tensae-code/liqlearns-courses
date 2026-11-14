@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -365,3 +365,17 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keepi
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy food-how-food-gets-spoiled
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS RUMAH TANGGA TINGKATAN 5"; Grade 11 (Tingkatan 5); student book (elective Home Science, Mata Pelajaran Elektif Ikhtisas) Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Abdul Hisham bin Udin, Siti Farahliza binti Mohamed Isa); first printing 2017; ISBN 978-967-0520-89-6. PDF: 300 pages, 131,655,024 bytes; scan with an OCR text layer (read from the full extracted text, page by page; the inherited extract stopped at PDF page 261 and the tail, PDF pp. 262–300, was re-extracted from the PDF by this reader); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains-rumah-tangga/student/full-year.pdf) is the same book, cited once here. No DLP twin exists among the targets. Verdict: PARTIAL (science part) — this Form 5 volume is a hospitality-and-catering book. Bab 3 Peralatan Penyediaan dan Penyajian Makanan (kitchen equipment, cutlery, table settings, printed pp. 76–105) and the recipe, costing and food-business project material inside Bab 4 are not general science and are record-only. The science parts — Bab 1 (workplace safety), Bab 2 (food sanitation) and the food-science parts of Bab 4 (cooking principles, food groups) — are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how spoiled food shows itself: changes in colour, taste, smell, appearance and texture (mouldy bread, curdled sour milk, bruised dry chicken), and enzyme action speeding the change (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Rumah Tangga Tingkatan 5*, printed p. 66 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Pakistan (Punjab, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, keeping-healthy food-how-food-gets-spoiled

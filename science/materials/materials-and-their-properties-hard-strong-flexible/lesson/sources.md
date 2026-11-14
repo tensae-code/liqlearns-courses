@@ -1,6 +1,6 @@
 # Sources — Materials and their properties — hard, strong, flexible
 
-countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Sudan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
+countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Sudan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -392,3 +392,18 @@ Searchable tags: yemen, yemen science, ministry of education yemen, materials ma
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials materials-and-their-properties-hard-strong-flexible
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| property stations (1): which materials absorb water — dripping water on balloon, tissue, stone, cotton, plastic, leather, polystyrene, glass (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 145 |
+| property stations (6): elasticity — stretching a balloon, leather strap, rubber band and spring and seeing which return to their original shape (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 150 |
+
+**Acceptance count: taught in 22 countries (Finland, Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Yemen, Saudi Arabia, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials materials-and-their-properties-hard-strong-flexible

@@ -1,6 +1,6 @@
 # Sources — The aurora — how northern lights form
 
-countries: Finland (teacher-training evidence only), Indonesia
+countries: Finland (teacher-training evidence only), Indonesia, Malaysia
 
 **Book 1:** *Pieniä digiprojekteja yläkouluun (Small digital projects for lower secondary school)* (teacher-training project booklet — recorded student; in substance a teacher-training booklet) — Finland, Grade 7, Helka Huusko, produced for a teacher pedagogical digital-skills course. Repo path: grade-07/gov/finland/physics/student/finland-g07-aoe2077-digi-ideoita-ylakoulun-matemaattisiin-aineisiin.pdf. Bytes: 3,246,500 (exact match). PDF pages: 21. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 21 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -33,3 +33,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space the-aurora-how-northern-lights-form
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 9 (Form 3)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 3"; Grade 9 (Tingkatan 3 / Form 3); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (KPM); first printing 2018; ISBN 978-983-77-0393-3. PDF: 300 pages, 161,476,750 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-09/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 1, 2, 3 (Biology), Bab 4, 5 (Chemistry) and Bab 6, 7, 8 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 9, 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| auroras as a visible effect of space weather (Malaysia, Grade 9 (Form 3)) | Malaysia, *Sains Tingkatan 3*, printed p. 265 |
+
+**Acceptance count: taught in 2 countries (Indonesia, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space the-aurora-how-northern-lights-form

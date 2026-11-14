@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -586,3 +586,24 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keepi
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy accidents-and-staying-safe
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| careless handling of electrical appliances and its dangers (wet hands, damaged wires, overloaded sockets) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 135 |
+| handling electrical appliances safely: one plug per socket, dry hands, switching off after use (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 137 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS RUMAH TANGGA TINGKATAN 5"; Grade 11 (Tingkatan 5); student book (elective Home Science, Mata Pelajaran Elektif Ikhtisas) Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Abdul Hisham bin Udin, Siti Farahliza binti Mohamed Isa); first printing 2017; ISBN 978-967-0520-89-6. PDF: 300 pages, 131,655,024 bytes; scan with an OCR text layer (read from the full extracted text, page by page; the inherited extract stopped at PDF page 261 and the tail, PDF pp. 262–300, was re-extracted from the PDF by this reader); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains-rumah-tangga/student/full-year.pdf) is the same book, cited once here. No DLP twin exists among the targets. Verdict: PARTIAL (science part) — this Form 5 volume is a hospitality-and-catering book. Bab 3 Peralatan Penyediaan dan Penyajian Makanan (kitchen equipment, cutlery, table settings, printed pp. 76–105) and the recipe, costing and food-business project material inside Bab 4 are not general science and are record-only. The science parts — Bab 1 (workplace safety), Bab 2 (food sanitation) and the food-science parts of Bab 4 (cooking principles, food groups) — are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safety and health at work under the Occupational Safety and Health Act 1994 (Akta 514): employer and worker responsibilities, and the visible and hidden costs of ignoring safety procedures (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Rumah Tangga Tingkatan 5*, printed p. 7 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Turkey, Suriname, Uganda, Bulgaria, Cuba, Seychelles, Ecuador, Afghanistan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, keeping-healthy accidents-and-staying-safe

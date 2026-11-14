@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — the ten rules
 
-countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Uganda (teacher-guide evidence only), Greece, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), China, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam
+countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Uganda (teacher-guide evidence only), Greece, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), China, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -215,3 +215,24 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills laboratory-safety-the-ten-rules
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 7 (Form 1)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 1"; Grade 7 (Tingkatan 1 / Form 1); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2016; ISBN 978-967-10679-1-8. PDF: 299 pages, 162,218,809 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index) + answers/glossary from 278; printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-07/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: this is a combined book whose Bab 2, 3, 4 (Biology), Bab 5, 6 (Chemistry) and Bab 8 (Physics) are pure split-subject chapters — each gets ONE chapter line below naming it as already covered by the earlier waves, with no item placements. General chapters (Bab 1, 7 in part, 9) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| laboratory safety rules and hazard symbols in the lab unit (Malaysia, Grade 7 (Form 1)) | Malaysia, *Sains Tingkatan 1*, printed p. 11 |
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 4"; Grade 10 (Tingkatan 4); student book. Publisher: Odonata Publishing Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Noraini binti Abdullah, Nor Mazliana binti Abdul Hashim, Mohammad Amirul bin Adnan, Shamsulikram bin Abdul Hamid); 2019 (the Malay scan's ISBN page is image-only; the DLP twin below carries ISBN 978-967-2088-73-8) PDF: 293 pages, 83,054,622 bytes — the Malay PDF is IMAGE-ONLY (no text layer). Reading method: the book's content was read in full from its DLP English twin (MY-F4-DLP below, which has a complete text layer), and the Malay edition's own front matter and introduction were verified from page images: same writers, same publisher and year, same four themes (1 Kaedah Saintifik, 2 Penyenggaraan dan Kesinambungan Hidup, 3 Penerokaan Unsur dalam Alam, 4 Tenaga dan Kelestarian Hidup) at the same printed pagination as the twin's contents. Records: TSV release copy read (via the twin as described); the books.json record for the same title (grade-10/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. Scope note: Bab 5, 6, 7 (Biology), Bab 8, 9 (Chemistry) and Bab 11 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3, 4, 10 and 12 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| personal protective equipment in the laboratory: goggles, gloves, lab coat, lab shoes, face mask, safety shower, eyewash station, fume chamber, laminar flow cabinet, and each one's function — filed under science-skills/staying-safe-in-the-lab; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 4 |
+| disposal of waste: which substances may go into the sink and which may not; the SOP for disposing of biological waste — filed under science-skills/staying-safe-in-the-lab; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 6 |
+| Bab 1 summary diagram and "Praktis Sumatif 1" (objective and structured questions on a laboratory fire) — filed under science-skills/staying-safe-in-the-lab; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 15 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Moldova, Australia, Greece, Egypt, China, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills laboratory-safety-the-ten-rules

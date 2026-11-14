@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt, Sudan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt, Sudan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -197,3 +197,18 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, sound echoes-at-work-echolocation-and-ultrasound
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sound can be reflected: a voice bounces back from a hard surface in an empty room, a cave or an empty hall (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 115 |
+| echo defined, plus ultrasound scanning in medicine (seeing organs and an unborn baby) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 116 |
+| ultrasonic sound: inaudible to humans but heard by bats, dolphins and whales to navigate and find prey; sonar uses reflected ultrasound to detect objects underwater (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 117 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, sound echoes-at-work-echolocation-and-ultrasound

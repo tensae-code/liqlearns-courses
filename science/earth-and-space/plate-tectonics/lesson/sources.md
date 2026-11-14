@@ -1,6 +1,6 @@
 # Sources — Plate tectonics
 
-countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh
+countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Malaysia
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -177,3 +177,17 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space plate-tectonics
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TAMBAHAN TINGKATAN 5"; Grade 11 (Tingkatan 5); student book (elective Additional Science) Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia (KPM); first printing 2020; ISBN 978-967-2448-45-7. PDF: 107 pages, 93,672,233 bytes — the scan is bound as two-page spreads, so its 107 PDF pages carry the whole printed book (printed pages run to 200, the index; back cover last). Read from the full extracted OCR text, page by page. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains-tambahan/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 1 (Biology), Bab 2, 3, 4, 5 (Chemistry) and Bab 6, 7 (Physics) get chapter lines only. Its closing chapter, Bab 8 Oseanografi (oceanography), is general Earth science and is placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| continental drift and plate tectonics linked to how the ocean floor evolves — filed as NEW LESSON NEEDED — plate-tectonics-earths-moving-plates; stocked into this lesson, which already covers the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tambahan Tingkatan 5*, printed p. 171 |
+
+**Acceptance count: taught in 13 countries (Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space plate-tectonics

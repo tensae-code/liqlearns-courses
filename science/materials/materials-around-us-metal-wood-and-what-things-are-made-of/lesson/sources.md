@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Fiji, Saudi Arabia
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Fiji, Saudi Arabia, Malaysia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -362,3 +362,18 @@ Searchable tags: fiji, fiji science, ministry of education fiji, materials mater
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials materials-around-us-metal-wood-and-what-things-are-made-of
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| basic sources of materials: plants (rubber→tyres and gloves, timber→furniture, cotton→clothes), animals (wool, leather, silk cocoons) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 142 |
+| petroleum as a source (plastics, synthetic cloth; petroleum formed from living things that died millions of years ago) and rock/earth as a source (gold, copper, clay, sand → pewter, coins, ceramics, bricks, glass) (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 143 |
+
+**Acceptance count: taught in 18 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Fiji, Saudi Arabia, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials materials-around-us-metal-wood-and-what-things-are-made-of

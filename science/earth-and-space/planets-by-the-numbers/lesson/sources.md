@@ -1,6 +1,6 @@
 # Sources — Planets by the numbers — the data-table investigation
 
-countries: Ethiopia, Pakistan (Punjab)
+countries: Ethiopia, Pakistan (Punjab), Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -31,3 +31,17 @@ Searchable tags: Activity 6.7, data table, density, Saturn floats, Venus day lon
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, planets-by-the-numbers
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 8 (Form 2)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 2"; Grade 8 (Tingkatan 2 / Form 2); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2017; ISBN 978-967-14472-6-0. PDF: 296 pages, 75,708,049 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-08/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 6 (Chemistry), Bab 7, 8, 9, 10 (Physics) and the digestive-system sections of Bab 3 (Biology) are pure split-subject material — chapter lines only. General chapters placed in full: Bab 1, 2, 4, 11, 12, 13, Bab 3's nutrition parts and Bab 5's water-treatment part. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| comparing the planets: a table comparing and distinguishing the planets, using astronomical units (A.U.) and light-years for their distances (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 258 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan (Punjab), Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space planets-by-the-numbers

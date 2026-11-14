@@ -762,6 +762,8 @@ solar-system comparison lessons.
 
 40. **The flower and the fruit** (`plants/the-flower-and-the-fruit`) — the flower's four whorls: calyx of sepals (gamosepalous when joined), stamens free or fused (monadelphous, diadelphous…), flower types by ovary position (epigynous, perigynous, hypogynous) and inflorescences (spike, raceme, umbel, panicle); the fruit as the transformed ripe ovary: dry indehiscent fruits (achene, samara, caryopsis of wheat, rice, maize), dehiscent (capsule, legume, silique), aggregate fruits (strawberry) and multiple fruits; the seed as the angiosperms' main dispersal organ (embryo, cotyledons, testa) (Nicaragua, Grade 9 — *Ciencias Naturales, Noveno grado*, printed pp. 36–39 and 42–45; built for the Nicaragua placements, expansion-science-2026-11-13/nicaragua-placements.md)
 
+41. **Plant survival — special parts and dispersal** (`plants/plant-survival-special-parts-and-dispersal`) — thorns, stinging hairs, poison and thick bark against enemies, waxy and needle leaves against climate, and seeds dispersed by water, animals, explosion and wind (Malaysia, Grade 5 — *Sains Tahun 5*, printed p. 94; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
 ## Unit 9 — Animals
 
 1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…
@@ -834,6 +836,12 @@ solar-system comparison lessons.
 
 55. **Asexual reproduction — budding, fission and spores** (`animals/asexual-reproduction-budding-fission-spores`) — cell reproduction without gametes: bipartition/binary fission in bacteria, yeasts, unicellular algae and protozoa, budding (gemación) and sporulation; and plant reproduction two ways — vegetative/asexual (no union of cells, offspring identical, keeping well-adapted individuals) against sexual reproduction (Nicaragua, Grade 8 Módulo — *Módulo Autoformativo de Ciencias Naturales, 8vo grado*, printed pp. 5–6; Grade 4 — *Ciencias Naturales, 4to grado*, printed pp. 47–49; built for the Nicaragua placements, expansion-science-2026-11-13/nicaragua-placements.md)
 
+56. **Animal survival — special parts and behaviours** (`animals/animal-survival-special-parts-and-behaviours`) — spines, poison, camouflage and shed tails against enemies; migration, hibernation and blubber against weather; eggs guarded and young defended (Malaysia, Grade 5 — *Sains Tahun 5*, printed p. 50; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+57. **Useful microorganisms in medicine, farming and industry** (`animals/useful-microorganisms-in-medicine-farming-and-industry`) — yeast and Lactobacillus in food and drink, E. coli making insulin, Penicillium making penicillin, nitrifying bacteria in farming, and eco-enzyme cleaner (Malaysia, Grade 11 (Form 5) — *Sains Tingkatan 5*, printed p. 28; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+58. **How microorganisms grow — conditions and colonies** (`animals/how-microorganisms-grow-conditions-and-colonies`) — the conditions of growth found by experiment — Bacillus grows fastest at pH 7 (Malaysia, Grade 11 (Form 5) — *Sains Tingkatan 5*, printed p. 26; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
 ## Unit 10 — Natural Resources
 
 1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
@@ -858,6 +866,8 @@ solar-system comparison lessons.
 
 18. **Checking a product's whole life cycle** (`natural-resources/checking-a-products-whole-life-cycle`) — science, technology and society: environment-friendly tools and the product life-cycle analysis — six stages (getting raw materials, manufacture, transport to shops and homes, use and reuse, recycling, and final disposal by… (Saudi Arabia, First Intermediate, Part 2 — *Science, First Intermediate, Part 2*, printed p. 208; built for the Saudi Arabia placements, expansion-science-2026-11-13/saudi-arabia-placements.md)
 19. **The Hoàng Cầm smokeless stove** (`natural-resources/the-hoang-cam-smokeless-stove`) — the field kitchen of the Hòa Bình campaign (1951–1952) whose smoke is scattered so enemy planes cannot spot it — Vietnam's own fuel-saving heritage (Vietnam, Grade 5 — *Khoa học 5*, printed p. 41; built for the Vietnam placements, expansion-science-2026-11-13/vietnam-placements.md)
+
+20. **Ocean resources and overfishing** (`natural-resources/ocean-resources-and-overfishing`) — Malaysia's seafood and aquaculture animals, and what overfishing would do to the sea's produce (Malaysia, Grade 11 (Form 5) — *Sains Tambahan Tingkatan 5*, printed p. 185; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
 ## Unit 11 — Our Environment
 
@@ -981,6 +991,12 @@ solar-system comparison lessons.
 106. **Adapting or moving when an ecosystem changes** (`our-environment/adapting-or-moving-when-an-ecosystem-changes`) — what happens when the ecosystem changes: some living things are given the ability to keep living when their system changes, changing their behaviour or their homes — that response is adaptation; after a forest fire destroys… (Saudi Arabia, Grade 4, Part 1 — *Science, Grade 4, Part 1*, printed p. 126; built for the Saudi Arabia placements, expansion-science-2026-11-13/saudi-arabia-placements.md)
 
 107. **Natural and human-caused phenomena** (`our-environment/natural-and-human-caused-phenomena`) — changes in the environment from natural phenomena (drought, volcanic eruptions, earthquakes — Managua after a quake) and from human (anthropic) action; the natural agents that transform the environment (atmospheric, biological, hydrological, volcanic, seismic, tectonic); mixed socio-natural events driven by natural and human factors together, and vulnerability as the condition that predisposes to disaster; Law 337's basic definitions (secondary threat, disaster, mitigation, disaster levels) (Nicaragua, Grade 3 — *Ciencias Naturales, 3er grado*, printed pp. 122–126; Grade 8 — *Ciencias Naturales, Octavo grado*, printed pp. 84–85; Grade 7 — *Ciencias Naturales, Séptimo grado*, printed pp. 85–86; Grade 7 Módulo — *Módulo Autoformativo de Ciencias Naturales, Séptimo grado*, printed pp. 128–130; built for the Nicaragua placements, expansion-science-2026-11-13/nicaragua-placements.md)
+
+108. **Carbon footprint and product life cycle** (`our-environment/carbon-footprint-and-product-life-cycle`) — the total carbon dioxide of a person's activities and a product's whole life cycle, and the carbon handprint that cuts others' footprints (Malaysia, Grade 11 (Form 5) — *Sains Tingkatan 5*, printed p. 92; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+109. **Green technology for a sustainable environment** (`our-environment/green-technology-for-a-sustainable-environment`) — the sectors of green technology — energy, waste and wastewater, agriculture and forestry, transportation, industry — and green technology in daily life (Malaysia, Grade 10 (Form 4) — *Sains Tingkatan 4*, printed p. 54; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+110. **Population ecology — counting and distribution** (`our-environment/population-ecology-counting-and-distribution`) — counting populations by the quadrat and capture-recapture methods, and reading distribution patterns (Malaysia, Grade 10 (Form 4) — *Sains Tambahan Tingkatan 4*, printed p. 35; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
 ## Unit 12 — Family, School and Community
 
@@ -1156,6 +1172,22 @@ solar-system comparison lessons.
 82. **Diseases of too much and too little food** (`keeping-healthy/diseases-of-too-much-and-too-little-food`) — overweight and obesity (too much food, too little movement) set against stunting and iron-deficiency anaemia (too little food) — signs, causes and prevention, with Vietnam's own health facts (Vietnam, Grade 4 — *Khoa học 4*, printed p. 93; Vietnam, Grade 4 — *Khoa học 4*, printed p. 95; Vietnam, Grade 4 — *Khoa học 4*, printed p. 96; built for the Vietnam placements, expansion-science-2026-11-13/vietnam-placements.md)
 
 83. **Genetically modified foods** (`keeping-healthy/genetically-modified-foods`) — transgenic foods: genes added so plants resist pests, herbicides and drought; the common ones (maize, soya, cotton, potato, rice, tomato); Greenpeace health-risk claims and the environmental impact of unnatural cross-breeding (Nicaragua, Grade 6 — *Ciencias Naturales, 6to grado*, printed pp. 69–74; built for the Nicaragua placements, expansion-science-2026-11-13/nicaragua-placements.md)
+
+84. **Recommended Dietary Allowance and BMI** (`keeping-healthy/recommended-dietary-allowance-and-bmi`) — the Recommended Dietary Allowance table, and BMI calculated from mass and height, read against heart attack, high blood pressure, stroke and diabetes (Malaysia, Grade 10 (Form 4) — *Sains Rumah Tangga Tingkatan 4*, printed p. 184; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+85. **Fire extinguishers — types and how to use one** (`keeping-healthy/fire-extinguishers-types-and-how-to-use-one`) — extinguisher types matched to fire classes, the glass-fibre fire blanket, the PASS sequence, and the school extinguisher audit (Malaysia, Grade 10 (Form 4) — *Sains Tingkatan 4*, printed p. 10; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+86. **Ergonomics and safe lifting at work** (`keeping-healthy/ergonomics-and-safe-lifting-at-work`) — ergonomics — work fitted to the worker — and safe lifting: judging the load, posture, and load limits by body height (Malaysia, Grade 11 (Form 5) — *Sains Rumah Tangga Tingkatan 5*, printed p. 18; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+87. **Food contamination — types, causes and food poisoning** (`keeping-healthy/food-contamination-types-causes-and-food-poisoning`) — physical, chemical and biological contamination and cross-contamination, and the poisoning bacteria tabulated by symptoms, onset and food (Malaysia, Grade 11 (Form 5) — *Sains Rumah Tangga Tingkatan 5*, printed p. 59; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+88. **Food production technology — growing more food** (`keeping-healthy/food-production-technology-growing-more-food`) — quality breeds, farmer education, modern technology, biotechnology, drones and soil management raising the nation's food (Malaysia, Grade 11 (Form 5) — *Sains Tingkatan 5*, printed p. 66; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+89. **Free radicals and antioxidants** (`keeping-healthy/free-radicals-and-antioxidants`) — how free radicals form and harm the body, and antioxidants neutralising them — proved on browning apple pieces (Malaysia, Grade 10 (Form 4) — *Sains Tingkatan 4*, printed p. 212; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+90. **Traditional, modern and complementary medicine** (`keeping-healthy/traditional-modern-and-complementary-medicine`) — traditional, modern and complementary medicine compared, modern medicines classified, and health products chosen by their active ingredients (Malaysia, Grade 10 (Form 4) — *Sains Tingkatan 4*, printed p. 204; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+91. **Cooking methods — moist heat, dry heat and microwave** (`keeping-healthy/cooking-methods-moist-heat-dry-heat-and-microwave`) — blanching, poaching, boiling, simmering, stewing, steaming, double-boiling, braising and pot roasting; baking, grilling and the four fryings; and microwaves — 50 mm deep, never metal or foil (Malaysia, Grade 11 (Form 5) — *Sains Rumah Tangga Tingkatan 5*, printed p. 110; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
 ## Unit 15 — Science Skills
 
@@ -3125,6 +3157,12 @@ solar-system comparison lessons.
 
 100. **Volcanoes — benefits and harms** (`earth-and-space/volcanoes-benefits-and-harms`) — Nicaragua's volcanoes from both sides: the benefits of volcanic ash — ash can fertilise the soil — set against the harm of fresh ash for health (Nicaragua, Grade 8 — *Ciencias Naturales, Octavo grado*, printed pp. 92–94; built for the Nicaragua placements, expansion-science-2026-11-13/nicaragua-placements.md)
 
+101. **Geohazards — landslides, sinkholes, tsunamis and acid rain** (`earth-and-space/geohazards-landslides-sinkholes-tsunamis-and-acid-rain`) — landslides, sinkholes (tanah jerlus), tsunamis and acid rain, and early-warning instruments for landslides and tsunamis (Malaysia, Grade 7 (Form 1) — *Sains Tingkatan 1*, printed p. 265; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+102. **Space weather and its effects on Earth** (`earth-and-space/space-weather-and-its-effects-on-earth`) — space weather defined by its effects — auroras, and disruption to satellites and power grids (Malaysia, Grade 9 (Form 3) — *Sains Tingkatan 3*, printed p. 263; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
+103. **Oceanography — the world ocean** (`earth-and-space/oceanography-the-world-ocean`) — the earliest explorers, the main oceans and Southeast Asia's seas, the ocean floor mapped zone by zone, seawater's temperature, pressure and density, and ocean life classified by size, mobility and location (Malaysia, Grade 11 (Form 5) — *Sains Tambahan Tingkatan 5*, printed p. 164; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
+
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -3166,6 +3204,8 @@ solar-system comparison lessons.
 32. **Buoyancy — weight in different mediums** (`motion-force-and-energy/buoyancy-weight-in-different-mediums`) — how oil, water and air affect the weight and mass of objects: apparent weight in fluids (Fiji, Year 8 — *Year 8 Basic Science*, printed pp. 105–125; built for the Fiji placements, expansion-science-2026-11-13/fiji-placements.md)
 
 33. **Work is force times distance** (`motion-force-and-energy/work-is-force-times-distance`) — Ch. (Saudi Arabia, Grade 3, Part 2 — *Science, Grade 3, Part 2*, printed pp. 122–124; built for the Saudi Arabia placements, expansion-science-2026-11-13/saudi-arabia-placements.md)
+
+34. **Radioactivity — radiation and its uses** (`motion-force-and-energy/radioactivity-radiation-and-its-uses`) — nuclear fission and fusion, more than 30 countries generating electricity, Malaysia's 1 MW TRIGA PUSPATI research reactor (1982), Hiroshima and Nagasaki, and the for-and-against debate (Malaysia, Grade 10 (Form 4) — *Sains Tingkatan 4*, printed p. 256; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
 ## Unit 21 — Sound
 

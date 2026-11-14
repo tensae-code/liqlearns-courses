@@ -226,3 +226,18 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, light refraction-why-the-spoon-looks-broken
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| refraction: a spoon in water looks bent because light changes direction when it passes between air and water (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 100 |
+| refraction test: a torch beam through a water bottle bends on the paper screen (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 101 |
+
+**Acceptance count unchanged: taught in 19 countries (Ethiopia, Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab, Dominican Republic, Kuwait, Eritrea, Sri Lanka, Yemen, Saudi Arabia, Nicaragua).** Malaysia was already counted in this lesson from its Physics-wave books; the rows above add its General Science *Sains* books, cited once per book.
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, light refraction-why-the-spoon-looks-broken

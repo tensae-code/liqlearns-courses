@@ -1,6 +1,6 @@
 # Sources — Food — the four food groups
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -200,3 +200,23 @@ Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy food-the-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, keeping-healthy food-the-four-food-groups
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS RUMAH TANGGA TINGKATAN 4"; Grade 10 (Tingkatan 4); student book (elective Home Science, formerly Ekonomi Rumah Tangga) Publisher: Utusan Publications & Distributors Sdn. Bhd. for Kementerian Pendidikan Malaysia; first printing 2016; ISBN 978-967-61-2758-7. PDF: 272 pages, 44,395,892 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-10/gov/malaysia/sains-rumah-tangga/student/full-year.pdf) is the same book, cited once here. No DLP twin exists among the targets. Verdict: PARTIAL (science part) — this is a specialised home-science book. Four of its five chapters (Bab 1 Kerja Sepasukan/teamwork, Bab 2 Pengurusan Sumber Keluarga/family resource management, Bab 3 Pakaian dan Jahitan/clothing and sewing, Bab 5 Perniagaan dan Keusahawanan/business) are not general science and are record-only. Only Bab 4 Makanan dan Pemakanan (Food and Nutrition) is science; it is placed below, with its digestion section as a Biology chapter line. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of food groups pictured (Rajah 4.1): why we need food — growth, energy for daily activities, building body cells, maintaining health (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Rumah Tangga Tingkatan 4*, printed p. 155 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS RUMAH TANGGA TINGKATAN 5"; Grade 11 (Tingkatan 5); student book (elective Home Science, Mata Pelajaran Elektif Ikhtisas) Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Abdul Hisham bin Udin, Siti Farahliza binti Mohamed Isa); first printing 2017; ISBN 978-967-0520-89-6. PDF: 300 pages, 131,655,024 bytes; scan with an OCR text layer (read from the full extracted text, page by page; the inherited extract stopped at PDF page 261 and the tail, PDF pp. 262–300, was re-extracted from the PDF by this reader); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains-rumah-tangga/student/full-year.pdf) is the same book, cited once here. No DLP twin exists among the targets. Verdict: PARTIAL (science part) — this Form 5 volume is a hospitality-and-catering book. Bab 3 Peralatan Penyediaan dan Penyajian Makanan (kitchen equipment, cutlery, table settings, printed pp. 76–105) and the recipe, costing and food-business project material inside Bab 4 are not general science and are record-only. The science parts — Bab 1 (workplace safety), Bab 2 (food sanitation) and the food-science parts of Bab 4 (cooking principles, food groups) — are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| cereals and cereal products: the parts of a grain (germ, endosperm, bran, husk); the main cereals (rice, wheat, barley, maize, oats); wheat protein (gluten) turning elastic when mixed with water (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Rumah Tangga Tingkatan 5*, printed p. 196 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Bangladesh, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, keeping-healthy food-the-four-food-groups

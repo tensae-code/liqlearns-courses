@@ -1,6 +1,6 @@
 # Sources — Cycles — the carbon cycle
 
-countries: Ethiopia, United States, Samoa, Sudan, Yemen, Nicaragua
+countries: Ethiopia, United States, Samoa, Sudan, Yemen, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -80,3 +80,29 @@ Searchable tags: yemen, yemen science, ministry of education yemen, our-environm
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment cycles-the-carbon-cycle
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| why photosynthesis matters to all life: supplies food, supplies oxygen for breathing, and takes in carbon dioxide so the air stays balanced (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 80 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 5"; Grade 11 (Tingkatan 5); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Tho Lai Hoong, Thum Lai Chun); 2020; ISBN 978-983-77-1851-7. PDF: 268 pages, 111,255,620 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 4, 5, 6 (Chemistry), Bab 7 (Physics) and Bab 8 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3 and 9 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| carbon sinks: natural stores such as forests and oceans that remove and store carbon dioxide, drawn as a removal-and-storage diagram — filed under our-environment/climate-change-causes-and-effects; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 95 |
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TAMBAHAN TINGKATAN 5"; Grade 11 (Tingkatan 5); student book (elective Additional Science) Publisher: Aras Mega (M) Sdn. Bhd. for Kementerian Pendidikan Malaysia (KPM); first printing 2020; ISBN 978-967-2448-45-7. PDF: 107 pages, 93,672,233 bytes — the scan is bound as two-page spreads, so its 107 PDF pages carry the whole printed book (printed pages run to 200, the index; back cover last). Read from the full extracted OCR text, page by page. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains-tambahan/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 1 (Biology), Bab 2, 3, 4, 5 (Chemistry) and Bab 6, 7 (Physics) get chapter lines only. Its closing chapter, Bab 8 Oseanografi (oceanography), is general Earth science and is placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the ocean as a carbon sink: a natural reservoir absorbing more carbon than it releases; efforts to handle marine-ecosystem issues — filed under our-environment/climate-change-causes-and-effects; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tambahan Tingkatan 5*, printed p. 190 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, United States, Samoa, Sudan, Yemen, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment cycles-the-carbon-cycle

@@ -1,6 +1,6 @@
 # Sources — Energy in food — calories and joules
 
-countries: Costa Rica, Greece, Venezuela, Dominican Republic
+countries: Costa Rica, Greece, Venezuela, Dominican Republic, Malaysia
 
 **Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
 
@@ -63,3 +63,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, motion-f
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, energy in food calories and joules
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 11 (Form 5)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 5"; Grade 11 (Tingkatan 5); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Tho Lai Hoong, Thum Lai Chun); 2020; ISBN 978-983-77-1851-7. PDF: 268 pages, 111,255,620 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-11/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below. Verdict: COMPLETE. Scope note: Bab 4, 5, 6 (Chemistry), Bab 7 (Physics) and Bab 8 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3 and 9 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| calorie values of food: a table of energy values by food (carbohydrates — rice 15.04 kJ/g; fats — palm oil 38.00 kJ/g; proteins) from Experiment 2.1 — filed as NEW LESSON NEEDED — calorie-values-of-food; stocked into this lesson, which already covers the thing (Malaysia, Grade 11 (Form 5)) | Malaysia, *Sains Tingkatan 5*, printed p. 51 |
+
+**Acceptance count: taught in 5 countries (Costa Rica, Greece, Venezuela, Dominican Republic, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and-energy energy-in-food-calories-and-joules

@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -755,3 +755,28 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-e
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment food-chains-food-webs-and-energy-pyramids
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food chains built from one habitat, organism by organism (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 74 |
+| producers and consumers: plants produce; animals get energy from food (squirrel and otter examples) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 77 |
+| food webs: overlapping chains in a pond habitat, energy transferred along every link (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 82 |
+| effects of population change: if one population rises or falls, the others in the web change; animals can lose their natural habitat (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 87 |
+| Unit 3 summary and "Asah Minda" questions (producer/consumer identification, chain building) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 89 |
+
+**Book (Malaysia — Grade 8 (Form 2)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 2"; Grade 8 (Tingkatan 2 / Form 2); student book. Publisher: Kementerian Pendidikan Malaysia (KPM); first printing 2017; ISBN 978-967-14472-6-0. PDF: 296 pages, 75,708,049 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-08/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 6 (Chemistry), Bab 7, 8, 9, 10 (Physics) and the digestive-system sections of Bab 3 (Biology) are pure split-subject material — chapter lines only. General chapters placed in full: Bab 1, 2, 4, 11, 12, 13, Bab 3's nutrition parts and Bab 5's water-treatment part. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| energy flow in an ecosystem: all ecosystem energy comes from the Sun; green plants change light energy into chemical energy by photosynthesis, passed to primary consumers and on (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 22 |
+| Bab 2 "Latihan Sumatif 2" questions on energy flow and interactions (Malaysia, Grade 8 (Form 2)) | Malaysia, *Sains Tingkatan 2*, printed p. 42 |
+
+**Acceptance count: taught in 35 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment food-chains-food-webs-and-energy-pyramids

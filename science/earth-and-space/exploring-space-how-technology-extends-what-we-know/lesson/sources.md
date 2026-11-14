@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -225,3 +225,18 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space exploring-space-how-technology-extends-what-we-know
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 9 (Form 3)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 3"; Grade 9 (Tingkatan 3 / Form 3); student book. Publisher: Sasbadi Sdn. Bhd. for Kementerian Pendidikan Malaysia (KPM); first printing 2018; ISBN 978-983-77-0393-3. PDF: 300 pages, 161,476,750 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 288 (index); printed page = PDF page − 10. Records: TSV release copy read; the books.json record for the same title (grade-09/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. The DLP English twin is filed separately below as a duplicate. Verdict: COMPLETE. Scope note: Bab 1, 2, 3 (Biology), Bab 4, 5 (Chemistry) and Bab 6, 7, 8 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 9, 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| developments and technology in space exploration: rockets, satellites, probes and space stations (Malaysia, Grade 9 (Form 3)) | Malaysia, *Sains Tingkatan 3*, printed p. 273 |
+| Bab 10 "Praktis Sumatif 10" questions on astronomy and exploration (Malaysia, Grade 9 (Form 3)) | Malaysia, *Sains Tingkatan 3*, printed p. 281 |
+
+**Acceptance count: taught in 16 countries (Bhutan, Moldova, Pakistan (Punjab, Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space exploring-space-how-technology-extends-what-we-know

@@ -1,6 +1,6 @@
 # Sources — Dirty water and what it brings
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam, Malaysia
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -358,3 +358,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment dirty-water-and-what-it-brings
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 10 (Form 4)):** (student book) — Malaysia. Title as printed: "SAINS TINGKATAN 4"; Grade 10 (Tingkatan 4); student book. Publisher: Odonata Publishing Sdn. Bhd. for Kementerian Pendidikan Malaysia (writers Noraini binti Abdullah, Nor Mazliana binti Abdul Hashim, Mohammad Amirul bin Adnan, Shamsulikram bin Abdul Hamid); 2019 (the Malay scan's ISBN page is image-only; the DLP twin below carries ISBN 978-967-2088-73-8) PDF: 293 pages, 83,054,622 bytes — the Malay PDF is IMAGE-ONLY (no text layer). Reading method: the book's content was read in full from its DLP English twin (MY-F4-DLP below, which has a complete text layer), and the Malay edition's own front matter and introduction were verified from page images: same writers, same publisher and year, same four themes (1 Kaedah Saintifik, 2 Penyenggaraan dan Kesinambungan Hidup, 3 Penerokaan Unsur dalam Alam, 4 Tenaga dan Kelestarian Hidup) at the same printed pagination as the twin's contents. Records: TSV release copy read (via the twin as described); the books.json record for the same title (grade-10/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. Scope note: Bab 5, 6, 7 (Biology), Bab 8, 9 (Chemistry) and Bab 11 (Physics) get chapter lines only. The general chapters — Bab 1, 2, 3, 4, 10 and 12 — are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the waste and wastewater management sector: sewage, chemical waste and rubbish dumped into rivers and seas damage their ecosystems — filed under our-environment/water-treatment-making-water-safe; stocked into this lesson, the closest existing lesson covering the thing (Malaysia, Grade 10 (Form 4)) | Malaysia, *Sains Tingkatan 4*, printed p. 60 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Eritrea, Rwanda, Indonesia, Bangladesh, Yemen, Vietnam, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment dirty-water-and-what-it-brings

@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Saudi Arabia, Nicaragua
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Saudi Arabia, Nicaragua, Malaysia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -691,3 +691,25 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, motio
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, motion-force-and-energy energy-sources-and-using-energy-wisely
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| energy is the ability to do work; its sources around us: the Sun (main source; solar panels), flowing water turning dam turbines, biomass (plant matter and animal dung made into fuel), geothermal noted (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 124 |
+| more sources: wind turning turbines, nuclear fuel (uranium), fossil fuels (petroleum, natural gas, coal), waves moving sea turbines (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 125 |
+| using energy thriftily: air-conditioner vs opening windows and the electricity bill a month later; cycling and public transport vs traffic fumes (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 136 |
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| factors affecting electricity use at home and using electrical energy wisely (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 132 |
+
+**Acceptance count: taught in 39 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab, Bangladesh, Saudi Arabia, Nicaragua, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and-energy energy-sources-and-using-energy-wisely

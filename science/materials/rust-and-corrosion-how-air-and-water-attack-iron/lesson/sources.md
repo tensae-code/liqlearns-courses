@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -170,3 +170,21 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, materials rust-and-corrosion-how-air-and-water-attack-iron
 
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 5):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 5 — Sekolah Kebangsaan"; Grade 5 (Tahun 5); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2020; ISBN 978-983-49-2831-5. PDF: 242 pages, 266,055,453 bytes; scan with an OCR text layer (read from the full extracted text, page by page); printed pages run to 234 (answers end); printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-05/gov/malaysia/sains/student/full-year.pdf) is the same book, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| features of a rusted object: brownish, rough, brittle, heavier surface layer, shown against unrusted iron (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 164 |
+| which objects rust: iron and steel objects in daily life identified (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 166 |
+| experiment on the factors causing rust: nails in test tubes with different conditions (dry air, water, air+water, oil layer), observed over days (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 168 |
+| ways to prevent rusting: painting, oiling/greasing, galvanising, coating with plastic or enamel (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 170 |
+| importance of preventing rust: safety, cost and lasting structures (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 171 |
+| Unit 7 summary and "Asah Minda" questions (rust features, factors experiment results table, choosing a prevention method with reasons) (Malaysia, Grade 5) | Malaysia, *Sains Tahun 5*, printed p. 175 |
+
+**Acceptance count: taught in 10 countries (Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials rust-and-corrosion-how-air-and-water-attack-iron

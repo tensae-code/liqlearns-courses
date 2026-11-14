@@ -1,6 +1,6 @@
 # Sources — Reading and drawing data graphs
 
-countries: Cook Islands, Sudan
+countries: Cook Islands, Sudan, Malaysia
 
 **Book 1:** *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition* (student book) — Cook Islands, Jacquie Bay and Delaney Yaqona; © University of Auckland, Cook Islands Ministry of Health and Cook Islands Ministry of Education, 2015; published for the Liggins Institute by Read Pacific Publishing Ltd, Auckland; ISBN 978-0-9941267-7-1. As printed: *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition, Student Book, Cook Islands Edition*. Filed as Grade 8, student book, in Cook Islands Māori and English. Record: TSV release record (EPUB asset). Fetched copy: 59,156,535 bytes, EPUB with 102 pages (printed pp. i–96). Verdict: COMPLETE — read in full from the EPUB's text (every page's content checked against the printed contents and unit map). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cook-islands-placements.md.
 
@@ -26,3 +26,17 @@ Searchable tags: data graphs, processing data, sorting data, patterns, presentin
 Placement choice, on the record: the Sudan placement(s) above filed as "NEW LESSON NEEDED — reading-and-drawing-data-graphs" stock into this existing lesson, which already covers that thing as its own lesson (built earlier in this wave / earlier in the course) — checked the live repo at merge time; no second lesson is built, and the original slug is recorded in each row above.
 **Acceptance count: taught in 2 countries (Cook Islands, Sudan).**
 Searchable tags: sudan, sudan grade 8, science-skills/reading-and-drawing-data-graphs
+
+## Malaysia growth (2026-11-14, General Science expansion)
+
+**Book (Malaysia — Grade 4):** (student book) — Malaysia. Title as printed: "SAINS TAHUN 4 — Sekolah Kebangsaan"; Grade 4 (Tahun 4); student book. Publisher: Dewan Bahasa dan Pustaka (DBP), Kuala Lumpur, for Kementerian Pendidikan Malaysia; first printing 2019; ISBN 978-983-49-2474-4. PDF: 196 pages, 117,605,878 bytes; CamScanner scan (image-only, read from 100-DPI 4-up renders); printed pages run to 185 (Jawapan dan Rujukan) + back matter; printed page = PDF page − 8. Records: TSV release copy read; the books.json record for the same title (grade-04/gov/malaysia/sains/student/full-year.pdf) is the same book — its tree route returned 404, cited once here. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/malaysia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| interpreting data: giving rational explanations from tables, pie charts, bar charts and classification charts (bird-feeder counts; how pupils travel to school; toy-car distances) — filed as NEW LESSON NEEDED — interpreting-data-tables-and-charts; stocked into this lesson, which already covers the thing (Malaysia, Grade 4) | Malaysia, *Sains Tahun 4*, printed p. 8 |
+
+**Acceptance count: taught in 3 countries (Cook Islands, Sudan, Malaysia).**
+
+Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills reading-and-drawing-data-graphs
