@@ -1,6 +1,6 @@
 # Sources — break and continue inside while
 
-countries: Ethiopia, North Macedonia, Kuwait
+countries: Ethiopia, North Macedonia, Kuwait, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, North Macedonia, Kuwait
 
 **Book 4:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 5:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — break in while — out even while the condition is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 185–186 (student placement item 129) |
@@ -17,8 +19,9 @@ countries: Ethiopia, North Macedonia, Kuwait
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed pp. 134–139 — see the honesty note below for exactly what is filed and where |
 | "Exercises on the while repetition structure — break and continue [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.28, printed p. 179 |
 | Unit 2, Lesson 5: controlling the loop with break and continue (the three-attempts password program) | Kuwait Grade 10 Information Technology T1, printed p. 111 |
+| Lesson 4: break, continue and else with while loops | Jordan Grade 11 G11T1 Student, printed p. 66 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Kuwait).**
+**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Kuwait, Jordan).**
 
 No book error touches this lesson. The while-continue programs are traced exactly as placed (nine iterations, eight printed values, escape at the count's escape value); the increment-before-continue warning is the direct consequence of the placed shape and is taught as tracing care, not as extra book content. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -26,4 +29,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: break, continue, while loop, escape value, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, kuwait, grade 10 information technology term 1
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Searchable tags: break, continue, while loop, escape value, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, kuwait, grade 10 information technology term 1, jordan, grade 11 term 1 digital skills

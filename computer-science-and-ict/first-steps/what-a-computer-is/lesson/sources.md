@@ -1,6 +1,6 @@
 # Sources — What a computer is — input, process, store, output
 
-countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova
+countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -51,6 +51,10 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 **Book 25:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 26:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 27:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 28:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -82,8 +86,10 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 | Introduction §3 Machine | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 11 (teacher guide — evidence) |
 | Introduction §3 Machine: l'ordinateur, machine universelle | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 9 (teacher guide — evidence) |
 | Introduction §3 Machine | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 11 (teacher guide — evidence) |
+| Unit 1 Computing Systems, Lesson 1: The Computer — what a computer is and the operating principle of a computer system | Jordan Grade 7 G7T1 Student, printed p. 10 |
+| Lesson plan 1: The Computer (guide contents ref) (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 10 (teacher guide — evidence) |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova).**
+**Acceptance count: taught in 17 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -134,4 +140,8 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6, fiji, years 7-8, year 11, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6, fiji, years 7-8, year 11, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide

@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -79,6 +79,10 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Mace
 
 **Book 40:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 41:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 42:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -127,8 +131,10 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Mace
 | Ch.3.1 The operating system and its responsibilities / structure and hierarchy | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 77 |
 | Ch.3.1 Basic tasks of the OS: CPU, memory, file-system and I/O management (filed as NEW LESSON NEEDED — software/how-an-operating-system-manages-cpu-memory-files-and-io; stocked in this lesson because this lesson teaches the operating system's basic tasks in its third sub lesson — file management, memory management, process management, handling input and output and controlling peripheral devices — the CPU/memory/file-system/I/O management Greece's section lists) | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 78 |
 | 3.1 Sisteme de calcul | Moldova Grade 7 Informatică, printed p. 35 |
+| Lesson 4: Operating Systems — the operating system and its functions | Jordan Grade 7 G7T1 Student, printed p. 39 |
+| Lesson plan 4: Operating Systems (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 39 (teacher guide — evidence) |
 
-**Acceptance count: taught in 22 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 23 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -199,4 +205,8 @@ Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeio
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict student, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 7 informatica
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict student, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 7 informatica, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide

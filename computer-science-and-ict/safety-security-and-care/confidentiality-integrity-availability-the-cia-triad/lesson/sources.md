@@ -1,6 +1,6 @@
 # Sources — Confidentiality, integrity, availability — the CIA triad
 
-countries: Ethiopia, Mongolia, Kuwait
+countries: Ethiopia, Mongolia, Kuwait, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Mongolia, Kuwait
 
 **Book 6:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 7:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CIA triad defined and drawn as a triangle | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 194–195 |
@@ -21,10 +23,11 @@ countries: Ethiopia, Mongolia, Kuwait
 | Lesson 08 Information security: confidentiality, integrity, availability (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 14 (teacher guide — evidence) |
 | 1.1.5 Information security and protection (availability, integrity, confidentiality; physical and logical protection; fingerprint and voice recognition) | Mongolia Grade 9 IT IX, printed p. 9 |
 | Unit 1, Theme 2: the main pillars of information security and cyber security — the CIA model | Kuwait Grade 10 Information Technology T1, printed p. 15 |
+| Lesson 1: the three pillars of information security (confidentiality, integrity, availability) | Jordan Grade 9 G9T2 Student, printed p. 16 |
 
 | Nine habits against cyber-attack; who to call; the triad as the protection aim (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 198–200 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Kuwait).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Kuwait, Jordan).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -34,4 +37,6 @@ Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools �
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix, kuwait, grade 10 information technology term 1
+Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
+
+Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix, kuwait, grade 10 information technology term 1, jordan, grade 9 term 2 digital skills

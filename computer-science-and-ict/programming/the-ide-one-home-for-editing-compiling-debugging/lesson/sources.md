@@ -1,6 +1,6 @@
 # Sources — The IDE — one home for editing, compiling, debugging
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 
 **Book 10:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 11:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an IDE is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 218–220 |
@@ -35,8 +37,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 | Ch.1 Preparing programs in Visual Basic: the VB IDE (Form Design, Project Explorer, Properties, Tool Box, Form Layout, Main Menu) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 12 |
 | Unit 2, Lesson 1: writing programs in Python — the PyCharm IDE window, creating a Python file and running it | Kuwait Grade 10 Information Technology T1, printed p. 39 |
 | Ch.6 Modern programming environments | Greece Grade 10 Efarmoges Pliroforikis, printed p. 51 |
+| Lesson 2: text editors and integrated development environments | Jordan Grade 11 G11T1 Student, printed p. 24 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece, Jordan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -57,4 +60,6 @@ Kuwait's own way (Grade 10 Information Technology Term 1): secondary school swit
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou, jordan, grade 11 term 1 digital skills

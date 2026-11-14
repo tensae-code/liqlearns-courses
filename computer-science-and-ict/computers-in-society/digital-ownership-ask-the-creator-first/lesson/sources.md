@@ -6,11 +6,14 @@ countries: Ethiopia, Mongolia
 
 **Book 2:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 3:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What digital ownership is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 4) |
 | Sub lesson 2 — Permission — what asking does | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 4) |
 | 1.2.2 Digital intellectual property (digital works and Mongolian national content: the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu, YoLo; the CRC blacklist black-list.mn) | Mongolia Grade 10 IT X, printed p. 28 |
+| Environment 1: protecting intellectual-property rights, documenting sources, not copying others' work in the digital card (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 6 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
 
@@ -18,4 +21,8 @@ Book errors touching Unit 1, taught corrected and named here: the student book n
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: digital ownership, permission, creator rights, copy and paste, credit, Ethiopia Grade 12 IT, mongolia, grade 10 it x
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
+
+Searchable tags: digital ownership, permission, creator rights, copy and paste, credit, Ethiopia Grade 12 IT, mongolia, grade 10 it x, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2

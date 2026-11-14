@@ -1,6 +1,6 @@
 # Sources — Flowchart or pseudocode — two notations for one algorithm
 
-countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece
+countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lank
 **Book 12:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 13:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 14:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Flowcharts and pseudocode defined and compared; conversion both ways | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 223 |
@@ -35,6 +37,7 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lank
 | Unit 8 Representing algorithms – programming languages | Greece Grade 7 Pliroforiki A, printed p. 98 |
 | Ch.2.2 Representation of an algorithm | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 27 |
 | Ch.2 Description and representation of algorithms | Greece Grade 12 Anaptyxi Efarmogon, printed p. 35 |
+| Lesson 2: methods of representing algorithms | Jordan Grade 7 G7T2 Student, printed p. 117 |
 
 | Pseudocode — the algorithm in structured English; the sum-of-two worked example; the circle exercise (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 216–217 |
 | Pseudocode's benefits; the worked circle (p = 2πr, A = πr²); sum of the first 10; pseudocode vs flowchart keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (Activity 6.4 key), printed pp. 110–113 |
@@ -44,7 +47,7 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lank
 | Урок 33 "Способы представления алгоритмов" (ways of representing algorithms) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 70 |
 | Bab 3 Algoritma, 3.1.1 Pseudokod dan Carta Alir Struktur Kawalan Pilihan | Malaysia Grade 7 ASK Tingkatan 1, printed p. 73 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -67,4 +70,6 @@ Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeio
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
 
-Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa
+Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
+
+Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, jordan, grade 7 term 2 digital skills

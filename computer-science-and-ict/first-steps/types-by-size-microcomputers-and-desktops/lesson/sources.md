@@ -1,6 +1,6 @@
 # Sources — Types of computer by size — microcomputers and desktops
 
-countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece, Moldova
+countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -39,6 +39,8 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 **Book 18:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 **Book 19:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 20:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed pp. 7–8 |
@@ -60,8 +62,9 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 | Unit 2 Types of computers | Greece Grade 7 Pliroforiki A, printed p. 27 |
 | 2.2 Clasificarea calculatoarelor | Moldova Grade 7 Informatică, printed p. 28 |
 | 6.10 Clasificarea calculatoarelor | Moldova Grade 11 Informatică, printed p. 187 |
+| Lesson 1: types of computers | Jordan Grade 7 G7T1 Student, printed p. 13 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece, Moldova).**
+**Acceptance count: taught in 14 countries (Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece, Moldova, Jordan).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -95,4 +98,6 @@ Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11, libya, grade 8 computer, sri lanka, grade 12 science for technology tamil, laos, grade 6 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, moldova, grade 11 informatica
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11, libya, grade 8 computer, sri lanka, grade 12 science for technology tamil, laos, grade 6 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, moldova, grade 11 informatica, jordan, grade 7 term 1 digital skills

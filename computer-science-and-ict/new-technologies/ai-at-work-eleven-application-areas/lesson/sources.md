@@ -1,6 +1,6 @@
 # Sources — AI at work — eleven application areas
 
-countries: Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece
+countries: Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece
 
 **Book 11:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 12:** *المهارات الرقمية — الصف العاشر — الفصل الدراسي الثاني (Digital Skills, Grade 10, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-884-0. Grade 10 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy watermark, carried as filed.
+
+**Book 13:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eleven application fields with their named examples — Tesla autopilot, RankBrain, Robonaut | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 32–38 |
@@ -37,8 +41,10 @@ countries: Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece
 | Unit 3 Lesson 3 AI Around Us Everywhere | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 20 |
 | Ch.4 §6.7 Using AI and expert systems in business | Laos Grade 10 ICT student, printed p. 99 |
 | Ch.3.4 Fields of application of AI | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 95 |
+| Lesson 3: AI Applications | Jordan Grade 10 G10T2 Student, printed p. 130 |
+| Lesson 2: Applications of Artificial Intelligence — fields where AI is applied | Jordan Grade 9 G9T2 Student, printed p. 115 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece).**
+**Acceptance count: taught in 8 countries (Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece, Jordan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -57,4 +63,8 @@ Laos's own way (Grade 10 ICT student book): the upper-secondary course turns con
 
 Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
 
-Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10, egypt, grade 7, grade 8, laos, grade 10 ict student, greece, grade 11 eisagogi epistimis hy lykeiou
+Jordan's own way (Jordan Grade 10 G10T2 Student): IoT is taught at Grade 10 through the smart home — components and functions first, then network design, data collection and IoT security with practical network-design applications; the AI unit approaches AI through knowledge bases and formal logic (propositional/predicate logic, truth tables) before nanotechnology and holograms.
+
+Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
+
+Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10, egypt, grade 7, grade 8, laos, grade 10 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, jordan, grade 10 term 2 digital skills, grade 9 term 2 digital skills

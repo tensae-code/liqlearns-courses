@@ -1,6 +1,6 @@
 # Sources — Passwords — making a strong one
 
-countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
+countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -25,6 +25,10 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 **Book 11:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 12:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 13:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 14:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Password defined — verifies identity; first line of defence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.68 |
@@ -40,8 +44,10 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 | Passwords | Rwanda Grade 8 S2 ICT Student Book, printed p. 6 |
 | Activité 5 Séance 1: le mot de passe (afficher/masquer avec l'œil) | Switzerland Grade 6 Décodage 5e–6e, printed p. 5 (Activité 5) (teacher guide — evidence) |
 | Activité 4 Séance 1: Sécurité des accès — pourquoi et comment protéger les accès aux données sur un ordinateur | Switzerland Grade 7 Décodage 7e–8e, printed p. 3 (Activité 4) (teacher guide — evidence) |
+| Lesson 1: using passwords to protect data | Jordan Grade 9 G9T2 Student, printed p. 18 |
+| choosing a password that is easy for you to remember and not recording it anywhere | Jordan Grade 5 G5 Workbook, printed p. 31 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 8 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan).**
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
@@ -61,4 +67,8 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78
+Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
+
+Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
+
+Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 2 digital skills, grade 5 digital skills workbook

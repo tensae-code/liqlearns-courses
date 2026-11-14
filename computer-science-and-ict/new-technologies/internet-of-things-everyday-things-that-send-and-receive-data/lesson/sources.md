@@ -1,6 +1,6 @@
 # Sources — Internet of Things — everyday things that send and receive data
 
-countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh
+countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangl
 
 **Book 10:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 11:** *المهارات الرقمية — الصف الثاني عشر — الفصل الدراسي الثاني (Digital Skills, Grade 12, Second Semester, Academic track)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-888-8. Grade 12 (student book). 140 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy (نسخة قيد الإعداد) watermark, carried as filed.
+
+**Book 12:** *المهارات الرقمية — الصف العاشر — الفصل الدراسي الثاني (Digital Skills, Grade 10, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-884-0. Grade 10 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy watermark, carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | IoT defined: a network of physical objects or people equipped with software, electronics, networks and sensors to collect and exchange data; connectivity beyond computers and smartphones; remote control; cutting human effort; virtually smart through data, AI and networks | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 48–49 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangl
 | Unit 5 Internet of Things | Greece Grade 7 Pliroforiki A, printed p. 50 |
 | Activité 7 Fiches: Objets connectés (cas pratiques du réseau domestique) | Switzerland Grade 8 Décodage 7e–8e, printed p. 16 (Activité 7) (teacher guide — evidence) |
 | Chapter 1, 1.3.3: Internet of Things — connected devices from smart fridges to farm sensors | Bangladesh HSC ICT, printed p. 18 |
+| Unit 1 Internet of Things, Lesson 1: Introduction to IoT / concept of IoT | Jordan Grade 12 G12T2 Student, printed p. 10 |
+| Unit 1 Internet of Things, Lesson 1: Introduction to IoT Components and Functions | Jordan Grade 10 G10T2 Student, printed p. 10 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan).**
 
 Printed p. 48 frames the Internet as “created in the late 1990s and is now more than 30 years old” — the book's own inconsistent framing (a late-1990s creation would not yet be 30 years old at the book's writing, and the framing sits oddly against the internet's longer history). This lesson teaches the IoT topics as the book teaches them and flags the inconsistency here rather than silently rewriting the book, exactly as the placements direct.
 
@@ -56,4 +62,8 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook, kuwait, grade 10 information technology term 2, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 12 G12T2 Student): Arabic text with every technical term also given in English in parentheses; each lesson opens with main idea, key concepts and learning outcomes and closes with self-assessment; each unit ends with unit questions and a self-checklist. Draft copy (نسخة قيد الإعداد) watermark.
+
+Jordan's own way (Jordan Grade 10 G10T2 Student): IoT is taught at Grade 10 through the smart home — components and functions first, then network design, data collection and IoT security with practical network-design applications; the AI unit approaches AI through knowledge bases and formal logic (propositional/predicate logic, truth tables) before nanotechnology and holograms.
+
+Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook, kuwait, grade 10 information technology term 2, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 10 term 2 digital skills

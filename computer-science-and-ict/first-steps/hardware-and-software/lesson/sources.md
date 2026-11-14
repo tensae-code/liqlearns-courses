@@ -1,6 +1,6 @@
 # Sources — Hardware and software — the two parts of a computer system
 
-countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka
+countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka
 
 **Book 7:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 8:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 9:** *المهارات الرقمية — الصف الثاني الأساسي، دليل المعلم (Digital Skills, Grade 2 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-981-6. Grade 2 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware and software — the two parts of a computer system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 11 |
@@ -25,8 +29,10 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka
 | 1.1 A computer system is hardware plus software | Fiji, *Computer Education, Year 11*, printed p. 7 |
 | 1.1 Computer Hardware (hardware and software together) | Bhutan, *Literacy with ICT, Class V*, printed p. 2 |
 | Ch.1 Importance of software; hardware vs software, user | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 8 |
+| Lesson 3: integration between hardware and software components | Jordan Grade 7 G7T1 Student, printed p. 35 |
+| Guide focus frame: Computing Systems strand — the computer's hardware and software components and the operating system (teacher guide — evidence) | Jordan Grade 2 G2 Teacher, printed p. 6 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan).**
 
 No book error touches this lesson's content.
 
@@ -42,4 +48,8 @@ Bhutan's own way (Class V, Literacy with ICT student book): Word is taught toget
 
 Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
 
-Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 2 G2 Teacher): The guide names the two digital-skills strands behind the Grade 2 blocks — Computing Systems (hardware and software components, the operating system) and Networks & Internet (organising data, security and privacy) — while the classroom products stay PowerPoint cards/presentations and Word writing.
+
+Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, jordan, grade 7 term 1 digital skills, grade 2 digital skills teacher guide

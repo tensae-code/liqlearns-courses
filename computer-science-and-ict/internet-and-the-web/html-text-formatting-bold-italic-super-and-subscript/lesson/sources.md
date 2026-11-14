@@ -1,17 +1,22 @@
 # Sources — HTML Text Formatting — Bold, Italic, Superscript and Subscript
 
-countries: Bangladesh
+countries: Bangladesh, Jordan
 
 **Book 1:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 2:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 4, 4.2: text formatting — bold, italic, big, small, underline, superscript and subscript | Bangladesh HSC ICT, printed p. 124 |
+| Lesson 3: Text Formatting — formatting tags for text and paragraphs, with a practical activity (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-and-paragraphs-in-html; stocked in this lesson because this lesson teaches HTML's formatting elements for text — bold, italic, underline, big/small, superscript and subscript — the formatting tags for text and paragraphs in Jordan's Grade 10 lesson, with a practical activity) | Jordan Grade 10 G10T1 Student, printed p. 138 |
 
-**Acceptance count: taught in 1 country (Bangladesh).**
+**Acceptance count: taught in 2 countries (Bangladesh, Jordan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Bangladesh, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — internet-and-the-web/html-text-formatting-bold-italic-super-and-subscript). It sits in the Internet and the Web title (internet-and-the-web/), following the book's own order. Near match checked by content: HTML Text Formatting — Font Size, Style and Colour teaches font properties; the formatting elements themselves (b, i, big, small, u, sup, sub) are built new. Provenance scope note: every placement stocked here is from a Bangladesh student book (all five distinct books in this expansion are student books, National Curriculum and Textbook Board (NCTB), Bangladesh; no ISBN printed; each read in the English Version with the Bangla Version parallel spot-checked — the English edition is cited, both editions named in the book entries). Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: html formatting, bold, italic, superscript, subscript, internet and the web, bangladesh, hsc ict
+Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
+
+Searchable tags: html formatting, bold, italic, superscript, subscript, internet and the web, bangladesh, hsc ict, jordan, grade 10 term 1 digital skills

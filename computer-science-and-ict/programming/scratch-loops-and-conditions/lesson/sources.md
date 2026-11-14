@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -67,6 +67,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sr
 **Book 32:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 33:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 34:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -111,8 +113,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sr
 | Unit 9 Repetition, variables and decisions in Scratch | Greece Grade 7 Pliroforiki A, printed p. 109 |
 | Scénario 5 Séance 3: représentation par blocs pour structurer le programme | Switzerland Grade 6 Décodage 5e–6e, printed p. 18 (Scénario 5) (teacher guide — evidence) |
 | Activité 9 Séance 1: ajouter le bloc «répéter indéfiniment» pour créer une boucle | Switzerland Grade 8 Décodage 7e–8e, printed p. 6 (Activité 9) (teacher guide — evidence) |
+| Lesson 4: Control Blocks in Scratch — sequence, conditional statements, types of loops in Scratch | Jordan Grade 8 G8T1 Student, printed p. 165 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece, Jordan).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
@@ -172,4 +175,6 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 56, switzerland, decodage, grades 78
+Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills

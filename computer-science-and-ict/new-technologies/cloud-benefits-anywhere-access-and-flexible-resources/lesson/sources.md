@@ -1,6 +1,6 @@
 # Sources — Cloud benefits — anywhere access and flexible resources
 
-countries: Ethiopia, Iraq, Egypt, Fiji
+countries: Ethiopia, Iraq, Egypt, Fiji, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Iraq, Egypt, Fiji
 
 **Book 4:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 5:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 11 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-725-6. Grade 11 (student book). 169 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Accessibility, mobility and collaboration: anywhere/any-time/any-device access, distant storage and retrieval, working from any location, real-time collaboration on shared content, provider backup against a failed personal service | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed p. 38 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Iraq, Egypt, Fiji
 | Unit 4 Ch.2 Lesson 2 Applications of cloud computing | Iraq, *Computer, Grade 11*, printed p. 134 |
 | Lesson 6, benefits and uses of cloud in daily life | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 57 |
 | 6.2 Common Cloud Storage Services (Google Drive, Dropbox, SpiderOak) | Fiji, *Computer Studies, Year 12*, printed p. 131 |
+| Lesson 1: benefits of cloud computing | Jordan Grade 11 G11T2 Student, printed p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Egypt, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Egypt, Fiji, Jordan).**
 
 Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
 
@@ -26,4 +29,6 @@ Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs a
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: cloud benefits, accessibility, mobility, inclusive education, text-to-speech, flexibility, Grade 12 ICT Ethiopia, iraq, grade 11, egypt, grade 7, fiji, year 12
+Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught through the two commercial providers students can actually open — Microsoft Azure and Google Cloud — before data security in the cloud; the AI unit goes from expert systems through machine learning and NLP to modelling and simulation.
+
+Searchable tags: cloud benefits, accessibility, mobility, inclusive education, text-to-speech, flexibility, Grade 12 ICT Ethiopia, iraq, grade 11, egypt, grade 7, fiji, year 12, jordan, grade 11 term 2 digital skills

@@ -1,6 +1,6 @@
 # Sources — Computer software — instructions that make hardware work
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 
 **Book 13:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 14:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 15:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What software is — instructions; hardware can do nothing without it; interdependence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.31 |
@@ -45,8 +49,10 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 | Computer components: software | Rwanda Grade 7 S1 ICT Student Book, printed p. 50 |
 | Ch.2 §1 The meaning and importance of software | Laos Grade 7 ICT student, printed p. 46 |
 | Unit 4 What is software / kinds of software | Greece Grade 7 Pliroforiki A, printed p. 37 |
+| Lesson 3: Software — the computer's software components | Jordan Grade 7 G7T1 Student, printed p. 32 |
+| Lesson plan 3: Software Components (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 32 (teacher guide — evidence) |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -71,4 +77,8 @@ Laos's own way (Grade 7 ICT student book): the hardware year is taught through t
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide

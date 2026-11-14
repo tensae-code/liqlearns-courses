@@ -1,6 +1,6 @@
 # Sources — What makes an algorithm good — six characteristics
 
-countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh
+countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldo
 
 **Book 10:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 11:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six characteristics | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 207–209 |
@@ -34,8 +36,9 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldo
 | Ch.2.2 Characteristics of an algorithm | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 22 |
 | 2.7 Generalități despre algoritmi | Moldova Grade 8 Informatică, printed p. 88 |
 | Learning Experience 5, Session 3: who has more steps — removing unnecessary steps, doing a task in the fewest steps | Bangladesh Grade 6 Digital Technology, printed p. 63 |
+| Lesson 1: writing and developing algorithms; conditions for writing algorithms; factors for choosing the best algorithm | Jordan Grade 7 G7T2 Student, printed p. 82 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh).**
+**Acceptance count: taught in 10 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan).**
 
 Book error taught corrected: the student book prints “fineness” for this characteristic (printed p. 210, in the worked-algorithms summary of the same list) — the word meant is **finiteness**, and the lesson teaches finiteness. The unit's outcomes header also spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint); the lessons use the correct spelling, Fundamentals of Programming.
 
@@ -56,4 +59,6 @@ Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Wor
 
 Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 8 informatica, bangladesh, grade 6 digital technology
+Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
+
+Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 8 informatica, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills

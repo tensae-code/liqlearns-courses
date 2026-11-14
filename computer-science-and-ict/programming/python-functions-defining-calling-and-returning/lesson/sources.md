@@ -1,17 +1,23 @@
 # Sources — Python Functions — Defining, Calling and Returning
 
-countries: Kuwait, Greece
+countries: Kuwait, Greece, Jordan
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
 **Book 2:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 3:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 4:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1: Functions (الدوال) | Kuwait Grade 10 Term 2 Book L1, printed p. 63 |
 | Unit 2 Subprograms (filed as NEW LESSON NEEDED — programming/subprograms-in-python; stocked in this lesson because this lesson teaches Python's subprograms — functions defined with def, called by name with arguments, handing answers back with return — the subprograms Greece's Python section introduces) | Greece Grade 9 Pliroforiki C, printed p. 20 |
+| Lesson 6: Functions — defining functions, returning results (filed as NEW LESSON NEEDED — programming/functions-in-python-and-returning-results; stocked in this lesson because this lesson teaches defining and calling Python functions and returning results — the functions Jordan's Grade 11 book teaches) | Jordan Grade 11 G11T1 Student, printed p. 110 |
+| Lesson plan 6: Functions (filed as NEW LESSON NEEDED — programming/functions-in-python-and-returning-results; stocked in this lesson because this lesson teaches defining and calling Python functions and returning results — the functions Jordan's Grade 11 book teaches) (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 110 (teacher guide — evidence) |
 
-**Acceptance count: taught in 2 countries (Kuwait, Greece).**
+**Acceptance count: taught in 3 countries (Kuwait, Greece, Jordan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-functions-defining-calling-and-returning). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +25,8 @@ Kuwait's own way (Grade 10 Information Technology Term 2): the Grade 10 year is 
 
 Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
 
-Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
+
+Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide

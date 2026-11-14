@@ -1,6 +1,6 @@
 # Sources — Digital computers — data as digits
 
-countries: Ethiopia, Bulgaria, Egypt, Mongolia
+countries: Ethiopia, Bulgaria, Egypt, Mongolia, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bulgaria, Egypt, Mongolia
 
 **Book 6:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 7:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed p. 12 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Bulgaria, Egypt, Mongolia
 | Урок 4 "Информацията и дигиталните устройства" (information and digital devices; what digital devices compute, store and retrieve) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 8 |
 | 6-1 Analog and Digital | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 53 |
 | 1.1.5 Binary coding (coding numbers and text in 0s and 1s) | Mongolia Grade 7 IT VII, printed p. 12 |
+| Lesson 1: representing data inside the computer system | Jordan Grade 10 G10T1 Student, printed p. 14 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, Egypt, Mongolia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, Egypt, Mongolia, Jordan).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -31,4 +34,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
 
-Searchable tags: digital computer, discrete values, digits, programs in memory, analog against digital, Ethiopia Grade 8, bulgaria, egypt, grade 10, mongolia, grade 7 it vii
+Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
+
+Searchable tags: digital computer, discrete values, digits, programs in memory, analog against digital, Ethiopia Grade 8, bulgaria, egypt, grade 10, mongolia, grade 7 it vii, jordan, grade 10 term 1 digital skills

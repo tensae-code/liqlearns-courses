@@ -1,6 +1,6 @@
 # Sources — E-learning — learning through digital devices
 
-countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh
+countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -30,6 +30,14 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Banglad
 
 **Book 15:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 16:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 17:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
+**Book 18:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 9 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-657-0. Grade 9 (student book). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 19:** *المهارات الرقمية — الصف التاسع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 9 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-658-7. Grade 9 (teacher guide). 270 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-learning and its components | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 15–16 (student placement item 12) |
@@ -48,8 +56,12 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Banglad
 | Parcours: Apprendre avec les outils numériques | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 12 (Parcours) (teacher guide — evidence) |
 | Parcours: Apprendre avec les outils numériques | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 12 (Parcours) (teacher guide — evidence) |
 | Chapter 1, 1.1.3: Education and e-learning in the global village | Bangladesh HSC ICT, printed p. 5 |
+| Computer Applications in Daily Life: e-learning and online (distance) learning | Jordan Grade 11 G11T1 Student, printed p. 172 |
+| Unit 2 Lesson plan 3: Computer Applications in Daily Life (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 172 (teacher guide — evidence) |
+| Lesson 2: E-Learning — tools and platforms | Jordan Grade 9 G9T1 Student, printed p. 22 |
+| Lesson plan 2: E-Learning — Tools and Platforms (teacher guide — evidence) | Jordan Grade 9 G9T1 Teacher, printed p. 22 (teacher guide — evidence) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh).**
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. The e-learning figure in the student book is numbered 1.13, straight after Figure 1.10 — Figures 1.11 and 1.12 never appear; the lesson teaches the content, not the numbering.
 
@@ -75,4 +87,12 @@ Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repe
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
+
+Jordan's own way (Jordan Grade 9 G9T1 Student): Grade 9 pairs the social side of computing (impact, e-learning, cybercrime, cyberbullying, digital media) with Scratch programming taken further than blocks basics — variables, nested conditionals, debugging, iterative development, nested loops, functions and subroutines.
+
+Jordan's own way (Jordan Grade 9 G9T1 Teacher): Same guide model as the Grade 11 guide — project-based three-stage lesson plans (preparation / teaching-and-learning / enrichment and assessment) for every student-book lesson, with assessment strategies and tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide

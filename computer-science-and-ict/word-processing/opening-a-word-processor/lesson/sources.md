@@ -1,6 +1,6 @@
 # Sources — Opening a word processor
 
-countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos
+countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,14 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos
 
 **Book 14:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 15:** *المهارات الرقمية — الصف الثالث الأساسي، كتاب الأنشطة (Digital Skills, Grade 3 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-979-3. Grade 3 (student activity book). 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts (Word, PowerPoint, Excel, saving files) are placed; partner-subject content is not.
+
+**Book 16:** *المهارات الرقمية — الصف الثالث الأساسي، دليل المعلم (Digital Skills, Grade 3 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-982-3. Grade 3 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
+**Book 17:** *المهارات الرقمية — الصف السادس الأساسي، كتاب الأنشطة (Digital Skills, Grade 6 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN no ISBN printed (the ISBN line in this copy is a row of X placeholders, as filed). Grade 6 (student activity book — one file holding both semesters, internal title 'G6 AB S1-S2', as filed). 175 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
+
+**Book 18:** *المهارات الرقمية — الصف السادس الأساسي، دليل المعلم (Digital Skills, Grade 6 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-985-4. Grade 6 (teacher guide). 99 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Opening Word, route 1 — Start → All Programs → Microsoft Office → Word 2016 | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.36–37 |
@@ -40,8 +48,12 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos
 | Unidad 2.2 Localización y ejecución del procesador de texto (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher programme — evidence) |
 | 2.2 Introduction to MS Word | Bhutan, *Literacy with ICT, Class V*, printed p. 14 |
 | Ch.2 §2.1 Entering Microsoft Word | Laos Grade 9 ICT student, printed p. 7 |
+| Block 1 Digital Skills in Science (Life Cycles): written work in Microsoft Word | Jordan Grade 3 G3 Workbook, printed p. 6 |
+| Block 1 guide plan: creating an ID card for a living thing in Word (teacher guide — evidence) | Jordan Grade 3 G3 Teacher, printed p. 6 (teacher guide — evidence) |
+| creating a new document (Blank Document) and the Word workspace | Jordan Grade 6 G6 Workbook, printed p. 13 |
+| Guide plan: creating a new document in Word (teacher guide — evidence) | Jordan Grade 6 G6 Teacher, printed p. 15 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -70,4 +82,12 @@ Bhutan's own way (Class V, Literacy with ICT student book): Word is taught toget
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5, bhutan, class v, laos, grade 9 ict student
+Jordan's own way (Jordan Grade 3 G3 Workbook): The Office ladder continues — Word carries the early blocks, PowerPoint the middle blocks (e.g. multiplication facts), and Excel appears in the geometry-and-measurement block, with Save As taught as an explicit step.
+
+Jordan's own way (Jordan Grade 3 G3 Teacher): Guide plans mirror the workbook's Office ladder — Word cards and writing first (Block 1 product: an ID card for a living thing with a drawing of its life cycle), then PowerPoint, then Excel.
+
+Jordan's own way (Jordan Grade 6 G6 Workbook): Grade 6 adds real Windows skills inside the activity blocks — creating a blank Word document, capturing the active window with Alt+Print Screen into the clipboard and Paint, and pixel art built in Excel with controlled dimensions.
+
+Jordan's own way (Jordan Grade 6 G6 Teacher): Guide plans mirror the workbook blocks with learning products, digital tools and assessment appendices, as in the other early-grades guides.
+
+Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5, bhutan, class v, laos, grade 9 ict student, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 6 digital skills workbook, grade 6 digital skills teacher guide

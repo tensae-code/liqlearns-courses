@@ -1,6 +1,6 @@
 # Sources — Typing text — the blinking insertion point
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova
+countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova
 
 **Book 8:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 9:** *المهارات الرقمية — الصف الثالث الأساسي، كتاب الأنشطة (Digital Skills, Grade 3 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-979-3. Grade 3 (student activity book). 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts (Word, PowerPoint, Excel, saving files) are placed; partner-subject content is not.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Click the word processor icon to open it; the blinking cursor (insertion point) sits in the text area below the ribbon | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 46 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova
 | Capítulo 2.3 Construyo, organizo y completo mis ideas | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 50 |
 | Ch.4 Create a document using the keyboard | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 42 |
 | Lecția 5 Elementele textului (the cursor, moving to a new line, menus of a text editor) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 25 |
+| typing and writing in Word across the early blocks | Jordan Grade 3 G3 Workbook, printed p. 12 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -48,4 +51,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of information quantity (bit, byte, binary drawing) before any office software, teaches the keyboard including touch-typing posture, and keeps programming unplugged-but-precise: loops, jump (pen-up) instructions and multi-loop programs for the mouse, the painter and the hedgehog. The Digital Education module sits inside Technological Education.
 
-Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book, moldova, grade 2 educatie digitala
+Jordan's own way (Jordan Grade 3 G3 Workbook): The Office ladder continues — Word carries the early blocks, PowerPoint the middle blocks (e.g. multiplication facts), and Excel appears in the geometry-and-measurement block, with Save As taught as an explicit step.
+
+Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book, moldova, grade 2 educatie digitala, jordan, grade 3 digital skills workbook

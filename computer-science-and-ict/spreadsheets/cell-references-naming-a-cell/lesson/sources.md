@@ -1,6 +1,6 @@
 # Sources — Cell references
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Fiji
+countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Fiji
 
 **Book 6:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 7:** *المهارات الرقمية — الصف الرابع الأساسي، كتاب الأنشطة (Digital Skills, Grade 4 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-986-1. Grade 4 (student activity book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
+
+**Book 8:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cell references — column letter and row number (A1, E4); a formula uses the reference instead of the value; changing a referenced value updates every formula using it; a formula cell can be referenced by another formula | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 112 |
@@ -21,8 +25,10 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Fiji
 | Unit 3 Lesson 14 Sheets and cells: organising the spreadsheet (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 37 (teacher guide — evidence) |
 | Урок 18 "Элементы электронной таблицы" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 42 |
 | Unit 3.4 The cell and its importance to Excel | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 86 |
+| Block 2: Excel — the active cell, moving between cells with the arrow keys, cell addresses (e.g. B4) | Jordan Grade 4 G4 Workbook, printed p. 22 |
+| Guide plans for the Excel block (active cell, cell addresses) (teacher guide — evidence) | Jordan Grade 4 G4 Teacher, printed p. 14 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Uzbekistan, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -35,4 +41,8 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8, uzbekistan, grade 9, fiji, years 7-8
+Jordan's own way (Jordan Grade 4 G4 Workbook): Grade 4 teaches the spreadsheet grid itself (active cell, moving with the arrow keys, cell addresses like B4) inside a multiplication block, and finishes a Word calendar project with a table topped by WordArt.
+
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8, uzbekistan, grade 9, fiji, years 7-8, jordan, grade 4 digital skills workbook, grade 4 digital skills teacher guide

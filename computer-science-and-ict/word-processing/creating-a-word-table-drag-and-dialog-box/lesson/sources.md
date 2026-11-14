@@ -1,6 +1,6 @@
 # Sources — Creating a Word table — drag and dialog box
 
-countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan,
 
 **Book 19:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 20:** *المهارات الرقمية — الصف الرابع الأساسي، كتاب الأنشطة (Digital Skills, Grade 4 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-986-1. Grade 4 (student activity book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — what a table is; the drag route (5×2, saved as Table 1); blank lines between tables | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 82–83 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan,
 | Ch.4 §4.1 Creating a table | Laos Grade 9 ICT student, printed p. 42 |
 | Unit 7 Tables | Greece Grade 7 Pliroforiki A, printed p. 85 |
 | 1.5 Liste și tabele (tables) | Moldova Grade 8 Informatică, printed p. 22 |
+| the calendar project: a table in Word | Jordan Grade 4 G4 Workbook, printed p. 126 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 16 countries (Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -96,4 +99,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: Word table, Insert Table, drag grid, columns rows cells, AutoFit, Table 1, Table 2, Ethiopia Grade 10, eritrea, cambodia, uganda, afghanistan, yemen, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, bhutan, class vi, mongolia, grade 7 it vii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica
+Jordan's own way (Jordan Grade 4 G4 Workbook): Grade 4 teaches the spreadsheet grid itself (active cell, moving with the arrow keys, cell addresses like B4) inside a multiplication block, and finishes a Word calendar project with a table topped by WordArt.
+
+Searchable tags: Word table, Insert Table, drag grid, columns rows cells, AutoFit, Table 1, Table 2, Ethiopia Grade 10, eritrea, cambodia, uganda, afghanistan, yemen, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, bhutan, class vi, mongolia, grade 7 it vii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, jordan, grade 4 digital skills workbook

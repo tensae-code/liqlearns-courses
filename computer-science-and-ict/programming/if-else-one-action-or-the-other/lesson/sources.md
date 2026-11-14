@@ -1,6 +1,6 @@
 # Sources — if…else — one action or the other
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh
+countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 
 **Book 18:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
 
+**Book 19:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -60,8 +62,9 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 | Part 2, Book 3, Chapter 2: IF…Then…Else, with the table of comparison operators | Kuwait Grade 12 Information Technology T1 (Part 2), printed p. 123 |
 | 2.5 Algoritmi cu ramificări (branching algorithms) | Moldova Grade 8 Informatică, printed p. 82 |
 | Learning Experience 4, Session 6: Using Conditions in Python | Bangladesh Grade 9 Digital Technology, printed p. 126 |
+| Lesson 2: conditional statements in algorithms | Jordan Grade 12 G12T1 Student, printed p. 32 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh).**
+**Acceptance count: taught in 13 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan).**
 
 BOOK ERROR flagged: the student book's if…else example on printed p. 171 carries a printed Word cross-reference failure — the words 'error: reference source not found' appear where a figure reference belongs. The lesson teaches the if…else content itself, which is complete and correct; the broken reference is named here, not reproduced as teaching. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -96,4 +99,6 @@ Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Wor
 
 Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1, moldova, grade 8 informatica, bangladesh, grade 9 digital technology
+Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1, moldova, grade 8 informatica, bangladesh, grade 9 digital technology, jordan, grade 12 term 1 digital skills

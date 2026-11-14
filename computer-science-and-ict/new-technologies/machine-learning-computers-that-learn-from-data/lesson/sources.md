@@ -1,6 +1,6 @@
 # Sources — Machine Learning — computers that learn from data
 
-countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh
+countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Ban
 
 **Book 16:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 17:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 11 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-725-6. Grade 11 (student book). 169 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Machine Learning defined; train on sample data, build a model, predict for decisions; the four applications | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 29 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Ban
 | Introduction §7 Intelligence artificielle | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 11 (teacher guide — evidence) |
 | Introduction §7 Intelligence artificielle | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 14 (teacher guide — evidence) |
 | Chapter 1, 1.3.1: machine learning — supervised, unsupervised and reinforcement learning, neural networks and deep learning | Bangladesh HSC ICT, printed p. 16 |
+| Lesson: Machine Learning — what machine learning is | Jordan Grade 11 G11T2 Student, printed p. 92 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh).**
+**Acceptance count: taught in 9 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -82,4 +85,6 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught through the two commercial providers students can actually open — Microsoft Azure and Google Cloud — before data security in the cloud; the AI unit goes from expert systems through machine learning and NLP to modelling and simulation.
+
+Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills

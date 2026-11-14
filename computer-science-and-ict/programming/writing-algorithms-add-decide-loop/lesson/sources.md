@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — add, decide, loop
 
-countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh
+countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh
 
 **Book 13:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 14:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Model 1 — adding two numbers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 209–210 |
@@ -45,8 +47,9 @@ countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh
 | Scénario 7 Séance 2: L'algorithme du jeu en langage naturel | Switzerland Grade 8 Décodage 7e–8e, printed p. 7 (Scénario 7) (teacher guide — evidence) |
 | Learning Experience 5 "If I were a Robot", Session 3: Let's Prepare Problem Solving Algorithms | Bangladesh Grade 7 Digital Technology, printed p. 61 |
 | Chapter 5, 5.4.1: Algorithm — steps for solving a problem, with the bicycle-or-rickshaw worked example | Bangladesh HSC ICT, printed p. 149 |
+| Unit 2 Algorithms, Lesson 1: Algorithms — what an algorithm is and its importance | Jordan Grade 7 G7T2 Student, printed p. 78 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh).**
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan).**
 
 As printed: model 3's loop check reads “less than 10” in the book (printed p. 210); the lesson keeps the book's printed check and names it as printed, rather than silently rewriting the limit.
 
@@ -74,4 +77,6 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: writing algorithms, add two numbers, branching algorithm, negative positive zero, loop, counter, sum of ten numbers, Grade 10 ICT Ethiopia, mauritania, grade 9, egypt, grade 10, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
+
+Searchable tags: writing algorithms, add two numbers, branching algorithm, negative positive zero, loop, counter, sum of ten numbers, Grade 10 ICT Ethiopia, mauritania, grade 9, egypt, grade 10, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills

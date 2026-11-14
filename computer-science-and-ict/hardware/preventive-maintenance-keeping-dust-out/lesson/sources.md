@@ -1,6 +1,6 @@
 # Sources — Preventive maintenance — keeping dust out
 
-countries: Ethiopia, Iraq
+countries: Ethiopia, Iraq, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia.  Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University.  Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc).  Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor).  Illustrator: Selamneh Belete Tekle (MSc).  Designer: Dagnachew Melesew Alemayehu (MSc).  First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E).  ISBN: 978-99990-0-042-0.  Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.  Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Iraq
 **Book 3:** *الحاسوب — الرابع الإعدادي (Computer, Fourth Preparatory Grade), Grade 10* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), third edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
 **Book 4:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
+
+**Book 5:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,10 +21,11 @@ countries: Ethiopia, Iraq
 | The drastic-fix caution — most problems have simple solutions; reformatting/reinstalling can be needed, and a non-expert attempting it can make things worse (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 5 review answers, printed pp. 111–112 |
 | Unit 1 Ch.1 Lesson 1 Preventive maintenance of computer hardware | Iraq, *Computer, Grade 10*, printed p. 7 |
 | Unit 1, Topic Computer Administration, Lesson 2: Basic management and maintenance of computer systems (including cooling and dust) (filed as safety-security-and-care/cleaning-and-dust; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 46 (teacher guide — evidence) |
+| Lesson 1: types of computer maintenance | Jordan Grade 8 G8T1 Student, printed p. 13 |
 
 **Book 3 (growth):** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 MoE, under GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md (item 33).
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iraq).**
+**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Jordan).**
 
 The consequence key (dust → overheating and component failure) stands on teacher-guide evidence (teacher guide, printed pp. 95–98), labelled as such; the methods themselves are pupil-taught from the student book. The guide also prints "assign,ents" in this unit (for assignments); assignments is taught where the word is needed. The student book's review headings misspell "statment" throughout; statement is taught.
 
@@ -30,4 +33,6 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
 
-Searchable tags: preventive maintenance, dust cleaning, microfiber, compressed air, overheating, Grade 11 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 11
+Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
+
+Searchable tags: preventive maintenance, dust cleaning, microfiber, compressed air, overheating, Grade 11 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 11, jordan, grade 8 term 1 digital skills

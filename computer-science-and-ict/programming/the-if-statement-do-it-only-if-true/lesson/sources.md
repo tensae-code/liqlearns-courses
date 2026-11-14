@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh
+countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 
 **Book 24:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 25:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 9 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-657-0. Grade 9 (student book). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -73,8 +75,9 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 | Activité 5 Deviner la carte: le principe du tour est l'instruction conditionnelle | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 3 (Activité 5) (teacher guide — evidence) |
 | Scénario 5 (Square CT) Séance 1: créer des instructions conditionnelles | Switzerland Grade 6 Décodage 5e–6e, printed p. 10 (Scénario 5) (teacher guide — evidence) |
 | Chapter 5, 5.6: conditional statements — if | Bangladesh HSC ICT, printed p. 162 |
+| Lesson 2: the conditional statement and advanced control | Jordan Grade 9 G9T1 Student, printed p. 85 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh).**
+**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -118,4 +121,6 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 9 G9T1 Student): Grade 9 pairs the social side of computing (impact, e-learning, cybercrime, cyberbullying, digital media) with Scratch programming taken further than blocks basics — variables, nested conditionals, debugging, iterative development, nested loops, functions and subroutines.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills

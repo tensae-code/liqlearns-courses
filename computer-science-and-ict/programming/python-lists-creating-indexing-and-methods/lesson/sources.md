@@ -1,17 +1,33 @@
 # Sources — Python Lists — Creating, Indexing and Methods
 
-countries: Kuwait
+countries: Kuwait, Jordan
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
+
+**Book 2:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 3:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 4:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Digital Processing: Lists (القوائم) | Kuwait Grade 10 Term 2 Book L1, printed p. 17 |
+| Lesson 3 Data Structures: composite data structures in Python — lists (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) | Jordan Grade 12 G12T1 Student, printed p. 48 |
+| Lesson 5: Lists — creating lists, accessing elements, traversing, operations, built-in list functions (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) | Jordan Grade 11 G11T1 Student, printed p. 78 |
+| Lesson 5 (cont.): nested lists (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) | Jordan Grade 11 G11T1 Student, printed p. 99 |
+| Lesson plan 5: Lists (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 78 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Kuwait).**
+**Acceptance count: taught in 2 countries (Kuwait, Jordan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-lists-creating-indexing-and-methods). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Kuwait's own way (Grade 10 Information Technology Term 2): the Grade 10 year is a Python-to-AI arc — Term 2 moves from Python data structures and functions straight into AI concepts and a hands-on OpenCV face-recognition project, with the ministry's Hamad AI assistant threaded through the front matter.
 
-Searchable tags: python, lists, indexing, methods, append, data structures, programming, kuwait, grade 10 information technology term 2
+Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
+
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
+
+Searchable tags: python, lists, indexing, methods, append, data structures, programming, kuwait, grade 10 information technology term 2, jordan, grade 12 term 1 digital skills, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide

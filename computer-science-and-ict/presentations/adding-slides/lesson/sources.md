@@ -20,6 +20,8 @@ countries: Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece
 
 **Book 9:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 10:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Title Slide — "Click to Add Title" and "Click to Add Subtitle" placeholders; click inside and type | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 122–123 |
@@ -31,6 +33,7 @@ countries: Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece
 | Slides: insert a new slide, cut/copy/paste slides, apply a design theme (Nature-protect environmental presentation) | Rwanda Grade 9 S3 ICT Student Book, printed p. 157 |
 | Slides and objects on slides (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
 | Unit 4 Slides / inserting slides | Greece Grade 8 Pliroforiki B, printed p. 46 |
+| Learning Project 4 (Places and Feelings): a PowerPoint presentation about places in Jordan (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 87 (teacher guide — evidence) |
 
 **Acceptance count: taught in 6 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece).**
 
@@ -50,4 +53,8 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: title slide, placeholder, New Slide button, layout gallery, Ctrl+M, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, bhutan, class vii, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
+
+Searchable tags: title slide, placeholder, New Slide button, layout gallery, Ctrl+M, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, bhutan, class vii, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2

@@ -1,11 +1,15 @@
 # Sources — IoT applications — home, city, health, cars and farms
 
-countries: Ethiopia, Bangladesh
+countries: Ethiopia, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 **Book 2:** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 Ministry of Education, GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md.
 
 **Book 3:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 4:** *المهارات الرقمية — الصف الثاني عشر — الفصل الدراسي الثاني (Digital Skills, Grade 12, Second Semester, Academic track)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-888-8. Grade 12 (student book). 140 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy (نسخة قيد الإعداد) watermark, carried as filed.
+
+**Book 5:** *المهارات الرقمية — الصف العاشر — الفصل الدراسي الثاني (Digital Skills, Grade 10, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-884-0. Grade 10 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy watermark, carried as filed.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,9 +17,16 @@ countries: Ethiopia, Bangladesh
 | Industry table: home control, remote patient monitoring, fitness tracking, factory production-line control and asset tracking, automatic watering and soil monitoring in agriculture, connected cars and roads, smart-city traffic and parking | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 52–54 |
 | The connected home in detail: lighting control, gardening, safety and security, air/water quality, voice assistants, switches, locks, energy and water meters; devices and connectivity per use (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 2 (teacher guide — evidence), printed pp. 44, 46 |
 | Chapter 1, 1.1.7: Residence — the smart home and home automation, with its privacy problems | Bangladesh HSC ICT, printed p. 8 |
+| Lesson 1: using IoT in transport and positioning (GPS) | Jordan Grade 12 G12T2 Student, printed p. 18 |
+| Lesson 4: IoT Applications | Jordan Grade 12 G12T2 Student, printed p. 53 |
+| Lesson 1: practical examples of smart systems | Jordan Grade 10 G10T2 Student, printed p. 25 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh).**
+**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Jordan).**
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: IoT applications, smart home, smart city, connected health, connected cars, smart outlets, Grade 12 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 12 G12T2 Student): Arabic text with every technical term also given in English in parentheses; each lesson opens with main idea, key concepts and learning outcomes and closes with self-assessment; each unit ends with unit questions and a self-checklist. Draft copy (نسخة قيد الإعداد) watermark.
+
+Jordan's own way (Jordan Grade 10 G10T2 Student): IoT is taught at Grade 10 through the smart home — components and functions first, then network design, data collection and IoT security with practical network-design applications; the AI unit approaches AI through knowledge bases and formal logic (propositional/predicate logic, truth tables) before nanotechnology and holograms.
+
+Searchable tags: IoT applications, smart home, smart city, connected health, connected cars, smart outlets, Grade 12 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 10 term 2 digital skills

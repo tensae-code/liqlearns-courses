@@ -1,6 +1,6 @@
 # Sources — Troubleshooting — find the fault, find its cause
 
-countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos
+countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos
 
 **Book 10:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 11:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A systematic approach — hardware and software | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 142–143 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos
 | Workbook Ch.2 Activities 2.1-2.5: configuring/formatting and troubleshooting exercises | Sri Lanka Grade 8 G8 ICT Workbook, printed p. 3 |
 | Ch.2 §2.9 Solving the problems that arise from installing a computer | Laos Grade 8 ICT student, printed p. 44 |
 | Enquête 3 Étape 2: Réparation du réseau de tri — réfléchir à l'origine de la «panne» | Switzerland Grade 7 Décodage 7e–8e, printed p. 9 (Enquête 3) (teacher guide — evidence) |
+| Unit 1 Computing Systems, Lesson 1: Computer Troubleshooting and Computer Maintenance | Jordan Grade 8 G8T1 Student, printed p. 10 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan).**
 
 The student book sets the black-screen investigation as an activity with no printed solution (printed p. 143); the lesson teaches the systematic approach for it and invents no book answer. The book uses the number "Activity 5.2" for this troubleshooting activity as well as for the earlier uninstalling activity; the lesson teaches the skill, not the activity number.
 
@@ -55,4 +58,6 @@ Laos's own way (Grade 8 ICT student book): a full PC-technician year in full col
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student, switzerland, decodage, grades 78
+Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
+
+Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills

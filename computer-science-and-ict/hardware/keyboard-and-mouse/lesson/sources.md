@@ -32,6 +32,8 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lan
 
 **Book 15:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 16:** *المهارات الرقمية — الصف الأول الأساسي، دليل المعلم (Digital Skills, Grade 1 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-980-9. Grade 1 (teacher guide). 103 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The keyboard | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 17 |
@@ -50,6 +52,7 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lan
 | Workbook Ch.4 Activities 4.1-4.8: mouse/keyboard and application-software practical exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 28 |
 | Ch.4 Keyboard: learn about it and use it correctly | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 38 |
 | Additional content: types of keyboard (QWERTY, AZERTY) (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 21 (teacher guide — evidence) |
+| Block 1 learning outcomes: using the computer's components (keyboard, mouse, screen) correctly and safely while drawing in Paint (teacher guide — evidence) | Jordan Grade 1 G1 Teacher, printed p. 7 (teacher guide — evidence) |
 
 **Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka).**
 
@@ -79,4 +82,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
 
-Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, rwanda, grade 7 s1 ict teacher guide
+Jordan's own way (Jordan Grade 1 G1 Teacher): The guide states the digital aim of the Paint work explicitly — computational thinking and formulating commands — and gives a fallback: if no computers are available, print the pictures and do the direction work on paper, because the goal is the thinking, not the device. Each block plan lists learning outcomes, digital tools and programs, materials, and an application mechanism run alongside the partner subject book.
+
+Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, rwanda, grade 7 s1 ict teacher guide, jordan, grade 1 digital skills teacher guide

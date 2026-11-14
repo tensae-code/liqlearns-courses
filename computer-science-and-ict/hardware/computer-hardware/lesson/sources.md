@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -68,6 +68,10 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 
 **Book 35:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 36:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 37:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -108,8 +112,10 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 | 2.1 Structura și funcționarea calculatorului | Moldova Grade 7 Informatică, printed p. 25 |
 | 6.1 Schema funcțională a calculatorului | Moldova Grade 11 Informatică, printed p. 163 |
 | Activité 2: L'ordinatron — les composants d'une tablette numérique (l'intérieur d'une tablette) | Switzerland Grade 5 Décodage 5e–6e, printed p. 3 (Activité 2) (teacher guide — evidence) |
+| Lesson 2: Hardware — the computer's hardware components: peripherals and internal components | Jordan Grade 7 G7T1 Student, printed p. 19 |
+| Lesson plan 2: Hardware Components (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 19 (teacher guide — evidence) |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 21 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -168,4 +174,8 @@ Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how 
 
 Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide

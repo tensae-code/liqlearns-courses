@@ -1,6 +1,6 @@
 # Sources — Flowchart symbols
 
-countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh
+countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh
 
 **Book 11:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 12:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The seven basic flowchart symbols tabled | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 224 |
@@ -34,12 +36,13 @@ countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh
 | Ch.1 Representing algorithms: flow chart symbols table and worked flow charts | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 9 |
 | Enquête 1 Temps 2.3: Création d'un outil de synthèse et découverte de l'outil logigramme — les formes du logigramme | Switzerland Grade 7 Décodage 7e–8e, printed p. 10 (Enquête 1) (teacher guide — evidence) |
 | Chapter 5, 5.4.2: Flowchart — the standard symbols and their meanings | Bangladesh HSC ICT, printed p. 150 |
+| Lesson 2: types of flowcharts | Jordan Grade 7 G7T2 Student, printed p. 122 |
 
 | Flowcharts — why precise representation; the definition; the pictured symbol set (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 210–212 |
 | Unit 3, 3-2: The program flowchart and its standard symbols | Sudan, *Computer Science, Grade 11*, printed p. 26 |
 | Unit 3 Lesson 2: Flowcharts | Sudan, *ICT, Grade 9*, printed p. 37 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jordan).**
 
 Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
 
@@ -59,4 +62,6 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
+
+Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills

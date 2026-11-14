@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -52,6 +52,12 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 
 **Book 26:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 27:** *المهارات الرقمية — الصف الثالث الأساسي، كتاب الأنشطة (Digital Skills, Grade 3 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-979-3. Grade 3 (student activity book). 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts (Word, PowerPoint, Excel, saving files) are placed; partner-subject content is not.
+
+**Book 28:** *المهارات الرقمية — الصف الثالث الأساسي، دليل المعلم (Digital Skills, Grade 3 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-982-3. Grade 3 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
+**Book 29:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -87,8 +93,11 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 | Activity 23: Spreadsheet software (Spread Sheet) (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 96 (teacher guide — evidence) |
 | Ch.5 §5.1–5.2 Getting started with Microsoft Excel; the Excel workbook | Laos Grade 9 ICT student, printed p. 51 |
 | Unit 3 Spreadsheet software / managing cells in the grid | Greece Grade 8 Pliroforiki B, printed p. 31 |
+| Block 6 Geometry and Measurement: working in Excel | Jordan Grade 3 G3 Workbook, printed p. 100 |
+| Guide plans for the Excel blocks (teacher guide — evidence) | Jordan Grade 3 G3 Teacher, printed p. 72 (teacher guide — evidence) |
+| working in Excel | Jordan Grade 5 G5 Workbook, printed p. 74 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece).**
+**Acceptance count: taught in 18 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -139,4 +148,10 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou
+Jordan's own way (Jordan Grade 3 G3 Workbook): The Office ladder continues — Word carries the early blocks, PowerPoint the middle blocks (e.g. multiplication facts), and Excel appears in the geometry-and-measurement block, with Save As taught as an explicit step.
+
+Jordan's own way (Jordan Grade 3 G3 Teacher): Guide plans mirror the workbook's Office ladder — Word cards and writing first (Block 1 product: an ID card for a living thing with a drawing of its life cycle), then PowerPoint, then Excel.
+
+Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 5 digital skills workbook

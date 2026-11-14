@@ -1,6 +1,6 @@
 # Sources — Creating and saving a document file
 
-countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos, Greece
+countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos, Greece
 
 **Book 14:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 15:** *المهارات الرقمية — الصف الثاني الأساسي، كتاب الأنشطة (Digital Skills, Grade 2 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-978-x (final digit not legible in the text layer, as filed). Grade 2 (student activity book). 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: blocks integrate partner subjects; only the ICT teaching parts (PowerPoint, Word, keyboard, images, saving files) are placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Creating the document | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 8–10 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos, Greece
 | Unit 2 Ch 2.2, saving the scanned image | Libya Grade 8 Computer, printed p. 55 |
 | Ch.5 §5.7 Saving a workbook | Laos Grade 9 ICT student, printed p. 63 |
 | Unit 7 Creating, saving and printing documents | Greece Grade 7 Pliroforiki A, printed p. 73 |
+| saving the file continuously, after every edit | Jordan Grade 2 G2 Workbook, printed p. 113 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos, Greece).**
+**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Uzbekistan, Bhutan, Libya, Laos, Greece, Jordan).**
 
 Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
@@ -74,4 +77,6 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: create document, word processor, WordPad, MS Word, LibreOffice Writer, Save, Save As, Ethiopian Cultural Foods, files and folders, grade 9, information technology, ict, ethiopia, belarus, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou
+Jordan's own way (Jordan Grade 2 G2 Workbook): At Grade 2 the digital tool widens from Paint to Office: every block's learning product is a PowerPoint presentation, Word is used for written work, and keyboard finger placement and saving-after-every-edit are taught as habits.
+
+Searchable tags: create document, word processor, WordPad, MS Word, LibreOffice Writer, Save, Save As, Ethiopian Cultural Foods, files and folders, grade 9, information technology, ict, ethiopia, belarus, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 2 digital skills workbook

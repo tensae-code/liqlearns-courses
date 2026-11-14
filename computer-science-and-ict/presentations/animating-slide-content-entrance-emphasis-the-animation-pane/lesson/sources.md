@@ -26,6 +26,8 @@ countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, G
 
 **Book 12:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 13:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — animations reveal items one at a time; the worked route on a bulleted slide: Animations tab, select bullets, hover to preview, More for the full list, Fade, Effect Options | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 127–128 |
@@ -41,6 +43,7 @@ countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, G
 | Ch.5 §VII.1 Creating animation in PowerPoint | Laos Grade 12 ICT student, printed p. 239 |
 | Unit 4 Object movements / slide transitions | Greece Grade 8 Pliroforiki B, printed p. 51 |
 | 5.5 Tranziții și animații (animations) | Moldova Grade 7 Informatică, printed p. 103 |
+| Learning Project 1 (Seasons in a calendar: nature, numbers and time): a staged PowerPoint presentation project (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 36 (teacher guide — evidence) |
 
 **Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, Greece, Moldova).**
 
@@ -66,4 +69,8 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: animations, Animations tab, Fade, Animation Pane, entrance, emphasis, Effect Options, Ethiopia Grade 10, afghanistan, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
+
+Searchable tags: animations, Animations tab, Fade, Animation Pane, entrance, emphasis, Effect Options, Ethiopia Grade 10, afghanistan, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2

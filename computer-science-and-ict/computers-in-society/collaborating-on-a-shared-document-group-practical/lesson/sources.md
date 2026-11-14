@@ -17,6 +17,8 @@ countries: Ethiopia, Cambodia, Cuba, Bhutan, Greece
 **Book 7:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 8:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 9:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The practical, step by step | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 21 (student placement item 29) |
@@ -28,6 +30,7 @@ countries: Ethiopia, Cambodia, Cuba, Bhutan, Greece
 | Unit 5 Creating documents and collaborating in online environments (the +γραφίς service) | Greece Grade 9 Pliroforiki C, printed p. 52 |
 | Parcours: Le livre numérique de la charte (production collective sur tablette) | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 2 (Parcours) (teacher guide — evidence) |
 | Parcours: Le livre numérique de la charte | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Parcours) (teacher guide — evidence) |
+| Environment 3: sharing and presenting group work through Padlet (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 22 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Cuba, Bhutan, Greece).**
 
@@ -43,4 +46,8 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
 
-Searchable tags: group practical, shared document, screen sharing, cloud word processing, collaboration in practice, Ethiopia Grade 12 IT, cambodia, cuba, grade 6, bhutan, class vi, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
+
+Searchable tags: group practical, shared document, screen sharing, cloud word processing, collaboration in practice, Ethiopia Grade 12 IT, cambodia, cuba, grade 6, bhutan, class vi, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2

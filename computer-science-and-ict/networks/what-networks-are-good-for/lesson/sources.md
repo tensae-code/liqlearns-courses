@@ -1,6 +1,6 @@
 # Sources — What networks are good for
 
-countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh
+countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh
 
 **Book 9:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 10:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Five families of benefit | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 61–62 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh
 | Learning Experience 5 "Let us build a Network", Sessions 1-2: transferring files between devices; necessity of networks; exchange of information over a network | Bangladesh Grade 9 Digital Technology, printed p. 147 |
 | Chapter 2, 2.5.2: Objectives of computer networking — sharing information, software and hardware resources | Bangladesh HSC ICT, printed p. 62 |
 | Chapter 2, 2.5.5: Functions of a network — access control, backup, security and protection from unauthorised access | Bangladesh HSC ICT, printed p. 68 |
+| Lesson 1: advantages of computer networks | Jordan Grade 7 G7T1 Student, printed p. 70 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -53,4 +56,6 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills

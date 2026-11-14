@@ -1,6 +1,6 @@
 # Sources — Making a picture in Paint
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova
+countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -43,6 +43,14 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 **Book 20:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 **Book 21:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 22:** *المهارات الرقمية — الصف الأول الأساسي، كتاب الأنشطة للطالب (Digital Skills, Grade 1 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-977-9. Grade 1 (student activity book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: this early-grades activity book integrates partner subjects; only its ICT teaching parts are placed.
+
+**Book 23:** *المهارات الرقمية — الصف الأول الأساسي، دليل المعلم (Digital Skills, Grade 1 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-980-9. Grade 1 (teacher guide). 103 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
+**Book 24:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
+
+**Book 25:** *المهارات الرقمية — الصف السادس الأساسي، كتاب الأنشطة (Digital Skills, Grade 6 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN no ISBN printed (the ISBN line in this copy is a row of X placeholders, as filed). Grade 6 (student activity book — one file holding both semesters, internal title 'G6 AB S1-S2', as filed). 175 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -70,8 +78,16 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 | Basic graphic elements with MS Paint; graphics formatting (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 127 (teacher guide — evidence) |
 | Lecția 8 Aplicații pentru desen (the drawing app's window: title bar, shapes box, tool icons) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 38 |
 | 3.10 Aplicația Paint | Moldova Grade 7 Informatică, printed p. 71 |
+| Block 1: exploratory tasks in MS Paint — identifying directions on the computer, opening Paint, solving the maze | Jordan Grade 1 G1 Workbook, printed p. 6 |
+| Block 1: drawing my country's flag in Paint; arrows and directions | Jordan Grade 1 G1 Workbook, printed p. 15 |
+| Block 3 Adding and Subtracting Numbers: counting and colouring in Paint; reviewing numbers and solving addition/subtraction problems using Paint | Jordan Grade 1 G1 Workbook, printed p. 24 |
+| Block 4 Movement and Force: distinguishing directions and colouring using Paint | Jordan Grade 1 G1 Workbook, printed p. 48 |
+| Block 6 Geometric Shapes: drawing with geometric shapes and with lines | Jordan Grade 1 G1 Workbook, printed p. 69 |
+| Block 1 guide plan: running Paint and using it to identify directions; the Paint workspace and its icons; opening a picture file in Paint; creating and colouring a drawing of the Jordanian flag (teacher guide — evidence) | Jordan Grade 1 G1 Teacher, printed p. 6 (teacher guide — evidence) |
+| making a picture in Paint | Jordan Grade 5 G5 Workbook, printed p. 11 |
+| working with the captured picture in Paint | Jordan Grade 6 G6 Workbook, printed p. 54 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova).**
+**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -112,4 +128,12 @@ Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of inf
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica
+Jordan's own way (Jordan Grade 1 G1 Workbook): At Grade 1, digital skills are taught inside an integrated activity book — six "blocks" (لبنات) of exploratory tasks where MS Paint is the working tool for position/direction, numbers, movement and shapes, ending in an unplugged "Programming Hour" project of direction commands.
+
+Jordan's own way (Jordan Grade 1 G1 Teacher): The guide states the digital aim of the Paint work explicitly — computational thinking and formulating commands — and gives a fallback: if no computers are available, print the pictures and do the direction work on paper, because the goal is the thinking, not the device. Each block plan lists learning outcomes, digital tools and programs, materials, and an application mechanism run alongside the partner subject book.
+
+Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
+
+Jordan's own way (Jordan Grade 6 G6 Workbook): Grade 6 adds real Windows skills inside the activity blocks — creating a blank Word document, capturing the active window with Alt+Print Screen into the clipboard and Paint, and pixel art built in Excel with controlled dimensions.
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, jordan, grade 1 digital skills workbook, grade 1 digital skills teacher guide, grade 5 digital skills workbook, grade 6 digital skills workbook

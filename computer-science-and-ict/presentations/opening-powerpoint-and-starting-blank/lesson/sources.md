@@ -1,6 +1,6 @@
 # Sources — Opening PowerPoint and starting blank
 
-countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, Kuwait, Laos
+countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, Kuwait, Laos, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -27,6 +27,20 @@ countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, 
 **Book 12:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher's handbook, ICT, Secondary Year 5)* (teacher guide, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN: no ISBN printed. 125 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 **Book 13:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 14:** *المهارات الرقمية — الصف الثاني الأساسي، كتاب الأنشطة (Digital Skills, Grade 2 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-978-x (final digit not legible in the text layer, as filed). Grade 2 (student activity book). 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: blocks integrate partner subjects; only the ICT teaching parts (PowerPoint, Word, keyboard, images, saving files) are placed.
+
+**Book 15:** *المهارات الرقمية — الصف الثاني الأساسي، دليل المعلم (Digital Skills, Grade 2 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-981-6. Grade 2 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
+**Book 16:** *المهارات الرقمية — الصف الثالث الأساسي، كتاب الأنشطة (Digital Skills, Grade 3 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-979-3. Grade 3 (student activity book). 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts (Word, PowerPoint, Excel, saving files) are placed; partner-subject content is not.
+
+**Book 17:** *المهارات الرقمية — الصف الثالث الأساسي، دليل المعلم (Digital Skills, Grade 3 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-982-3. Grade 3 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
+**Book 18:** *المهارات الرقمية — الصف الرابع الأساسي، كتاب الأنشطة (Digital Skills, Grade 4 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-986-1. Grade 4 (student activity book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
+
+**Book 19:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
+**Book 20:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The File tab — New, Open, Recent and what each does | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 121–122 |
@@ -42,8 +56,15 @@ countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, 
 | Unit 2 Digital Tools (Microsoft PowerPoint), Lesson 1 The Exciting Presentation (1): launching into presentations — starting PowerPoint, its window, adding slides, opening and saving a presentation file | Kuwait Grade 4 Digital Explorer T2, printed p. 95 |
 | Appendix ຄ: Using Microsoft PowerPoint (getting to know MS PowerPoint 2007) (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 90 (teacher guide — evidence) |
 | Ch.5 §I Creating presentations with Microsoft PowerPoint (about the program; entering PowerPoint) | Laos Grade 12 ICT student, printed p. 192 |
+| Block 1 Digital Skills in Science (Living Things): the learning product is a card made with PowerPoint about an animal | Jordan Grade 2 G2 Workbook, printed p. 6 |
+| Block 1 guide plan: the learning product is an ID card for the Arabian oryx made in PowerPoint (teacher guide — evidence) | Jordan Grade 2 G2 Teacher, printed p. 6 (teacher guide — evidence) |
+| Block 3: presentations in PowerPoint (multiplication facts within 10) | Jordan Grade 3 G3 Workbook, printed p. 33 |
+| Guide plans for the PowerPoint blocks (teacher guide — evidence) | Jordan Grade 3 G3 Teacher, printed p. 32 (teacher guide — evidence) |
+| PowerPoint work from the first blocks | Jordan Grade 4 G4 Workbook, printed p. 6 |
+| Guide plans for the PowerPoint work (teacher guide — evidence) | Jordan Grade 4 G4 Teacher, printed p. 6 (teacher guide — evidence) |
+| presentations in PowerPoint | Jordan Grade 5 G5 Workbook, printed p. 34 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, Kuwait, Laos).**
+**Acceptance count: taught in 11 countries (Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, Kuwait, Laos, Jordan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -69,4 +90,18 @@ Laos's own way (Grade 10 ICT teacher guide): the guide quietly carries the year'
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 12 science for technology tamil, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide, grade 12 ict student
+Jordan's own way (Jordan Grade 2 G2 Workbook): At Grade 2 the digital tool widens from Paint to Office: every block's learning product is a PowerPoint presentation, Word is used for written work, and keyboard finger placement and saving-after-every-edit are taught as habits.
+
+Jordan's own way (Jordan Grade 2 G2 Teacher): The guide names the two digital-skills strands behind the Grade 2 blocks — Computing Systems (hardware and software components, the operating system) and Networks & Internet (organising data, security and privacy) — while the classroom products stay PowerPoint cards/presentations and Word writing.
+
+Jordan's own way (Jordan Grade 3 G3 Workbook): The Office ladder continues — Word carries the early blocks, PowerPoint the middle blocks (e.g. multiplication facts), and Excel appears in the geometry-and-measurement block, with Save As taught as an explicit step.
+
+Jordan's own way (Jordan Grade 3 G3 Teacher): Guide plans mirror the workbook's Office ladder — Word cards and writing first (Block 1 product: an ID card for a living thing with a drawing of its life cycle), then PowerPoint, then Excel.
+
+Jordan's own way (Jordan Grade 4 G4 Workbook): Grade 4 teaches the spreadsheet grid itself (active cell, moving with the arrow keys, cell addresses like B4) inside a multiplication block, and finishes a Word calendar project with a table topped by WordArt.
+
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
+
+Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 12 science for technology tamil, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide, grade 12 ict student, jordan, grade 2 digital skills workbook, grade 2 digital skills teacher guide, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 4 digital skills workbook, grade 4 digital skills teacher guide, grade 5 digital skills workbook

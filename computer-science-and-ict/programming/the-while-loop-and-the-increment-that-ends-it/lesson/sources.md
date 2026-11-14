@@ -1,6 +1,6 @@
 # Sources — The while loop — and the increment that ends it
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 
 **Book 16:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 17:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 18:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The while shape — test first, every time | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 184–185 (student placement item 128) |
@@ -53,8 +57,10 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 | 3.15 Instrucțiunea while (Pascal/C++) | Moldova Grade 10 Informatică, printed p. 148 |
 | Learning Experience 4, Session 8: Let us Use Loop to Do Tasks Repeatedly | Bangladesh Grade 9 Digital Technology, printed p. 138 |
 | Chapter 5, 5.6: the while loop | Bangladesh HSC ICT, printed p. 168 |
+| Lesson 4: Loops — types of loops in Python, while loops | Jordan Grade 11 G11T1 Student, printed p. 62 |
+| Lesson plan 4: Loops (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 62 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 2: the keyed point that the while-loop activity and the for-loop activity solve the same problem with the same output — two roads to one output (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -87,4 +93,8 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
+
+Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide

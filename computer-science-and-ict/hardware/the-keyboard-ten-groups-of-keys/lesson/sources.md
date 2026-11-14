@@ -1,6 +1,6 @@
 # Sources — The keyboard — ten groups of keys
 
-countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova
+countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova
 **Book 13:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 **Book 14:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 15:** *المهارات الرقمية — الصف الثاني الأساسي، كتاب الأنشطة (Digital Skills, Grade 2 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-978-x (final digit not legible in the text layer, as filed). Grade 2 (student activity book). 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: blocks integrate partner subjects; only the ICT teaching parts (PowerPoint, Word, keyboard, images, saving files) are placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova
 | 3.3 Using Keyboard (kinds of keys, touch typing) | Bhutan, *Literacy with ICT, Class IV*, printed p. 25 |
 | Lecția 4 Tastatura (letter keys, capitals, arrow keys) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 21 |
 | 6.8 Vizualizatorul și tastatura (the keyboard) | Moldova Grade 11 Informatică, printed p. 182 |
+| keeping fingers in their correct places on the keyboard | Jordan Grade 2 G2 Workbook, printed p. 53 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova).**
+**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan).**
 
 Printed p. 20 of the student book carries a stray character run (a run of the capital letter K typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -80,4 +83,6 @@ Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of inf
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica
+Jordan's own way (Jordan Grade 2 G2 Workbook): At Grade 2 the digital tool widens from Paint to Office: every block's learning product is a PowerPoint presentation, Word is used for written work, and keyboard finger placement and saving-after-every-edit are taught as habits.
+
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica, jordan, grade 2 digital skills workbook

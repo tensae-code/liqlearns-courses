@@ -1,6 +1,6 @@
 # Sources — Starting up a computer
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka
+countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka
 
 **Book 9:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 10:** *المهارات الرقمية — الصف الأول الأساسي، كتاب الأنشطة للطالب (Digital Skills, Grade 1 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-977-9. Grade 1 (student activity book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: this early-grades activity book integrates partner subjects; only its ICT teaching parts are placed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Start-up order — checks, connections, power buttons, loading, sign-in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.63 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka
 | U.D.1 Séance 1 switching the computer on and off properly (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 12 (teacher guide — evidence) |
 | 1.4 Using a Computer: starting a computer and login | Bhutan, *Literacy with ICT, Class IV*, printed p. 6 |
 | Ch.2 Operating the computer: switch-on sequence and proper shutdown | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 17 |
+| Block 1 Position and Direction: recognising the screen that appears when the Start button is pressed on the computer desktop | Jordan Grade 1 G1 Workbook, printed p. 6 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -44,4 +47,6 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
 
-Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book
+Jordan's own way (Jordan Grade 1 G1 Workbook): At Grade 1, digital skills are taught inside an integrated activity book — six "blocks" (لبنات) of exploratory tasks where MS Paint is the working tool for position/direction, numbers, movement and shapes, ending in an unplugged "Programming Hour" project of direction commands.
+
+Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook

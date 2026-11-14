@@ -1,6 +1,6 @@
 # Sources — Four ways to sort networks
 
-countries: Ethiopia, Fiji, Libya, Laos, Greece
+countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -13,6 +13,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Greece
 **Book 5:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 6:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 7:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 8:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four perspectives | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 46 |
@@ -21,8 +25,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Greece
 | Ch.4 §4.4 Types of network | Laos Grade 8 ICT student, printed p. 82 |
 | Ch.8 Classification of computer networks | Greece Grade 10 Efarmoges Pliroforikis, printed p. 76 |
 | Ch.3.3 Categories of networks (by transmission technology, forwarding technology, area covered) | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 88 |
+| Lesson 3: Types of Networks | Jordan Grade 7 G7T1 Student, printed p. 94 |
+| Unit 2 Lesson plan 3: Types of Networks (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 94 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Libya, Laos, Greece).**
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Libya, Laos, Greece, Jordan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -36,4 +42,8 @@ Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio
 
 Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
 
-Searchable tags: classifying networks, medium, size, topology, access, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: classifying networks, medium, size, topology, access, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide

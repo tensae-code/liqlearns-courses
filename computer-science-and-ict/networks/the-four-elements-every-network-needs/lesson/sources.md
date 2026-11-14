@@ -1,6 +1,6 @@
 # Sources — The four elements every network needs
 
-countries: Ethiopia, Laos, Greece, Bangladesh
+countries: Ethiopia, Laos, Greece, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Laos, Greece, Bangladesh
 
 **Book 6:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 7:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four elements, none missing | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 38 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Laos, Greece, Bangladesh
 | Unit 2 Network technologies / structural elements of a computer network (filed as NEW LESSON NEEDED — networks/network-technologies-and-structural-elements; stocked in this lesson because this lesson teaches the structural elements of a computer network — the four elements every network needs (hardware, network software, protocols, connection/transmission medium) — the elements Greece's section lists; its technologies are then met device by device in the Networks lessons that follow) | Greece Grade 8 Pliroforiki B, printed p. 20 |
 | Learning Experience 6, Sessions 3-6: setting up networking equipment on a map and building the school's learning network | Bangladesh Grade 6 Digital Technology, printed p. 85 |
 | Learning Experience 5, Sessions 5-6: Elements of a Network; Connecting to a Network | Bangladesh Grade 8 Digital Technology, printed p. 120 |
+| Lesson 1: components of computer networks | Jordan Grade 7 G7T1 Student, printed p. 75 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Laos, Greece, Bangladesh, Jordan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -38,4 +41,6 @@ Bangladesh's own way (Grade 6, Digital Technology): the Competency-based Nationa
 
 Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: network elements, hardware, network software, protocols, transmission medium, Grade 9 ICT Ethiopia, mauritania, grade 9, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 6 digital technology, grade 8 digital technology
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Searchable tags: network elements, hardware, network software, protocols, transmission medium, Grade 9 ICT Ethiopia, mauritania, grade 9, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 6 digital technology, grade 8 digital technology, jordan, grade 7 term 1 digital skills

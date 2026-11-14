@@ -1,6 +1,6 @@
 # Sources — For loops over a list and over a string
 
-countries: Ethiopia, Egypt
+countries: Ethiopia, Egypt, Jordan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Egypt
 
 **Book 4:** *Computer and Information and Communication Technology — Third grade preparatory, First Term, 2026/2027* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2026/2027. No ISBN printed. 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 5:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Over a list — item by item | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 181–183 (student placement item 126) |
@@ -17,8 +19,9 @@ countries: Ethiopia, Egypt
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed pp. 134–139 — see the honesty note below for exactly what is filed and where |
 | 12-5 Application of Programming [2] (Python) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 172 |
 | Unit 1 Lesson 3 Strings and Lists in Python | Egypt, *Computer and ICT, Grade 9 Term 1 (Arabic)*, printed p. 31 |
+| Lesson 4: for loops and the range() function | Jordan Grade 11 G11T1 Student, printed p. 69 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Jordan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part): a loop that never meets its break condition prints everything in the list; and item 39 (teacher evidence) keys the review alphabet program — one letter per line, and on a single line by changing the print ending (guide printed pp. 134–139, 151–153). The regions list in Do it first is shortened to three entries (Afar, Oromia, Sidama) keeping the unit's first and last values; the full-list behaviour is identical. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -26,4 +29,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 9, Term 1 student book (Arabic)): Preparatory 3 goes deep on Python — computational thinking, AI algorithms, strings/lists, functions with parameters, input-error handling — then a second unit on AI and cybersecurity ending with deepfakes.
 
-Searchable tags: for loop, list, string, iteration, characters, Grade 12 ICT Ethiopia, Unit 6 programming, egypt, grade 10, grade 9
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Searchable tags: for loop, list, string, iteration, characters, Grade 12 ICT Ethiopia, Unit 6 programming, egypt, grade 10, grade 9, jordan, grade 11 term 1 digital skills

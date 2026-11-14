@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 
 **Book 23:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 24:** *المهارات الرقمية — الصف الثاني عشر — الفصل الدراسي الثاني (Digital Skills, Grade 12, Second Semester, Academic track)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-888-8. Grade 12 (student book). 140 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy (نسخة قيد الإعداد) watermark, carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -71,8 +73,9 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 | Scénario 1 (Square CT) Séance 1: Identifier les critères (classer les maisons de la cité) | Switzerland Grade 5 Décodage 5e–6e, printed p. 8 (Scénario 1) (teacher guide — evidence) |
 | Introduction §6 Pensée informatique | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 13 (teacher guide — evidence) |
 | Learning Experience 9, Session 3: Difference in Opinion and Game of Logic | Bangladesh Grade 7 Digital Technology, printed p. 135 |
+| Lesson 1: stages of solving a problem in AI | Jordan Grade 12 G12T2 Student, printed p. 78 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -116,4 +119,6 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology
+Jordan's own way (Jordan Grade 12 G12T2 Student): Arabic text with every technical term also given in English in parentheses; each lesson opens with main idea, key concepts and learning outcomes and closes with self-assessment; each unit ends with unit questions and a self-checklist. Draft copy (نسخة قيد الإعداد) watermark.
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills

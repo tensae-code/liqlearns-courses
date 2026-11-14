@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhu
 
 **Book 23:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 24:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -82,8 +84,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhu
 | Additional content: stage backdrop in Scratch (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 136 (teacher guide — evidence) |
 | Unit 2 Digital Tools, Scratch (1): the Scratch language — running Scratch offline and online, its interface, its concepts (backdrops, costumes), the block families, the script and saving the project | Kuwait Grade 5 Digital Explorer T1, printed p. 87 |
 | Unit 9 The Scratch programming environment | Greece Grade 7 Pliroforiki A, printed p. 105 |
+| Lesson 1: components of the main Scratch screen; the project in Scratch and its components | Jordan Grade 8 G8T1 Student, printed p. 103 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece).**
+**Acceptance count: taught in 13 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece, Jordan).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
@@ -125,4 +128,6 @@ Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou
+Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 8 term 1 digital skills

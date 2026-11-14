@@ -1,6 +1,6 @@
 # Sources — Word processing — writing on a computer
 
-countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece
+countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -38,6 +38,16 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 
 **Book 21:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 22:** *المهارات الرقمية — الصف الثاني الأساسي، كتاب الأنشطة (Digital Skills, Grade 2 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-978-x (final digit not legible in the text layer, as filed). Grade 2 (student activity book). 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: blocks integrate partner subjects; only the ICT teaching parts (PowerPoint, Word, keyboard, images, saving files) are placed.
+
+**Book 23:** *المهارات الرقمية — الصف الثاني الأساسي، دليل المعلم (Digital Skills, Grade 2 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-981-6. Grade 2 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
+
+**Book 24:** *المهارات الرقمية — الصف الرابع الأساسي، كتاب الأنشطة (Digital Skills, Grade 4 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-986-1. Grade 4 (student activity book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
+
+**Book 25:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
+**Book 26:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Word processing — create, edit, format, save; images, tables, charts; advantages over pen and paper | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.35 |
@@ -56,6 +66,12 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 | Unit 5 guide: word processing basics I (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 64 (teacher guide — evidence) |
 | Activity 22: Application software — word-processing software (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 92 (teacher guide — evidence) |
 | Unit 7 Creating with the word processor / why a word processor is needed | Greece Grade 7 Pliroforiki A, printed p. 69 |
+| written work in Microsoft Word (used in the later blocks) | Jordan Grade 2 G2 Workbook, printed p. 72 |
+| Guide plans: written work produced in Microsoft Word (teacher guide — evidence) | Jordan Grade 2 G2 Teacher, printed p. 17 (teacher guide — evidence) |
+| written work in Microsoft Word across the blocks | Jordan Grade 4 G4 Workbook, printed p. 13 |
+| Guide plans for the Word work (teacher guide — evidence) | Jordan Grade 4 G4 Teacher, printed p. 7 (teacher guide — evidence) |
+| written work in Microsoft Word from the first blocks | Jordan Grade 5 G5 Workbook, printed p. 6 |
+| Environment 3 (Science: Matter): making a poster in MS Word, with a mind map built from Word shapes/SmartArt (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 22 (teacher guide — evidence) |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -71,7 +87,7 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 | Глава V "Технология обработки документов", Урок 24 "Текстовые редакторы и текстовые процессоры" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 100 |
 | Урок 34 "Упражнения для повторения" (review exercises) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 135 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece, Jordan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -104,4 +120,16 @@ Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the stu
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou
+Jordan's own way (Jordan Grade 2 G2 Workbook): At Grade 2 the digital tool widens from Paint to Office: every block's learning product is a PowerPoint presentation, Word is used for written work, and keyboard finger placement and saving-after-every-edit are taught as habits.
+
+Jordan's own way (Jordan Grade 2 G2 Teacher): The guide names the two digital-skills strands behind the Grade 2 blocks — Computing Systems (hardware and software components, the operating system) and Networks & Internet (organising data, security and privacy) — while the classroom products stay PowerPoint cards/presentations and Word writing.
+
+Jordan's own way (Jordan Grade 4 G4 Workbook): Grade 4 teaches the spreadsheet grid itself (active cell, moving with the arrow keys, cell addresses like B4) inside a multiplication block, and finishes a Word calendar project with a table topped by WordArt.
+
+Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook blocks (PowerPoint, Excel, Word) with the same per-block learning products and assessment appendices as the other early-grades guides.
+
+Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
+
+Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
+
+Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 2 digital skills workbook, grade 2 digital skills teacher guide, grade 4 digital skills workbook, grade 4 digital skills teacher guide, grade 5 digital skills workbook, grade 4 digital skills teacher guide links-pass l2

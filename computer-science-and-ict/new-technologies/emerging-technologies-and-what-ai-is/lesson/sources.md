@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh
+countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -31,6 +31,10 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 
 **Book 16:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 17:** *المهارات الرقمية — الصف الثاني عشر — الفصل الدراسي الثاني (Digital Skills, Grade 12, Second Semester, Academic track)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-888-8. Grade 12 (student book). 140 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy (نسخة قيد الإعداد) watermark, carried as filed.
+
+**Book 18:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -49,8 +53,10 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 | Unit 7 Artificial Intelligence | Greece Grade 8 Pliroforiki B, printed p. 69 |
 | Ch.3.4 What artificial intelligence is / evolution of AI | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 93 |
 | Chapter 1, 1.3.1: Artificial Intelligence and its fields | Bangladesh HSC ICT, printed p. 15 |
+| Unit 2 Artificial Intelligence — unit introduction | Jordan Grade 12 G12T2 Student, printed p. 74 |
+| Unit 2 Artificial Intelligence, Lesson 1: Introduction to Artificial Intelligence | Jordan Grade 9 G9T2 Student, printed p. 98 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 11 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -79,4 +85,8 @@ Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeio
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 12 G12T2 Student): Arabic text with every technical term also given in English in parentheses; each lesson opens with main idea, key concepts and learning outcomes and closes with self-assessment; each unit ends with unit questions and a self-checklist. Draft copy (نسخة قيد الإعداد) watermark.
+
+Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
+
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills

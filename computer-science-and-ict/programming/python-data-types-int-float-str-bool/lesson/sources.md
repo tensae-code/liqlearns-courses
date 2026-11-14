@@ -1,6 +1,6 @@
 # Sources - Python data types - int, float, str, bool
 
-countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece
+countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece
 
 **Book 9:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 10:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - int and float (whole / decimal numbers; arithmetic operators +, -, /, //, *, %, **; /, //, % subtleties) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 142-145 |
@@ -33,8 +35,9 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece
 | Ch.1 VB data types: Byte, Integer, Long, Single, Double, String and concatenation, Currency, Date, Variant | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 31 |
 | Unit 2, Lesson 1: data types in Python | Kuwait Grade 10 Information Technology T1, printed p. 39 |
 | Unit 2 Data types | Greece Grade 9 Pliroforiki C, printed p. 18 |
+| Lesson 2: elements of the Python language (variables, data types, arithmetic and logical expressions) | Jordan Grade 11 G11T1 Student, printed p. 29 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan).**
 
 No book error touches this lesson. All operator examples in the lesson text were run in Python 3 and give the values printed (7 / 2 = 3.5, 7 // 2 = 3, 7 % 2 = 1, "Sel" + "am" = "Selam"). The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -50,4 +53,6 @@ Kuwait's own way (Grade 10 Information Technology Term 1): secondary school swit
 
 Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
 
-Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills

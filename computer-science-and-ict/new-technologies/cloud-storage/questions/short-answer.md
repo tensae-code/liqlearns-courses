@@ -1,0 +1,33 @@
+# Cloud Storage — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is cloud storage?**
+**Answer: Files kept on a provider's servers, reached over the internet**
+
+**2. (Sub lesson 1) What protects against one machine failing?**
+**Answer: Redundancy — copies spread across machines and buildings**
+
+**3. (Sub lesson 1) How does cloud capacity grow?**
+**Answer: As a settings change — rented, stretching space**
+
+**4. (Sub lesson 1) From where is the same file reachable?**
+**Answer: Phone, school computer and home alike**
+
+**5. (Sub lesson 1) What can a single phone not offer?**
+**Answer: Redundancy**
+
+**6. (Sub lesson 2) What is synchronisation?**
+**Answer: The same file kept current on every device**
+
+**7. (Sub lesson 2) What does sharing send instead of a copy?**
+**Answer: A link**
+
+**8. (Sub lesson 2) What is versioning?**
+**Answer: Keeping earlier shapes of a file**
+
+**9. (Sub lesson 2) What is cloud storage's price?**
+**Answer: Trust — data under another company's roof and laws**
+
+**10. (Sub lesson 2) What two crafts travel with every upload?**
+**Answer: Encryption and strong accounts**

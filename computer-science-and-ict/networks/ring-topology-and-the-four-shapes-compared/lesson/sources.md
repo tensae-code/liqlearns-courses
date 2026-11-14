@@ -1,6 +1,6 @@
 # Sources — Ring topology — and the four shapes compared
 
-countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh
+countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh
 
 **Book 6:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 7:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 8:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Each node, two neighbours, one direction | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 56–57 |
@@ -24,8 +28,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh
 | Ch.4 §4.5.3 Token ring network | Laos Grade 8 ICT student, printed p. 86 |
 | 7.3 Topologia și arhitectura rețelelor (filed as NEW LESSON NEEDED — networks/network-topologies-and-architectures; stocked in this lesson because this lesson teaches network topologies — bus, mesh, star and ring compared — the topologies of Moldova's section) | Moldova Grade 11 Informatică, printed p. 197 |
 | Chapter 2, 2.5.6: ring topology, its advantages and disadvantages | Bangladesh HSC ICT, printed p. 70 |
+| Lesson 2: Computer Network Topologies — the network topology model and the shapes compared | Jordan Grade 7 G7T1 Student, printed p. 87 |
+| Unit 2 Lesson plan 2: Computer Network Topologies (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 87 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -39,4 +45,8 @@ Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how 
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
+
+Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
+
+Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide

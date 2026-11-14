@@ -1,6 +1,6 @@
 # Sources - Machine language and assembly language
 
-countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh
+countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh
 
 **Book 10:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 11:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Machine language (program; binary; direct understanding; fast, memory-efficient, very hard to write) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 132-133 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh
 | 6.4 Limbajul cod-calculator și limbajul de asamblare | Moldova Grade 11 Informatică, printed p. 170 |
 | Learning Experience 4 "Programming for Problem Solving", Session 1: Introduction to Programme Design — machine code (0 and 1), programming languages C/C++/Python/Java | Bangladesh Grade 9 Digital Technology, printed p. 102 |
 | Chapter 5, 5.1.1–5.1.2: machine language and assembly language — binary programs, mnemonics and the assembler | Bangladesh HSC ICT, printed p. 146 |
+| Lesson 1: low-level languages (machine language, assembly language) | Jordan Grade 11 G11T1 Student, printed p. 12 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -55,4 +58,6 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim
+Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
+
+Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills

@@ -1,0 +1,33 @@
+# The Digital Carbon Footprint — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is a carbon footprint?**
+**Answer: The total greenhouse-gas emissions an activity causes, in CO₂-equivalent**
+
+**2. (Sub lesson 1) Name the digital footprint's three homes.**
+**Answer: Devices, networks, data centres**
+
+**3. (Sub lesson 1) What is a device's largest part?**
+**Answer: Its making**
+
+**4. (Sub lesson 1) What is the scale honesty?**
+**Answer: Tiny × billions × always-on is a country's power station**
+
+**5. (Sub lesson 1) What is 'the cloud', materially?**
+**Answer: Other people's very material buildings**
+
+**6. (Sub lesson 2) Name the life's four counting stages.**
+**Answer: Making, using, storing forever, throwing away**
+
+**7. (Sub lesson 2) What three things multiply in 'using'?**
+**Answer: Electricity × the grid's dirtiness × hours**
+
+**8. (Sub lesson 2) What does storing forever keep warm?**
+**Answer: The never-deleted file, copied in three buildings**
+
+**9. (Sub lesson 2) Name four shrinkings.**
+**Answer: Keep devices longer, delete/unsubscribe, stream at screen size, choose renewable-powered services (or recycle)**
+
+**10. (Sub lesson 2) Why is the footprint inside green computing?**
+**Answer: A footprint is a principle with a number on it — numbers can be improved**
