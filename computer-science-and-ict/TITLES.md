@@ -735,3 +735,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Tanzania): ICS and Its Relationship with Other Subjects · Information Dissemination
 
 **Programming** (ICT expansion, from Turkmenistan): True and False Judgements · AND, OR, NOT — Joining Statements · Drawing Conclusions — If… Then…
+
+**Programming** (ICT expansion, from Germany): Graphs — Nodes and Edges · The Adjacency Matrix · Breadth-First Search · Dijkstra's Algorithm — the Shortest Path · Project — Navigation Systems with Graphs · Representing Information Through Coding · Bits, Bytes and Number Systems · Project Work — Graphs, Coding, Networks and AI
+
+**Safety, Security and Care** (ICT expansion, from Germany): Symmetric Encryption — One Shared Key · Asymmetric Encryption — Two Keys · Digital Signatures and Certificates
+
+**Internet and the Web** (ICT expansion, from Germany): Cookies — Small Files That Remember You
+
+**New Technologies** (ICT expansion, from Germany): Knowledge-Based and Data-Based AI · Training and Optimising an AI System · The Artificial Neuron · Neural Networks — Many Neurons Together
