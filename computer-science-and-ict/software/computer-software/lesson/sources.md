@@ -10,6 +10,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen
 
 **Book 4:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 5:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What software is — instructions; hardware can do nothing without it; interdependence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.31 |
@@ -18,6 +20,7 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen
 | Chapter 2 "Computer software", Lesson 7 "Types of software" | Afghanistan, *Computer, Grade 10*, printed p. 25 |
 | Unit 3 "Software and its role in controlling the computer", "Software and its main kinds" | Yemen, *Computer, Grade 10*, printed p. 36 |
 | Unit 3 activity | Yemen, *Computer, Grade 10*, printed p. 40 |
+| Lesson 09 What a computer program is (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 17 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Afghanistan, Yemen).**
 
@@ -25,4 +28,6 @@ Yemen's own way (Grade 10): a skills ladder — every unit alternates short teac
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
-Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7

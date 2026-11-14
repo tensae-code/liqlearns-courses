@@ -10,15 +10,20 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia
 
 **Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 5:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
 | Sequence of steps to make a paper item, peer-checked (Sample Lesson Plan Module 5, Topic 5.1) | Trinidad and Tobago, *Secondary School Teacher's Guide — Information and Communication Technology*, Form 1 Term 3 Teacher's Guide (teacher guide — evidence), printed p. 25 |
 | 语句与程序结构 (Statements and Program Structure) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 2 §2.3.3, printed p. 59 |
 | "Sequence of statements [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.12, printed p. 129 |
+| Lesson 19 Using loops in an algorithm (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 78 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, China, North Macedonia).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9

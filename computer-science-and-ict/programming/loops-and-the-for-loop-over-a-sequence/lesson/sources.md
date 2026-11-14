@@ -8,12 +8,15 @@ countries: Ethiopia, North Macedonia
 
 **Book 3:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 4:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why loops exist — 50 students, one grading block | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
 | Sub lesson 2 — The for loop — a variable that visits every item | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed pp. 134–139 — see the honesty note below for exactly what is filed and where |
 | "The for Loop (with practice tasks)" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.31, printed p. 185 |
+| Lesson 18 Introduction to loops (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 75 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
 
@@ -21,4 +24,6 @@ No book error touches this lesson. Teacher-guide evidence (item 36, in part) is 
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9

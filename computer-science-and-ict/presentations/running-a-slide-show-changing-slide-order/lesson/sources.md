@@ -10,12 +10,15 @@ countries: Ethiopia, Afghanistan, Yemen
 
 **Book 4:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 5:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Slide Show tab — from beginning, from current slide; Set Up Slide Show; rehearsing timings | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 133–134 |
 | Reordering — drag in Slide Sorter or the Thumbnail pane; the line shows the landing place | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 133–134 |
 | Lesson 21 "Slide Show" | Afghanistan, *Computer, Grade 11*, printed p. 95 |
 | "Designing and showing slides" (showing part) | Yemen, *Computer, Grade 11*, printed p. 42 |
+| Lesson 07 Moving and reordering slides (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 35 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Yemen).**
 
@@ -25,4 +28,6 @@ Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year —
 
 No book error touches this part.
 
-Searchable tags: Slide Show tab, Set Up Slide Show, rehearse timings, reordering slides, Slide Sorter drag, Ethiopia Grade 9, afghanistan, yemen, grade 11
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: Slide Show tab, Set Up Slide Show, rehearse timings, reordering slides, Slide Sorter drag, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9

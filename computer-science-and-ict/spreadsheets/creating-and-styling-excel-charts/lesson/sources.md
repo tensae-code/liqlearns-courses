@@ -18,6 +18,8 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia
 
 **Book 8:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 9:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -31,6 +33,7 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia
 | § 16 "Пабудова дыяграм" (building diagrams/charts) | Belarus, *Інфарматыка. 10 клас*, § 16, printed p. 103 |
 | "Charts" | Yemen, *Computer, Grade 11*, printed p. 70 |
 | "Advanced Work with Charts" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.3, printed p. 238 |
+| Unit 3 Lesson 19 Graphical representation of data (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 47 (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia).**
 
@@ -40,4 +43,6 @@ Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatic
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8

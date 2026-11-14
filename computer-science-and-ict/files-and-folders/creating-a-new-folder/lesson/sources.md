@@ -8,14 +8,19 @@ countries: Ethiopia, Uganda
 
 **Book 3:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 4:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating a new folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 11 |
 | The Test1/Test2 model run (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Practical Exercise 1.5 keyed, printed pp. 5–7 (teacher guide — evidence) |
 | Creating folders | Uganda, *ICT Textbook Senior One*, printed p. 15 |
+| Lesson 06 Managing folders and windows (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 12 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
 
 No book error touches this lesson's content. The guide's keyed Test1/Test2 run (printed pp. 5–7) is the verified model for this unit's doing-lessons; its own slips in that key — "yoxxur desktop" (p. 5) and "testfile1.text" for testfile1.txt (p. 7) — are misprints, taught as nothing. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
-Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7

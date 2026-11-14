@@ -12,11 +12,14 @@ countries: Ethiopia, Afghanistan, North Macedonia
 
 **Book 6:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 7:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Internet vs Web — network vs means of access | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed pp.47–48 |
 | Website, web page, home page; why pages are made | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed pp.47–48 |
 | Where a website has one page, website, web page and home page are the same thing (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 4, printed p.59 |
+| Lesson 26 Web pages and websites (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 43 (teacher guide — evidence) |
 
 | Sub lesson 3 — The Web in depth — server, hyperlink, URL (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | "The Concept of a Web Page" | North Macedonia, *Informatics, Year 2*, Тема 5, printed p. 281 |
@@ -34,6 +37,8 @@ Growth note (Wave 3, band B2): Sub lessons 1–2 are the original Grade 7 lesson
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
-Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7
 
 Growth note (Wave 3, band E4): Sub lessons 1–3 are the original Grade 7/8 lesson, unchanged in content; Sub lesson 4 is the Grade 11 depth added from the Grade 11 book (printed pp. 76–77) — the same Web, with its inventor, place, year and four foundations made explicit. Note the Grade 8 part of this lesson gives the Web's invention as 1991 (Grade 8 book, printed p. 64) while the Grade 11 book gives 1989 at CERN — both are taught as their own books state them, in their own sub lessons, and the Grade 11 date is the one the Grade 11 sub lesson and its questions use. Unit 4 figure references and captions repeatedly disagree in the Grade 11 book and table numbers are reused; this growth cites no figure or table number.

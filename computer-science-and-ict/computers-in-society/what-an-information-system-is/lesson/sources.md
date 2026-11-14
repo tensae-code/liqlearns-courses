@@ -8,11 +8,14 @@ countries: Ethiopia, China, Belarus
 
 **Book 3:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
+**Book 4:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an information system is (whole lesson) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed p. 6 (student placement item 7) |
 | Composition and Functions of Information Systems | China, *IT Compulsory 2*, Chapter 2 §2.1, printed p. 33 |
 | Раздзел 4 "Інфармацыйныя сістэмы і тэхналогіі", § 16 "Інфармацыйныя сістэмы" (information systems) | Belarus, *Інфарматыка. 11 клас*, Раздзел 4, § 16, printed p. 135 |
+| Lesson 08 Notion of an information system (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 14 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, China, Belarus).**
 
@@ -20,4 +23,6 @@ Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written H
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them.
 
-Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7

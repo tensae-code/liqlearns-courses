@@ -10,6 +10,10 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia
 
 **Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 5:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
+**Book 6:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -18,6 +22,8 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia
 | Chapitre 5 Leçon 2 — La recherche d'informations — searching for information (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 53 (teacher guide — evidence) |
 | Chapter 11, Lesson 24 "Searching for information on the Web" | Afghanistan, *Computer, Grade 11*, printed p. 108 |
 | "The Web as a Source of Information" | North Macedonia, *Informatics, Year 1*, Тема 2 §2.4, printed p. 76 |
+| Lesson 28 Search engines and searching (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 45 (teacher guide — evidence) |
+| Unit 4 Lesson 24 Introduction to search engines (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 60 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, North Macedonia).**
 
@@ -25,4 +31,8 @@ Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year —
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8

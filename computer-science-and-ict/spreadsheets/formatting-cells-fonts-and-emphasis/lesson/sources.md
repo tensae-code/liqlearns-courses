@@ -8,17 +8,20 @@ countries: Ethiopia, Yemen
 
 **Book 3:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 4:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — cells start in Calibri; the title cell worked through font (live preview), size (dropdown / Increase–Decrease / typed), Font Color, and Bold/Italic/Underline with Ctrl+B, Ctrl+I, Ctrl+U | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 117–119 |
 | Unit 3's chained practicals — the chained sheet is formatted at the end of the chain (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 52–59 |
 | Unit 3 review answers keyed — used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 62 |
 | "Formatting tables" | Yemen, *Computer, Grade 11*, printed p. 58 |
+| Unit 3 Lesson 15 Entering and formatting data (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 39 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Yemen).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
 
-
-Searchable tags: formatting cells, font, font size, Font Color, Bold Italic Underline, Ctrl+B, Calibri, Ethiopia Grade 10, yemen, grade 11
+Searchable tags: formatting cells, font, font size, Font Color, Bold Italic Underline, Ctrl+B, Calibri, Ethiopia Grade 10, yemen, grade 11, mauritania, grade 8

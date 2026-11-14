@@ -8,10 +8,13 @@ countries: Ethiopia, Afghanistan
 
 **Book 3:** *کمپیوتر — صنف دوازدهم (Computer, Grade 12)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 114 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (16,872,694 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
 
+**Book 4:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cell references — column letter and row number (A1, E4); a formula uses the reference instead of the value; changing a referenced value updates every formula using it; a formula cell can be referenced by another formula | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 112 |
 | Chapter 5, Lesson 17 "Working with the worksheet and cells" | Afghanistan, *Computer, Grade 12*, printed p. 65 |
+| Unit 3 Lesson 14 Sheets and cells: organising the spreadsheet (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 37 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Afghanistan).**
 
@@ -19,4 +22,6 @@ Afghanistan's own way (Grade 12): the final year turns outward — computers in 
 
 Book errors taught corrected: the spreadsheet section's figure references drift from their captions in this part of Unit 3; this lesson teaches from the pictured content and cites no figure number.
 
-Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8

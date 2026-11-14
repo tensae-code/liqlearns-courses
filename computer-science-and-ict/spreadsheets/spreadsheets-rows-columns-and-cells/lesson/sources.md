@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen
 
 **Book 5:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 6:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -21,6 +23,7 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen
 | Chapter 4, Lesson 14 "Getting to know the Excel environment" | Afghanistan, *Computer, Grade 12*, printed p. 54 |
 | Unit 4 "The electronic spreadsheet program, Excel", "Introducing Excel" | Yemen, *Computer, Grade 11*, printed p. 50 |
 | Unit 4 assessment | Yemen, *Computer, Grade 11*, printed p. 75 |
+| Unit 3 Lesson 13 Discovering Excel and managing files (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 35 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen).**
 
@@ -30,4 +33,6 @@ Afghanistan's own way (Grade 12): the final year turns outward — computers in 
 
 Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8

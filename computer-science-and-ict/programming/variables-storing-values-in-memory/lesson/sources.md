@@ -12,6 +12,8 @@ countries: Ethiopia, Bulgaria, China, North Macedonia
 
 **Book 5:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 6:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -21,6 +23,7 @@ countries: Ethiopia, Bulgaria, China, North Macedonia
 | Урок 17 "Работа с променливи. Да спукаме балона!" (working with variables; pop the balloon) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 32 |
 | 常量、变量及表达式 (Constants, Variables and Expressions) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 2 §2.3.2, printed p. 57 |
 | "Variables and Constants; Types of Variables; Assigning a Value" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.13–3.15, printed p. 132 |
+| Lesson 14 Introduction to the notion of variables (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 63 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, China, North Macedonia).**
 
@@ -28,4 +31,6 @@ No book error touches this lesson. The teacher guide's worked model solutions fo
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9

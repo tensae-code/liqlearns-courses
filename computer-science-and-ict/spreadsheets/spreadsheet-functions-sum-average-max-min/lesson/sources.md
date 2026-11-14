@@ -14,6 +14,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia
 
 **Book 8:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 9:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — functions are predefined formulas: =, function name, opening parenthesis, arguments separated by commas, closing parenthesis; named: sum, average, maximum, minimum | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 55 |
@@ -24,6 +26,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia
 | The teacher must be able to build tables, do addition, subtraction, division and multiplication, and format files in a spreadsheet (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3 skills list, printed pp. 19, 20, 24, 25, 27, 29 |
 | "Functions and mathematical formulas" | Yemen, *Computer, Grade 11*, printed p. 65 |
 | "Advanced Use of Formulas and Functions" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.2, printed p. 228 |
+| Unit 3 Lesson 17 Using common functions (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 43 (teacher guide — evidence) |
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -51,4 +54,6 @@ The Grade 8 teacher guide's Unit 3 answer key (printed pp. 32–33) was used as 
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8

@@ -26,6 +26,8 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 
 **Book 12:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 13:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -41,6 +43,7 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 | Lesson 5 "System software" | Afghanistan, *Computer, Grade 12*, printed p. 15 |
 | "Computer system software" | Yemen, *Computer, Grade 10*, printed p. 37 |
 | "The Working Environment of the Operating System and Application Software" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.6, printed p. 31 |
+| Lesson 04 Notion of an operating system (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 10 (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia).**
 
@@ -56,4 +59,6 @@ The Grade 8 teacher guide's Unit 3 answer key (printed pp. 32–33) was used as 
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7

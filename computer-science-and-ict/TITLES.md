@@ -851,3 +851,19 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Multimedia** (ICT expansion, from North Macedonia): Vector and Raster Graphics · Layers in Graphics Editing · Generative AI for Images
 
 **Internet and the Web** (ICT expansion, from North Macedonia): HTML5 Geolocation and Local Storage
+
+**Software** (ICT expansion, from Mauritania — teacher-guide evidence): The Desktop and Its Icons
+
+**Word Processing** (ICT expansion, from Mauritania — teacher-guide evidence): The Menu Bar and Ribbon · Inserting a Table of Contents · Printing a Document
+
+**Computers in Society** (ICT expansion, from Mauritania — teacher-guide evidence): Ethics of Publishing and Communicating Online
+
+**Internet and the Web** (ICT expansion, from Mauritania — teacher-guide evidence): Downloading Files Safely from the Internet
+
+**Multimedia** (ICT expansion, from Mauritania — teacher-guide evidence): Bitmap and Vector Images · Downloading and Managing Images
+
+**Spreadsheets** (ICT expansion, from Mauritania — teacher-guide evidence): Preparing a Worksheet for Printing
+
+**Safety, Security and Care** (ICT expansion, from Mauritania — teacher-guide evidence): Reliable Sources and Dangers of the Web
+
+**Programming** (ICT expansion, from Mauritania — teacher-guide evidence): Testing an Algorithm · Reading an Algorithm and Saying What It Does

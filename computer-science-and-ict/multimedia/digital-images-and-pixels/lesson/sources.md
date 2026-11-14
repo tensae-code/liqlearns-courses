@@ -10,6 +10,8 @@ countries: Ethiopia, Djibouti, Nepal
 
 **Book 4:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
+**Book 5:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -17,9 +19,12 @@ countries: Ethiopia, Djibouti, Nepal
 | Sub lesson 2 — Colour from three basics — and what a logo is made of (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 4, printed p. 61 |
 | Chapitre 8 — L'utilisation de l'image — using images (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 66 (teacher guide — evidence) |
 | Unit 3 §3.2, Graphics | Nepal, *Computer Science, Class 10*, printed p. 84 |
+| Unit 1 Lesson 02 Introduction to digital images (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 10 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8

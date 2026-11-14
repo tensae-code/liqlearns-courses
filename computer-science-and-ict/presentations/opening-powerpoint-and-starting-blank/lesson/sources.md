@@ -8,11 +8,14 @@ countries: Ethiopia, Afghanistan
 
 **Book 3:** *کمپیوتر — صنف یازدهم (Computer, Grade 11)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 126 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (13,035,291 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
 
+**Book 4:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The File tab — New, Open, Recent and what each does | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 121–122 |
 | Making a blank presentation — New, Blank presentation, Create | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 121–122 |
 | Chapter 8, Lesson 18 "The PowerPoint program" | Afghanistan, *Computer, Grade 11*, printed p. 78 |
+| Lesson 02 Introduction to PowerPoint and creating a presentation (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 14 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Afghanistan).**
 
@@ -20,4 +23,6 @@ Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year —
 
 No book error touches this part.
 
-Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9

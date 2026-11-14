@@ -12,6 +12,8 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen
 
 **Book 5:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 6:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -20,6 +22,7 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen
 | Lesson 12 "The Microsoft Paint program" | Afghanistan, *Computer, Grade 10*, printed p. 45 |
 | "Running the Paint program" | Yemen, *Computer, Grade 10*, printed p. 78 |
 | Unit 4 closing training (Paint) | Yemen, *Computer, Grade 10*, printed p. 81 |
+| Unit 1 Lesson 03 Creating and saving an image (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 12 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen).**
 
@@ -29,4 +32,6 @@ Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one
 
 No book error touches this lesson's content. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8

@@ -12,6 +12,10 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan
 
 **Book 5:** *کمپیوتر — صنف یازدهم (Computer, Grade 11)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 126 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (13,035,291 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
 
+**Book 6:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
+**Book 7:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -21,6 +25,9 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan
 | Chapter 3 Lesson 2 Sessions 2–3, Electronic Mail (Email) I–II | Cambodia, *ICT, Grade 10*, printed p. 132 |
 | Lição 21, Correio Electrónico (E-mail) | Mozambique, *Módulo de TIC, PESD I*, printed p. 117 |
 | Lesson 25 "Internet and e-mail (E-mail)" | Afghanistan, *Computer, Grade 11*, printed p. 113 |
+| Unit 5 Lesson 31 Sending and receiving an email (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 76 (teacher guide — evidence) |
+| Lesson 30 Writing and sending an email (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 115 (teacher guide — evidence) |
+| Lesson 32 Receiving and managing emails (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 121 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Mozambique, Afghanistan).**
 
@@ -28,4 +35,8 @@ Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year —
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, and its closing activity is the book's own activity, kept as set.
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9

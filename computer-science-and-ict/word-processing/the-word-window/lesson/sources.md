@@ -10,6 +10,8 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen
 
 **Book 6:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 7:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Title bar, tabs, Quick Access Toolbar (Save, Undo, Repeat) | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.38–39 |
@@ -17,6 +19,7 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen
 | View buttons (five views), zoom, status bar, File tab list | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.38–39 |
 | Chapter 2 Lesson 1 Session 3, OpenOffice Writer I | Cambodia, *ICT, Grade 10*, printed p. 60 |
 | "The program's main screen" | Yemen, *Computer, Grade 10*, printed p. 82 |
+| Lesson 11 Interface of Microsoft Word (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 21 (teacher guide — evidence) |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,4 +35,6 @@ Yemen's own way (Grade 10): a skills ladder — every unit alternates short teac
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7

@@ -12,6 +12,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen
 
 **Book 5:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 6:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -21,6 +23,7 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen
 | Chapter 1 "The computer and its uses", Lesson 1 "What is a computer?" | Afghanistan, *Computer, Grade 10*, printed p. 1 |
 | Unit 1 "The computer, its importance and its development", "What is a computer" | Yemen, *Computer, Grade 10*, printed p. 8 |
 | Unit 1 activity | Yemen, *Computer, Grade 10*, printed p. 16 |
+| Lesson 01 The computer, the central unit and the mouse (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 4 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen).**
 
@@ -30,4 +33,6 @@ Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one
 
 No book error touches this lesson's content.
 
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7

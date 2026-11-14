@@ -8,12 +8,17 @@ countries: Ethiopia, Uganda
 
 **Book 3:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 4:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text alignment — the four kinds, changed by cursor-in-paragraph plus one button: Left (Ctrl+L, even at left, jagged right, the commonest), Right (Ctrl+R, mirror), Centre (Ctrl+E, equal spaces, for titles and headings), Justified (both margins, spaces between words adjusted); practicals re-align the Grand Ethiopian Renaissance Dam document each way | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 85-86 |
 | Unit 3 answer key used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
 | Alignment of text (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 44 (teacher guide — evidence) |
+| Lesson 15 Text formatting / alignment (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 27 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7

@@ -10,6 +10,8 @@ countries: Ethiopia, Turkmenistan, Finland
 
 **Book 4:** *Ensiaskeleet ohjelmointiin — Oppilaan kirja, Versio 2.0* (student book, Finnish) — Finland, Suomen Koodikoulu Oy, 2022. ISBN 978-952-7403-28-0. Grades 3–6. 73 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/finland-placements.md.
 
+**Book 5:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -18,9 +20,12 @@ countries: Ethiopia, Turkmenistan, Finland
 | Chapter VII activities: IF... THEN... ELSE exercises (if the sun rises in the west, then choose the pen, else the pencil) | Turkmenistan, *Basics of Informatics, Grade 1*, printed p. 70 |
 | Part 2, Luetaan: Conditional statements and truth values (conditions in Scratch, the if form) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 41 |
 | Part 2, Ohjelmoidaan: Using conditionals — the Mr. Nosey challenges (draw inside a circle, stop on a key, follow the mouse pointer, touching-colour condition) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 46 |
+| Lesson 15 Introduction to the notion of conditions (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 66 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Finland).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9

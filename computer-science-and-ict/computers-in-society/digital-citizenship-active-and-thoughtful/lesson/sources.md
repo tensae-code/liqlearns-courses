@@ -12,6 +12,12 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia
 
 **Book 5:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 6:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
+**Book 7:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
+**Book 8:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Citizenship — the do's | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 22 (student placement item 30) |
@@ -19,6 +25,9 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia
 | Chapter 3 Lesson 3 Session 1, Freedom of Expression on the Internet | Cambodia, *ICT, Grade 10*, printed p. 144 |
 | Lição 23, Ciberepaço e Cibercultura (cyberspace and cyberculture) | Mozambique, *Módulo de TIC, PESD I*, printed p. 131 |
 | "Ethical Rules for Using Digital Technology" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.7, printed p. 36 |
+| Lesson 23 Respecting others online (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 39 (teacher guide — evidence) |
+| Unit 2 Lesson 10 Respect and ethics on the internet (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 27 (teacher guide — evidence) |
+| Lesson 10 Ethics of internet use (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 50 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Mozambique, North Macedonia).**
 
@@ -26,4 +35,10 @@ Book errors touching Unit 1, taught corrected and named here: the student book n
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10
+Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
+
+Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
+
+Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
+
+Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9
