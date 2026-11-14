@@ -1,6 +1,6 @@
 # Sources — How information systems change society — gains and problems
 
-countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh
+countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -56,6 +56,18 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 
 **Book 27:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 28:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 29:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 30:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 31:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 32:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 33:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The good side first | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 5–6 (student placement item 7) |
@@ -86,8 +98,14 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 | Learning Experience 6, Sessions 1-2 and 5: use of digital technology in our lives, its impact, and adapting to the changes it causes | Bangladesh Grade 9 Digital Technology, printed p. 169 |
 | Learning Experience 6, Session 3: Technology and Sociocultural Change | Bangladesh Grade 8 Digital Technology, printed p. 133 |
 | Chapter 1, 1.5.1: Positive impacts of ICT across education, healthcare, finance, workplaces, industry and agriculture | Bangladesh HSC ICT, printed p. 34 |
+| §6 Good and bad sides of technologies | Armenia Grade 5 G5 student (Antares), printed p. 32 |
+| §1 Information technologies and society | Armenia Grade 6 G6 student, printed p. 5 |
+| Theme 6-1 Information technologies and society | Armenia Grade 6 G6 teacher, printed p. 10 (teacher guide — evidence) |
+| 1.9 Let us build the future together | Armenia Grade 7 G7 student, printed p. 31 |
+| §3 Information technologies and society | Armenia Grade 9 G9 student, printed p. 20 |
+| Theme 9-3 Information technologies and society (§3) | Armenia Grade 9 G9 teacher, printed p. 15 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 15 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -138,4 +156,16 @@ Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same pro
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, armenia, grade 5, grade 6, grade 7, grade 9

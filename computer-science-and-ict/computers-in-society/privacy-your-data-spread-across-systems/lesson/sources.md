@@ -1,6 +1,6 @@
 # Sources — Privacy — your data spread across systems
 
-countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan
 
 **Book 14:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Data everywhere, behind passwords | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 3) |
@@ -46,8 +48,9 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan
 | Learning Experience 2 "Security Risks of Personal Information on Digital Platforms", Sessions 1 and 5: information risk; relentless observers over security of personal information | Bangladesh Grade 8 Digital Technology, printed p. 27 |
 | Chapter 1, "Different Type of Crimes": big corporations' data misuse (Facebook and Cambridge Analytica) and record fines | Bangladesh HSC ICT, printed p. 34 |
 | Lesson 3: Data Privacy and Protection Methods — data privacy and its importance | Jordan Grade 7 G7T2 Student, printed p. 39 |
+| §2 Protection of personal data | Armenia Grade 6 G6 student, printed p. 9 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -75,4 +78,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
 
-Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 56, bangladesh, grade 6 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 56, bangladesh, grade 6 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6

@@ -1,6 +1,6 @@
 # Sources — Information gathering — check the request before you answer it
 
-countries: Ethiopia, Djibouti, Mozambique, Bangladesh
+countries: Ethiopia, Djibouti, Mozambique, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,14 @@ countries: Ethiopia, Djibouti, Mozambique, Bangladesh
 
 **Book 6:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
+
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Gathering is part of how systems work — and it is disputed | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 4 (student placement item 5) |
@@ -23,8 +31,12 @@ countries: Ethiopia, Djibouti, Mozambique, Bangladesh
 | Scénario 11: Médias et information — les jeunes et l'information en contexte numérique | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 3 (Scénario 11) (teacher guide — evidence) |
 | Learning Experience 1, finding information from sources to solve a daily-life problem | Bangladesh Grade 6 Digital Technology, printed p. 1 |
 | Learning Experience 1 "Information in Digital Time", Sessions 1-2: appropriate solution to suitable questions, classification of problems | Bangladesh Grade 7 Digital Technology, printed p. 1 |
+| §4 Fake and true information | Armenia Grade 5 G5 student (Antares), printed p. 21 |
+| Task analysis and answers: checking knowledge on fake news (for §4) | Armenia Grade 5 G5 teacher, printed p. 57 (teacher guide — evidence) |
+| §2 Information sources | Armenia Grade 8 G8 student, printed p. 12 |
+| Theme 8-2 Disinformation: how and why (§2 Information sources; primary/secondary sources, accuracy and completeness) | Armenia Grade 8 G8 teacher, printed p. 9 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mozambique, Bangladesh).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Bangladesh, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -34,4 +46,12 @@ Bangladesh's own way (Grade 6, Digital Technology): the Competency-based Nationa
 
 Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: information gathering, consent, credentials, intention, data collection, Ethiopia Grade 12 IT, djibouti, mozambique, switzerland, decodage, grades 56, bangladesh, grade 6 digital technology, grade 7 digital technology
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Searchable tags: information gathering, consent, credentials, intention, data collection, Ethiopia Grade 12 IT, djibouti, mozambique, switzerland, decodage, grades 56, bangladesh, grade 6 digital technology, grade 7 digital technology, armenia, grade 5, grade 8

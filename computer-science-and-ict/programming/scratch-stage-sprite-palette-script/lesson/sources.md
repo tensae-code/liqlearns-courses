@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece, Jordan
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -50,6 +50,12 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhu
 
 **Book 24:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 26:** *Թվային գրագիտություն և համակարգչային գիտություն, 3-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 3, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 3 (teacher guide). 69 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 27:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -85,8 +91,11 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhu
 | Unit 2 Digital Tools, Scratch (1): the Scratch language — running Scratch offline and online, its interface, its concepts (backdrops, costumes), the block families, the script and saving the project | Kuwait Grade 5 Digital Explorer T1, printed p. 87 |
 | Unit 9 The Scratch programming environment | Greece Grade 7 Pliroforiki A, printed p. 105 |
 | Lesson 1: components of the main Scratch screen; the project in Scratch and its components | Jordan Grade 8 G8T1 Student, printed p. 103 |
+| Lesson 11 The Scratch environment (Theme 8 Basics of a block-based programming language) | Armenia Grade 3 G3 student, printed p. 64 |
+| Exemplary programme, Grade 3: the Scratch programming strand of the course | Armenia Grade 3 G3 teacher, printed p. 13 (teacher guide — evidence) |
+| §24 A block-based programming language | Armenia Grade 6 G6 student, printed p. 140 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece, Jordan).**
+**Acceptance count: taught in 14 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece, Jordan, Armenia).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
@@ -130,4 +139,10 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 8 term 1 digital skills
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Armenia's own way (Armenia Grade 3 G3 teacher): Companion to Book 3 in the Zangak guide template: Grade 3 standard outcomes, exemplary programme, thematic planning that opens with e-security and health (switching the computer on, off and restarting), sample lesson plans (the first is Theme 6, keyboard shortcuts for fast work), and explanations of the textbook's electronic tasks.
+
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 8 term 1 digital skills, armenia, grade 3, grade 6

@@ -1,6 +1,6 @@
 # Sources — Bugs and debugging — turning on [DEBUG ON]
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -42,6 +42,14 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, K
 
 **Book 21:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 9 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-657-0. Grade 9 (student book). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 22:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 23:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 24:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Test first — run it and compare with the expected output | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
@@ -68,8 +76,12 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, K
 | Learning Experience 4, Sessions 10-11: Identifying Risks and Solutions for Different Wrong Inputs; Verifying Programmes of Other Teams | Bangladesh Grade 8 Digital Technology, printed p. 102 |
 | Chapter 5, 5.4: programme testing and debugging — syntax, logical and runtime errors | Bangladesh HSC ICT, printed p. 151 |
 | Lesson 2: discovering program errors and correcting them (debugging) | Jordan Grade 9 G9T1 Student, printed p. 89 |
+| Theme 7-16 Basics of testing and debugging (§20) | Armenia Grade 7 G7 teacher, printed p. 66 (teacher guide — evidence) |
+| §19 Working with bugs (debugging) | Armenia Grade 8 G8 student, printed p. 161 |
+| Theme 8-14 Working with bugs (§19) | Armenia Grade 8 G8 teacher, printed p. 33 (teacher guide — evidence) |
+| Lesson 22 Program debugging (Theme 15) | Armenia Grade 10 G10 student, printed p. 114 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Armenia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 38, in part) is filed in Sub lesson 1: the quality-assurance framing of testing, and the §6.4 teacher tip pointing to what a good Python coding environment requires (guide printed p. 150). The divide-by-zero behaviour in Do it first was run in Python 3: it raises ZeroDivisionError: division by zero. All other code behaviour matches the runs recorded for this band. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -109,4 +121,12 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 9 G9T1 Student): Grade 9 pairs the social side of computing (impact, e-learning, cybercrime, cyberbullying, digital media) with Scratch programming taken further than blocks basics — variables, nested conditionals, debugging, iterative development, nested loops, functions and subroutines.
 
-Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book, kuwait, grade 10 information technology term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book, kuwait, grade 10 information technology term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills, armenia, grade 7, grade 8, grade 10

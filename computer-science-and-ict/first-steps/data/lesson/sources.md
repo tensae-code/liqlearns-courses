@@ -1,6 +1,6 @@
 # Sources — Data — raw facts with no meaning yet
 
-countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -31,6 +31,14 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Gr
 **Book 16:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 17:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 18:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Data — raw facts with no meaning yet | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 3 |
@@ -50,8 +58,12 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Gr
 | Introduction §5 Données | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 12 (teacher guide — evidence) |
 | Introduction §5 Données | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 10 (teacher guide — evidence) |
 | Introduction §5 Données | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 12 (teacher guide — evidence) |
+| Lesson 11 How to collect data | Armenia Grade 2 G2 student, printed p. 76 |
+| Lesson 10 Collecting data using programs (Theme 7 Collecting data) | Armenia Grade 3 G3 student, printed p. 59 |
+| §2 Types and sources of data | Armenia Grade 5 G5 student (Antares), printed p. 11 |
+| Task analysis and answers: §2 Types and sources of data | Armenia Grade 5 G5 teacher, printed p. 54 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -83,4 +95,12 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
+
+Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, armenia, grade 2, grade 3, grade 5

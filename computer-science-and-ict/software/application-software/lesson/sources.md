@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece
+countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 **Book 19:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 20:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Application software — made for a particular need; end-user software | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.32–34 |
@@ -51,6 +53,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 | Ch.2 §5 Application software (the six general packages: word processing, spreadsheet, database, presentation, communication, graphics) | Laos Grade 7 ICT student, printed p. 70 |
 | Unit 4 Application software | Greece Grade 7 Pliroforiki A, printed p. 40 |
 | Ch.2 Classification of application software | Greece Grade 10 Efarmoges Pliroforikis, printed p. 22 |
+| Lesson 4 Programs for talking with friends and listening to music | Armenia Grade 2 G2 student, printed p. 28 |
 
 **Book 5:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -68,7 +71,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 | Unit 2, Topic Computer Aided Programs, Lesson 2: Produce graphical products (CAD software) (filed as multimedia/computer-aided-design-cad; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 61 (teacher guide — evidence) |
 | Unit 4 Lesson 1: Application software, general and special | Sudan, *ICT, Grade 6*, printed p. 32 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -100,4 +103,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 2

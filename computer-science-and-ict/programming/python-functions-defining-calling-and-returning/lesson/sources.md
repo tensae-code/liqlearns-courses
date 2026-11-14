@@ -1,6 +1,6 @@
 # Sources — Python Functions — Defining, Calling and Returning
 
-countries: Kuwait, Greece, Jordan
+countries: Kuwait, Greece, Jordan, Armenia
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
@@ -10,14 +10,32 @@ countries: Kuwait, Greece, Jordan
 
 **Book 4:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1: Functions (الدوال) | Kuwait Grade 10 Term 2 Book L1, printed p. 63 |
 | Unit 2 Subprograms (filed as NEW LESSON NEEDED — programming/subprograms-in-python; stocked in this lesson because this lesson teaches Python's subprograms — functions defined with def, called by name with arguments, handing answers back with return — the subprograms Greece's Python section introduces) | Greece Grade 9 Pliroforiki C, printed p. 20 |
 | Lesson 6: Functions — defining functions, returning results (filed as NEW LESSON NEEDED — programming/functions-in-python-and-returning-results; stocked in this lesson because this lesson teaches defining and calling Python functions and returning results — the functions Jordan's Grade 11 book teaches) | Jordan Grade 11 G11T1 Student, printed p. 110 |
 | Lesson plan 6: Functions (filed as NEW LESSON NEEDED — programming/functions-in-python-and-returning-results; stocked in this lesson because this lesson teaches defining and calling Python functions and returning results — the functions Jordan's Grade 11 book teaches) (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 110 (teacher guide — evidence) |
+| 6.10 Functions (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 7 G7 student, printed p. 131 |
+| Theme 7-15 Functional pattern (§19 Functions) (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 7 G7 teacher, printed p. 63 (teacher guide — evidence) |
+| §15 Functions in the Python programming language (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 8 G8 student, printed p. 120 |
+| Theme 8-12 Functions in Python (§15) (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 8 G8 teacher, printed p. 28 (teacher guide — evidence) |
+| §16 Functions of the Python language (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 student, printed p. 149 |
+| Theme 9-9 Functions (§16) (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 teacher, printed p. 28 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Kuwait, Greece, Jordan).**
+**Acceptance count: taught in 4 countries (Kuwait, Greece, Jordan, Armenia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-functions-defining-calling-and-returning). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -29,4 +47,16 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
 
-Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 9

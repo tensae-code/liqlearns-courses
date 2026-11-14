@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -58,6 +58,10 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 
 **Book 29:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
 
+**Book 30:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 31:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -96,8 +100,10 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 | Block 6 Geometry and Measurement: working in Excel | Jordan Grade 3 G3 Workbook, printed p. 100 |
 | Guide plans for the Excel blocks (teacher guide — evidence) | Jordan Grade 3 G3 Teacher, printed p. 72 (teacher guide — evidence) |
 | working in Excel | Jordan Grade 5 G5 Workbook, printed p. 74 |
+| §24 Electronic spreadsheets | Armenia Grade 5 G5 student (Antares), printed p. 123 |
+| §11 Features of using electronic spreadsheets | Armenia Grade 6 G6 student, printed p. 60 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan).**
+**Acceptance count: taught in 19 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -154,4 +160,8 @@ Jordan's own way (Jordan Grade 3 G3 Teacher): Guide plans mirror the workbook's 
 
 Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 5 digital skills workbook
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 5 digital skills workbook, armenia, grade 5, grade 6

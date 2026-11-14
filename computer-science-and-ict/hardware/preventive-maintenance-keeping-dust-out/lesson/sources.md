@@ -12,6 +12,8 @@ countries: Ethiopia, Iraq, Jordan
 
 **Book 5:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Preventive maintenance defined; its named work; what dust does | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 5, printed pp. 120–121 |
@@ -22,6 +24,7 @@ countries: Ethiopia, Iraq, Jordan
 | Unit 1 Ch.1 Lesson 1 Preventive maintenance of computer hardware | Iraq, *Computer, Grade 10*, printed p. 7 |
 | Unit 1, Topic Computer Administration, Lesson 2: Basic management and maintenance of computer systems (including cooling and dust) (filed as safety-security-and-care/cleaning-and-dust; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 46 (teacher guide — evidence) |
 | Lesson 1: types of computer maintenance | Jordan Grade 8 G8T1 Student, printed p. 13 |
+| Theme 7-20 Maintenance of computer equipment (§23) | Armenia Grade 7 G7 teacher, printed p. 74 (teacher guide — evidence) |
 
 **Book 3 (growth):** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 MoE, under GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md (item 33).
 
@@ -35,4 +38,6 @@ Papua New Guinea's own way (Grade 11): the senior guide turns learners into juni
 
 Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
 
-Searchable tags: preventive maintenance, dust cleaning, microfiber, compressed air, overheating, Grade 11 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 11, jordan, grade 8 term 1 digital skills
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: preventive maintenance, dust cleaning, microfiber, compressed air, overheating, Grade 11 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 11, jordan, grade 8 term 1 digital skills, armenia, grade 7

@@ -1,6 +1,6 @@
 # Sources — What makes an algorithm good — six characteristics
 
-countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan
+countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -23,6 +23,10 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldo
 
 **Book 11:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six characteristics | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 207–209 |
@@ -37,8 +41,10 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldo
 | 2.7 Generalități despre algoritmi | Moldova Grade 8 Informatică, printed p. 88 |
 | Learning Experience 5, Session 3: who has more steps — removing unnecessary steps, doing a task in the fewest steps | Bangladesh Grade 6 Digital Technology, printed p. 63 |
 | Lesson 1: writing and developing algorithms; conditions for writing algorithms; factors for choosing the best algorithm | Jordan Grade 7 G7T2 Student, printed p. 82 |
+| §18 The concept of an algorithm | Armenia Grade 5 G5 student (Antares), printed p. 96 |
+| Lesson 29 Characteristics of algorithms (Theme 19) | Armenia Grade 10 G10 student, printed p. 140 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 11 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan, Armenia).**
 
 Book error taught corrected: the student book prints “fineness” for this characteristic (printed p. 210, in the worked-algorithms summary of the same list) — the word meant is **finiteness**, and the lesson teaches finiteness. The unit's outcomes header also spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint); the lessons use the correct spelling, Fundamentals of Programming.
 
@@ -61,4 +67,8 @@ Bangladesh's own way (Grade 6, Digital Technology): the Competency-based Nationa
 
 Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
 
-Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 8 informatica, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 8 informatica, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 10

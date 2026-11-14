@@ -1,6 +1,6 @@
 # Sources — The while loop — and the increment that ends it
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -36,6 +36,12 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 
 **Book 18:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն, 12-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 12, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 12 (teacher guide). 51 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The while shape — test first, every time | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 184–185 (student placement item 128) |
@@ -59,8 +65,11 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 | Chapter 5, 5.6: the while loop | Bangladesh HSC ICT, printed p. 168 |
 | Lesson 4: Loops — types of loops in Python, while loops | Jordan Grade 11 G11T1 Student, printed p. 62 |
 | Lesson plan 4: Loops (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 62 (teacher guide — evidence) |
+| 6.8 Repetition with a condition | Armenia Grade 7 G7 student, printed p. 122 |
+| Theme 8-10 Working with loops (§13) | Armenia Grade 8 G8 teacher, printed p. 24 (teacher guide — evidence) |
+| Additional materials: the while construction in JavaScript | Armenia Grade 12 G12 teacher, printed p. 41 (teacher guide — evidence) |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Armenia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 2: the keyed point that the while-loop activity and the for-loop activity solve the same problem with the same output — two roads to one output (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -97,4 +106,10 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
 
-Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Armenia's own way (Armenia Grade 12 G12 teacher): Companion to Book 22 in the Zangak guide template: subject programme and thematic planning for the JavaScript course, sample lesson plans (object structure/OOP; testing levels), a teaching methodology for the OOP theme, a learning-project plan, a summary test with descriptor, and additional problems with worked HTML/JavaScript solutions for the book's lessons.
+
+Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 12

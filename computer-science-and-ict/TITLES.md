@@ -1269,3 +1269,23 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **New Technologies** (ICT expansion, from Jordan): AI Search Algorithms and Problem Representation · AI Search Strategies — Blind Search · Adversarial Search and the Minimax Algorithm · Big Data Processing Operations · Building a Machine Learning Model — Steps and Tools · Cause and Effect in Data · Characteristics of an IoT System · Charts in Python — Line, Bar and Pie · Cloud Computing — Applications and Uses · Cloud Storage · Collecting Data With IoT · Collecting and Analysing Data With Python · Components and Characteristics of AI Systems · Components of Cloud Computing · Data Analysis Techniques · Data Analysis Tools — and Choosing Between Them · Data Analysis and Its Stages · Data Characteristics and Cyber Concerns · Data Security in Cloud Computing · Data Types, Sources and Collection Methods · Data Visualisation · Data Visualisation Tools · Data — Its Concept and Types · Descriptive Statistics in Python · Development Stages of AI · Embedded Computing and Its Applications · Google Cloud Services · Heuristic Search and Evaluation Functions · History and Evolution of the Internet of Things · Hologram Technology and AI · Hypotheses in Data Analysis · Interactive Data Visualisation · IoT Layered Architecture · IoT Network Architecture · IoT Network Design and Data Collection · IoT Network Design — Practical Applications · Knowledge Base Systems and Their Importance · Learning With Simulations — PhET · Logic and Its Relationship to AI · Microsoft Azure Cloud Services · Modeling and Simulation in AI · NLP — Tasks, Techniques and Applications · Programming a Robot in a Virtual Environment · Propositional Logic and Predicate Logic · RFID — Tags, Readers and How RFID Works · Requirements for Using Cloud Computing · Search Trees and Problem Solving in AI · Sensors in an IoT System · Smart Homes and How They Work · The Data Life Cycle in the Cloud · The Expert System Development Life Cycle · The Importance of Data Analysis · The Seven-Layer IoT Architecture — and the Five-Layer Model · The Three-Layer IoT Architecture · Training a Decision Tree Algorithm · Truth Tables in Logic · Types of Data Analysis · Types of Knowledge · Types of Machine Learning Algorithms · Types of Robots and How Robots Move
 
 **Spreadsheets** (ICT expansion, from Jordan): Conditional Functions — AVERAGEIF and SUMIF in Excel · Data Analysis in Excel — Exploratory and Time-Series Analysis · Excel Text Functions · Forecasting and Trendlines in Excel · The Analysis ToolPak — Descriptive Statistics and Regression in Excel · VLOOKUP in Excel
+
+**First Steps** (ICT expansion, from Armenia): Computing Systems — an Introduction
+
+**Software** (ICT expansion, from Armenia): Basic Computer Commands · Types of Operating Systems · History of Operating Systems
+
+**Files and Folders** (ICT expansion, from Armenia): Data Exchange Formats
+
+**Word Processing** (ICT expansion, from Armenia): Font Size Units — Points and Pixels
+
+**Spreadsheets** (ICT expansion, from Armenia): History of the Electronic Spreadsheet
+
+**Internet and the Web** (ICT expansion, from Armenia): Creating a Blog · Creating Online Content · HTML Forms
+
+**Databases** (ICT expansion, from Armenia): Forms of Data Representation
+
+**Programming** (ICT expansion, from Armenia): Algorithms in Everyday Life · Built-In Functions — Ready-Made Tools · Code Review With a Checklist · Computational Thinking — Designing a Project · JavaScript Array Methods · Objects and Classes · Program Quality and Testing · Program Structure — Modules, Libraries and APIs · Readable Code and Coding Style · Recursion in Nature and Daily Life · Simple Data Types and Their Ranges · Testing Methods and Types
+
+**Computers in Society** (ICT expansion, from Armenia): Assessing the Quality of Digital Artefacts · Inclusive Technology — Technology for All Learners · Scientific Methods of Inquiry · Software Licences and Their Effect on Society · The Digital Divide
+
+**New Technologies** (ICT expansion, from Armenia): Virtual Representation of the Real World

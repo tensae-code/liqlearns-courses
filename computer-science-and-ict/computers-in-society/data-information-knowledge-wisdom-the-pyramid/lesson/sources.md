@@ -14,6 +14,8 @@ countries: Ethiopia, Egypt, Fiji, Mongolia, Jordan
 
 **Book 6:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid — four layers, rising value | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 5–6 (student placement item 6) |
@@ -22,6 +24,7 @@ countries: Ethiopia, Egypt, Fiji, Mongolia, Jordan
 | 3.1 Data, information and the processing chain | Fiji, *Computer Education, Year 11*, printed p. 61 |
 | 2.1.1 Data, information, knowledge (the DIK pyramid) | Mongolia Grade 10 IT X, printed p. 46 |
 | Unit 1 Data Analysis, Lesson 1: Data and Information — data, information and knowledge | Jordan Grade 10 G10T1 Student, printed p. 10 |
+| Theme 7-3 Data, information, knowledge (§3) | Armenia Grade 7 G7 teacher, printed p. 19 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Egypt, Fiji, Mongolia, Jordan).**
 
@@ -35,4 +38,6 @@ Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, la
 
 Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
 
-Searchable tags: DIKW pyramid, data information knowledge wisdom, comparison table, value rising, Ethiopia Grade 11 IT, egypt, grade 10, fiji, year 11, mongolia, grade 10 it x, jordan, grade 10 term 1 digital skills
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: DIKW pyramid, data information knowledge wisdom, comparison table, value rising, Ethiopia Grade 11 IT, egypt, grade 10, fiji, year 11, mongolia, grade 10 it x, jordan, grade 10 term 1 digital skills, armenia, grade 7

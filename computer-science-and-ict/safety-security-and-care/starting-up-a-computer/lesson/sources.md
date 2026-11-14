@@ -1,6 +1,6 @@
 # Sources — Starting up a computer
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan
+countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,14 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, J
 
 **Book 10:** *المهارات الرقمية — الصف الأول الأساسي، كتاب الأنشطة للطالب (Digital Skills, Grade 1 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-977-9. Grade 1 (student activity book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: this early-grades activity book integrates partner subjects; only its ICT teaching parts are placed.
 
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն, 2-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 2, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2023; ISBN 978-9939-99-000-0. Grade 2 (teacher guide). 62 PDF pages. Verdict: COMPLETE. Read via contents, the 32-hour thematic planning, sample lesson plan 1 and the electronic-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն, 3-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 3, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 3 (teacher guide). 69 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Start-up order — checks, connections, power buttons, loading, sign-in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.63 |
@@ -34,8 +42,12 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, J
 | 1.4 Using a Computer: starting a computer and login | Bhutan, *Literacy with ICT, Class IV*, printed p. 6 |
 | Ch.2 Operating the computer: switch-on sequence and proper shutdown | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 17 |
 | Block 1 Position and Direction: recognising the screen that appears when the Start button is pressed on the computer desktop | Jordan Grade 1 G1 Workbook, printed p. 6 |
+| Lesson 1 Switching devices on and off | Armenia Grade 2 G2 student, printed p. 5 |
+| Thematic planning, Theme 1: switching devices on and off; fire cases | Armenia Grade 2 G2 teacher, printed p. 28 (teacher guide — evidence) |
+| Lesson 1 Working with devices. Safety (Theme 1 Learning to work with devices) | Armenia Grade 3 G3 student, printed p. 5 |
+| Thematic planning, Theme 1 Lesson 1: E-security and health — working with electronic devices, switching the computer on, off and restarting | Armenia Grade 3 G3 teacher, printed p. 23 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -49,4 +61,12 @@ Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" 
 
 Jordan's own way (Jordan Grade 1 G1 Workbook): At Grade 1, digital skills are taught inside an integrated activity book — six "blocks" (لبنات) of exploratory tasks where MS Paint is the working tool for position/direction, numbers, movement and shapes, ending in an unplugged "Programming Hour" project of direction commands.
 
-Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 2 G2 teacher): Companion to Book 1 in the Zangak guide template: Grade 2 standard outcomes, an exemplary programme, a 32-hour thematic plan covering the student book's twelve themes with practical works and two summary tests, sample lesson plans (the first teaches the "Important commands" lesson — select, cut, copy, paste, undo, redo), and worked explanations of the book's electronic tasks, opening with correct sitting posture at the computer.
+
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Armenia's own way (Armenia Grade 3 G3 teacher): Companion to Book 3 in the Zangak guide template: Grade 3 standard outcomes, exemplary programme, thematic planning that opens with e-security and health (switching the computer on, off and restarting), sample lesson plans (the first is Theme 6, keyboard shortcuts for fast work), and explanations of the textbook's electronic tasks.
+
+Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook, armenia, grade 2, grade 3

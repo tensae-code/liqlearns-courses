@@ -1,6 +1,6 @@
 # Sources — if…elif…else — a chain of choices
 
-countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan
+countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Ku
 
 **Book 14:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 16:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chain — first true block wins | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 173–176 (student placement item 122) |
@@ -48,8 +52,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Ku
 | Chapter 5, 5.6: else-if chains — the grade programme with Bangladesh's letter grades, A+ from 80 | Bangladesh HSC ICT, printed p. 163 |
 | Lesson 3: Conditional Statements — types of conditional statements, the if/elif/else statement | Jordan Grade 11 G11T1 Student, printed p. 48 |
 | Lesson plan 3: Conditional Statements (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 48 (teacher guide — evidence) |
+| §15 The conditional operator and loops in Python (conditionals) | Armenia Grade 9 G9 student, printed p. 136 |
+| Theme 9-8 Loops and the conditional operator (§15) | Armenia Grade 9 G9 teacher, printed p. 26 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the type-puzzle key — a variable holding a string makes only the string-type comparison true (guide printed pp. 122–128). NOTE on the marks chain: the student review question asks pass at 50 or above (≥ 50); this lesson's chain follows the student wording (Satisfactory from 50). The teacher guide's keyed review program uses mark > 50 — a guide fault, flagged fully in the breakpoints/debugging lesson's sources and NOT followed here. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -77,4 +83,8 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
 
-Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 9

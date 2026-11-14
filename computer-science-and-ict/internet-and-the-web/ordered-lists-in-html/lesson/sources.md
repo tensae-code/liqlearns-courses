@@ -14,6 +14,8 @@ countries: Ethiopia, Libya, Kuwait, Bangladesh, Jordan
 
 **Book 6:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Building an ordered list; the WHO top-ten example | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 98–99 |
@@ -23,6 +25,7 @@ countries: Ethiopia, Libya, Kuwait, Bangladesh, Jordan
 | Unit 1: Handling Images and Lists — ordered lists and their types | Kuwait Grade 9 Digital Intelligence T1, printed p. 75 |
 | Chapter 4, 4.2: ordered lists in HTML | Bangladesh HSC ICT, printed p. 126 |
 | Lesson 4: ordered lists | Jordan Grade 10 G10T1 Student, printed p. 161 |
+| Theme 9-4 Creating lists and forms in webpages (lists, §4–§5) | Armenia Grade 9 G9 teacher, printed p. 17 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Libya, Kuwait, Bangladesh, Jordan).**
 
@@ -36,4 +39,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
 
-Searchable tags: ordered lists, ol, li, type attribute, Roman numerals, Grade 11 ICT Ethiopia, libya, grade 11 it student term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: ordered lists, ol, li, type attribute, Roman numerals, Grade 11 ICT Ethiopia, libya, grade 11 it student term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9

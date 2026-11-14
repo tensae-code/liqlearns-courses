@@ -1,6 +1,6 @@
 # Sources — For loops over a list and over a string
 
-countries: Ethiopia, Egypt, Jordan
+countries: Ethiopia, Egypt, Jordan, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,18 @@ countries: Ethiopia, Egypt, Jordan
 
 **Book 5:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Over a list — item by item | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 181–183 (student placement item 126) |
@@ -20,8 +32,15 @@ countries: Ethiopia, Egypt, Jordan
 | 12-5 Application of Programming [2] (Python) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 172 |
 | Unit 1 Lesson 3 Strings and Lists in Python | Egypt, *Computer and ICT, Grade 9 Term 1 (Arabic)*, printed p. 31 |
 | Lesson 4: for loops and the range() function | Jordan Grade 11 G11T1 Student, printed p. 69 |
+| 6.6 Lists | Armenia Grade 7 G7 student, printed p. 111 |
+| 6.9 Traversing a list | Armenia Grade 7 G7 student, printed p. 126 |
+| Theme 7-14 Arrays and lists (§17 Variables, §18 Arrays and lists) | Armenia Grade 7 G7 teacher, printed p. 59 (teacher guide — evidence) |
+| §14 Working with lists | Armenia Grade 8 G8 student, printed p. 111 |
+| Theme 8-11 Working with lists (§14) | Armenia Grade 8 G8 teacher, printed p. 26 (teacher guide — evidence) |
+| §17 Arrays in the Python language | Armenia Grade 9 G9 student, printed p. 160 |
+| Theme 9-10 Arrays in Python (§17) | Armenia Grade 9 G9 teacher, printed p. 30 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Jordan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Jordan, Armenia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part): a loop that never meets its break condition prints everything in the list; and item 39 (teacher evidence) keys the review alphabet program — one letter per line, and on a single line by changing the print ending (guide printed pp. 134–139, 151–153). The regions list in Do it first is shortened to three entries (Afar, Oromia, Sidama) keeping the unit's first and last values; the full-list behaviour is identical. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -31,4 +50,16 @@ Egypt's own way (Grade 9, Term 1 student book (Arabic)): Preparatory 3 goes deep
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: for loop, list, string, iteration, characters, Grade 12 ICT Ethiopia, Unit 6 programming, egypt, grade 10, grade 9, jordan, grade 11 term 1 digital skills
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: for loop, list, string, iteration, characters, Grade 12 ICT Ethiopia, Unit 6 programming, egypt, grade 10, grade 9, jordan, grade 11 term 1 digital skills, armenia, grade 7, grade 8, grade 9

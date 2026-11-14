@@ -1,6 +1,6 @@
 # Sources - Identifiers - the rules for naming variables
 
-countries: Ethiopia, Kuwait, Moldova, Bangladesh
+countries: Ethiopia, Kuwait, Moldova, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Kuwait, Moldova, Bangladesh
 
 **Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - The character rules (first character letter or underscore; later letters, numbers or underscores) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 140-142 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Kuwait, Moldova, Bangladesh
 | Unit 2, Lesson 2: the rules for naming variables in Python | Kuwait Grade 10 Information Technology T1, printed p. 59 |
 | 1.5.2 Identificatori | Moldova Grade 10 Informatică, printed p. 23 |
 | Chapter 5, 5.6: variable names — the naming rules and valid vs invalid names | Bangladesh HSC ICT, printed p. 156 |
+| §22 Variables in programming | Armenia Grade 5 G5 student (Antares), printed p. 116 |
+| §23 Declaring a variable | Armenia Grade 6 G6 student, printed p. 137 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kuwait, Moldova, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Kuwait, Moldova, Bangladesh, Armenia).**
 
 Book error taught corrected, as directed: the student book's keyword list (printed p. 141) still lists print and exec as keywords - Python 2 wording carried into a Python 3 / IDLE book. The lesson teaches the naming rules exactly as the book states them, and flags in a marked Tip box that print and exec are NOT keywords in the Python 3 the book itself teaches (print is a built-in function), preserving the book's own wording note in this sources file. "statment" is also misspelled in the book's review headings throughout the unit; the course writes "statement". The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -31,4 +37,8 @@ Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ si
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: identifiers, naming rules, keywords, case sensitivity, valid names, Grade 11 ICT Ethiopia, Unit 6 programming, kuwait, grade 10 information technology term 1, moldova, grade 10 informatica, bangladesh, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Searchable tags: identifiers, naming rules, keywords, case sensitivity, valid names, Grade 11 ICT Ethiopia, Unit 6 programming, kuwait, grade 10 information technology term 1, moldova, grade 10 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, grade 6

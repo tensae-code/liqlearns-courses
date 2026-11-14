@@ -1,6 +1,6 @@
 # Sources — Loops — and the for loop over a sequence
 
-countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh
+countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -34,6 +34,16 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Liby
 
 **Book 16:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 18:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 12 (Digital Literacy and Computer Science, Grade 12 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-289-1. Grade 12 (student book). 88 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why loops exist — 50 students, one grading block | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
@@ -53,8 +63,13 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Liby
 | 3.5.1 The counting loop (For–To–Step–EndFor) | Mongolia Grade 11 IT XI, printed p. 119 |
 | Ch.1 Looping: For...Next structure and how it runs | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 48 |
 | Chapter 5, 5.6: the for loop | Bangladesh HSC ICT, printed p. 172 |
+| Lesson 13 Loops (Theme 11 Drawing and creating images with loops) | Armenia Grade 4 G4 student, printed p. 103 |
+| 6.7 Write once, repeat many times | Armenia Grade 7 G7 student, printed p. 118 |
+| §13 Working with loops | Armenia Grade 8 G8 student, printed p. 102 |
+| §15 The conditional operator and loops in Python (loops) | Armenia Grade 9 G9 student, printed p. 136 |
+| Lesson 5 Cyclic algorithms | Armenia Grade 12 G12 student, printed p. 34 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh).**
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh, Armenia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 1: counting introduced as the real-world looping problem — start at 1, add 1, repeat until 100 (guide printed pp. 134–139). All code shapes in this lesson were checked in Python 3. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -87,4 +102,14 @@ Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming cours
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13, libya, grade 11 it student term 1, malaysia, grade 7 ask tingkatan 1, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, bangladesh, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 12 G12 student): The final school year (Stepanyan, Torosyan, Amirkhanyan, Matinyan) is a single-subject book: programming in JavaScript with HTML — built-in functions, variables, data types, branching and cyclic algorithms, arrays, objects — closing with software testing (concepts, stages, levels, methods and types) and a reference section on JavaScript array methods.
+
+Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13, libya, grade 11 it student term 1, malaysia, grade 7 ask tingkatan 1, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, bangladesh, hsc ict classes xi xii and alim, armenia, grade 4, grade 7, grade 8, grade 9, grade 12

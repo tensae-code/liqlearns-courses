@@ -1,6 +1,6 @@
 # Sources — Creating and styling Excel charts
 
-countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh
+countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -47,6 +47,14 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 
 **Book 23:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
 
+**Book 24:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն, 4-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 4, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 4 (teacher guide). 108 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and a sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 26:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 27:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -80,8 +88,12 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 | Ch.3 §II.1 Making tables and charts from summarised data to support decisions | Laos Grade 12 ICT student, printed p. 152 |
 | Unit 3 Diagrams/charts | Greece Grade 8 Pliroforiki B, printed p. 42 |
 | Learning Experience 1, Session 6: Creating Graphs for My Assignment (Insert > Recommended Chart, data visualisation) | Bangladesh Grade 9 Digital Technology, printed p. 18 |
+| Lesson 10 Ways of presenting data (Theme 8) | Armenia Grade 4 G4 student, printed p. 76 |
+| Exemplary programme, Grade 4: the data-presentation strand of the course | Armenia Grade 4 G4 teacher, printed p. 11 (teacher guide — evidence) |
+| §13 Presenting data in the form of diagrams | Armenia Grade 6 G6 student, printed p. 76 |
+| Theme 7-8 Diagrams (§10 Presenting data with diagrams) | Armenia Grade 7 G7 teacher, printed p. 39 (teacher guide — evidence) |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 18 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -120,4 +132,12 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Armenia's own way (Armenia Grade 4 G4 teacher): Companion to Book 5 in the Zangak guide template: exemplary programme and thematic planning (Theme 1 covers electrical safety and health, with the device-malfunctions lesson and its safety outcomes spelled out), textbook and task structure notes, formative-assessment checklists, sample daily lesson plans (Theme 8-1, solving technical problems, starting from power and network checks), and explanations of selected textbook tasks.
+
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, armenia, grade 4, grade 6, grade 7

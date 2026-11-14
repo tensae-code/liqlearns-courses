@@ -1,6 +1,6 @@
 # Sources — Communication in an ICT system
 
-countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, Bangladesh
+countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, 
 
 **Book 10:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Communication in an ICT system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 4–5 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, 
 | Learning Experience 8 "Open Discussion on Inner Thoughts": verbal/written/nonverbal communication, sender-receiver-medium-noise process, digital communication | Bangladesh Grade 6 Digital Technology, printed p. 115 |
 | Learning Experience 8 "Let's Maintain the Rules of Communication", Sessions 1-3: types of communication, medium or channel, communication and language | Bangladesh Grade 7 Digital Technology, printed p. 113 |
 | Chapter 2, 2.1.1: Concept of a communication system | Bangladesh HSC ICT, printed p. 44 |
+| 1.6 Data exchange and communication | Armenia Grade 7 G7 student, printed p. 17 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, Bangladesh).**
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, Bangladesh, Armenia).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -53,4 +56,6 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: communication in an ict system, first steps, grade 7, information technology, ict, ethiopia, cambodia, azerbaijan, afghanistan, egypt, grade 10, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala, bangladesh, grade 6 digital technology, grade 7 digital technology, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Searchable tags: communication in an ict system, first steps, grade 7, information technology, ict, ethiopia, cambodia, azerbaijan, afghanistan, egypt, grade 10, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala, bangladesh, grade 6 digital technology, grade 7 digital technology, hsc ict classes xi xii and alim, armenia, grade 7

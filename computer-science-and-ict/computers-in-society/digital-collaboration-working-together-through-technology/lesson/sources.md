@@ -1,6 +1,6 @@
 # Sources — Digital collaboration — working together through technology
 
-countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece
+countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -19,6 +19,10 @@ countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece
 **Book 8:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 9:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What digital collaboration is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 18–19 (student placement item 25) |
@@ -30,8 +34,10 @@ countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece
 | Unit 5 Communication spaces | Greece Grade 9 Pliroforiki C, printed p. 60 |
 | Parcours: Partager et collaborer | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 11 (Parcours) (teacher guide — evidence) |
 | Parcours: Partager et collaborer | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 11 (Parcours) (teacher guide — evidence) |
+| §26–27 Principles of working in a team | Armenia Grade 5 G5 student (Antares), printed p. 131 |
+| Theme 7-7 Collaboration with people near and far | Armenia Grade 7 G7 teacher, printed p. 35 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Egypt, Mongolia, Greece).**
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Egypt, Mongolia, Greece, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -45,4 +51,8 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
 
-Searchable tags: digital collaboration, shared documents, real-time collaboration, way of working, Ethiopia Grade 12 IT, djibouti, cambodia, egypt, grade 5, mongolia, grade 8 it viii, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: digital collaboration, shared documents, real-time collaboration, way of working, Ethiopia Grade 12 IT, djibouti, cambodia, egypt, grade 5, mongolia, grade 8 it viii, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, armenia, grade 5, grade 7

@@ -1,6 +1,6 @@
 # Sources — Presentation software — slides that show your ideas
 
-countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan
+countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -48,6 +48,10 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lank
 
 **Book 23:** *المهارات الرقمية — الصف الثاني الأساسي، كتاب الأنشطة (Digital Skills, Grade 2 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-978-x (final digit not legible in the text layer, as filed). Grade 2 (student activity book). 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: blocks integrate partner subjects; only the ICT teaching parts (PowerPoint, Word, keyboard, images, saving files) are placed.
 
+**Book 24:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -75,8 +79,10 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lank
 | 5.1 Aplicații de prezentări electronice | Moldova Grade 7 Informatică, printed p. 93 |
 | Learning Experience 1, Session 7: Making Contents by Learning Presentation Software | Bangladesh Grade 7 Digital Technology, printed p. 16 |
 | Block 2 Digital Skills in Social Studies (Me and My Community): a PowerPoint presentation containing facts about Jordan | Jordan Grade 2 G2 Workbook, printed p. 22 |
+| Lesson 6 Slide decks (Theme 4 How to present work) | Armenia Grade 4 G4 student, printed p. 45 |
+| Assessment criteria for slide presentations (video-slide assessment rubric) | Armenia Grade 5 G5 teacher, printed p. 49 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -122,4 +128,8 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Jordan's own way (Jordan Grade 2 G2 Workbook): At Grade 2 the digital tool widens from Paint to Office: every block's learning product is a PowerPoint presentation, Word is used for written work, and keyboard finger placement and saving-after-every-edit are taught as habits.
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, bangladesh, grade 7 digital technology, jordan, grade 2 digital skills workbook
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, bangladesh, grade 7 digital technology, jordan, grade 2 digital skills workbook, armenia, grade 4, grade 5

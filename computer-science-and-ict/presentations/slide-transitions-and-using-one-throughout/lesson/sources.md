@@ -22,6 +22,8 @@ countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova
 
 **Book 10:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — slides and their contents; transitions defined against animations; the setting order in Normal view (Transitions tab, star marker, Effect Options, Duration, Sound, Advance Slide, Ctrl+S, F5, Esc) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 125–126 |
@@ -35,6 +37,7 @@ countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova
 | Ch.5 §VII.2 Adding effects when slides change (Transition to This Slide) | Laos Grade 12 ICT student, printed p. 243 |
 | Unit 4 Slide transitions | Greece Grade 8 Pliroforiki B, printed p. 51 |
 | 5.5 Tranziții și animații | Moldova Grade 7 Informatică, printed p. 103 |
+| Theme 8-3 Multimedia and spreadsheets: creating new works (§3–§4; slide transitions, animation, design, timing; spreadsheet functions and cell addressing) | Armenia Grade 8 G8 teacher, printed p. 11 (teacher guide — evidence) |
 
 **Acceptance count: taught in 8 countries (Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova).**
 
@@ -54,4 +57,6 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 8

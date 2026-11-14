@@ -1,6 +1,6 @@
 # Sources — Formatting — bold, italic, underline, font and colour
 
-countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 
 **Book 26:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 27:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -88,8 +90,9 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 | Ch.2 §2.3.4 Formatting text with the Font command | Laos Grade 9 ICT student, printed p. 27 |
 | Unit 7 Character and paragraph formatting | Greece Grade 7 Pliroforiki A, printed p. 75 |
 | 1.2 Formatarea caracterelor | Moldova Grade 8 Informatică, printed p. 8 |
+| Lesson 5 New tools for editing text | Armenia Grade 3 G3 student, printed p. 29 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 20 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -132,4 +135,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 6 it vi, sri lanka, grade 8 reading book, rwanda, grade 7 s1 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 6 it vi, sri lanka, grade 8 reading book, rwanda, grade 7 s1 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, armenia, grade 3

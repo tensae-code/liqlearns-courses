@@ -1,6 +1,6 @@
 # Sources — Algorithm Design Methods — Divide-and-Conquer, Dynamic Programming, Greedy
 
-countries: Greece, Moldova
+countries: Greece, Moldova, Armenia
 
 **Book 1:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
@@ -10,14 +10,17 @@ countries: Greece, Moldova
 
 **Book 4:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 5:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.4 Methods of algorithm design / divide-and-conquer / dynamic programming / greedy method | Greece Grade 12 Anaptyxi Efarmogon, printed p. 79 |
 | Unit 2 Algorithm design techniques: the divide-and-conquer method (binary search worked iteratively, with variants) | Greece Grade 12 Pliroforiki Supplementary, printed p. 67 |
 | Workbook Ch.4 Algorithm design techniques (worked examples and activities) | Greece Grade 12 Anaptyxi Workbook, printed p. 35 |
 | 2.8 Tehnica Greedy (filed as NEW LESSON NEEDED — programming/the-greedy-technique; stocked in this lesson because this lesson teaches the Greedy technique — one of the three algorithm design methods, taking the best-looking step each time — the greedy method of Moldova's section) | Moldova Grade 12 Informatică, printed p. 81 |
+| Lesson 28 Divide and rule (Theme 18) (filed as programming/divide-and-conquer; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 10 G10 student, printed p. 136 |
 
-**Acceptance count: taught in 2 countries (Greece, Moldova).**
+**Acceptance count: taught in 3 countries (Greece, Moldova, Armenia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/algorithm-design-methods-divide-and-conquer-dynamic-programming-greedy). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -29,4 +32,6 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mat
 
 Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
 
-Searchable tags: algorithm design, divide and conquer, dynamic programming, greedy, binary search, programming, greece, grade 12, moldova, grade 12 informatica
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Searchable tags: algorithm design, divide and conquer, dynamic programming, greedy, binary search, programming, greece, grade 12, moldova, grade 12 informatica, armenia, grade 10

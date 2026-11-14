@@ -1,6 +1,6 @@
 # Sources — Inserting pictures and screenshots
 
-countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan
+countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldov
 
 **Book 13:** *المهارات الرقمية — الصف السادس الأساسي، كتاب الأنشطة (Digital Skills, Grade 6 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN no ISBN printed (the ISBN line in this copy is a row of X placeholders, as filed). Grade 6 (student activity book — one file holding both semesters, internal title 'G6 AB S1-S2', as filed). 175 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
 
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — illustrations and what can be done to them; embedded objects; the insertion route in order; the Green Legacy worked document | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 93–94 |
@@ -45,8 +47,9 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldov
 | 1.6 Inserarea obiectelor | Moldova Grade 8 Informatică, printed p. 26 |
 | capturing only the active window with Alt+Print Screen; the window's picture is copied to the clipboard | Jordan Grade 6 G6 Workbook, printed p. 54 |
 | Environment 6: taking screenshots (Snipping Tool / Print Screen) and saving a presentation as a video (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 70 (teacher guide — evidence) |
+| Lesson 4 Inserting pictures and graphic images into a document | Armenia Grade 4 G4 student, printed p. 31 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -73,4 +76,6 @@ Jordan's own way (Jordan Grade 6 G6 Workbook): Grade 6 adds real Windows skills 
 
 Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
 
-Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil, moldova, grade 8 informatica, jordan, grade 4 digital skills teacher guide, grade 6 digital skills workbook, grade 4 digital skills teacher guide links-pass l2
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil, moldova, grade 8 informatica, jordan, grade 4 digital skills teacher guide, grade 6 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 4

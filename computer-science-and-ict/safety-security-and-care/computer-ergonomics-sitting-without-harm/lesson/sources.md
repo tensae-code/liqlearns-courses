@@ -1,6 +1,6 @@
 # Sources — Computer ergonomics — sitting without harming your body
 
-countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova
+countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -34,6 +34,12 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia
 
 **Book 16:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 18:** *Թվային գրագիտություն և համակարգչային գիտություն, 2-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 2, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2023; ISBN 978-9939-99-000-0. Grade 2 (teacher guide). 62 PDF pages. Verdict: COMPLETE. Read via contents, the 32-hour thematic planning, sample lesson plan 1 and the electronic-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What ergonomics is; hours at computers without knowing the consequences | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 5 §5.1, printed pp. 81–82 |
@@ -55,8 +61,11 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia
 | Ch.2 Correct postures when using computers | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 20 |
 | Ch.6 Health: Computer Vision Syndrome, eye care, correct posture at the computer | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 252 |
 | 1.1 Ergonomia și securitatea personală | Moldova Grade 7 Informatică, printed p. 5 |
+| Lesson 2 The computer and health | Armenia Grade 2 G2 student, printed p. 13 |
+| Electronic tasks explained, Theme "How to use electronic devices safely": sitting correctly in front of the computer | Armenia Grade 2 G2 teacher, printed p. 52 (teacher guide — evidence) |
+| Theme 1 Electronic security and health | Armenia Grade 4 G4 student, printed p. 5 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova).**
+**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova, Armenia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -87,4 +96,10 @@ Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming cours
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2, fiji, years 7-8, year 11, bhutan, class iv, class vi, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, moldova, grade 7 informatica
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 2 G2 teacher): Companion to Book 1 in the Zangak guide template: Grade 2 standard outcomes, an exemplary programme, a 32-hour thematic plan covering the student book's twelve themes with practical works and two summary tests, sample lesson plans (the first teaches the "Important commands" lesson — select, cut, copy, paste, undo, redo), and worked explanations of the book's electronic tasks, opening with correct sitting posture at the computer.
+
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2, fiji, years 7-8, year 11, bhutan, class iv, class vi, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, moldova, grade 7 informatica, armenia, grade 2, grade 4

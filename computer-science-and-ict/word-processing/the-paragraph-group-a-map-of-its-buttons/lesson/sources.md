@@ -1,6 +1,6 @@
 # Sources — The Paragraph group — a map of its buttons
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Moldova
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Moldova, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Moldova
 
 **Book 6:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Paragraph group tabled letter by letter — Bullets, Numbering, Multilevel List, the four alignments with shortcuts (Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J), Decrease/Increase Indent, Sort, Show/Hide (Ctrl+*), Line and Paragraph Spacing, Shading, Border | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 77-79 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Moldova
 | Unit 5 training (paragraphs) | Yemen, *Computer, Grade 10*, printed p. 99 |
 | Unit 2 Ch.2 Lesson 1 The Home tab: the paragraph group | Iraq, *Computer, Grade 8*, printed p. 46 |
 | 1.3 Formatarea paragrafelor | Moldova Grade 8 Informatică, printed p. 13 |
+| Lesson 3 Setting the paragraph format (Theme 3 New goals for texts and tables) | Armenia Grade 4 G4 student, printed p. 24 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Yemen, Iraq, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Yemen, Iraq, Moldova, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -34,4 +37,6 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: Paragraph group, Home tab, bullets, numbering, multilevel list, alignment shortcuts, sort, show hide, shading, border, Grade 9 ICT Ethiopia, afghanistan, yemen, grade 10, iraq, grade 8, moldova, grade 8 informatica
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Searchable tags: Paragraph group, Home tab, bullets, numbering, multilevel list, alignment shortcuts, sort, show hide, shading, border, Grade 9 ICT Ethiopia, afghanistan, yemen, grade 10, iraq, grade 8, moldova, grade 8 informatica, armenia, grade 4

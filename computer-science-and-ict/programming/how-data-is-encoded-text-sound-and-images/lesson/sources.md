@@ -1,6 +1,6 @@
 # Sources — How Data Is Encoded — Text, Sound and Images
 
-countries: China, Greece, Moldova
+countries: China, Greece, Moldova, Armenia
 
 **Book 1:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
@@ -11,6 +11,10 @@ countries: China, Greece, Moldova
 
 **Book 5:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 数据编码 (Data Encoding) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 1 §1.2.3, printed p. 18 |
@@ -19,8 +23,10 @@ countries: China, Greece, Moldova
 | 1.4 Codificarea textelor (filed as NEW LESSON NEEDED — first-steps/encoding-text-with-character-code-tables; stocked in this lesson because this lesson teaches encoding text with character code tables — ASCII, each character a number — the code tables of Moldova's section) | Moldova Grade 7 Informatică, printed p. 13 |
 | 1.7 Codificarea și decodificarea informației sonore (filed as NEW LESSON NEEDED — multimedia/encoding-and-decoding-sound-analog-to-digital; stocked in this lesson because this lesson teaches encoding sound by sampling — the analogue-to-digital coding of Moldova's section) | Moldova Grade 7 Informatică, printed p. 22 |
 | Activité 2 Séance 2: Conversion d'une lettre en nombre binaire; décoder un message (filed as NEW LESSON NEEDED — first-steps/coding-letters-in-binary-and-decoding-a-message; stocked in this lesson because this lesson teaches encoding text with a code table — every character a number, stored in binary, the same table read backwards to decode — the letter coding of Switzerland's activity) | Switzerland Grade 7 Décodage 7e–8e, printed p. 9 (Activité 2) (teacher guide — evidence) |
+| §9 Possibilities for converting text information (filed as first-steps/how-text-is-encoded-in-a-computer; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 6 G6 student, printed p. 50 |
+| 1.3 Digital data, encoding (filed as first-steps/how-text-is-encoded-in-a-computer; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 7 G7 student, printed p. 10 |
 
-**Acceptance count: taught in 3 countries (China, Greece, Moldova).**
+**Acceptance count: taught in 4 countries (China, Greece, Moldova, Armenia).**
 
 Placement choice: this lesson was built new for the ICT expansion (China, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Programming title (programming/), following the book's own order.
 
@@ -36,4 +42,8 @@ Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: data encoding, ascii, unicode, sampling, pixels, text, sound, images, programming, china, information technology compulsory 1, grade 11 record, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 epal basika themata, moldova, grade 7 informatica, switzerland, decodage, grades 78
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Searchable tags: data encoding, ascii, unicode, sampling, pixels, text, sound, images, programming, china, information technology compulsory 1, grade 11 record, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 epal basika themata, moldova, grade 7 informatica, switzerland, decodage, grades 78, armenia, grade 6, grade 7

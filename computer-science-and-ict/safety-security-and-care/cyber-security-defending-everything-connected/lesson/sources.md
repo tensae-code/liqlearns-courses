@@ -1,6 +1,6 @@
 # Sources — Cyber security — defending everything connected
 
-countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -38,6 +38,18 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 
 **Book 18:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 22:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 23:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 24:** *Թվային գրագիտություն և համակարգչային գիտություն, 10-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 10, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 10 (teacher guide). 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What cyber security is; its aim and five categories | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 197–198 |
@@ -59,8 +71,14 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 | Learning Experience 4 "Cyber Intelligence", Session 3: We will Prevent Cybercrimes Now | Bangladesh Grade 7 Digital Technology, printed p. 51 |
 | Learning Experience 2 "Let us Know about Cyber Threats, and Ensure Information Security", Session 1: Cyber Risks and Crimes Committed in Digital Media | Bangladesh Grade 9 Digital Technology, printed p. 28 |
 | Unit 1 Cyber Security, Lesson 1: Data & Information Security — data and information security and its relation to cyber security and to security policy | Jordan Grade 9 G9T2 Student, printed p. 10 |
+| 4.1 What electronic security is and why it is needed | Armenia Grade 7 G7 student, printed p. 58 |
+| Theme 7-1 Electronic security (§1: data leaks, passwords, phishing, cyberbullying defence) | Armenia Grade 7 G7 teacher, printed p. 11 (teacher guide — evidence) |
+| §1 Electronic security | Armenia Grade 8 G8 student, printed p. 5 |
+| Theme 8-1 Electronic security (§1; incl. writing e-mail correctly, personal-data protection, communication ethics) | Armenia Grade 8 G8 teacher, printed p. 7 (teacher guide — evidence) |
+| Lesson 2 Protection from cyberattacks | Armenia Grade 10 G10 student, printed p. 8 |
+| Exemplary thematic planning: Themes 1–2 Electronic security (cybercrime, protection from cyberattacks, cyberbullying) | Armenia Grade 10 G10 teacher, printed p. 57 (teacher guide — evidence) |
 
-**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 14 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia).**
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
@@ -94,4 +112,16 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
 
-Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 9 digital technology, jordan, grade 9 term 2 digital skills
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the same Zangak guide template as the Grade 2 guide: subject purpose and programme features, methods, assessment, the Grade 10 standard outcomes for all 24 themes, an exemplary thematic plan, sample lesson plans for the "Types. Composite structures" theme, and additional problems with solutions for Themes 14–15.
+
+Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 9 digital technology, jordan, grade 9 term 2 digital skills, armenia, grade 7, grade 8, grade 10

@@ -26,6 +26,8 @@ countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jord
 
 **Book 12:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The seven basic flowchart symbols tabled | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 224 |
@@ -37,6 +39,7 @@ countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jord
 | Enquête 1 Temps 2.3: Création d'un outil de synthèse et découverte de l'outil logigramme — les formes du logigramme | Switzerland Grade 7 Décodage 7e–8e, printed p. 10 (Enquête 1) (teacher guide — evidence) |
 | Chapter 5, 5.4.2: Flowchart — the standard symbols and their meanings | Bangladesh HSC ICT, printed p. 150 |
 | Lesson 2: types of flowcharts | Jordan Grade 7 G7T2 Student, printed p. 122 |
+| Theme 6-11 Block diagrams | Armenia Grade 6 G6 teacher, printed p. 39 (teacher guide — evidence) |
 
 | Flowcharts — why precise representation; the definition; the pictured symbol set (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 210–212 |
 | Unit 3, 3-2: The program flowchart and its standard symbols | Sudan, *Computer Science, Grade 11*, printed p. 26 |
@@ -64,4 +67,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
 
-Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6

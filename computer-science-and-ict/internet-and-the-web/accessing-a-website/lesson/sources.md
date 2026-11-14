@@ -1,6 +1,6 @@
 # Sources — Accessing a website — address, keyword and ISP
 
-countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan
+countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan
 
 **Book 12:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | By address and links — the Ministry of Education worked example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.53 |
@@ -38,6 +40,7 @@ countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan
 | Ch 1, how to connect to the Internet | Libya Grade 11 IT student Term 2, printed p. 22 |
 | Ch.2 §II.1 The internet and searching through it | Laos Grade 12 ICT student, printed p. 38 |
 | Lesson 1: accessing websites | Jordan Grade 10 G10T1 Student, printed p. 119 |
+| 5.3 Website and blog | Armenia Grade 7 G7 student, printed p. 74 |
 
 | Sub lesson 3 — Searching the internet — keywords and results (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 66–67 |
 | How the unit is evidenced — pupils assessed while they actually search by keyword (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 4, printed pp. 35–39 (guide placement item 15) |
@@ -45,7 +48,7 @@ countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan
 | Unit 4 Ch.2 Lesson 2 Browsing the internet | Iraq, *Computer, Grade 7*, printed p. 135 |
 | Unit 3 Lesson 2 My Journey in the World of Websites | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 10 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia).**
 
 The teacher guide's ISP answers contradict each other within two pages (Ethio-Telecom as the only ISP, then Ethio-Telecom and Safaricom-Ethiopia together) — flagged in the placements. The lesson teaches the student book's own line (Ethio-telecom as Ethiopia's example ISP) and records the guide's contradiction here rather than teaching either keyed answer as settled.
 
@@ -67,4 +70,6 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
 
-Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5, bhutan, class iv, libya, grade 9 computer, grade 11 it student term 2, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5, bhutan, class iv, libya, grade 9 computer, grade 11 it student term 2, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills, armenia, grade 7

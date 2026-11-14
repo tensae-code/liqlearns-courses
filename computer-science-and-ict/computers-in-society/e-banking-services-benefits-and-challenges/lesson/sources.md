@@ -1,6 +1,6 @@
 # Sources — E-banking — services, benefits and challenges
 
-countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh
+countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh
 
 **Book 8:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 11 (Digital Literacy and Computer Science, Grade 11 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-283-9 (from the book's printed QR link, zangak.am/9789939992839). Grade 11 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The imprint's “112 pages” figure disagrees with the PDF and with the book's own contents (which runs to p. 124 plus back matter); the PDF pagination is used, as filed.
+
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 11: Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 11, Methodological Guide, senior school)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 11 (teacher guide). 92 PDF pages. Verdict: COMPLETE. Read via contents, programme outcomes, thematic planning, sample lesson plans and the additional-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) The printed book is 88 pp per its imprint, as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-banking and its services | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 13–15 (student placement item 11) |
@@ -29,8 +35,11 @@ countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh
 | Unit 2 ICT in Financial Transactions: role of computers, impact of financial technologies (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 37 (teacher guide — evidence) |
 | Unit 2: the role of computers in financial transactions (automated operations, record keeping, stock exchange) | Rwanda Grade 8 S2 ICT Student Book, printed p. 23 |
 | Chapter 1, 1.1.8: Electronic Fund Transfer and internet banking | Bangladesh HSC ICT, printed p. 10 |
+| Lesson 6 Online financial transactions (Theme 5 How the computer changed our life) | Armenia Grade 10 G10 student, printed p. 34 |
+| Lesson 1 Online payment systems (Theme 1 Electronic security) | Armenia Grade 11 G11 student, printed p. 5 |
+| Thematic planning, Theme 1 Lesson 1: Online payment systems | Armenia Grade 11 G11 teacher, printed p. 45 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. The e-banking figure is Figure 1.10; the next numbered figure in the book is 1.13 — see the figure-numbering note above.
 
@@ -44,4 +53,10 @@ Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 gui
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: e-banking, internet banking, ATM, mobile banking, electronic funds transfer, digital theft, Ethiopia Grade 11 IT, mozambique, sudan, grade 6, egypt, grade 7, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, bangladesh, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Zangak) is the most advanced book in the set: online payment systems, digital biography, software licences, inclusive technology, logic-circuit adders, network performance, big data in tables, 1D/2D arrays, sorting and searching, recursion, OOP classes and inheritance, error types and algorithm speed — most of it beyond the current ICT course's 584 lessons, hence the high NEW share.
+
+Armenia's own way (Armenia Grade 11 G11 teacher): Companion to Book 20 in the Zangak guide template: the Grade 11 programme (whose outcomes include program structure — modules, libraries, APIs), thematic planning opening with e-security and online payment systems, sample lesson plans for the functions lesson (10-1) and the program-development-process lesson (17), and additional tasks with solutions, including spreadsheet sorting/duplicates work and two project works — protecting a digital identity with a professional online presence, and the effect of software licences on technological development.
+
+Searchable tags: e-banking, internet banking, ATM, mobile banking, electronic funds transfer, digital theft, Ethiopia Grade 11 IT, mozambique, sudan, grade 6, egypt, grade 7, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, bangladesh, hsc ict classes xi xii and alim, armenia, grade 10, grade 11

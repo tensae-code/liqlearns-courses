@@ -1,6 +1,6 @@
 # Sources — Output devices — getting results out
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece
+countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -28,6 +28,14 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greec
 
 **Book 13:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 16:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Output devices — getting results out | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 21–23 (teacher evidence: guide printed pp. 31–34) |
@@ -44,8 +52,12 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greec
 | Ch.1 Specifications: monitor display and video graphic adapter (VGA), sound card | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 14 |
 | Ch.1 §7 Output devices | Laos Grade 7 ICT student, printed p. 35 |
 | Unit 2 Output units | Greece Grade 7 Pliroforiki A, printed p. 24 |
+| Lesson 10 Recognising simple input and output devices (output side) | Armenia Grade 2 G2 student, printed p. 68 |
+| Lesson 8 Output and input devices (Theme 5) | Armenia Grade 3 G3 student, printed p. 48 |
+| §15 Computer input and output devices (output) | Armenia Grade 5 G5 student (Antares), printed p. 79 |
+| §9 Input and output devices (output) | Armenia Grade 8 G8 student, printed p. 71 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -69,4 +81,12 @@ Laos's own way (Grade 7 ICT student book): the hardware year is taught through t
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: output devices — getting results out, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Searchable tags: output devices — getting results out, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, armenia, grade 2, grade 3, grade 5, grade 8

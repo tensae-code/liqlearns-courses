@@ -1,6 +1,6 @@
 # Sources — The relational data model — tables of rows and columns
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 
 **Book 14:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the relational model represents data as two-dimensional tables called relations; each row is a record (tuple) holding one unique instance; each column is an attribute (field) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 58–59 |
@@ -42,6 +44,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | Unit 1, Lesson 1: the parts of a relational database and the basic database types | Kuwait Grade 11 Information Technology T1, printed p. 17 |
 | 4.3 Elaborarea bazelor relaționale de date | Moldova Grade 12 Informatică, printed p. 128 |
 | Chapter 6, 6.2: the relational database management system (RDBMS) | Bangladesh HSC ICT, printed p. 192 |
+| §23 Presenting data by means of tables | Armenia Grade 5 G5 student (Antares), printed p. 119 |
 
 | Sub lesson 4 — an RDBMS is software used to create, maintain and provide controlled access to a relational database; two-dimensional tables, column = field/attribute, row = record/tuple with one value per column; the student entity's attributes (id, name, age, grade level, sex) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed p. 61 |
 | Sub lesson 4 (teacher guide — evidence) — Ethiopian example sets: single field values across types (book title, email address, sales date, body temperature, weight, cost in birr, expiry date, opening hour); the patient typed fields; fields for Person, Book and Sales; one full Student record row | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 53–54 |
@@ -51,7 +54,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | Unit 1 Lesson 2: Linked tables — avoiding repeated data | Sudan, *ICT, Grade 7*, printed p. 12 |
 | 9-2 Database [2] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 115 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -77,4 +80,6 @@ Moldova's own way (Grade 12, Informatică): the final year goes deep in three di
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5

@@ -1,6 +1,6 @@
 # Sources — File name extensions — reading a file's ending
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda
 
 **Book 6:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — extensions, what they state, the operating system choosing the opening application, the .jpg worked example, first examples, the operating-systems table | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 6–7 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Uganda
 | Unit 1, Lesson 1 (teacher points): File name vs file extension, showing hidden extensions in a folder window, and why an extension must not be deleted when renaming (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 12 (teacher guide — evidence) |
 | Unit 1, Lesson 2: File types and extensions (.jpg, .docx…) and giving a file a name that matches its contents (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 27 (teacher guide — evidence) |
 | Activité 4: Les types de fichiers | Switzerland Grade 6 Décodage 5e–6e, printed p. 3 (Activité 4) (teacher guide — evidence) |
+| §6 Files and their types | Armenia Grade 6 G6 student, printed p. 29 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Armenia).**
 
 No book error touches this lesson's pages. Question answers were checked against the teacher guide's Unit 1 review keys (printed pp. 18–21) (teacher guide — evidence): the guide's key confirms that a file sent without its extension cannot be opened because the system does not know which program to use — the scenario is worked in full in the File paths lesson's sources.
 
@@ -33,4 +36,6 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
 
-Searchable tags: file extension, jpg, docx, mp3, xlsx, operating system, files and folders, grade 10, information technology, ict, ethiopia, uganda, saudi arabia, grade 8, grade 4, switzerland, decodage, grades 56
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Searchable tags: file extension, jpg, docx, mp3, xlsx, operating system, files and folders, grade 10, information technology, ict, ethiopia, uganda, saudi arabia, grade 8, grade 4, switzerland, decodage, grades 56, armenia, grade 6

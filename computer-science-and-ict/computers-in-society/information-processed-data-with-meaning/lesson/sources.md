@@ -1,6 +1,6 @@
 # Sources — From data to information — processed data with meaning
 
-countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh
+countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh
 
 **Book 8:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Information — data made meaningful | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 2–3 (student placement item 3) |
@@ -27,8 +29,9 @@ countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh
 | Ch.1 §4 Information (its characteristics and types) | Laos Grade 10 ICT student, printed p. 4 |
 | Unit 1 Data – information | Greece Grade 7 Pliroforiki A, printed p. 10 |
 | Learning Experience 1 "A problem is not a bother, let us solve it together", Session 1: what information is | Bangladesh Grade 6 Digital Technology, printed p. 1 |
+| §1 Information and the person | Armenia Grade 5 G5 student (Antares), printed p. 5 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Yemen, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -42,4 +45,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: information, processed data, sales trend, who what when where, processing ladder, Davenport and Prusak, Ethiopia Grade 11 IT, china, yemen, laos, grade 6 ict student, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Searchable tags: information, processed data, sales trend, who what when where, processing ladder, Davenport and Prusak, Ethiopia Grade 11 IT, china, yemen, laos, grade 6 ict student, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, armenia, grade 5

@@ -38,6 +38,8 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 
 **Book 17:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 18:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Many forms, one presentation | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 introduction and §4.2, printed pp. 144, 147 |
@@ -54,6 +56,7 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 | Ch.3 Managing digital material and multimedia applications | Greece Grade 10 Efarmoges Pliroforikis, printed p. 26 |
 | 3.11 Aplicații multimedia | Moldova Grade 7 Informatică, printed p. 74 |
 | Learning Experience 2 "Digital Solutions through Digital Gifts", Session 1: digital content as text/image/video/music | Bangladesh Grade 6 Digital Technology, printed p. 15 |
+| Theme 7-6 Working with text, numeric, audio and video information | Armenia Grade 7 G7 teacher, printed p. 31 (teacher guide — evidence) |
 
 | Going deeper — why the combination matters (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4 overview and opening, printed pp. 139–140 |
 | The unit ahead (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 139–181 |
@@ -97,4 +100,6 @@ Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real
 
 Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, armenia, grade 7

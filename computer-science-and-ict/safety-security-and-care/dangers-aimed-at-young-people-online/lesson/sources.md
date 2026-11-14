@@ -1,6 +1,6 @@
 # Sources — Dangers aimed at young people online
 
-countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh
+countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -19,6 +19,10 @@ countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh
 
 **Book 9:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cyberbullying and cyber predators defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 202–203 |
@@ -34,8 +38,10 @@ countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh
 | Référence: droit à l'image, contenus choquants | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Référence) (teacher guide — evidence) |
 | Scénario 5: comportements à adopter face à des contenus choquants | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Scénario 5) (teacher guide — evidence) |
 | Learning Experience 4, Session 2: When we are Cyber Detectives | Bangladesh Grade 7 Digital Technology, printed p. 55 |
+| §1 Dangers of the digital world | Armenia Grade 9 G9 student, printed p. 5 |
+| Theme 9-1 The main digital dangers (§1) | Armenia Grade 9 G9 teacher, printed p. 10 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -53,4 +59,8 @@ Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repe
 
 Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: cyberbullying, cyber predators, private information, youth safety, Grade 9 ICT Ethiopia Unit 5, north macedonia, grade 10, mauritania, grade 7, egypt, grade 9, fiji, years 7-8, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, grade 7 digital technology
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: cyberbullying, cyber predators, private information, youth safety, Grade 9 ICT Ethiopia Unit 5, north macedonia, grade 10, mauritania, grade 7, egypt, grade 9, fiji, years 7-8, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, grade 7 digital technology, armenia, grade 9

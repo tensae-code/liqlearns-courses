@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -44,6 +44,14 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 
 **Book 21:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 22:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 23:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 24:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -70,8 +78,12 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 | Unit 5 Electronic mail | Greece Grade 7 Pliroforiki A, printed p. 44 |
 | Learning Experience 8, Sessions 4-5: Preparation of Formal Communication; Time to Send the E-mail | Bangladesh Grade 7 Digital Technology, printed p. 120 |
 | Lesson 4: communication by e-mail | Jordan Grade 7 G7T1 Student, printed p. 106 |
+| Lesson 9 Sending and receiving letters by e-mail | Armenia Grade 2 G2 student, printed p. 64 |
+| Lesson 7 Sending and receiving letters with attached files (Theme 4 Working together, sharing our work) | Armenia Grade 3 G3 student, printed p. 42 |
+| 5.1 Electronic mail | Armenia Grade 7 G7 student, printed p. 68 |
+| Theme 7-2 Electronic communication (§2) | Armenia Grade 7 G7 teacher, printed p. 16 (teacher guide — evidence) |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 17 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -109,4 +121,12 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7

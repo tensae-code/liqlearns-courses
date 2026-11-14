@@ -1,6 +1,6 @@
 # Sources — Ring topology — and the four shapes compared
 
-countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan
+countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan
 
 **Book 8:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն, 10-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 10, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 10 (teacher guide). 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Each node, two neighbours, one direction | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 56–57 |
@@ -30,8 +34,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan
 | Chapter 2, 2.5.6: ring topology, its advantages and disadvantages | Bangladesh HSC ICT, printed p. 70 |
 | Lesson 2: Computer Network Topologies — the network topology model and the shapes compared | Jordan Grade 7 G7T1 Student, printed p. 87 |
 | Unit 2 Lesson plan 2: Computer Network Topologies (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 87 (teacher guide — evidence) |
+| Lesson 10 Network topologies (Theme 9) | Armenia Grade 10 G10 student, printed p. 53 |
+| Exemplary thematic planning: Theme 9 Network topologies | Armenia Grade 10 G10 teacher, printed p. 57 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -49,4 +55,8 @@ Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject
 
 Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
 
-Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the same Zangak guide template as the Grade 2 guide: subject purpose and programme features, methods, assessment, the Grade 10 standard outcomes for all 24 themes, an exemplary thematic plan, sample lesson plans for the "Types. Composite structures" theme, and additional problems with solutions for Themes 14–15.
+
+Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10

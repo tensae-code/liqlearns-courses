@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -45,6 +45,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 
 **Book 24:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 26:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -77,8 +81,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 | Introduction §2 Algorithme: séquence, conditionnelle, boucle | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 8 (teacher guide — evidence) |
 | Introduction §2 Algorithme | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 10 (teacher guide — evidence) |
 | Lesson 2: loop (repetition) statements in algorithms | Jordan Grade 12 G12T1 Student, printed p. 41 |
+| §20 Types of algorithms | Armenia Grade 5 G5 student (Antares), printed p. 107 |
+| §16 Types of algorithms | Armenia Grade 8 G8 student, printed p. 132 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan).**
+**Acceptance count: taught in 15 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan, Armenia).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -123,4 +129,8 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii, sri lanka, grade 8 reading book, kuwait, grade 4 digital explorer term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 12 term 1 digital skills
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii, sri lanka, grade 8 reading book, kuwait, grade 4 digital explorer term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 12 term 1 digital skills, armenia, grade 5, grade 8

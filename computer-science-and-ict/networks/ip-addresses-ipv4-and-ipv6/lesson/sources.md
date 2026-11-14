@@ -1,6 +1,6 @@
 # Sources — IP addresses — IPv4 and IPv6
 
-countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh
+countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -24,6 +24,12 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh
 
 **Book 11:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
 
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Internet Protocol and its address | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 72–73 |
@@ -38,8 +44,11 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh
 | Ch.5 §5.3.1 Internet Protocol address | Laos Grade 8 ICT student, printed p. 92 |
 | Activité 7 Temps 1.1: Démarrage et adresse IP | Switzerland Grade 8 Décodage 7e–8e, printed p. 4 (Activité 7) (teacher guide — evidence) |
 | Learning Experience 5, Session 5: Let Us Find the IP Address | Bangladesh Grade 9 Digital Technology, printed p. 160 |
+| 2.3 Addressing | Armenia Grade 7 G7 student, printed p. 42 |
+| §10 Network addressing | Armenia Grade 8 G8 student, printed p. 79 |
+| Theme 8-7 Network addressing (§10) | Armenia Grade 8 G8 teacher, printed p. 19 (teacher guide — evidence) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh).**
+**Acceptance count: taught in 9 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Armenia).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -62,4 +71,10 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78, bangladesh, grade 9 digital technology
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78, bangladesh, grade 9 digital technology, armenia, grade 7, grade 8

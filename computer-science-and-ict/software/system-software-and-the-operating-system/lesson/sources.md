@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -83,6 +83,12 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Mace
 
 **Book 42:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 43:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 44:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 45:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -133,8 +139,11 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Mace
 | 3.1 Sisteme de calcul | Moldova Grade 7 Informatică, printed p. 35 |
 | Lesson 4: Operating Systems — the operating system and its functions | Jordan Grade 7 G7T1 Student, printed p. 39 |
 | Lesson plan 4: Operating Systems (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 39 (teacher guide — evidence) |
+| §12 Operating systems | Armenia Grade 9 G9 student, printed p. 121 |
+| Theme 9-7 Operating systems (§12–§14) | Armenia Grade 9 G9 teacher, printed p. 24 (teacher guide — evidence) |
+| Lesson 9 Operating systems (Theme 8) | Armenia Grade 10 G10 student, printed p. 50 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan).**
+**Acceptance count: taught in 24 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -209,4 +218,10 @@ Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject
 
 Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict student, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 7 informatica, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict student, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 7 informatica, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 9, grade 10

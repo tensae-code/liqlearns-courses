@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan
+countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -72,6 +72,8 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 
 **Book 37:** *المهارات الرقمية — الصف السابع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 7 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-656-3. Grade 7 (teacher guide). 278 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 38:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -114,8 +116,9 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 | Activité 2: L'ordinatron — les composants d'une tablette numérique (l'intérieur d'une tablette) | Switzerland Grade 5 Décodage 5e–6e, printed p. 3 (Activité 2) (teacher guide — evidence) |
 | Lesson 2: Hardware — the computer's hardware components: peripherals and internal components | Jordan Grade 7 G7T1 Student, printed p. 19 |
 | Lesson plan 2: Hardware Components (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 19 (teacher guide — evidence) |
+| §16 The system unit | Armenia Grade 5 G5 student (Antares), printed p. 85 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan).**
+**Acceptance count: taught in 22 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -178,4 +181,6 @@ Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject
 
 Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jordan teacher guides — project-based three-stage lesson plans for every student-book lesson, with teaching strategies and assessment tools in the front matter (student-book page references below are the guide's own contents references).
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 5

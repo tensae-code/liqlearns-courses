@@ -1,6 +1,6 @@
 # Sources — Digital identity — your information that exists online
 
-countries: Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos, Bangladesh
+countries: Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos, Bangladesh
 
 **Book 8:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 11 (Digital Literacy and Computer Science, Grade 11 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-283-9 (from the book's printed QR link, zangak.am/9789939992839). Grade 11 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The imprint's “112 pages” figure disagrees with the PDF and with the book's own contents (which runs to p. 124 plus back matter); the PDF pagination is used, as filed.
+
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 11: Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 11, Methodological Guide, senior school)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 11 (teacher guide). 92 PDF pages. Verdict: COMPLETE. Read via contents, programme outcomes, thematic planning, sample lesson plans and the additional-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) The printed book is 88 pp per its imprint, as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a digital identity is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 17 (student placement item 22) |
@@ -29,8 +35,11 @@ countries: Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos, Bangladesh
 | Scénario 3 Séance 2: L'identité numérique | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 7 (Scénario 3) (teacher guide — evidence) |
 | Learning Experience 9 "Local Diversity Tree", Session 1: identity differences told by fingerprint and voice, the local diversity card | Bangladesh Grade 6 Digital Technology, printed p. 131 |
 | Learning Experience 3 "Making Identities through Information Technology", Session 1: Concept of Virtual Identity | Bangladesh Grade 7 Digital Technology, printed p. 38 |
+| Lesson 2 Personal data (Theme 2 Whom and what to tell or not tell about ourselves) | Armenia Grade 4 G4 student, printed p. 16 |
+| Lesson 2 Electronic communication. Forming a digital biography (Theme 2) | Armenia Grade 11 G11 student, printed p. 12 |
+| Additional tasks, Project work 1: Creating digital identity protection and a positive presence (incl. a LinkedIn profile example) | Armenia Grade 11 G11 teacher, printed p. 70 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos, Bangladesh, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -44,4 +53,10 @@ Bangladesh's own way (Grade 6, Digital Technology): the Competency-based Nationa
 
 Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: digital identity, digital image, trusted identity, fundamental services, Ethiopia Grade 12 IT, mozambique, bulgaria, north macedonia, grade 10, laos, grade 10 ict student, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Zangak) is the most advanced book in the set: online payment systems, digital biography, software licences, inclusive technology, logic-circuit adders, network performance, big data in tables, 1D/2D arrays, sorting and searching, recursion, OOP classes and inheritance, error types and algorithm speed — most of it beyond the current ICT course's 584 lessons, hence the high NEW share.
+
+Armenia's own way (Armenia Grade 11 G11 teacher): Companion to Book 20 in the Zangak guide template: the Grade 11 programme (whose outcomes include program structure — modules, libraries, APIs), thematic planning opening with e-security and online payment systems, sample lesson plans for the functions lesson (10-1) and the program-development-process lesson (17), and additional tasks with solutions, including spreadsheet sorting/duplicates work and two project works — protecting a digital identity with a professional online presence, and the effect of software licences on technological development.
+
+Searchable tags: digital identity, digital image, trusted identity, fundamental services, Ethiopia Grade 12 IT, mozambique, bulgaria, north macedonia, grade 10, laos, grade 10 ict student, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, armenia, grade 4, grade 11

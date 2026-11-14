@@ -1,0 +1,8 @@
+# Video script — Objects and Classes
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+A **class** is a plan: it names the **data** (attributes/properties) a kind of thing holds and the **actions** (methods) it can do. An **object** is one thing made from the plan — an **instance** of the class — with its own values in those attributes. One class, many objects: a `Pupil` class, and forty pupil objects, each with its own name and marks, all able to do what the class's methods define. Armenia teaches object and class three times over: Grade 7's Python chapter (6.11), Grade 11's OOP theme, and Grade 12's JavaScript objects.
+Code works with an object through its **properties** (reading and setting its data — `pupil.name`) and its **methods** (asking it to act — `pupil.average()`). The bundle is the point: data and the actions that belong to it travel together, so a program reads as a world of things, each responsible for itself. That is also the advantage Armenia's Grade 7 book names next (6.12): objects model the real world directly, hide inner detail behind the methods, and let one class be reused in every program that needs that kind of thing.

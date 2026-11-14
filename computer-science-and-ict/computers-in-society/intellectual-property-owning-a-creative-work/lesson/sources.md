@@ -28,6 +28,8 @@ countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bang
 
 **Book 13:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What intellectual property is — in Ethiopian law | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 14 (student placement item 17) |
@@ -44,6 +46,7 @@ countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bang
 | Learning Experience 3 "Our school magazine", Session 2: others' property / intellectual property | Bangladesh Grade 6 Digital Technology, printed p. 27 |
 | Learning Experience 2 "Use of Intellectual Property", Session 1: intellectual property for personal and commercial use | Bangladesh Grade 7 Digital Technology, printed p. 20 |
 | Lesson 2: Intellectual Property — its origin and importance; divisions of intellectual property | Jordan Grade 7 G7T2 Student, printed p. 23 |
+| Sample lesson plan: §3 Rights of authors and users | Armenia Grade 6 G6 teacher, printed p. 58 (teacher guide — evidence) |
 
 **Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh, Jordan).**
 
@@ -71,4 +74,6 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
 
-Searchable tags: intellectual property, Proclamation 320/2003, trade secrets, patents, copyright, trademarks, Ethiopia Grade 12 IT, north macedonia, grade 10, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 7 term 2 digital skills
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Searchable tags: intellectual property, Proclamation 320/2003, trade secrets, patents, copyright, trademarks, Ethiopia Grade 12 IT, north macedonia, grade 10, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 7 term 2 digital skills, armenia, grade 6

@@ -1,6 +1,6 @@
 # Sources — Copyright — automatic protection for original works
 
-countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh
+countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -22,6 +22,12 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 
 **Book 10:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
 
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What copyright protects | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 16 (student placement item 20) |
@@ -35,8 +41,11 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 | Learning Experience 3, Session 2: copyright explained | Bangladesh Grade 6 Digital Technology, printed p. 27 |
 | Learning Experience 2, Session 2: Protecting the Rights of the Copyright Owner | Bangladesh Grade 7 Digital Technology, printed p. 24 |
 | Learning Experience 1, Session 7: Ensuring Copyright for Our Writing | Bangladesh Grade 9 Digital Technology, printed p. 21 |
+| §3 Rights of authors and users | Armenia Grade 6 G6 student, printed p. 14 |
+| Theme 6-3 Authors and users: who has what rights | Armenia Grade 6 G6 teacher, printed p. 16 (teacher guide — evidence) |
+| Theme 7-4 Copyright and licences (§4) | Armenia Grade 7 G7 teacher, printed p. 24 (teacher guide — evidence) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -54,4 +63,10 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7

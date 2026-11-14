@@ -1,6 +1,6 @@
 # Sources — System or application? Telling software apart
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece
 
 **Book 9:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The comparison — purpose, running time, interaction; Windows vs Word | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.34 |
@@ -31,8 +35,10 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece
 | Ch.2 §3 Types of software | Laos Grade 7 ICT student, printed p. 49 |
 | Ch.2 System software and application software | Greece Grade 10 Efarmoges Pliroforikis, printed p. 20 |
 | Activité 6 Séance 1: Différencier système d'exploitation, document, site web et logiciel | Switzerland Grade 8 Décodage 7e–8e, printed p. 3 (Activité 6) (teacher guide — evidence) |
+| §17 Types of software | Armenia Grade 5 G5 student (Antares), printed p. 91 |
+| Theme sources: types of computer programs and operating systems (for §17) | Armenia Grade 5 G5 teacher, printed p. 19 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -50,4 +56,8 @@ Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
+
+Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, armenia, grade 5

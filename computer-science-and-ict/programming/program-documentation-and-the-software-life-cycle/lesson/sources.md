@@ -6,10 +6,13 @@ countries: Greece
 
 **Book 2:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 3:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.14 Documentation of the program (reasons, categories, program file) / software life cycle | Greece Grade 12 Anaptyxi Efarmogon, printed p. 255 |
 | Ch.2.2 Documentation (filed as NEW LESSON NEEDED — programming/documenting-a-program; stocked in this lesson because this NEW lesson built for Greece in this expansion teaches documenting a program — the reasons, the categories and the program file — as its first half, so Greece's Grade 11 documentation section is stocked there with its Grade 12 chapter) | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 50 |
+| Theme 7-19 Program documentation (§22) (filed as programming/documenting-a-program; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 7 G7 teacher, printed p. 71 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Greece).**
 
@@ -19,4 +22,6 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
 
-Searchable tags: documentation, program file, software life cycle, programming, greece, grade 12 anaptyxi, grade 11 eisagogi
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: documentation, program file, software life cycle, programming, greece, grade 12 anaptyxi, grade 11 eisagogi, armenia, grade 7

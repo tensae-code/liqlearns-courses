@@ -1,6 +1,6 @@
 # Sources — HTML links — linking to other pages
 
-countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan
+countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bang
 
 **Book 12:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The anchor element — reference and clickable text | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 87–89 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bang
 | Unit 1: HTML Page Formatting and Handling Links — creating hyperlinks with the a tag, their kinds, and opening a link in a new tab (the Kuwait Future site: index, Kuwait Vision 2035, Kuwait Landmarks) | Kuwait Grade 9 Digital Intelligence T1, printed p. 53 |
 | Chapter 4, 4.2: hyperlinks — internal and external | Bangladesh HSC ICT, printed p. 129 |
 | Lesson 6: Multimedia and Hyperlinks — hyperlinks | Jordan Grade 10 G10T1 Student, printed p. 177 |
+| §7 Including a picture and a link in a webpage (links) | Armenia Grade 9 G9 student, printed p. 70 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -67,4 +70,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
 
-Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9

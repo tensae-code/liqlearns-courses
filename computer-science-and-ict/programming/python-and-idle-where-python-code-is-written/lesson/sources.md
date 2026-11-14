@@ -16,6 +16,8 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan
 
 **Book 7:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Python (popular high-level language; much easier to learn; chosen for teaching beginners) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 134-135 |
@@ -25,6 +27,7 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan
 | Learning Experience 4, Session 1: The Journey of Python Begins — installing Python and the Thonny editor | Bangladesh Grade 9 Digital Technology, printed p. 105 |
 | Lesson 2: Basics of Python Programming — installing/setting up Python | Jordan Grade 11 G11T1 Student, printed p. 20 |
 | Lesson plan 2: Basics of Python Programming (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 20 (teacher guide — evidence) |
+| Theme 7-13 Basics of a programming language (§15, Python) | Armenia Grade 7 G7 teacher, printed p. 53 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan).**
 
@@ -40,4 +43,6 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
 
-Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7

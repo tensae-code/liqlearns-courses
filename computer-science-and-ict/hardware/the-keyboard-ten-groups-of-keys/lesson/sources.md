@@ -1,6 +1,6 @@
 # Sources — The keyboard — ten groups of keys
 
-countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan
+countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -31,6 +31,12 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan
 
 **Book 15:** *المهارات الرقمية — الصف الثاني الأساسي، كتاب الأنشطة (Digital Skills, Grade 2 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-978-x (final digit not legible in the text layer, as filed). Grade 2 (student activity book). 117 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: blocks integrate partner subjects; only the ICT teaching parts (PowerPoint, Word, keyboard, images, saving files) are placed.
 
+**Book 16:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 18:** *Թվային գրագիտություն և համակարգչային գիտություն, 3-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 3, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 3 (teacher guide). 69 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -51,8 +57,11 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan
 | Lecția 4 Tastatura (letter keys, capitals, arrow keys) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 21 |
 | 6.8 Vizualizatorul și tastatura (the keyboard) | Moldova Grade 11 Informatică, printed p. 182 |
 | keeping fingers in their correct places on the keyboard | Jordan Grade 2 G2 Workbook, printed p. 53 |
+| Lesson 5 Keyboard letters and special keys | Armenia Grade 2 G2 student, printed p. 33 |
+| Lesson 9 Keyboard keys (Theme 6 Important keyboard buttons for fast work) | Armenia Grade 3 G3 student, printed p. 55 |
+| Sample lesson plan 1: Theme 6 Lesson 6-1 Keyboard shortcuts for fast work (Ctrl+C/V, Ctrl+X/V, Del) | Armenia Grade 3 G3 teacher, printed p. 50 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Armenia).**
 
 Printed p. 20 of the student book carries a stray character run (a run of the capital letter K typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -85,4 +94,10 @@ Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how 
 
 Jordan's own way (Jordan Grade 2 G2 Workbook): At Grade 2 the digital tool widens from Paint to Office: every block's learning product is a PowerPoint presentation, Word is used for written work, and keyboard finger placement and saving-after-every-edit are taught as habits.
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica, jordan, grade 2 digital skills workbook
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Armenia's own way (Armenia Grade 3 G3 teacher): Companion to Book 3 in the Zangak guide template: Grade 3 standard outcomes, exemplary programme, thematic planning that opens with e-security and health (switching the computer on, off and restarting), sample lesson plans (the first is Theme 6, keyboard shortcuts for fast work), and explanations of the textbook's electronic tasks.
+
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica, jordan, grade 2 digital skills workbook, armenia, grade 2, grade 3

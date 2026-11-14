@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal
 
 **Book 5:** *Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4682-7 (print) / 978-959-13-4683-4 (digital). 28 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — importing, exporting, the CSV pair, the File-menu export route and formats, OneNote notes exported as .doc | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 16–17 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Nepal
 | Unit 4 §4.6, File Handling Using pandas Library | Nepal, *Computer Science, Class 10*, printed p. 191 |
 | Unidad 3.6 Búsqueda automática para importar imágenes, textos, autoformas y símbolos (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 17 (teacher programme — evidence) |
 | Unidad 3 Búsqueda automática para importar imágenes, textos, autoformas y símbolos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 16 (teacher guide — evidence) |
+| Theme 6-6 Different kinds of files in one place (combining file formats in one work) | Armenia Grade 6 G6 teacher, printed p. 25 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
 
@@ -28,4 +31,6 @@ Cuba's own way (Grade 5): The Grade 5 programme is built around extracting infor
 
 Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-unit teaching tables with hour allocations; Unit 4 is renamed “Aprendiendo y creando” and taught purely as Scratch control, movement and appearance blocks. (teacher guide — evidence)
 
-Searchable tags: import, export, CSV, comma separated values, File menu, txt, bmp, jpg, gif, OneNote, files and folders, grade 10, information technology, ict, ethiopia, nepal, cuba, grade 5, cuba, grade 5
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Searchable tags: import, export, CSV, comma separated values, File menu, txt, bmp, jpg, gif, OneNote, files and folders, grade 10, information technology, ict, ethiopia, nepal, cuba, grade 5, cuba, grade 5, armenia, grade 6

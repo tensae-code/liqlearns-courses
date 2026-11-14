@@ -1,6 +1,6 @@
 # Sources — Troubleshooting — find the fault, find its cause
 
-countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan
+countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan
 
 **Book 11:** *المهارات الرقمية — الصف الثامن، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 8 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first edition); ISBN 978-9923-41-878-9. Grade 8 (student book). 187 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն, 4-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 4, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 4 (teacher guide). 108 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and a sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | A systematic approach — hardware and software | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 142–143 |
@@ -37,8 +41,10 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan
 | Ch.2 §2.9 Solving the problems that arise from installing a computer | Laos Grade 8 ICT student, printed p. 44 |
 | Enquête 3 Étape 2: Réparation du réseau de tri — réfléchir à l'origine de la «panne» | Switzerland Grade 7 Décodage 7e–8e, printed p. 9 (Enquête 3) (teacher guide — evidence) |
 | Unit 1 Computing Systems, Lesson 1: Computer Troubleshooting and Computer Maintenance | Jordan Grade 8 G8T1 Student, printed p. 10 |
+| Lesson 1 Recognising device malfunctions (Theme 1 Electronic security and health) | Armenia Grade 4 G4 student, printed p. 5 |
+| Thematic planning, Theme 1 Lesson 1: Recognising device malfunctions (electrical safety and health outcomes) | Armenia Grade 4 G4 teacher, printed p. 26 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia).**
 
 The student book sets the black-screen investigation as an activity with no printed solution (printed p. 143); the lesson teaches the systematic approach for it and invents no book answer. The book uses the number "Activity 5.2" for this troubleshooting activity as well as for the earlier uninstalling activity; the lesson teaches the skill, not the activity number.
 
@@ -60,4 +66,8 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance year — a full unit on troubleshooting hardware and software faults with Windows 10 tools — paired with a from-zero Scratch unit (screen, project, design elements, blocks, variables, control).
 
-Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Armenia's own way (Armenia Grade 4 G4 teacher): Companion to Book 5 in the Zangak guide template: exemplary programme and thematic planning (Theme 1 covers electrical safety and health, with the device-malfunctions lesson and its safety outcomes spelled out), textbook and task structure notes, formative-assessment checklists, sample daily lesson plans (Theme 8-1, solving technical problems, starting from power and network checks), and explanations of selected textbook tasks.
+
+Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills, armenia, grade 4

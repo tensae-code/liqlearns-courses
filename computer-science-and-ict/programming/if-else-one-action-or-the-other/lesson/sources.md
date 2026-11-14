@@ -1,6 +1,6 @@
 # Sources — if…else — one action or the other
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan
+countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -38,6 +38,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 
 **Book 19:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 12 (Digital Literacy and Computer Science, Grade 12 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-289-1. Grade 12 (student book). 88 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -63,8 +67,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 | 2.5 Algoritmi cu ramificări (branching algorithms) | Moldova Grade 8 Informatică, printed p. 82 |
 | Learning Experience 4, Session 6: Using Conditions in Python | Bangladesh Grade 9 Digital Technology, printed p. 126 |
 | Lesson 2: conditional statements in algorithms | Jordan Grade 12 G12T1 Student, printed p. 32 |
+| 6.5 Virtual decisions | Armenia Grade 7 G7 student, printed p. 103 |
+| Lesson 4 Linear and branching algorithms | Armenia Grade 12 G12 student, printed p. 25 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 14 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan, Armenia).**
 
 BOOK ERROR flagged: the student book's if…else example on printed p. 171 carries a printed Word cross-reference failure — the words 'error: reference source not found' appear where a figure reference belongs. The lesson teaches the if…else content itself, which is complete and correct; the broken reference is named here, not reproduced as teaching. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -101,4 +107,8 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1, moldova, grade 8 informatica, bangladesh, grade 9 digital technology, jordan, grade 12 term 1 digital skills
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 12 G12 student): The final school year (Stepanyan, Torosyan, Amirkhanyan, Matinyan) is a single-subject book: programming in JavaScript with HTML — built-in functions, variables, data types, branching and cyclic algorithms, arrays, objects — closing with software testing (concepts, stages, levels, methods and types) and a reference section on JavaScript array methods.
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1, moldova, grade 8 informatica, bangladesh, grade 9 digital technology, jordan, grade 12 term 1 digital skills, armenia, grade 7, grade 12

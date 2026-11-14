@@ -1,6 +1,6 @@
 # Sources — The internet — a network of networks
 
-countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan
+countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -77,6 +77,12 @@ countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanist
 
 **Book 38:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 39:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 40:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 41:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The internet — a network of networks; private, public, government; sharing globally | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.47 |
@@ -107,6 +113,9 @@ countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanist
 | Ch.9 Structure and services of the Internet (with history) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 80 |
 | 7.4 Rețeaua Internet | Moldova Grade 11 Informatică, printed p. 201 |
 | Lesson 4: connection and communication over the internet | Jordan Grade 7 G7T1 Student, printed p. 103 |
+| §7 Working with internet resources | Armenia Grade 5 G5 student (Antares), printed p. 37 |
+| 2.1 History of the creation of the Internet | Armenia Grade 7 G7 student, printed p. 36 |
+| Theme 7-9 History and structure of the Internet (§11) | Armenia Grade 7 G7 teacher, printed p. 41 (teacher guide — evidence) |
 
 | Sub lesson 2 — Internet services — WWW, email, Telnet, FTP (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | Sub lesson 2 — a modem joins a computer to the internet (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4 text, printed p. 64, and glossary, printed pp. 104–107 (wording corrected — see the honesty note below) |
@@ -124,7 +133,7 @@ countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanist
 | 5-3 Internet and Communication | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 50 |
 | Unit 3 Lesson 3 Internet Services | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 13 |
 
-**Acceptance count: taught in 24 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan).**
+**Acceptance count: taught in 25 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -187,4 +196,10 @@ Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how 
 
 Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
 
-Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica, jordan, grade 7 term 1 digital skills
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica, jordan, grade 7 term 1 digital skills, armenia, grade 5, grade 7

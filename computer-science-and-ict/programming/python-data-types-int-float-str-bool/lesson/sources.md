@@ -22,6 +22,8 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, J
 
 **Book 10:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - int and float (whole / decimal numbers; arithmetic operators +, -, /, //, *, %, **; /, //, % subtleties) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 142-145 |
@@ -36,6 +38,7 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, J
 | Unit 2, Lesson 1: data types in Python | Kuwait Grade 10 Information Technology T1, printed p. 39 |
 | Unit 2 Data types | Greece Grade 9 Pliroforiki C, printed p. 18 |
 | Lesson 2: elements of the Python language (variables, data types, arithmetic and logical expressions) | Jordan Grade 11 G11T1 Student, printed p. 29 |
+| Theme 6-13 Data types and names (constants, variables, declaration) | Armenia Grade 6 G6 teacher, printed p. 46 (teacher guide — evidence) |
 
 **Acceptance count: taught in 9 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan).**
 
@@ -55,4 +58,6 @@ Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-l
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, armenia, grade 6

@@ -1,6 +1,6 @@
 # Sources — Safety signs and hazards in the computer lab
 
-countries: Ethiopia, Uganda, Egypt, Fiji
+countries: Ethiopia, Uganda, Egypt, Fiji, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Uganda, Egypt, Fiji
 
 **Book 6:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Safe workplace, hazard risks, manuals, occupational health and safety | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.59 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Uganda, Egypt, Fiji
 | Strand 4, Topic Safe Working Practices/Habits, Lessons 1-2: Introduction to Work Place Safety; Safe Work Practices (yearly overview) (filed as safety-security-and-care/care-and-safety-with-machines-tools-and-electricity; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 124 (teacher guide — evidence, PARTIAL) |
 | 3-4 Information Technology for Safety [1] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 35 |
 | 4.2 Safety Procedures (safe installation work) | Fiji, *Computer Education, Year 13*, printed p. 59 |
+| Lesson 1 Fire-hazard cases when using devices | Armenia Grade 2 G2 student, printed p. 5 |
+| Lesson 1 Working with devices. Safety (Theme 1) | Armenia Grade 3 G3 student, printed p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Fiji, Armenia).**
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
@@ -32,4 +38,8 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: safety signs, hazards, computer laboratory, occupational health and safety, Grade 7 ICT Ethiopia, uganda, papua new guinea, grade 9, egypt, grade 10, fiji, year 13
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Searchable tags: safety signs, hazards, computer laboratory, occupational health and safety, Grade 7 ICT Ethiopia, uganda, papua new guinea, grade 9, egypt, grade 10, fiji, year 13, armenia, grade 2, grade 3

@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, 
 
 **Book 18:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, 
 | Ch.4 §4.7 Inserting a picture from Clip Art | Laos Grade 9 ICT student, printed p. 48 |
 | Unit 7 Images and automatic shapes | Greece Grade 7 Pliroforiki A, printed p. 81 |
 | 1.8 Grafica orientată pe obiecte (drawing objects) | Moldova Grade 8 Informatică, printed p. 36 |
+| §10 Inserting tables and pictures in text editors (pictures) | Armenia Grade 5 G5 student (Antares), printed p. 54 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -98,4 +101,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, armenia, grade 5

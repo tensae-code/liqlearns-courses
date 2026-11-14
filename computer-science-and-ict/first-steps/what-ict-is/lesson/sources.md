@@ -1,6 +1,6 @@
 # Sources — What ICT is
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -39,6 +39,8 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 **Book 18:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 19:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The road map of this course, and its brainstorm-first rhythm | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 1–2 (placement item 1: printed pp. II, 1 and unit openings throughout; item 2: printed p. 2) |
@@ -62,8 +64,9 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 | Ch.1 §1 The meaning of ICT | Laos Grade 6 ICT student, printed p. 2 |
 | Parcours: Identifier les outils numériques | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 9 (Parcours) (teacher guide — evidence) |
 | Parcours: Identifier les outils numériques | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 9 (Parcours) (teacher guide — evidence) |
+| 1.1 Welcome to the computer world | Armenia Grade 7 G7 student, printed p. 6 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos).**
+**Acceptance count: taught in 14 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -89,4 +92,6 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
 
-Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 6 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 6 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34, armenia, grade 7

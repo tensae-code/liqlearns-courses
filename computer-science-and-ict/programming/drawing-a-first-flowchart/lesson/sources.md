@@ -1,6 +1,6 @@
 # Sources — Drawing a first flowchart
 
-countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -37,6 +37,8 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, 
 
 **Book 19:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 20:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The garden-policy worked example — terminators, diamond, Yes and No paths | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 225–226 |
@@ -57,12 +59,13 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, 
 | Learning Experience 5 "Planning a Trip with Friend", Session 2: tasks step by step, flowchart of steps to come to school | Bangladesh Grade 6 Digital Technology, printed p. 61 |
 | Learning Experience 5, Sessions 4-5: Let's Make a Flowchart; Converting Self-Developed Algorithms into Flowcharts | Bangladesh Grade 7 Digital Technology, printed p. 68 |
 | Lesson 2 / unit overview: flowcharts and pseudocode for representing algorithms | Jordan Grade 12 G12T1 Student, printed p. 8 |
+| §19 Describing algorithms by means of block diagrams | Armenia Grade 6 G6 student, printed p. 115 |
 
 | Drawing flowcharts — add two numbers; positive or negative (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 213–214 |
 | Unit 3, 3-2: Drawing flowcharts — a simple program and a complex program | Sudan, *Computer Science, Grade 11*, printed p. 28 |
 | Unit 3 Lesson 3: Drawing flowcharts for problems | Sudan, *ICT, Grade 9*, printed p. 42 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia).**
 
 Book error, taught corrected: the teacher guide's worked speed-limit flowchart answer tangles its own FALSE branch in words ('if the S is less than or equal to 40, it is FALSE'); the lesson teaches the student book's three speed bands as printed, and the guide's sentence is not followed.
 
@@ -100,4 +103,6 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
 
-Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 12 term 1 digital skills
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 12 term 1 digital skills, armenia, grade 6

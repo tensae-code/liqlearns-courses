@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -47,6 +47,20 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 
 **Book 24:** *المهارات الرقمية — الصف الثاني عشر — الفصل الدراسي الثاني (Digital Skills, Grade 12, Second Semester, Academic track)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-888-8. Grade 12 (student book). 140 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy (نسخة قيد الإعداد) watermark, carried as filed.
 
+**Book 25:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 26:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
+
+**Book 27:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 28:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 29:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 30:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 31:** *Թվային գրագիտություն և համակարգչային գիտություն, 10-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 10, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 10 (teacher guide). 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -74,8 +88,15 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 | Introduction §6 Pensée informatique | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 13 (teacher guide — evidence) |
 | Learning Experience 9, Session 3: Difference in Opinion and Game of Logic | Bangladesh Grade 7 Digital Technology, printed p. 135 |
 | Lesson 1: stages of solving a problem in AI | Jordan Grade 12 G12T2 Student, printed p. 78 |
+| Lesson 12 Breaking actions into simpler actions | Armenia Grade 2 G2 student, printed p. 83 |
+| §12 Computational thinking | Armenia Grade 5 G5 student (Antares), printed p. 64 |
+| 6.1 Make the computer a friend | Armenia Grade 7 G7 student, printed p. 87 |
+| §12 Logical decomposition (breaking problems down logically) | Armenia Grade 8 G8 student, printed p. 90 |
+| Theme 8-9 Decomposing problems and turning them into algorithms (§12) | Armenia Grade 8 G8 teacher, printed p. 23 (teacher guide — evidence) |
+| Lesson 15 Generalisations of problem solutions | Armenia Grade 10 G10 student, printed p. 79 |
+| Additional materials, problems and solutions: Theme 15 Generalisations and patterns | Armenia Grade 10 G10 teacher, printed p. 78 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -121,4 +142,18 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Jordan's own way (Jordan Grade 12 G12T2 Student): Arabic text with every technical term also given in English in parentheses; each lesson opens with main idea, key concepts and learning outcomes and closes with self-assessment; each unit ends with unit questions and a self-checklist. Draft copy (نسخة قيد الإعداد) watermark.
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
+
+Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
+
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the same Zangak guide template as the Grade 2 guide: subject purpose and programme features, methods, assessment, the Grade 10 standard outcomes for all 24 themes, an exemplary thematic plan, sample lesson plans for the "Types. Composite structures" theme, and additional problems with solutions for Themes 14–15.
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills, armenia, grade 2, grade 5, grade 7, grade 8, grade 10

@@ -1,6 +1,6 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -48,6 +48,12 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 
 **Book 27:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
 
+**Book 28:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
+
+**Book 29:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 30:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — functions are predefined formulas: =, function name, opening parenthesis, arguments separated by commas, closing parenthesis; named: sum, average, maximum, minimum | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 55 |
@@ -76,6 +82,9 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | Ch.3 §I.2 Summarising data from a database through Excel | Laos Grade 12 ICT student, printed p. 148 |
 | Unit 3 Using functions in spreadsheet software | Greece Grade 8 Pliroforiki B, printed p. 38 |
 | Environment 2: using the SUM function and saving the calculator file in a named folder (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 14 (teacher guide — evidence) |
+| Project work: presenting research data with diagrams (project "My Homeland") | Armenia Grade 5 G5 teacher, printed p. 32 (teacher guide — evidence) |
+| §14–15 Functions in digital spreadsheets | Armenia Grade 6 G6 student, printed p. 85 |
+| Theme 6-9 Using functions in spreadsheets | Armenia Grade 6 G6 teacher, printed p. 34 (teacher guide — evidence) |
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -95,7 +104,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | Unit 2 Ch.2 Lesson 5 AutoSum functions | Iraq, *Computer, Grade 11*, printed p. 67 |
 | Урок 19 "Применение математических формул и функций в MS Excel" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 44 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Armenia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -148,4 +157,10 @@ Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook bl
 
 Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2
+Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
+
+Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
+
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 5, grade 6

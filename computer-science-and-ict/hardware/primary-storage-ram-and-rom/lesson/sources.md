@@ -1,6 +1,6 @@
 # Sources — Primary storage — RAM and ROM
 
-countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece
+countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece
 **Book 9:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 10:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — RAM (and the primary-storage frame) | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.3, printed pp. 28–29 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece
 | Ch.1 §4 Main memory (RAM and ROM) | Laos Grade 7 ICT student, printed p. 10 |
 | Unit 2 Computer memory and storage media | Greece Grade 7 Pliroforiki A, printed p. 25 |
 | Ch.1 Memory (memory hierarchy) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 14 |
+| §8 Memory devices | Armenia Grade 8 G8 student, printed p. 65 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -57,4 +60,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: primary storage, main memory, RAM, ROM, volatile, non-volatile, startup instructions, Ethiopia Grade 8, yemen, grade 10, iraq, grade 8, fiji, year 11, bhutan, class vi, class viii, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou
+Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
+
+Searchable tags: primary storage, main memory, RAM, ROM, volatile, non-volatile, startup instructions, Ethiopia Grade 8, yemen, grade 10, iraq, grade 8, fiji, year 11, bhutan, class vi, class viii, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 8

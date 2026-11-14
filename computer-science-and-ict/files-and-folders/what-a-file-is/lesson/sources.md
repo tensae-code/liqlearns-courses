@@ -1,6 +1,6 @@
 # Sources — What a file is
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos
+countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos
 
 **Book 13:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a file is | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -47,8 +51,10 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos
 | Workbook Ch.3 Activities 3.1-3.5: OS and file management exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 18 |
 | Ch.2 File and folder concepts | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 15 |
 | Ch.2 §10 Data files (file, record, field, shown with a Word table) | Laos Grade 6 ICT student, printed p. 36 |
+| Lesson 7 Doing simple actions with files | Armenia Grade 2 G2 student, printed p. 49 |
+| Lesson 8 Working with files (Theme 6) | Armenia Grade 4 G4 student, printed p. 59 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Laos).**
+**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Laos, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -68,4 +74,8 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
 
-Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, laos, grade 6 ict student
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
+
+Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, laos, grade 6 ict student, armenia, grade 2, grade 4

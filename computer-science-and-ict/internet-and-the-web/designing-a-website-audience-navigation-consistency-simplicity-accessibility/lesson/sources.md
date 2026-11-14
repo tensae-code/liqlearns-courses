@@ -1,6 +1,6 @@
 # Sources — Designing a website — audience, navigation, consistency, simplicity, accessibility
 
-countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh
+countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh
 
 **Book 11:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What website design is | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 78–79 |
@@ -38,8 +42,10 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh
 | 4.1 Modul la alegere: Web design | Moldova Grade 10 Informatică, printed p. 172 |
 | Learning Experience 3, Sessions 4-5: Design of Website or Social Media Page for Receiving Citizen Services; Website Design | Bangladesh Grade 9 Digital Technology, printed p. 85 |
 | Chapter 4, 4.3: Website design — seven tips from audience analysis to search engine optimisation | Bangladesh HSC ICT, printed p. 139 |
+| §8 Website design | Armenia Grade 9 G9 student, printed p. 81 |
+| Task analysis and solutions: §8 Website design | Armenia Grade 9 G9 teacher, printed p. 55 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh).**
+**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -63,4 +69,8 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, armenia, grade 9

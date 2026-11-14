@@ -1,6 +1,6 @@
 # Sources — From data to information
 
-countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece
+countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 
 **Book 15:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 16:** *Թվային գրագիտություն և համակարգչային գիտություն 2 (Digital Literacy and Computer Science 2)* (student book, Armenian) — Armenia, Zangak (Զանգակ), Yerevan; year 2023; ISBN 978-9939-99-022-4. Grade 2 (student book). 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն, 2-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 2, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2023; ISBN 978-9939-99-000-0. Grade 2 (teacher guide). 62 PDF pages. Verdict: COMPLETE. Read via contents, the 32-hour thematic planning, sample lesson plan 1 and the electronic-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Processed data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 3–4 |
@@ -50,8 +54,10 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 | Information and quality of information | Rwanda Grade 7 S1 ICT Student Book, printed p. 3 |
 | Unit 1, Lesson 4 Artificial Intelligence (1): data — what data is, its types, and the difference between data and information | Kuwait Grade 4 Digital Explorer T2, printed p. 53 |
 | Ch.1 Data and information | Greece Grade 11 EPAL Basika Themata, printed p. 11 |
+| Lesson 15 Data and information | Armenia Grade 2 G2 student, printed p. 106 |
+| Thematic planning, Theme 12: what data is, what information is, how they can be shown | Armenia Grade 2 G2 teacher, printed p. 29 (teacher guide — evidence) |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece).**
+**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia).**
 
 No book error touches this lesson's content.
 
@@ -75,4 +81,8 @@ Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records nam
 
 Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
 
-Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata
+Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built around two Grade 2 characters (Hayk and Arpi); every lesson uses fixed activity "rooms" (key knowledge, key words, skills/tasks) and QR codes link to audio/video material; safety and health come before any machine skills.
+
+Armenia's own way (Armenia Grade 2 G2 teacher): Companion to Book 1 in the Zangak guide template: Grade 2 standard outcomes, an exemplary programme, a 32-hour thematic plan covering the student book's twelve themes with practical works and two summary tests, sample lesson plans (the first teaches the "Important commands" lesson — select, cut, copy, paste, undo, redo), and worked explanations of the book's electronic tasks, opening with correct sitting posture at the computer.
+
+Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata, armenia, grade 2

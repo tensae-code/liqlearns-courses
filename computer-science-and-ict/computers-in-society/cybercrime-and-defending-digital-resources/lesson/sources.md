@@ -1,6 +1,6 @@
 # Sources — Cybercrime — and defending your country's digital resources
 
-countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh, Jordan
+countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -24,6 +24,12 @@ countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh, Jordan
 
 **Book 11:** *المهارات الرقمية — الصف التاسع، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 9 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-658-7. Grade 9 (teacher guide). 270 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
+
+**Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What cybercrime is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 8 (student placement item 12) |
@@ -38,8 +44,11 @@ countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh, Jordan
 | Chapter 1, 1.4: hacking as an unethical and criminal activity | Bangladesh HSC ICT, printed p. 30 |
 | Lesson 3: Cybercrime — types of cybercrime and ways of preventing it | Jordan Grade 9 G9T1 Student, printed p. 32 |
 | Lesson plan 3: Cybercrime (teacher guide — evidence) | Jordan Grade 9 G9T1 Teacher, printed p. 32 (teacher guide — evidence) |
+| §2 Data protection, hacking | Armenia Grade 9 G9 student, printed p. 14 |
+| Theme 9-2 Data protection, hacking (§2) | Armenia Grade 9 G9 teacher, printed p. 12 (teacher guide — evidence) |
+| Lesson 1 Cybercriminals and cybercrimes (Theme 1 Electronic security) | Armenia Grade 10 G10 student, printed p. 5 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh, Jordan, Armenia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -57,4 +66,10 @@ Jordan's own way (Jordan Grade 9 G9T1 Student): Grade 9 pairs the social side of
 
 Jordan's own way (Jordan Grade 9 G9T1 Teacher): Same guide model as the Grade 11 guide — project-based three-stage lesson plans (preparation / teaching-and-learning / enrichment and assessment) for every student-book lesson, with assessment strategies and tools in the front matter (student-book page references below are the guide's own contents references).
 
-Searchable tags: cybercrime, INSA, cyber warrior, fraud, identity theft, national defence, Ethiopia Grade 12 IT, eritrea, mozambique, sudan, grade 6, fiji, year 12, bangladesh, grade 7 digital technology, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide
+Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
+
+Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
+
+Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
+
+Searchable tags: cybercrime, INSA, cyber warrior, fraud, identity theft, national defence, Ethiopia Grade 12 IT, eritrea, mozambique, sudan, grade 6, fiji, year 12, bangladesh, grade 7 digital technology, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 9, grade 10

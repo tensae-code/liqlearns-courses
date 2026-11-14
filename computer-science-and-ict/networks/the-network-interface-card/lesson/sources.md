@@ -12,6 +12,8 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh
 
 **Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The card that connects a computer to a network | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 39–40 |
@@ -20,6 +22,7 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh
 | Ch.1 Components: communication devices NIC, modem, router | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 7 |
 | Competency 5.1: main components of the school lab network (computers, NIC, switches) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 72 (teacher guide — evidence) |
 | Chapter 2, 2.5.4: network interface card | Bangladesh HSC ICT, printed p. 68 |
+| Theme 7-11 Network equipment (§13) | Armenia Grade 7 G7 teacher, printed p. 47 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Sri Lanka, Bangladesh).**
 
@@ -33,4 +36,6 @@ Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 c
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7

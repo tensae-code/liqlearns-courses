@@ -1,6 +1,6 @@
 # Sources — Making a picture in Paint
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan
+countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan, Armenia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -51,6 +51,8 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 
 **Book 25:** *المهارات الرقمية — الصف السادس الأساسي، كتاب الأنشطة (Digital Skills, Grade 6 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN no ISBN printed (the ISBN line in this copy is a row of X placeholders, as filed). Grade 6 (student activity book — one file holding both semesters, internal title 'G6 AB S1-S2', as filed). 175 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not.
 
+**Book 26:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -86,8 +88,9 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 | Block 1 guide plan: running Paint and using it to identify directions; the Paint workspace and its icons; opening a picture file in Paint; creating and colouring a drawing of the Jordanian flag (teacher guide — evidence) | Jordan Grade 1 G1 Teacher, printed p. 6 (teacher guide — evidence) |
 | making a picture in Paint | Jordan Grade 5 G5 Workbook, printed p. 11 |
 | working with the captured picture in Paint | Jordan Grade 6 G6 Workbook, printed p. 54 |
+| Lesson 4 Programs for creating pictures (Theme 3 With and without a computer) | Armenia Grade 3 G3 student, printed p. 23 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan).**
+**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan, Armenia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -136,4 +139,6 @@ Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Pai
 
 Jordan's own way (Jordan Grade 6 G6 Workbook): Grade 6 adds real Windows skills inside the activity blocks — creating a blank Word document, capturing the active window with Alt+Print Screen into the clipboard and Paint, and pixel art built in Excel with controlled dimensions.
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, jordan, grade 1 digital skills workbook, grade 1 digital skills teacher guide, grade 5 digital skills workbook, grade 6 digital skills workbook
+Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, jordan, grade 1 digital skills workbook, grade 1 digital skills teacher guide, grade 5 digital skills workbook, grade 6 digital skills workbook, armenia, grade 3

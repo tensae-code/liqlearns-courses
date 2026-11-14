@@ -30,6 +30,12 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 
 **Book 14:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 16:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
+**Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying a theme — Design tab, thumbnail; scroll bar, down-arrow, Microsoft Office Online | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 125–126 |
@@ -46,6 +52,9 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 | Ch.5 §VIII Presenting information effectively (importance; arranging slides so an audience follows) | Laos Grade 12 ICT student, printed p. 246 |
 | Unit 4 Good practices for creating presentations | Greece Grade 8 Pliroforiki B, printed p. 55 |
 | 5.6 Crearea prezentărilor în bază de modele (templates) | Moldova Grade 7 Informatică, printed p. 106 |
+| Slide-presentation assessment criteria | Armenia Grade 6 G6 teacher, printed p. 78 (teacher guide — evidence) |
+| Slide-presentation assessment criteria | Armenia Grade 7 G7 teacher, printed p. 202 (teacher guide — evidence) |
+| Slide-presentation assessment criteria | Armenia Grade 8 G8 teacher, printed p. 156 (teacher guide — evidence) |
 
 **Acceptance count: taught in 12 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova).**
 
@@ -75,4 +84,10 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica
+Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
+
+Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
+
+Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
+
+Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 6, grade 7, grade 8
