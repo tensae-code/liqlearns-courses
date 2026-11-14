@@ -1,6 +1,6 @@
 # Sources — Planets by the numbers — the data-table investigation
 
-countries: Ethiopia
+countries: Ethiopia, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,3 +14,20 @@ countries: Ethiopia
 BOOK ERROR, taught corrected: Activity 6.7's printed Sun-distance column is wrong for Mars and the outer planets (it prints Mars 207, Jupiter 741, Saturn 1,353, Uranus 2,741, Neptune 4,445, all ×10⁶ km). Mercury, Venus and Earth match. The corrected mean distances taught and used for the plot are: Mercury 57.9, Venus 108.2, Earth 149.6, Mars 227.9, Jupiter 778.5, Saturn 1,434, Uranus 2,871, Neptune 4,495 (×10⁶ km). The book's other columns (density, diameter, day and year lengths) are used as printed.
 
 Searchable tags: Activity 6.7, data table, density, Saturn floats, Venus day longer than year, Kepler pattern, corrected distances, Ethiopia Grade 8 General Science Unit 6
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 8.2 (continued): the planets table (diameter, distance from the Sun, time to complete one orbit) and a pictured paragraph on each planet (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 94 |
+| differentiating the planets by their characteristics and planets vs dwarf planets (chapter outcomes) (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 134 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, planets-by-the-numbers

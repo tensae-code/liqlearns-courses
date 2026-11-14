@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -27,3 +27,17 @@ countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia
 BOOK WORDING, taught corrected: Activity 6.8 (p. 170) calls Pluto a planet 'for a third quarter of a century' — garbled wording; Pluto held planet status for about 76 years (1930–2006), and that is what is taught. The book's §6.2.3 heading text prints 'meteorids' for meteoroids (p. 170; spelled correctly elsewhere) — the correct spelling is taught and the misprint is never reproduced. Pluto wording leftovers elsewhere in the book (see the Giant planets lesson's sources) are superseded by the 2006 demotion the book itself teaches, and the demotion is what this build teaches.
 
 Searchable tags: Pluto dwarf planet 2006, asteroid belt, comets, Halley, meteoroid meteor meteorite, Ethiopia Grade 8 General Science Unit 6
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| asteroids, meteorites and comets and their characteristics; Halley's Comet inquiry (chapter outcomes) (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 134 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, small-bodies-asteroids-comets-and-shooting-stars

@@ -1,6 +1,6 @@
 # Sources — Measuring: temperature, thermometers and the Celsius scale
 
-countries: Ethiopia, Serbia, Costa Rica, Uganda
+countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -59,3 +59,17 @@ Uganda's own way — one prototype General Science book for the whole of Senior 
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum, primary five, home-study learning
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| warmer and cooler objects, measuring temperature and its unit (taught inside the energy chapter) (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 56 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, temperature-thermometers-and-the-celsius-scale

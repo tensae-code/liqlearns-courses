@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -151,3 +151,17 @@ Searchable tags: moldova, the lungs and breathing, stiinte, sciences, grade 4
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, the lungs and breathing
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lungs, nose and windpipe: air's path in, lungs expanding and contracting, oxygen exchange (with the goat-lung examination activity) (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 11 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, the-lungs-and-breathing

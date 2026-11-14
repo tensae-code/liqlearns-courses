@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -153,3 +153,23 @@ Searchable tags: moldova, the solar system planets and the modern picture of the
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, the solar system planets and the modern picture of the universe
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Solar System modelled with the Sun at the centre and planets revolving around it; the Sun as the system's source of heat and light — Ch. 9 Solar System and Our Earth (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 100 |
+| 8.1 Stars and Planets and 8.2 Solar System: stars as self-lit burning spheres, planets as reflected-light bodies, and the Sun with its eight planets (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 92 |
+| the solar system: Sun, eight planets, satellites, comets and dwarf/minor planets (§12.2); the Sun's size, temperature and hydrogen-to-helium burning (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 135 |
+
+**Acceptance count: taught in 8 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, the-solar-system-planets-and-the-modern-picture-of-the-universe

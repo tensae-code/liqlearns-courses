@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only)
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -36,3 +36,17 @@ Searchable tags: bulgaria, galaxies, hubble law, expanding universe, cosmic micr
 **Acceptance count unchanged: taught in 2 countries (Bulgaria, Yemen).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, faraway galaxy, nje galaktike e larget
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| galaxies, the Milky Way as a spiral galaxy, and comparing galaxy types (§12.1) — Unit 12 Our Universe (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 148 |
+
+**Acceptance count: taught in 3 countries (Bulgaria, Yemen, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, galaxies-and-the-structure-and-evolution-of-the-universe

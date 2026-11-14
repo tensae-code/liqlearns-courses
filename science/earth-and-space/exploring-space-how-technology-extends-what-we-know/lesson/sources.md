@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova
+countries: Bhutan, Moldova, Pakistan (Punjab)
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -27,3 +27,23 @@ Searchable tags: exploring space, telescopes, satellites, space probes, astronom
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, exploring space how technology extends what we know, stiinte, sciences, grade 5
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 8.3 (continued): artificial satellites, Sputnik 1 (1957) named as the first, and geostationary satellites at work (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 97 |
+| artificial satellites and their uses: geostationary, weather, communication and GPS (chapter outcomes) (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 134 |
+| collecting information from space with telescopes (Hubble) and probes, from Galileo on; advancements in space technology and their benefits (chapter outcomes) (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 148 |
+
+**Acceptance count: taught in 3 countries (Bhutan, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, exploring-space-how-technology-extends-what-we-know

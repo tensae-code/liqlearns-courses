@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -130,3 +130,17 @@ Searchable tags: moldova, the skeleton frame joints and fractures, stiinte, scie
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, the skeleton frame joints and fractures
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| bones and joints: the skeleton as the body's frame, 206 bones, hollow arm/leg bones with marrow that makes blood (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 10 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, the-skeleton-frame-joints-and-fractures

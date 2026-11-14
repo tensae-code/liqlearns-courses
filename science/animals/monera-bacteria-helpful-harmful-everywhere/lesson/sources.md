@@ -1,6 +1,6 @@
 # Sources — Monera — bacteria: helpful, harmful, everywhere
 
-countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -55,3 +55,21 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, monera bacteria helpful harmful everywhere
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.2 Main Groups of Microorganisms (Virus, Bacteria and Fungi): viruses and the diseases they bring (flu, polio), bacteria and theirs (food poisoning, pneumonia, tuberculosis) (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 19 |
+| 2.3 Advantages of Microorganisms: making food (bread, cheese, yogurt), help in digestion, making medicines (penicillin from a fungus), and microorganisms as decomposers recycling dead matter (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 21 |
+| preparing yogurt and cheese from milk to demonstrate beneficial micro-organisms (chapter outcome) (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 126 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Peru, Uganda, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, monera-bacteria-helpful-harmful-everywhere

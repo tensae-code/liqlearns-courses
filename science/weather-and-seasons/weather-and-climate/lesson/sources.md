@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -187,3 +187,17 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 **Acceptance count: taught in 5 countries (Ethiopia, Mexico, Italy, Micronesia, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, weather and climate
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather vs climate: weather changes with place; average temperature and precipitation change with season and location — Ch. 8 Earth's Weather and Climate (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 93 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mexico, Italy, Micronesia, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, weather-and-climate

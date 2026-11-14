@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -171,3 +171,17 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 **Acceptance count: taught in 16 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, matter the particle theory
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.2 Effect of Heat on Arrangement of Particles: heating spreads the particles, cooling draws them together (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 47 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, matter-the-particle-theory

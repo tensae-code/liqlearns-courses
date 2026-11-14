@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -187,3 +187,20 @@ Searchable tags: moldova, rotation revolution day night and seasons, stiinte, sc
 **Acceptance count: taught in 11 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, rotation revolution day night and seasons
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 7):** *General Science 7* (student book) — Pakistan (Punjab), based on the Single National Curriculum, Punjab Curriculum and Textbook Board, Lahore; printed February 2023. Grade 7, student book. Record: books.json `grade-07/gov/pakistan/general-science/student/full-year.pdf` (52,041,271 bytes — verified exact). PDF pages: 160 (contents on PDF p. 3). Full text layer; read in full. Verdict: COMPLETE — the book is explicitly divided into Biology / Chemistry / Physics / Technology / Space-and-Earth parts on its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| day and night from Earth's daily rotation, evidence of rotation from changing shadows, and seasons in the two hemispheres from the yearly revolution (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 100 |
+| annual revolution and seasons from axial tilt (§12.5), and day and night (Pakistan (Punjab), Grade 7) | Pakistan (Punjab), *General Science 7*, printed p. 145 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, rotation-revolution-day-night-and-seasons

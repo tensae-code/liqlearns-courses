@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -115,3 +115,17 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, air pollution what dirties the air
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.1 (continued): air pollution — smoke, factory gases and traffic fumes as air pollutants, with the magnifying-glass dust hunt (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 33 |
+
+**Acceptance count: taught in 4 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, air-pollution-what-dirties-the-air

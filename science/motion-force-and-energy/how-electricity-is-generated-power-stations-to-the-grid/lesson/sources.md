@@ -1,6 +1,6 @@
 # Sources — How electricity is generated — power stations from source to grid
 
-countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique
+countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab)
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -42,3 +42,17 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, how electricity is generated power stations to the grid
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| assembling and operating a simple wind turbine to produce electricity (chapter outcome) (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 137 |
+
+**Acceptance count: taught in 4 countries (Argentina, Uzbekistan, Mozambique, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, how-electricity-is-generated-power-stations-to-the-grid

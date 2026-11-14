@@ -1,6 +1,6 @@
 # Sources — Air pollution and acid rain
 
-countries: Ethiopia, Nauru, Tuvalu, Niue
+countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -54,3 +54,17 @@ Searchable tags: tuvalu, usp reader 2, reef pollution, plastic, microplastic, he
 Niue’s own way — pollution taught through what plastic and microplastic do to Niue's own reefs and the people who eat their fish, in the adopted USP reader — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp reader 2, reef pollution, plastic, microplastic, heavy metals
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.2 Effects of Pollution: lung disease and cancer from dirty air, acid rain killing forests and lake life, mercury and lead in water, oil spills at sea (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 34 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, air-pollution-and-acid-rain

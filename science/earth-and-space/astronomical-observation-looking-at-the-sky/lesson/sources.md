@@ -1,6 +1,6 @@
 # Sources — Astronomical observation — looking at the sky
 
-countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only)
+countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab)
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -47,3 +47,17 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, constellations, siri
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 2
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 7):** *General Science 7* (student book) — Pakistan (Punjab), based on the Single National Curriculum, Punjab Curriculum and Textbook Board, Lahore; printed February 2023. Grade 7, student book. Record: books.json `grade-07/gov/pakistan/general-science/student/full-year.pdf` (52,041,271 bytes — verified exact). PDF pages: 160 (contents on PDF p. 3). Full text layer; read in full. Verdict: COMPLETE — the book is explicitly divided into Biology / Chemistry / Physics / Technology / Space-and-Earth parts on its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| constellations: Leo and Orion and the star patterns (§12.6) (Pakistan (Punjab), Grade 7) | Pakistan (Punjab), *General Science 7*, printed p. 146 |
+
+**Acceptance count: taught in 2 countries (Mongolia, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, astronomical-observation-looking-at-the-sky

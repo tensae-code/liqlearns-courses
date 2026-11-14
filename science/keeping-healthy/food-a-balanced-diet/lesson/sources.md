@@ -1,6 +1,6 @@
 # Sources — Food — a balanced diet
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab)
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -112,3 +112,17 @@ Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discov
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, food a balanced diet, stiinte, sciences, grade 4
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| balanced diet defined and its food sources sorted (fruits, vegetables, grains, milk and meat groups) (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 32 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, food-a-balanced-diet

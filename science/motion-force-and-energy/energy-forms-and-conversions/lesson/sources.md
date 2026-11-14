@@ -327,3 +327,17 @@ Searchable tags: gabon, super efficace, gabon grade 5, energy forms and conversi
 **Acceptance count unchanged: taught in 21 countries.** — the United States was already counted in this lesson from its Utah Physics student book (Physics expansion); the Grade 4 Utah SEEd rows above add provenance, counted once.
 
 Searchable tags: united states, utah, seed standards, utah oer, energy forms and conversions
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sources of energy (Sun, flowing water, wind, coal, oil, gas) and energy changing form, including electrical energy in a circuit becoming other forms — Ch. 5 Forms of Energy and Energy Transfer (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 56 |
+
+**Acceptance count unchanged: taught in 21 countries.** Pakistan (Punjab) was already counted in this lesson from its earlier student book(s); the General Science rows above add provenance, counted once.
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, energy-forms-and-conversions

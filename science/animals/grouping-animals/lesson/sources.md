@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only)
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -167,3 +167,20 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 2, grade 3
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vertebrates and invertebrates, introduced by feeling the backbone (Activity 1.2) with pictured examples of each group (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 4 |
+| 1.3 Classification and Characteristics of Animals: vertebrates in their five classes (mammals, birds, reptiles, amphibians, fish), each with its marks (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 4 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, grouping-animals

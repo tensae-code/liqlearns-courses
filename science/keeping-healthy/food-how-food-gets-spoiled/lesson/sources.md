@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab)
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -61,3 +61,17 @@ Searchable tags: djibouti, sciences expérimentales, conserving food, preserving
 This Costa Rica row is filed as guide evidence in the Grade 9 unit's evaluation criteria (printed p. 9) — cited as the evidence it is, outside the acceptance count.
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 7):** *General Science 7* (student book) — Pakistan (Punjab), based on the Single National Curriculum, Punjab Curriculum and Textbook Board, Lahore; printed February 2023. Grade 7, student book. Record: books.json `grade-07/gov/pakistan/general-science/student/full-year.pdf` (52,041,271 bytes — verified exact). PDF pages: 160 (contents on PDF p. 3). Full text layer; read in full. Verdict: COMPLETE — the book is explicitly divided into Biology / Chemistry / Physics / Technology / Space-and-Earth parts on its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| techniques of preserving foods, with the onion-pickle practical (§11.2) (Pakistan (Punjab), Grade 7) | Pakistan (Punjab), *General Science 7*, printed p. 133 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, food-how-food-gets-spoiled

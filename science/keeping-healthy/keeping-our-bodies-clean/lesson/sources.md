@@ -1,6 +1,6 @@
 # Sources — Keeping our bodies clean
 
-countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only)
+countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab)
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -165,3 +165,20 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 7):** *General Science 7* (student book) — Pakistan (Punjab), based on the Single National Curriculum, Punjab Curriculum and Textbook Board, Lahore; printed February 2023. Grade 7, student book. Record: books.json `grade-07/gov/pakistan/general-science/student/full-year.pdf` (52,041,271 bytes — verified exact). PDF pages: 160 (contents on PDF p. 3). Full text layer; read in full. Verdict: COMPLETE — the book is explicitly divided into Biology / Chemistry / Physics / Technology / Space-and-Earth parts on its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| everyday health behaviours as a taught list: balanced diet, clean water, regular exercise, brushing teeth, enough sleep (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 32 |
+| making and using hand sanitizer (§11.4, technology unit) (Pakistan (Punjab), Grade 7) | Pakistan (Punjab), *General Science 7*, printed p. 136 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Guyana, Uganda, Bulgaria, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, keeping-our-bodies-clean

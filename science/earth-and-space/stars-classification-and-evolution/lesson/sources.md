@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab)
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -27,3 +27,20 @@ countries: Bulgaria, Yemen, Bhutan, North Macedonia
 Placement choice, on the record: this NEW LESSON was built for the Bulgaria placement “Stars — classification and evolution” — bulgaria-placements.md, Book 4, L40–41, printed pp. 210, 214 — earth-and-space/ had no stellar-evolution lesson. It sits in earth-and-space/ and is registered in CURRICULUM.md.
 
 Searchable tags: bulgaria, grade 10, stars, spectral classification, hertzsprung russell diagram, main sequence, evolution, supernova, white dwarf, neutron star, yemen, north macedonia
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stars vs planets: stars as huge spheres of burning gas emitting their own heat and light (§12.1) — Unit 12 Solar System (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 135 |
+| the life of a star: birth and death of the Sun, black holes, neutron stars, pulsars, white dwarfs and red giants (chapter outcomes) (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 148 |
+
+**Acceptance count: taught in 5 countries (Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, stars-classification-and-evolution

@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only)
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -209,3 +209,20 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 4, what disease is and how it spreads
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| contagious diseases (hepatitis, TB, flu) vs non-contagious (cancer, diabetes); spread by touch, sneezing and coughing; prevention by vaccination, hand-washing and masks — Ch. 3 Human Health (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 32 |
+| 2.4 Infection: the common diseases table by virus / bacterium / fungus, how microorganisms enter the human body (through air, water, contaminated food, animals, cuts on the skin), and ways to avoid infections (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 23 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, what-disease-is-and-how-it-spreads

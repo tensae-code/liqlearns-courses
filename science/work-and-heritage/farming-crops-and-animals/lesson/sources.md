@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -212,3 +212,17 @@ Searchable tags: uganda, uganda general science, ncdc, primary five, home-study 
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, farming crops and animals
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 6):** *General Science 6 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Atta Dastgeer; printed February 2023 (experimental edition). Grade 6, student book. Record: books.json `grade-06/gov/pakistan/general-science/student/full-year.pdf` (36,648,015 bytes — verified exact). PDF pages: 153. Printed contents on PDF p. 4. Image-only. Verdict: COMPLETE as scoped — printed contents read; the two general units (11–12) read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| growing seasonal plants and vegetables in earthen pots: summer kinds sown Feb–Mar (bitter gourd, brinjal, cucumber, okra, tomato, pepper) and winter kinds sown Sep–Oct (carrot, radish, spinach, cabbage, turnip, garlic); the effect of fertilisers on growth (§11.1) — Unit 11 Technology in Everyday Life (Pakistan (Punjab), Grade 6) | Pakistan (Punjab), *General Science 6*, printed p. 127 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, India, Uganda, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, farming-crops-and-animals

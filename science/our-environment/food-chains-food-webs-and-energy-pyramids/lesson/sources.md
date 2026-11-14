@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -187,3 +187,20 @@ Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, food chain
 **Acceptance count: taught in 6 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, food chains food webs and energy pyramids
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple food chains, the role of each link, predators and prey, competition for food and space (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 20 |
+| energy flow from producers to consumers and the energy pyramid; drawing a food web of the relationships between organisms (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 1 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, food-chains-food-webs-and-energy-pyramids

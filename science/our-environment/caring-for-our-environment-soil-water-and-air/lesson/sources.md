@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -195,3 +195,20 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, caring for our environment soil water and air, stiinte, sciences, grade 3, grade 5, grade 4
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.3 Measures to Reduce Pollution: siting factories away from cities, treating factory smoke and waste water, sewage treatment, and using CFC-free sprays (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 36 |
+| human behaviour that helps the local environment: planting forests, reducing air and water pollution, protecting endangered species (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 1 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Uganda, Bulgaria, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, caring-for-our-environment-soil-water-and-air

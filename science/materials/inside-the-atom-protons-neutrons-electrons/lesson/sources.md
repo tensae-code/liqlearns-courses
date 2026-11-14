@@ -1,6 +1,6 @@
 # Sources — Inside the atom — protons, neutrons, electrons
 
-countries: Ethiopia, Haiti (programme evidence only), Uzbekistan, North Macedonia, Moldova
+countries: Ethiopia, Haiti (programme evidence only), Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia, Federal Ministry of Education new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C.; no bureau, publisher or publication year is printed anywhere in the file. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. PDF 141 pp. Printed page = PDF page (1:1). COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
@@ -31,3 +31,17 @@ PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (imple
 Placement: Student item 7 (Unit 2, printed pp. 17–23 of the student book). Teacher item 6's hydrogen-to-neon table (guide Unit 2, printed pp. 31–34) is used here only as a verified key for the first-ten-elements counts, and its extra question set on particle counts for calcium and sodium atoms is the guide's — the counts taught are the student book's own. Teacher item 6 is otherwise a pacing warning about isotopes, filed in full in the sources of Isotopes — and why atomic masses are not whole numbers, the lesson it concerns. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book. The video script is FULL because the placement names a video need (how microscopes let us image atoms).
 
 Searchable tags: inside the atom, proton, neutron, electron, nucleus, atomic number Z, mass number A, atomic mass unit, TEM AFM STM, grade 8 general science unit 2, ethiopia, north macedonia
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the unit's opening model: atoms, protons, neutrons and electrons in their orbits, as the base for electricity (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 80 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, inside-the-atom-protons-neutrons-electrons

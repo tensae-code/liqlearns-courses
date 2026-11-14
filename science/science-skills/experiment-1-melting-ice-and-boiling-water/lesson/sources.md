@@ -1,6 +1,6 @@
 # Sources — Experiment 1: melting ice and boiling water
 
-countries: Ethiopia, Serbia, Mongolia, Bulgaria
+countries: Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -56,3 +56,17 @@ Searchable tags: mongolia, experiment 1 melting ice and boiling water, khun ba o
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, experiment 1 melting ice and boiling water
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.3 Processes Involving Change in States of Matter: melting, freezing, boiling, evaporation and condensation, each named and shown (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 47 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, experiment-1-melting-ice-and-boiling-water

@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -149,3 +149,17 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, things that block light and shadows
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.4 Shadow Formation: how a shadow forms, and its location, size and shape as the object moves (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 73 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, things-that-block-light-and-shadows

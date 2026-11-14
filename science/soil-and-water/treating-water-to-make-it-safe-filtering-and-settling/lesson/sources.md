@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -78,3 +78,17 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, treating water to make it safe filtering and settling
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| clean drinking water: what makes water unclean and making it drinkable by filtration and boiling (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 32 |
+
+**Acceptance count: taught in 2 countries (India, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, treating-water-to-make-it-safe-filtering-and-settling

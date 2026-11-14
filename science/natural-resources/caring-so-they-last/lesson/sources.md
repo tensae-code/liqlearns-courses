@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab)
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -125,3 +125,17 @@ Searchable tags: niue, usp readers 2 and 4, overfishing, uga crab, export ban, c
 **Acceptance count: taught in 6 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, caring so they last
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| impact of human activities on natural resources and ways to conserve them (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 81 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, caring-so-they-last

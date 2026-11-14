@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -99,3 +99,17 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, pollution and its four kinds
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.1 Pollution and Pollutants, and the kinds of pollution: air, water and land (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 32 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, India, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, pollution-and-its-four-kinds

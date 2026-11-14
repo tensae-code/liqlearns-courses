@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -123,3 +123,17 @@ Searchable tags: moldova, the heart, stiinte, sciences, grade 4
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, the heart
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 7):** *General Science 7* (student book) — Pakistan (Punjab), based on the Single National Curriculum, Punjab Curriculum and Textbook Board, Lahore; printed February 2023. Grade 7, student book. Record: books.json `grade-07/gov/pakistan/general-science/student/full-year.pdf` (52,041,271 bytes — verified exact). PDF pages: 160 (contents on PDF p. 3). Full text layer; read in full. Verdict: COMPLETE — the book is explicitly divided into Biology / Chemistry / Physics / Technology / Space-and-Earth parts on its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| making a simple stethoscope and using it (§11.3, technology unit) (Pakistan (Punjab), Grade 7) | Pakistan (Punjab), *General Science 7*, printed p. 135 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, the-heart

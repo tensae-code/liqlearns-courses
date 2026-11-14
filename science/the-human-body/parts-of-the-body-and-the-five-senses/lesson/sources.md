@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab)
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -187,3 +187,17 @@ Searchable tags: moldova, parts of the body and the five senses, stiinte, scienc
 **Acceptance count: taught in 6 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, parts of the body and the five senses
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 4):** *General Science 4 — Based on Single National Curriculum 2020* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore. Grade 4, student book. Record: books.json `grade-04/gov/pakistan/general-science/student/full-year.pdf` (15,446,736 bytes — verified exact). PDF pages: 132. Printed pagination runs 1–130 (printed p. = PDF p. − 1 in the pages checked). Image-only (Foxit print PDF, no text layer). Verdict: COMPLETE — all 10 chapter openers and their outcome lists read; the book has no printed contents page (Chapter 1 opens on printed p. 1). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| major body parts and organs labelled on one whole-body diagram (brain, teeth, windpipe, heart, lungs, liver, stomach, blood vessels, intestines, muscles, bone) (Pakistan (Punjab), Grade 4) | Pakistan (Punjab), *General Science 4*, printed p. 8 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, parts-of-the-body-and-the-five-senses

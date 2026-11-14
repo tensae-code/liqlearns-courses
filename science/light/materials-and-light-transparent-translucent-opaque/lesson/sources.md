@@ -1,6 +1,6 @@
 # Sources — Materials and light — transparent, translucent, opaque
 
-countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States
+countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -70,3 +70,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 **Acceptance count: taught in 5 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, materials and light transparent translucent opaque
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders (every page, including all eight unit openers with their Students' Learning Outcomes, every section page, and the closing glossary and index). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.2 Opaque, Transparent and Translucent Objects, sorted by the book's torch-and-materials activity (Pakistan (Punjab), Grade 5) | Pakistan (Punjab), *General Science 5*, printed p. 71 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, materials-and-light-transparent-translucent-opaque

@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -65,3 +65,17 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 **Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, cycles of matter carbon nitrogen water
+
+## Pakistan (Punjab) growth (2026-11-13, General Science expansion)
+
+**Book (Pakistan (Punjab) — Grade 8):** *General Science 8 — Based on Single National Curriculum 2022* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; experimental edition, 1st impression. Grade 8, student book. Record: books.json `grade-08/gov/pakistan/general-science/student/full-year.pdf` (39,653,812 bytes — verified exact). PDF pages: 169. Printed contents on PDF p. 5. Image-only. Verdict: COMPLETE as scoped — printed contents read; Units 1, 11 and 12 read at their openers and section pages; the split-subject units are filed as wave lines in the placements file. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the role of living things in cycling oxygen and carbon through an ecosystem (respiration, photosynthesis, combustion); oxygen and carbon cycles as complementary balance-keepers — Unit 1 Ecology (Pakistan (Punjab), Grade 8) | Pakistan (Punjab), *General Science 8*, printed p. 1 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab)).**
+
+Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: pakistan, punjab, general science, cycles-of-matter-carbon-nitrogen-water
