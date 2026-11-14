@@ -8,14 +8,19 @@ countries: Ethiopia, Tanzania
 
 **Book 3:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
 
+**Book 4:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-19-2. 180 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 Units 1–2 in full; its standards, overview and assessment sections largely reprint the Grade 9 apparatus (including a Grade 9 yearly overview), so placements rest on the Grade 10 content table and the detailed Strand 5 sections. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — backup and recovery defined, what a backup copies, separate system or medium, the four dangers, restoring | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 20, 22 |
 | Backup keyed against wider loss (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 5 review key, printed pp. 101–102 (teacher guide — evidence) |
 | Data backup | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 122 |
+| Unit 2, Topic File Management, Lesson 3: Importance of Backup (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 73 (teacher guide — evidence, PARTIAL) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Tanzania).**
 
 The backup introduction on the student book's printed p. 20 numbers its first practical steps 4 and 5; those steps belong to the next lesson (Backing up files in Windows), where they are taught in their true order from 1 and the misnumbering is flagged in full. This lesson's pages carry no other error.
 
-Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania
+Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to building with them — simple electronic circuits, programming that controls an external device, robotics and artificial intelligence sit inside "Computer Architecture", while the software unit pairs operating-system installation with machine learning; typing rises to 30 wpm. (teacher guide — evidence, PARTIAL)
+
+Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10

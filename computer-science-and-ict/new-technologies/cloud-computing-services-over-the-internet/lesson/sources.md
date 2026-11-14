@@ -11,6 +11,8 @@ countries: Ethiopia, Mozambique, Nepal, Iraq
 
 **Book 5:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 6:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cloud computing defined — storing and accessing data and services over the internet, not on your PC; servers, storage, networking, databases on demand; many users from a single data centre; no location limit; everyday examples (Gmail, Maps, Amazon, Netflix, PayPal, Spotify, Adobe Creative Cloud, Kindle) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 37–38 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Mozambique, Nepal, Iraq
 | Lição 22, Serviços de Computação na Nuvem | Mozambique, *Módulo de TIC, PESD I*, printed p. 124 |
 | Unit 5 §5.9, Cloud Computing and Their Applications | Nepal, *Computer Science, Class 10*, printed p. 242 |
 | Unit 4 Ch.2 Lesson 1 The concept of cloud computing (computing as a service over the internet) | Iraq, *Computer, Grade 11*, printed p. 130 |
+| Unit 2, Topic Information Technology, Lesson 2: Analyse the latest information technologies (including cloud services) (filed as new-technologies/cloud-computing; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 72 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Nepal, Iraq).**
 
@@ -26,4 +29,6 @@ The student book §1.4 points readers to “Unit 2 Section 2.3” for cloud comp
 
 Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
 
-Searchable tags: cloud computing, data centre, on demand, Gmail, origin of the word cloud, Grade 12 ICT Ethiopia, mozambique, nepal, iraq, grade 11
+Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
+
+Searchable tags: cloud computing, data centre, on demand, Gmail, origin of the word cloud, Grade 12 ICT Ethiopia, mozambique, nepal, iraq, grade 11, papua new guinea, grade 11

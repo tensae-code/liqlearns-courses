@@ -4,12 +4,15 @@ countries: Mozambique
 
 **Book 1:** *Módulo de Tecnologias de Informação e Comunicação (TIC) — Programa do Ensino Secundário à Distância, 1º Ciclo (PESD I)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano, Instituto de Educação Aberta e à Distância (IEDA), 2023. Grade 7 (grades 7–9 distance secondary, first cycle). No ISBN printed. 186 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mozambique-placements.md.
 
+**Book 2:** *Technology and Industrial Arts — Computer Technology, Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-21-5. 179 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lição 4, Aplicação das TIC no Contexto de STEM | Mozambique, *Módulo de TIC, PESD I*, printed p. 29 |
 | Sub lesson 1 — STEM — four fields that work together | Mozambique, *Módulo de TIC, PESD I*, printed p. 29 |
 | Sub lesson 2 — How ICT helps you learn STEM | Mozambique, *Módulo de TIC, PESD I*, printed p. 29 |
 | Sub lesson 3 — STEM careers that use ICT | Mozambique, *Módulo de TIC, PESD I*, printed p. 29 |
+| Unit 1, Topic Design Technology, Lesson 3: IT Career Pathways (filed as computers-in-society/careers-in-ict; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 59 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Mozambique).**
 
@@ -17,4 +20,6 @@ Placement choice: this lesson was built new for the ICT expansion (Mozambique, 2
 
 Mozambique's own way: a self-study distance-learning module (each lesson states objectives and a minimum study time, with a preparation test and answer key at the end) that runs from ICT concepts and device care through networks, digital citizenship and cybersecurity to ICT applied in teaching, agriculture and health. This lesson keeps that shape — it is a self-study lesson from a distance module, written to be learned alone with stated objectives, and it sits in the module's order as the placements record gives it.
 
-Searchable tags: ict in stem, stem learning, stem careers, science technology engineering mathematics, computers in society, mozambique, grade 7, pesd
+Papua New Guinea's own way (Grade 12): the final year is design-and-build — simulation models, a seven-method technological problem-solving process, biotechnology with a DNA-technology case study, CAD, the software development process, IT career pathways, and GUI work with client-side scripting and interactive menus. (teacher guide — evidence)
+
+Searchable tags: ict in stem, stem learning, stem careers, science technology engineering mathematics, computers in society, mozambique, grade 7, pesd, papua new guinea, grade 12

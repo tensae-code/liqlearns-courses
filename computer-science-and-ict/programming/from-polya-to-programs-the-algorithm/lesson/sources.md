@@ -10,6 +10,10 @@ countries: Ethiopia, Iraq
 
 **Book 4:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 5:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-19-2. 180 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 Units 1–2 in full; its standards, overview and assessment sections largely reprint the Grade 9 apparatus (including a Grade 9 yearly overview), so placements rest on the Grade 10 content table and the detailed Strand 5 sections. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
+**Book 6:** *Technology and Industrial Arts — Computer Technology, Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-21-5. 179 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The computing adjustment of Polya's steps | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 220–221 |
@@ -18,6 +22,9 @@ countries: Ethiopia, Iraq
 
 | What an algorithm is — the three definitions; algorithm vs program; language-independence; the doro wot analogy (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 206–207 |
 | Unit 3 Ch.1 Lesson 1 The concept of algorithms | Iraq, *Computer, Grade 7*, printed p. 83 |
+| Unit 1, Topic Programming, Lesson 2: Developing simple programs (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 51 (teacher guide — evidence, PARTIAL) |
+| Unit 2, Topic Programming, Lesson 2: Developing Intermediate programs (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 67 (teacher guide — evidence, PARTIAL) |
+| Unit 2, Topic Computer programs and Coding, Lesson 1: Computer Program Development (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 64 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Iraq).**
 
@@ -25,4 +32,8 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
 
-Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7
+Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to building with them — simple electronic circuits, programming that controls an external device, robotics and artificial intelligence sit inside "Computer Architecture", while the software unit pairs operating-system installation with machine learning; typing rises to 30 wpm. (teacher guide — evidence, PARTIAL)
+
+Papua New Guinea's own way (Grade 12): the final year is design-and-build — simulation models, a seven-method technological problem-solving process, biotechnology with a DNA-technology case study, CAD, the software development process, IT career pathways, and GUI work with client-side scripting and interactive menus. (teacher guide — evidence)
+
+Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12

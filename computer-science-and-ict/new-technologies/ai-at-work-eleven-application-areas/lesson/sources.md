@@ -12,6 +12,8 @@ countries: Ethiopia, Germany, Nepal, China
 
 **Book 5:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
+**Book 6:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-19-2. 180 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 Units 1–2 in full; its standards, overview and assessment sections largely reprint the Grade 9 apparatus (including a Grade 9 yearly overview), so placements rest on the Grade 10 content table and the detailed Strand 5 sections. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eleven application fields with their named examples — Tesla autopilot, RankBrain, Robonaut | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 32–38 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Germany, Nepal, China
 | KI im Einsatz: Chancen und Risiken — AI in use: opportunities and risks (Kapitel 4 §4.7) | Germany, *Informatik 5 (Bayern NTG)*, printed p. 156 |
 | Unit 5 §5.5, Application of Integrated AI Tools | Nepal, *Computer Science, Class 10*, printed p. 239 |
 | AI Tools on Intelligent Platforms | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 4 §4.2.1, printed p. 141 |
+| Unit 1, Topic Artificial Intelligence, Lesson 3: Artificial Intelligence application (filed as new-technologies/ai-in-education-today; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 57 (teacher guide — evidence, PARTIAL) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Germany, Nepal, China).**
 
@@ -27,4 +30,6 @@ Germany's book is held only as a PARTIAL copy (see the book entry above); this p
 
 No book error touches this lesson. Guide mechanisms and model lists are labelled teacher evidence and never counted as pupil-taught.
 
-Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china
+Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to building with them — simple electronic circuits, programming that controls an external device, robotics and artificial intelligence sit inside "Computer Architecture", while the software unit pairs operating-system installation with machine learning; typing rises to 30 wpm. (teacher guide — evidence, PARTIAL)
+
+Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10

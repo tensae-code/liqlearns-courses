@@ -10,6 +10,8 @@ countries: Ethiopia, Yemen
 
 **Book 4:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -17,6 +19,7 @@ countries: Ethiopia, Yemen
 | Unit 3 "The presentation program", "Introducing the electronic presentation program" | Yemen, *Computer, Grade 11*, printed p. 32 |
 | Unit 3 assessment | Yemen, *Computer, Grade 11*, printed p. 47 |
 | Lesson 02 Introduction to PowerPoint and creating a presentation (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 14 (teacher guide — evidence) |
+| Strand 5 Unit 2, Topic Microsoft Office, Lesson 3: Introduction to Microsoft PowerPoint/Publisher (filed as presentations/microsoft-powerpoint-arm; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 87 (teacher guide — evidence, PARTIAL) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Yemen).**
 
@@ -26,4 +29,6 @@ No book error touches this part.
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9
+Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9

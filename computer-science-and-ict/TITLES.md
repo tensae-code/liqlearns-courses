@@ -911,3 +911,21 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Programming** (ICT expansion, from Iraq): The Assignment Statement · Mathematical Operations and Operators · Arithmetic Expressions and Operator Precedence · Logical Expressions and Truth Tables · Nested Selection Statements · Arrays — Storing Many Values Under One Name · Two-Dimensional Arrays — Tables of Values · Nested Loops — Working Through a 2D Array
 
 **New Technologies** (ICT expansion, from Iraq): Smart Devices — What Makes a Device Smart
+
+**Computers in Society** (ICT expansion, from Papua New Guinea): The Design Brief — Solving Problems by Design · Documenting a System — Configuration Files and Passwords · Simulation Models — Testing Ideas Safely · Types of Simulation Models · Conceptual Technology — Thinking Before Building · Applying the Technological Method to a Real Problem · The Design World
+
+**Hardware** (ICT expansion, from Papua New Guinea): Functions of Electronic Components in a Computer · A Troubleshooting Case Study · Reading Component Data Books and Datasheets · Clock Signals and Timing in Circuits
+
+**Word Processing** (ICT expansion, from Papua New Guinea): Home Keys and Finger Placement · Typing with Speed and Accuracy · A Typing Test
+
+**Networks** (ICT expansion, from Papua New Guinea): Designing a Simple Network from a Brief
+
+**New Technologies** (ICT expansion, from Papua New Guinea): How Emerging Technologies Change Society · How a Robot Is Built — Sensors, Controllers, Actuators · Weak AI, Strong AI and How AI Systems Are Put Together · Biotechnology — Technology with Living Things · DNA Technology — a Biotechnology Case Study
+
+**Programming** (ICT expansion, from Papua New Guinea): Controlling an External Device with a Program · From User Requirements to Technical Specification · Models of the Software Development Process
+
+**Software** (ICT expansion, from Papua New Guinea): System Administration Tasks · Graphical User Interfaces and Interactive Menus
+
+**Internet and the Web** (ICT expansion, from Papua New Guinea): Planning a Website for Its Audience · Building a Static Web Page · Website Builders and Design Tools — Canva and Figma · Client-Side Scripting
+
+**Multimedia** (ICT expansion, from Papua New Guinea): Creating Designs with Design Software

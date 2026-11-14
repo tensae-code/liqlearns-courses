@@ -14,6 +14,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq
 
 **Book 9:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 10:** *Technology and Industrial Arts — Computer Technology, Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-21-5. 179 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Application software — made for a particular need; end-user software | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.32–34 |
@@ -35,6 +37,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
 | Application software | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 67 |
 | Unit 1 Ch.1 Lesson 3 Applications of smart devices | Iraq, *Computer, Grade 11*, printed p. 13 |
+| Unit 2, Topic Computer Aided Programs, Lesson 2: Produce graphical products (CAD software) (filed as multimedia/computer-aided-design-cad; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 61 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Yemen, Iraq).**
 
@@ -46,4 +49,6 @@ The Grade 9 teacher guide's closing summary for this part (printed pp. 39-40) in
 
 Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11
+Papua New Guinea's own way (Grade 12): the final year is design-and-build — simulation models, a seven-method technological problem-solving process, biotechnology with a DNA-technology case study, CAD, the software development process, IT career pathways, and GUI work with client-side scripting and interactive menus. (teacher guide — evidence)
+
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12

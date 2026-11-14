@@ -12,6 +12,8 @@ countries: Ethiopia, Tanzania
 
 **Book 5:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
 
+**Book 6:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Utility programs — analyse, configure, improve, maintain; backup, recovery, virus protection | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.32 |
@@ -23,9 +25,12 @@ countries: Ethiopia, Tanzania
 | Sub lesson 4 — data recovery, data compression (ratio of two for halving; lossless and lossy), data conversion (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3, printed pp. 21–22 |
 | The teacher must be able to recover data, take backups, diagnose faults, and do disk cleaning, disk scanning and disk fragmentation work (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3 skills list, printed pp. 19, 20, 24, 25, 27, 29 |
 | Utility programs | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 119 |
+| Strand 5 Unit 2, Topic Software Programming, Lesson 2: Types of Programming software and applications (filed as software/programming-software; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 72 (teacher guide — evidence, PARTIAL) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Tanzania).**
 
 Book error taught corrected: in the student book's §3.2 (printed p. 42) all three named utility families are lettered "A." instead of A/B/C. The lesson teaches the families by their names, in the book's order, without the book's letters — the families themselves are exactly as the book lists them. Sub lesson 4's explanations are teacher-guide evidence: the student book lists the utilities by name, and the guide's keyed answer to Activity 3.1 explains each one; the explanations are filed here as the guide gives them.
 
-Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania
+Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
+
+Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9

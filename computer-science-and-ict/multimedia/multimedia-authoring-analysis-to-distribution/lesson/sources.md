@@ -6,13 +6,18 @@ countries: Ethiopia
 
 **Book 2:** *Information Technology, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). First Published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 131 PDF pages; body printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
+**Book 3:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Analysis — decide what to do; Sub lesson 2 — Design — storyboard the story; Sub lesson 3 — Development — build the prototype; Sub lesson 4 — Evaluation — test and fine-tune; Sub lesson 5 — Distribution — package and hand out | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed p. 151 |
 | Sub lesson 6 — The production road, told in full (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 4, printed pp. 86–87 — the review key's fuller production breakdown: conceptualisation, planning and costing, design and production (data gathering, navigation map, storyboarding, integration), testing, delivery |
+| Unit 2, Topic Multimedia and Graphics, Lesson 3: Types of Authoring Software (icon-based and object-oriented tools) (filed as multimedia/authoring-systems; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 80 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed. The teacher guide's key expands the same road (conceptualisation; planning and costing with prototype; design and production with navigation map and storyboarding; testing against objectives and platforms; delivery with maintenance) — taught as Sub lesson 6, labelled teacher-guide evidence there and in the sources table, while the first five sub lessons teach the student book's five stages.
 
-Searchable tags: multimedia authoring, analysis, design, storyboard, development, prototype, evaluation, distribution, production stages, Ethiopia Grade 10
+Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
+
+Searchable tags: multimedia authoring, analysis, design, storyboard, development, prototype, evaluation, distribution, production stages, Ethiopia Grade 10, papua new guinea, grade 11
