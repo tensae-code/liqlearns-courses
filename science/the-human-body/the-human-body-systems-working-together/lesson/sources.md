@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -528,3 +528,32 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, the-human-body t
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/the-human-body-systems-working-together
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 9: relation between organs and systems; representing the human organ systems and their functions (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 104 |
+| Guía 10: how the human systems function, explained from relations between organ systems, recorded with schemes/graphs/tables (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 112 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| systems in plants and animals: many parts of plants/animals are used in human and animal diets (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 25 |
+| coordination between systems (Tema 4) (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 28 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 7 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 306 pages, 118,117,888 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–305). Note: the first copy of this file in scratch was corrupt (damaged cross-reference, from two downloads writing it at once); it was re-downloaded clean from the same release record and verified by size, page count and title page (Naturales_7.indb) before reading. Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado7.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 10: how our systems function; human organ systems represented (muscle fibre and sarcomere, lungs with alveoli and diaphragm, neuron with neurotransmitters, hypothalamus hormones such as vasopressin acting on the kidneys) (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 112 |
+| Guía 12: where we find systems useful to humans; the human body drawn as interacting systems (brain, heart, lungs, liver, kidneys), biological systems and their environment (inputs/outputs), biomechanics, and senses turning outside information into electrical signals, a neuron compared to a switch (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 146 |
+
+**Acceptance count: taught in 29 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/the-human-body-systems-working-together

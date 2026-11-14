@@ -1,6 +1,6 @@
 # Sources — Evolution and the origin of life
 
-countries: Sri Lanka
+countries: Sri Lanka, Colombia
 
 **Book (Sri Lanka — Grade 9 Science Part I (English medium)):** Title as printed: Science Part – I, Grade 9. Publisher: Educational Publications Department, Sri Lanka. First print 2017, third print 2019. ISBN 978-955-25-0162-3. PDF 122 pages, 12,471,706 bytes. Verdict: COMPLETE for Part I (Chapters 1–9, printed pp. 1–111); Part II of Grade 9 is not among the target records — library debt, see group log. Record: TSV blob record only; no books.json twin. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
 
@@ -20,3 +20,19 @@ Placement choice, on the record: this NEW LESSON was built for the Sri Lanka pla
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, evolution and the origin of life
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 7 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado séptimo. Publisher: Ministerio de Educación Nacional (Secundaria Activa update team, as G6). PDF 233 pages, 52,013,542 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–32, printed pp. 14–227, plus bibliography). Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado07.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| theories on the origin of life: creation narrations share two traits (conceived before science, etc.) (SA G7) (placement filed as NEW LESSON NEEDED — where-life-comes-from-theories; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 171 |
+
+Placement choice, on the record: the Colombia placement(s) above filed as “where-life-comes-from-theories” — colombia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 2 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/evolution-and-the-origin-of-life

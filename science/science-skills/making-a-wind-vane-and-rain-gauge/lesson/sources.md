@@ -1,6 +1,6 @@
 # Sources — Making a wind vane and rain gauge
 
-countries: Ethiopia, Seychelles, China, Laos, Eritrea, Sri Lanka, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Iraq
+countries: Ethiopia, Seychelles, China, Laos, Eritrea, Sri Lanka, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Iraq, Colombia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -157,3 +157,29 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills making-a-wind-vane-and-rain-gauge
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 8,036,233 bytes. Verdict: COMPLETE (Units 6–7, Guides 17–21, printed pp. 7–56, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| building a rain gauge (pluviómetro) from a cut bottle funnel; reading collected water daily at the same hour in millimetres, resetting to zero (CN G5 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (Escuela Nueva)*, printed p. 45 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| windmill experiment: paper wind vane on a pin/skewer axis, blown by a classmate, movement observed (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 244 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 8 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 8. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 270 pages, 96,929,573 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–22, printed pp. 8–269). Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado8.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 22: is wind related to energy? building an anemometer from four paper cups, straws and a pin on a pencil, and reading wind speed from a descriptive scale (calm 0–5, light 6–20, moderate 21–39, strong 40–61) (Post G8) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 8*, printed p. 254 |
+
+**Acceptance count: taught in 10 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, science-skills/making-a-wind-vane-and-rain-gauge

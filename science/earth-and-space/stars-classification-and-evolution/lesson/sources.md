@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -197,3 +197,17 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space 
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/stars-classification-and-evolution
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 4. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 68 pages, 12,166,055 bytes. Verdict: COMPLETE (Units 7–8, Guides 19–24, printed pp. 7–64, plus teacher suggestions). Twin record: TSV release record and books.json record grade-04/gov/colombia/ciencias-naturales/student/CN_Grado04_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stars are giant gas bodies burning at very high temperatures; the nearest star is the Sun; planets and satellites have no light of their own and are seen when a star lights them; planets produce no light/heat and go around the Sun (CN G4 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (Escuela Nueva)*, printed p. 53 |
+
+**Acceptance count: taught in 14 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/stars-classification-and-evolution

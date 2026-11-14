@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela, Indonesia, Bangladesh, Vietnam, Malaysia, El Salvador
+countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela, Indonesia, Bangladesh, Vietnam, Malaysia, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -155,3 +155,17 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills a
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, science-skills/accuracy-and-precision
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 8,036,233 bytes. Verdict: COMPLETE (Units 6–7, Guides 17–21, printed pp. 7–56, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| observing a fruit: shape, colour, surface, hardness, size, dimensions in centimetres, taste, seed number, pulp colour, weight (CN G5 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (Escuela Nueva)*, printed p. 40 |
+
+**Acceptance count: taught in 14 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, science-skills/accuracy-and-precision

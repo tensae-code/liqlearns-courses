@@ -1,6 +1,6 @@
 # Sources — The universe as a whole — galaxies, size and history of everything
 
-countries: Slovenia, Bhutan, Moldova, Armenia, Dominican Republic, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Iraq
+countries: Slovenia, Bhutan, Moldova, Armenia, Dominican Republic, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia
 
 **Book 1:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
@@ -167,3 +167,41 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, earth-and-space the-universe-as-a-whole-galaxies-size-and-history-of-everything
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 8,036,233 bytes. Verdict: COMPLETE (Units 6–7, Guides 17–21, printed pp. 7–56, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| our address in the Universe: Sun – Earth – Solar System – Milky Way Galaxy – group of galaxies (CN G5 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (Escuela Nueva)*, printed p. 19 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 1: do we know the Universe and its origin? Comparing viewpoints on the origin of the Universe; the planetary model explained from gravitational forces (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 14 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 7 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado séptimo. Publisher: Ministerio de Educación Nacional (Secundaria Activa update team, as G6). PDF 233 pages, 52,013,542 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–32, printed pp. 14–227, plus bibliography). Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado07.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| origin and composition of the Universe: its complexity still not fully understood, discoveries keep re-evaluating concepts (SA G7) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 174 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the origin of the Universe (Tema 1) (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 17 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 7 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 306 pages, 118,117,888 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–305). Note: the first copy of this file in scratch was corrupt (damaged cross-reference, from two downloads writing it at once); it was re-downloaded clean from the same release record and verified by size, page count and title page (Naturales_7.indb) before reading. Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado7.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 1: where did matter come from? formation of the chemical elements by nuclear fusion in stars, star formation and extinction, and dwarf bodies (Pluto, Ceres, Xena) that do not shine with their own light (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 14 |
+
+**Acceptance count: taught in 12 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/the-universe-as-a-whole-galaxies-size-and-history-of-everything

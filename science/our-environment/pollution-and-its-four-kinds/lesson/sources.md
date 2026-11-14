@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -569,3 +569,42 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/pollution-and-its-four-kinds
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 3. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 58 pages, 8,899,637 bytes. Verdict: COMPLETE (Units 4–6, Guides 9–15, printed pp. 7–54, plus teacher suggestions). Twin record: TSV release record and books.json record grade-03/gov/colombia/ciencias-naturales/student/CN_Grado03_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| community activities: which are harmful, which preserve the environment; regional environmental problems and solutions, benefits and costs of development (CN G3 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 2 (Escuela Nueva)*, printed pp. 53–54 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 4. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 68 pages, 12,166,055 bytes. Verdict: COMPLETE (Units 7–8, Guides 19–24, printed pp. 7–64, plus teacher suggestions). Twin record: TSV release record and books.json record grade-04/gov/colombia/ciencias-naturales/student/CN_Grado04_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mercury: rising mercury found in water, air and animal flesh year by year; gold mining discards it into rivers/lakes/seas; toxic to beings that consume it; synthetic detergents replaced soap (CN G4 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (Escuela Nueva)*, printed p. 25 |
+| effects of pollution: natural (volcano) and human (industries, chimneys, fertilisers, rubbish) pollution devastates flora, fauna, water, air and humans; a toxic product eaten by first-link organisms travels the chain (CN G4 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (Escuela Nueva)*, printed p. 29 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 16: how we affect our planet; identifying contamination factors of my surroundings and their health implications; designing strategies for care (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 176 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 9 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado noveno. Author Jorge Adolfo Nieto Díaz; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 318 pages, 55,233,088 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–42, printed pp. 14–310, plus bibliography). The personal-commitments temas (30 sexuality/overpopulation, 31 gender) are social content and are not placed. Twin record: TSV release record and books.json record grade-09/gov/colombia/ciencias-naturales/student/CN_Grado09.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of contamination: diagnosing polluted sites near home/school; contaminated water carries cholera, typhus, dysentery, hepatitis and polio; soil contamination by weathering of its structure (Tema 38) (SA G9) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 9*, printed p. 279 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 7 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 306 pages, 118,117,888 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–305). Note: the first copy of this file in scratch was corrupt (damaged cross-reference, from two downloads writing it at once); it was re-downloaded clean from the same release record and verified by size, page count and title page (Naturales_7.indb) before reading. Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado7.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 16: how we influence ecosystems; mapping homes and pollution sources of the region, sorting household plastic waste, acid-rain damage to plants and crops (soil turning infertile, world hunger), and a problem tree (central problem, causes, consequences: less fertile soil, erosion, floods) (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 186 |
+
+**Acceptance count: taught in 29 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, our-environment/pollution-and-its-four-kinds

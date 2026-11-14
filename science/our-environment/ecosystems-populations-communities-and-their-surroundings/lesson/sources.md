@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -1013,3 +1013,65 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/ecosystems-populations-communities-and-their-surroundings
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 2. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN not separately visible in extracted front matter (obra ISBN 978-958-33-3362-0 series). PDF 78 pages, 11,900,508 bytes. Verdict: COMPLETE (Units 3–5, Guides 9–17, printed pp. 7–73, plus teacher suggestions). Twin record: TSV release record and books.json record grade-02/gov/colombia/ciencias-naturales/student/CN_Grado02_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| elements of the environment on the home–school route: living beings, non-living things/objects, and how they relate (CN G2 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (Escuela Nueva)*, printed pp. 50–51 |
+| building a model landscape of my region from soil, twigs, leaves, stones and cloth; how the landscape was in an elder's childhood (CN G2 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (Escuela Nueva)*, printed p. 55 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 3. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 58 pages, 8,899,637 bytes. Verdict: COMPLETE (Units 4–6, Guides 9–15, printed pp. 7–54, plus teacher suggestions). Twin record: TSV release record and books.json record grade-03/gov/colombia/ciencias-naturales/student/CN_Grado03_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fish-tank story: how what is put in a tank changes its medium (CN G3 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 2 (Escuela Nueva)*, printed pp. 47–49 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 116 pages, 12,638,608 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–11, printed pp. 7–110, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sea zones inquiry: naming the sea's zones including the coastal zone, diagram from surface down (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed p. 27 |
+| ecosystem factors: biotic (all living beings of all kingdoms) and abiotic (air, water, soil, solar energy), interrelated through humidity, temperature, pressure (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed p. 93 |
+| ecological balance: the 'web of life' game — each child labelled as an organism or an abiotic element (soil, water, air, sunlight, temperature), throwing a yarn ball to what it feeds on or needs (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed pp. 97–98 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 6 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado sexto. Author Lucila Pineda Pérez; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 227 pages, 49,175,089 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–29, printed pp. 14–213, plus bibliography). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado06.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my environment: ecology; finding traces of human activity and explaining how it influences the ecosystem (SA G6) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 6*, printed pp. 47–49 |
+| the ecosystem: the place where we live holds water, air, soil, plants, animals — their characteristics and how the elements relate (SA G6) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 6*, printed pp. 50–55 |
+| different ecosystems: terrestrial ecosystems of my region and Colombia; climate and soil diversity from past changes (SA G6) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 6*, printed pp. 95–101 |
+| organisation of living beings: communities are sets of populations living in an area (SA G6) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 6*, printed pp. 141–144 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 13: what ecosystems are like; analysing my surrounding ecosystem and comparing it with others; variables that stay constant or change in an experiment (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 152 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| regulation of populations in nature: beetles and toads as two populations (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 96 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 8 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 8. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 270 pages, 96,929,573 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–22, printed pp. 8–269). Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado8.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 15: behaviour of living beings; defence and attack systems of animals and plants, and population dynamics — the housefly's unchecked multiplication (120 eggs to millions in four generations) checked by resources, light, temperature, humidity and food (Post G8) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 8*, printed p. 168 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 7 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 306 pages, 118,117,888 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–305). Note: the first copy of this file in scratch was corrupt (damaged cross-reference, from two downloads writing it at once); it was re-downloaded clean from the same release record and verified by size, page count and title page (Naturales_7.indb) before reading. Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado7.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 13: how ecosystems change; Colombia's territory once 84% forest/jungle, ecosystems transformed over time, interviewing grandparents on how the municipality's ecosystems were, and spotting morphological, physiological and behavioural adaptations on a field walk (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 158 |
+
+**Acceptance count: taught in 44 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, our-environment/ecosystems-populations-communities-and-their-surroundings

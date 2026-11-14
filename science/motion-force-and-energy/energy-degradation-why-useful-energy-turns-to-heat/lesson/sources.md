@@ -1,6 +1,6 @@
 # Sources — Energy — degradation: why useful energy is lost as heat
 
-countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Greece, Egypt, Malaysia
+countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Greece, Egypt, Malaysia, Colombia
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -66,3 +66,17 @@ Searchable tags: egypt, motion-force-and-energy energy-degradation-why-useful-en
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and-energy energy-degradation-why-useful-energy-turns-to-heat
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 6,751,201 bytes. Verdict: COMPLETE (Units 4–5, Guides 12–16, printed pp. 7–55, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'from dangerous energy to useful energy': atomic energy from heavy elements plutonium/uranium; nuclear fission bombards atoms with lighter atoms' atoms (CN G5 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (Escuela Nueva)*, printed p. 24 |
+
+**Acceptance count: taught in 5 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, motion-force-and-energy/energy-degradation-why-useful-energy-turns-to-heat

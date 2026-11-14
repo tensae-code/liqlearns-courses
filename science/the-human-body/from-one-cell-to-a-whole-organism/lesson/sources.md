@@ -1,6 +1,6 @@
 # Sources — Cells — from one cell to a whole organism
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt, Seychelles, Venezuela (curriculum/proposal evidence only), Angola, Dominican Republic, Kuwait, Yemen, Nicaragua, Iraq, El Salvador
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt, Seychelles, Venezuela (curriculum/proposal evidence only), Angola, Dominican Republic, Kuwait, Yemen, Nicaragua, Iraq, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -250,3 +250,44 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/from-one-cell-to-a-whole-organism
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 116 pages, 12,638,608 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–11, printed pp. 7–110, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| unicellular vs pluricelular/multicellular organisms: many-celled beings (Protista, Fungi, Plant, Animal kingdoms) whose cells differ and do different jobs; paramecium, insect, bread mould table (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed pp. 21–23 |
+| tissues: in complex multicellular beings cells group for a special function; animal tissues are epithelial, connective, muscular, nervous, blood; tissues join to form an organ (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed p. 30 |
+| levels of organisation of life: cell → tissue → organ → system/apparatus → organism (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed p. 92 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 6 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado sexto. Author Lucila Pineda Pérez; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 227 pages, 49,175,089 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–29, printed pp. 14–213, plus bibliography). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado06.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| functions summary: beings breathe, nourish themselves, eliminate waste, grow, relate and reproduce; adaptations and their meaning for survival (SA G6) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 6*, printed p. 141 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 8: why cells associate — levels of cellular organisation of living beings (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 97 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 7 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado séptimo. Publisher: Ministerio de Educación Nacional (Secundaria Activa update team, as G6). PDF 233 pages, 52,013,542 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–32, printed pp. 14–227, plus bibliography). Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado07.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| internal organisation levels by analogy with a woven quilt: cells are the organism's fundamental units (SA G7) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 23 |
+| animal tissues (Tema 4) (SA G7) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 32 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 9 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado noveno. Author Jorge Adolfo Nieto Díaz; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 318 pages, 55,233,088 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–42, printed pp. 14–310, plus bibliography). The personal-commitments temas (30 sexuality/overpopulation, 31 gender) are social content and are not placed. Twin record: TSV release record and books.json record grade-09/gov/colombia/ciencias-naturales/student/CN_Grado09.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| evolution and functions in living beings: the Miller-type experiment obtaining amino acids from early-Earth gases and electric discharges, and the neuron as the base of nervous function (Tema 14) (SA G9) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 9*, printed p. 110 |
+
+**Acceptance count: taught in 12 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/from-one-cell-to-a-whole-organism

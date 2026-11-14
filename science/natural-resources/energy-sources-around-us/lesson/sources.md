@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -394,3 +394,23 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, natural-resources/energy-sources-around-us
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 6,751,201 bytes. Verdict: COMPLETE (Units 4–5, Guides 12–16, printed pp. 7–55, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| energy sources table judged by: non-polluting/polluting, cheap, costly, renewable, non-renewable (solar first) (CN G5 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (Escuela Nueva)*, printed p. 28 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 7 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 306 pages, 118,117,888 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–305). Note: the first copy of this file in scratch was corrupt (damaged cross-reference, from two downloads writing it at once); it was re-downloaded clean from the same release record and verified by size, page count and title page (Naturales_7.indb) before reading. Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado7.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 20: energy's relation with nature; a volcano's parts (crater, cone, magma chamber, lava) and geothermal energy from hot springs, fossil-fuel problems pictured (city smog, oil spills, global warming) and why fossils are still used (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 242 |
+
+**Acceptance count: taught in 20 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, natural-resources/energy-sources-around-us

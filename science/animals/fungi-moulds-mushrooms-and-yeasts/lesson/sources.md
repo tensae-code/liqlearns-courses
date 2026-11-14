@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -258,3 +258,37 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/fungi-moulds-mushrooms-and-yeasts
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 3. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 76 pages, 56,340,558 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–8, printed pp. 7–69, plus teacher suggestions). Twin record: TSV release record and books.json record grade-03/gov/colombia/ciencias-naturales/student/CN_Grado03_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fungi under small plants release a dark powder; Wayuú women mix it with goat fat as a sun-protection face mask (CN G3 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (Escuela Nueva)*, printed p. 16 |
+| observing decomposers in action: wet bread and an orange left in a dark warm place for days, predicted and observed with a magnifier (CN G3 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (Escuela Nueva)*, printed p. 54 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 4. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 82 pages, 8,917,135 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–9, printed pp. 7–77, plus teacher suggestions). Twin record: TSV release record and books.json record grade-04/gov/colombia/ciencias-naturales/student/CN_Grado04_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fungi kingdom: are fungi plants? can all fungi/plants be seen with the naked eye? comparing a fungus and a plant part by part (CN G4 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 1 (Escuela Nueva)*, printed p. 15 |
+| fungus reproduction: examining a mushroom's gills under the cap with a magnifier (CN G4 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 1 (Escuela Nueva)*, printed p. 61 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 8 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 8. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 270 pages, 96,929,573 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–22, printed pp. 8–269). Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado8.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 6: how microscopic beings reproduce; virus replication inside a host cell and the A(H1N1) pandemic of 2009, reproduction in protists (algal alternation of generations) and in fungi by fragmentation and spores, with a mushroom spore-print activity (Post G8) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 8*, printed p. 68 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 9 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado noveno. Author Jorge Adolfo Nieto Díaz; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 318 pages, 55,233,088 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–42, printed pp. 14–310, plus bibliography). The personal-commitments temas (30 sexuality/overpopulation, 31 gender) are social content and are not placed. Twin record: TSV release record and books.json record grade-09/gov/colombia/ciencias-naturales/student/CN_Grado09.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fungi: a heterogeneous kingdom of some 70,000 species; Fleming and penicillin, yeasts in bread and alcoholic drinks, and care against fungal diseases (Tema 19) (SA G9) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 9*, printed p. 139 |
+
+**Acceptance count: taught in 14 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/fungi-moulds-mushrooms-and-yeasts

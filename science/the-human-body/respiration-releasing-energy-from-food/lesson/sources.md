@@ -1,6 +1,6 @@
 # Sources — Cells — respiration: releasing energy from food
 
-countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka, Indonesia, Yemen, Nicaragua, South Sudan, El Salvador
+countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka, Indonesia, Yemen, Nicaragua, South Sudan, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -182,3 +182,18 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/respiration-releasing-energy-from-food
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 7 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado séptimo. Publisher: Ministerio de Educación Nacional (Secundaria Activa update team, as G6). PDF 233 pages, 52,013,542 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–32, printed pp. 14–227, plus bibliography). Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado07.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nutrition in living beings: all beings exchange matter and energy with their environment, spend energy continuously and must feed (SA G7) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 79 |
+| cellular respiration: elements of cellular respiration introduced (SA G7) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 137 |
+
+**Acceptance count: taught in 12 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/respiration-releasing-energy-from-food

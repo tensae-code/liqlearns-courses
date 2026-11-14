@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -663,3 +663,25 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/the-lungs-and-breathing
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 116 pages, 12,638,608 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–11, printed pp. 7–110, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| do you always breathe through the nose? how many lungs, which part is shared with the digestive system (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed pp. 52–53 |
+| alveoli are spongy sacs where gas exchange with blood happens: oxygen passes to blood, carbon dioxide passes to the lung to be expelled; lungs in the ribcage beside the heart, wrapped in pleura (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed p. 54 |
+| breathing movements come from the diaphragm (muscle at the thorax base), controlled by the brain: inhalation contracts/lowers it and expands the chest, exhalation lets air out; building a respiratory model and blocking its air entry (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed pp. 56–57 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 7 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado séptimo. Publisher: Ministerio de Educación Nacional (Secundaria Activa update team, as G6). PDF 233 pages, 52,013,542 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–32, printed pp. 14–227, plus bibliography). Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado07.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| human respiration: observing a partner's body while breathing in a paired observation test (SA G7) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 7*, printed p. 143 |
+
+**Acceptance count: taught in 32 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/the-lungs-and-breathing

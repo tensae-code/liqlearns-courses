@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia (teacher-guide evidence only), Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia (teacher-guide evidence only), Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador, Colombia
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -624,3 +624,54 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 2. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN libro 978-958-8712-04-8; ISBN obra 978-958-33-3362-0. PDF 66 pages, 10,389,524 bytes. Verdict: COMPLETE (Units 1–2, Guides 1–8, printed pp. 7–62, plus teacher suggestions). Twin record: TSV release record and books.json record grade-02/gov/colombia/ciencias-naturales/student/CN_Grado02_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| field survey table: species, number of males, females, total individuals, characteristics; tree species around the school (CN G2 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 1 (Escuela Nueva)*, printed pp. 28–29 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 2. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN not separately visible in extracted front matter (obra ISBN 978-958-33-3362-0 series). PDF 78 pages, 11,900,508 bytes. Verdict: COMPLETE (Units 3–5, Guides 9–17, printed pp. 7–73, plus teacher suggestions). Twin record: TSV release record and books.json record grade-02/gov/colombia/ciencias-naturales/student/CN_Grado02_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the 'lottery of life' game: matching animal/plant cards to the environment they belong to (CN G2 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (Escuela Nueva)*, printed pp. 60–63 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 116 pages, 12,638,608 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–11, printed pp. 7–110, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pulse measurement: bar chart of the class's pulse ranges (CN G5 C1) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 1 (Escuela Nueva)*, printed p. 68 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 8,036,233 bytes. Verdict: COMPLETE (Units 6–7, Guides 17–21, printed pp. 7–56, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| classifying the fruit observations as qualitative or quantitative (CN G5 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (Escuela Nueva)*, printed p. 41 |
+| graphing growth data: weeks on the horizontal axis, measurements on the vertical (CN G5 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 3 (Escuela Nueva)*, printed p. 50 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 24: how to observe well; from a general objective to specific objectives (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 266 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| observation as a scientific skill (Tema 2) (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 20 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 7 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 306 pages, 118,117,888 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–305). Note: the first copy of this file in scratch was corrupt (damaged cross-reference, from two downloads writing it at once); it was re-downloaded clean from the same release record and verified by size, page count and title page (Naturales_7.indb) before reading. Twin record: TSV release record and books.json record grade-07/gov/colombia/ciencias-naturales/student/CN_Grado7.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 24: how we investigate foods; organic crops as food production with no chemical additives, an experiment comparing fertiliser types (manure, poultry dung, compost, peat, inorganic fertiliser), and judging from graphed data whether the hypothesis held (Post G7) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 7*, printed p. 282 |
+
+**Acceptance count: taught in 27 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude

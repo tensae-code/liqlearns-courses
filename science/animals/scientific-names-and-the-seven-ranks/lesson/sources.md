@@ -1,6 +1,6 @@
 # Sources — Classification — scientific names and the seven ranks
 
-countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only), Malaysia, El Salvador
+countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only), Malaysia, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -76,3 +76,23 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals scientif
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/scientific-names-and-the-seven-ranks
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 6 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado sexto. Author Lucila Pineda Pérez; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 227 pages, 49,175,089 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–29, printed pp. 14–213, plus bibliography). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado06.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| protists with plant-like, animal-like, intermediate and distinct characters were long studied under other kingdoms (SA G6) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 6*, printed p. 180 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 9 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado noveno. Author Jorge Adolfo Nieto Díaz; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 318 pages, 55,233,088 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–42, printed pp. 14–310, plus bibliography). The personal-commitments temas (30 sexuality/overpopulation, 31 gender) are social content and are not placed. Twin record: TSV release record and books.json record grade-09/gov/colombia/ciencias-naturales/student/CN_Grado09.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| foundations of taxonomy: binomial nomenclature rules for all kingdoms, phylogeny vs ontogeny, building a herbarium, and biodiversity defined as all the variety of living beings in Earth's ecosystems (Tema 23) (SA G9) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 9*, printed p. 173 |
+
+**Acceptance count: taught in 5 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/scientific-names-and-the-seven-ranks

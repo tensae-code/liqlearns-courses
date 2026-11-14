@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua, Malaysia, South Sudan, El Salvador
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua, Malaysia, South Sudan, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -396,3 +396,18 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/inside-the-earth-crust-mantle-core
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 4. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 68 pages, 12,166,055 bytes. Verdict: COMPLETE (Units 7–8, Guides 19–24, printed pp. 7–64, plus teacher suggestions). Twin record: TSV release record and books.json record grade-04/gov/colombia/ciencias-naturales/student/CN_Grado04_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| over the mantle lies the thin hard crust where mountains, lakes and seas are and all beings live; around it the atmosphere filters the Sun's rays (CN G4 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (Escuela Nueva)*, printed p. 44 |
+| modelling Earth layer by layer in clay/plasticine, starting from the innermost (CN G4 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 3 (Escuela Nueva)*, printed p. 47 |
+
+**Acceptance count: taught in 27 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/inside-the-earth-crust-mantle-core

@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -782,3 +782,36 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, motion-force-and-energy/energy-sources-and-using-energy-wisely
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 5. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 60 pages, 6,751,201 bytes. Verdict: COMPLETE (Units 4–5, Guides 12–16, printed pp. 7–55, plus teacher suggestions). Twin record: TSV release record and books.json record grade-05/gov/colombia/ciencias-naturales/student/CN_Grado05_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| where energy comes from: black-painted tin of water exposed to the Sun, temperature measured before/after; magnifier focusing sunlight on paper (CN G5 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (Escuela Nueva)*, printed pp. 10–12 |
+| sources of energy: sunlight, waterfalls, fuels, wind, foods; solar/wind are free and clean, coal/oil are costly, non-renewable and polluting when burned (CN G5 C2) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 5, Cartilla 2 (Escuela Nueva)*, printed p. 29 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 6 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 290 pages, 108,074,409 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–25, printed pp. 8–289). Twin record: TSV release record and books.json record grade-06/gov/colombia/ciencias-naturales/student/CN_Grado6.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 20: is energy important in nature? concept scheme with energy at the centre (Post G6) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 6*, printed p. 228 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| saving energy: mechanical work; ten minutes of a hurricane's generated energy (Tema 38) (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 218 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 9 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado noveno. Author Jorge Adolfo Nieto Díaz; update/qualification team Aguirre Asesores S.A.S. Publisher: Ministerio de Educación Nacional. PDF 318 pages, 55,233,088 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–42, printed pp. 14–310, plus bibliography). The personal-commitments temas (30 sexuality/overpopulation, 31 gender) are social content and are not placed. Twin record: TSV release record and books.json record grade-09/gov/colombia/ciencias-naturales/student/CN_Grado09.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of energy and alternative energies: fossil sources running out (oil, coal, gas, uranium non-renewable), hydraulic energy from river water moving turbines, and domestic solar energy (Temas 36–37) (SA G9) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 9*, printed p. 265 |
+
+**Acceptance count: taught in 41 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, motion-force-and-energy/energy-sources-and-using-energy-wisely

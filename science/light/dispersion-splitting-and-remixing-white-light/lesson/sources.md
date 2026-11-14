@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq, Colombia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -450,3 +450,23 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, light dispersion-splitting-and-remixing-white-light
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 1, Fichas (student)):** Title as printed: Ciencias Naturales y Educación Ambiental — Fichas, Escuela Nueva, Grado 1. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN libro 978-958-8712-44-4; ISBN obra 978-958-33-3362-0. PDF 33 pages, 12,693,535 bytes. Verdict: COMPLETE (Guides 1–5, printed pp. 5–33). Twin record: TSV release record and books.json record grade-01/gov/colombia/ciencias-naturales/student/CN_Fichas.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| primary colours yellow/blue/red mix to make other colours (CN G1 Fichas) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 1, Fichas (Escuela Nueva)*, printed p. 18 |
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the light spectrum: when can white light's appearance be appreciated (Tema 46) (SA G8) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 272 |
+
+**Acceptance count: taught in 34 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, light/dispersion-splitting-and-remixing-white-light

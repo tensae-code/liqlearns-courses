@@ -1,6 +1,6 @@
 # Sources — Hormones and the endocrine system
 
-countries: Bangladesh, Nicaragua, El Salvador
+countries: Bangladesh, Nicaragua, El Salvador, Colombia
 
 **Book (Bangladesh — Class 9 Investigative Study):** *Investigative Science Study, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onusandhani Path, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 244, Bangla 244; printed pages 236 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14). DUPLICATE RECORDS, as filed: the Grade 10 records are byte-identical to these Grade 9 records (Investigative Bangla 16,278,290 bytes both; Investigative English 14,954,084 both) — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -62,3 +62,25 @@ Placement choice, on the record: the El Salvador placement(s) above filed as NEW
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/hormones-and-the-endocrine-system
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Secundaria Activa — Ciencias Naturales, Grado 8 (student module)):** Title as printed: Secundaria Activa, Ciencias Naturales grado octavo. Publisher: Ministerio de Educación Nacional. PDF 308 pages, 26,565,635 bytes. Verdict: COMPLETE (Units 1–4, Temas 1–49, printed pp. 14–297, plus bibliography). The personal-commitments temas (11 self-esteem, 28 research groups, 49 teamwork) are not science content and are not placed. Twin record: TSV release record and books.json record grade-08/gov/colombia/ciencias-naturales/student/CN_Grado08.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| hormonal regulation: hormones are produced in one site and act as specific messengers on other cells (Tema 33) (SA G8) (placement filed as NEW LESSON NEEDED — hormones-and-hormonal-regulation; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Secundaria Activa, Ciencias Naturales, Grado 8*, printed p. 194 |
+
+**Book (Colombia — Postprimaria Rural — Ciencias Naturales y Educación Ambiental, Grado 9 (student guide)):** Title as printed: Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 9. Produced with Fundación Manuel Mejía (authors include Andrés Casas Moreno, Aura Susana Leal Aponte, Catalina Barreto Garzón). Publisher: Ministerio de Educación Nacional. PDF 246 pages, 93,641,421 bytes. Verdict: COMPLETE (Modules 1–6, Guías 1–21, printed pp. 8–245). Twin record: TSV release record and books.json record grade-09/gov/colombia/ciencias-naturales/student/CN_Grado9.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guía 7: which substances regulate reproduction; hormones of the menstrual cycle (hypothalamus GnRH, pituitary FSH and LH, ovarian oestrogen and progesterone), testosterone's function, menopause vs andropause, and alcohol inhibiting retinoic acid in frog embryo development (Post G9) (placement filed as NEW LESSON NEEDED — hormones-and-hormonal-regulation; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Ciencias Naturales y Educación Ambiental, Postprimaria Rural, Grado 9*, printed p. 76 |
+
+Placement choice, on the record: the Colombia placement(s) above filed as “hormones-and-hormonal-regulation” — colombia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 4 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/hormones-and-the-endocrine-system

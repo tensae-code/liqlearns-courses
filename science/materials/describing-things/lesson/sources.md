@@ -1,6 +1,6 @@
 # Sources — Describing things: matter and its properties
 
-countries: Ethiopia, Sudan, Trinidad and Tobago (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Egypt, Ecuador, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Indonesia, Bangladesh, Yemen, Saudi Arabia, South Sudan, Iraq, El Salvador
+countries: Ethiopia, Sudan, Trinidad and Tobago (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Egypt, Ecuador, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Indonesia, Bangladesh, Yemen, Saudi Arabia, South Sudan, Iraq, El Salvador, Colombia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -406,3 +406,23 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/describing-things
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 1, Fichas (student)):** Title as printed: Ciencias Naturales y Educación Ambiental — Fichas, Escuela Nueva, Grado 1. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN libro 978-958-8712-44-4; ISBN obra 978-958-33-3362-0. PDF 33 pages, 12,693,535 bytes. Verdict: COMPLETE (Guides 1–5, printed pp. 5–33). Twin record: TSV release record and books.json record grade-01/gov/colombia/ciencias-naturales/student/CN_Fichas.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| describing and recording an object's size, shape, colour and texture (CN G1 Fichas) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 1, Fichas (Escuela Nueva)*, printed p. 28 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 3 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Tercera Cartilla, Escuela Nueva, Grado 2. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 66 pages, 6,581,573 bytes. Verdict: COMPLETE (Units 6–8, Guides 18–24, printed pp. 7–60, plus teacher suggestions). Twin record: TSV release record and books.json record grade-02/gov/colombia/ciencias-naturales/student/CN_Grado02_03.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| observing matter around us: identifying fruit characteristics with eyes, nose, mouth and hands; classifying fruits by colour (CN G2 C3) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 3 (Escuela Nueva)*, printed pp. 10–12 |
+
+**Acceptance count: taught in 22 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/describing-things

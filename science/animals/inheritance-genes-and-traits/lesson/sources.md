@@ -1,6 +1,6 @@
 # Sources — Inheritance — genes and traits
 
-countries: India, Kuwait, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen
+countries: India, Kuwait, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Colombia
 
 **Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
 
@@ -87,3 +87,19 @@ Searchable tags: sri lanka, sri lanka science, inheritance genes and traits
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, animals inheritance-genes-and-traits
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Segunda Cartilla, Escuela Nueva, Grado 2. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN not separately visible in extracted front matter (obra ISBN 978-958-33-3362-0 series). PDF 78 pages, 11,900,508 bytes. Verdict: COMPLETE (Units 3–5, Guides 9–17, printed pp. 7–73, plus teacher suggestions). Twin record: TSV release record and books.json record grade-02/gov/colombia/ciencias-naturales/student/CN_Grado02_02.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| family table of hair/eye/mouth/nose colour, shape and size for father, mother, grandparents, siblings and self (CN G2 C2) (placement filed as NEW LESSON NEEDED — inherited-traits-in-my-family; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 2, Cartilla 2 (Escuela Nueva)*, printed p. 14 |
+
+Placement choice, on the record: the Colombia placement(s) above filed as “inherited-traits-in-my-family” — colombia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 5 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/inheritance-genes-and-traits

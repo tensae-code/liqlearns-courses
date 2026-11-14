@@ -460,6 +460,8 @@ solar-system comparison lessons.
 51. **Fertilisation, pregnancy and birth** (`the-human-body/fertilisation-pregnancy-and-birth`) — one sperm enters the ovum and forms the zygote, the new individual's first cell; the amniotic sac protects the baby; morula, blastula, gastrula drawn stage by stage, the chorion's villi entering the endometrium to form the placenta, passing nutrients, oxygen and antibodies from mother to child; birth: sac breaks, contractions, expulsion — and double fertilisation in flowering plants as the parallel the same books teach (Nicaragua, Grade 6 — *Ciencias Naturales, 6to grado*, printed pp. 55–59; Grade 9 — *Ciencias Naturales, Noveno grado*, printed pp. 142–144; Grade 9 Módulo — *Módulo Autoformativo de Ciencias Naturales, 9no grado*, printed p. 25; built for the Nicaragua placements, expansion-science-2026-11-13/nicaragua-placements.md)
 
 52. **The eye and ear — inside and out** (`the-human-body/the-eye-and-ear-inside-and-out`) — the eye outside and inside — the retina with its light-sensitive cells sending the message to the brain — and the ear outside and inside — ear drum, ossicles and cochlea — each compared with other animals' eyes and ears (South Sudan, Primary 5 — *Primary Science, Pupil's Book 5*, 2.2 External structure of the eye, SS P5 SB, printed p. 25; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
+53. **Neurons and nerves** (`the-human-body/neurons-and-nerves`) — investigating neuron types, comparing them with each other and with electric circuits.
+54. **X-rays and radiographs** (`the-human-body/x-rays-and-radiographs`) — X-rays as a form of energy used to detect bone fractures with a radiograph, and a community survey of fractures and X-rays.
 
 ## Unit 4 — Materials
 
@@ -606,9 +608,7 @@ solar-system comparison lessons.
 112. **Enzymes — nature's catalysts** (`materials/enzymes-natures-catalysts`) — without enzymes there is no life: living things decompose food quickly with enzymes where no life would take thousands or millions of years; virus antigens are proteins (El Salvador, Ciencia y Tecnología 6 (Grade 6, student book, CyT G6, printed pp. 131–134); Ciencia y Tecnología, 1.er año de Bachillerato (Grade 10 (1.er año de Bachillerato), student book, CyT G10, printed pp. 202–209); Ciencia y Tecnología 6 — Cuaderno de trabajo (Grade 6, workbook, CyT G6 WB, workbook printed p. 56); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
 
 113. **Structures that hold things up** (`materials/structures-that-hold-things-up`) — structures: building a rigid structure of one's own and recording the maximum resistance it can hold (El Salvador, Ciencia y Tecnología 2, Tomo 2 (Grade 2, student book, Tomo 2, CyT G2 T2, printed pp. 68–74 (Unit 5, Week 24)); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
-
-
-
+114. **Making a mask with recycled materials** (`materials/making-a-mask-with-recycled-materials`) — building a face mask from a cut plastic container, newspaper strips and caps.
 
 ## Unit 5 — Light
 
@@ -697,6 +697,7 @@ solar-system comparison lessons.
 38. **Humidity and measuring it** (`weather-and-seasons/humidity-and-measuring-it`) — humidity as the water vapour in the air, measuring it by making a hygrometer and by the sling psychrometer for relative humidity, and why humidity matters (South Sudan, Primary 7 — *South Sudan Primary Science, Pupil's Book 7*, 4.3 Humidity: the water vapour in the air around us, SS P7 SB, printed p. 88; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
 
 39. **Cyclones, hurricanes and the Saffir-Simpson scale** (`weather-and-seasons/cyclones-hurricanes-and-the-saffir-simpson-scale`) — cyclones classified by wind force on the Saffir-Simpson scale; "huracán" named for Hurakan, the god (El Salvador, Ciencia y Tecnología 4 (Grade 4, student book, CyT G4, printed pp. 91–96 (Unit 3 close)); Ciencia y Tecnología 7 (Grade 7, student book, CyT G7, printed pp. 170–176); Ciencia y Tecnología 7 — Cuaderno de trabajo (Grade 7, workbook, CyT G7 WB, workbook printed pp. 99–101); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
+40. **Thermal floors of Colombia** (`weather-and-seasons/thermal-floors-of-colombia`) — Colombia's thermal floors by altitude: cálido 0–1,000 m, templado 1,000–2,000 m, frío 2,000–3,000 m, páramo 3,000–4,700 m and perpetual snows above 4,700 m, with the temperature of each floor.
 
 ## Unit 7 — Soil and Water
 
@@ -913,6 +914,11 @@ solar-system comparison lessons.
 65. **Cladograms and phylogenetic trees** (`animals/cladograms-and-phylogenetic-trees`) — systematics and cladistics: all living things share a common origin, so their evolutionary history (phylogeny) can be traced as trees; systematics studies diversification and relationships through time (El Salvador, Ciencia y Tecnología 7 (Grade 7, student book, CyT G7, printed pp. 95–99); Ciencia y Tecnología 7 — Cuaderno de trabajo (Grade 7, workbook, CyT G7 WB, workbook printed pp. 57–60); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
 
 66. **DNA barcoding — identifying species by genes** (`animals/dna-barcoding-identifying-species-by-genes`) — DNA barcodes: sequencing a gene stretch to identify species, since DNA stores the genetic information in every living thing (El Salvador, Ciencia y Tecnología 7 (Grade 7, student book, CyT G7, printed pp. 102–103); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
+67. **DNA structure and replication** (`animals/dna-structure-and-replication`) — DNA as a double helix of nucleotides (nitrogen base, five-carbon sugar, phosphate group), DNA and RNA compared, replication from each strand as a template, genotype and phenotype, and extracting DNA from banana.
+68. **Mendel's laws and Punnett squares** (`animals/mendels-laws-and-punnett-squares`) — Mendel's laws worked through Punnett squares — white × red roses, tall × dwarf coffee plants, Mendel's peas — with dominant and recessive traits, mutation, and blood-group inheritance.
+69. **The human genome and genetic engineering** (`animals/the-human-genome-and-genetic-engineering`) — the Human Genome Project mapping every gene, genetic engineering and gene therapy, identifying a being by its DNA, cloning and transgenic crops, with the ethical debate.
+70. **Speciation and reproductive isolation** (`animals/speciation-and-reproductive-isolation`) — where species come from: reproductive isolation mechanisms (including pollinator specificity and second-generation sterility) and speciation models, beginning with geographic isolation.
+
 ## Unit 10 — Natural Resources
 
 1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
@@ -944,6 +950,8 @@ solar-system comparison lessons.
 21. **How fossil fuels formed** (`natural-resources/how-fossil-fuels-formed`) — the formation of fossil fuel over long ages, as Iraq's Grade 4 pupil's book teaches it, with the activity book's work on fossil fuel sources and forms (Iraq — *Science — Pupil's Book, Grade 4*, printed pp. 120–125; *Science (Activity Book), Grade 4*, printed pp. 54–61; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 
 22. **Minerals and mining in El Salvador** (`natural-resources/minerals-and-mining-in-el-salvador`) — El Salvador's own mineral wealth: the fingerite of Izalco volcano (Sonsonate), a vanadium–copper mineral so rare it dissolves in rain; non-metallic mining today is quarrying limestone rocks for cement and lime; the register of… (El Salvador, Ciencia y Tecnología 8 (Grade 8, student book, CyT G8, printed pp. 166, 169–171); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
+23. **Making biogas from organic matter** (`natural-resources/making-biogas-from-organic-matter`) — a biogas experiment: wet organic matter sealed airless in a bottle in the Sun for 5–7 days, and the gas tested by opening the bottle by a lit candle.
+
 ## Unit 11 — Our Environment
 
 1. **Caring for our environment: soil, water and air** (`our-environment/caring-for-our-environment-soil-water-and-air`) — care, resource by resource: stopping soil erosion (eroded land against protected land), keeping water sources unpolluted, keeping the air clean — w…
@@ -1409,6 +1417,8 @@ solar-system comparison lessons.
 78. **Jabir ibn Hayyan and chemistry** (`science-skills/jabir-ibn-hayyan-and-chemistry`) — Jabir ibn Hayyan, scholar of chemistry — presented by Iraq's Grade 5 pupil's book in its jobs-linked-with-science page inside the elements and compounds unit (Iraq — *Science — Pupil's Book, Grade 5*, printed p. 98; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 
 79. **Measuring instruments — choosing the right one** (`science-skills/measuring-instruments-choosing-the-right-one`) — picking the instrument for the job: floor scale, food scale, two-pan balance; thermometers; the caliper (pie de rey) for small lengths (El Salvador, Ciencia y Tecnología 3 — Cuaderno de trabajo (Grade 3, workbook, CyT G3 WB, workbook printed pp. 6–15); Ciencia y Tecnología 3 (Grade 3, student book, CyT G3, printed pp. 8–12, 33–36); built for the El Salvador placements, expansion-science-2026-11-13/el-salvador-placements.md)
+80. **Bioassays and testing on animals** (`science-skills/bioassays-and-testing-on-animals`) — bioassays: substances such as cosmetics tested on animals before market to see their effects — and the many people who oppose animal research.
+
 ## Unit 16 — Biology
 
 1. **A balanced diet — every group, in proportion** (`biology/a-balanced-diet`) — a balanced diet contains all nutrient groups in the right proportions for the person eating it.

@@ -1,6 +1,6 @@
 # Sources — Musical sounds, instruments and room acoustics
 
-countries: Uzbekistan, Venezuela, Bhutan, China, Sri Lanka, North Macedonia, Vietnam
+countries: Uzbekistan, Venezuela, Bhutan, China, Sri Lanka, North Macedonia, Vietnam, Colombia
 
 **Book 1:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -100,3 +100,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, sound musical-sounds-instruments-and-room-acoustics
 
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 1, Fichas (student)):** Title as printed: Ciencias Naturales y Educación Ambiental — Fichas, Escuela Nueva, Grado 1. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. ISBN libro 978-958-8712-44-4; ISBN obra 978-958-33-3362-0. PDF 33 pages, 12,693,535 bytes. Verdict: COMPLETE (Guides 1–5, printed pp. 5–33). Twin record: TSV release record and books.json record grade-01/gov/colombia/ciencias-naturales/student/CN_Fichas.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| building shakers and a scraped guacharaca; musical notes Do–Si as a scale/staircase (CN G1 Fichas) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 1, Fichas (Escuela Nueva)*, printed p. 22 |
+
+**Acceptance count: taught in 8 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, sound/musical-sounds-instruments-and-room-acoustics

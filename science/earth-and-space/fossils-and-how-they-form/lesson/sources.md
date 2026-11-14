@@ -1,6 +1,6 @@
 # Sources — Fossils and how they form
 
-countries: Haiti, Cabo Verde (teacher-guide evidence only), Dominican Republic, Bangladesh, Morocco (teacher-guide evidence only)
+countries: Haiti, Cabo Verde (teacher-guide evidence only), Dominican Republic, Bangladesh, Morocco (teacher-guide evidence only), Colombia
 
 **Book 1:** *Géologie — La formation des roches sédimentaires (8e, séquence)* (teaching sequence) — Haiti, Canoprof/Nectar sequence, Creative Commons. PDF 14 pages. Verdict: COMPLETE. Earth-science content of the SVT strand — placed here. Page numbers are the document's own printed pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/haiti-placements.md.
 
@@ -79,3 +79,19 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space fossils-a
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, earth-and-space fossils-and-how-they-form
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 3. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 76 pages, 56,340,558 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–8, printed pp. 7–69, plus teacher suggestions). Twin record: TSV release record and books.json record grade-03/gov/colombia/ciencias-naturales/student/CN_Grado03_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fossilisation: hard parts preserved as stone or impressions in stone; making clay fossil models with shells/leaves/seeds (CN G3 C1) (placement filed as NEW LESSON NEEDED — how-fossils-form; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (Escuela Nueva)*, printed pp. 30–31 |
+
+Placement choice, on the record: the Colombia placement(s) above filed as “how-fossils-form” — colombia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 4 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/fossils-and-how-they-form

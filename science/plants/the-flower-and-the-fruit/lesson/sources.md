@@ -1,6 +1,6 @@
 # Sources — The flower and the fruit
 
-countries: Nicaragua, El Salvador
+countries: Nicaragua, El Salvador, Colombia
 
 **Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
 
@@ -40,3 +40,25 @@ Placement choice, on the record: the El Salvador placement(s) above filed as NEW
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, plants/the-flower-and-the-fruit
+
+## Colombia growth (2026-11-14, General Science expansion)
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 3. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 76 pages, 56,340,558 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–8, printed pp. 7–69, plus teacher suggestions). Twin record: TSV release record and books.json record grade-03/gov/colombia/ciencias-naturales/student/CN_Grado03_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| flower parts in circle/spiral: sepals, petals, stamens (filament, anther, pollen grains), pistil (ovary, ovules) (CN G3 C1) (placement filed as NEW LESSON NEEDED — parts-of-a-flower; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 3, Cartilla 1 (Escuela Nueva)*, printed p. 24 |
+
+**Book (Colombia — Escuela Nueva — Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 1 (student)):** Title as printed: Ciencias Naturales y Educación Ambiental, Primera Cartilla, Escuela Nueva, Grado 4. Author Martha Gaviria de Gómez. Publisher: Ministerio de Educación Nacional, Bogotá, 2010. PDF 82 pages, 8,917,135 bytes. Verdict: COMPLETE (Units 1–3, Guides 1–9, printed pp. 7–77, plus teacher suggestions). Twin record: TSV release record and books.json record grade-04/gov/colombia/ciencias-naturales/student/CN_Grado04_01.pdf are the same book; cited once here. It counts in the acceptance count (student book / student module / student guide, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/colombia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| recognising flower parts with a magnifier, close-up on pollen grains (guide evidence, deeper than G3) (CN G4 C1) (placement filed as NEW LESSON NEEDED — parts-of-a-flower; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Colombia, *Ciencias Naturales y Educación Ambiental, Grado 4, Cartilla 1 (Escuela Nueva)*, printed p. 62 |
+
+Placement choice, on the record: the Colombia placement(s) above filed as “parts-of-a-flower” — colombia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 3 countries.**
+
+Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, plants/the-flower-and-the-fruit
