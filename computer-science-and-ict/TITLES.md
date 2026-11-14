@@ -717,3 +717,9 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - Command-line tools — tracert, nslookup and netstat — `hardware/command-line-tools-tracert-nslookup-and-netstat/`
 - Hardware tools for network maintenance — crimper to multimeter — `hardware/hardware-tools-for-network-maintenance/`
 - Grown with Grade 12 depth: defragmenting — putting a file's pieces back together (item 105); watching performance — Task Manager (the Restart Explorer key); preventive maintenance — keeping dust out (the guide's definition as teacher evidence).
+
+**Programming** (ICT expansion, from Montenegro): Number Systems and Conversions · Codes — BCD and ASCII · Binary Arithmetic
+
+**Hardware** (ICT expansion, from Montenegro): Boolean Algebra and Logic Operations · Boolean Laws and De Morgan's Theorems · Minimising Switching Functions — Karnaugh Maps · Logic Gates — NOT, AND, OR, NAND, NOR, XOR · Flip-Flops — RS, JK, D and T · Encoders and Decoders · Multiplexers and Demultiplexers · Registers — Stationary and Shift · Counters — Series, Parallel and Ring · Adders and Subtractors — Arithmetic Circuits · DA and AD Converters
+
+**Multimedia** (ICT expansion, from Montenegro): Digitising an Analogue Signal
