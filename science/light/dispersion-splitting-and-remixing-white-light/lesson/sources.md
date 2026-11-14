@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -435,3 +435,18 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count unchanged: taught in 32 countries.** South Sudan was already counted in this lesson through its earlier-wave books; the Primary books above add South Sudan's primary teaching of this thing, counted once, not twice.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sunlight is made of colours: the rainbow seen on a rainy day (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 143 |
+| letting a beam of sunlight through a window; why I see the seven colours (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 144–145 |
+
+**Acceptance count: taught in 33 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, light dispersion-splitting-and-remixing-white-light

@@ -1,6 +1,6 @@
 # Sources — Motion — four kinds of motion
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua
+countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -208,3 +208,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, motion-force-and-energy motion-four-kinds-of-motion
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| things move in different ways: trying out ways of moving objects (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 166 |
+
+**Acceptance count: taught in 15 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, motion-force-and-energy motion-four-kinds-of-motion

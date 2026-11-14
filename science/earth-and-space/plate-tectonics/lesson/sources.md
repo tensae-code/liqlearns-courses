@@ -1,6 +1,6 @@
 # Sources — Plate tectonics
 
-countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Malaysia
+countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Malaysia, Iraq
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -191,3 +191,27 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space plate-tec
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space plate-tectonics
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 6, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 208 pages, 14,736,433 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific writing, printed p. 206, closing pages to PDF p. 208). Twin record: TSV release record (Grade 6) and books.json record grade-06/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the changing Earth: the Earth's plates (placement filed as NEW LESSON NEEDED — earths-plates-and-their-movement; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed pp. 178–183 |
+| the effect of the movement of the Earth's plates (placement filed as NEW LESSON NEEDED — earths-plates-and-their-movement; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed pp. 184–189 |
+| reading: the Earth's ring of fire (placement filed as NEW LESSON NEEDED — earths-plates-and-their-movement; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed p. 190 |
+
+**Book (Iraq — Grade 6, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 5th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 1,585,312 bytes. Verdict: COMPLETE (contents printed p. 4 through final universe activities, PDF p. 92). Companion to Book 6 above. Twin record: books.json record grade-06/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: the Earth's plates and the effect of their movement — trying/repeating the model steps (placement filed as NEW LESSON NEEDED — earths-plates-and-their-movement; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Activity) | Iraq, *Science (Activity Book), Grade 6*, printed pp. 75–83 |
+
+**Acceptance count: taught in 14 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — earths-plates-and-their-movement — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, earth-and-space plate-tectonics

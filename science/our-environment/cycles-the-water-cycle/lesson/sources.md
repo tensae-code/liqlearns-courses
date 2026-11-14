@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Dominican Republic, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Dominican Republic, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -748,3 +748,26 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 37 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 2, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 12,083,759 bytes. Verdict: COMPLETE (contents printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 2) and books.json record grade-02/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| evaporation: wet clothes drying on the line (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 124 |
+| condensation: drops of water form on the outside of a cold vessel (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 125 |
+| dew drops and clouds of water in the sky (activity) (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 126 |
+| enrichment reading: how clouds form — water rises and turns to vapour (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 133 |
+
+**Book (Iraq — Grade 2, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 8,393,811 bytes (downloaded via the TSV release record after the books.json tree route failed). Verdict: COMPLETE (introduction printed p. 3 through final vocabulary test, PDF p. 68). Companion to Book 2 above. Twin record: TSV release record (Grade 2 activity) and books.json record grade-02/gov/iraq/science-activity/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: evaporation and condensation — the glass-lid experiment (Iraq G2 Activity) | Iraq, *Science (Activity Book), Grade 2*, printed pp. 40–42 |
+
+**Acceptance count: taught in 38 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, our-environment cycles-the-water-cycle

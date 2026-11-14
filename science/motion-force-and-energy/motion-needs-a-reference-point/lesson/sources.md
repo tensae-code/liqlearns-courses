@@ -234,3 +234,18 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, motion-force-and-energy motion-needs-a-reference-point
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| position: a body's position is told against another thing (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 164 |
+| motion: a thing's position changes when it moves to a new position (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 165 |
+
+**Acceptance count unchanged: taught in 19 countries.** Iraq was already a counted country in this lesson through its earlier-wave books named in the sections above; the Iraq primary books in this section add their provenance here, counted once.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, motion-force-and-energy motion-needs-a-reference-point

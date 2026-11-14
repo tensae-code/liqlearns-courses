@@ -1,6 +1,6 @@
 # Sources — How the solar system formed — from cloud to Sun
 
-countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia, Armenia, Micronesia, Cambodia, Bhutan, Laos, Bangladesh
+countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia, Armenia, Micronesia, Cambodia, Bhutan, Laos, Bangladesh, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -134,3 +134,23 @@ Searchable tags: laos, lao pdr, natural sciences grade 8
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space how-the-solar-system-formed
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 5, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,982,010 bytes. Verdict: COMPLETE (introduction printed p. 3 through final enrichment, printed p. 198, closing review pages to PDF p. 200). Twin record: TSV release record (Grade 5) and books.json record grade-05/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the origin (formation) of the Earth (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 182–189 |
+
+**Book (Iraq — Grade 5, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 2,025,515 bytes. Verdict: COMPLETE (contents printed p. 4 through final chapter activities, PDF p. 92). Companion to Book 5 above. Twin record: books.json record grade-05/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: the origin of the Earth (Iraq G5 Activity) | Iraq, *Science (Activity Book), Grade 5*, printed pp. 84–89 |
+
+**Acceptance count: taught in 10 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, earth-and-space how-the-solar-system-formed

@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait, Syria, Eritrea, Bangladesh, Fiji, Yemen, Saudi Arabia
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait, Syria, Eritrea, Bangladesh, Fiji, Yemen, Saudi Arabia, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -543,3 +543,29 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count unchanged: taught in 30 countries.** South Sudan was already counted in this lesson through its earlier-wave books; the Primary books above add South Sudan's primary teaching of this thing, counted once, not twice.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 2, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 12,083,759 bytes. Verdict: COMPLETE (contents printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 2) and books.json record grade-02/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's gravity: why bodies fall to the ground (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed pp. 154–156 |
+
+**Book (Iraq — Grade 6, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 208 pages, 14,736,433 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific writing, printed p. 206, closing pages to PDF p. 208). Twin record: TSV release record (Grade 6) and books.json record grade-06/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mass and weight (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed pp. 130–135 |
+
+**Book (Iraq — Grade 2, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 8,393,811 bytes (downloaded via the TSV release record after the books.json tree route failed). Verdict: COMPLETE (introduction printed p. 3 through final vocabulary test, PDF p. 68). Companion to Book 2 above. Twin record: TSV release record (Grade 2 activity) and books.json record grade-02/gov/iraq/science-activity/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: Earth's pulling force — throwing a ball upward and watching it fall (Iraq G2 Activity) | Iraq, *Science (Activity Book), Grade 2*, printed pp. 51–53 |
+
+**Acceptance count: taught in 31 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, motion-force-and-energy force-gravity-weight-and-the-newton-meter

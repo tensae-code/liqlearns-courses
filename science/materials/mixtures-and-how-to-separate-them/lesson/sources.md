@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -433,3 +433,45 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 20 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mixing: what a mixture is, from a mother mixing a vegetable salad (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed pp. 130–132 |
+| mixtures in colouring/painting activity: colours mixed while painting a picture (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 134 |
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a solid-with-solid mixture: what a non-uniform (heterogeneous) mixture is (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 112–114 |
+| ways of separating the components of a solid-with-solid mixture (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 115 |
+
+**Book (Iraq — Grade 5, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,982,010 bytes. Verdict: COMPLETE (introduction printed p. 3 through final enrichment, printed p. 198, closing review pages to PDF p. 200). Twin record: TSV release record (Grade 5) and books.json record grade-05/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mixtures and their types: what mixtures are (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 108–110 |
+| kinds of mixtures: uniform (homogeneous) mixtures, sugar added to water (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed p. 111 |
+| ways of separating mixtures; making a homogeneous mixture (activity) (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 112–113 |
+
+**Book (Iraq — Grade 3, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 2,715,239 bytes. Verdict: COMPLETE (contents printed p. 4 through final lesson review, PDF p. 68). Companion to Book 3 above; its body text layer is partly symbol-encoded, so activities are filed at section level from the legible contents and section-opening pages. Twin record: books.json record grade-03/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: non-uniform mixtures — making and separating mixtures (Iraq G3 Activity) | Iraq, *Science (Activity Book), Grade 3*, printed pp. 35–40 |
+
+**Book (Iraq — Grade 5, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 2,025,515 bytes. Verdict: COMPLETE (contents printed p. 4 through final chapter activities, PDF p. 92). Companion to Book 5 above. Twin record: books.json record grade-05/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: chemical compounds and mixtures and their types (Iraq G5 Activity) | Iraq, *Science (Activity Book), Grade 5*, printed pp. 44–49 |
+
+**Acceptance count: taught in 21 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials mixtures-and-how-to-separate-them

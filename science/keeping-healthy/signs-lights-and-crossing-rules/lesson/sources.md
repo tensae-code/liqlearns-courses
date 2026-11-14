@@ -1,6 +1,6 @@
 # Sources — Signs, lights and crossing rules
 
-countries: Ethiopia, Turkey, Serbia, Angola, Eritrea, Yemen, Vietnam
+countries: Ethiopia, Turkey, Serbia, Angola, Eritrea, Yemen, Vietnam, Iraq
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -98,3 +98,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keeping-healthy signs-lights-and-crossing-rules
 
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safety outside the home: cross the street at the places made for it, follow safety rules in car or bicycle, do not approach a strange object — tell a family member (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 200 |
+
+**Acceptance count: taught in 8 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, keeping-healthy signs-lights-and-crossing-rules

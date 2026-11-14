@@ -1,6 +1,6 @@
 # Sources — Semi-guided investigations — your question, your method
 
-countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles, Venezuela, Kuwait, Indonesia, Fiji, Malaysia
+countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles, Venezuela, Kuwait, Indonesia, Fiji, Malaysia, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -205,3 +205,18 @@ Searchable tags: fiji, fiji science, ministry of education fiji, science-skills 
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills semi-guided-investigations-your-question-your-method
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 6, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 208 pages, 14,736,433 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific writing, printed p. 206, closing pages to PDF p. 208). Twin record: TSV release record (Grade 6) and books.json record grade-06/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guided inquiry: what factors affect a lamp's lighting/brightness? (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed p. 158 |
+| guided inquiry: what are the properties of the image formed in convex lenses? (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed p. 173 |
+
+**Acceptance count: taught in 14 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills semi-guided-investigations-your-question-your-method

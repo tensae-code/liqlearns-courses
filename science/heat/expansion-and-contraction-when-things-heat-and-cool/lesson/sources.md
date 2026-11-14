@@ -1,6 +1,6 @@
 # Sources — Expansion and contraction — when things heat and cool
 
-countries: Seychelles, Kuwait, China, Yemen
+countries: Seychelles, Kuwait, China, Yemen, Iraq
 
 **Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -65,3 +65,26 @@ Searchable tags: china, china science, pep, people's education press, expansion 
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, heat expansion-and-contraction-when-things-heat-and-cool
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 2, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 12,083,759 bytes. Verdict: COMPLETE (contents printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 2) and books.json record grade-02/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the effect of heat on materials: finding out that materials expand with heat (placement filed as NEW LESSON NEEDED — materials-expand-and-contract-with-heat; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed pp. 128–130 |
+| uses of expansion and contraction; gaps left between surfaces (placement filed as NEW LESSON NEEDED — materials-expand-and-contract-with-heat; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed pp. 131–132 |
+
+**Book (Iraq — Grade 2, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 8,393,811 bytes (downloaded via the TSV release record after the books.json tree route failed). Verdict: COMPLETE (introduction printed p. 3 through final vocabulary test, PDF p. 68). Companion to Book 2 above. Twin record: TSV release record (Grade 2 activity) and books.json record grade-02/gov/iraq/science-activity/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: the effect of heat on materials — air expands: balloon on a bottle (placement filed as NEW LESSON NEEDED — materials-expand-and-contract-with-heat; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G2 Activity) | Iraq, *Science (Activity Book), Grade 2*, printed pp. 43–44 |
+
+**Acceptance count: taught in 5 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — materials-expand-and-contract-with-heat — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, heat expansion-and-contraction-when-things-heat-and-cool

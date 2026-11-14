@@ -1,6 +1,6 @@
 # Sources — Food — the four food groups
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia, South Sudan
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia, South Sudan, Iraq
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -256,3 +256,24 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 11 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 2, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 12,083,759 bytes. Verdict: COMPLETE (contents printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 2) and books.json record grade-02/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| healthy food: the body does not grow on one kind of food; the food groups (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed pp. 54–57 |
+| the milk and dairy group: milk, cheeses and cream (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 58 |
+
+**Book (Iraq — Grade 2, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 8,393,811 bytes (downloaded via the TSV release record after the books.json tree route failed). Verdict: COMPLETE (introduction printed p. 3 through final vocabulary test, PDF p. 68). Companion to Book 2 above. Twin record: TSV release record (Grade 2 activity) and books.json record grade-02/gov/iraq/science-activity/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: healthy food — working with a set of foods and their groups (Iraq G2 Activity) | Iraq, *Science (Activity Book), Grade 2*, printed pp. 16–18 |
+
+**Acceptance count: taught in 12 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, keeping-healthy food-the-four-food-groups

@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -452,3 +452,53 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills the-scientific-method-observe-hypothesise-test-conclude
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the scientific way in steps: observe and ask questions, make a plan, carry out the plan, record data, draw conclusions and communicate (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 16 |
+| carrying out the plan: two matching bean plants, one watered, measuring both plants' growth (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed pp. 19–20 |
+| recording data week by week and concluding the watered plant grew (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed pp. 20–21 |
+
+**Book (Iraq — Grade 2, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 2 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 12,083,759 bytes. Verdict: COMPLETE (contents printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 2) and books.json record grade-02/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the scientific method: scientists observe, ask questions and make a plan (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed pp. 17–19 |
+| making the plan: equal amounts of water for the test plants (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 20 |
+| recording the experiment's data and measurements (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 22 |
+| drawing conclusions and communicating results with others (Iraq G2 Pupil) | Iraq, *Science — Pupil's Book, Grade 2*, printed p. 23 |
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the scientific method steps worked through in full: observe and ask, plan, carry out, record data (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 20–25 |
+| repeating the plan's execution (rock test) to be sure of the result, then concluding and communicating (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 26–27 |
+
+**Book (Iraq — Grade 4, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 4 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 216 pages, 14,286,979 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific-writing page, printed p. 213, with closing review pages to PDF p. 216). Note: this PDF's body text layer is symbol-encoded; the contents pages (printed pp. 4–5) and unit/lesson headings are legible and were used with the section-opening pages. Twin record: TSV release record (Grade 4) and books.json record grade-04/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the scientific method: scientists use scientific skills in their experiments to reach knowledge (Iraq G4 Pupil) | Iraq, *Science — Pupil's Book, Grade 4*, printed p. 10 |
+
+**Book (Iraq — Grade 5, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,982,010 bytes. Verdict: COMPLETE (introduction printed p. 3 through final enrichment, printed p. 198, closing review pages to PDF p. 200). Twin record: TSV release record (Grade 5) and books.json record grade-05/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| work like scientists: discovering diseases with the scientific skills (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed p. 10 |
+
+**Book (Iraq — Grade 6, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 208 pages, 14,736,433 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific writing, printed p. 206, closing pages to PDF p. 208). Twin record: TSV release record (Grade 6) and books.json record grade-06/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the scientific method (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed p. 10 |
+
+**Acceptance count: taught in 23 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills the-scientific-method-observe-hypothesise-test-conclude

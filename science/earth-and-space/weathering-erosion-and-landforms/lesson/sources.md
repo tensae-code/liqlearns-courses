@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia, Bangladesh, Yemen, Malaysia
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia, Bangladesh, Yemen, Malaysia, Iraq
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -192,3 +192,26 @@ Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-sp
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space weathering-erosion-and-landforms
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 5, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,982,010 bytes. Verdict: COMPLETE (introduction printed p. 3 through final enrichment, printed p. 198, closing review pages to PDF p. 200). Twin record: TSV release record (Grade 5) and books.json record grade-05/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| geological processes acting on the Earth (placement filed as NEW LESSON NEEDED — geological-processes-weathering-and-erosion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 190–197 |
+| scientific writing: protecting ancient antiquities from erosion and weathering factors (Iraq's own heritage way) (placement filed as NEW LESSON NEEDED — geological-processes-weathering-and-erosion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed p. 198 |
+
+**Book (Iraq — Grade 5, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 2,025,515 bytes. Verdict: COMPLETE (contents printed p. 4 through final chapter activities, PDF p. 92). Companion to Book 5 above. Twin record: books.json record grade-05/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: geological processes (placement filed as NEW LESSON NEEDED — geological-processes-weathering-and-erosion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G5 Activity) | Iraq, *Science (Activity Book), Grade 5*, printed pp. 90–92 |
+
+**Acceptance count: taught in 13 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — geological-processes-weathering-and-erosion — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, earth-and-space weathering-erosion-and-landforms

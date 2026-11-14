@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen, Saudi Arabia, South Sudan
+countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen, Saudi Arabia, South Sudan, Iraq
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -172,3 +172,25 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 Placement choice, on the record: the South Sudan placements filed these as "NEW LESSON NEEDED — static-electricity" — south-sudan-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so South Sudan stocks into it here, with the original slug recorded in this note, instead of a duplicate lesson being built.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 5, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,982,010 bytes. Verdict: COMPLETE (introduction printed p. 3 through final enrichment, printed p. 198, closing review pages to PDF p. 200). Twin record: TSV release record (Grade 5) and books.json record grade-05/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| static electricity (placement filed as NEW LESSON NEEDED — static-electricity-charges-by-rubbing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 136–141 |
+
+**Book (Iraq — Grade 5, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 2,025,515 bytes. Verdict: COMPLETE (contents printed p. 4 through final chapter activities, PDF p. 92). Companion to Book 5 above. Twin record: books.json record grade-05/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: static electricity (placement filed as NEW LESSON NEEDED — static-electricity-charges-by-rubbing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G5 Activity) | Iraq, *Science (Activity Book), Grade 5*, printed pp. 59–63 |
+
+**Acceptance count: taught in 10 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — static-electricity-charges-by-rubbing — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, electricity-and-magnetism static-electricity-and-lightning

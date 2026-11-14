@@ -1,6 +1,6 @@
 # Sources — Physical changes of matter
 
-countries: Cambodia, Seychelles, Kuwait, Syria, Rwanda
+countries: Cambodia, Seychelles, Kuwait, Syria, Rwanda, Iraq
 
 **Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
 
@@ -94,3 +94,25 @@ Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NE
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, materials, physical-changes-of-matter
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 4, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 4 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 216 pages, 14,286,979 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific-writing page, printed p. 213, with closing review pages to PDF p. 216). Note: this PDF's body text layer is symbol-encoded; the contents pages (printed pp. 4–5) and unit/lesson headings are legible and were used with the section-opening pages. Twin record: TSV release record (Grade 4) and books.json record grade-04/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| physical change and its properties (placement filed as NEW LESSON NEEDED — physical-changes-and-their-properties; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G4 Pupil) | Iraq, *Science — Pupil's Book, Grade 4*, printed pp. 88–93 |
+
+**Book (Iraq — Grade 4, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 4 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 100 pages, 17,865,352 bytes (downloaded via the TSV release record after the books.json tree route failed). Verdict: COMPLETE (contents printed p. 4 through the final chapter activities, PDF p. 100). Companion to Book 4 above. Twin record: TSV release record (Grade 4 activity) and books.json record grade-04/gov/iraq/science-activity/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: physical change and its properties (placement filed as NEW LESSON NEEDED — physical-changes-and-their-properties; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G4 Activity) | Iraq, *Science (Activity Book), Grade 4*, printed pp. 38–41 |
+
+**Acceptance count: taught in 6 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — physical-changes-and-their-properties — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials physical-changes-of-matter

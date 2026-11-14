@@ -1,6 +1,6 @@
 # Sources — Biological control of pests
 
-countries: Vietnam
+countries: Vietnam, Iraq
 
 **Book 1:** Chuyên đề học tập Sinh học 12 (Kết nối tri thức, NXBGD Việt Nam, ©2024) — Grade 12 Study Topics — Vietnam. Grade: grade-12 Kind as verified: student specialisation book (Vietnamese), elective companion to Sinh học 12; image-only scan, read visually as for the other Vietnam books. Repo path / source: grade-12/gov/vietnam/biology/student/study-topics.pdf (TSV twin: releases/download/mid-size-books-2/grade-12-gov-vietnam-biology-student-study-topics.pdf — same book, duplicate record, read once) Byte size: 20,184,953 bytes — matches the record's size_bytes exactly PDF pages: 83 — matches the record's 83 pages; printed-page offset: printed page = PDF page − 2 Verdict: COMPLETE — preface, contents, all 3 topics / 10 lessons including 3 projects, glossary (printed p. 79) and back cover with ISBN 978-604-0-39242-8 present. Structural summary: Topic 1 Molecular biology (overview and achievements, DNA extraction method, gene technology, a GM-products project). Topic 2 Biological control (concept and scientific bases — ecological, genetic, physiological; measures; a survey project). Topic 3 Human ecology (Sinh thái nhân văn — the value of human ecology for sustainable development in agriculture and in cities, closing project). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
 
@@ -19,3 +19,19 @@ Placement choice, on the record: this NEW LESSON was built for the Vietnam place
 Honesty (Vietnam): Book 1 (*Chuyên đề học tập Sinh học 12 (Kết nối tri thức, NXBGD Việt Nam, ©2024) — Grade 12 Study Topics*) is a student specialisation book as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
 
 Searchable tags: biology, vietnam, biological, control, of, pests
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reading: biological control — fighting pests with their natural enemies (placement filed as NEW LESSON NEEDED — biological-control-of-pests; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 60 |
+
+**Acceptance count: taught in 2 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — biological-control-of-pests — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, biology biological-control-of-pests

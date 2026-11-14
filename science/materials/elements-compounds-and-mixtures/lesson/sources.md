@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Iraq
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -409,3 +409,40 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, materials elements-compounds-and-mixtures
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 5, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,982,010 bytes. Verdict: COMPLETE (introduction printed p. 3 through final enrichment, printed p. 198, closing review pages to PDF p. 200). Twin record: TSV release record (Grade 5) and books.json record grade-05/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| elements and their types: what an element is (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 86–88 |
+| classifying elements: groups with shared properties, and a third group between them (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 89–90 |
+| common elements and their properties: oxygen, a gas found in nature (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 92–95 |
+| uses of iron and carbon (activity) (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed p. 96 |
+| chemical compounds and their types: what a compound is made of (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed pp. 102–104 |
+| how elements unite; compounds differ by the elements that made them (Iraq G5 Pupil) | Iraq, *Science — Pupil's Book, Grade 5*, printed p. 105 |
+
+**Book (Iraq — Grade 6, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 208 pages, 14,736,433 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific writing, printed p. 206, closing pages to PDF p. 208). Twin record: TSV release record (Grade 6) and books.json record grade-06/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| elements and compounds (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed pp. 102–107 |
+
+**Book (Iraq — Grade 5, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 5 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 2,025,515 bytes. Verdict: COMPLETE (contents printed p. 4 through final chapter activities, PDF p. 92). Companion to Book 5 above. Twin record: books.json record grade-05/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: elements and their types; common elements and their properties (Iraq G5 Activity) | Iraq, *Science (Activity Book), Grade 5*, printed pp. 36–43 |
+
+**Book (Iraq — Grade 6, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 5th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 1,585,312 bytes. Verdict: COMPLETE (contents printed p. 4 through final universe activities, PDF p. 92). Companion to Book 6 above. Twin record: books.json record grade-06/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: elements and compounds (Iraq G6 Activity) | Iraq, *Science (Activity Book), Grade 6*, printed pp. 40–42 |
+
+**Acceptance count: taught in 23 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials elements-compounds-and-mixtures

@@ -1,6 +1,6 @@
 # Sources — The Earth — four spheres, one system
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan, Venezuela, North Macedonia, Saudi Arabia, Vietnam, Malaysia
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan, Venezuela, North Macedonia, Saudi Arabia, Vietnam, Malaysia, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -229,3 +229,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space the-earths-four-spheres
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| our Earth: the land and the water as the parts of Earth's surface (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed pp. 176–180 |
+
+**Book (Iraq — Grade 1, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 76 pages, 3,600,283 bytes. Verdict: COMPLETE (contents printed p. 4 listing 12 activity sections, printed pp. 5–71, through the final test pages to PDF p. 76). Companion to Book 1 above; each section is an Explore activity plus a vocabulary/knowledge test for the matching pupil's-book lesson. Twin record: books.json record grade-01/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: land and water, the parts of our Earth (Iraq G1 Activity) | Iraq, *Science (Activity Book), Grade 1*, printed pp. 65–70 |
+
+**Acceptance count: taught in 15 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, earth-and-space the-earths-four-spheres

@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia, Fiji, Yemen, Vietnam, Malaysia, South Sudan
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia, Fiji, Yemen, Vietnam, Malaysia, South Sudan, Iraq
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -442,3 +442,27 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 24 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the plant makes its food: why sunlight matters to the plant (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 30–31 |
+| the plant parts that help it make food, and what the plant needs to make it (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 32–33 |
+| the leaves make the plant's food (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 34 |
+| the gas the leaves of plants give out (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 35 |
+| reading: food-making in plants and storing it — the plant stores sugar food; the radish stores food (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 42–43 |
+
+**Book (Iraq — Grade 3, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 2,715,239 bytes. Verdict: COMPLETE (contents printed p. 4 through final lesson review, PDF p. 68). Companion to Book 3 above; its body text layer is partly symbol-encoded, so activities are filed at section level from the legible contents and section-opening pages. Twin record: books.json record grade-03/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: feeding in plants — experiment with two plants to show what the plant needs to make food (light) (Iraq G3 Activity) | Iraq, *Science (Activity Book), Grade 3*, printed pp. 5–10 |
+
+**Acceptance count: taught in 25 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, the-human-body photosynthesis-and-its-partnership-with-respiration

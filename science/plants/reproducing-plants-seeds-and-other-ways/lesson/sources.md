@@ -1,6 +1,6 @@
 # Sources — Reproducing plants — seeds and other ways
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic, China, Syria, Vietnam
+countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic, China, Syria, Vietnam, Iraq
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -138,3 +138,35 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, plants reproducing-plants-seeds-and-other-ways
 
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants grow, change and reproduce; some make seeds — bean and broad bean grow from seeds (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed pp. 46–48 |
+| a new plant from a seed resembles the plant the seed came from (orange) (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 49 |
+| reproducing plants without seeds: planting a cut piece of the plant (cuttings) (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed p. 50 |
+
+**Book (Iraq — Grade 6, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 208 pages, 14,736,433 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific writing, printed p. 206, closing pages to PDF p. 208). Twin record: TSV release record (Grade 6) and books.json record grade-06/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural reproduction in plants: reproduction by seeds (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed pp. 18–23 |
+| vegetative reproduction in plants (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed pp. 24–29 |
+| reading: plants that reproduce in a strange way (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Pupil) | Iraq, *Science — Pupil's Book, Grade 6*, printed p. 30 |
+
+**Book (Iraq — Grade 6, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 6 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 5th revised edition, 1445 AH / 2023 CE. No ISBN printed. PDF 92 pages, 1,585,312 bytes. Verdict: COMPLETE (contents printed p. 4 through final universe activities, PDF p. 92). Companion to Book 6 above. Twin record: books.json record grade-06/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: stages of seed germination — bean seed in a glass cup lined with coloured paper and cotton, water without covering the seed, watch daily for five days and draw the changes in a table (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Activity) | Iraq, *Science (Activity Book), Grade 6*, printed p. 5 |
+| activity: repeat the germination steps with pea and chickpea seeds and compare results in a table (placement filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G6 Activity) | Iraq, *Science (Activity Book), Grade 6*, printed p. 6 |
+
+**Acceptance count: taught in 7 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — how-plants-grow-and-reproduce — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, plants reproducing-plants-seeds-and-other-ways

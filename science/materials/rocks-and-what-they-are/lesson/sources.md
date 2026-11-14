@@ -1,6 +1,6 @@
 # Sources — Rocks — and what they are
 
-countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Syria
+countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Syria, Iraq
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -109,3 +109,27 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — rocks-
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, rocks and what they are
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rocks: their properties (placement filed as NEW LESSON NEEDED — rocks-and-their-kinds; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 166–168 |
+| kinds of rocks, examined with a hand lens (placement filed as NEW LESSON NEEDED — rocks-and-their-kinds; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 169 |
+| uses of rocks; hard materials used in decoration (placement filed as NEW LESSON NEEDED — rocks-and-their-kinds; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 170–171 |
+
+**Book (Iraq — Grade 3, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 2,715,239 bytes. Verdict: COMPLETE (contents printed p. 4 through final lesson review, PDF p. 68). Companion to Book 3 above; its body text layer is partly symbol-encoded, so activities are filed at section level from the legible contents and section-opening pages. Twin record: books.json record grade-03/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: rocks and soil — examining and testing soil with water (placement filed as NEW LESSON NEEDED — rocks-and-their-kinds; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iraq G3 Activity) | Iraq, *Science (Activity Book), Grade 3*, printed pp. 53–58 |
+
+**Acceptance count: taught in 5 countries — Iraq added.**
+
+Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON NEEDED — rocks-and-their-kinds — iraq-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials rocks-and-what-they-are

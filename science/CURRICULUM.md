@@ -595,6 +595,9 @@ solar-system comparison lessons.
 
 107. **What a vacuum is** (`materials/what-a-vacuum-is`) — a vacuum as a space with no matter in it — no life can be there — used to explain the vacuum flask, where no conduction or convection can happen without matter (South Sudan, Primary 8 — *South Sudan Primary Science, Pupil's Book 8*, 4.5 Vacuum, SS P8 SB, printed p. 86; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
 
+108. **Dalton and the atomic idea** (`materials/dalton-and-the-atomic-idea`) — Dalton — the creator in science named by Iraq's Grade 6 pupil's book in its scientific writing after the atom and chemical-reaction chapters (Iraq — *Science — Pupil's Book, Grade 6*, printed p. 108; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+109. **Alloys and plastics** (`materials/alloys-and-plastics`) — alloys and plastics (lada'in) — the reading Iraq's Grade 6 pupil's book sets after its chemical-reaction chapters, on the made materials of modern life (Iraq — *Science — Pupil's Book, Grade 6*, printed p. 125; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -782,6 +785,11 @@ solar-system comparison lessons.
 
 44. **Parts of a seed** (`plants/parts-of-a-seed`) — the structure of the seed: bean and maize seed parts — testa, micropyle, scar, embryo, plumule, radicle, cotyledon, endosperm — and monocotyledons against dicotyledons (South Sudan, Primary 4 — *Primary Science, Pupil's Book 4*, 3.1 Structure of the seed: bean and maize seed parts (testa, micropyle, scar, embryo, plumule, radicle, cotyledon, endosperm) and monocotyledons against dicotyledons, SS P4 SB, printed p. 38; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
 
+45. **Life cycles of non-flowering plants** (`plants/life-cycles-of-non-flowering-plants`) — the life cycles of plants that do not flower, as Iraq's Grade 4 pupil's book teaches them as a chapter of their own, with the activity book's matching activity (Iraq — *Science — Pupil's Book, Grade 4*, printed pp. 54–59; *Science (Activity Book), Grade 4*, printed pp. 21–26; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+46. **Symmetry in flowers and animals** (`plants/symmetry-in-flowers-and-animals`) — symmetry — matching halves — read first in flowers and then in animal shapes, in the two readings of Iraq's Grade 5 pupil's book (Iraq — *Science — Pupil's Book, Grade 5*, printed p. 30; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+47. **Plant reproduction by cuttings, grafting and offshoots** (`plants/plant-reproduction-by-cuttings-grafting-and-offshoots`) — artificial reproduction in plants — by cuttings and grafting, by offshoots, and by leaves — as Iraq's Grade 6 pupil's book teaches it after natural reproduction, with the activity book's matching activity (Iraq — *Science — Pupil's Book, Grade 6*, printed pp. 34–39; *Science (Activity Book), Grade 6*, printed pp. 9–19; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 9 — Animals
 
 1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…
@@ -864,6 +872,11 @@ solar-system comparison lessons.
 
 60. **How feeding shows in teeth, beaks and mouthparts** (`animals/how-feeding-shows-in-teeth-beaks-and-mouthparts`) — reading an animal's feeding group off its mouth: herbivore and carnivore teeth, birds' beaks — grain, filter, flesh, nectar and fruit feeders — and insects' mouthparts: chewing, piercing-sucking, sponging (South Sudan, Primary 4 — *Primary Science, Pupil's Book 4*, 2.1 the book's own way: reading an animal's feeding group off its teeth (grazers and browsers, ruminants, canines and claws), birds' beaks (grain eaters, filter feeders, flesh eaters, nectar and fruit feeders) and insects' mouthparts (chewing, piercing-sucking, sponging), SS P4 SB, printed p. 11; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
 
+61. **Growth and reproduction in humans and animals** (`animals/growth-and-reproduction-in-humans-and-animals`) — how humans and animals grow, change and reproduce — offspring resembling their parents, by birth or by eggs — as Iraq's Grade 1 pupil's book and activity book teach it (Iraq — *Science — Pupil's Book, Grade 1*, printed pp. 40–42; *Science (Activity Book), Grade 1*, printed pp. 11–16; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+62. **Life cycles of vertebrates** (`animals/life-cycles-of-vertebrates`) — the life cycles of vertebrate animals — the animals with backbones — as Iraq's Grade 4 pupil's book teaches them as a chapter of their own, with the activity book's matching activity (Iraq — *Science — Pupil's Book, Grade 4*, printed pp. 78–82; *Science (Activity Book), Grade 4*, printed pp. 34–37; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+63. **Strange life cycles in animals** (`animals/strange-life-cycles-in-animals`) — animals that have strange life cycles — the reading Iraq's Grade 4 pupil's book sets after its life-cycle chapters, on the cycles that do not follow the plain pattern (Iraq — *Science — Pupil's Book, Grade 4*, printed p. 83; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 10 — Natural Resources
 
 1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
@@ -891,6 +904,7 @@ solar-system comparison lessons.
 
 20. **Ocean resources and overfishing** (`natural-resources/ocean-resources-and-overfishing`) — Malaysia's seafood and aquaculture animals, and what overfishing would do to the sea's produce (Malaysia, Grade 11 (Form 5) — *Sains Tambahan Tingkatan 5*, printed p. 185; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
+21. **How fossil fuels formed** (`natural-resources/how-fossil-fuels-formed`) — the formation of fossil fuel over long ages, as Iraq's Grade 4 pupil's book teaches it, with the activity book's work on fossil fuel sources and forms (Iraq — *Science — Pupil's Book, Grade 4*, printed pp. 120–125; *Science (Activity Book), Grade 4*, printed pp. 54–61; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 11 — Our Environment
 
 1. **Caring for our environment: soil, water and air** (`our-environment/caring-for-our-environment-soil-water-and-air`) — care, resource by resource: stopping soil erosion (eroded land against protected land), keeping water sources unpolluted, keeping the air clean — w…
@@ -1024,6 +1038,9 @@ solar-system comparison lessons.
 
 112. **Climate change and living things** (`our-environment/climate-change-and-living-things`) — the effects of climate change on animals and plants: drying and rotting of plants, floods, drought forcing migration and bringing lack of pasture and water — with plants themselves holding back climate change (South Sudan, Primary 4 — *Primary Science, Pupil's Book 4*, 2.4 Effects of climate change on animals and plants: drying and rotting of plants, floods, drought forcing migration, SS P4 SB, printed p. 35; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
 
+113. **Land environments and their kinds** (`our-environment/land-environments-and-their-kinds`) — the kinds of land environment — forest and grassland among them — and the sorting of land environments into natural ones and ones made by people, as Iraq's Grade 1–2 pupil's and activity books teach it (Iraq — *Science — Pupil's Book, Grade 1*, printed pp. 88–91; *Science — Pupil's Book, Grade 2*, printed pp. 66–69; *Science (Activity Book), Grade 1*, printed pp. 41–46; *Science (Activity Book), Grade 2*, printed pp. 19–21; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+114. **Water environments — fresh and salt** (`our-environment/water-environments-fresh-and-salt`) — the kinds of water environment — rivers, seas, oceans, lakes and marshes — most of them salty and some fresh, as Iraq's Grade 1–2 pupil's and activity books teach it, with the Euphrates as Iraq's own example (Iraq — *Science — Pupil's Book, Grade 1*, printed pp. 92–95; *Science — Pupil's Book, Grade 2*, printed pp. 82–84; *Science (Activity Book), Grade 1*, printed pp. 47–52; *Science (Activity Book), Grade 2*, printed pp. 25–27; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -1221,6 +1238,7 @@ solar-system comparison lessons.
 
 94. **Home nursing — caring for the sick at home** (`keeping-healthy/home-nursing-caring-for-the-sick-at-home`) — home nursing taught as its own topic: caring for a sick person at home, as a skill of the home, in the Primary 7 health unit (South Sudan, Primary 7 — *South Sudan Primary Science, Pupil's Book 7*, 2.6 Home nursing, SS P7 SB, printed p. 63; built for the South Sudan placements, expansion-science-2026-11-13/south-sudan-placements.md)
 
+95. **Diseases shared between humans and animals** (`keeping-healthy/diseases-shared-between-humans-and-animals`) — diseases common to humans and animals — one set of diseases that both can catch — as Iraq's Grade 5 pupil's book teaches it as a skills investigation inside its disease unit (Iraq — *Science — Pupil's Book, Grade 5*, printed p. 11; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 15 — Science Skills
 
 1. **Debating change: new foods or old ways?** (`science-skills/debating-change-new-foods-or-old-ways`) — the book prints a debate — 'The New One and the Old One' — over whether food culture must change: new productive crops against slow-changing habits…
@@ -1306,6 +1324,19 @@ solar-system comparison lessons.
 70. **Descriptive writing — describing a material** (`science-skills/descriptive-writing-describing-a-material`) — scientific writing, "I describe matter": describe a slice of pizza to someone who has never seen it, through measurable observations; good descriptive writing uses words that tell the thing's appearance, sounds and smell,… (Saudi Arabia, Grade 3, Part 2 — *Science, Grade 3, Part 2*, printed pp. 84–85; built for the Saudi Arabia placements, expansion-science-2026-11-13/saudi-arabia-placements.md)
 71. **The camera and the computer as science tools** (`science-skills/the-camera-and-the-computer-as-science-tools`) — the reference's other two tools: the camera helps watch and record the changes that happen during an experiment or a field study when they are too fast or too slow, so studying photographs lets us understand changes over a… (Saudi Arabia, Grade 3, Part 2 — *Science, Grade 3, Part 2*, printed pp. 190–191; built for the Saudi Arabia placements, expansion-science-2026-11-13/saudi-arabia-placements.md)
 
+72. **Sorting and classifying things** (`science-skills/sorting-and-classifying-things`) — classifying — gathering things and putting similar ones together into groups, as Iraq's Grade 1–3 pupil's books teach it as one of the first science skills (Iraq — *Science — Pupil's Book, Grade 1*, printed p. 10; *Science — Pupil's Book, Grade 2*, printed p. 15; *Science — Pupil's Book, Grade 3*, printed p. 11; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+73. **Putting things in order — sequence** (`science-skills/putting-things-in-order-sequence`) — ordering — deciding what comes first, second and last, and how things follow one another, as Iraq's Grade 1–3 pupil's books teach it as one of the first science skills (Iraq — *Science — Pupil's Book, Grade 1*, printed p. 11; *Science — Pupil's Book, Grade 2*, printed p. 13; *Science — Pupil's Book, Grade 3*, printed p. 12; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+74. **Drawing conclusions from evidence** (`science-skills/drawing-conclusions-from-evidence`) — inferring and concluding — using relations and analysed data to reach a judgement, as Iraq's Grade 3 and Grade 5 pupil's books teach it inside their science-skills units (Iraq — *Science — Pupil's Book, Grade 3*, printed p. 19; *Science — Pupil's Book, Grade 5*, printed p. 14; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+75. **Science jobs — the marine biologist** (`science-skills/science-jobs-marine-biologist`) — the marine biologist — the scientist who studies the tiny living things in seas and oceans, as Iraq's Grade 2 pupil's book presents the job in an enrichment reading (Iraq — *Science — Pupil's Book, Grade 2*, printed pp. 94–95; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+76. **Science jobs — working with minerals** (`science-skills/science-jobs-working-with-minerals`) — the jobs connected with minerals, as Iraq's Grade 3 pupil's book presents them in its closing jobs-linked-with-science page after the minerals lessons (Iraq — *Science — Pupil's Book, Grade 3*, printed p. 194; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+77. **Science jobs — doctors of nerves and bones** (`science-skills/science-jobs-doctors-of-nerves-and-bones`) — the nerve doctor and the bone doctor — the specialist doctors named in Iraq's Grade 6 pupil's book reading after its nervous, skeletal and muscular system lessons (Iraq — *Science — Pupil's Book, Grade 6*, printed p. 72; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+78. **Jabir ibn Hayyan and chemistry** (`science-skills/jabir-ibn-hayyan-and-chemistry`) — Jabir ibn Hayyan, scholar of chemistry — presented by Iraq's Grade 5 pupil's book in its jobs-linked-with-science page inside the elements and compounds unit (Iraq — *Science — Pupil's Book, Grade 5*, printed p. 98; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 16 — Biology
 
 1. **A balanced diet — every group, in proportion** (`biology/a-balanced-diet`) — a balanced diet contains all nutrient groups in the right proportions for the person eating it.
@@ -3195,6 +3226,13 @@ solar-system comparison lessons.
 
 103. **Oceanography — the world ocean** (`earth-and-space/oceanography-the-world-ocean`) — the earliest explorers, the main oceans and Southeast Asia's seas, the ocean floor mapped zone by zone, seawater's temperature, pressure and density, and ocean life classified by size, mobility and location (Malaysia, Grade 11 (Form 5) — *Sains Tambahan Tingkatan 5*, printed p. 164; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
+104. **How land changes** (`earth-and-space/how-land-changes`) — how the land's shape changes — natural events changing the land, and sand dunes formed by wind — as Iraq's Grade 1 pupil's book teaches it at the end of its Earth unit (Iraq — *Science — Pupil's Book, Grade 1*, printed pp. 182–184; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+105. **How the Arabs studied the solar system** (`earth-and-space/how-the-arabs-studied-the-solar-system`) — how the Arabs took an interest in the solar system — the scientific-writing close of Iraq's Grade 4 pupil's book, after its solar-system chapters (Iraq — *Science — Pupil's Book, Grade 4*, printed p. 213; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+106. **Seas and oceans** (`earth-and-space/seas-and-oceans`) — the seas and oceans, taught by Iraq's Grade 5 pupil's book inside its Earth-and-its-resources unit, with the activity book's matching activity (Iraq — *Science — Pupil's Book, Grade 5*, printed pp. 160–167; *Science (Activity Book), Grade 5*, printed pp. 74–78; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
+
+107. **Tools astronauts use** (`earth-and-space/tools-astronauts-use`) — the tools astronauts use — the modern technologies reading of Iraq's Grade 6 pupil's book, set among its energy and space chapters (Iraq — *Science — Pupil's Book, Grade 6*, printed p. 142; built for the Iraq placements, expansion-science-2026-11-13/iraq-placements.md)
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)

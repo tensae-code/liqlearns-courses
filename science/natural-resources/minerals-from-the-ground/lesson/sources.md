@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -365,3 +365,27 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, natural-resources minerals-from-the-ground
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 3, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 196 pages, 13,538,353 bytes. Verdict: COMPLETE (introduction printed p. 4 through closing page, printed p. 196). Twin record: TSV release record (Grade 3) and books.json record grade-03/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| minerals: what a mineral is (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 182–184 |
+| properties of minerals (goldsmiths' minerals named) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 185 |
+| a mineral's lustre is linked to light (falling light activity) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 186 |
+| uses of minerals: how minerals are used; the link between a mineral's properties and its uses (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed pp. 188–191 |
+| where we get minerals from (activity) (Iraq G3 Pupil) | Iraq, *Science — Pupil's Book, Grade 3*, printed p. 192 |
+
+**Book (Iraq — Grade 3, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 3 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 68 pages, 2,715,239 bytes. Verdict: COMPLETE (contents printed p. 4 through final lesson review, PDF p. 68). Companion to Book 3 above; its body text layer is partly symbol-encoded, so activities are filed at section level from the legible contents and section-opening pages. Twin record: books.json record grade-03/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: minerals — properties and uses (Iraq G3 Activity) | Iraq, *Science (Activity Book), Grade 3*, printed pp. 59–63 |
+
+**Acceptance count: taught in 21 countries — Iraq added.**
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, natural-resources minerals-from-the-ground

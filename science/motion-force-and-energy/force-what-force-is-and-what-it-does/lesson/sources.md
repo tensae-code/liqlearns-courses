@@ -639,3 +639,35 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, motion-force-and-energy force-what-force-is-and-what-it-does
+
+## Iraq growth (2026-11-14, General Science expansion)
+
+**Book (Iraq — Grade 1, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 200 pages, 14,288,430 bytes. Verdict: COMPLETE (safety precautions p. 6 through final safety page, printed p. 200). Twin record: TSV release record (grade-01) and books.json record grade-01/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| force: what makes things move; push moves a thing away from me, pull brings it toward me (Iraq G1 Pupil) | Iraq, *Science — Pupil's Book, Grade 1*, printed pp. 168–171 |
+
+**Book (Iraq — Grade 4, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 4 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 216 pages, 14,286,979 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific-writing page, printed p. 213, with closing review pages to PDF p. 216). Note: this PDF's body text layer is symbol-encoded; the contents pages (printed pp. 4–5) and unit/lesson headings are legible and were used with the section-opening pages. Twin record: TSV release record (Grade 4) and books.json record grade-04/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the effect of force on the movement of bodies (Iraq G4 Pupil) | Iraq, *Science — Pupil's Book, Grade 4*, printed pp. 152–157 |
+
+**Book (Iraq — Grade 1, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 1 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 9th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 76 pages, 3,600,283 bytes. Verdict: COMPLETE (contents printed p. 4 listing 12 activity sections, printed pp. 5–71, through the final test pages to PDF p. 76). Companion to Book 1 above; each section is an Explore activity plus a vocabulary/knowledge test for the matching pupil's-book lesson. Twin record: books.json record grade-01/gov/iraq/science-activity/student/full-year.pdf is this book; it has no TSV twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: position, movement and force (Iraq G1 Activity) | Iraq, *Science (Activity Book), Grade 1*, printed pp. 59–64 |
+
+**Book (Iraq — Grade 4, activity book):** Title as printed: العلوم (كتاب النشاط) — Science (Activity Book), Grade 4 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 6th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 100 pages, 17,865,352 bytes (downloaded via the TSV release record after the books.json tree route failed). Verdict: COMPLETE (contents printed p. 4 through the final chapter activities, PDF p. 100). Companion to Book 4 above. Twin record: TSV release record (Grade 4 activity) and books.json record grade-04/gov/iraq/science-activity/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: the effect of force on bodies' movement (Iraq G4 Activity) | Iraq, *Science (Activity Book), Grade 4*, printed pp. 70–73 |
+
+**Acceptance count unchanged: taught in 32 countries.** Iraq was already a counted country in this lesson through its earlier-wave books named in the sections above; the Iraq primary books in this section add their provenance here, counted once.
+
+Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, motion-force-and-energy force-what-force-is-and-what-it-does
