@@ -1,6 +1,6 @@
 # Sources — Computer hardware — four categories
 
-countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan
+countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan
 
 **Book 6:** *Информатика — учебник для 5 класса средней общеобразовательной школы (Informatika, Grade 5)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: Б. Болтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2008. ISBN 978-9943-05-161-4. 73 PDF pages. Verdict: COMPLETE. Scanned image-only; read via title/imprint/cover renders and the book's complete printed contents at reading resolution, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by Muxtor Mahkamov. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 7:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Parts 1–2 — hardware and input devices | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 19–20 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan
 | Chapter 2, Lesson 3 "Components of the computer" | Afghanistan, *Computer, Grade 11*, printed p. 11 |
 | Lesson 4: The computer's components (hardware in five units — input, memory, processing, storage, output — and software in two kinds) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 24 |
 | Урок 2 "Компьютер. Основные устройства компьютера и их функции" | Uzbekistan, *Informatika, Grade 5*, printed p. 8 |
+| Unit 1.4 Types of computer hardware classified by function | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 11 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan, Fiji).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -36,4 +39,6 @@ Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book fo
 
 Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety and hygiene before the machine is even described, and Paint gets five of the seventeen lessons — drawing is the grade-5 child's main creative tool, with keyboard training on a typing trainer in between. The Boltaev-team informatics line runs from keyboard trainers and Paint in Grades 5–6 to a full Pascal course in Grades 8–9; this book is its Russian-language edition.
 
-Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5, fiji, years 7-8

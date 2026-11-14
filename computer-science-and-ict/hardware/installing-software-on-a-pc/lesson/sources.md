@@ -1,6 +1,6 @@
 # Sources — Installing software on a PC
 
-countries: Ethiopia, Mozambique, Egypt
+countries: Ethiopia, Mozambique, Egypt, Fiji
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Mozambique, Egypt
 
 **Book 6:** *Activity and Exercises Book — Computer and ICT, First grade preparatory, First Term 2025/2026* (student book, Arabic — the activities / workbook companion to the Grade 7 Term 1 student book) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 38 PDF pages. Verdict: COMPLETE — workbook mirroring student-book Lessons 1-9 (no activity set for Lesson 10 project). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trusted sources first | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 137–138 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Mozambique, Egypt
 | Unit 2 Computer Software, Topic Operating System, Lesson 1: Installing the Operating Systems (filed as software/installing-microsoft-windows; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 58 (teacher guide — evidence, PARTIAL) |
 | Lesson 4 Installation and removal of software and digital peripherals (from CD/DVD, downloaded file, compressed file) | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 27 |
 | Activity set 4 Installation and removal of software and digital peripherals | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 13 |
+| 4.4 Installing Hardware and Software Components | Fiji, *Computer Education, Year 13*, printed p. 64 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mozambique, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Egypt, Fiji).**
 
 Teacher-guide material is labelled (teacher guide — evidence) where it appears and never counts as pupil-taught. The student book uses the number "Activity 5.2" twice in this unit (for the uninstalling activity and again for the software-troubleshooting activity); the lesson teaches the procedures themselves, not the activity numbers.
 
@@ -36,4 +39,6 @@ Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs a
 
 Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued alongside the student book; the student book directs pupils to it by activity number after each sub-topic. The workbook is counted as its own book and mirrors the student book lesson by lesson (Lessons 1–9; no activity set for the Lesson 10 project).
 
-Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13

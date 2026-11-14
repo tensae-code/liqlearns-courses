@@ -1,6 +1,6 @@
 # Sources — if…elif…else — a chain of choices
 
-countries: Ethiopia, North Macedonia, Iraq, Egypt
+countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt
 
 **Book 6:** *Computer and Information Technology — Second grade preparatory, Second Term 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 80 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chain — first true block wins | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 173–176 (student placement item 122) |
@@ -24,8 +26,9 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt
 | Unit 3 Ch.2 Lesson 1 else-if chains | Iraq, *Computer, Grade 8*, printed p. 92 |
 | 12-4 Application of Programming [1] (Python) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 168 |
 | Unit 4 Lesson 2 Conditional Statements in Python | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 52 |
+| 6.2 Selection statements in C++ (if, else if: grade from a mark) | Fiji, *Computer Education, Year 13*, printed p. 139 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Iraq, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the type-puzzle key — a variable holding a string makes only the string-type comparison true (guide printed pp. 122–128). NOTE on the marks chain: the student review question asks pass at 50 or above (≥ 50); this lesson's chain follows the student wording (Satisfactory from 50). The teacher guide's keyed review program uses mark > 50 — a guide fault, flagged fully in the breakpoints/debugging lesson's sources and NOT followed here. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -37,4 +40,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from the neuron up — artificial neuron, its role in AI — then Python for data analysis and even encryption with XOR, a depth most countries save for secondary school.
 
-Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13

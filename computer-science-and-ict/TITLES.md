@@ -1005,3 +1005,25 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Egypt): Media Literacy and Types of Media · Disclosure and Use of Personal Information · Your Digital Project — Capstone · From an Idea to a Digital Project
 
 **New Technologies** (ICT expansion, from Egypt): Sensors in Daily Life · Technology for Safety and Disaster Prevention · Generative AI — What It Is and How to Use It · Creating a Website with AI Help
+
+**Hardware** (ICT expansion, from Fiji): The Motherboard — the Main Circuit Board · Why We Install and Upgrade Hardware and Software
+
+**Software** (ICT expansion, from Fiji): Using Windows — Icons and Folders on the Desktop · Integrated Packages and Software Suites · Desktop Publishing Programs
+
+**Word Processing** (ICT expansion, from Fiji): Intermediate Word Features — WordArt and Wrapping Text
+
+**Spreadsheets** (ICT expansion, from Fiji): Moving Around a Workbook
+
+**Presentations** (ICT expansion, from Fiji): Headers and Footers on Slides, Handouts and Notes · Printing Handouts of Your Slides
+
+**Internet and the Web** (ICT expansion, from Fiji): Searching and Downloading Information — Saving a Webpage · Forms of Online Communication · Web Authoring Programs and HTML Editors · Instant Messaging and Online Chat · Web Utilities — Plug-ins, Filters and File Transfer · Blogs and Wikis · CSS — Styling the Look of a Webpage
+
+**Networks** (ICT expansion, from Fiji): Organisational Networks
+
+**Databases** (ICT expansion, from Fiji): Features of a Database · Databases in Everyday Life · Information Retrieval — Getting Stored Information Back · Database Security · Database Uses and Issues
+
+**Programming** (ICT expansion, from Fiji): Visual Basic Application Files · Writing Good Visual Basic Applications · More Controls in Visual Basic · Visual Basic — Hands-on Programming Examples · General Procedures in Visual Basic · Menus in a Visual Basic Application · The Systems Life Cycle · Systems Phase 1 — Preliminary Investigation · Systems Phase 2 — Systems Analysis · Systems Phase 3 — System Design · Systems Phase 4 — System Development · Systems Phase 5 — System Implementation · Systems Phase 6 — System Maintenance · Prototyping and Rapid Application Development · Your First C++ Program
+
+**Computers in Society** (ICT expansion, from Fiji): Unethical Use of Information and Technology · Using Technology Ethically · Computers Helping Learners with Disabilities · Information Processing and Decision Making · Cyber Culture · Careers in Computing · The Five Functions of an Organisation · Management Levels in an Organisation · How Information Flows in an Organisation · Levels of Computer-Based Information Systems
+
+**New Technologies** (ICT expansion, from Fiji): Artificial Intelligence and Virtual Reality — First Look · Switching to the Cloud for Data Management

@@ -1,6 +1,6 @@
 # Sources — Ethics and law in information systems
 
-countries: Ethiopia, Nepal, China, Egypt
+countries: Ethiopia, Nepal, China, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal, China, Egypt
 
 **Book 5:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ethics, and why information systems raise questions | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 2 (student placement item 2) |
@@ -20,11 +22,14 @@ countries: Ethiopia, Nepal, China, Egypt
 | Unit 5 §5.6, Ethics in AI (Bias, Privacy, and Security) | Nepal, *Computer Science, Class 10*, printed p. 240 |
 | Information Society Moral Norms; Information Society Laws and Regulations | China, *IT Compulsory 2*, Chapter 4 §4.2.3–4.2.4, printed p. 136 |
 | 1-2 Information Ethics | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 8 |
+| Unit 7.1 Define computer ethics | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 190 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, China, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, China, Egypt, Fiji).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8

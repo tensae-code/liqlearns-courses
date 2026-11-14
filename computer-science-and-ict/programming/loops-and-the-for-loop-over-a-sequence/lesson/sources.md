@@ -1,6 +1,6 @@
 # Sources — Loops — and the for loop over a sequence
 
-countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt
+countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt
 
 **Book 8:** *Computer and Information Technology — Second grade preparatory, Second Term 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 80 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 9:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 10:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why loops exist — 50 students, one grading block | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
@@ -29,8 +33,10 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt
 | Unit 4, 4-12: Branching by counter in BASIC — FOR...NEXT and STEP | Sudan, *Computer Science, Grade 11*, printed p. 58 |
 | Урок 53 "Оператор цикла с параметром" (the counted loop) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 101 |
 | Unit 4 Lesson 3 Loops and Functions | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 56 |
+| 5.9 Repetition Structures | Fiji, *Computer Studies, Year 12*, printed p. 111 |
+| 6.2 For loops in C++ (fixed-count repetition) | Fiji, *Computer Education, Year 13*, printed p. 144 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 1: counting introduced as the real-world looping problem — start at 1, add 1, repeat until 100 (guide printed pp. 134–139). All code shapes in this lesson were checked in Python 3. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -47,4 +53,8 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from the neuron up — artificial neuron, its role in AI — then Python for data analysis and even encryption with XOR, a depth most countries save for secondary school.
 
-Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8
+Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
+
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13

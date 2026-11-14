@@ -1,6 +1,6 @@
 # Sources — The while loop — and the increment that ends it
 
-countries: Ethiopia, North Macedonia, Uzbekistan
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan
 
 **Book 4:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 5:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The while shape — test first, every time | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 184–185 (student placement item 128) |
@@ -18,8 +20,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan
 | "The while Loop (with practice tasks)" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.27, printed p. 175 |
 | Урок 54 "Оператор цикла по условию" (the conditional loop) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 103 |
 | Урок 55 "Повторение пройденного материала" (review) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 105 |
+| 6.2 While loops in C++ | Fiji, *Computer Education, Year 13*, printed p. 142 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Uzbekistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 2: the keyed point that the while-loop activity and the for-loop activity solve the same problem with the same output — two roads to one output (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -28,4 +31,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13

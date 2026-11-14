@@ -1,6 +1,6 @@
 # Sources — Creating a table and entering records in Access
 
-countries: Ethiopia, Belarus, Sudan
+countries: Ethiopia, Belarus, Sudan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,18 +10,24 @@ countries: Ethiopia, Belarus, Sudan
 
 **Book 4:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 5:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 6:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — create: open the database; click Table Design on the Create menu; enter the field names; set each field's data type (text, number, date/time, currency and so on — the type is itself a check, since a Text field will not accept a number); field names unique in a table; a table needs at least two fields | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 64–65 |
 | Sub lessons 1–2 — save and name the table; a primary key is set by selecting the field in Design view and clicking the Primary Key button | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 64–65 |
 | Sub lesson 3 — enter data: open the table in Datasheet View and type the values record by record; the practice builds the Student, Teacher and Grade tables in a database named after the pupil's school | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 64–65 |
+| Unit 6.5 Creating tables and entering records in Access | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 181 |
+| 3.6 Tables, fields and records | Fiji, *Computer Education, Year 11*, printed p. 71 |
 
 | Sub lesson 4 — every field gets a name and a data type; matches: residence id a four-digit number, first name text; age integer, name text, price real/currency, date of birth date, height integer or real, grade level integer, telephone number text; Access offers text, integer, real, date, currency, yes/no | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 61–62 |
 | Sub lesson 4 — the Access SQL types in detail: CHAR (≤255), TEXT (≤63,999), INTEGER/INT range, DATETIME years 100–9999, CURRENCY 8 bytes, COUNTER 4 bytes, Yes/No 1 bit | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 70–71 |
 | § 10.2 "Стварэнне структуры табліцы" (creating the table structure, in Access) | Belarus, *Інфарматыка. 11 клас*, § 10.2, printed p. 111 |
 | Unit 2 Lesson 2: Tables in Access | Sudan, *ICT, Grade 7*, printed p. 23 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Sudan, Fiji).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -31,4 +37,8 @@ Grade 12 growth (2026-11-12, Wave F3): sub lesson 4 is pupil-taught from the Gra
 
 Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
 
-Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11

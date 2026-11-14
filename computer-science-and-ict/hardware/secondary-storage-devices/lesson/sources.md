@@ -1,6 +1,6 @@
 # Sources — Hard disk, optical disk, flash disk and SD card
 
-countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan
+countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan
 
 **Book 7:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hard disk, optical disk, flash disk and SD card | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 24–26 (teacher evidence: guide printed pp. 31–32, 34) |
@@ -25,8 +27,9 @@ countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan
 | Unit 1 Ch.2 Lesson 2 Storage units | Iraq, *Computer, Grade 8*, printed p. 23 |
 | Unit 1 Lesson 3: Storage units in the computer (hard disk and backup storage) | Sudan, *ICT, Grade 5*, printed p. 6 |
 | Урок 21 "Работа компьютера с внешней памятью" (the computer working with external memory) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 88 |
+| 1.2.4 Secondary Storage | Fiji, *Computer Education, Year 11*, printed p. 26 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -41,4 +44,6 @@ Sudan's own way (Grade 5): a short, highly practical Arabic primary series that 
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: hard disk, optical disk, flash disk and sd card, hardware, grade 7, information technology, ict, ethiopia, yemen, grade 10, saudi arabia, grade 3, iraq, grade 8, sudan, grade 5, uzbekistan, grade 8
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Searchable tags: hard disk, optical disk, flash disk and sd card, hardware, grade 7, information technology, ict, ethiopia, yemen, grade 10, saudi arabia, grade 3, iraq, grade 8, sudan, grade 5, uzbekistan, grade 8, fiji, year 11

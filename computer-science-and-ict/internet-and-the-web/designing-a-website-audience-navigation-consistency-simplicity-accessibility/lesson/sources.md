@@ -1,6 +1,6 @@
 # Sources — Designing a website — audience, navigation, consistency, simplicity, accessibility
 
-countries: Ethiopia, Belarus, Egypt
+countries: Ethiopia, Belarus, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Belarus, Egypt
 
 **Book 6:** *Information and Communication Technology — The Web Site Design Project, Second Year Secondary, First Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education, Centre for Curriculum & Instructional Materials Development, 2025-2026. No ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What website design is | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 78–79 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Belarus, Egypt
 | Unit 2 Lesson 1 Principles of Designing Professional and Attractive Website Interfaces | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 41 |
 | Unit 4 Lesson 5 How Do I Design a Simple and Attractive Website? | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 38 |
 | Unit 1, Planning the Project Site "Illustrated Dictionary of Computer Terms" | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 18 (PDF page) |
+| 5.2 Web Development (designer, writer, HTML author, information architect roles) | Fiji, *Computer Education, Year 13*, printed p. 100 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Egypt, Fiji).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -38,4 +41,6 @@ Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organise
 
 Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whole term is one production project — an "Illustrated Dictionary of Computer Terms" website — built with Expression Web, HTML and PHP pages over a MySQL database, including a working Add_Term.php page.
 
-Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13

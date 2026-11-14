@@ -1,6 +1,6 @@
 # Sources — Safety signs and hazards in the computer lab
 
-countries: Ethiopia, Uganda, Egypt
+countries: Ethiopia, Uganda, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Uganda, Egypt
 
 **Book 5:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Safe workplace, hazard risks, manuals, occupational health and safety | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.59 |
@@ -20,11 +22,14 @@ countries: Ethiopia, Uganda, Egypt
 | ICT safety precautions (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 8 (teacher guide — evidence) |
 | Strand 4, Topic Safe Working Practices/Habits, Lessons 1-2: Introduction to Work Place Safety; Safe Work Practices (yearly overview) (filed as safety-security-and-care/care-and-safety-with-machines-tools-and-electricity; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 124 (teacher guide — evidence, PARTIAL) |
 | 3-4 Information Technology for Safety [1] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 35 |
+| 4.2 Safety Procedures (safe installation work) | Fiji, *Computer Education, Year 13*, printed p. 59 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Fiji).**
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: safety signs, hazards, computer laboratory, occupational health and safety, Grade 7 ICT Ethiopia, uganda, papua new guinea, grade 9, egypt, grade 10
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: safety signs, hazards, computer laboratory, occupational health and safety, Grade 7 ICT Ethiopia, uganda, papua new guinea, grade 9, egypt, grade 10, fiji, year 13

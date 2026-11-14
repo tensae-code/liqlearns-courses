@@ -1,6 +1,6 @@
 # Sources — Bugs and debugging — turning on [DEBUG ON]
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt
 
 **Book 6:** *Computer and Information and Communication Technology — Third grade preparatory, First Term, 2026/2027* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2026/2027. No ISBN printed. 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Test first — run it and compare with the expected output | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
@@ -24,8 +26,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt
 | Unit 1, Topic Programming, Lesson 3: Test and Troubleshoot (filed as programming/bugs-and-debugging; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 52 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Programming, Lesson 3: Test and Troubleshoot (filed as programming/bugs-and-debugging; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 68 (teacher guide — evidence, PARTIAL) |
 | Unit 1 Lesson 5 Handling User Input Errors in Python | Egypt, *Computer and ICT, Grade 9 Term 1 (Arabic)*, printed p. 53 |
+| 5.12 Finding and Fixing Errors | Fiji, *Computer Studies, Year 12*, printed p. 121 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, North Macedonia, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji).**
 
 No book error touches this lesson. Teacher-guide evidence (item 38, in part) is filed in Sub lesson 1: the quality-assurance framing of testing, and the §6.4 teacher tip pointing to what a good Python coding environment requires (guide printed p. 150). The divide-by-zero behaviour in Do it first was run in Python 3: it raises ZeroDivisionError: division by zero. All other code behaviour matches the runs recorded for this band. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -35,4 +38,6 @@ Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to bu
 
 Egypt's own way (Grade 9, Term 1 student book (Arabic)): Preparatory 3 goes deep on Python — computational thinking, AI algorithms, strings/lists, functions with parameters, input-error handling — then a second unit on AI and cybersecurity ending with deepfakes.
 
-Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9
+Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
+
+Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12

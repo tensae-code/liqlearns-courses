@@ -1,6 +1,6 @@
 # Sources — The parts of a web address
 
-countries: Ethiopia, Germany, China, Sudan
+countries: Ethiopia, Germany, China, Sudan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Germany, China, Sudan
 
 **Book 4:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 5:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four parts of an address — protocol, www, domain name, extension; the google example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.52 |
@@ -17,12 +19,15 @@ countries: Ethiopia, Germany, China, Sudan
 | DNS — Domain Name System: how a name in a web address is resolved to an address (Kapitel 3, verified in the chapter's solutions pages) | Germany, *Informatik 5 (Bayern NTG)*, printed p. ~105 |
 | Domain Names | China, *IT Compulsory 2*, Chapter 3 §3.2.6, printed p. 83 |
 | Unit 3 Lesson 3: Internet addresses and domains — DNS and the URL | Sudan, *ICT, Grade 7*, printed p. 59 |
+| 1.1 Parts of a URL (http, www, domain name, .fj country code) | Fiji, *Computer Studies, Year 12*, printed p. 8 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Germany, China, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Germany, China, Sudan, Fiji).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
 
 Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
 
-Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7
+Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
+
+Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12

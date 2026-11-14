@@ -1,6 +1,6 @@
 # Sources — Protocols — the rules devices share
 
-countries: Ethiopia, Germany, Sudan, Egypt
+countries: Ethiopia, Germany, Sudan, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Germany, Sudan, Egypt
 
 **Book 6:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Shared rules for talking machines | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 43 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Germany, Sudan, Egypt
 | Strand 4, Topic OSI Model, Lessons 1-2: Introduction OSI Model; Functions of the OSI Model (yearly overview) (filed as networks/osi-layers; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 122 (teacher guide — evidence, PARTIAL) |
 | Unit 1 Lesson 2: Network protocols | Sudan, *ICT, Grade 6*, printed p. 3 |
 | 8-3 Communication Protocol | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 101 |
+| 4.5 Fundamentals of Network Communication | Fiji, *Computer Education, Year 13*, printed p. 83 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Germany, Sudan, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Germany, Sudan, Egypt, Fiji).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -38,4 +41,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13

@@ -1,6 +1,6 @@
 # Sources — What a computer network is
 
-countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt
+countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, 
 
 **Book 16:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 17:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 18:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two or more computers, linked to share | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 37 |
@@ -54,8 +58,10 @@ countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, 
 | Capítulo 1.4 Las redes de computadoras. Internet | Cuba, *Informática, Grade 7*, printed p. 53 |
 | Capítulo 1.1 Las redes informáticas (concepto, componentes, tipología, protocolos) | Cuba, *Informática, Grade 12*, printed p. 3 |
 | 8-1 Computer Networks (packets) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 95 |
+| Unit 5.1 Define what a network is | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 142 |
+| 4.3 Computer Networks | Fiji, *Computer Studies, Year 12*, printed p. 52 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt).**
+**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -85,4 +91,8 @@ Cuba's own way (Grade 12): The final pre-university year is networks in depth (t
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
+
+Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12

@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan
+countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -33,12 +33,15 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan
 | "Application programs" | Yemen, *Computer, Grade 10*, printed p. 39 |
 | U.D.1 Séance 1 opening software and applications (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 12 (teacher guide — evidence) |
 | Unidad 1.7 Interacción con softwares educativos, sistema operativo y graficador (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 12 (teacher guide — evidence) |
+| 2.2 Application Software | Fiji, *Computer Education, Year 11*, printed p. 49 |
 
 **Book 5:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 6:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 113 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
 
 **Book 7:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
+
+**Book 14:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
 | Sub lesson 5 — application software in three shapes: a single program (MS Notepad), a package of programs working together on one task, a suite of related, independent programs sharing a common user interface (the Microsoft Office Suite); LibreOffice the free alternative | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 72 |
 | Sub lesson 5 — the revision list is wider: word processing, presentation, spreadsheet, desktop publishing and database management software; a computer system is hardware plus software, application software is what the user works with directly, system software keeps the hardware working (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 39-40 |
@@ -48,7 +51,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan
 | Unit 2, Topic Computer Aided Programs, Lesson 2: Produce graphical products (CAD software) (filed as multimedia/computer-aided-design-cad; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 61 (teacher guide — evidence) |
 | Unit 4 Lesson 1: Application software, general and special | Sudan, *ICT, Grade 6*, printed p. 32 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -66,4 +69,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11

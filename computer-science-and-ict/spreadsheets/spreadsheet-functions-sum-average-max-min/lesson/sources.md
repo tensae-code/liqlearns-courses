@@ -1,6 +1,6 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -43,10 +43,13 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | Capítulo 2.4 Procesamiento de datos, cálculo dinámico y graficando | Cuba, *Informática, Grade 8*, printed p. 77 |
 | 10-2 Data Analysis [1] (organising data, measures of centre and spread in a spreadsheet) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 127 |
 | Unit 4 Lesson 1 Practical Application: Analysing Data from an Excel File | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 46 |
+| Unit 3.9 Use functions to make calculations | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 98 |
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
 **Book 4:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First Published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp (body). Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
+
+**Book 16:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
 | Sub lesson 3 (Grade 10 growth) — functions are ready-made formulas on given values (arguments) in a set order; syntax =, name, arguments in parentheses (one range, or several separated by commas); the five functions SUM, AVERAGE, COUNT (numeric cells), MAX, MIN | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 104–106 |
 | Sub lesson 3 (Grade 10 growth) — making a function by typing: select the cell, type = and the name, type the range in parentheses, press Enter | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 106–107 |
@@ -60,7 +63,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | Unit 2 Ch.2 Lesson 5 AutoSum functions | Iraq, *Computer, Grade 11*, printed p. 67 |
 | Урок 19 "Применение математических формул и функций в MS Excel" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 44 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt).**
+**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -87,4 +90,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from the neuron up — artificial neuron, its role in AI — then Python for data analysis and even encryption with XOR, a depth most countries save for secondary school.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8

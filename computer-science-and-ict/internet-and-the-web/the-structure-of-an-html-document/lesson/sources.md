@@ -1,6 +1,6 @@
 # Sources — The structure of an HTML document
 
-countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt
+countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt
 
 **Book 5:** *Computer & Information and Communication Technology — Second Grade Preparatory, First Term 2025/2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four parts of the skeleton | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 83–84 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt
 | "Editors for Writing HTML Code" | North Macedonia, *Informatics, Year 2*, Тема 5 §5.2.2, printed p. ~295 |
 | Unit 4 Ch.1 Lesson 1 Basics of HTML: document structure | Iraq, *Computer, Grade 10*, printed p. 106 |
 | Unit 2 Lesson 2 Web Page Format | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 54 |
+| 5.3 Creating a Simple Page | Fiji, *Computer Education, Year 13*, printed p. 119 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -33,4 +36,6 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Egypt's own way (Grade 8, Term 1 student book): Two units — "Artificial Intelligence and Protecting Our Digital Data" and "Website Design and Creation" — ending with pupils creating their own school website with AI help.
 
-Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13

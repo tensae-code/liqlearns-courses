@@ -1,6 +1,6 @@
 # Sources — The Word window — naming its parts
 
-countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
+countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -40,10 +40,13 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | Unidad 2.3 Ventana de escritura (minimizar, maximizar, restaurar, mover, cerrar) (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher programme — evidence) |
 | Unidad 2 Localización/ejecución y ventana de escritura (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher guide — evidence) |
 | Capítulo 3.1 Interfaz de un procesador de textos | Cuba, *Informática, Grade 7*, printed p. 113 |
+| Unit 2.1 MS Word 2007 menu and toolbar functions | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 43 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 3:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 113 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
+
+**Book 16:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
 | Sub lesson 4 — the Word window in ten elements: Title Bar (document name, program name, Minimize/Restore/Close), Quick Access Toolbar (Save, Undo, Redo by default; pull-down adds more), File Tab (New, Open, Save As, Print, Close), Ribbon (compresses on smaller monitors), Edit Window, Scroll Bar, Status Bar, Zoom Slide Control, Insertion Point/Cursor, I-beam Pointer | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 75-76 |
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
@@ -53,7 +56,7 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | Урок 2 "Интерфейс текстового процессора MS Word" | Uzbekistan, *Informatika, Grade 6*, printed p. 9 |
 | Урок 25 "Интерфейс программы MS Word" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 104 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba).**
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -78,4 +81,6 @@ Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-un
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8

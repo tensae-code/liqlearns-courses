@@ -1,6 +1,6 @@
 # Sources — Types of computer by size — microcomputers and desktops
 
-countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq
+countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 
 **Book 12:** *Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4682-7 (print) / 978-959-13-4683-4 (digital). 28 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
 
+**Book 13:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed pp. 7–8 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 | Unidad 4.3 Cámara fotográfica, teléfonos, pizarras digitales; computadoras y sus tipos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
 | Unidad 1.1 Dispositivos digitales, tipos de computadoras (personal, portátil, de mano, pantalla táctil) (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 11 (teacher programme — evidence) |
 | Unidad 1 La computadora, tipos de computadoras y pantalla táctil (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 11 (teacher guide — evidence) |
+| 1.3 Categories of Computer | Fiji, *Computer Education, Year 11*, printed p. 32 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -61,4 +64,6 @@ Cuba's own way (Grade 5): The Grade 5 programme is built around extracting infor
 
 Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-unit teaching tables with hour allocations; Unit 4 is renamed “Aprendiendo y creando” and taught purely as Scratch control, movement and appearance blocks. (teacher guide — evidence)
 
-Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11

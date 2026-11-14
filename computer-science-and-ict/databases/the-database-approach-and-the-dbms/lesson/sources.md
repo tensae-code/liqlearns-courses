@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -28,12 +28,23 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 
 **Book 13:** *Information and Communication Technology — The Web Site Design Project, Second Year Secondary, First Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education, Centre for Curriculum & Instructional Materials Development, 2025-2026. No ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 14:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 15:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 16:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the database approach: all logically related data in one shared collection (a database) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
 | Sub lesson 2 — DBMS software manages the database (add, modify, delete, retrieve) and is the interface between the database and its users and programs; applications send queries, the DBMS returns matching data | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
 | Sub lesson 3 — advantages: data independence, data sharing, avoided redundancy, improved security (only authorised users can access or change data) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
 | Capítulo 1.1 Introducción a los sistemas de gestión de bases de datos (SGBD) | Cuba, *Informática, Grade 11*, printed p. 2 |
+| Unit 6.1 Define the term database | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 171 |
+| Unit 6.3 Advantages of a database | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 176 |
+| 2.2.3 Database | Fiji, *Computer Education, Year 11*, printed p. 52 |
+| 3.4 DBMS | Fiji, *Computer Education, Year 11*, printed p. 67 |
+| 3.3 DBMS Structure | Fiji, *Computer Education, Year 13*, printed p. 41 |
 
 | Sub lesson 4 (teacher guide — evidence) — the database-versus-DBMS distinction: a database is the schema designed with a DBMS to store data; the DBMS is the software tool used to maintain it; tool landscape MySQL, Oracle, MS SQL Server, MariaDB | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
 | Sub lesson 4 (teacher guide — evidence) — the NoSQL challenge: an RDBMS schema is not flexible enough for big data; NoSQL models address it; prerequisite MS Access 2013 or later | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
@@ -50,7 +61,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | 9-1 Database [1] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 111 |
 | Unit 3, Create a Database for the project | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 61 (PDF page) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -77,4 +88,10 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whole term is one production project — an "Illustrated Dictionary of Computer Terms" website — built with Expression Web, HTML and PHP pages over a MySQL database, including a working Add_Term.php page.
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13

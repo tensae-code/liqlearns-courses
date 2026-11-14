@@ -1,6 +1,6 @@
 # Sources — Copy and paste — Home tab and right-click ways
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba
+countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba
 
 **Book 8:** *Mi Mundo Digital, quinto grado* (student book, Spanish; title as printed: Mi Mundo Digital, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4709-1 (print) / 978-959-13-4710-7 (digital). 129 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 9:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — copy and paste by the Home tab: select, Copy, place cursor, Paste | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 47–48 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba
 | Unidad 2 Sinónimos, inserción y edición (seleccionar, copiar, mover, pegar) y extracción de fuentes (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher guide — evidence) |
 | Capítulo 2.5 Copiando textos | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 61 |
 | Capítulo 2.7 Muevo y copio imágenes | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 73 |
+| Unit 2.4 Copy and paste text and images within and between documents | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Saudi Arabia, Cuba).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -47,4 +50,6 @@ Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-un
 
 Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; word-processing is taught as a research workflow (synonyms, symbols, searching, copying texts and images from sources), and Scratch is introduced through its paint editor before movement/appearance/control blocks.
 
-Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4, morocco, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4, morocco, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, fiji, years 7-8

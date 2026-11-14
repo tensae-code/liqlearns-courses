@@ -1,6 +1,6 @@
 # Sources — LAN — a building's network
 
-countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan
+countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan
 
 **Book 7:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 8:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | One building, privately owned | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 51–52 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan
 | "Types of Computer Networks" | North Macedonia, *Informatics, Year 1*, Тема 2 §2.2, printed p. 61 |
 | Lesson 26 How networks work and types of networks (local networks) (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 101 (teacher guide — evidence) |
 | Unit 1 Lesson 3: Types of networks — local area network and file sharing | Sudan, *ICT, Grade 6*, printed p. 5 |
+| Unit 5.2 Types of networks (LAN and WAN) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 147 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji).**
 
 Book error taught corrected: the student book's text calls the LAN picture “Figure 2.3” when the picture is Figure 2.13. This lesson teaches the LAN from the pictured network itself and names the figure correctly here; the wrong in-text number is flagged, not taught.
 
@@ -39,4 +42,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
-Searchable tags: LAN, local area network, WLAN, building network, Figure 2.13, Grade 9 ICT Ethiopia, mozambique, nepal, china, north macedonia, grade 10, mauritania, grade 9, sudan, grade 6
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: LAN, local area network, WLAN, building network, Figure 2.13, Grade 9 ICT Ethiopia, mozambique, nepal, china, north macedonia, grade 10, mauritania, grade 9, sudan, grade 6, fiji, years 7-8

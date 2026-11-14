@@ -1,6 +1,6 @@
 # Sources — What an information system is
 
-countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt
+countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt
 
 **Book 8:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 9:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an information system is (whole lesson) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed p. 6 (student placement item 7) |
@@ -28,8 +30,9 @@ countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt
 | Unit 1, 1-1: A data-processing system and its subsystems (input, processing, output, security, administration) | Sudan, *Computer Science, Grade 11*, printed p. 1 |
 | Глава VI "Информационные системы", Урок 65 "Информационные системы и компьютерная сеть" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 117 |
 | 9-3 Various Information Systems | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 119 |
+| 1.1 Parts of an Information System (six parts: people, procedures, software, hardware, data and the Internet) | Fiji, *Computer Education, Year 13*, printed p. 2 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt).**
+**Acceptance count: taught in 7 countries (Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -46,4 +49,6 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11, uzbekistan, grade 9, egypt, grade 10
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11, uzbekistan, grade 9, egypt, grade 10, fiji, year 13

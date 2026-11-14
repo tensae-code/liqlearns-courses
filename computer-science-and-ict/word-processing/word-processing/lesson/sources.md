@@ -1,6 +1,6 @@
 # Sources — Word processing — writing on a computer
 
-countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan
+countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -25,10 +25,13 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan
 | Chapter 4 Word Processing I: features of a word processor, setting the environment | Uganda, *ICT Textbook Senior One*, printed p. 26 |
 | Unit 5 training (document files) | Yemen, *Computer, Grade 10*, printed p. 93 |
 | Unit 5 activity | Yemen, *Computer, Grade 10*, printed p. 114 |
+| 2.2.1 Word Processing | Fiji, *Computer Education, Year 11*, printed p. 50 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 3:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 113 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
+
+**Book 11:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
 | The fuller picture — word processing defined (create, edit, save, print: reports, letters, memos, newsletters, brochures); the named processors (MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document); the function list (copying, pasting, moving, deleting; formatting — font type, bold, underline, italic; tables; illustrations and photographs; spelling and grammar; templates); the warning against plain text editors (Notepad — unformatted text only) | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 72-74 |
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
@@ -38,7 +41,7 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan
 | Глава V "Технология обработки документов", Урок 24 "Текстовые редакторы и текстовые процессоры" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 100 |
 | Урок 34 "Упражнения для повторения" (review exercises) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 135 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -49,4 +52,6 @@ Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught t
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11

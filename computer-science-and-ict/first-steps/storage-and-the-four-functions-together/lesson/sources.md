@@ -1,6 +1,6 @@
 # Sources — Storage — keeping data, and the four functions together
 
-countries: Ethiopia, Yemen, Sudan
+countries: Ethiopia, Yemen, Sudan, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Yemen, Sudan
 
 **Book 4:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 5:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Storage — keeping data | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.2, printed p. 7 |
 | Sub lesson 2 — The four functions together | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.2, printed p. 7 (the figure presenting all four functions together); Teacher guide (teacher guide — evidence), printed p. 6 — the keyed answer to Activity 1.2 |
 | "How the computer works" | Yemen, *Computer, Grade 10*, printed p. 12 |
 | Unit 1 Lesson 1: Basic computer operations (input, processing, output, storage) | Sudan, *ICT, Grade 5*, printed p. 2 |
+| Unit 1.1 The four functions: input, processing, output, storage | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Yemen, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Sudan, Fiji).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -25,4 +28,6 @@ The teacher guide's keyed answer names input, processing and output; storage is 
 
 Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
 
-Searchable tags: storage, hard drive, flash drive, compact disk, four functions cycle, input process output storage, Ethiopia Grade 8, yemen, grade 10, sudan, grade 5
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: storage, hard drive, flash drive, compact disk, four functions cycle, input process output storage, Ethiopia Grade 8, yemen, grade 10, sudan, grade 5, fiji, years 7-8

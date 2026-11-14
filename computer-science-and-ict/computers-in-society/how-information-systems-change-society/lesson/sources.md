@@ -1,6 +1,6 @@
 # Sources — How information systems change society — gains and problems
 
-countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan
+countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan
 
 **Book 13:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 14:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 15:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The good side first | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 5–6 (student placement item 7) |
@@ -44,8 +48,10 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan
 | Strand 4, Topic Effects of Computer Usage, Lessons 1-2: Introduction to computer technology; Effects of Computer Technology Usage on society (yearly overview) (filed as computers-in-society/impact-on-society; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 124 (teacher guide — evidence, PARTIAL) |
 | Unit 1, Topic Design Technology, Lesson 2: Roles of Design Technology and its Impact (filed as computers-in-society/impact-on-society; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 58 (teacher guide — evidence) |
 | Урок 3 "Роль информатики и вычислительной техники в развитии общества" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 14 |
+| Unit 8.1 Computers in the workplace and society (computerisation of society) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 204 |
+| 3.1 Computerization of Society | Fiji, *Computer Studies, Year 12*, printed p. 24 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -68,4 +74,8 @@ Papua New Guinea's own way (Grade 12): the final year is design-and-build — si
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
+
+Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12

@@ -1,6 +1,6 @@
 # Sources — The keyboard — ten groups of keys
 
-countries: Ethiopia, Saudi Arabia, Uzbekistan
+countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan
 
 **Book 10:** *Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4682-7 (print) / 978-959-13-4683-4 (digital). 28 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
 
+**Book 11:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan
 | Unidad 3.6 El teclado en el procesador de texto (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
 | Unidad 2.7 Teclado para textos sencillos (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher programme — evidence) |
 | Unidad 2 Teclado para textos sencillos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher guide — evidence) |
+| Unit 1.8 Keyboarding techniques | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 28 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Uzbekistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji).**
 
 Printed p. 20 of the student book carries a stray character run (a run of the capital letter K typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -61,4 +64,6 @@ Cuba's own way (Grade 5): The Grade 5 programme is built around extracting infor
 
 Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-unit teaching tables with hour allocations; Unit 4 is renamed “Aprendiendo y creando” and taught purely as Scratch control, movement and appearance blocks. (teacher guide — evidence)
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5
+Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
+
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8

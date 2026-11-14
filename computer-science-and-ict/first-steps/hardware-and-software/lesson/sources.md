@@ -1,6 +1,6 @@
 # Sources — Hardware and software — the two parts of a computer system
 
-countries: Ethiopia, Iraq, Cuba
+countries: Ethiopia, Iraq, Cuba, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Iraq, Cuba
 
 **Book 4:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 5:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware and software — the two parts of a computer system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 11 |
 | Unit 1 Ch.1 Lesson 2 Components of the computer: hardware and software | Iraq, *Computer, Grade 7*, printed p. 11 |
 | Strand 5 Unit 1, Topic Computer System, Lesson 2: Computer Hardware and Software (filed as hardware/hardware-and-software; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Capítulo 1.2 Hardware y Software de un sistema informático | Cuba, *Informática, Grade 7*, printed p. 25 |
+| 1.1 A computer system is hardware plus software | Fiji, *Computer Education, Year 11*, printed p. 7 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Cuba).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Cuba, Fiji).**
 
 No book error touches this lesson's content.
 
@@ -27,4 +30,6 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7
+Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
+
+Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11

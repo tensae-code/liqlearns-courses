@@ -1,6 +1,6 @@
 # Sources — Primary keys and foreign keys
 
-countries: Ethiopia, Nepal, North Macedonia, Sudan
+countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,11 +14,14 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan
 
 **Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 7:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a relational database is a set of logically related tables, built with relational DBMS software; every table shown has a primary key — a field whose value is unique for each record, such as a student ID no two students can share | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 60–61 |
 | Sub lesson 2 — tables are navigated and joined through foreign keys — an attribute in one table that matches the primary key of a related table | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 60–61 |
 | Sub lesson 3 — the student ID and book ID inside the book-loan table link it to the student and book tables | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 60–61 |
+| 3.6 Creating a relational database: keys and links | Fiji, *Computer Education, Year 13*, printed p. 48 |
 
 | Sub lesson 4 — the five-table school database (Students, MarkList, Subject, SubjectAssigned, Teachers); Sid primary key of Students (unique, never duplicated, identifying each record), the same Sid a foreign key in MarkList (not unique — one student, many mark records), linking the tables | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 63–64 |
 | Sub lesson 4 — popular RDBMSs named: Microsoft Access, Oracle, Microsoft SQL Server, MySQL, SQLite, IBM DB2, PostgreSQL | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 63–64 |
@@ -27,7 +30,7 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan
 | "Primary Key and Linking Tables" | North Macedonia, *Informatics, Year 2*, Тема 3, printed p. 204 |
 | Unit 1 Lesson 1: The primary key | Sudan, *ICT, Grade 7*, printed p. 6 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, North Macedonia, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji).**
 
 Honesty: all parts are pupil-taught from the student book. Book errors taught corrected, named here: the student book spells the relational DBMS software “RDMS” — the lesson teaches the correct **RDBMS** (relational database management system). The same stretch of the book prints “Figure 314” for Figure 3.14, and varies “Kebel/Kebele” inside one table; neither touches the key definitions taught here, and both are named so a reader meeting them in the book is not confused.
 
@@ -37,4 +40,6 @@ North Macedonia's own way (Year 2): a strikingly current first theme (cybersecur
 
 Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
 
-Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13

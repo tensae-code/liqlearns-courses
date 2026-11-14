@@ -1,6 +1,6 @@
 # Sources — Troubleshooting — find the fault, find its cause
 
-countries: Ethiopia, Iraq
+countries: Ethiopia, Iraq, Fiji
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Iraq
 
 **Book 5:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A systematic approach — hardware and software | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 142–143 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Iraq
 | Unit 1 Ch.1 Lesson 2 Corrective maintenance of computer hardware | Iraq, *Computer, Grade 10*, printed p. 11 |
 | Strand 5 Unit 1, Topic Troubleshooting, Lessons 1-2: Introduction to Computer Troubleshooting; Troubleshooting (filed as hardware/computer-repair; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 69 (teacher guide — evidence, PARTIAL) |
 | Unit 1, Topic Computer Administration, Lesson 3: Basic diagnoses, troubleshooting and resolution (filed as hardware/computer-repair; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 48 (teacher guide — evidence) |
+| 4.6 Utilities and Basic Computer Troubleshooting | Fiji, *Computer Education, Year 13*, printed p. 88 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iraq).**
+**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Fiji).**
 
 The student book sets the black-screen investigation as an activity with no printed solution (printed p. 143); the lesson teaches the systematic approach for it and invents no book answer. The book uses the number "Activity 5.2" for this troubleshooting activity as well as for the earlier uninstalling activity; the lesson teaches the skill, not the activity number.
 
@@ -30,4 +33,6 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
 
-Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11
+Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
+
+Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13
