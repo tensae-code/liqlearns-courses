@@ -1,6 +1,6 @@
 # Sources — Client-server networks — and peer-to-peer compared
 
-countries: Ethiopia, Germany, Nepal, Sudan, Fiji
+countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,9 @@ countries: Ethiopia, Germany, Nepal, Sudan, Fiji
 
 **Book 5:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 6:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 7:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Clients request, the server provides | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 58–59 |
@@ -20,8 +23,10 @@ countries: Ethiopia, Germany, Nepal, Sudan, Fiji
 | Unit 1 §1.7, Network Architecture | Nepal, *Computer Science, Class 10*, printed p. 25 |
 | Unit 1 Lesson 1: Server and client devices | Sudan, *ICT, Grade 6*, printed p. 1 |
 | 4.6 Network Strategies | Fiji, *Computer Studies, Year 12*, printed p. 60 |
+| 7.3 Aplicații și platforme de comunicare (server applications carrying messages) | Moldova Grade 7 Informatică, printed p. 140 |
+| 7.2 Tehnologii de cooperare în rețea | Moldova Grade 11 Informatică, printed p. 195 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Germany, Nepal, Sudan, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -32,4 +37,8 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: client-server, server, workstation, peer-to-peer compared, Grade 9 ICT Ethiopia, germany, nepal, sudan, grade 6, fiji, year 12
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: client-server, server, workstation, peer-to-peer compared, Grade 9 ICT Ethiopia, germany, nepal, sudan, grade 6, fiji, year 12, moldova, grade 7 informatica, moldova, grade 11 informatica

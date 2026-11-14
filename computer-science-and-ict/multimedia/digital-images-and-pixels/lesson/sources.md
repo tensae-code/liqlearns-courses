@@ -1,6 +1,6 @@
 # Sources — Digital images — made of pixels
 
-countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece
+countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,11 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Gree
 
 **Book 16:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 17:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 18:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 19:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 20:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -54,8 +59,12 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Gree
 | Unit 7: introduction to computer graphics (definitions; bitmap/raster vs vector graphics; resolution; 2D and 3D graphics; core elements) | Rwanda Grade 9 S3 ICT Student Book, printed p. 199 |
 | Unit 7: introduction to computer graphics — definitions (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 127 (teacher guide — evidence) |
 | Ch.4 Representation of image: categories of graphics (vector, raster) | Greece Grade 11 EPAL Basika Themata, printed p. 44 |
+| Lecția 1 drawing with binary digits (images split into little squares; colour images carry more information) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed pp. 11–12 |
+| 1.6 Cuantizarea imaginilor (sampling/quantising an image) | Moldova Grade 7 Informatică, printed p. 18 |
+| 4.2 Modul la alegere: Grafica pe calculator | Moldova Grade 10 Informatică, printed p. 179 |
+| 2.5 Cuantizarea imaginilor | Moldova Grade 11 Informatică, printed p. 106 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
@@ -84,4 +93,12 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata
+Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of information quantity (bit, byte, binary drawing) before any office software, teaches the keyboard including touch-typing posture, and keeps programming unplugged-but-precise: loops, jump (pen-up) instructions and multi-loop programs for the mouse, the painter and the hedgehog. The Digital Education module sits inside Technological Education.
+
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ side by side — each school chooses one or both — and upper-secondary programming is language-formal: BNF metalanguage and syntax diagrams, ordinal types, type conversions, every concept given in Pascal for teaching and in C++ for a technology career.
+
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 10 informatica, moldova, grade 11 informatica

@@ -1,6 +1,6 @@
 # Sources - Statements and expressions - telling them apart
 
-countries: Ethiopia, North Macedonia, Cuba
+countries: Ethiopia, North Macedonia, Cuba, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,9 @@ countries: Ethiopia, North Macedonia, Cuba
 
 **Book 4:** *Informática, noveno grado* (student book, Spanish; title as printed: Informática, noveno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5166-1 (print) / 978-959-13-5180-7 (digital). 58 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 5:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 6:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Statements (instruction the interpreter executes; assignment stores, no output; print() displays; if/while/for named as Grade 12 material) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 148-150 |
@@ -18,8 +21,10 @@ countries: Ethiopia, North Macedonia, Cuba
 | Teacher note filed here (teacher guide - evidence) (the guide notes that function calls are also expressions, but that the textbook deliberately withholds this because pupils are not yet ready for it, leaving the teacher to judge whether their class can take it - recorded here as a teacher note only; it is not taught in the lesson text and not counted as pupil-taught) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 6 (Activity 6.7 answer), printed p. 116 |
 | "Statements in Programming" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.10, printed p. 123 |
 | Capítulo 2.5 Expresiones | Cuba, *Informática, Grade 9*, printed p. 15 |
+| 3.2 Expresii | Moldova Grade 8 Informatică, printed p. 92 |
+| 3.2 Expresii (Pascal/C++) | Moldova Grade 10 Informatică, printed p. 94 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Cuba).**
+**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Cuba, Moldova).**
 
 No book error touches this lesson's taught content. The function-call note above is teacher-guide evidence (guide item 24b), filed as a teacher note exactly as directed: the textbook deliberately withholds it, so the lesson text does not teach it. The book's review headings misspell "statement" as "statment" throughout the unit; the course writes "statement". The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -27,4 +32,8 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year — algorithms, data, variables, counters/accumulators, flowcharts and pseudocode, taught language-independently — paired with a full cybersecurity chapter (passwords/MFA, safe internet, safe social networks).
 
-Searchable tags: statements, expressions, assignment statement, print statement, literal, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, cuba, grade 9
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ side by side — each school chooses one or both — and upper-secondary programming is language-formal: BNF metalanguage and syntax diagrams, ordinal types, type conversions, every concept given in Pascal for teaching and in C++ for a technology career.
+
+Searchable tags: statements, expressions, assignment statement, print statement, literal, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, cuba, grade 9, moldova, grade 8 informatica, moldova, grade 10 informatica

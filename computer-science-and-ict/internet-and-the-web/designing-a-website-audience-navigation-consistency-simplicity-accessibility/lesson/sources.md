@@ -1,6 +1,6 @@
 # Sources — Designing a website — audience, navigation, consistency, simplicity, accessibility
 
-countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia
+countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia
 
 **Book 8:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 9:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What website design is | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 78–79 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia
 | Unit 1, Planning the Project Site "Illustrated Dictionary of Computer Terms" | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 18 (PDF page) |
 | 5.2 Web Development (designer, writer, HTML author, information architect roles) | Fiji, *Computer Education, Year 13*, printed p. 100 |
 | 3.3 Prinsip Reka Bentuk Laman Web | Malaysia Grade 11 SK Tingkatan 5, printed p. 274 |
+| 4.1 Modul la alegere: Web design | Moldova Grade 10 Informatică, printed p. 172 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -48,4 +51,6 @@ Fiji's own way (Year 13 Computer Education student book): The senior book is bui
 
 Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
 
-Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5
+Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ side by side — each school chooses one or both — and upper-secondary programming is language-formal: BNF metalanguage and syntax diagrams, ordinal types, type conversions, every concept given in Pascal for teaching and in C++ for a technology career.
+
+Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica

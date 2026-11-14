@@ -1,6 +1,6 @@
 # Sources — HTML tags and elements
 
-countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri Lanka, Greece
+countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri Lanka, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -30,6 +30,9 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri La
 
 **Book 14:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 15:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 16:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | HTML, tags and the .html file | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 80–81 |
@@ -47,8 +50,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri La
 | Ch.5 HTML for web pages: FONT tag size/colour/face, hexadecimal RGB colours, PRE and ADDRESS tags | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 155 |
 | Appendix ຂ: Creating a website using the HTML language (writing the page in Notepad) (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 87 (teacher guide — evidence) |
 | Ch.11 General introduction to HTML | Greece Grade 10 Efarmoges Pliroforikis, printed p. 93 |
+| 8.3 Modul la alegere: Limbaje de marcare a hipertextului | Moldova Grade 11 Informatică, printed p. 221 |
+| 5.3 Modul la alegere: Programarea Web | Moldova Grade 12 Informatică, printed p. 190 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri Lanka, Greece).**
+**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya, Malaysia, Sri Lanka, Greece, Moldova).**
 
 Unit 4 figure references and captions repeatedly disagree in the student book (the elements text cites Figure 4.3 where the caption is 4.2; the document-structure text cites Figure 4.2 where the caption is 4.4; the align-attribute text cites Figure 4.4 where the caption is 4.5; the table example text cites Figure 4.5 where the caption is 4.11) and table numbers are reused (two different tables are each numbered 4.4/4.5). This lesson teaches from the pictured content and cites no figure or table number. "statment" is misspelled in review headings throughout the book; the correct spelling is taught. Guide-side faults: the guide prints "HMTL" for HTML in its §4.6 heading and Unit 4 topic lists; the correct HTML is taught. The teacher-guide models in Sub lesson 3 are teacher evidence: they verify the pupil's own page; they are not counted as pupil-taught content.
 
@@ -76,4 +81,8 @@ Laos's own way (Grade 10 ICT teacher guide): the guide quietly carries the year'
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: HTML, HTML5, tags, elements, start tag, end tag, .html, Grade 11 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, egypt, grade 10, grade 11, grade 8, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, laos, grade 10 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: HTML, HTML5, tags, elements, start tag, end tag, .html, Grade 11 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, egypt, grade 10, grade 11, grade 8, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, laos, grade 10 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica, moldova, grade 12 informatica

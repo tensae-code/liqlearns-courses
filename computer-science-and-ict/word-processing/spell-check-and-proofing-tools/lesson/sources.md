@@ -1,6 +1,6 @@
 # Sources — Spell Check and Proofing Tools
 
-countries: Uganda, Fiji, Sri Lanka, Rwanda
+countries: Uganda, Fiji, Sri Lanka, Rwanda, Moldova
 
 **Book 1:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
@@ -14,6 +14,8 @@ countries: Uganda, Fiji, Sri Lanka, Rwanda
 
 **Book 6:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 7:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Locating specific text, replacing text, text proofreading | Uganda, *ICT Textbook Senior One*, printed p. 26 |
@@ -26,8 +28,9 @@ countries: Uganda, Fiji, Sri Lanka, Rwanda
 | Ch.3 Checking spelling and grammar errors in Word 2010 and Writer 4.1; thesaurus (filed as word-processing/spelling-and-grammar-checks; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 93 |
 | Proofing features | Rwanda Grade 7 S1 ICT Student Book, printed p. 137 |
 | Additional content: AutoComplete, AutoCorrect and Word shortcut keys (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 68 (teacher guide — evidence) |
+| 1.10 Verificarea textelor (filed as NEW LESSON NEEDED — word-processing/checking-a-text-spelling-grammar-and-thesaurus; stocked in this lesson because this lesson teaches checking a text — spell check and grammar check, the checker proposing and the writer deciding — the text verification of Moldova's section) | Moldova Grade 8 Informatică, printed p. 45 |
 
-**Acceptance count: taught in 4 countries (Uganda, Fiji, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 5 countries (Uganda, Fiji, Sri Lanka, Rwanda, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Uganda, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked first: Word Processing holds lessons on typing, formatting, saving and tables, but none teaches find, replace, spell check and proofreading as its own lesson. The placements file named this slug directly (NEW LESSON NEEDED — word-processing/spell-check-and-proofing-tools). It sits in the Word Processing title (word-processing/). It has two sub lessons: locating and replacing text first, then the checkers and the final proofread — two distinct sequential parts of cleaning one document, each opening by proving the one before.
 
@@ -41,4 +44,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
 
-Searchable tags: spell check, proofing, proofreading, find, replace, grammar check, word processing, uganda, grade 8, ncdc, fiji, years 7-8, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Searchable tags: spell check, proofing, proofreading, find, replace, grammar check, word processing, uganda, grade 8, ncdc, fiji, years 7-8, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, moldova, grade 8 informatica

@@ -1,6 +1,6 @@
 # Sources — Multimedia file formats — sound, image, video
 
-countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece
+countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece
 **Book 10:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 11:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 12:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a file format is; The three shelves | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 148–149 |
@@ -36,8 +38,10 @@ countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece
 | Graphic file formats (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 127 (teacher guide — evidence) |
 | Unit 1 Forms of information representation – multimedia | Greece Grade 8 Pliroforiki B, printed p. 15 |
 | Ch.4 Image file types – compression / sources of digital images | Greece Grade 11 EPAL Basika Themata, printed p. 50 |
+| 4.3 Formate de fișiere grafice | Moldova Grade 8 Informatică, printed p. 130 |
+| 4.4 Activități practice: Echipamente și formate de fișiere grafice | Moldova Grade 8 Informatică, printed p. 133 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -59,4 +63,6 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
 
-Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 epal basika themata
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 epal basika themata, moldova, grade 8 informatica

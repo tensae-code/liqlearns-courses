@@ -1,6 +1,6 @@
 # Sources — The Paragraph group — a map of its buttons
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq
 
 **Book 5:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 6:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Paragraph group tabled letter by letter — Bullets, Numbering, Multilevel List, the four alignments with shortcuts (Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J), Decrease/Increase Indent, Sort, Show/Hide (Ctrl+*), Line and Paragraph Spacing, Shading, Border | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 77-79 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq
 | "Formatting paragraphs" | Yemen, *Computer, Grade 10*, printed p. 98 |
 | Unit 5 training (paragraphs) | Yemen, *Computer, Grade 10*, printed p. 99 |
 | Unit 2 Ch.2 Lesson 1 The Home tab: the paragraph group | Iraq, *Computer, Grade 8*, printed p. 46 |
+| 1.3 Formatarea paragrafelor | Moldova Grade 8 Informatică, printed p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Yemen, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Yemen, Iraq, Moldova).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -29,4 +32,6 @@ Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: Paragraph group, Home tab, bullets, numbering, multilevel list, alignment shortcuts, sort, show hide, shading, border, Grade 9 ICT Ethiopia, afghanistan, yemen, grade 10, iraq, grade 8
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Searchable tags: Paragraph group, Home tab, bullets, numbering, multilevel list, alignment shortcuts, sort, show hide, shading, border, Grade 9 ICT Ethiopia, afghanistan, yemen, grade 10, iraq, grade 8, moldova, grade 8 informatica

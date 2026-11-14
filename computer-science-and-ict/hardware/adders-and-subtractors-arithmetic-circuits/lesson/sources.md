@@ -1,10 +1,12 @@
 # Sources — Adders and Subtractors — Arithmetic Circuits
 
-countries: Montenegro
+countries: Montenegro, Moldova
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
 **Book 2:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-19-2. 180 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 Units 1–2 in full; its standards, overview and assessment sections largely reprint the Grade 9 apparatus (including a Grade 9 yearly overview), so placements rest on the Grade 10 content table and the detailed Strand 5 sections. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
+**Book 3:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,8 +14,9 @@ countries: Montenegro
 | Subtractors — and one circuit that does both | Montenegro, *Digitalna Elektronika*, Poglavlje VI §6.2, Aritmetička kola: adders and subtractors, printed p. 178 |
 | Unit 1 Computer Architecture, Topic Simple Electronic Circuit, Lesson 1: Building simple Electronics Circuitry (filed as hardware/building-a-circuit-on-a-breadboard; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Unit 1, Topic Simple Electronic Circuit, Lesson 2: Advancing into electronic circuitries (filed as hardware/series-and-parallel-circuits; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 47 (teacher guide — evidence, PARTIAL) |
+| 5.3 Sumatorul (filed as NEW LESSON NEEDED — hardware/the-adder-a-circuit-that-adds; stocked in this lesson because this lesson teaches the adder — the circuit that adds, half and full — the sumator of Moldova's section) | Moldova Grade 11 Informatică, printed p. 147 |
 
-**Acceptance count: taught in 1 country (Montenegro).**
+**Acceptance count: taught in 2 countries (Montenegro, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Hardware title (hardware/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -21,4 +24,6 @@ Montenegro's own way: computing is reached from the electronics side — a compu
 
 Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to building with them — simple electronic circuits, programming that controls an external device, robotics and artificial intelligence sit inside "Computer Architecture", while the software unit pairs operating-system installation with machine learning; typing rises to 30 wpm. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: adders, subtractors, half adder, full adder, arithmetic circuits, half subtractor, alu, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, papua new guinea, grade 10
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: adders, subtractors, half adder, full adder, arithmetic circuits, half subtractor, alu, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, papua new guinea, grade 10, moldova, grade 11 informatica

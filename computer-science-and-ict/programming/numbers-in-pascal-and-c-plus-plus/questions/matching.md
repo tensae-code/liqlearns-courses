@@ -1,0 +1,23 @@
+# Numbers in Pascal and C++ — matching
+
+Match each item on the left with the one it belongs to on the right.
+
+**1. (Sub lesson 1) How is an integer constant written?** → **Digits with an optional sign — 42, −7, +1000**
+
+**2. (Sub lesson 1) Why is 1 000 wrong as one constant?** → **Spaces may not interrupt a constant — it reads as two**
+
+**3. (Sub lesson 1) In C++, what do a leading 0 and 0x mean?** → **Octal and hexadecimal — 017 = 15, 0x1F = 31**
+
+**4. (Sub lesson 1) Does Pascal write integers in other bases?** → **No — decimal only, in this course's writing**
+
+**5. (Sub lesson 1) What does a constant's form announce?** → **Its reading — base and kind — before its value**
+
+**6. (Sub lesson 2) What makes a constant real?** → **A fractional part (point) or an exponent (E form)**
+
+**7. (Sub lesson 2) What does 2.5E3 mean?** → **2.5 times ten to the power 3 — 2500**
+
+**8. (Sub lesson 2) Why is 3,14 an error?** → **The decimal separator is a point in both languages, never a comma**
+
+**9. (Sub lesson 2) What decides a numeric constant's type?** → **Its writing — point or E makes it real; plain digits make it integer**
+
+**10. (Sub lesson 2) Write 0.0012 in exponent form.** → **1.2E−3 (also written 1.2E-3)**

@@ -1,6 +1,6 @@
 # Sources — Project: build and present a slide deck
 
-countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait
 
 **Book 10:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher's handbook, ICT, Secondary Year 5)* (teacher guide, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN: no ISBN printed. 125 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 
+**Book 11:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical Exercise 3.7 — the group presentation and its set tasks; saved in a Presentation Project folder in Documents | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 132, 135 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait
 | Ch 7, applications: a personal-introduction presentation, a presentation about a sample of Libyan kitchen dishes, a presentation about Libya's archaeological cities and landmarks | Libya Grade 12 IT Humanities, printed p. 101 |
 | Unit 2, Lesson 6 Project (2): design a presentation about the State of Kuwait; a presentation about science and light | Kuwait Grade 4 Digital Explorer T2, printed p. 139 |
 | Appendix ຄ: Creating and organising a presentation (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 105 (teacher guide — evidence) |
+| 5.2 Învață prin proiecte | Moldova Grade 7 Informatică, printed p. 96 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova).**
 
 No book error touches this part.
 
@@ -55,4 +58,6 @@ Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records nam
 
 Laos's own way (Grade 10 ICT teacher guide): the guide quietly carries the year's only practical work as a supplementary appendix (ແນະນໍາເພີ່ມ, printed pp. 82–118) the student book does not contain — Google searching with Internet Explorer/Firefox, hand-coding a web page in Notepad (with w3schools named as the reference), a full PowerPoint 2007 course, and a DOS command-prompt practical. (teacher guide — evidence)
 
-Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide, moldova, grade 7 informatica

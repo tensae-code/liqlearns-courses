@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -49,6 +49,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 
 **Book 24:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 25:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the database approach: all logically related data in one shared collection (a database) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
@@ -68,6 +70,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | Activity 24: Database management software (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 99 (teacher guide — evidence) |
 | Ch.1 §3 Databases and database management systems (Data Base and Database Management System) | Laos Grade 11 ICT student, printed p. 16 |
 | Ch.3.2 Databases | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 85 |
+| 4.4 Sisteme de gestiune a bazelor de date | Moldova Grade 12 Informatică, printed p. 132 |
 
 | Sub lesson 4 (teacher guide — evidence) — the database-versus-DBMS distinction: a database is the schema designed with a DBMS to store data; the DBMS is the software tool used to maintain it; tool landscape MySQL, Oracle, MS SQL Server, MariaDB | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
 | Sub lesson 4 (teacher guide — evidence) — the NoSQL challenge: an RDBMS schema is not flexible enough for big data; NoSQL models address it; prerequisite MS Access 2013 or later | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
@@ -85,7 +88,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | Unit 3, Create a Database for the project | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 61 (PDF page) |
 | Bab 4 Kod Arahan, 4.1.1 Maksud dan Penggunaan Pangkalan Data dan SQL | Malaysia Grade 9 ASK Tingkatan 3, printed p. 114 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece).**
+**Acceptance count: taught in 16 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece, Moldova).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -134,4 +137,6 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, kuwait, grade 11 information technology term 1, laos, grade 7 ict teacher guide, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, kuwait, grade 11 information technology term 1, laos, grade 7 ict teacher guide, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 12 informatica

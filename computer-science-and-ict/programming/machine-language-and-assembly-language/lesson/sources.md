@@ -1,6 +1,6 @@
 # Sources - Machine language and assembly language
 
-countries: Ethiopia, Sudan, Sri Lanka, Greece
+countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece
 
 **Book 7:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 8:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Machine language (program; binary; direct understanding; fast, memory-efficient, very hard to write) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 132-133 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece
 | Unit 2 Lesson 1: Generations of programming languages | Sudan, *ICT, Grade 9*, printed p. 20 |
 | Ch.1 Evolution of computer languages: machine, assembly, high-level, natural/artificial generations | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 1 |
 | Ch.6 The concept of a program / historical review: machine languages, symbolic languages | Greece Grade 12 Anaptyxi Efarmogon, printed p. 105 |
+| 6.4 Limbajul cod-calculator și limbajul de asamblare | Moldova Grade 11 Informatică, printed p. 170 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Sri Lanka, Greece).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -40,4 +43,6 @@ Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming cours
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
 
-Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica

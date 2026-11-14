@@ -1,6 +1,6 @@
 # Sources — Animating slide content — entrance, emphasis, the Animation Pane
 
-countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, Greece
+countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, G
 
 **Book 11:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 12:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — animations reveal items one at a time; the worked route on a bulleted slide: Animations tab, select bullets, hover to preview, More for the full list, Fade, Effect Options | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 127–128 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, G
 | Animation of a presentation (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
 | Ch.5 §VII.1 Creating animation in PowerPoint | Laos Grade 12 ICT student, printed p. 239 |
 | Unit 4 Object movements / slide transitions | Greece Grade 8 Pliroforiki B, printed p. 51 |
+| 5.5 Tranziții și animații (animations) | Moldova Grade 7 Informatică, printed p. 103 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Iraq, Bhutan, Libya, Mongolia, Rwanda, Laos, Greece, Moldova).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -61,4 +64,6 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: animations, Animations tab, Fade, Animation Pane, entrance, emphasis, Effect Options, Ethiopia Grade 10, afghanistan, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: animations, Animations tab, Fade, Animation Pane, entrance, emphasis, Effect Options, Ethiopia Grade 10, afghanistan, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica

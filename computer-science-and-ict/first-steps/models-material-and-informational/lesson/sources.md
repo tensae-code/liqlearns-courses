@@ -1,17 +1,22 @@
 # Sources — Models — Material and Informational
 
-countries: Mongolia
+countries: Mongolia, Moldova
 
 **Book 1:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
+**Book 2:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1.4 The model (material models and informational models of an object) | Mongolia Grade 6 IT VI, printed p. 12 |
+| 3.1 Noțiune de model. Clasificarea modelelor (filed as NEW LESSON NEEDED — programming/models-in-informatics-and-how-models-are-classified; stocked in this lesson because this lesson teaches models and how they are classified — material models and informational models — the model classification of Moldova's section) | Moldova Grade 12 Informatică, printed p. 87 |
 
-**Acceptance count: taught in 1 country (Mongolia).**
+**Acceptance count: taught in 2 countries (Mongolia, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Mongolia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — first-steps/models-material-and-informational). It sits in the First Steps title (first-steps/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Mongolia student book. Duplicate catalogue records of the same book (11 records / 7 distinct books in this expansion) are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
 
-Searchable tags: models, material model, informational model, object, first steps, mongolia, grade 6 it vi
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: models, material model, informational model, object, first steps, mongolia, grade 6 it vi, moldova, grade 12 informatica

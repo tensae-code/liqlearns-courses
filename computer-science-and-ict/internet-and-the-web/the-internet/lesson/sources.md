@@ -1,6 +1,6 @@
 # Sources — The internet — a network of networks
 
-countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece
+countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -73,6 +73,8 @@ countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanist
 **Book 35:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 36:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 37:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The internet — a network of networks; private, public, government; sharing globally | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.47 |
@@ -101,6 +103,7 @@ countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanist
 | Ch.5 §5.1 History of the internet | Laos Grade 8 ICT student, printed p. 90 |
 | Unit 5 The Internet and the World Wide Web | Greece Grade 7 Pliroforiki A, printed p. 42 |
 | Ch.9 Structure and services of the Internet (with history) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 80 |
+| 7.4 Rețeaua Internet | Moldova Grade 11 Informatică, printed p. 201 |
 
 | Sub lesson 2 — Internet services — WWW, email, Telnet, FTP (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | Sub lesson 2 — a modem joins a computer to the internet (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4 text, printed p. 64, and glossary, printed pp. 104–107 (wording corrected — see the honesty note below) |
@@ -118,7 +121,7 @@ countries: Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanist
 | 5-3 Internet and Communication | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 50 |
 | Unit 3 Lesson 3 Internet Services | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 13 |
 
-**Acceptance count: taught in 22 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 23 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -177,4 +180,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica

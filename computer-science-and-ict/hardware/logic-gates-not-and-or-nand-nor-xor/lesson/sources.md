@@ -1,6 +1,6 @@
 # Sources — Logic Gates — NOT, AND, OR, NAND, NOR, XOR
 
-countries: Montenegro, Egypt, Malaysia, Sri Lanka, Greece
+countries: Montenegro, Egypt, Malaysia, Sri Lanka, Greece, Moldova
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
@@ -18,6 +18,8 @@ countries: Montenegro, Egypt, Malaysia, Sri Lanka, Greece
 
 **Book 8:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 9:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The basic gates — inverter, AND, OR | Montenegro, *Digitalna Elektronika*, Poglavlje II §2.1, Osnovna logička kola: inverter, AND, OR, NAND, NOR, XOR, XNOR and complex gates, printed p. 46 |
@@ -33,8 +35,9 @@ countries: Montenegro, Egypt, Malaysia, Sri Lanka, Greece
 | Ch.5 Physical computing: basic logic gates AND, OR, NOT, truth tables, connecting gates in circuits (filed as hardware/basic-logic-gates-and-or-not; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 55 |
 | Workbook Ch.5 Activities 5.1-5.5: physical computing / logic gate exercises (filed as hardware/basic-logic-gates-and-or-not; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 8 G8 ICT Workbook, printed p. 34 |
 | Ch.10 Logic gates (filed as NEW LESSON NEEDED — hardware/logic-gates; stocked in this lesson because this lesson teaches the logic gates — NOT, AND, OR, NAND, NOR and XOR — the gates Greece's section builds from Boolean algebra) | Greece Grade 11 EPAL Basika Themata, printed p. 118 |
+| 5.1 Circuite logice elementare (filed as NEW LESSON NEEDED — hardware/elementary-logic-circuits-gates; stocked in this lesson because this lesson teaches the elementary logic circuits — the gates NOT, AND, OR, NAND, NOR, XOR — the gates of Moldova's section) | Moldova Grade 11 Informatică, printed p. 142 |
 
-**Acceptance count: taught in 5 countries (Montenegro, Egypt, Malaysia, Sri Lanka, Greece).**
+**Acceptance count: taught in 6 countries (Montenegro, Egypt, Malaysia, Sri Lanka, Greece, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Hardware title (hardware/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -54,4 +57,6 @@ Sri Lanka's own way (Grade 8 Workbook): a companion workbook mirroring the Readi
 
 Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
 
-Searchable tags: logic gates, not gate, inverter, and, or, nand, nor, xor, xnor, complex gates, universal gate, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, papua new guinea, grade 9, egypt, grade 10, grade 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, greece, grade 11 epal basika themata
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: logic gates, not gate, inverter, and, or, nand, nor, xor, xnor, complex gates, universal gate, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, papua new guinea, grade 9, egypt, grade 10, grade 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, greece, grade 11 epal basika themata, moldova, grade 11 informatica

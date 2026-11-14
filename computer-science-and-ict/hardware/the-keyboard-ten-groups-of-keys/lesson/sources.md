@@ -1,6 +1,6 @@
 # Sources — The keyboard — ten groups of keys
 
-countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan
+countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -26,6 +26,9 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan
 
 **Book 12:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 13:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 14:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -43,8 +46,10 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan
 | Unidad 2 Teclado para textos sencillos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher guide — evidence) |
 | Unit 1.8 Keyboarding techniques | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 28 |
 | 3.3 Using Keyboard (kinds of keys, touch typing) | Bhutan, *Literacy with ICT, Class IV*, printed p. 25 |
+| Lecția 4 Tastatura (letter keys, capitals, arrow keys) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 21 |
+| 6.8 Vizualizatorul și tastatura (the keyboard) | Moldova Grade 11 Informatică, printed p. 182 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova).**
 
 Printed p. 20 of the student book carries a stray character run (a run of the capital letter K typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -71,4 +76,8 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv
+Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of information quantity (bit, byte, binary drawing) before any office software, teaches the keyboard including touch-typing posture, and keeps programming unplugged-but-precise: loops, jump (pen-up) instructions and multi-loop programs for the mouse, the painter and the hedgehog. The Digital Education module sits inside Technological Education.
+
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica

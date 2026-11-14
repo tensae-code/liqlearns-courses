@@ -1,6 +1,6 @@
 # Sources — Internet Services — and What You Need to Connect
 
-countries: Sudan, Fiji, Greece
+countries: Sudan, Fiji, Greece, Moldova
 
 **Book 1:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
@@ -8,13 +8,16 @@ countries: Sudan, Fiji, Greece
 
 **Book 3:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 4:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 2: Internet advantages and services, and the requirements for connecting | Sudan, *ICT, Grade 7*, printed p. 56 |
 | Unit 5.4 Internet applications (filed as NEW LESSON NEEDED — internet-and-the-web/internet-applications-what-the-internet-is-used-for; stocked in this lesson because this lesson teaches the internet's services — what the internet is used for — directly) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 163 |
 | Ch.10 Internet services / the World Wide Web, internet services and applications (filed as NEW LESSON NEEDED — internet-and-the-web/internet-services-and-applications; stocked in this lesson because this lesson teaches internet services and their applications — the World Wide Web, electronic mail, searching, talking and sending files, and the e-services of governments and banks — the services Greece's chapter surveys) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 87 |
+| 7.5 Servicii Internet (filed as NEW LESSON NEEDED — internet-and-the-web/internet-services; stocked in this lesson because this lesson teaches Internet services — and what you need to connect — the services of Moldova's section) | Moldova Grade 11 Informatică, printed p. 206 |
 
-**Acceptance count: taught in 3 countries (Sudan, Fiji, Greece).**
+**Acceptance count: taught in 4 countries (Sudan, Fiji, Greece, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Sudan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — internet-and-the-web/internet-services-and-what-you-need-to-connect). It sits in the Internet and the Web title (internet-and-the-web/), following the book's own order.
 
@@ -24,4 +27,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: internet services, connecting to the internet, isp, modem, browser, advantages, internet and the web, sudan, grade 7, fiji, years 7-8, greece, grade 10 efarmoges pliroforikis lykeiou
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: internet services, connecting to the internet, isp, modem, browser, advantages, internet and the web, sudan, grade 7, fiji, years 7-8, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica

@@ -1,6 +1,6 @@
 # Sources — Communication in an ICT system
 
-countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda
+countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda
 
 **Book 6:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 7:** *EDUCAȚIE DIGITALĂ — Clasa I (Educație digitală. Clasa I: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2018; ISBN: no ISBN printed (multimedia edition, 60 p., produced under the 2018 digital-education memorandum with Tekwill). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 60 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Communication in an ICT system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 4–5 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda
 | Lesson 3 "Information and communications" | Afghanistan, *Computer, Grade 12*, printed p. 7 |
 | 5-1 Development of Communication Methods | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 46 |
 | Elements of Communication / Ways of Communicating | Rwanda Grade 7 S1 ICT Student Book, printed p. 4 |
+| Lecția 6 Comunicăm digital | Moldova Grade 1 Educație Digitală Clasa I, printed p. 21 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -33,4 +36,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
 
-Searchable tags: communication in an ict system, first steps, grade 7, information technology, ict, ethiopia, cambodia, azerbaijan, afghanistan, egypt, grade 10, rwanda, grade 7 s1 ict student book
+Moldova's own way (Grade 1, Educație Digitală): digital education starts at age 6–7 with no keyboard skills assumed — information, devices and staying safe first, told through two child guides (Ana and Ștefan), and programming introduced unplugged (instructions, algorithm, a first maze program, debugging) before any real software. The Digital Education module sits inside Technological Education in the early grades.
+
+Searchable tags: communication in an ict system, first steps, grade 7, information technology, ict, ethiopia, cambodia, azerbaijan, afghanistan, egypt, grade 10, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala

@@ -1,6 +1,6 @@
 # Sources — Types of computer by size — microcomputers and desktops
 
-countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece
+countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -36,6 +36,9 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 
 **Book 17:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 18:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 19:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed pp. 7–8 |
@@ -55,8 +58,10 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 | Ch.1 Classification of computers: super, mainframe, mini, micro; personal, laptop, palmtop (PDA), tablet (filed as first-steps/computer-kinds-by-size-desktop-laptop-tablet-phone; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 27 |
 | Ch.4 §1 Types of computers (supercomputer, mainframe, minicomputer, microcomputer/PC) | Laos Grade 6 ICT student, printed p. 59 |
 | Unit 2 Types of computers | Greece Grade 7 Pliroforiki A, printed p. 27 |
+| 2.2 Clasificarea calculatoarelor | Moldova Grade 7 Informatică, printed p. 28 |
+| 6.10 Clasificarea calculatoarelor | Moldova Grade 11 Informatică, printed p. 187 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece).**
+**Acceptance count: taught in 13 countries (Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece, Moldova).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -86,4 +91,8 @@ Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no 
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11, libya, grade 8 computer, sri lanka, grade 12 science for technology tamil, laos, grade 6 ict student, greece, grade 7 pliroforiki a gymnasiou
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11, libya, grade 8 computer, sri lanka, grade 12 science for technology tamil, laos, grade 6 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, moldova, grade 11 informatica

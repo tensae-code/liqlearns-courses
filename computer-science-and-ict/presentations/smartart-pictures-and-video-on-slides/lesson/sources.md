@@ -1,6 +1,6 @@
 # Sources — SmartArt, pictures and video on slides
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos
 
 **Book 11:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 12:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SmartArt — relationships, organisation charts, timelines; SmartArt Tools | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 130–132 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos
 | 2.3.3 Objects of many kinds in a presentation (inserting pictures, SmartArt diagrams, tables and charts) | Mongolia Grade 7 IT VII, printed p. 54 |
 | Unit 2, Lesson 3 The Exciting Presentation (3): inserting pictures (from the device and online) and formatting them on the slide | Kuwait Grade 4 Digital Explorer T2, printed p. 115 |
 | Ch.5 §IV Inserting media and pictures into slides (and Clip Art) | Laos Grade 12 ICT student, printed p. 218 |
+| 5.4 Inserarea și editarea imaginilor | Moldova Grade 7 Informatică, printed p. 100 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos).**
+**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -61,4 +64,6 @@ Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records nam
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, moldova, grade 7 informatica

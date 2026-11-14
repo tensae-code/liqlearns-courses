@@ -1,6 +1,6 @@
 # Sources — Procedures and Functions — Actual and Formal Parameters
 
-countries: Greece
+countries: Greece, Moldova
 
 **Book 1:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
@@ -8,13 +8,16 @@ countries: Greece
 
 **Book 3:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 4:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.10 Procedures and functions: definition and call, real and formal parameters | Greece Grade 12 Anaptyxi Efarmogon, printed p. 175 |
 | Ch.5 Modular programming – subprograms (procedures-functions): worked procedure and function examples compared | Greece Grade 12 Anaptyxi Study Guide, printed p. 97 |
 | Workbook Ch.10 Subprograms (worked examples and activities, with self-assessment answers) | Greece Grade 12 Anaptyxi Workbook, printed p. 93 |
+| 1.9 Sintaxa declarațiilor și apelurilor de subprograme (filed as NEW LESSON NEEDED — programming/the-syntax-of-subprogram-declarations-and-calls; stocked in this lesson because this lesson teaches subprogram declarations and calls — formal parameters declared in the heading, actual parameters supplied at the call — the declaration and call syntax of Moldova's section) | Moldova Grade 12 Informatică, printed p. 44 |
 
-**Acceptance count: taught in 1 country (Greece).**
+**Acceptance count: taught in 2 countries (Greece, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/procedures-and-functions-actual-and-formal-parameters). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -24,4 +27,6 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon Study Guide — Odigies Meletis M
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
 
-Searchable tags: procedures, functions, parameters, actual, formal, subprograms, programming, greece, grade 12
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: procedures, functions, parameters, actual, formal, subprograms, programming, greece, grade 12, moldova, grade 12 informatica

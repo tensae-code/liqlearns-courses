@@ -1,6 +1,6 @@
 # Sources — What security and computer security mean
 
-countries: Ethiopia, Tanzania, China, Sudan, Laos, Greece
+countries: Ethiopia, Tanzania, China, Sudan, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Tanzania, China, Sudan, Laos, Greece
 
 **Book 9:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 10:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Security defined; INSA introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 192 |
@@ -28,6 +30,7 @@ countries: Ethiopia, Tanzania, China, Sudan, Laos, Greece
 | Data Security | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 3 §3.2.3, printed p. 100 |
 | Ch.3 §1 Concepts of keeping computers secure | Laos Grade 10 ICT student, printed p. 38 |
 | Unit 6 Cybersecurity: threats and protection measures | Greece Grade 7 Pliroforiki A, printed p. 61 |
+| 4.4 Securitatea informatică | Moldova Grade 7 Informatică, printed p. 90 |
 
 | Information security — the nine-act definition (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 182–183 |
 | Computer security — devices, networks, the whole internet; the three protection reasons; exposure by connection; hackers (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 182–183, 185 |
@@ -35,7 +38,7 @@ countries: Ethiopia, Tanzania, China, Sudan, Laos, Greece
 | Computer security | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 127 |
 | Unit 2 Lesson 2: Information security | Sudan, *ICT, Grade 6*, printed p. 14 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, China, Sudan, Laos, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, China, Sudan, Laos, Greece, Moldova).**
 
 Grade 10 growth added 2026-11-12 from the Grade 10 student book, Unit 5, and the Grade 10 teacher guide's Unit 5 review key (printed pp. 101–102), which also served as a verified answer source for this build's Grade 10 Unit 5 question files (the guide keys every unit's objective items — Unit 5 at printed p. 101, Unit 6 at printed p. 116). Book error flagged in the unit's student placements and handled here: the Unit 5 figure sequence in the student book jumps to “Figure 5.14” for its cyber-attack picture; no lesson in this growth cites that figure number — the picture's content is taught, the wrong number is not.
 
@@ -45,4 +48,6 @@ Laos's own way (Grade 10 ICT student book): the upper-secondary course turns con
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: security, computer security, INSA, unauthorised use, Grade 9 ICT Ethiopia Unit 5, tanzania, china, sudan, grade 6, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: security, computer security, INSA, unauthorised use, Grade 9 ICT Ethiopia Unit 5, tanzania, china, sudan, grade 6, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica

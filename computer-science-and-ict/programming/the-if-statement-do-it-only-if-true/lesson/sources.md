@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece
+countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -36,6 +36,9 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 **Book 17:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 18:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Παράρτημα Α, Οδηγίες Μελέτης Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Appendix A — Student Study Guide)* (study guide, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2020-2021 (2nd edition); ISBN 978-960-06-5996-2, book code 0-22-0278. 126 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 19:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 20:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -58,8 +61,10 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 | Part 2, Book 3, Chapter 2 Branching: the IF…Then instruction in its first form | Kuwait Grade 12 Information Technology T1 (Part 2), printed p. 123 |
 | Ch.8 Selection commands: the ΑΝ (IF) command | Greece Grade 12 Anaptyxi Efarmogon, printed p. 139 |
 | Ch.2 Selection structure: simple, compound and multiple selection, general worked examples | Greece Grade 12 Anaptyxi Study Guide, printed p. 21 |
+| 3.10 Instrucțiunea if (in Pascal) | Moldova Grade 8 Informatică, printed p. 108 |
+| 3.11 Instrucțiunea if (Pascal/C++) | Moldova Grade 10 Informatică, printed p. 129 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -91,4 +96,8 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon Study Guide — Odigies Meletis Mathiti): the official study guide (Appendix A) companions the main AEPP book's ΓΛΩΣΣΑ chapters only — it re-teaches each structure with fully solved examples plus unsolved exercises: program structure and data types in ΓΛΩΣΣΑ, selection, repetition (including loop conversions and min/max patterns), arrays (sorting, searching, merging, parallel arrays), and subprograms (procedures vs functions worked side by side).
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ side by side — each school chooses one or both — and upper-secondary programming is language-formal: BNF metalanguage and syntax diagrams, ordinal types, type conversions, every concept given in Pascal for teaching and in C++ for a technology career.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica

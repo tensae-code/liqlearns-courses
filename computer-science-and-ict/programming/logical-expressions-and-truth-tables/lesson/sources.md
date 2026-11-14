@@ -1,6 +1,6 @@
 # Sources — Logical Expressions and Truth Tables
 
-countries: Iraq, Uzbekistan, Malaysia
+countries: Iraq, Uzbekistan, Malaysia, Moldova
 
 **Book 1:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
@@ -8,13 +8,16 @@ countries: Iraq, Uzbekistan, Malaysia
 
 **Book 3:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 4:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Ch.1 Lesson 3 Logical expressions and truth tables | Iraq, *Computer, Grade 8*, printed p. 85 |
 | Урок 15 "Логические операции" (filed as programming/logical-operations-and-or-not; stocked into this lesson as the closest existing lesson covering this thing) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 65 |
 | 1.3 Jadual Kebenaran dan Ungkapan Boolean bagi Litar Get Logik (filed as hardware/truth-tables-and-boolean-expressions; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 11 SK Tingkatan 5, printed p. 42 |
+| 4.2 Funcții logice (filed as NEW LESSON NEEDED — programming/logical-functions-and-truth-tables; stocked in this lesson because this lesson teaches logical expressions and their truth tables — every combination listed and proved — the logical functions of Moldova's section) | Moldova Grade 11 Informatică, printed p. 137 |
 
-**Acceptance count: taught in 3 countries (Iraq, Uzbekistan, Malaysia).**
+**Acceptance count: taught in 4 countries (Iraq, Uzbekistan, Malaysia, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/logical-expressions-and-truth-tables). It sits in the Programming title (programming/), following the book's own order.
 
@@ -25,4 +28,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
 
-Searchable tags: logical expressions, truth tables, and or not, conditions, programming, iraq, grade 8, uzbekistan, grade 8, malaysia, grade 11 sk tingkatan 5
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: logical expressions, truth tables, and or not, conditions, programming, iraq, grade 8, uzbekistan, grade 8, malaysia, grade 11 sk tingkatan 5, moldova, grade 11 informatica

@@ -1,6 +1,6 @@
 # Sources — Multimedia — many forms, one presentation
 
-countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos, Greece
+countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 
 **Book 15:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 16:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Many forms, one presentation | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 introduction and §4.2, printed pp. 144, 147 |
@@ -48,6 +50,7 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 | Unit 8: introduction to multimedia — definition, categories, features, types (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 145 (teacher guide — evidence) |
 | Ch.3 §7 Multimedia technology | Laos Grade 6 ICT student, printed p. 57 |
 | Ch.3 Managing digital material and multimedia applications | Greece Grade 10 Efarmoges Pliroforikis, printed p. 26 |
+| 3.11 Aplicații multimedia | Moldova Grade 7 Informatică, printed p. 74 |
 
 | Going deeper — why the combination matters (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4 overview and opening, printed pp. 139–140 |
 | The unit ahead (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 139–181 |
@@ -55,7 +58,7 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 | Strand 4, Topic Authoring Software / Multimedia, Lessons 1-3: Introduction to Multimedia Authoring Software; Categories of Authoring Software; Features of Multimedia Authoring Software (yearly overview) (filed as multimedia/multimedia-and-its-many-forms; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 123 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Multimedia and Graphics, Lesson 1: Introduction to Multimedia (multimedia in business, hospitals and more) (filed as multimedia/multimedia-and-its-many-forms; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 74 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos, Greece, Moldova).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -87,4 +90,6 @@ Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no 
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 7 informatica

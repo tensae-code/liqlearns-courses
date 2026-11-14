@@ -1,6 +1,6 @@
 # Sources — Ethics and law in information systems
 
-countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos
+countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri L
 
 **Book 13:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 14:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ethics, and why information systems raise questions | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 2 (student placement item 2) |
@@ -44,8 +46,9 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri L
 | Ch.2 Computer ethics | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 18 |
 | Unit 1, Theme 6: the main ethical aspects of cyber security — using technology responsibly and not harming others | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 | Ch.5 §3 Computer ethics (Computer Ethnics, as printed) | Laos Grade 6 ICT student, printed p. 89 |
+| 4.3 Drept informatic (IT law) | Moldova Grade 7 Informatică, printed p. 87 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Moldova).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -67,4 +70,6 @@ Kuwait's own way (Grade 10 Information Technology Term 1): secondary school swit
 
 Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
 
-Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5, mongolia, grade 10 it x, sri lanka, grade 6 reading book, kuwait, grade 10 information technology term 1, laos, grade 6 ict student
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5, mongolia, grade 10 it x, sri lanka, grade 6 reading book, kuwait, grade 10 information technology term 1, laos, grade 6 ict student, moldova, grade 7 informatica

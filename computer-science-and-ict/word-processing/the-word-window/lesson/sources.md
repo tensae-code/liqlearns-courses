@@ -1,6 +1,6 @@
 # Sources — The Word window — naming its parts
 
-countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece
+countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 19:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 20:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Title bar, tabs, Quick Access Toolbar (Save, Undo, Repeat) | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.38–39 |
@@ -50,6 +52,7 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | 2.3 Features of MS Word Window | Bhutan, *Literacy with ICT, Class V*, printed p. 14 |
 | Word processing environment | Rwanda Grade 7 S1 ICT Student Book, printed p. 103 |
 | Unit 7 The word-processor environment | Greece Grade 7 Pliroforiki A, printed p. 70 |
+| 1.1 Aplicația Word | Moldova Grade 8 Informatică, printed p. 5 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -65,7 +68,7 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | Урок 2 "Интерфейс текстового процессора MS Word" | Uzbekistan, *Informatika, Grade 6*, printed p. 9 |
 | Урок 25 "Интерфейс программы MS Word" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 104 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece).**
+**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece, Moldova).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -98,4 +101,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8, bhutan, class v, rwanda, grade 7 s1 ict student book, greece, grade 7 pliroforiki a gymnasiou
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8, bhutan, class v, rwanda, grade 7 s1 ict student book, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica

@@ -1,6 +1,6 @@
 # Sources — Creating a query in Access
 
-countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos
+countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos
 **Book 11:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 **Book 12:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 13:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a query is an object that gives a custom view of data from one or more tables, a way of searching and compiling exactly the data wanted, built graphically (the book defers SQL); order: open the database, Create menu, Query Design, Show Table — select the table or tables and confirm | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 66–68 |
@@ -37,6 +39,7 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos
 | 4.4 Database processing: queries (Query Design, Like "*номин*", the SQL view, operators, calculated fields, parameter queries; finding pupils by mobile operator — Unitel, Mobicom, Skytel, G-Mobile) | Mongolia Grade 10 IT X, printed p. 131 |
 | Ch.2 §8 Creating a query (Query) | Laos Grade 11 ICT student, printed p. 90 |
 | Ch.3 §I.1 Summarising data from a database through MS Access | Laos Grade 12 ICT student, printed p. 129 |
+| 4.9 Noțiuni generale despre interogări | Moldova Grade 12 Informatică, printed p. 152 |
 
 | Sub lesson 4 — writing a query in Access: Create tab → Query Design; close the Show Table dialog; SQL View dropdown at the left → SQL View, where SQL commands are written | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 67–68 |
 | Sub lesson 4 — running: Design tab → Results group → Run; or double-click a saved query in the queries view (example: a saved query listing male students); Access reports errors with a pop-up matched to the error type | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 67–68 |
@@ -45,7 +48,7 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos
 | Lesson 9 Forms and Queries | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 86 |
 | Activity set 9 Forms & Queries | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 38 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos).**
+**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -71,4 +74,6 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide, mongolia, grade 10 it x, laos, grade 11 ict student, grade 12 ict student
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide, mongolia, grade 10 it x, laos, grade 11 ict student, grade 12 ict student, moldova, grade 12 informatica

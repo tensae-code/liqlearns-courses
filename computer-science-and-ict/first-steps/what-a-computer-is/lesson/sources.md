@@ -1,6 +1,6 @@
 # Sources — What a computer is — input, process, store, output
 
-countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos
+countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 
 **Book 21:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 22:** *EDUCAȚIE DIGITALĂ — Clasa I (Educație digitală. Clasa I: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2018; ISBN: no ISBN printed (multimedia edition, 60 p., produced under the 2018 digital-education memorandum with Tekwill). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 60 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -69,8 +71,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 | Ch.1 Identifying the computer: what a computer is; main functions — input, processing, output, storing, controlling | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 1 |
 | Definition, functions and characteristics of a computer | Rwanda Grade 7 S1 ICT Student Book, printed p. 22 |
 | Ch.1 §1 What is a computer? | Laos Grade 7 ICT student, printed p. 1 |
+| Lecția 3 Calculatorul – dispozitiv digital | Moldova Grade 1 Educație Digitală Clasa I, printed p. 12 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 16 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -111,4 +114,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
 
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6, fiji, years 7-8, year 11, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student
+Moldova's own way (Grade 1, Educație Digitală): digital education starts at age 6–7 with no keyboard skills assumed — information, devices and staying safe first, told through two child guides (Ana and Ștefan), and programming introduced unplugged (instructions, algorithm, a first maze program, debugging) before any real software. The Digital Education module sits inside Technological Education in the early grades.
+
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6, fiji, years 7-8, year 11, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, moldova, grade 1 educatie digitala

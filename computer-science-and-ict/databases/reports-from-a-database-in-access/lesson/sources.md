@@ -1,6 +1,6 @@
 # Sources — Reports from a Database in Access
 
-countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos
+countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova
 
 **Book 1:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
@@ -18,6 +18,8 @@ countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos
 
 **Book 8:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 9:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | § 15 "Стварэнне справаздач" (creating reports) | Belarus, *Інфарматыка. 11 клас*, § 15, printed p. 131 |
@@ -28,8 +30,9 @@ countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos
 | 2.3.5 Penjanaan Laporan Berdasarkan Hasil Query (filed as databases/reports-from-query-results; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 262 |
 | 4.5 Preparing database reports (the Report Wizard; grouping records by school) (filed as NEW LESSON NEEDED — databases/making-a-report-in-access; stocked in this lesson because this lesson teaches creating Access reports — grouped and printed — as its own lesson) | Mongolia Grade 10 IT X, printed p. 140 |
 | Ch.2 §9 Creating a report (Report) (filed as NEW LESSON NEEDED — databases/creating-a-report-in-access; stocked in this lesson because this lesson teaches creating a report in Access — choosing source records, fields, grouping, order and layout — the same thing Laos's section teaches) | Laos Grade 11 ICT student, printed p. 94 |
+| 4.14 Rapoarte (filed as NEW LESSON NEEDED — databases/reports-in-access; stocked in this lesson because this lesson teaches reports in Access — reports from a database — the reports of Moldova's section) | Moldova Grade 12 Informatică, printed p. 177 |
 
-**Acceptance count: taught in 6 countries (Belarus, Sudan, Libya, Malaysia, Mongolia, Laos).**
+**Acceptance count: taught in 7 countries (Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Belarus, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Databases title (databases/), following the book's own order.
 
@@ -49,4 +52,6 @@ Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, la
 
 Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
 
-Searchable tags: access, report, grouping, totals, print, database, belarus, grade 11, sudan, grade 7, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: access, report, grouping, totals, print, database, belarus, grade 11, sudan, grade 7, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student, moldova, grade 12 informatica

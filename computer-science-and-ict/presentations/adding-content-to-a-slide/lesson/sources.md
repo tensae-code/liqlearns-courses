@@ -1,6 +1,6 @@
 # Sources — Adding content to a slide
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwand
 
 **Book 13:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 14:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text as default content; content by placeholder icon or the Insert tab | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 127–128 |
@@ -43,8 +45,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwand
 | 7.4 Creating a Presentation (adding content) | Bhutan, *Literacy with ICT, Class VII*, printed p. 101 |
 | Ch 5, adding text data and adding a picture to a presentation slide | Libya Grade 12 IT Humanities, printed p. 64 |
 | Objects on slides: textbox, images and online pictures; move, resize and delete a picture | Rwanda Grade 9 S3 ICT Student Book, printed p. 162 |
+| 5.3 Inserarea și editarea casetelor de text | Moldova Grade 7 Informatică, printed p. 97 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda).**
+**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda, Moldova).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -70,4 +73,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
 
-Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8, bhutan, class vii, libya, grade 12 it humanities, rwanda, grade 9 s3 ict learners book
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8, bhutan, class vii, libya, grade 12 it humanities, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica

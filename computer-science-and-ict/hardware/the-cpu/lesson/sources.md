@@ -1,6 +1,6 @@
 # Sources — The CPU — the brain of the computer
 
-countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece
+countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece
 
 **Book 9:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 10:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CPU — the brain of the computer | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 20 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece
 | Workbook Ch.1 Central Processing Unit exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 1 |
 | Ch.1 §3 The central processing unit | Laos Grade 7 ICT student, printed p. 4 |
 | Ch.1 Central Processing Unit | Greece Grade 10 Efarmoges Pliroforikis, printed p. 11 |
+| 6.11 Microprocesorul | Moldova Grade 11 Informatică, printed p. 189 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -52,4 +55,6 @@ Laos's own way (Grade 7 ICT student book): the hardware year is taught through t
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica

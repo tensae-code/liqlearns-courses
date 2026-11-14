@@ -1,12 +1,14 @@
 # Sources — Procedures and Functions in Pascal
 
-countries: Uzbekistan, Malaysia
+countries: Uzbekistan, Malaysia, Moldova
 
 **Book 1:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
 **Book 2:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 **Book 3:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 4:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +17,10 @@ countries: Uzbekistan, Malaysia
 | 4.2.1 Fungsi Function dan Procedure dalam Atur Cara (filed as programming/functions-and-procedures; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 9 ASK Tingkatan 3, printed p. 167 |
 | 4.2.3 Menulis Pernyataan Function dan Procedure (filed as programming/writing-functions-and-procedures; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 9 ASK Tingkatan 3, printed p. 176 |
 | 1.6.3 Perbezaan antara Fungsi (Function) dan Prosedur (Procedure) pada Subatur Cara (filed as programming/functions-and-procedures; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 154 |
+| 1.2 Funcții (filed as NEW LESSON NEEDED — programming/functions-subprograms-that-return-a-value; stocked in this lesson because this lesson teaches functions in Pascal — subprograms that return a value — the functions of Moldova's section) | Moldova Grade 12 Informatică, printed p. 8 |
+| 1.3 Proceduri / Funcții fără tip (filed as NEW LESSON NEEDED — programming/procedures-and-void-functions; stocked in this lesson because this lesson teaches procedures in Pascal — named work called by name — the procedures (void functions in C++) of Moldova's section) | Moldova Grade 12 Informatică, printed p. 15 |
 
-**Acceptance count: taught in 2 countries (Uzbekistan, Malaysia).**
+**Acceptance count: taught in 3 countries (Uzbekistan, Malaysia, Moldova).**
 
 Placement choice: this lesson was built new for the ICT expansion (Uzbekistan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/procedures-and-functions-in-pascal). It sits in the Programming title (programming/), following the book's own order. The placements file names this slug 2 times (Grade 9, printed p. 114; Grade 9, printed p. 116); the lesson is built ONCE, with a provenance row per placement.
 
@@ -26,4 +30,6 @@ Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: pascal, procedures, functions, parameters, programming, uzbekistan, grade 9, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: pascal, procedures, functions, parameters, programming, uzbekistan, grade 9, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, moldova, grade 12 informatica

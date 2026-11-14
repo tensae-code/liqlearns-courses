@@ -1,6 +1,6 @@
 # Sources — Digital citizenship — active and thoughtful, not just careful
 
-countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos
+countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 
 **Book 15:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 16:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Citizenship — the do's | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 22 (student placement item 30) |
@@ -48,8 +50,9 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 | Unit 1 The Digital World, Lesson 1 Digital Citizenship: what it is and the good behaviours of the digital citizen | Kuwait Grade 4 Digital Explorer T1, printed p. 25 |
 | Unit 1 The Digital World: Creative in the Digital World — the digital community, the digital citizen and digital culture with intellectual honesty | Kuwait Grade 5 Digital Explorer T1, printed p. 23 |
 | Ch.6 §III.4 Using the internet with care | Laos Grade 12 ICT student, printed p. 254 |
+| 4.2 Etica spațiului virtual | Moldova Grade 7 Informatică, printed p. 85 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos).**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -75,4 +78,6 @@ Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1, laos, grade 12 ict student
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1, laos, grade 12 ict student, moldova, grade 7 informatica

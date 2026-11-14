@@ -1,21 +1,26 @@
 # Sources — Optical disks — pits, lands and the three CDs
 
-countries: Ethiopia, Laos
+countries: Ethiopia, Laos, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
 **Book 2:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
+
+**Book 3:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pits and lands | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.3, printed pp. 31–32 |
 | Sub lesson 2 — The CD and its three types | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.3, printed pp. 31–32 |
 | Ch.1 §1.5 Optical storage (optical discs and drives) | Laos Grade 8 ICT student, printed p. 13 |
+| 6.7 Memorii externe pe discuri optice | Moldova Grade 11 Informatică, printed p. 178 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Laos).**
+**Acceptance count: taught in 3 countries (Ethiopia, Laos, Moldova).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
 Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
 
-Searchable tags: optical disk, laser, pit, land, CD, CD-ROM, CD-R, CD-RW, WORM, 700 MB, Ethiopia Grade 8, laos, grade 8 ict student
+Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
+
+Searchable tags: optical disk, laser, pit, land, CD, CD-ROM, CD-R, CD-RW, WORM, 700 MB, Ethiopia Grade 8, laos, grade 8 ict student, moldova, grade 11 informatica

@@ -1,6 +1,6 @@
 # Sources — The relational data model — tables of rows and columns
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 
 **Book 12:** *تقنية المعلومات (Information Technology), Grade 11, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: second edition 2026/2027 (first edition 2025/2026); ISBN: no ISBN printed. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 13:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the relational model represents data as two-dimensional tables called relations; each row is a record (tuple) holding one unique instance; each column is an attribute (field) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 58–59 |
@@ -36,6 +38,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | Ch 3, operations of the relational model | Libya Grade 10 IT student, printed p. 34 |
 | Guide Ch 3, the relational data model (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 19 (teacher guide — evidence) |
 | Unit 1, Lesson 1: the parts of a relational database and the basic database types | Kuwait Grade 11 Information Technology T1, printed p. 17 |
+| 4.3 Elaborarea bazelor relaționale de date | Moldova Grade 12 Informatică, printed p. 128 |
 
 | Sub lesson 4 — an RDBMS is software used to create, maintain and provide controlled access to a relational database; two-dimensional tables, column = field/attribute, row = record/tuple with one value per column; the student entity's attributes (id, name, age, grade level, sex) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed p. 61 |
 | Sub lesson 4 (teacher guide — evidence) — Ethiopian example sets: single field values across types (book title, email address, sales date, body temperature, weight, cost in birr, expiry date, opening hour); the patient typed fields; fields for Person, Book and Sales; one full Student record row | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 53–54 |
@@ -45,7 +48,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | Unit 1 Lesson 2: Linked tables — avoiding repeated data | Sudan, *ICT, Grade 7*, printed p. 12 |
 | 9-2 Database [2] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 115 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -67,4 +70,6 @@ Libya's own way (Grade 10, Information Technology teacher guide): the guide walk
 
 Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databases the programmer's way — not Access, but SQLite driven from Python (sqlite3), with every operation practised on one running example, a Kuwait_landmarks.db database of Kuwait's landmarks; the term ends by integrating AI with the database in a face-recognition attendance project (OpenCV Haar cascades + SQLite logging).
 
-Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica

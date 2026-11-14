@@ -1,6 +1,6 @@
 # Sources — Creating a table and entering records in Access
 
-countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos
+countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos
 
 **Book 10:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 11:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — create: open the database; click Table Design on the Create menu; enter the field names; set each field's data type (text, number, date/time, currency and so on — the type is itself a check, since a Text field will not accept a number); field names unique in a table; a table needs at least two fields | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 64–65 |
@@ -34,6 +36,7 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos
 | Guide Ch 6, creating databases and tables (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 29 (teacher guide — evidence) |
 | Guide Ch 7, entering and editing data (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 37 (teacher guide — evidence) |
 | Ch.2 §3 Creating a table (Table), data types and fields (Fields) | Laos Grade 11 ICT student, printed p. 44 |
+| 4.5 Crearea tabelelor | Moldova Grade 12 Informatică, printed p. 135 |
 
 | Sub lesson 4 — every field gets a name and a data type; matches: residence id a four-digit number, first name text; age integer, name text, price real/currency, date of birth date, height integer or real, grade level integer, telephone number text; Access offers text, integer, real, date, currency, yes/no | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 61–62 |
 | Sub lesson 4 — the Access SQL types in detail: CHAR (≤255), TEXT (≤63,999), INTEGER/INT range, DATETIME years 100–9999, CURRENCY 8 bytes, COUNTER 4 bytes, Yes/No 1 bit | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 70–71 |
@@ -41,7 +44,7 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos
 | Unit 2 Lesson 2: Tables in Access | Sudan, *ICT, Grade 7*, printed p. 23 |
 | 2.3.1 Pembinaan Jadual Berpandukan Skema Hubungan (Microsoft Access) | Malaysia Grade 10 SK Tingkatan 4, printed p. 241 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -63,4 +66,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
 
-Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, laos, grade 11 ict student
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, laos, grade 11 ict student, moldova, grade 12 informatica

@@ -1,6 +1,6 @@
 # Sources — Recursive procedures — a procedure that calls itself
 
-countries: Ethiopia, Greece
+countries: Ethiopia, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Greece
 **Book 3:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 4:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 5:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
+**Book 6:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,9 @@ countries: Ethiopia, Greece
 | Unit 1 Recursive algorithms | Greece Grade 9 Pliroforiki C, printed p. 7 |
 | Ch.2.2 Calling an algorithm from an algorithm / recursion | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 41 |
 | Ch.3 Recursion: factorial, greatest common divisor, Fibonacci numbers | Greece Grade 12 Anaptyxi Efarmogon, printed p. 67 |
+| 1.8 Recursia (in Pascal/C++) | Moldova Grade 12 Informatică, printed p. 40 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
+**Acceptance count: taught in 3 countries (Ethiopia, Greece, Moldova).**
 
 Book error taught corrected, as the placements flag it: the "star" procedure in §6.3 is presented as recursive but never calls itself — it only uses REPEAT (printed pp. 96–97). The lesson teaches the book's definition of recursion, draws the book's star, and teaches plainly what the code actually does; the label is flagged here rather than taught as settled. The same section misspells SQUARE as "SQAURE" (printed p. 94) — flagged here, spelled correctly in the lessons. The teacher guide prints the same recursive-procedure definition twice in consecutive sentences in its Unit 6 overview (guide printed p. 50) — a guide duplication, noted here. The guide's Unit 6 answer key (printed p. 55) keys "recursive procedure" as a fill-in answer and was used as the verified-answer check for this lesson's question files.
 
@@ -30,4 +33,6 @@ Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeio
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
 
-Searchable tags: recursive procedures, LOGO recursion, self-call, star procedure, REPEAT 100, fd 100 rt 144, Grade 8 ICT Ethiopia, greece, grade 9 pliroforiki c gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: recursive procedures, LOGO recursion, self-call, star procedure, REPEAT 100, fd 100 rt 144, Grade 8 ICT Ethiopia, greece, grade 9 pliroforiki c gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 12 informatica

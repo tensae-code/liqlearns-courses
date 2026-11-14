@@ -1,6 +1,6 @@
 # Sources — Data — raw facts with no meaning yet
 
-countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece
+countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Gr
 **Book 11:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 12:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 13:** *EDUCAȚIE DIGITALĂ — Clasa I (Educație digitală. Clasa I: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2018; ISBN: no ISBN printed (multimedia edition, 60 p., produced under the 2018 digital-education memorandum with Tekwill). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 60 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Data — raw facts with no meaning yet | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 3 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Gr
 | Ch.1 §1 Data (meaning, and the data hierarchy bit → byte/character → field → record → file → database) | Laos Grade 11 ICT student, printed p. 1 |
 | Ch.2.2 Data and their representation | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 29 |
 | Ch.3 Data | Greece Grade 12 Anaptyxi Efarmogon, printed p. 55 |
+| Lecția 1 Informația (numbers and colours are information too) | Moldova Grade 1 Educație Digitală Clasa I, printed p. 5 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -61,4 +64,6 @@ Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeio
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
 
-Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa
+Moldova's own way (Grade 1, Educație Digitală): digital education starts at age 6–7 with no keyboard skills assumed — information, devices and staying safe first, told through two child guides (Ana and Ștefan), and programming introduced unplugged (instructions, algorithm, a first maze program, debugging) before any real software. The Digital Education module sits inside Technological Education in the early grades.
+
+Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 1 educatie digitala

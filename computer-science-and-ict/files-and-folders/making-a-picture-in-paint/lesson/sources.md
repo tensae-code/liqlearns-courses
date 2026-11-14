@@ -1,6 +1,6 @@
 # Sources — Making a picture in Paint
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda
+countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -40,6 +40,9 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 
 **Book 19:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 20:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 21:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -65,8 +68,10 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 | Graphics software and MS Paint: basic graphic elements (line and curve, paintbrush, pencil, spray can, shapes, fill, ellipse; basketball practical) | Rwanda Grade 9 S3 ICT Student Book, printed p. 203 |
 | Graphic features in Paint: selection tools, copy and paste, move, resize, flip, rotate, skew, cut-out/trim, add text, eraser | Rwanda Grade 9 S3 ICT Student Book, printed p. 211 |
 | Basic graphic elements with MS Paint; graphics formatting (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 127 (teacher guide — evidence) |
+| Lecția 8 Aplicații pentru desen (the drawing app's window: title bar, shapes box, tool icons) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 38 |
+| 3.10 Aplicația Paint | Moldova Grade 7 Informatică, printed p. 71 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda).**
+**Acceptance count: taught in 12 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -103,4 +108,8 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of information quantity (bit, byte, binary drawing) before any office software, teaches the keyboard including touch-typing posture, and keeps programming unplugged-but-precise: loops, jump (pen-up) instructions and multi-loop programs for the mouse, the painter and the hedgehog. The Digital Education module sits inside Technological Education.
+
+Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica

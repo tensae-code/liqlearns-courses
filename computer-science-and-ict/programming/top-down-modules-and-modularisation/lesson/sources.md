@@ -1,6 +1,6 @@
 # Sources — Top-down — modules and modularisation
 
-countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece
+countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,9 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece
 
 **Book 7:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 8:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+**Book 9:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Top-down approach and modularisation defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
@@ -26,8 +29,10 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece
 | Ch 6, sub-programs and functions: subroutines | Libya Grade 12 IT Science, printed p. 91 |
 | 4.3 Subprograms (Sub…EndSub; passing values in and out through variables, and the side-effect trap; a prime-number subprogram; a digit-counting subprogram; drawing the alkhan khee meander k times with a Turtle subprogram) | Mongolia Grade 12 IT XII, printed p. 118 |
 | Ch.6 Program design techniques: hierarchical design, modular programming, structured programming | Greece Grade 12 Anaptyxi Efarmogon, printed p. 116 |
+| 2.2 Subalgoritmi | Moldova Grade 8 Informatică, printed p. 69 |
+| 1.1 Subprograme | Moldova Grade 12 Informatică, printed p. 6 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova).**
 
 Book error, taught corrected: the student book's later exercises cross-refer to practical-exercise numbers that do not match the numbers printed on those exercises (the single-wage and ten-labourer flowcharts); each flowchart is taught here under its own printed exercise, and the mismatched cross-references are flagged rather than followed. The teacher guide's Practical Exercise 6.5 answer 1 likewise calls itself an extension of its own question — a self-reference; the exercise it extends is the earlier single-labourer wage exercise.
 
@@ -43,4 +48,8 @@ Mongolia's own way (Grade 12): the final book measures everything against Mongol
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
 
-Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa
+Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
+
+Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
+
+Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 8 informatica, moldova, grade 12 informatica
