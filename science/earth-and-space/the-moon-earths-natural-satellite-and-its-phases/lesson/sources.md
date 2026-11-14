@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -47,3 +47,19 @@ Searchable tags: moon, natural satellite, phases of the moon, new moon, full moo
 Suriname's own way — Suriname calls the Moon's phases its *Maanstanden* — the Moon's stands — and names the Moon Earth's companion/satellite — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, maanstanden, moon phases, natuuronderwijs
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 3, Wik 8, Lesen 22–24: Ol defren fes blong mun (the different faces of the Moon), Ful mun mo niu mun (full moon and new moon), Ol efek blong ful mun mo niu mun (effects of full and new moon) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 131 |
+
+**Acceptance count unchanged: taught in 4 countries (Palestine, Armenia, Kazakhstan, Suriname).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — the Moon taught by its different faces, full moon and new moon, and the effects of each, in Bislama in the guide's Term 3 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, faces of the moon, full moon, new moon

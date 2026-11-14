@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only)
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -136,3 +136,19 @@ Canada is named as teacher-guide evidence only (its two *Science First Peoples* 
 Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed.
 
 Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 3, Wik 1, Lesen 1–3: Paoa blong win (the power of wind), Ol gudfala mo nogud samting we win i mekem (the good and bad things wind does), Transpot we i wok long man paoa (transport that works on human power) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 105 |
+
+**Acceptance count unchanged: taught in 17 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — Term 3 opens with the power of wind, the good and bad things wind does, and transport that works on human power, taught in Bislama — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, power of wind, human power transport

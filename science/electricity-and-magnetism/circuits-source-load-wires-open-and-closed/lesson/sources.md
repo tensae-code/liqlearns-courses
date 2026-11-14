@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania
+countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -63,3 +63,19 @@ countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide e
 Guide evidence filed as labelled teacher evidence only, including the guide's tangled project numbering for the circuit build exactly as the placements flag it (not silently renumbered). PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Searchable tags: circuit, current electricity, ampere, coulomb, open circuit, closed circuit, switch, circuit symbols, safe handling, Ethiopia Grade 8 General Science Unit 7, kenya, south sudan, mozambique
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 3, Wik 3, Lesen 7–9: Yus blong batri (uses of batteries), then the energy-transfer strand opens: Eneji transfea long fudjen (energy transfer in a food chain) — filed under this lesson as filed (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 113 |
+
+**Acceptance count unchanged: taught in 8 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — electricity enters the Year 3 guide through the uses of batteries, in Bislama in its Term 3 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, uses of batteries

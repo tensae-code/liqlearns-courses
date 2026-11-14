@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -37,3 +37,19 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 Placement choice, on the record: this NEW LESSON was built for the Kuwait placement “Skills of practical study — observe, predict, hypothesise, record, conclude” — kuwait-placements.md, Kuwait, Grade 11, Term 1 applications workbook, front matter — printed p. 8. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills).
 
 Searchable tags: practical skills, observe, predict, hypothesis, fair test, recording, conclusion, laboratory, kuwait, grade 11, finland, luova luma, counting the fish, more or fewer, jamaica, jamaica nsc integrated science, turkey, hayat bilgisi, life studies grade 2, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, australia, pearson science 9
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The guide's own inquiry frame as Vanuatu's way: the Year 3 process outcomes — ask questions, plan an inquiry, gather and record evidence, and explain — set out in "Ol Stamba Skil blong Saens" (the core science skills) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 7 |
+
+**Acceptance count unchanged: taught in 4 countries (Kuwait, Finland, Turkey, Australia).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — its core science skills, "Ol Stamba Skil blong Saens": ask questions, plan an inquiry, gather and record evidence, and explain — set out at the front of the Year 3 guide in Bislama — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, ol stamba skil blong saens, core science skills

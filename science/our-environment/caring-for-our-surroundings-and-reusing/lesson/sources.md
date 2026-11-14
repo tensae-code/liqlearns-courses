@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -44,3 +44,19 @@ Searchable tags: caring for surroundings, reuse, recycling, cleanliness campaign
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 5, Lesen 13–15: Tokbaot kompos (talking about compost), Doti blong anamol (animal manure), Klas kompos (compost classes / sorting compost) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 82 |
+
+**Acceptance count unchanged: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia, Timor-Leste, Palau, Zambia, Vanuatu), named here, counted nowhere.**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — compost taught by talking about it, animal manure, and sorting compost into classes, in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, compost, animal manure

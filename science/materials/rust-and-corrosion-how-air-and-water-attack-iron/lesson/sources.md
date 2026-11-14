@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -17,3 +17,19 @@ countries: Gabon (teacher-guide evidence only)
 Placement choice, on the record: this NEW LESSON was built for the Gabon placement "Rust and corrosion — how air and water attack iron" — gabon-placements.md, Book 2, Palier 5: La corrosion et la rouille, printed p. 56 — a topic no existing slug covers at this primary depth. It sits in materials/ and is registered in CURRICULUM.md Unit 4 (Materials). The source is an integrated Sciences TEACHER GUIDE (Super Efficace, EDIG/EDICEF), so the lesson rests on teacher-guide evidence only and is counted nowhere. Only the guide's Sciences physiques thread is placed; its biology/technology/TIC lessons are not physics placements and are excluded by scope.
 
 Searchable tags: rust, corrosion, iron, oxygen and water, galvanising, protection, gabon, grade 4
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 8, Lesen 22–24: Eg i save jenis (an egg can change — cooking), Rosta i save spolem propeti (rust spoils properties), Likwid we oli mekem rosta (liquids that make rust) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 92 |
+
+**Acceptance count unchanged: taught in 0 countries — this lesson stands on teacher-guide evidence only (Gabon, Vanuatu), named here, counted nowhere.**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — rust taught as what spoils a material's properties, with the liquids that make rust, in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, rust, liquids that make rust

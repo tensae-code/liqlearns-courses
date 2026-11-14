@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -21,3 +21,19 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
 
 Searchable tags: water uses, drinking cooking cleanliness, digestion, sweat urine, Hidase GERD dam, electricity, transport, fish breeding, water why every living thing needs it, jamaica, jamaica nsc integrated science, mexico, etica naturaleza y sociedades
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 1, Lesen 1–3: Wota mo ea oli impoten long laef (water and air are important for life), Ol defdefren sos blong wota (the different sources of water), Tekem kea long ol lokol risos (taking care of local resources) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 66 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Mexico).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — water and air are important for life opens Term 2, with the different sources of water and taking care of local resources, taught in Bislama — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, water and air, sources of water

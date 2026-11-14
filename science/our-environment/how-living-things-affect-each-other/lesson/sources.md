@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -63,3 +63,19 @@ Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de o
 **Acceptance count: taught in 3 countries (Ethiopia, Australia, Italy).**
 
 Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 1, Wik 2, Lesen 4–6: From wanem yumi nidim ol tri? (why we need trees), Wok blong anamol (the work animals do), Lukaotem gud ol anamol (looking after animals well) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 31 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Australia, Italy).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — why we need trees and the work animals do, taught in Bislama in the guide's Term 1 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, why we need trees, work animals do

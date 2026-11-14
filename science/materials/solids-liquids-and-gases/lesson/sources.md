@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only)
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -80,3 +80,19 @@ Searchable tags: solids liquids gases, states of matter, physical change, ice wa
 | Theme 2 §§2.1–2.3: the aggregate states of matter (with the structure-of-matter lessons) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §§2.1–2.3: the aggregate states of matter (with the structure-of-matter lessons) — printed pp. 58, 62, 66 |
 
 Acceptance count unchanged: taught in 1 country (Ethiopia) — the guide rows are teacher evidence and never count as pupil-taught.
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 10, Lesen 29–32: Materiel we oli save o no save twist (materials that can or cannot twist), Ol defren/kaen fos (different kinds of forces), Mata we oli save melt (matter that can melt), Kakae we oli save melt insaed long maot (food that melts in the mouth) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 100 |
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — matter that can melt, down to food that melts in the mouth, and materials that can or cannot twist, taught in Bislama at the end of the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, melting, twist, matter

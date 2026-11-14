@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only)
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -31,3 +31,19 @@ Searchable tags: water treatment, settling, sedimentation, filtering, filter, sa
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 2, Lesen 4–6: Klin wota (clean water), Klin ea (clean air), Lukaotem gud graon (looking after the ground well) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 70 |
+
+**Acceptance count unchanged: taught in 0 countries — this lesson stands on teacher-guide evidence only (Gabon, Zambia, Vanuatu), named here, counted nowhere.**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — clean water taught beside clean air and looking after the ground well, in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, clean water, clean air

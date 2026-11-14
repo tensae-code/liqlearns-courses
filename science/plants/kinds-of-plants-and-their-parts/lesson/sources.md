@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -62,3 +62,19 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, plants, botanical market, mercado botanico
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 1, Wik 6, Lesen 16–18: Pat blong plant (parts of a plant), Yusum ol sens blong yu blong faenemaot ol spesel mak blong flawa (using your senses to find a flower's special marks), Plant oli givim kakae mo plant we oli givim dekoresen (plants that give food and plants that give decoration) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 45 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — parts of a plant found with the senses, and plants sorted into those that give food and those that give decoration, taught in Bislama in the guide's Term 1 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, parts of a plant, senses, flower

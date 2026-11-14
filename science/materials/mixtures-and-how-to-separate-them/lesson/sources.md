@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -67,3 +67,19 @@ Acceptance count unchanged: taught in 1 country (Ethiopia).
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 7, Lesen 19–21: Materiel i jenis long sot taem (materials change in a short time), Ol mata we oli save disolv (matter that can dissolve), Materiel i jenis long sot o long taem (materials that change in a short or long time) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 88 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — matter that can dissolve, and materials sorted by whether they change in a short or a long time, taught in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, dissolve, short or long time

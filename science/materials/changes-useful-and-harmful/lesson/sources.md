@@ -1,6 +1,6 @@
 # Sources — Changes — useful and harmful changes in daily life
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -22,3 +22,19 @@ Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary Schoo
 No guide material is used in this lesson.
 
 Searchable tags: useful changes, harmful changes, rusting, decay, fermentation, tella, injera, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 6, Lesen 16–18: Plant we i gru long narafala plant (a plant growing on another plant), Materiel i save jenisim propeti blong hem (materials can change their properties), Materiel i save jenis long sot taem (materials that change in a short time) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 85 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — materials changing their properties and materials that change in a short time, taught in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, materials change properties

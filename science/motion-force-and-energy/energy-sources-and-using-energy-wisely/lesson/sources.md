@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -112,3 +112,21 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 
 Searchable tags: energy sources renewable non-renewable conservation ten sources ocean energy grade 7 unit 7 ethiopia, iraq, yemen, north macedonia, libya, south sudan, mozambique
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 1, Wik 10, Lesen 28–30: Yus blong san (uses of the sun), Lukaotem gud sanbij blong yumi (looking after our sun-beach / sandy shore), Sola hem i save wok gud long Vanuatu (solar works well in Vanuatu) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 61 |
+| Term 3, Wik 2, Lesen 4–6: Masin mo paoa (machines and power), Nogud efek blong paoa long envaeromen (bad effects of power on the environment), Ol defren wei we yumi yusum paoa evri dei (the different ways we use power every day) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 109 |
+| Term 3, Wik 6, Lesen 16–18: Kolektem eneji long san (collecting energy from the sun), Saoten kros (the Southern Cross), Moning sta mo Ivening sta (Morning Star and Evening Star) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 125 |
+
+**Acceptance count unchanged: taught in 23 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia).** Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — the sun's uses and solar power working well in Vanuatu close Term 1, and collecting energy from the sun returns in Term 3 beside the Southern Cross and the Morning and Evening Stars, taught in Bislama — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, uses of the sun, solar, machines and power

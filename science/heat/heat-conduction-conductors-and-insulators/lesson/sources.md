@@ -1,6 +1,6 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -112,3 +112,19 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Searchable tags: heat, conduction, conductors, insulators, copper aluminium, wax spots, fair test, Ethiopia Grade 8 General Science Unit 7, sri lanka, united states, uganda, kenya, iraq, yemen, iran, laos, south sudan, mozambique
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 3, Wik 5, Lesen 13–15: Eneji blong kukum kakae (energy for cooking food), Eneji transfea blong givim laet (energy transfer that gives light), Eneji i kam insaed mo eneji i goaot (energy in and energy out) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 121 |
+
+**Acceptance count unchanged: taught in 21 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — heat met as the energy for cooking food, energy transfer that gives light, and energy in and energy out, taught in Bislama in the guide's Term 3 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, energy for cooking, energy in and out

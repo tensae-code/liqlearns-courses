@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -94,3 +94,19 @@ Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 
 Placement: Student item 82 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. Cross-reference: the Materials title's Force, friction and gravity lesson treats force at primary depth; this is the Grade 7 treatment in the new title, not a copy of that file.
 
 Searchable tags: force contact non-contact gravity magnetism friction effects grade 7 unit 7 ethiopia, palestine, iraq, cambodia, north macedonia, libya, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Vanuatu growth (2026-11-13, General Science expansion)
+
+**Book (Vanuatu):** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Term 2, Wik 9, Lesen 25–28: Pulum mo pusum (pulling and pushing), Fos blong pul (the force of a pull), Fos blong pus (the force of a push), Andastanem pul mo pus (understanding pull and push) (teacher guide — evidence) (Vanuatu, Grade 3) | Vanuatu, *SAENS — Tija Gaed, Yia 3* (teacher guide — evidence), printed p. 96 |
+
+**Acceptance count unchanged: taught in 11 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan).**
+
+Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* — teacher guide), not added to this count.
+
+Vanuatu's own way — force taught as pulling and pushing, a lesson each for the pull, the push, and understanding both, in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
+
+Searchable tags: vanuatu, saens tija gaed, bislama, year 3, pulling and pushing, pull, push
