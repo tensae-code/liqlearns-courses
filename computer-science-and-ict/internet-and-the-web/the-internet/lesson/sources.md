@@ -1,6 +1,6 @@
 # Sources — The internet — a network of networks
 
-countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan
+countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 
 **Book 11:** *کمپیوتر — صنف دوازدهم (Computer, Grade 12)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 114 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (16,872,694 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
 
+**Book 12:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The internet — a network of networks; private, public, government; sharing globally | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.47 |
@@ -31,6 +33,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | Chapitre 4 — L'internet et son fonctionnement — the internet and how it works (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 40 (teacher guide — evidence) |
 | Chapter 3 Lesson 1 Sessions 1–2, Introduction to the Internet; Browsing the Internet | Cambodia, *ICT, Grade 10*, printed p. 113 |
 | Connecting to the Internet; How Bandwidth and Access Method Affect an Information System | China, *IT Compulsory 2*, Chapter 3 §3.2.8–3.2.9, printed p. 86 |
+| "The Internet" | Yemen, *Computer, Grade 11*, printed p. 81 |
+| Unit 5 assessment | Yemen, *Computer, Grade 11*, printed p. 87 |
 
 | Sub lesson 2 — Internet services — WWW, email, Telnet, FTP (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | Sub lesson 2 — a modem joins a computer to the internet (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4 text, printed p. 64, and glossary, printed pp. 104–107 (wording corrected — see the honesty note below) |
@@ -41,7 +45,9 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | Lesson 28, Internet part "What is the Internet? The World Wide Web; equipment needed to connect" | Afghanistan, *Computer, Grade 10*, printed p. 107 |
 | Chapter 6, Lesson 20 "Getting to know the world network, the Internet" | Afghanistan, *Computer, Grade 12*, printed p. 80 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen).**
+
+Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -49,4 +55,4 @@ Afghanistan's own way (Grade 12): the final year turns outward — computers in 
 
 Growth note (Wave 3, band B2): this lesson was GROWN, not replaced — Sub lesson 1 is the original Grade 7 lesson, unchanged in content; Sub lesson 2 is the Grade 8 depth added from the Grade 8 book. The Grade 8 student book's glossary defines a modem as connecting a computer "to the intranet" — a glossary fault. This lesson teaches the book's unit-text meaning, that a modem joins a computer to the internet, and flags the glossary wording here, as the placements direct. The teacher guide's §4.1 also carries a wrong cross-reference (it sends the teacher to "page 7" of the guide for a topic the guide itself treats on printed pp. 35–36); the method row above cites the guide's real pages. The guide's Unit 4 outcomes also print "escribe" for "describe" — a typo, taught as nothing.
 
-Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan
+Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11

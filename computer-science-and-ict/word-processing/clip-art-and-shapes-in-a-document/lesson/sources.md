@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Yemen
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Uganda
 
 **Book 4:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 5:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -18,9 +20,14 @@ countries: Ethiopia, Uganda
 | Unit 3 review answers keyed — used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 62 |
 | Working with Clip Art; cropping and compressing images | Uganda, *ICT Textbook Senior One*, printed p. 26 |
 | Working with Clip Art; cropping and compressing images (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 32 (teacher guide — evidence) |
+| "Pictures and drawings" (in Word) | Yemen, *Computer, Grade 10*, printed p. 116 |
+| Unit 5 activity (pictures) | Yemen, *Computer, Grade 10*, printed p. 117 |
+| Unit 5 closing training | Yemen, *Computer, Grade 10*, printed p. 118 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Yemen).**
+
+Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
 
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen

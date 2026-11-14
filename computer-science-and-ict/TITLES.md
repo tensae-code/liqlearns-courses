@@ -825,3 +825,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Afghanistan): Exercises to Relieve Computer Strain
 
 **Computers in Society** (ICT expansion, from Afghanistan): Computers in Shops and Supermarkets · Interactive Programs — a Dialogue with the Computer · Computers in Military Systems
+
+**First Steps** (ICT expansion, from Yemen): Kinds of Data — Numbers, Letters, Pictures · How ICT Developed Over Time · Number Systems — Decimal and Binary · Adding and Subtracting in Binary · Converting Decimal Numbers to Binary · Codes That Represent Data in the Computer
+
+**Software** (ICT expansion, from Yemen): The Windows Operating System — First Look · Menus — Main and Sub-Menus · Setting the Date and Time
+
+**Word Processing** (ICT expansion, from Yemen): Page Setup — Margins and Paper
+
+**Spreadsheets** (ICT expansion, from Yemen): Printing a Worksheet

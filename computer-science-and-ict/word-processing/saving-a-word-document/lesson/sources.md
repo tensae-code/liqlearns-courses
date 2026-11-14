@@ -1,6 +1,6 @@
 # Sources — Saving a word document
 
-countries: Ethiopia, Cambodia, Uganda
+countries: Ethiopia, Cambodia, Uganda, Yemen
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Cambodia, Uganda
 
 **Book 6:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 7:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | First save — File → Save As; choose location/drive | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
@@ -21,9 +23,12 @@ countries: Ethiopia, Cambodia, Uganda
 | Chapter 2 Lesson 3 Session 3, OpenOffice Writer III | Cambodia, *ICT, Grade 10*, printed p. 91 |
 | Saving a file; working with text | Uganda, *ICT Textbook Senior One*, printed p. 26 |
 | Chapter 4 Word Processing: saving an MS Word document file (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 35 (teacher guide — evidence) |
+| "Working with files" (new, open, save in Word) | Yemen, *Computer, Grade 10*, printed p. 84 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Uganda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Uganda, Yemen).**
+
+Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
-Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, cambodia, uganda
+Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, cambodia, uganda, yemen, grade 10

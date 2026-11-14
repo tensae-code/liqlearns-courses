@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia, Tanzania
+countries: Ethiopia, Tanzania, Yemen
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Tanzania
 
 **Book 4:** *Information Technology, Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 61 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-teacher-placements.md.
 
+**Book 8:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Application software — made for a particular need; end-user software | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.32–34 |
@@ -18,6 +20,7 @@ countries: Ethiopia, Tanzania
 | Sub lesson 3 — application software helps users perform an activity, manipulating text, numbers, audio, graphics or a combination; examples: photo editing, accounting application, web browser, media player, flight simulator, games | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 43 |
 | Sub lesson 4 — traffic lights and ATMs need software: both run on operating systems, storage and other software; traffic software layers and the named systems (Linsig, Transyt, Corsim/Transyt-7F, Vissim); ATMs chiefly on Windows XP Professional / XP Embedded (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3, printed p. 26 |
 | The teacher must be able to install and uninstall application software (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3 skills list, printed pp. 19, 20, 24, 25, 27, 29 |
+| "Application programs" | Yemen, *Computer, Grade 10*, printed p. 39 |
 
 **Book 5:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -30,10 +33,12 @@ countries: Ethiopia, Tanzania
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
 | Application software | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 67 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Tanzania).**
+**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Yemen).**
+
+Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
 Sub lesson 4 is teacher-guide evidence — the keyed answer to the student book's group activity asking whether traffic lights and ATMs need software. Its statement that the vast majority of ATMs run Windows XP (Professional or Embedded) is the guide's own 2022-era wording, taught as printed, as the course's record of what the book teaches — not as a current claim about today's ATMs. The student book's printed p. 43 also carries one of its stray character runs; they are typesetting faults and are taught as nothing.
 
 The Grade 9 teacher guide's closing summary for this part (printed pp. 39-40) introduces a description of system software with the words "while application software is..." — the two labels are swapped in that sentence. The lesson teaches the frame corrected: application software is what the user works with directly; system software keeps the hardware working and provides the interface.
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10

@@ -1,14 +1,25 @@
 # Sources — The Desktop and a Program Window
 
-countries: Azerbaijan
+countries: Azerbaijan, Yemen
 
 **Book 1:** *İnformatika 2* (student book, Azerbaijani; title as printed: İnformatika 2 — Ümumi təhsil müəssisələrinin 2-ci sinifləri üçün İnformatika fənni üzrə dərslik) — Azerbaijan, Azərbaycan Respublikası Təhsil Nazirliyi (Ministry of Education of Azerbaijan), Baku, 2021–2022. Authors: İsmayıl Sadıqov, Naidə İsayeva, Aygün Əzizova. No ISBN printed (issued under CC BY-NC-SA 4.0 via trims.edu.az). 67 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/azerbaijan-placements.md.
+
+**Book 2:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 Kompüter, Lesson 20 "İş masası və proqram pəncərəsi" (Desktop and program window) | Azerbaijan, *İnformatika 2*, printed p. 51 |
+| "Icons" | Yemen, *Computer, Grade 10*, printed p. 44 |
+| "The window" | Yemen, *Computer, Grade 10*, printed p. 44 |
+| "The desktop" | Yemen, *Computer, Grade 10*, printed p. 46 |
+| Unit 4 training (windows and desktop drills) | Yemen, *Computer, Grade 10*, printed p. 52 |
+| Unit 4 activity | Yemen, *Computer, Grade 10*, printed p. 53 |
+| "Working with windows" | Yemen, *Computer, Grade 10*, printed p. 54 |
+| Unit 4 training (working with windows) | Yemen, *Computer, Grade 10*, printed p. 57 |
 
-**Acceptance count: taught in 1 country (Azerbaijan).**
+**Acceptance count: taught in 2 countries (Azerbaijan, Yemen).**
+
+Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
 Overlap note: kept separate from software/the-desktop-and-windows-of-an-operating-system (Cambodia, Grade 10) — that lesson teaches an operating system's desktop for older learners; this is the Grade 2 first naming of the desktop and one program window.
 
@@ -16,4 +27,4 @@ Placement choice: this lesson was built new for the ICT expansion (Azerbaijan, 2
 
 Azerbaijan's own way: informatics starts two full years before touching a computer — objects and their features, information in everyday life, and algorithms as daily-life sequences and true/false judgements; the computer itself, WordPad, Paint and Calculator arrive only in the final unit. This lesson keeps that order and that Grade 2 voice.
 
-Searchable tags: desktop, program window, icons, title bar, software, azerbaijan, grade 2, informatika
+Searchable tags: desktop, program window, icons, title bar, software, azerbaijan, grade 2, informatika, yemen, grade 10
