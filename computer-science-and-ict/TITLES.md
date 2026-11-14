@@ -785,3 +785,9 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Multimedia** (ICT expansion, from Nepal): What Animation Is — Frames and Motion
 
 **Programming** (ICT expansion, from Nepal): User-Defined Functions in Python · Libraries and Packages in Python
+
+**Programming** (ICT expansion, from Bulgaria): First Sequences — Putting Steps in Order · Motion Blocks — Moving the Hero · Finding a Path with Motion Blocks · Repeating Actions — Do It Again · Loops with the Robot Artist · I Know and I Can — Review: Sequences and Loops · Turning and Drawing with the Pen · Positioning and Moving on the Stage · I Know and I Can — Review: Scratch Basics · Say and Think Blocks — Sprite Speech · A Dialogue Between Sprites · Project Work — Build Your Own Scratch Project · I Know and I Can — Final Review · A Branching Algorithm — Making Choices · I Know and I Can — Review: Branching · Arithmetic Blocks and Random Numbers · Comparison Blocks and Logical Operators · Arithmetic and Logical Operations — the At School Project · Controlling How Sprites Move · Synchronising Sprites' Actions · I Know and I Can — Review: Variables · I Know and I Can — Review: Robots · Project — Create a Computer Game · Project — a Journey Through Bulgaria · I Know and I Can — Presenting My Project
+
+**Multimedia** (ICT expansion, from Bulgaria): The Stage and Backdrops in Scratch · Sprites and Costumes in Scratch · Computer Animation — a Story in Motion · Choosing Sounds and Changing Backdrops · A Sprite's Look and Computer Animation
+
+**New Technologies** (ICT expansion, from Bulgaria): Working with a Programmable Device · Programming the Blue-Bot Robot · My Robot Draws Shapes

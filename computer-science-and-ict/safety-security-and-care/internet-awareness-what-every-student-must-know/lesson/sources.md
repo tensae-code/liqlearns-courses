@@ -1,6 +1,6 @@
 # Sources — Internet awareness — what every student must know
 
-countries: Ethiopia, Cambodia, Mozambique
+countries: Ethiopia, Cambodia, Mozambique, Bulgaria
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -8,12 +8,15 @@ countries: Ethiopia, Cambodia, Mozambique
 
 **Book 3:** *Módulo de Tecnologias de Informação e Comunicação (TIC) — Programa do Ensino Secundário à Distância, 1º Ciclo (PESD I)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano, Instituto de Educação Aberta e à Distância (IEDA), 2023. Grade 7 (grades 7–9 distance secondary, first cycle). No ISBN printed. 186 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mozambique-placements.md.
 
+**Book 4:** *Компютърно моделиране, 4. клас* (student book, Bulgarian; title as printed: Компютърно моделиране — общообразователна подготовка, 4. клас; Computer Modelling, Grade 4) — Bulgaria, Изд. „Изкуства", Sofia, 2019. Authors: Румяна Папанчева, Тодорка Глушкова. ISBN not captured from the text layer (imprint page is image-only in the publisher PDF). 29 PDF pages (printed pp. 4–56 in spreads). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bulgaria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The awareness list — the tool, invalid content, predators, footprints, photos, gaming, downloads, adult help | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–208 |
 | Chapter 3 Lesson 1 Session 3, Searching for Information, Data Storage and Internet Safety | Cambodia, *ICT, Grade 10*, printed p. 121 |
 | Lição 17, Cuidados a Ter na Internet | Mozambique, *Módulo de TIC, PESD I*, printed p. 99 |
+| Урок 6 "Безопасност в дигитална среда" (safety in a digital environment) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 12 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Mozambique).**
+**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Mozambique, Bulgaria).**
 
-Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique
+Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria
