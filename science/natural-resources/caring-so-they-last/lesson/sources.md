@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only)
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -16,9 +16,13 @@ countries: Ethiopia, Turkey
 
 **Book 13:** *İlkokul Hayat Bilgisi 2. Sınıf Ders Kitabı, 1. Kitap* (Hayat Bilgisi / Life Studies, Grade 2, Book 1) (student book) — Turkey, authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç; Devlet Kitapları, Ministry of National Education (Millî Eğitim Bakanlığı), printed 2025; ISBN 978-975-11-8768-0. Grade 2, student book, in Turkish. Record: `grade-02/gov/turkey/life-studies/quarter-1-2.pdf`. Fetched copy: 65,118,982 bytes, 126 PDF pages, full text layer. Verdict: COMPLETE for Book 1 (Semester 1) — the book holds the first three of the year's six learning areas (Ben ve Okulum / Me and My School; Sağlığım ve Güvenliğim / My Health and Safety; Ailem ve Toplum / My Family and Society); Book 2 (areas 4–6) is not in the records and is a library debt. Read in full in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/turkey-placements.md.
 
+**Book 14:** *Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* (teacher's edition) — Palau, Palau Conservation Society, final 2016 (revised by Joyce K. Beouch and Juliet Ngotel). Title as printed: Ridge to Reef Education, Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau. Grade: 5 · Teacher's edition · PDF 103 pages (printed pp. 1–86 plus answer-key inserts) · Verdict: COMPLETE. Scope note, carried as filed: only general/integrated science parts are placed; this is a teacher's edition, and its extra explanations and answer keys are placed as guide evidence where they add content — all placements from this book are teacher's-edition evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/palau-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Harms, cares, and the nursery project | Ethiopia, *Grade 3 Student Textbook*, Chapter 3, harm from resource loss and how to care for resources; the tree-nursery project, printed pp. 52–54 |
+| People and coral reefs: the traditional way — measure the catch so enough is left for the village, then stop (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed p. 50 |
+| Fish for 20,000 Palauans but not for a growing population plus over 100,000 visitors a year; fish getting fewer and smaller; Palau declared a shark sanctuary (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed p. 59 |
 
 | Grade 4 — why our resources are running down | Ethiopia, *Grade 4 Student Textbook*, §3.5, printed pp. 87–88 |
 | Grade 4 — our own traditional ways of protecting soil and water | Ethiopia, *Grade 4 Student Textbook*, §3.6, printed pp. 88–89 |
@@ -33,10 +37,12 @@ countries: Ethiopia, Turkey
 
 **Acceptance count: taught in 2 countries (Ethiopia, Turkey).**
 
+Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
+
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. The SNNP guide pictures the Konso terraces on its cover as the emblem of indigenous conservation (teacher guide — evidence). Teacher-guide rows never count as pupil-taught.
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE. The 17 goals are carried in the book's own short wording as the placements record Table 4.1. The teacher-guide row is evidence from a truncated scan.
 
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
-Searchable tags: caring for natural resources, tree nursery, terraces, protecting wild animals, erosion, depletion causes, indigenous conservation, intercropping, fallow, contour ploughing, turkey, hayat bilgisi, life studies grade 2
+Searchable tags: caring for natural resources, tree nursery, terraces, protecting wild animals, erosion, depletion causes, indigenous conservation, intercropping, fallow, contour ploughing, turkey, hayat bilgisi, life studies grade 2, palau, ridge to reef palau, palau grade 5

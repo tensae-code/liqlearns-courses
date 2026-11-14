@@ -80,7 +80,18 @@ The titles, in ladder order:
     lesson — climate change impacts and adaptation in the
     Caribbean (how climate change affects island life, and how
     learners can minimise its impact — curriculum-guide evidence
-    only, acceptance 0) — 24 lessons in CURRICULUM.md Unit 11.
+    only, acceptance 0) — and Palau's four lessons —
+    mangroves, protecting coast and sea (the mangrove tree part
+    by part, and the food, market and animals that depend on
+    it), seagrass beds as nursery habitat (a flowering plant of
+    the sunlit shallows, spreading by roots, with Enhalus
+    acoroides' moon-timed pollen), coral polyps — the animals
+    that build reefs (tentacles catching microscopic floating
+    animals, and the Helen Reef atoll among the reef kinds) and
+    fish spawning aggregations (many reef fish gathering in one
+    place to release eggs and sperm together) — all
+    teacher's-edition evidence only, acceptance 0 — 28 lessons
+    in CURRICULUM.md Unit 11.
 12. **Family, School and Community** — who is in a family, the
     people of a school, the people of a community and their work.
     The General Science expansion (2026-11-13) adds Turkey's two

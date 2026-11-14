@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only)
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,10 +10,14 @@ countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence
 
 
 **Book 4:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
+**Book 5:** *Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* (teacher's edition) — Palau, Palau Conservation Society, final 2016 (revised by Joyce K. Beouch and Juliet Ngotel). Title as printed: Ridge to Reef Education, Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau. Grade: 5 · Teacher's edition · PDF 103 pages (printed pp. 1–86 plus answer-key inserts) · Verdict: COMPLETE. Scope note, carried as filed: only general/integrated science parts are placed; this is a teacher's edition, and its extra explanations and answer keys are placed as guide evidence where they add content — all placements from this book are teacher's-edition evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/palau-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — global warming taught through the parked-car metaphor (Activity 5.23): windows let light in and hold heat; greenhouse gases CO₂, methane, nitrous oxide, water vapour, CFCs | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 5, printed pp. 146–147 |
 | Sub lesson 2 — three-quarters of human CO₂ from burning fossil fuels, the rest largely from deforestation; effects: sea-level rise, uneven rainfall, flooding, drought, food and water shortage, extinctions; pupils propose reductions | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 5, printed pp. 146–147 |
+| The ocean absorbing too much carbon from the air (the reef chapter's carbon passage) (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed p. 43 |
+| Coral bleaching: stressed coral expels its zooxanthellae, turns white and starves, since the algae provide 98% of its food (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed p. 47 |
 
 | Ch 6: the greenhouse effect, inside the heat-transfer chapter (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 6 — printed p. 125 |
 | Theme 5 §5.3: global climate changes — the layers of the atmosphere, natural and anthropogenic causes, the greenhouse effect, aerosols and acid rain, the 1880–2000 temperature record (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §5.3: global climate changes — the layers of the atmosphere, natural and anthropogenic causes, the greenhouse effect, aerosols and acid rain, the 1880–2000 temperature record — printed pp. 204–207 |
@@ -21,8 +25,10 @@ countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence
 
 **Acceptance count: taught in 3 countries (Ethiopia, Uganda, North Macedonia).**
 
+Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
+
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 
 Book error taught corrected: the student book spells CFCs' full name 'chlorofloro carbons' (printed p. 146, as flagged in the placements verification block); this lesson teaches the correct 'chlorofluorocarbons'.
 
-Searchable tags: global warming, greenhouse effect, greenhouse gases, fossil fuels, deforestation, CFCs, Ethiopia Grade 8 General Science Unit 5, uganda, north macedonia, jamaica, jamaica nsc integrated science
+Searchable tags: global warming, greenhouse effect, greenhouse gases, fossil fuels, deforestation, CFCs, Ethiopia Grade 8 General Science Unit 5, uganda, north macedonia, jamaica, jamaica nsc integrated science, palau, ridge to reef palau, palau grade 5
