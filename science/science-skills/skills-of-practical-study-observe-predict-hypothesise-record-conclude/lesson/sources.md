@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Jamaica (curriculum-guide evidence only)
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -8,6 +8,8 @@ countries: Kuwait, Finland, Jamaica (curriculum-guide evidence only)
 
 
 **Book 3:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
+**Book 4:** *İlkokul Hayat Bilgisi 2. Sınıf Ders Kitabı, 1. Kitap* (Hayat Bilgisi / Life Studies, Grade 2, Book 1) (student book) — Turkey, authors Dr. Nagihan Şahin, Betül Altuntaş, Gürhan Dikmen, Hüseyin Güleç, Nurgül Genç; Devlet Kitapları, Ministry of National Education (Millî Eğitim Bakanlığı), printed 2025; ISBN 978-975-11-8768-0. Grade 2, student book, in Turkish. Record: `grade-02/gov/turkey/life-studies/quarter-1-2.pdf`. Fetched copy: 65,118,982 bytes, 126 PDF pages, full text layer. Verdict: COMPLETE for Book 1 (Semester 1) — the book holds the first three of the year's six learning areas (Ben ve Okulum / Me and My School; Sağlığım ve Güvenliğim / My Health and Safety; Ailem ve Toplum / My Family and Society); Book 2 (areas 4–6) is not in the records and is a library debt. Read in full in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/turkey-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, front matter "Skills that must be acquired during practical study" — printed p. 8 |
@@ -17,11 +19,13 @@ countries: Kuwait, Finland, Jamaica (curriculum-guide evidence only)
 | Do it first; key ideas; Do It Yourself | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, front matter "Skills that must be acquired during practical study" — printed p. 8 |
 | Activity 6 — making observations, counting and comparing: counting the fish again when the number changes, more or fewer than last time (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 6 — LUMA Activities, p. 11 |
 | Working like a Scientist 2: representing data in pie charts, classifying variables, analysing and interpreting data, annotated drawings (curriculum-guide evidence) (Jamaica, Grade 8) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist 2 — printed p. 82 |
+| The book's own lesson rhythm as Turkey's way in — every topic runs Hatırlayalım (remember) → Keşfedelim (explore) → Bilgi Yolculuğumuz (our knowledge journey) → Uygulayalım (let us apply) → Neler Öğrendik? (what did we learn?) (Turkey, Grade 2) | Turkey, *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, "Kitabımızı Tanıyalım" (getting to know our book) — printed p. 8 |
 
-**Acceptance count: taught in 2 countries (Kuwait, Finland).**
+
+**Acceptance count: taught in 3 countries (Kuwait, Finland, Turkey).**
 
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 
 Placement choice, on the record: this NEW LESSON was built for the Kuwait placement “Skills of practical study — observe, predict, hypothesise, record, conclude” — kuwait-placements.md, Kuwait, Grade 11, Term 1 applications workbook, front matter — printed p. 8. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills).
 
-Searchable tags: practical skills, observe, predict, hypothesis, fair test, recording, conclusion, laboratory, kuwait, grade 11, finland, luova luma, counting the fish, more or fewer, jamaica, jamaica nsc integrated science
+Searchable tags: practical skills, observe, predict, hypothesis, fair test, recording, conclusion, laboratory, kuwait, grade 11, finland, luova luma, counting the fish, more or fewer, jamaica, jamaica nsc integrated science, turkey, hayat bilgisi, life studies grade 2

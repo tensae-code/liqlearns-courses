@@ -614,6 +614,9 @@ solar-system comparison lessons.
 11. **Population — How a Country's People Grow** (`family-school-and-community/population-growth-birth-death-and-migration`) — how a population grows or shrinks: births minus deaths, plus people moving in minus people moving out — and how each of the three movers works in E…
 12. **Our School — The People of Our School** (`family-school-and-community/the-people-of-our-school`) — the members of a school community — pupils, teachers, head, deputy, supervisor, guards, library and cleaning staff, secretaries — and the different…
 
+13. **Planning my time** (`family-school-and-community/planning-my-time`) — being planned (Planlı Olmak): listing and ordering what we do in a day, keeping a daily plan for a week and reviewing it (Turkey, Grade 2 — *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, Planlı Olmak, printed p. 14)
+14. **Communicating — listening and expressing feelings** (`family-school-and-community/communicating-listening-and-expressing-feelings`) — communicating at school (İletişim Var, Sorun Yok): listening carefully without interrupting, expressing feelings and thoughts, and non-verbal messages (Turkey, Grade 2 — *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, printed p. 22)
+
 ## Unit 13 — Work and Heritage
 
 1. **Work and Livelihood — Buying and Selling** (`work-and-heritage/buying-and-selling`) — trade — buying and selling between people: farmers sell farm products and buy industrial goods, while townspeople and traders supply those goods to…
@@ -661,6 +664,8 @@ solar-system comparison lessons.
 18. **Using medicines properly** (`keeping-healthy/using-medicines-properly`) — medicines help only when used properly — the Oromia Grade 4 guide's subtopic: the dose measured and directed by a health worker is the measure of p…
 19. **What disease is, and how it spreads** (`keeping-healthy/what-disease-is-and-how-it-spreads`) — what disease is, how sickness travels — germs, flies and mosquitoes, dirt — and how cleanliness stops it
 20. **Washing hands stops the spread** (`keeping-healthy/washing-hands-stops-the-spread`) — microbes reach the body on dirty hands and washing hands breaks that route; cleanliness (aseo) and good food together prevent disease, explained from the drawings as Peru's Grade 1 ficha closes (Peru, Grade 1 — *Cuadernillo de fichas — Ciencia y Tecnología, Primaria 1*, Ficha 4, *Las enfermedades y su cuidado*, printed p. 27)
+
+21. **Staying safe online** (`keeping-healthy/staying-safe-online`) — my online safety (Çevrim İçi Güvenliğim): not sharing personal information, strong passwords kept secret, chatting only with people you know, and what counts as violating someone's personal space online (Turkey, Grade 2 — *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, printed p. 54)
 
 ## Unit 15 — Science Skills
 
