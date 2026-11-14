@@ -1,6 +1,6 @@
 # Sources — ICT in daily life — communication
 
-countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq
+countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq
 
 **Book 6:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 7:** *تكنولوجيا المعلومات والاتصالات 4 — المرحلة الإبتدائية (Information and Communication Technology 4, Primary Stage), Grade 4* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. Year not printed on cover. No ISBN printed. 68 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 24,181,685 matches the staging record exactly); read in full from the text layer. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | From letters to SMS, email and social media | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 6–7 (teacher evidence: guide printed pp. 14–15) |
@@ -23,8 +25,9 @@ countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq
 | Application of ICTs in various fields and in business | Uganda, *ICT Textbook Senior One*, printed p. 1 |
 | "The Role of Digital Technology in Everyday Life" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.1, printed p. 10 |
 | Unit 4 Ch.1 Lesson 1 Communications in our daily life | Iraq, *Computer, Grade 8*, printed p. 114 |
+| Unit 2: The Computer Around Us | Sudan, *ICT, Grade 4*, printed p. 7 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan).**
 
 The student book's printed p. 7 — inside this lesson's page range — carries a garbled sidebar block ending in nonsense characters ("dddddd dsdfffdf"), a typesetting fault; it is not reproduced and nothing here rests on it.
 
@@ -32,4 +35,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: ict in daily life — communication, first steps, grade 7, information technology, ict, ethiopia, from letters to sms, email and social media, ict in health, agriculture and transport (teacher guide — evidence), turkmenistan, uganda, north macedonia, grade 10, iraq, grade 8
+Sudan's own way (Grade 4): a gentle first ICT book in six short units that ends not with applications but with the keyboard and mouse themselves — hand skills before software. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: ict in daily life — communication, first steps, grade 7, information technology, ict, ethiopia, from letters to sms, email and social media, ict in health, agriculture and transport (teacher guide — evidence), turkmenistan, uganda, north macedonia, grade 10, iraq, grade 8, sudan, grade 4

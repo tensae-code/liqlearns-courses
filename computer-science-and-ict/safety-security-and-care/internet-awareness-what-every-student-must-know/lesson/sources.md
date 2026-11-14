@@ -1,6 +1,6 @@
 # Sources — Internet awareness — what every student must know
 
-countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq
+countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq
 
 **Book 9:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 10:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 11:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The awareness list — the tool, invalid content, predators, footprints, photos, gaming, downloads, adult help | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–208 |
@@ -31,8 +35,10 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq
 | Unit 2 Lesson 09 Browsing the internet in an educational and safe way (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 25 (teacher guide — evidence) |
 | Lesson 10 Ethics of internet use: browsing safely (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 50 (teacher guide — evidence) |
 | Unit 4 Ch.2 Lesson 3 Dealing with the internet (ethics of internet use) | Iraq, *Computer, Grade 7*, printed p. 140 |
+| Unit 2 Lesson 4: Safe use of the internet, taught through everyday life situations | Sudan, *ICT, Grade 6*, printed p. 17 |
+| Unit 3 Lesson 6: Safe use of the internet | Sudan, *ICT, Grade 7*, printed p. 66 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -44,4 +50,8 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
 
-Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7

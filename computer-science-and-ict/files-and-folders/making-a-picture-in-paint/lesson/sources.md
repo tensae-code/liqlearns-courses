@@ -1,6 +1,6 @@
 # Sources — Making a picture in Paint
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen
+countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen
 
 **Book 8:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 9:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen
 | Unit 1 Lesson 03 Creating and saving an image (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 12 (teacher guide — evidence) |
 | Unit 1, Lesson 2: Opening Paint and creating a picture file (and telling a picture file, a Word file and a plain text file apart by icon/preview) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 29 (teacher guide — evidence) |
 | U.D.3 Séance 1 Dessiner des formes géométriques in Paint (fill tool/colour) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 22 (teacher guide — evidence) |
+| Unit 3 Lesson 2: Paint (Al-Rassam) — opening, drawing and closing | Sudan, *ICT, Grade 5*, printed p. 28 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -44,4 +47,6 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2
+Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5

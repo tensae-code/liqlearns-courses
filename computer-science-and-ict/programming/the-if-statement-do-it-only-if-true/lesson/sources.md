@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq
+countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq
 
 **Book 9:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 10:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -33,8 +35,9 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq
 | Unit 3 Lesson 2: choosing the operation with "if" (a calculator that asks for two numbers and an operation sign; if/else pass-or-fail grade checker) | Palestine, *Programming, Grade 8*, printed p. 58 |
 | Unit 3 Lesson 24: Drawing a right-angled triangle (comparing three sides with AND to find the longest; Pythagoras' theorem checked in an if — a² + b² = c² — before drawing) | Palestine, *Programming, Grade 9*, printed p. 71 |
 | Unit 3 Ch.1 Lesson 1 Why we need selection statements | Iraq, *Computer, Grade 8*, printed p. 78 |
+| Unit 4, 4-11: Branching and control in BASIC — IF (condition) THEN and GOTO | Sudan, *Computer Science, Grade 11*, printed p. 48 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -48,4 +51,6 @@ Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications cou
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11

@@ -1,6 +1,6 @@
 # Sources — Kinds of web browser
 
-countries: Ethiopia, Afghanistan
+countries: Ethiopia, Afghanistan, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Afghanistan
 
 **Book 4:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 5:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five common browsers pictured | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.49 |
 | Chapter 8 "Getting to know browsers", Lesson 25 "What is a Browser?" | Afghanistan, *Computer, Grade 12*, printed p. 100 |
 | Lesson 27 Browsers (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 44 (teacher guide — evidence) |
 | U.D.1 Séance 1 Le navigateur (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 12 (teacher guide — evidence) |
+| Unit 3 Lesson 4: Internet browsers | Sudan, *ICT, Grade 7*, printed p. 61 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Afghanistan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Sudan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -25,4 +28,6 @@ Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS 
 
 Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
 
-Searchable tags: browsers, Internet Explorer, Firefox, Chrome, Safari, Opera, Grade 7 ICT Ethiopia, afghanistan, mauritania, grade 7, morocco, grade 2
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: browsers, Internet Explorer, Firefox, Chrome, Safari, Opera, Grade 7 ICT Ethiopia, afghanistan, mauritania, grade 7, morocco, grade 2, sudan, grade 7

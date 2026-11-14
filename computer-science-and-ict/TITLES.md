@@ -937,3 +937,19 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Internet and the Web** (ICT expansion, from Morocco): Searching for Videos on the Internet · Saving a Web Page to Your Computer
 
 **Programming** (ICT expansion, from Morocco): Coding and Decoding a Character's Movement on a Grid · Personalising a Sprite — Size, Position and Colour · Project — The Hare and the Tortoise: A Scratch Story · Project — Little Red Riding Hood and the Wolf: A Scratch Story · Pointing a Sprite in a Direction in Scratch · Controlling a Sound's Volume in Scratch · Applying Sound Effects in Scratch — Speed and Stereo · Stopping All Sounds and Clearing Sound Effects in Scratch · Project — A City Tour: Animating a Bus and a Bird in Scratch · Project — An Aquarium: Coding Fish with Motion, Looks and Sound in Scratch · Deleting a Sprite Clone in Scratch · Sensing the Mouse's X and Y Position in Scratch · Project — A Voyage in Space: An Animated Scratch Story · Project — Don't Touch! A Ball Game Avoiding Barriers in Scratch · Project — An Aquarium Game in Scratch Using Six Block Categories · Project — A Maths Quiz in Scratch · Project — Drawing Geometric Shapes with the Pen in Scratch
+
+**Software** (ICT expansion, from Sudan): Windows Desktop, Icons and Control Panel · Changing Windows Appearance and Screen Saver
+
+**Multimedia** (ICT expansion, from Sudan): Drawing Basic Shapes in Paint
+
+**Networks** (ICT expansion, from Sudan): MAC Address — the Physical Address · The Network Server and What It Is Made Of
+
+**Databases** (ICT expansion, from Sudan): Field Properties and Data Types in Access
+
+**Internet and the Web** (ICT expansion, from Sudan): Internet Services — and What You Need to Connect
+
+**Hardware** (ICT expansion, from Sudan): The Computer Centre and System Maintenance Jobs
+
+**Computers in Society** (ICT expansion, from Sudan): A School Management Information System — ipSchools · Smartphone Apps in Daily Life · Computers in Police Work — ID Documents and Traffic · Data Processing Methods and Ready-Made Packages · Systems Analysis and Design — the Eight Steps
+
+**Programming** (ICT expansion, from Sudan): What Programming Is — Concepts and the Parts of a Language · Why Programming Matters · Working with Data in Scratch · BASIC — the Beginners' Language of 1964 · Numbered Lines in BASIC · Comments in BASIC — REM · BASIC Program Commands — RUN, SAVE, LOAD, LIST · Built-In Functions in BASIC — SQR, SIN, LEFT$ and LEN · Defining Your Own Function — DEF FN

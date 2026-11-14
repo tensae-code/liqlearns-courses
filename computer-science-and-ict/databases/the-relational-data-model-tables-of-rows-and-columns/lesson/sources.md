@@ -1,6 +1,6 @@
 # Sources — The relational data model — tables of rows and columns
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia
 
 **Book 6:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 7:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the relational model represents data as two-dimensional tables called relations; each row is a record (tuple) holding one unique instance; each column is an attribute (field) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 58–59 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia
 | Unit 2 §2.4, Table | Nepal, *Computer Science, Class 10*, printed p. 45 |
 | § 10.1 "Праектаванне базы даных" (designing the database) | Belarus, *Інфарматыка. 11 клас*, § 10.1, printed p. 108 |
 | "The Table as a Database" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.1, printed p. 219 |
+| Unit 1 Lesson 2: Linked tables — avoiding repeated data | Sudan, *ICT, Grade 7*, printed p. 12 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Belarus, North Macedonia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -36,4 +39,6 @@ Grade 12 growth (2026-11-12, Wave F3): sub lesson 4's frame is pupil-taught from
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7

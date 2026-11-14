@@ -1,6 +1,6 @@
 # Sources - High-level languages - compilers and interpreters
 
-countries: Ethiopia, North Macedonia
+countries: Ethiopia, North Macedonia, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,12 @@ countries: Ethiopia, North Macedonia
 
 **Book 5:** *Technology and Industrial Arts — Computer Technology, Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-21-5. 179 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
 
+**Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 7:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 8:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - High-level languages (close to human language; concentrate on the problem; C, C++, Java, C#, Python, Perl, Ruby) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 133-134 |
@@ -20,8 +26,11 @@ countries: Ethiopia, North Macedonia
 | "Programming Language and Translator" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.6, printed p. 111 |
 | Unit 2, Topic Machine Learning, Lesson 3: Programming Language behind Machine Language (assemblers and translation) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 63 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Computer programs and Coding, Lesson 2: Coding and Compiling Computer Program (filed as programming/compiling-and-interpreting; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 64 (teacher guide — evidence) |
+| Unit 4 Lesson 3: Programming languages — high-level languages and translation to machine code | Sudan, *ICT, Grade 6*, printed p. 34 |
+| Unit 4, 4-2: The BASIC interpreter and the compiler | Sudan, *Computer Science, Grade 11*, printed p. 36 |
+| Unit 2 Lesson 2: Translating the program (compilers and interpreters) | Sudan, *ICT, Grade 9*, printed p. 25 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
+**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Sudan).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -31,4 +40,10 @@ Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to bu
 
 Papua New Guinea's own way (Grade 12): the final year is design-and-build — simulation models, a seven-method technological problem-solving process, biotechnology with a DNA-technology case study, CAD, the software development process, IT career pathways, and GUI work with client-side scripting and interactive menus. (teacher guide — evidence)
 
-Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11

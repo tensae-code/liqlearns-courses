@@ -1,6 +1,6 @@
 # Sources — What security and computer security mean
 
-countries: Ethiopia, Tanzania, China
+countries: Ethiopia, Tanzania, China, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Tanzania, China
 
 **Book 6:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
+**Book 7:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Security defined; INSA introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 192 |
@@ -25,9 +27,12 @@ countries: Ethiopia, Tanzania, China
 | Computer security — devices, networks, the whole internet; the three protection reasons; exposure by connection; hackers (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 182–183, 185 |
 | The three definitions separated — information security, data privacy, data security (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 5 (review key), printed pp. 101–102 |
 | Computer security | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 127 |
+| Unit 2 Lesson 2: Information security | Sudan, *ICT, Grade 6*, printed p. 14 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, China).**
+**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, China, Sudan).**
 
 Grade 10 growth added 2026-11-12 from the Grade 10 student book, Unit 5, and the Grade 10 teacher guide's Unit 5 review key (printed pp. 101–102), which also served as a verified answer source for this build's Grade 10 Unit 5 question files (the guide keys every unit's objective items — Unit 5 at printed p. 101, Unit 6 at printed p. 116). Book error flagged in the unit's student placements and handled here: the Unit 5 figure sequence in the student book jumps to “Figure 5.14” for its cyber-attack picture; no lesson in this growth cites that figure number — the picture's content is taught, the wrong number is not.
 
-Searchable tags: security, computer security, INSA, unauthorised use, Grade 9 ICT Ethiopia Unit 5, tanzania, china
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Searchable tags: security, computer security, INSA, unauthorised use, Grade 9 ICT Ethiopia Unit 5, tanzania, china, sudan, grade 6

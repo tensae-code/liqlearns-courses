@@ -1,6 +1,6 @@
 # Sources — From Polya to programs — the algorithm
 
-countries: Ethiopia, Iraq
+countries: Ethiopia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Iraq
 
 **Book 6:** *Technology and Industrial Arts — Computer Technology, Grade 12 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-21-5. 179 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
 
+**Book 7:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 8:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The computing adjustment of Polya's steps | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 220–221 |
@@ -25,8 +29,10 @@ countries: Ethiopia, Iraq
 | Unit 1, Topic Programming, Lesson 2: Developing simple programs (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 51 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Programming, Lesson 2: Developing Intermediate programs (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 67 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Computer programs and Coding, Lesson 1: Computer Program Development (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 64 (teacher guide — evidence) |
+| Unit 3: Steps of building a program — define the problem, then the logical steps (the algorithm, named for al-Khwarizmi) | Sudan, *Computer Science, Grade 11*, printed p. 32 |
+| Unit 1 Lesson 3: Stages of programming (filed as programming/the-stages-of-writing-a-program; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *ICT, Grade 9*, printed p. 14 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iraq).**
+**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Sudan).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -36,4 +42,8 @@ Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to bu
 
 Papua New Guinea's own way (Grade 12): the final year is design-and-build — simulation models, a seven-method technological problem-solving process, biotechnology with a DNA-technology case study, CAD, the software development process, IT career pathways, and GUI work with client-side scripting and interactive menus. (teacher guide — evidence)
 
-Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11

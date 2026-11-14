@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
 
 **Book 13:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 3e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 38 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the whole Grade 3 year is Scratch: 4 teaching units (discovering Scratch, sprites, the stage, sounds) plus two story projects; the 5th séance of each teaching unit is evaluation and is not placed. The U.D.1 Séance 4 fiche carries a misprinted title (“Rechercher des vidéos sur Internet”) — its objectives and activities are the Scratch instructions and scripts area, and it is placed by its content. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 14:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
 | Introduction à la programmation visuelle §2–2.3 (Scratch, its interface: stage, sprite, blocks and scripts areas) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed pp. 8–9 (teacher guide — evidence) |
 | U.D.1 Séance 2 L'interface de Scratch (create and save a new project; name the interface parts) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 13 (teacher guide — evidence) |
 | U.D.3 Séance 1 Les composantes de la scène (filed as programming/the-parts-of-the-scratch-stage-and-renaming-them; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 22 (teacher guide — evidence) |
+| Unit 4 Lesson 2: The Scratch program interface | Sudan, *ICT, Grade 9*, printed p. 60 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
@@ -71,4 +74,6 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Morocco's own way (Grade 3): a full primary year given to one tool — Scratch — sequenced interface → sprites → stage/backdrops → sounds, each strand ending in a familiar story retold as a Scratch project (the hare and the tortoise; Little Red Riding Hood). (teacher guide — evidence)
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3
+Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9

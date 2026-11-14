@@ -1,6 +1,6 @@
 # Sources — Formatting — bold, italic, underline, font and colour
 
-countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq
+countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 
 **Book 15:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 16:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 | Unit 2 Ch.2 Lesson 1 The Home tab: font formatting | Iraq, *Computer, Grade 8*, printed p. 46 |
 | U.D.4 Séance 2 Changer la police et taille de texte in WordPad (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 28 (teacher guide — evidence) |
 | U.D.4 Séance 3 Formater le texte (bold, italic, underline) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 29 (teacher guide — evidence) |
+| Unit 4 Lesson 2: Basic operations — changing font colour and size | Sudan, *ICT, Grade 5*, printed p. 41 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq).**
+**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -75,4 +78,6 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2
+Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
+
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5

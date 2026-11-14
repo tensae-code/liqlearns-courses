@@ -1,6 +1,6 @@
 # Sources — IP addresses — IPv4 and IPv6
 
-countries: Ethiopia, Germany, Nepal
+countries: Ethiopia, Germany, Nepal, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Germany, Nepal
 
 **Book 4:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
+**Book 5:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Internet Protocol and its address | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 72–73 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Germany, Nepal
 | Addresses worked in the guide's key (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 2, printed pp. 47–51 (guide placement item 16) |
 | IP-Adressen: Netz- und Hostanteil, IPv4/IPv6, MAC-Adressen — network and host parts, IPv4/IPv6 and MAC addresses (Kapitel 3, verified in the chapter's solutions pages) | Germany, *Informatik 5 (Bayern NTG)*, printed p. ~90 |
 | Unit 1 §1.8, Concept of IP Addressing | Nepal, *Computer Science, Class 10*, printed p. 27 |
+| Unit 1 Lesson 2: Network addresses — IP protocol and the IP address | Sudan, *ICT, Grade 6*, printed p. 3 |
+| Unit 3 Lesson 1: The internet (IP) address | Sudan, *ICT, Grade 7*, printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Germany, Nepal).**
+**Acceptance count: taught in 4 countries (Ethiopia, Germany, Nepal, Sudan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -27,4 +33,8 @@ Book error taught corrected: on printed p. 74 the book prints 'First Octate' for
 
 The Grade 10 teacher guide's Unit 2 review keys (guide printed p. 47; guide placement item 31) were used as the verified-answer check for this lesson's question files where they cover this lesson's items.
 
-Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7

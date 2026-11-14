@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq
+countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 
 **Book 16:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
 
+**Book 17:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 | Unit 2 Ch.1 Lesson 1 Operating systems | Iraq, *Computer, Grade 7*, printed p. 33 |
 | Strand 5 Unit 2, Topic Operating System Software, Lesson 1: Introduction to Operating System (filed as software/operating-systems; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 75 (teacher guide — evidence, PARTIAL) |
 | Strand 5 Unit 2, Topic Operating System Software, Lesson 2: Categories of Operating Systems (filed as software/types-of-operating-systems-batch-to-real-time; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 76 (teacher guide — evidence, PARTIAL) |
+| Unit 4 Lesson 2: System software — the operating system and its jobs (DOS, Windows, Linux, Macintosh) | Sudan, *ICT, Grade 6*, printed p. 33 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -77,4 +80,6 @@ Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — compute
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6

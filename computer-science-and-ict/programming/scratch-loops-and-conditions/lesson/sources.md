@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
 
 **Book 12:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 5e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 35 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a third full Scratch year: control blocks (wait, loops, conditions, clones), sensing blocks, and three game/story projects; the 5th séance of each teaching unit is evaluation and is not placed. The three U.D.3 sensor fiches carry misprinted titles (“Les boucles (1)–(3)”) and are placed by their objectives, which are the sensing topics. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 13:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -45,8 +47,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
 | U.D.1 Séance 2 Les boucles (1) (repeat actions a set number of times) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 13 (teacher guide — evidence) |
 | U.D.1 Séance 3 Les boucles (2) (repeat actions indefinitely) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 14 (teacher guide — evidence) |
 | U.D.2 Séance 1 Les conditions (1) (if… then…) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 17 (teacher guide — evidence) |
+| Unit 4 Lesson 3: Working with the Scratch language | Sudan, *ICT, Grade 9*, printed p. 64 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
@@ -64,4 +67,6 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real program logic — wait/repeat-until, if–then–else, clones and sensors (answer, mouse position, touching colour, date) — and the year is half projects: a space-voyage story, a don't-touch-the-barriers ball game, and an aquarium game. (teacher guide — evidence)
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5
+Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9

@@ -1,6 +1,6 @@
 # Sources — Adding content to a slide
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq
 
 **Book 7:** *الحاسوب — الرابع الإعدادي (Computer, Fourth Preparatory Grade), Grade 10* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), third edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 8:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text as default content; content by placeholder icon or the Insert tab | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 127–128 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq
 | "Working with presentations" | Yemen, *Computer, Grade 11*, printed p. 38 |
 | Lesson 05 Inserting text and formatting it (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 25 (teacher guide — evidence) |
 | Unit 2 Ch.1 Lesson 2 The Home and Insert tabs | Iraq, *Computer, Grade 10*, printed p. 41 |
+| Unit 3 Lesson 2: How to design a presentation — adding slides, text, colour and pictures, saving | Sudan, *ICT, Grade 6*, printed p. 25 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Yemen, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -40,4 +43,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
-Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6

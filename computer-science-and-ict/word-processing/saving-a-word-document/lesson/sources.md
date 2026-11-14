@@ -1,6 +1,6 @@
 # Sources — Saving a word document
 
-countries: Ethiopia, Cambodia, Uganda, Yemen
+countries: Ethiopia, Cambodia, Uganda, Yemen, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cambodia, Uganda, Yemen
 
 **Book 8:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 9:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | First save — File → Save As; choose location/drive | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Cambodia, Uganda, Yemen
 | Chapter 4 Word Processing: saving an MS Word document file (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 35 (teacher guide — evidence) |
 | "Working with files" (new, open, save in Word) | Yemen, *Computer, Grade 10*, printed p. 84 |
 | Unit 2, Lesson 3: Saving a document with a clear name, reopening it and closing it (and saving changes as you go) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 58 (teacher guide — evidence) |
+| Unit 4 Lesson 2: Saving the file | Sudan, *ICT, Grade 5*, printed p. 41 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Uganda, Yemen).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Uganda, Yemen, Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -36,4 +39,6 @@ Yemen's own way (Grade 10): a skills ladder — every unit alternates short teac
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, cambodia, uganda, yemen, grade 10, saudi arabia, grade 4
+Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
+
+Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, cambodia, uganda, yemen, grade 10, saudi arabia, grade 4, sudan, grade 5

@@ -1,6 +1,6 @@
 # Sources — The internet — a network of networks
 
-countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq
+countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 
 **Book 14:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 15:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The internet — a network of networks; private, public, government; sharing globally | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.47 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | Chapter 6, Lesson 20 "Getting to know the world network, the Internet" | Afghanistan, *Computer, Grade 12*, printed p. 80 |
 | "The Development of Web Technologies" | North Macedonia, *Informatics, Year 1*, Тема 2 §2.3, printed p. 73 |
 | Unit 4 Ch.2 Lesson 1 The concept of the internet, its benefits and fields of use | Iraq, *Computer, Grade 7*, printed p. 131 |
+| Unit 3 Lesson 1: Basic internet concepts — the internet as a world network | Sudan, *ICT, Grade 7*, printed p. 54 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq).**
+**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -65,4 +68,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
 
-Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7

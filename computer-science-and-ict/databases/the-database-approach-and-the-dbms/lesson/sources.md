@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -11,6 +11,10 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia
 **Book 4:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
 **Book 5:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
+**Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 7:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,8 +27,10 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia
 | Unit 2 §2.1–2.2, Introduction to Database; Data, Database, DBMS | Nepal, *Computer Science, Class 10*, printed p. 37 |
 | Раздзел 3 "Апрацоўка інфармацыі ў сістэме кіравання базамі даных", § 9 "Базы даных і сістэмы кіравання базамі даных" (databases and database management systems) | Belarus, *Інфарматыка. 11 клас*, Раздзел 3, § 9, printed p. 104 |
 | "Fundamentals of Databases" | North Macedonia, *Informatics, Year 2*, Тема 3, printed p. 184 |
+| Unit 4 Lesson 4: The database concept — from a paper data form to a database, its advantages | Sudan, *ICT, Grade 6*, printed p. 35 |
+| Unit 1 Lesson 3: Databases and database management systems | Sudan, *ICT, Grade 7*, printed p. 15 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Belarus, North Macedonia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -34,4 +40,8 @@ Grade 12 growth (2026-11-12, Wave F3): sub lesson 4 stands on teacher-guide evid
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11
+Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
+
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7

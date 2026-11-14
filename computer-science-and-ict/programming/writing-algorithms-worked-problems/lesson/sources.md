@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — worked problems
 
-countries: Ethiopia, Palestine
+countries: Ethiopia, Palestine, Sudan
 
 **Book 1:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Palestine
 
 **Book 5:** *Programming (البرمجة), Grade 5* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "5" on cover) — Palestine, State of Palestine, Ministry of Education. Year 2019 (second edition, 1440H/2019; adopted for teaching from 2018/19). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 6:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 7:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problems 1–5 — the worked algorithm solutions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (§6.8 key), printed pp. 117–122 |
@@ -21,8 +25,10 @@ countries: Ethiopia, Palestine
 | Lesson 3: Shearing the two sheep (plan the route first, more than one correct program) | Palestine, *Programming, Grade 5*, printed p. 8 |
 | Lesson 4: Preparing the trees to build a house (trace a program on the grid, then shorten a long correct solution) | Palestine, *Programming, Grade 5*, printed p. 9 |
 | Lesson 8: I avoid danger and reach the house (plan the route on graph paper, solve in at most nine commands) | Palestine, *Programming, Grade 5*, printed p. 28 |
+| Unit 3: Desk-checking a program by hand on sample sales data before running it | Sudan, *Computer Science, Grade 11*, printed p. 33 |
+| Unit 3 Lesson 4: Operations on algorithms | Sudan, *ICT, Grade 9*, printed p. 48 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
 
 Book error taught corrected: the teacher guide's §6.8 key defines an algorithm as a sequence of “ambiguous” step-by-step instructions (printed p. 116) — the opposite of both books' wording everywhere else. The lessons teach **unambiguous**, and the prime check and quadratic solutions above follow the key's worked steps with that word corrected.
 
@@ -32,4 +38,8 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Palestine’s own way (Grade 5, Programming): programming is taught entirely through the offline Hour of Code Minecraft adventures (code.org) — block “bricks” snapped together to guide Steve/Alex; every puzzle is first planned on squared paper, run, checked against the success screen, and shortened; the word “algorithm” is introduced through al-Khwarizmi.
 
-Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11

@@ -1,6 +1,6 @@
 # Sources - Variables - storing values in memory
 
-countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq
+countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq
 
 **Book 9:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 6e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 34 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the final Scratch year: operators, variables, the Pen extension, and three applied projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 10:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
+**Book 11:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -34,8 +38,10 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq
 | Unit 3 Ch.1 Lesson 2 Constants and variables | Iraq, *Computer, Grade 7*, printed p. 90 |
 | U.D.2 Séance 1 Les variables (1) (creating variables, in Scratch) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 17 (teacher guide — evidence) |
 | U.D.2 Séance 2 Les variables (2) (giving a variable a value) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 18 (teacher guide — evidence) |
+| Unit 4, 4-5: Constants and variables in BASIC and the rules for variable names | Sudan, *Computer Science, Grade 11*, printed p. 39 |
+| Unit 4 Lesson 4: Dealing with data in Scratch | Sudan, *ICT, Grade 9*, printed p. 72 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan).**
 
 No book error touches this lesson. The teacher guide's worked model solutions for this section (guide item 25) are filed above as verified expected outputs (teacher guide - evidence); they confirm the practice answers but are not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -49,4 +55,8 @@ Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — compute
 
 Morocco's own way (Grade 6): primary ICT ends by making things with code — a working calculator, a maths quiz and pen-drawn geometry — so the four-year Scratch spiral (Grades 3–6) finishes on operators, variables and extensions used for a purpose. (teacher guide — evidence)
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11

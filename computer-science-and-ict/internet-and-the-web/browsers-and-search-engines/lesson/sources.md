@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq
+countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq
 
 **Book 8:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 9:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq
 | Unit 4 Lesson 24 Introduction to search engines (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 60 (teacher guide — evidence) |
 | Unit 4 Ch.2 Lesson 1 Searching for information using browsers and search engines | Iraq, *Computer, Grade 8*, printed p. 128 |
 | U.D.1 Séance 2 Rechercher du texte sur Internet (search for information; find a word on a web page) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 13 (teacher guide — evidence) |
+| Unit 3 Lesson 5: Search engines | Sudan, *ICT, Grade 7*, printed p. 63 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, North Macedonia, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -45,4 +48,6 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7

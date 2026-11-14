@@ -1,6 +1,6 @@
 # Sources — What an information system is
 
-countries: Ethiopia, China, Belarus
+countries: Ethiopia, China, Belarus, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, China, Belarus
 
 **Book 5:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
 
+**Book 6:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an information system is (whole lesson) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed p. 6 (student placement item 7) |
@@ -19,8 +21,9 @@ countries: Ethiopia, China, Belarus
 | Раздзел 4 "Інфармацыйныя сістэмы і тэхналогіі", § 16 "Інфармацыйныя сістэмы" (information systems) | Belarus, *Інфарматыка. 11 клас*, Раздзел 4, § 16, printed p. 135 |
 | Lesson 08 Notion of an information system (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 14 (teacher guide — evidence) |
 | Unit 2, Topic Information Technology, Lesson 1: Role of Information Technology (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 71 (teacher guide — evidence) |
+| Unit 1, 1-1: A data-processing system and its subsystems (input, processing, output, security, administration) | Sudan, *Computer Science, Grade 11*, printed p. 1 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, China, Belarus).**
+**Acceptance count: taught in 4 countries (Ethiopia, China, Belarus, Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -30,4 +33,6 @@ Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS 
 
 Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
 
-Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11

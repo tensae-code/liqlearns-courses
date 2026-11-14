@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine
 
 **Book 6:** *Programming (البرمجة), Grade 5* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "5" on cover) — Palestine, State of Palestine, Ministry of Education. Year 2019 (second edition, 1440H/2019; adopted for teaching from 2018/19). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 7:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine
 | "Sequence of statements [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.12, printed p. 129 |
 | Lesson 19 Using loops in an algorithm (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 78 (teacher guide — evidence) |
 | Lesson 12: Reaching the treasure safely (sequence, loops and conditionals combined in one program) | Palestine, *Programming, Grade 5*, printed p. 40 |
+| Unit 3, 3-3: The programming rules — sequence, selection, looping and branching | Sudan, *Computer Science, Grade 11*, printed p. 31 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, North Macedonia, Palestine).**
+**Acceptance count: taught in 5 countries (Ethiopia, China, North Macedonia, Palestine, Sudan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -31,4 +34,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Palestine’s own way (Grade 5, Programming): programming is taught entirely through the offline Hour of Code Minecraft adventures (code.org) — block “bricks” snapped together to guide Steve/Alex; every puzzle is first planned on squared paper, run, checked against the success screen, and shortened; the word “algorithm” is introduced through al-Khwarizmi.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine
+Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11

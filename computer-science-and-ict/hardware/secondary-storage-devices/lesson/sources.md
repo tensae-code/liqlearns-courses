@@ -1,6 +1,6 @@
 # Sources — Hard disk, optical disk, flash disk and SD card
 
-countries: Ethiopia, Yemen, Saudi Arabia, Iraq
+countries: Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Yemen, Saudi Arabia, Iraq
 
 **Book 5:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hard disk, optical disk, flash disk and SD card | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 24–26 (teacher evidence: guide printed pp. 31–32, 34) |
@@ -19,8 +21,9 @@ countries: Ethiopia, Yemen, Saudi Arabia, Iraq
 | "Auxiliary memory" | Yemen, *Computer, Grade 10*, printed p. 23 |
 | Lesson 14: Comparing storage units (capacity, size, portability, sharing — the properties table) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 95 |
 | Unit 1 Ch.2 Lesson 2 Storage units | Iraq, *Computer, Grade 8*, printed p. 23 |
+| Unit 1 Lesson 3: Storage units in the computer (hard disk and backup storage) | Sudan, *ICT, Grade 5*, printed p. 6 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Saudi Arabia, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Saudi Arabia, Iraq, Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -30,4 +33,6 @@ Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book fo
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: hard disk, optical disk, flash disk and sd card, hardware, grade 7, information technology, ict, ethiopia, yemen, grade 10, saudi arabia, grade 3, iraq, grade 8
+Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
+
+Searchable tags: hard disk, optical disk, flash disk and sd card, hardware, grade 7, information technology, ict, ethiopia, yemen, grade 10, saudi arabia, grade 3, iraq, grade 8, sudan, grade 5

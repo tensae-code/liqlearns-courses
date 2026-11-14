@@ -1,6 +1,6 @@
 # Sources — Internet, Web, website and web page
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq
 **Book 7:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
 **Book 8:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
+**Book 9:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,8 +33,9 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq
 | Sub lesson 4 — The Web's four foundations (Grade 11 depth): the Web as the internet's most popular service (with email and file transfer); Berners-Lee, CERN, 1989; HTML, HTTP, web server, web browser; website as a publicly accessible collection of interrelated webpages joined by hypertext links | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 76–77 |
 | Lesson 22 "The World Wide Web" | Afghanistan, *Computer, Grade 12*, printed p. 87 |
 | Unit 4 Ch.1 Lesson 2 The internet and the World Wide Web | Iraq, *Computer, Grade 8*, printed p. 119 |
+| Unit 3 Lesson 1: The World Wide Web | Sudan, *ICT, Grade 7*, printed p. 54 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, North Macedonia, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -44,6 +47,8 @@ Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS 
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8
+Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
+
+Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7
 
 Growth note (Wave 3, band E4): Sub lessons 1–3 are the original Grade 7/8 lesson, unchanged in content; Sub lesson 4 is the Grade 11 depth added from the Grade 11 book (printed pp. 76–77) — the same Web, with its inventor, place, year and four foundations made explicit. Note the Grade 8 part of this lesson gives the Web's invention as 1991 (Grade 8 book, printed p. 64) while the Grade 11 book gives 1989 at CERN — both are taught as their own books state them, in their own sub lessons, and the Grade 11 date is the one the Grade 11 sub lesson and its questions use. Unit 4 figure references and captions repeatedly disagree in the Grade 11 book and table numbers are reused; this growth cites no figure or table number.
