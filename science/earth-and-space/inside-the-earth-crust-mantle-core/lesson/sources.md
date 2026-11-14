@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -262,3 +262,20 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, natural sciences grade
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, inside the earth crust mantle core
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA8S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VIII"; Grade 8; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Standar, Kurikulum, dan Asesmen Pendidikan, Pusat Perbukuan, 2022; ISBN 978-602-244-794-8 PDF: 248 pages, 7,056,249 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 14 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 1 and 2 (Biology), Bab 3 and 4 (Physics) and Bab 5 (Chemistry) are pure split-subject chapters — chapter lines only. The general chapter, Bab 6, is placed in full. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's structure introduced through geology, "the science branch that studies the Earth and its changes" recalled from Grade 7 (ID-IPA8S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VIII*, printed p. 172 |
+| the layers of the Earth described and modelled (ID-IPA8S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VIII*, printed p. 175 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space inside-the-earth-crust-mantle-core
+

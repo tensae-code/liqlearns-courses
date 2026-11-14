@@ -1,6 +1,6 @@
 # Sources — Writing a laboratory report
 
-countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan, Indonesia
 
 **Book 1:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp. Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -75,3 +75,22 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 4 countries (Bhutan, Cook Islands, Australia, Sudan).**
 Searchable tags: sudan, sudan grade 7, grade 8, science-skills/writing-a-laboratory-report
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA7T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)"; Grade 7; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-453-5 PDF: 272 pages, 10,182,004 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 16 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only — the guide mirrors ID-IPA7S chapter by chapter (essential-material tables, misconception notes, answer keys); only extra explanations and answers are placed. Its Bab 2, 3 and 4 guides cover the student book's Chemistry/Physics chapters — record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reporting experiment results: bar charts and line graphs for experiment data (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 35 |
+| guide's experiment-report structure taught to teachers (aim as statement or question, then method, results, conclusion) inside the Bab II guide (guide evidence) (ID-IPA7T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)*, printed p. 123 |
+
+**Acceptance count: taught in 5 countries (Bhutan, Cook Islands, Australia, Sudan, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills writing-a-laboratory-report
+

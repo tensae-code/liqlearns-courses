@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -411,3 +411,19 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, keeping-healthy accidents-and-staying-safe
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G3S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; student book Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), Republic of Indonesia, 2025; ISBN 978-634-00-2163-9 PDF: 208 pages, 20,569,056 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Dahulu, Kini, dan Nanti — history), Bab 3 (Peduli dan Berbagi — caring/social) and Bab 5 (Bijak Berbelanja Kebutuhan — money and wise shopping) are social-studies chapters, record-only, no placements. Science chapters placed: Bab 1, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| finding at least three situations around home and school that can endanger the senses/body (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 11 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Turkey, Suriname, Uganda, Bulgaria, Cuba, Seychelles, Ecuador, Afghanistan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keeping-healthy accidents-and-staying-safe
+

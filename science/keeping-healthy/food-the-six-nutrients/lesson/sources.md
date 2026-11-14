@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -414,3 +414,20 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G6S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)"; Grade 6; student book Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2164-6 (jil. 6 PDF) PDF: 208 pages, 18,181,902 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 3 (Jejak Sang Pahlawan — colonial-era heroes) and Bab 4 (Kearifan Lokal — local wisdom and national unity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 5, 6. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a portion of fruit and vegetables holds a fuller range of nutrients than a portion of cereal (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 1 |
+| nutrients in food provide energy and the substances needed for growth (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 13 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keeping-healthy food-the-six-nutrients
+

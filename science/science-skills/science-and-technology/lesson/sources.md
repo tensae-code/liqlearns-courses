@@ -1,6 +1,6 @@
 # Sources — Science and technology — how they differ and feed each other
 
-countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan, Venezuela, Dominican Republic
+countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -165,3 +165,19 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, science and technology
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| scientists and inventors who made life easier (Edison, the Wright brothers, Galileo) in an activity (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 5 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Cook Islands, Suriname, Costa Rica, Uganda, Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills science-and-technology
+

@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -532,3 +532,19 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, our-environment caring-for-our-environment-soil-water-and-air
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA9S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX"; Grade 9; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Standar, Kurikulum, dan Asesmen Pendidikan, Pusat Perbukuan, 2022; ISBN 978-602-244-787-0 PDF: 216 pages, 36,650,017 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 14 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 1, 2 and 6 (Biology), Bab 3 and Bab 4 §§A–B (Physics) and Bab 5 (Chemistry) are pure split-subject material — chapter lines only. General parts placed: Bab 4 §C and Bab 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Bab 7 chapter project on an environmental issue (ID-IPA9S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX*, printed p. 179 |
+
+**Acceptance count: taught in 30 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Uganda, Bulgaria, Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Laos, Sri Lanka, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment caring-for-our-environment-soil-water-and-air
+

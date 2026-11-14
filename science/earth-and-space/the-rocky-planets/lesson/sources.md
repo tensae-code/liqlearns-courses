@@ -1,6 +1,6 @@
 # Sources — The rocky planets — Mercury, Venus, Earth and Mars
 
-countries: Ethiopia, Finland (teacher-training evidence only), Armenia, Kazakhstan, Dominican Republic
+countries: Ethiopia, Finland (teacher-training evidence only), Armenia, Kazakhstan, Dominican Republic, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -82,3 +82,19 @@ Searchable tags: Mercury, Venus greenhouse effect, Earth 1 AU, Mars, Olympus Mon
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, the rocky planets
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G6S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)"; Grade 6; student book Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2164-6 (jil. 6 PDF) PDF: 208 pages, 18,181,902 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 3 (Jejak Sang Pahlawan — colonial-era heroes) and Bab 4 (Kearifan Lokal — local wisdom and national unity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 5, 6. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the solar system and space technology: the four planets nearest the Sun are the inner (rocky) planets (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 165 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Armenia, Kazakhstan, Dominican Republic, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space the-rocky-planets
+

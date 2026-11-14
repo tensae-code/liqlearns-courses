@@ -1,6 +1,6 @@
 # Sources — Protecting yourself: sexual violence and saying no
 
-countries: Ethiopia, Suriname, Iceland (teacher-guide evidence only), Cuba, Venezuela
+countries: Ethiopia, Suriname, Iceland (teacher-guide evidence only), Cuba, Venezuela, Indonesia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -70,3 +70,20 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, protect
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, keeping-healthy protecting-yourself-sexual-violence-and-saying-no
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my body is my privacy: personal space, who may enter it, and permission (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 126 |
+| if a privacy violation happens: run to a crowded place, shout for help, say "No", and tell a trusted adult (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 129 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Suriname, Cuba, Venezuela, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keeping-healthy protecting-yourself-sexual-violence-and-saying-no
+

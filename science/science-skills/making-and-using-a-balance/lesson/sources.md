@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -142,3 +142,19 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, making
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, making and using a balance
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA10T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)"; Grade 10; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-464-1 PDF: 256 pages, 5,999,616 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 16 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only. Note: this guide serves the REVISED student edition, whose chapters are reordered against the 2021 student book filed above (revised Bab III = atomic structure, Bab V = green chemistry, Bab VIII = climate change). Its guides for the split-subject chapters are record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Kunci Jawaban" for Bab I Aktivitas 1.1: the three-beam balance (neraca tiga lengan) and its use for measuring mass (guide evidence) (ID-IPA10T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)*, printed p. 54 |
+
+**Acceptance count: unchanged — taught in 9 countries (Ethiopia, Finland, Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka).** Indonesia is named as teacher-guide evidence only (its books stocked here are teacher guides), not added to this count.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills making-and-using-a-balance
+

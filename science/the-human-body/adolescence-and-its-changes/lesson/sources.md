@@ -1,6 +1,6 @@
 # Sources — Adolescence and its changes
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -211,3 +211,25 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, adoles
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, the-human-body, adolescence-and-its-changes
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-G5T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-162-3 PDF: 264 pages, 10,370,971 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); body printed page = PDF page − 12 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only — mirrors ID-G5S chapter by chapter with answer keys, mastery rubrics and remedial/enrichment notes. Its Bab 2 and Bab 5 guides cover social-studies chapters — record-only. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| puberty defined: the time a child's body grows and develops towards adulthood (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 109 |
+| human growth stages from baby to old age, with the growth characteristics of each (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 112 |
+| changes observed in myself: physical, emotional and social (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 113 |
+| secondary characteristics appearing in boys and in girls, compared for similarities and differences (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 114 |
+| guide's completeness note for the puberty chapter: pupils count as complete when most of their answers meet the criteria (guide evidence) (ID-G5T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 178 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Guyana, India, Cuba, Cambodia, Ecuador, Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-human-body adolescence-and-its-changes
+

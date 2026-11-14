@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela
+countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -72,3 +72,29 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-skills accuracy-and-precision
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA8T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam (Edisi Revisi) untuk SMP/MTs Kelas VIII"; Grade 8; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2024; ISBN 978-623-388-140-1 PDF: 256 pages, 2,459,886 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 14 Records: books.json record only (no TSV twin); cited once here Verdict: COMPLETE. Guide evidence only. Note: this guide serves the REVISED student edition, whose later chapters are ordered differently from the 2022 student book filed above (in the revised edition mixture separation is Bab VI); the guide's chapter guides for the split-subject chapters (cells/body, work-energy-machines, waves-light, elements-mixtures) are record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA10S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMA Kelas X"; Grade 10; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, 2021; ISBN 978-602-244-380-3 (Jilid 1) PDF: 280 pages, 10,352,795 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Biology), Bab 3, 4 and 5 (Chemistry) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA10T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)"; Grade 10; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-464-1 PDF: 256 pages, 5,999,616 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 16 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only. Note: this guide serves the REVISED student edition, whose chapters are reordered against the 2021 student book filed above (revised Bab III = atomic structure, Bab V = green chemistry, Bab VIII = climate change). Its guides for the split-subject chapters are record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| parallax error in reading a scale, illustrated (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 27 |
+| the three-tier test as pre- and post-assessment: Table 4 gives conception categories and scores with suggested teacher follow-ups (guide evidence) (ID-IPA8T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam (Edisi Revisi) untuk SMP/MTs Kelas VIII*, printed p. 6 |
+| rules of significant figures and scientific notation (ID-IPA10S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMA Kelas X*, printed p. 12 |
+| uncertainty values in repeated measurements (ID-IPA10S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMA Kelas X*, printed p. 15 |
+| the same Bab I key's worked answers for the measurement activities and comprehension checks (guide evidence) (ID-IPA10T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)*, printed p. 56 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Venezuela, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills accuracy-and-precision
+

@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -352,3 +352,25 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, our-environment pollution-and-its-four-kinds
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G4S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Republic of Indonesia, 2023; ISBN 978-623-118-445-0 (jil. 4 PDF) PDF: 208 pages, 6,135,974 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 6 (Peranku di Lingkungan — my role in school and society) and most of Bab 7 (cultural diversity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 3, 4, 5 (biodiversity/resources parts), 7 (one conservation item), 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA7T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)"; Grade 7; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-453-5 PDF: 272 pages, 10,182,004 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 16 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only — the guide mirrors ID-IPA7S chapter by chapter (essential-material tables, misconception notes, answer keys); only extra explanations and answers are placed. Its Bab 2, 3 and 4 guides cover the student book's Chemistry/Physics chapters — record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| our environment is threatened: observing environmental problems around you and their local causes (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 164 |
+| the sea ecosystem's balance disturbed by excessive plastic use (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 65 |
+| guide's explanation of how rubbish reaches a whale's stomach (feeding at the surface and other routes) (guide evidence) (ID-IPA7T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)*, printed p. 207 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment pollution-and-its-four-kinds
+

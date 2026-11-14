@@ -1,6 +1,6 @@
 # Sources — Keeping our bodies clean
 
-countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia
+countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -556,3 +556,22 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, keeping-healthy keeping-our-bodies-clean
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA9T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)"; Grade 9; teacher guide Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2433-3 PDF: 282 pages, 6,212,166 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 17 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only. Note: this guide serves the REVISED student edition, in which the environmental-issues chapter is Bab 6 (Bab 7 in the 2022 student book filed above) and electricity/magnetism/alternative energy is Bab 5. Its guides for the split-subject chapters are record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| keeping myself healthy: daily washing, bathing and brushing teeth as a numbered routine (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 122 |
+| "Kunci Jawaban" for the environmental-issues chapter, subchapter A: model answers beginning with throwing rubbish in its place and washing hands (guide evidence) (ID-IPA9T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)*, printed p. 234 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Turkey, Guyana, Uganda, Bulgaria, Pakistan (Punjab), Cuba, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keeping-healthy keeping-our-bodies-clean
+

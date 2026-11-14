@@ -1,6 +1,6 @@
 # Sources — Directions — Right, Left and the Four Directions
 
-countries: Ethiopia, Serbia, Mongolia, Moldova, Cabo Verde, Angola, China, North Macedonia
+countries: Ethiopia, Serbia, Mongolia, Moldova, Cabo Verde, Angola, China, North Macedonia, Indonesia
 
 **Book 2:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -149,3 +149,24 @@ Searchable tags: china, china science, pep, people's education press, directions
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, location-and-maps directions-right-left-and-the-four-directions
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G3S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; student book Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), Republic of Indonesia, 2025; ISBN 978-634-00-2163-9 PDF: 208 pages, 20,569,056 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Dahulu, Kini, dan Nanti — history), Bab 3 (Peduli dan Berbagi — caring/social) and Bab 5 (Bijak Berbelanja Kebutuhan — money and wise shopping) are social-studies chapters, record-only, no placements. Science chapters placed: Bab 1, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-G3T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; teacher guide Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2167-7 PDF: 280 pages, 5,539,372 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); printed page = PDF page − 10 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only below — the guide mirrors ID-G3S chapter by chapter (Panduan Umum + Panduan Khusus per bab, with answer keys, rubrics and enrichment); only its extra explanations and answers are placed. Its Bab 2, 3 and 5 guides cover the same social-studies chapters as the student book — record-only, no placements. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| cardinal directions: how a ship's captain knows the way at sea; the eight compass points learned from an infographic (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 148 |
+| field observation in the schoolyard: noting objects in each compass direction in a table (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 149 |
+| Bab 7 "Uji Kompetensi": give the directions travelled from Banu's house to Ian's house on a map (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 163 |
+| guide's teaching sequence and rubrics for the compass-points reading and field exploration (guide evidence) (ID-G3T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 203 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Serbia, Mongolia, Moldova, Cabo Verde, Angola, China, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, location-and-maps directions-right-left-and-the-four-directions
+

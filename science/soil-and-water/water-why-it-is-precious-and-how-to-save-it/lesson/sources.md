@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -363,3 +363,19 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| where is the clean water in my neighbourhood: surveying households' clean-water sources and presenting the data (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 83 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, soil-and-water water-why-it-is-precious-and-how-to-save-it
+

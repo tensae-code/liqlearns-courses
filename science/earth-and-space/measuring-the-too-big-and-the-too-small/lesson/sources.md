@@ -1,6 +1,6 @@
 # Sources — Measuring the too-big and the too-small
 
-countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan, Samoa
+countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan, Samoa, Indonesia
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -36,3 +36,19 @@ Searchable tags: indirect measurement, measuring the Earth, globe and string, co
 Placement choice, on the record: this placement was filed as "earth-and-space/the-sun-earth-and-moon-sizes-and-distances-measured" — samoa-placements.md, printed pp. 23-24 — and is stocked here because the existing lesson on measuring the too-big and the too-small teaches measuring the Earth's size through a scale model and its proportions — the same scale-model method this placement uses for the Sun, Earth and Moon. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, earth and space measuring the too big and the too small
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| enrichment: calculating how much water there is on Earth (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 80 |
+
+**Acceptance count: taught in 4 countries (Slovenia, Bhutan, Samoa, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space measuring-the-too-big-and-the-too-small
+

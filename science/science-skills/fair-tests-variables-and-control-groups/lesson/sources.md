@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia
+countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -167,3 +167,22 @@ Searchable tags: china, china science, pep, people's education press, fair tests
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, science-skills fair-tests-variables-and-control-groups
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G4S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Republic of Indonesia, 2023; ISBN 978-623-118-445-0 (jil. 4 PDF) PDF: 208 pages, 6,135,974 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 6 (Peranku di Lingkungan — my role in school and society) and most of Bab 7 (cultural diversity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 3, 4, 5 (biodiversity/resources parts), 7 (one conservation item), 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Aga's photosynthesis experiment with two potted strawberry plants compared (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 22 |
+| designing an experiment: two different treatments of Agnes's and Ida's plants compared (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 17 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa, Seychelles, China, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills fair-tests-variables-and-control-groups
+

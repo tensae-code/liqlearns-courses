@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -389,3 +389,19 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, the hu
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, the-human-body the-human-body-systems-working-together
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G6S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)"; Grade 6; student book Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2164-6 (jil. 6 PDF) PDF: 208 pages, 18,181,902 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 3 (Jejak Sang Pahlawan — colonial-era heroes) and Bab 4 (Kearifan Lokal — local wisdom and national unity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 5, 6. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| meet four other body systems besides digestion (closing concept map) (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 28 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Guyana, Costa Rica, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-human-body the-human-body-systems-working-together
+

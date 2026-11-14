@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -368,3 +368,20 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, light things-that-block-light-and-shadows
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the mystery of shadows: your shadow's shape discussed from three pupils' claims (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 143 |
+| shadow patterns investigated; with light directly above and far away the shadow matches the object (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 146 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, light things-that-block-light-and-shadows
+

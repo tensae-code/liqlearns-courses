@@ -1,6 +1,6 @@
 # Sources — Classification — scientific names and the seven ranks
 
-countries: Ethiopia, Ecuador
+countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -30,3 +30,19 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 2 countries (Ethiopia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, scientific-names-and-the-seven-ranks
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)"; Grade 7; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-453-5 PDF: 272 pages, 10,182,004 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 16 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only — the guide mirrors ID-IPA7S chapter by chapter (essential-material tables, misconception notes, answer keys); only extra explanations and answers are placed. Its Bab 2, 3 and 4 guides cover the student book's Chemistry/Physics chapters — record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide's answer key for Bab V subchapter C: the order of taxon levels from the highest (guide evidence) (ID-IPA7T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)*, printed p. 184 |
+
+**Acceptance count: unchanged — taught in 2 countries (Ethiopia, Ecuador).** Indonesia is named as teacher-guide evidence only (its books stocked here are teacher guides), not added to this count.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, animals scientific-names-and-the-seven-ranks
+

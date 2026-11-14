@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -293,3 +293,22 @@ Searchable tags: sri lanka, sri lanka science, food what food is
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA9S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX"; Grade 9; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Standar, Kurikulum, dan Asesmen Pendidikan, Pusat Perbukuan, 2022; ISBN 978-602-244-787-0 PDF: 216 pages, 36,650,017 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 14 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 1, 2 and 6 (Biology), Bab 3 and Bab 4 §§A–B (Physics) and Bab 5 (Chemistry) are pure split-subject material — chapter lines only. General parts placed: Bab 4 §C and Bab 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA9T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)"; Grade 9; teacher guide Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2433-3 PDF: 282 pages, 6,212,166 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 17 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only. Note: this guide serves the REVISED student edition, in which the environmental-issues chapter is Bab 6 (Bab 7 in the 2022 student book filed above) and electricity/magnetism/alternative energy is Bab 5. Its guides for the split-subject chapters are record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food availability: Indonesia's 2020 Global Hunger Index value of 19.1 and its world position (ID-IPA9S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX*, printed p. 175 |
+| the same key's food-waste answer: campaign lines such as "take only enough, finish it all the way" (guide evidence) (ID-IPA9T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)*, printed p. 236 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Cook Islands, India, Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keeping-healthy food-what-food-is
+

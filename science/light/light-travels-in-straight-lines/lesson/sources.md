@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -289,3 +289,19 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, light light-travels-in-straight-lines
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G5S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)"; Grade 5; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-388-160-9 (jil. 5 PDF) PDF: 208 pages, 13,635,276 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Majulah Daerahku! — regional economy) and Bab 5 (Daerahku yang Bersejarah — local history and cultural heritage) are social-studies chapters, record-only. Science chapters placed: Bab 1 (geography parts), 3, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how light reaches our eyes: first, light travels straight (ID-G5S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas V (Edisi Revisi)*, printed p. 137 |
+
+**Acceptance count: taught in 31 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab, Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, light light-travels-in-straight-lines
+

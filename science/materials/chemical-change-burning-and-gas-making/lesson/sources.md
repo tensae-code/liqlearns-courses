@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia
+countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -290,3 +290,19 @@ Searchable tags: sri lanka, sri lanka science, chemical change burning and gas m
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials chemical-change-burning-and-gas-making
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-PAUD):** Title as printed: "Dasar-Dasar Literasi, Matematika, Sains, Teknologi, Rekayasa, dan Seni (Edisi Revisi) — Panduan Guru PAUD"; Nursery / Fase Fondasi; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-096-4 (PDF) PDF: 168 pages, 6,165,364 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE for its science parts. This is a six-strand foundation guide (literacy, mathematics, science, technology, engineering, art): only the Sains (science) element is in scope — Bab 2 §3, printed pp. 57–61, plus the general inquiry approach. The other strands are record-only. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the vinegar eruption used as the example science activity in both compared classes (guide evidence) (ID-PAUD) | Indonesia, *Dasar-Dasar Literasi, Matematika, Sains, Teknologi, Rekayasa, dan Seni (Edisi Revisi) — Panduan Guru PAUD*, printed p. 58 |
+
+**Acceptance count: unchanged — taught in 16 countries (Ethiopia, Serbia, Costa Rica, Uganda, Samoa, Seychelles, Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia).** Indonesia is named as teacher-guide evidence only (its books stocked here are teacher guides), not added to this count.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, materials chemical-change-burning-and-gas-making
+

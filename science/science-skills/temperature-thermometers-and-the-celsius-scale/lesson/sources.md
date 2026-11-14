@@ -1,6 +1,6 @@
 # Sources — Measuring: temperature, thermometers and the Celsius scale
 
-countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia
+countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -267,3 +267,19 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, science-skills temperature-thermometers-and-the-celsius-scale
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measuring temperature, with several instruments' readings compared (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 33 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills temperature-thermometers-and-the-celsius-scale
+

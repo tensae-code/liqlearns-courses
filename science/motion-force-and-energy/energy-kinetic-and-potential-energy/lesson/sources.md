@@ -1,6 +1,6 @@
 # Sources — Energy — kinetic and potential energy
 
-countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka
+countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -209,3 +209,22 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, energy
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, energy kinetic and potential energy
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G3S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; student book Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), Republic of Indonesia, 2025; ISBN 978-634-00-2163-9 PDF: 208 pages, 20,569,056 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Dahulu, Kini, dan Nanti — history), Bab 3 (Peduli dan Berbagi — caring/social) and Bab 5 (Bijak Berbelanja Kebutuhan — money and wise shopping) are social-studies chapters, record-only, no placements. Science chapters placed: Bab 1, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA10S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMA Kelas X"; Grade 10; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, 2021; ISBN 978-602-244-380-3 (Jilid 1) PDF: 280 pages, 10,352,795 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Biology), Bab 3, 4 and 5 (Chemistry) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| beyond movement energy: other stored forms introduced in the enrichment reading (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 126 |
+| energy and its forms catalogued (ID-IPA10S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMA Kelas X*, printed p. 126 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Argentina, Iraq, Costa Rica, India, United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, motion-force-and-energy energy-kinetic-and-potential-energy
+

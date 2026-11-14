@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -311,3 +311,21 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, photos
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, photosynthesis and its partnership with respiration
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G4S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Republic of Indonesia, 2023; ISBN 978-623-118-445-0 (jil. 4 PDF) PDF: 208 pages, 6,135,974 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 6 (Peranku di Lingkungan — my role in school and society) and most of Bab 7 (cultural diversity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 3, 4, 5 (biodiversity/resources parts), 7 (one conservation item), 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how plants get their food: photosynthesis, with chlorophyll and carbohydrate defined in margin notes (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 10 |
+| investigating photosynthesis and telling the process as a story from an illustration (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 12 |
+| clean air because of plants: trees planted along roads clean the air (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 167 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Guyana, India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Sudan, Venezuela, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-human-body photosynthesis-and-its-partnership-with-respiration
+

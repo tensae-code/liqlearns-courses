@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only)
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -300,3 +300,23 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, the sc
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, the scientific method observe hypothesise test conclude
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-PAUD):** Title as printed: "Dasar-Dasar Literasi, Matematika, Sains, Teknologi, Rekayasa, dan Seni (Edisi Revisi) — Panduan Guru PAUD"; Nursery / Fase Fondasi; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-096-4 (PDF) PDF: 168 pages, 6,165,364 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE for its science parts. This is a six-strand foundation guide (literacy, mathematics, science, technology, engineering, art): only the Sains (science) element is in scope — Bab 2 §3, printed pp. 57–61, plus the general inquiry approach. The other strands are record-only. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the flow of the scientific method (diagram) (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 11 |
+| steps of designing an experiment recalled in order: aim from observation, variables, method, data (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 20 |
+| training young children's thinking through questioning during science play, drawn from the Class B illustration (guide evidence) (ID-PAUD) | Indonesia, *Dasar-Dasar Literasi, Matematika, Sains, Teknologi, Rekayasa, dan Seni (Edisi Revisi) — Panduan Guru PAUD*, printed p. 61 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova, Armenia, Egypt, Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills the-scientific-method-observe-hypothesise-test-conclude
+

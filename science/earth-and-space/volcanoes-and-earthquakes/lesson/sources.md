@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China, Syria, North Macedonia
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China, Syria, North Macedonia, Indonesia
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -154,3 +154,21 @@ Placement choice, on the record: the North Macedonia placement(s) above were fil
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space volcanoes-and-earthquakes
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA8S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VIII"; Grade 8; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Standar, Kurikulum, dan Asesmen Pendidikan, Pusat Perbukuan, 2022; ISBN 978-602-244-794-8 PDF: 248 pages, 7,056,249 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 14 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 1 and 2 (Biology), Bab 3 and 4 (Physics) and Bab 5 (Chemistry) are pure split-subject chapters — chapter lines only. The general chapter, Bab 6, is placed in full. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| volcanoes: how they form and erupt, in subchapter 6.4 (placement filed as NEW LESSON NEEDED — volcanoes-how-they-erupt-and-live-with-them; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-IPA8S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VIII*, printed p. 196 |
+
+**Acceptance count: taught in 8 countries (Australia, Cambodia, Mauritania, Kuwait, China, Syria, North Macedonia, Indonesia).**
+
+Placement choice, on the record: the Indonesia placement(s) above filed as NEW LESSON NEEDED — volcanoes-how-they-erupt-and-live-with-them — indonesia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space volcanoes-and-earthquakes
+

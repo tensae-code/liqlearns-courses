@@ -1,6 +1,6 @@
 # Sources — Semi-guided investigations — your question, your method
 
-countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles, Venezuela, Kuwait
+countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles, Venezuela, Kuwait, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -150,3 +150,25 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, semi guided investigations your question your method
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G3S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; student book Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), Republic of Indonesia, 2025; ISBN 978-634-00-2163-9 PDF: 208 pages, 20,569,056 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Dahulu, Kini, dan Nanti — history), Bab 3 (Peduli dan Berbagi — caring/social) and Bab 5 (Bijak Berbelanja Kebutuhan — money and wise shopping) are social-studies chapters, record-only, no placements. Science chapters placed: Bab 1, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA8T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam (Edisi Revisi) untuk SMP/MTs Kelas VIII"; Grade 8; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2024; ISBN 978-623-388-140-1 PDF: 256 pages, 2,459,886 bytes; born-digital text (read from the full extracted text); body printed page = PDF page − 14 Records: books.json record only (no TSV twin); cited once here Verdict: COMPLETE. Guide evidence only. Note: this guide serves the REVISED student edition, whose later chapters are ordered differently from the 2022 student book filed above (in the revised edition mixture separation is Bab VI); the guide's chapter guides for the split-subject chapters (cells/body, work-energy-machines, waves-light, elements-mixtures) are record-only, matching the student book's chapter lines. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA10S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMA Kelas X"; Grade 10; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, 2021; ISBN 978-602-244-380-3 (Jilid 1) PDF: 280 pages, 10,352,795 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Biology), Bab 3, 4 and 5 (Chemistry) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| bottle-rocket launch mission: building and launching a plastic-bottle rocket (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 128 |
+| an example assessment of an experiment design (penilaian rancangan percobaan): how a pupil's planned experiment is judged (guide evidence) (ID-IPA8T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam (Edisi Revisi) untuk SMP/MTs Kelas VIII*, printed p. 26 |
+| Latihan Soal Terpadu: the integrated problem set closing the book (PISA-style questions in the preface's description) (ID-IPA10S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMA Kelas X*, printed p. 203 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Venezuela, Kuwait, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills semi-guided-investigations-your-question-your-method
+

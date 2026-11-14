@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -515,3 +515,25 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G6S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)"; Grade 6; student book Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2164-6 (jil. 6 PDF) PDF: 208 pages, 18,181,902 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 3 (Jejak Sang Pahlawan — colonial-era heroes) and Bab 4 (Kearifan Lokal — local wisdom and national unity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 5, 6. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-G6T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)"; Grade 6; teacher guide Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2168-4 PDF: 264 pages, 3,885,182 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); body printed page = PDF page − 10 Records: books.json record only (no TSV twin); cited once here Verdict: COMPLETE. Guide evidence only — mirrors ID-G6S chapter by chapter with answer keys (Kunci Jawaban), summative alternatives and differentiation notes. Its Bab 3 and Bab 4 guides cover social-studies chapters — record-only. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how the digestive system works: the journey of food through the body (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 5 |
+| plastic-bag digestion model: food materials worked in a bag for two minutes, then taken out and observed (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 7 |
+| the oesophagus (kerongkongan): the connecting channel between mouth and stomach, its shape and job (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 10 |
+| diseases that attack the digestive system come from bad eating patterns; sugar entering the body through food and drink (ID-G6S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 25 |
+| guide's summative alternatives for Bab I (digestion): using the competency test or the label-reading challenge as the summative (guide evidence) (ID-G6T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas VI (Edisi Revisi)*, printed p. 49 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Guyana, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-human-body the-digestive-system
+

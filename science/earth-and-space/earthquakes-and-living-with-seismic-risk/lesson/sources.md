@@ -1,6 +1,6 @@
 # Sources — Earthquakes and living with seismic risk
 
-countries: Mexico, Syria
+countries: Mexico, Syria, Indonesia
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -33,3 +33,22 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — earthq
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, earthquakes and living with seismic risk
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA8S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VIII"; Grade 8; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Standar, Kurikulum, dan Asesmen Pendidikan, Pusat Perbukuan, 2022; ISBN 978-602-244-794-8 PDF: 248 pages, 7,056,249 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 14 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 1 and 2 (Biology), Bab 3 and 4 (Physics) and Bab 5 (Chemistry) are pure split-subject chapters — chapter lines only. The general chapter, Bab 6, is placed in full. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| earthquakes: their causes and effects studied in subchapter 6.3 (placement filed as NEW LESSON NEEDED — geohazards-landslides-sinkholes-tsunamis-and-acid-rain; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-IPA8S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VIII*, printed p. 190 |
+| finding information on earthquake-resistant building structures (follow-up task in the earthquake unit) (placement filed as NEW LESSON NEEDED — geohazards-landslides-sinkholes-tsunamis-and-acid-rain; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-IPA8S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VIII*, printed p. 196 |
+
+**Acceptance count: taught in 3 countries (Mexico, Syria, Indonesia).**
+
+Placement choice, on the record: the Indonesia placement(s) above filed as NEW LESSON NEEDED — geohazards-landslides-sinkholes-tsunamis-and-acid-rain — indonesia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space earthquakes-and-living-with-seismic-risk
+

@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China, North Macedonia
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -127,3 +127,21 @@ Placement choice, on the record: the North Macedonia placement(s) above filed as
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space weathering-erosion-and-landforms
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G4S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Republic of Indonesia, 2023; ISBN 978-623-118-445-0 (jil. 4 PDF) PDF: 208 pages, 6,135,974 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 6 (Peranku di Lingkungan — my role in school and society) and most of Bab 7 (cultural diversity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 3, 4, 5 (biodiversity/resources parts), 7 (one conservation item), 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| are all regions' landforms the same: investigating how a landform forms, with Lake Toba — "a lake inside a volcano" — as the case (placement filed as NEW LESSON NEEDED — landforms-how-mountains-valleys-and-lakes-form; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 66 |
+
+**Acceptance count: taught in 9 countries (Mexico, Italy, Costa Rica, Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia).**
+
+Placement choice, on the record: the Indonesia placement(s) above filed as NEW LESSON NEEDED — landforms-how-mountains-valleys-and-lakes-form — indonesia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space weathering-erosion-and-landforms
+

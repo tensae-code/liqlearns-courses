@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -251,3 +251,29 @@ Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW L
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, life cycles of plants and animals
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G3S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; student book Publisher: Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen), Republic of Indonesia, 2025; ISBN 978-634-00-2163-9 PDF: 208 pages, 20,569,056 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Dahulu, Kini, dan Nanti — history), Bab 3 (Peduli dan Berbagi — caring/social) and Bab 5 (Bijak Berbelanja Kebutuhan — money and wise shopping) are social-studies chapters, record-only, no placements. Science chapters placed: Bab 1, 4, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-G3T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)"; Grade 3; teacher guide Publisher: Kementerian Pendidikan Dasar dan Menengah, 2025; ISBN 978-634-00-2167-7 PDF: 280 pages, 5,539,372 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); printed page = PDF page − 10 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE. Guide evidence only below — the guide mirrors ID-G3S chapter by chapter (Panduan Umum + Panduan Khusus per bab, with answer keys, rubrics and enrichment); only its extra explanations and answers are placed. Its Bab 2, 3 and 5 guides cover the same social-studies chapters as the student book — record-only, no placements. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycle defined: the growth stages of a living thing; observing animals and plants growing near home (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 72 |
+| animals that change shape as they grow: tadpole to frog observed in paired pictures (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 73 |
+| metamorphosis of two kinds, complete and incomplete, distinguished (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 74 |
+| life cycles of the cockroach and the cricket compared in group work (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 75 |
+| the butterfly's life cycle, and why caterpillars matter: without caterpillars there is no pollination, so plants cannot fruit (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 76 |
+| Bab 4 "Uji Kompetensi": life-cycle questions on the dragonfly and the frog (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 89 |
+| guide's trigger-question answer table for the life-cycle chapter (predicted vs expected answers on metamorphosis) (guide evidence) (placement filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis; this lesson already exists and covers that thing, so the placement stocks into it and the original slug is recorded here) (ID-G3T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas III (Edisi Revisi)*, printed p. 121 |
+
+**Acceptance count: taught in 11 countries (Sweden, Guyana, Mongolia, India, Bulgaria, United States, Seychelles, Bhutan, Syria, Sri Lanka, Indonesia).**
+
+Placement choice, on the record: the Indonesia placement(s) above filed as NEW LESSON NEEDED — life-cycles-and-metamorphosis — indonesia-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, animals life-cycles-of-plants-and-animals
+

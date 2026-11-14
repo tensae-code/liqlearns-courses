@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -464,3 +464,22 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, our-environment caring-for-our-surroundings-and-reusing
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G4S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Republic of Indonesia, 2023; ISBN 978-623-118-445-0 (jil. 4 PDF) PDF: 208 pages, 6,135,974 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 6 (Peranku di Lingkungan — my role in school and society) and most of Bab 7 (cultural diversity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 3, 4, 5 (biodiversity/resources parts), 7 (one conservation item), 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-G4T):** Title as printed: "Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; teacher guide Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, 2023; ISBN 978-623-118-449-8 PDF: 280 pages, 3,407,918 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text); body printed page = PDF page − 12 Records: books.json record only (no TSV twin); cited once here Verdict: COMPLETE. Guide evidence only — the guide mirrors ID-G4S chapter by chapter with answer keys (Kunci Jawaban), mastery rubrics and alternative activities; only extra explanations and answers are placed. Its Bab 6 and 7 guides cover social-studies chapters — record-only, except the Bab 8 environmental key below. Kind for this merge: teacher guide — guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the 4M for caring for the environment (Menolak/refuse first: refuse so waste does not grow) (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 170 |
+| guide's answer key and assessment for the environment-hero chapter's competency test (guide evidence) (ID-G4T) | Indonesia, *Panduan Guru Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 218 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Mongolia, India, Moldova, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Rwanda, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment caring-for-our-surroundings-and-reusing
+

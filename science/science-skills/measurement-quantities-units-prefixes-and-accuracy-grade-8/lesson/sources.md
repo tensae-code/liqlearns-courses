@@ -1,6 +1,6 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador, Eritrea
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -97,3 +97,22 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, measurement quantities units prefixes and accuracy grade 8
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA10S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMA Kelas X"; Grade 10; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, 2021; ISBN 978-602-244-380-3 (Jilid 1) PDF: 280 pages, 10,352,795 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Biology), Bab 3, 4 and 5 (Chemistry) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measurement: the seven base quantities and derived quantities with their international standard units (Table 1.1) (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 22 |
+| quantities, units and dimensions: base and derived quantities, the unit system (ID-IPA10S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMA Kelas X*, printed p. 5 |
+
+**Acceptance count: taught in 6 countries (Costa Rica, India, Samoa, Ecuador, Eritrea, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills measurement-quantities-units-prefixes-and-accuracy-grade-8
+

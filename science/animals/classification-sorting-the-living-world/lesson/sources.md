@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China, Sri Lanka, North Macedonia
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China, Sri Lanka, North Macedonia, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -281,3 +281,24 @@ Searchable tags: sri lanka, sri lanka science, classification sorting the living
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, animals classification-sorting-the-living-world
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-IPA7S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMP Kelas VII"; Grade 7; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, Pusat Kurikulum dan Perbukuan, 2021; ISBN 978-602-244-383-4 (no. jil. lengkap) PDF: 280 pages, 11,691,386 bytes; born-digital text (read from the full extracted text, page by page; a few headings have font-encoding garble, body text legible); printed page = PDF page − 16 Records: the TSV record's blob URL has a doubled path and does not resolve as written; the book was fetched by the books.json tree route (grade-07/gov/indonesia/ilmu-pengetahuan-alam/student/full-year.pdf) — both records are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Chemistry), Bab 3 and Bab 4 (Physics) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 5, 6, 7. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+**Book (Indonesia — ID-IPA10S):** Title as printed: "Ilmu Pengetahuan Alam untuk SMA Kelas X"; Grade 10; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi — Badan Penelitian dan Pengembangan dan Perbukuan, 2021; ISBN 978-602-244-380-3 (Jilid 1) PDF: 280 pages, 10,352,795 bytes; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 18 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 2 (Biology), Bab 3, 4 and 5 (Chemistry) are pure split-subject chapters — chapter lines only. General chapters placed in full: Bab 1, 6, 7, 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| why are living things grouped: the purposes of classification (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 139 |
+| identifying and classifying: a worked classification of the catfish (kelas Pisces) in an identification activity (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 143 |
+| chapter project: classifying living things around the school, with a reflection (ID-IPA7S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMP Kelas VII*, printed p. 160 |
+| grouping living things, inside the diversity chapter (ID-IPA10S) | Indonesia, *Ilmu Pengetahuan Alam untuk SMA Kelas X*, printed p. 160 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Suriname, Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China, Sri Lanka, North Macedonia, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, animals classification-sorting-the-living-world
+

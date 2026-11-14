@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -167,3 +167,19 @@ Searchable tags: angola, estudo do meio 4, grade 4
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, local knowledge local conservation
+
+
+## Indonesia growth (2026-11-14, General Science expansion)
+
+**Book (Indonesia — ID-G4S):** Title as printed: "Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)"; Grade 4; student book Publisher: Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek), Republic of Indonesia, 2023; ISBN 978-623-118-445-0 (jil. 4 PDF) PDF: 208 pages, 6,135,974 bytes — byte size and page count match the books.json record exactly; born-digital text (read from the full extracted text, page by page); printed page = PDF page − 8 Records: TSV release copy and books.json record are the same book, cited once here Verdict: COMPLETE Scope note: Bab 6 (Peranku di Lingkungan — my role in school and society) and most of Bab 7 (cultural diversity) are social-studies chapters, record-only. Science chapters placed: Bab 1, 2, 3, 4, 5 (biodiversity/resources parts), 7 (one conservation item), 8. Kind for this merge: student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/indonesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sasi of Maluku and Papua: a tradition handed down generations that closes off harvesting an area so nature recovers — Indonesia's own way of conservation (ID-G4S) | Indonesia, *Ilmu Pengetahuan Alam dan Sosial untuk SD/MI Kelas IV (Edisi Revisi)*, printed p. 144 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Samoa, Angola, Dominican Republic, Indonesia).**
+
+Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment local-knowledge-local-conservation
+
