@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Jamaica (curriculum-guide evidence only)
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Cambodia, North Macedonia, Peru, Jamaica (curriculum-guide 
 
 
 **Book 5:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
+**Book 6:** *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition* (student book) — Cook Islands, Jacquie Bay and Delaney Yaqona; © University of Auckland, Cook Islands Ministry of Health and Cook Islands Ministry of Education, 2015; published for the Liggins Institute by Read Pacific Publishing Ltd, Auckland; ISBN 978-0-9941267-7-1. As printed: *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition, Student Book, Cook Islands Edition*. Filed as Grade 8, student book, in Cook Islands Māori and English. Record: TSV release record (EPUB asset). Fetched copy: 59,156,535 bytes, EPUB with 102 pages (printed pp. i–96). Verdict: COMPLETE — read in full from the EPUB's text (every page's content checked against the printed contents and unit map). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cook-islands-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Observe and ask | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 1–3 |
@@ -22,7 +24,9 @@ countries: Ethiopia, Cambodia, North Macedonia, Peru, Jamaica (curriculum-guide 
 | Peru's Grade 1 way in — the ficha's own inquiry shape: observe the situation, ask the question, give possible answers, plan how to find out (search, draw, experiment) | Peru, *Cuadernillo de fichas — Ciencia y Tecnología, Primaria 1*, Ficha 4, *Las enfermedades y su cuidado*, printed p. 21 |
 | Working like a Scientist: methods of scientific investigation, science and technology, Jamaican scientists (curriculum-guide evidence) (Jamaica, Grade 7) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist — printed p. 4 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, North Macedonia, Peru).**
+| Think Like A Researcher: the book's seven-step inquiry as the Cook Islands way in — refine a big question, write an hypothesis, decide variables, collect data, process data, present findings (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 14 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands).**
 
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 
@@ -32,4 +36,4 @@ Student placement: Grade 8 student item 2 (Unit 1, printed pp. 1–9). The stude
 
 Honesty: the Peru workbook is PARTIAL — the held PDF is a single ficha (Ficha 4, printed pp. 21–27) only, not the whole workbook; the rest of the workbook is not held. Only that ficha is placed here. Peru's own way — inquiry beginning inside a health ficha, at Grade 1 — is itself course content, carried in the row above.
 
-Searchable tags: scientific method, observation qualitative quantitative, hypothesis, law vs theory, conservation of mass, Grade 8 Unit 1, cambodia, north macedonia, peru, grade 1 inquiry, jamaica, jamaica nsc integrated science
+Searchable tags: scientific method, observation qualitative quantitative, hypothesis, law vs theory, conservation of mass, Grade 8 Unit 1, cambodia, north macedonia, peru, grade 1 inquiry, jamaica, jamaica nsc integrated science, cook islands, cook islands grade 8, ko au e toku aorangi
