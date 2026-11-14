@@ -1,6 +1,6 @@
 # Sources — Tame animals and wild animals
 
-countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Yemen, Nicaragua, El Salvador, Colombia, Nepal
+countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Yemen, Nicaragua, El Salvador, Colombia, Nepal, Kazakhstan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -256,3 +256,29 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, animals/tame-animals-and-wild-animals
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7 "How wild and domestic animals differ": wild animals live independently in forest, steppe, desert and mountains; domestic animals are tamed and kept (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 24 |
+
+**Book (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.N. Kuznetsova, D.N. Sapakov, I.N. Vaseva, A.K. Zhamieva, M.K. Kusainova, M.K. Tasbulatova. Publisher: Nazarbayev Intellectual Schools (NIS) with Mektep, 2016, approved by the Ministry of Education and Science of Kazakhstan. PDF pages: 96 (24,104,612 bytes); full text layer, read in full as text. Mascot guides Negesh and Evrika. Verdict: **COMPLETE** — cover, imprint, contents, all 8 sections, glossary present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "What kinds of animals there are": wild vs domestic; mothers and young of domestic animals; domestic animals live beside and depend on people (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016) | Kazakhstan, *Kuznetsova G1 (NIS)*, printed p. 24 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.Z. Kucherbaeva, I.S. Temnikova, G.K. Tashenova. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-914-8. PDF pages: 112 (24,363,186 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Every lesson carries trilingual keyword boxes (Russian/Kazakh/English). Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, literature list and contents present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7 "What kinds of animals there are": domestic animals live in the house, yard or farm and are fed, housed and treated by people; wild animals (elephant, berkut eagle, saiga, lynx, bear, fox) live far from people and find their own food and shelter (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) | Kazakhstan, *Kucherbaeva G1*, printed p. 31 |
+
+**Acceptance count: taught in 15 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, animals tame-animals-and-wild-animals

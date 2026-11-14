@@ -1,0 +1,4 @@
+# Surveying — and drawing a plan of the ground — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (Surveying the terrain; rules for drawing up plans, Polar and route surveying of a terrain, How to survey and draw up a plan of the terrain, I draw up a plan of the locality, Surveying the locality. Rules for drawing up plans), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 5 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks.

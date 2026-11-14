@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya, Iran
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya, Iran, Kazakhstan
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -256,3 +256,29 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, light sunlight-keeps-everything-alive
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019):** Records: books.json grade-02/gov/kazakhstan/estestvoznanie/student/44.pdf (Russian, on_disk=true, in_pushed=true, 13,447,836 bytes — verified exact on disk, 92 PDF pages) and grade-02/gov/kazakhstan/estestvoznanie/student/34.pdf (Kazakh parallel edition, on_disk=true, in_pushed=true, 7,131,144 bytes — verified exact on disk, 91 PDF pages; scanned copy of the same book in Kazakh). Same book in two languages — placed once from the Russian edition, read in full from the text layer (contents printed pp. 90–91 lists all 34 lessons). Title as printed: Естествознание. Учебник для учащихся 2 класса общеобразовательной школы. Authors: Н. А. Болтушенко, В. Н. Зворыгина, Р. Ш. Избасарова, О. А. Лауто, Т. В. Помогайко, Т. Л. Яндулова. Publisher: «Алматыкітап баспасы», Almaty, 2019. PDF pages: 92. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth and Space L19 "Who is friends with the little Sun?" (living things and sunlight) (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019) | Kazakhstan, *G2 Estestvoznanie (Boltushenko)*, printed p. 52 |
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| No life without the Sun: its light and heat feed the chain plants → animals → people and keep the planet from freezing; Earth's place is the lucky one — not too close, not too far (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 63 |
+
+**Book (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022):** **Жаратылыстану (Natural Science)** — Grade 2, student textbook, Kazakh. Authors E.A. Tulegenov, B.T. Aushakhmanova, K.S. Zhomartova, S.I. Karaeva. Arman-PV, Nur-Sultan, 2022, ISBN 978-601-318-441-8. PDF pages: 112 (8,554,989 bytes — matches the books.json record's size_bytes exactly, so records 11 and 73 are the same file). Printed book 112 pages. The PDF's embedded text layer uses a substitute-font encoding and is unreadable, so the book was read visually from page renders, all 112 pages. Verdict: COMPLETE (§§1–34 in 8 units, self-tests after each unit, glossary, conclusion, source list). Each unit is wrapped in a cross-curricular theme (About myself; My family and friends; My school; My native land; A sound mind in a sound body; Customs and oral literature; The environment; Travel), and every lesson ends with a "Zertte" (Investigate) task and a conclusion box; a talking swallow poses the thinking questions, and a Virtual CD/QR codes carry extra material. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Sun is a huge star, a ball of hot gas, and the most important sky body for our life: it gives light and warmth, helps plants grow, kills harmful microbes and strengthens health — with the safety rules (never stay bareheaded in strong sun, never look at the Sun without glasses) (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022) | Kazakhstan, *G2 Zharatylystanu (Tulegenov)*, printed p. 58 |
+
+**Acceptance count: taught in 16 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, light sunlight-keeps-everything-alive

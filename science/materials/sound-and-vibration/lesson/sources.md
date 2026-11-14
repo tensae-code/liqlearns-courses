@@ -1,6 +1,6 @@
 # Sources — Sound and vibration
 
-countries: Ethiopia, Uzbekistan, Armenia, North Macedonia, Yemen, Vietnam
+countries: Ethiopia, Uzbekistan, Armenia, North Macedonia, Yemen, Vietnam, Kazakhstan
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -81,3 +81,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, materials sound-and-vibration
 
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/student/979.pdf (Russian, on_disk=true at phase3-staging; byte size and 144 PDF pages match both records; printed book 144 pp.); record 80 is its Kazakh twin 982.pdf (on disk in phase3-staging, 144 pages; cover verified by Cyrillic OCR — Көшербаева/Көдек/Тәшенова, Атамұра 2022 — the same Kazakh student book, cited once here). Title as printed: Естествознание. Учебник для 2 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: Атамұра, Almaty, 2022. ISBN 978-601-10-0049-9. Verdict: COMPLETE (introduction, all 34 lessons in 6 sections, conclusion, glossary, bibliography; contents printed pp. 141–142; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and the Animals lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 30 "Sources of sound" (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022) | Kazakhstan, *G2 Estestvoznanie (Kucherbaeva)*, printed p. 119 |
+
+**Acceptance count: taught in 7 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials sound-and-vibration

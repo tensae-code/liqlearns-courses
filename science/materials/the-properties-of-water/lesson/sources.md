@@ -1,6 +1,6 @@
 # Sources — The properties of water
 
-countries: Angola, Rwanda, Zimbabwe (teacher-guide evidence only), Vietnam
+countries: Angola, Rwanda, Zimbabwe (teacher-guide evidence only), Vietnam, Kazakhstan
 
 **Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -63,3 +63,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, materials the-properties-of-water
 
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/student/979.pdf (Russian, on_disk=true at phase3-staging; byte size and 144 PDF pages match both records; printed book 144 pp.); record 80 is its Kazakh twin 982.pdf (on disk in phase3-staging, 144 pages; cover verified by Cyrillic OCR — Көшербаева/Көдек/Тәшенова, Атамұра 2022 — the same Kazakh student book, cited once here). Title as printed: Естествознание. Учебник для 2 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: Атамұра, Almaty, 2022. ISBN 978-601-10-0049-9. Verdict: COMPLETE (introduction, all 34 lessons in 6 sections, conclusion, glossary, bibliography; contents printed pp. 141–142; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and the Animals lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 15 "Properties of water" (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022) (placement filed as NEW LESSON NEEDED — properties-of-water; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G2 Estestvoznanie (Kucherbaeva)*, printed p. 69 |
+
+**Acceptance count: taught in 4 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials the-properties-of-water

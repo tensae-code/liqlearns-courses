@@ -1,6 +1,6 @@
 # Sources — Writing a laboratory report
 
-countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan, Indonesia, Vietnam, Nicaragua, Malaysia, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan, Indonesia, Vietnam, Nicaragua, Malaysia, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Kazakhstan
 
 **Book 1:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp. Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -201,3 +201,29 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 10 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 4 Part 1, Natural Science, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/student/108.pdf (Russian Part 1, on_disk=false, in_pushed=true; fetched by its repo release download_url, 28,270,983 bytes, 88 PDF pages — page count matches the record). The Kazakh Part 1 (record 107, 86.pdf, 88 pages in its record) is the parallel edition of the same part; Part 2 is records 102/108. Placed once from the Russian part. Title as printed: Естествознание. Учебник для 4-го класса общеобразовательных школ. Часть 1. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 88. Verdict: COMPLETE for Part 1 (contents printed pp. 3–4 lists all sections through the young researcher's handbook and glossary at printed p. 84; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Handbook of the young researcher": recording research results, building a line graph, checking reliability of results, removing errors (Kazakhstan — Bigazina et al., Grade 4 Part 1, Natural Science, NIS 2019) | Kazakhstan, *G4 Estestvoznanie Pt1 (Bigazina)*, printed p. 80 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/907.pdf and grade-06/gov/kazakhstan/estestvoznanie/student/1284.pdf (both Russian Part 1, 172 pages in their records; 1284.pdf fetched by its repo release download_url, 23,032,595 bytes, 172 PDF pages — page count matches). The Kazakh Part 1 is records 137/141 (1287.pdf / 192.pdf, 168 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (cover and the full contents at printed pp. 170–171 verified; author team Верховцева Л. А., Костюченко О. А., Праchnau В. И., Бойко Г. С., Матвеева С. А.). Title as printed: Естествознание. Учебник для учащихся 6 класса общеобразовательной школы. Часть 1. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 172. Verdict: COMPLETE for Part 1. Scope line: §§21–23 (the medium of a solution and how to determine it; what neutralisation is; determining and neutralising an acid, printed pp. 123–131) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "How the results of an experiment can be presented" (§5: data analysis, conclusion, discussion) (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023) | Kazakhstan, *G6 Estestvoznanie Pt1 (Verkhovtseva)*, printed p. 28 |
+
+**Book (Kazakhstan — Ochkur et al., Grade 6, Natural Science, Mektep 2018):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/218.pdf (Russian, fetched by its repo release download_url, 18,626,042 bytes, 201 PDF pages — page count matches the record) and grade-06/gov/kazakhstan/estestvoznanie/student/191.pdf (Kazakh parallel edition, 185 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 198–199 and the colophon verified). Title as printed: Естествознание. Учебник для 6 классов общеобразовательных школ. Authors: Е. А. Очкур, В. М. Уалиева, Т. Г. Белоусова, Н. А. Панищева. Publisher: «Мектеп», Almaty, 2018 (signed to print 21.06.2018; print run 42,000). PDF pages: 201. Verdict: COMPLETE. Scope line: §§23–25 (kinds of solutions and the medium in them; natural acids and alkalis; the neutralisation reaction, printed pp. 78–86) and §32 (chemical transformation of substances in nature, printed p. 106) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6 "Presenting the conclusions obtained in various forms" (Kazakhstan — Ochkur et al., Grade 6, Natural Science, Mektep 2018) | Kazakhstan, *G6 Estestvoznanie (Ochkur)*, printed p. 21 |
+
+**Acceptance count: taught in 11 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, science-skills writing-a-laboratory-report

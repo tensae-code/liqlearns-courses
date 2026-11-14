@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia, Fiji, Saudi Arabia, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia, Fiji, Saudi Arabia, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya, Kazakhstan
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -439,3 +439,17 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space the-atmosphere-and-its-five-layers
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022):** **Жаратылыстану (Natural Science)** — Grade 2, student textbook, Kazakh. Authors E.A. Tulegenov, B.T. Aushakhmanova, K.S. Zhomartova, S.I. Karaeva. Arman-PV, Nur-Sultan, 2022, ISBN 978-601-318-441-8. PDF pages: 112 (8,554,989 bytes — matches the books.json record's size_bytes exactly, so records 11 and 73 are the same file). Printed book 112 pages. The PDF's embedded text layer uses a substitute-font encoding and is unreadable, so the book was read visually from page renders, all 112 pages. Verdict: COMPLETE (§§1–34 in 8 units, self-tests after each unit, glossary, conclusion, source list). Each unit is wrapped in a cross-curricular theme (About myself; My family and friends; My school; My native land; A sound mind in a sound body; Customs and oral literature; The environment; Travel), and every lesson ends with a "Zertte" (Investigate) task and a conclusion box; a talking swallow poses the thinking questions, and a Virtual CD/QR codes carry extra material. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The air layer around our planet is the atmosphere: without it the Sun's heat would scorch the surface; wind is air in motion; air itself is a mixture of nitrogen, oxygen and carbon dioxide, and living things breathe in the oxygen and breathe out the carbon dioxide (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022) | Kazakhstan, *G2 Zharatylystanu (Tulegenov)*, printed p. 42 |
+
+**Acceptance count: taught in 23 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space the-atmosphere-and-its-five-layers

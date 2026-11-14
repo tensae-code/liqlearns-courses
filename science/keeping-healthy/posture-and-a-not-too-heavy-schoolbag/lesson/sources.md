@@ -1,0 +1,23 @@
+# Sources — Posture — and a not-too-heavy schoolbag
+
+countries: Kazakhstan
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Posture defined as the body's habitual position standing, sitting and walking; a child's soft bones bend easily, carrying a bag on one shoulder curves the spine, so the class weighs each textbook and the whole bag day by day against the norm, and tests posture against a wall (nape, shoulder blades, calves, buttocks, heels touching) (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 39 |
+
+**Book (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022):** **Жаратылыстану (Natural Science)** — Grade 2, student textbook, Kazakh. Authors E.A. Tulegenov, B.T. Aushakhmanova, K.S. Zhomartova, S.I. Karaeva. Arman-PV, Nur-Sultan, 2022, ISBN 978-601-318-441-8. PDF pages: 112 (8,554,989 bytes — matches the books.json record's size_bytes exactly, so records 11 and 73 are the same file). Printed book 112 pages. The PDF's embedded text layer uses a substitute-font encoding and is unreadable, so the book was read visually from page renders, all 112 pages. Verdict: COMPLETE (§§1–34 in 8 units, self-tests after each unit, glossary, conclusion, source list). Each unit is wrapped in a cross-curricular theme (About myself; My family and friends; My school; My native land; A sound mind in a sound body; Customs and oral literature; The environment; Travel), and every lesson ends with a "Zertte" (Investigate) task and a conclusion box; a talking swallow poses the thinking questions, and a Virtual CD/QR codes carry extra material. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Posture is the body's correct formation: sit and walk upright, back and shoulders straight, head raised, and spread a carried load evenly over both shoulders; desk-sitting rules are read off right/wrong pictures and posture exercises are pictured (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022) | Kazakhstan, *G2 Zharatylystanu (Tulegenov)*, printed p. 34 |
+
+**Acceptance count: taught in 1 country (Kazakhstan).**
+
+Placement choice, on the record: this NEW LESSON was built for the Kazakhstan placements filed as NEW LESSON NEEDED — posture-and-a-not-too-heavy-schoolbag — kazakhstan-placements.md (2 placements). Checked live first: no existing general-science lesson covers this thing as its own lesson, so it was built new, in the standard lesson shape. It sits in keeping-healthy/ and is registered in CURRICULUM.md Unit 14 (Keeping Healthy) and TITLES.md.
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, keeping-healthy posture-and-a-not-too-heavy-schoolbag

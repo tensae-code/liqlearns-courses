@@ -1,6 +1,6 @@
 # Sources — Herbivores, carnivores and omnivores
 
-countries: Bulgaria, Seychelles, Kuwait, Vietnam, Iraq, Iran
+countries: Bulgaria, Seychelles, Kuwait, Vietnam, Iraq, Iran, Kazakhstan
 
 **Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
 
@@ -93,3 +93,23 @@ Placement choice, on the record: the Iran placement(s) above filed as `how-anima
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, animals herbivores-carnivores-and-omnivores
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 4 Part 1, Natural Science, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/student/108.pdf (Russian Part 1, on_disk=false, in_pushed=true; fetched by its repo release download_url, 28,270,983 bytes, 88 PDF pages — page count matches the record). The Kazakh Part 1 (record 107, 86.pdf, 88 pages in its record) is the parallel edition of the same part; Part 2 is records 102/108. Placed once from the Russian part. Title as printed: Естествознание. Учебник для 4-го класса общеобразовательных школ. Часть 1. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 88. Verdict: COMPLETE for Part 1 (contents printed pp. 3–4 lists all sections through the young researcher's handbook and glossary at printed p. 84; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals L3 "Why animals eat different food" (feeding types) (Kazakhstan — Bigazina et al., Grade 4 Part 1, Natural Science, NIS 2019) (placement filed as NEW LESSON NEEDED — what-animals-eat-herbivores-carnivores-omnivores; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G4 Estestvoznanie Pt1 (Bigazina)*, printed p. 32 |
+
+**Book (Kazakhstan — Bigazina et al., Grade 4, Natural Science — Teacher Guide, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/teacher/1034.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 45's release URL, 5,415,149 bytes, 172 PDF pages — size and pages match both records) and grade-04/gov/kazakhstan/estestvoznanie/teacher/1033.pdf (Kazakh edition, 6,950,372 bytes, 172 PDF pages, TSV twin record 44). Same guide in two languages — read and placed once from the Russian edition's text layer, the Kazakh edition's text layer matching in structure and extent. Title as printed: Естествознание. Руководство для учителя. Пособие для учителя 4-го класса общеобразовательных школ. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 172. Verdict: COMPLETE (introduction, all 65 lesson plans for both student-book parts, revision and glossary; contents printed pp. 3–4; read in full from the text layer). The guide gives lesson plans, factual background, explanations and expected answers for the NIS Grade 4 student books filed above as records 101/102; all bullets are guide evidence at the guide's own pagination. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals L3 "Why animals eat different food" (guide evidence) (Kazakhstan — Bigazina et al., Grade 4, Natural Science — Teacher Guide, NIS 2019) (placement filed as NEW LESSON NEEDED — what-animals-eat-herbivores-carnivores-omnivores; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G4 Estestvoznanie Guide (Bigazina)*, printed p. 42 |
+
+**Acceptance count: taught in 7 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, animals herbivores-carnivores-and-omnivores

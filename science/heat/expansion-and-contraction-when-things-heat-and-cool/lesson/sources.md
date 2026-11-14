@@ -1,6 +1,6 @@
 # Sources — Expansion and contraction — when things heat and cool
 
-countries: Seychelles, Kuwait, China, Yemen, Iraq, Nepal (teacher-guide evidence only), Libya
+countries: Seychelles, Kuwait, China, Yemen, Iraq, Nepal (teacher-guide evidence only), Libya, Kazakhstan
 
 **Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -128,3 +128,35 @@ Placement choice, on the record: the Libya placement(s) above filed as expansion
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, heat expansion-and-contraction-when-things-heat-and-cool
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/teacher/1036.pdf (Russian, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 1,999,904 bytes, 160 PDF pages — page count matches the record). Title as printed: Естествознание. Руководство для учителя. 5 класс. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-29-9. PDF pages: 160. Verdict: COMPLETE (introduction, contents printed pp. 3–4 listing all sections 1–7 through §7.2, and the full lesson-plan text; read in full from the text layer). Guide evidence for the Aksenova Grade 5 student book (record 120). Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5.3 "Thermal expansion" (guide evidence) (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017) (placement filed as NEW LESSON NEEDED — thermal-expansion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G5 Estestvoznanie Guide (Aksenova)*, printed p. 102 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Practical work "Thermal expansion of bodies" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) (placement filed as NEW LESSON NEEDED — thermal-expansion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 145 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/1275.pdf (Russian Part 2, on_disk=false, in_pushed=true; fetched by its repo release download_url, 30,221,690 bytes, 192 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/906.pdf (same part, second record, 192 pages). The Kazakh Part 2 is records 118/123 (1280.pdf / 960.pdf, 184 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 189–190 verified). Title as printed: Естествознание. Учебник для учащихся 5 класса общеобразовательной школы. Часть 2. Authors: Л. А. Верховцева, О. А. Костюченко, М. В. Ушакова. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 192. Verdict: COMPLETE for Part 2. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §47 "Why is thermal expansion a vitally important phenomenon?" (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023) (placement filed as NEW LESSON NEEDED — thermal-expansion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G5 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 79 |
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/student/153.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 55's release URL, 11,962,693 bytes, 162 PDF pages — size and pages match both records; printed book 168 pp.). This is the student book for the teacher guide filed above as record 124; no Kazakh twin is in the target lists. Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-41-1. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, glossary; contents printed pp. 160–161; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every paragraph heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5.3 "Thermal expansion" (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017) (placement filed as NEW LESSON NEEDED — thermal-expansion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G5 Estestvoznanie (Aksenova)*, printed p. 102 |
+
+**Acceptance count: taught in 7 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, heat expansion-and-contraction-when-things-heat-and-cool

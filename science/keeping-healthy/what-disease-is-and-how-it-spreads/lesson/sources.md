@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya (teacher-guide evidence only), Iran
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya (teacher-guide evidence only), Iran, Kazakhstan
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -972,3 +972,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, keeping-healthy what-disease-is-and-how-it-spreads
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021):** **Познание мира (Knowledge of the World)** — Grade 1, student textbook, Russian edition. Authors: B.K. Turmasheva, S.S. Salish, T.N. Miruk. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-917-9. PDF pages: 112 (31,075,326 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, contents, all 33 lessons in 8 themes, final test, glossary and source list present. Scope note: mostly social studies; only general-science parts are placed below (the state-symbols and independence lessons, Theme VI in part, are civics and are not placed). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 30 "My health. Personal hygiene": a healthy person can fall ill after contact with a sick one when hygiene rules are not kept; the body can fight diseases itself, but sometimes doctors are needed (there are over a hundred medical specialities); most often people catch diseases from a sick person nearby — wash hands often and wear a mask when someone near is ill; health rules: drink only purified or boiled water, air the room, eat only washed vegetables and fruit, protect the home from insects, keep hygiene and harden your body (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021) | Kazakhstan, *Turmasheva G1*, printed p. 94 |
+
+**Acceptance count: taught in 39 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, keeping-healthy what-disease-is-and-how-it-spreads

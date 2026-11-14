@@ -1,6 +1,6 @@
 # Sources — Day and night, rainbow and flood
 
-countries: Ethiopia, Mongolia, Sri Lanka, Indonesia, Vietnam, Nepal (teacher-guide evidence only)
+countries: Ethiopia, Mongolia, Sri Lanka, Indonesia, Vietnam, Nepal (teacher-guide evidence only), Kazakhstan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -89,3 +89,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, weath
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, weather-and-seasons/day-and-night-rainbow-and-flood
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Baitenova et al., Grade 2, Knowledge of the World — Teacher Guide, NIS 2022):** Records: books.json grade-02/gov/kazakhstan/poznanie-mira/teacher/1018.pdf (Kazakh edition, on_disk=true, in_pushed=true, 3,362,779 bytes — verified exact on disk, 112 PDF pages) and grade-02/gov/kazakhstan/poznanie-mira/teacher/1030.pdf (Russian edition, on_disk=true, in_pushed=true, 2,579,871 bytes — verified exact on disk, 112 PDF pages, ISBN 978-601-348-367-2). Same guide in two languages — read and placed once from both texts (contents and lesson plans match lesson-for-lesson). Title as printed: Познание мира. Руководство для учителя. Пособие для учителя 2-го класса общеобразовательной школы. Authors: К. К. Байтенова, Ж. Б. Кажигалиева, Н. В. Орехова, Ж. М. Сейтахметова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022. PDF pages: 112. Verdict: COMPLETE (introduction, all 34 lesson plans in 8 sections, and assessment guidance present; read in full from the text layer). The guide gives full lesson plans, expected answers and explanations for the Baitenova Grade 2 student book (records 83/84); bullets below are the guide's own evidence for the science-bearing lessons, marked guide evidence. Family/school/civics lessons whose content is social only are placed from the student book in the kz-a section. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 29 "Natural phenomena": rain, snow, wind, rainbow and other natural phenomena, guide's explanations (guide evidence) (Kazakhstan — Baitenova et al., Grade 2, Knowledge of the World — Teacher Guide, NIS 2022) | Kazakhstan, *G2 Poznaniye Guide (Baitenova)*, printed p. 80 |
+
+**Book (Kazakhstan — Baitenova et al., Grade 2, Knowledge of the World, NIS 2022):** Records: books.json grade-02/gov/kazakhstan/poznanie-mira/student/1019.pdf (Kazakh edition, on_disk=true, in_pushed=true, 60,390,923 bytes — verified exact on disk in phase3-staging, 96 PDF pages) and grade-02/gov/kazakhstan/poznanie-mira/student/1031.pdf (Russian edition, on_disk=true, in_pushed=true, 59,220,313 bytes — verified exact on disk, 96 PDF pages). Same book in two languages — read and placed once (contents match lesson-for-lesson; the sizes and page counts also match the TSV twin records 25/26). This is the student book for the teacher guide filed above as records 91/92; the guide section's note that its social lessons were "placed from the student book in the kz-a section" was not correct — the student book had not been filed before this section. Title as printed: Познание мира / Дүниетану. Учебник для 2-го класса общеобразовательных школ. Authors: К. К. Байтенова, Ж. Б. Кажигалиева, Н. В. Орехова, Ж. М. Сейтахметова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022. PDF pages: 96. Verdict: COMPLETE (introduction, all 34 lessons in 8 sections, explanatory dictionary; contents at printed pp. 93–94; read in full from the text layer). Scope note: mostly social studies; only the general-science parts are placed below, mirroring the guide evidence in the records 91/92 section at the student book's own pagination. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 29 "Natural phenomena" (Kazakhstan — Baitenova et al., Grade 2, Knowledge of the World, NIS 2022) | Kazakhstan, *G2 Poznaniye (Baitenova)*, printed p. 74 |
+
+**Acceptance count: taught in 5 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, weather-and-seasons day-and-night-rainbow-and-flood

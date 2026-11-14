@@ -1,6 +1,6 @@
 # Sources — Teeth: two sets, four jobs
 
-countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Morocco (teacher-guide evidence only), Iran
+countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Morocco (teacher-guide evidence only), Iran, Kazakhstan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -322,3 +322,24 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, the-human-
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, the-human-body teeth-two-sets-and-four-jobs
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019):** Records: books.json grade-02/gov/kazakhstan/estestvoznanie/student/44.pdf (Russian, on_disk=true, in_pushed=true, 13,447,836 bytes — verified exact on disk, 92 PDF pages) and grade-02/gov/kazakhstan/estestvoznanie/student/34.pdf (Kazakh parallel edition, on_disk=true, in_pushed=true, 7,131,144 bytes — verified exact on disk, 91 PDF pages; scanned copy of the same book in Kazakh). Same book in two languages — placed once from the Russian edition, read in full from the text layer (contents printed pp. 90–91 lists all 34 lessons). Title as printed: Естествознание. Учебник для учащихся 2 класса общеобразовательной школы. Authors: Н. А. Болтушенко, В. Н. Зворыгина, Р. Ш. Избасарова, О. А. Лауто, Т. В. Помогайко, Т. Л. Яндулова. Publisher: «Алматыкітап баспасы», Almaty, 2019. PDF pages: 92. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living Nature L10 "How do we smile?" (teeth) (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019) | Kazakhstan, *G2 Estestvoznanie (Boltushenko)*, printed p. 30 |
+| Living Nature L13 "Why do teeth ache?" (tooth care) (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019) | Kazakhstan, *G2 Estestvoznanie (Boltushenko)*, printed p. 36 |
+
+**Book (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022):** **Жаратылыстану (Natural Science)** — Grade 2, student textbook, Kazakh. Authors E.A. Tulegenov, B.T. Aushakhmanova, K.S. Zhomartova, S.I. Karaeva. Arman-PV, Nur-Sultan, 2022, ISBN 978-601-318-441-8. PDF pages: 112 (8,554,989 bytes — matches the books.json record's size_bytes exactly, so records 11 and 73 are the same file). Printed book 112 pages. The PDF's embedded text layer uses a substitute-font encoding and is unreadable, so the book was read visually from page renders, all 112 pages. Verdict: COMPLETE (§§1–34 in 8 units, self-tests after each unit, glossary, conclusion, source list). Each unit is wrapped in a cross-curricular theme (About myself; My family and friends; My school; My native land; A sound mind in a sound body; Customs and oral literature; The environment; Travel), and every lesson ends with a "Zertte" (Investigate) task and a conclusion box; a talking swallow poses the thinking questions, and a Virtual CD/QR codes carry extra material. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Teeth are brushed morning and before sleep because more than 500 microbes live in the mouth; the seven tooth rules (brush twice a day, rinse after eating, no cold water straight after hot food, do not crack hard things with the teeth, few sweets, see the dentist often, your own brush only), and permanent teeth never grow back if lost; a mirror investigation — touch your forehead, then draw your fingers over the mirror to see the skin's oil traces (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022) | Kazakhstan, *G2 Zharatylystanu (Tulegenov)*, printed p. 39 |
+
+**Acceptance count: taught in 19 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, the-human-body teeth-two-sets-and-four-jobs

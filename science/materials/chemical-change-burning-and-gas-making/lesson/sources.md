@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only), Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka, North Macedonia, Indonesia (teacher-guide evidence only), Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Kazakhstan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -574,3 +574,23 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials chemical-change-burning-and-gas-making
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018):** Records: books.json grade-03/gov/kazakhstan/estestvoznanie/student/69.pdf (Russian, on_disk=false, in_pushed=true; fetched by its repo release download_url, 8,313,379 bytes, 168 PDF pages — page count matches the record) and grade-03/gov/kazakhstan/estestvoznanie/student/991.pdf (same title, same 168 pages in its record — the same edition's second record; treated as one book, placed once). Title as printed: Естествознание. Учебник для 3 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: «Атамұра», Almaty, 2018. ISBN 978-601-331-096-1. PDF pages: 168. Verdict: COMPLETE (contents at the end, printed pp. 165–167, lists all 68 lessons, glossary and appendices; body read in full from the text layer, printed page = PDF page). Trilingual lesson headings (Russian/Kazakh/English) are this edition's own way of teaching. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| L28 "Properties of air": air and burning (combustion) (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018) | Kazakhstan, *G3 Estestvoznanie (Kucherbaeva)*, printed p. 76 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Practical work "Release of carbon dioxide and heat" (a chemical change observed) (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 76 |
+
+**Acceptance count: taught in 28 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials chemical-change-burning-and-gas-making

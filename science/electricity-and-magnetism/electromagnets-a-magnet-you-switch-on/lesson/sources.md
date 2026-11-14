@@ -379,3 +379,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, electricity-and-magnetism electromagnets-a-magnet-you-switch-on
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The maglev train never touches its rails: an electromagnetic field holds it up and steers it along the track (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 114 |
+
+**Acceptance count unchanged: taught in 24 countries.** — Kazakhstan was already counted in this lesson from its earlier-wave books (named in the sections above); the General Science books above add provenance, counted once.
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, electricity-and-magnetism electromagnets-a-magnet-you-switch-on

@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan, Iran
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan, Iran, Kazakhstan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -961,3 +961,17 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, materials simple-machines
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/1275.pdf (Russian Part 2, on_disk=false, in_pushed=true; fetched by its repo release download_url, 30,221,690 bytes, 192 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/906.pdf (same part, second record, 192 pages). The Kazakh Part 2 is records 118/123 (1280.pdf / 960.pdf, 184 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 189–190 verified). Title as printed: Естествознание. Учебник для учащихся 5 класса общеобразовательной школы. Часть 2. Authors: Л. А. Верховцева, О. А. Костюченко, М. В. Ушакова. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 192. Verdict: COMPLETE for Part 2. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §50 "What functions do levers perform in the body of animals?" (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023) | Kazakhstan, *G5 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 97 |
+
+**Acceptance count: taught in 32 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials simple-machines

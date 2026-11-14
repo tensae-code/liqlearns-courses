@@ -1,6 +1,6 @@
 # Sources — Our School — Rules We Keep
 
-countries: Ethiopia, Turkey, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Turkey, Fiji (teacher-guide evidence only), Kazakhstan
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -34,3 +34,17 @@ Searchable tags: school rules, uniform, homework, respect, caring for property, 
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, family-school-and-community our-school-rules-we-keep
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021):** **Познание мира (Knowledge of the World)** — Grade 1, student textbook, Russian edition. Authors: B.K. Turmasheva, S.S. Salish, T.N. Miruk. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-917-9. PDF pages: 112 (31,075,326 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, contents, all 33 lessons in 8 themes, final test, glossary and source list present. Scope note: mostly social studies; only general-science parts are placed below (the state-symbols and independence lessons, Theme VI in part, are civics and are not placed). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 6 "Learning together is interesting" and Lesson 7 "School rules": pair-work rules (both work; one speaks, the other listens; disagree politely; work quietly) and group-work rules (a responsible person, everyone works for the common result, ask again if you did not understand); class behaviour rules include keeping cleanliness, order and personal hygiene (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021) | Kazakhstan, *Turmasheva G1*, printed p. 21 |
+
+**Acceptance count: taught in 3 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, family-school-and-community our-school-rules-we-keep

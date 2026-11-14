@@ -1,6 +1,6 @@
 # Sources — Terrestrial planets vs gas giants — the twelve-row contrast
 
-countries: Ethiopia, Venezuela, North Macedonia, El Salvador
+countries: Ethiopia, Venezuela, North Macedonia, El Salvador, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -57,3 +57,23 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/terrestrial-planets-vs-gas-giants
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The two families of planets: small rocky terrestrial ones near the Sun, and the gas giants with rings of stone, ice and dust and many satellites; Jupiter, the largest, is all gas with constant storms (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 69 |
+
+**Book (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022):** **Жаратылыстану (Natural Science)** — Grade 2, student textbook, Kazakh. Authors E.A. Tulegenov, B.T. Aushakhmanova, K.S. Zhomartova, S.I. Karaeva. Arman-PV, Nur-Sultan, 2022, ISBN 978-601-318-441-8. PDF pages: 112 (8,554,989 bytes — matches the books.json record's size_bytes exactly, so records 11 and 73 are the same file). Printed book 112 pages. The PDF's embedded text layer uses a substitute-font encoding and is unreadable, so the book was read visually from page renders, all 112 pages. Verdict: COMPLETE (§§1–34 in 8 units, self-tests after each unit, glossary, conclusion, source list). Each unit is wrapped in a cross-curricular theme (About myself; My family and friends; My school; My native land; A sound mind in a sound body; Customs and oral literature; The environment; Travel), and every lesson ends with a "Zertte" (Investigate) task and a conclusion box; a talking swallow poses the thinking questions, and a Virtual CD/QR codes carry extra material. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The planets fall into two groups, the Earth group and the giants; the giants stand far from the Sun and are huge in mass and size (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022) | Kazakhstan, *G2 Zharatylystanu (Tulegenov)*, printed p. 68 |
+
+**Acceptance count: taught in 5 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space terrestrial-planets-vs-gas-giants

@@ -568,3 +568,23 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light light-travels-in-straight-lines
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018):** Records: books.json grade-03/gov/kazakhstan/estestvoznanie/student/69.pdf (Russian, on_disk=false, in_pushed=true; fetched by its repo release download_url, 8,313,379 bytes, 168 PDF pages — page count matches the record) and grade-03/gov/kazakhstan/estestvoznanie/student/991.pdf (same title, same 168 pages in its record — the same edition's second record; treated as one book, placed once). Title as printed: Естествознание. Учебник для 3 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: «Атамұра», Almaty, 2018. ISBN 978-601-331-096-1. PDF pages: 168. Verdict: COMPLETE (contents at the end, printed pp. 165–167, lists all 68 lessons, glossary and appendices; body read in full from the text layer, printed page = PDF page). Trilingual lesson headings (Russian/Kazakh/English) are this edition's own way of teaching. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lessons 57–58 Practical work on light (torch experiments: light travels straight) (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018) | Kazakhstan, *G3 Estestvoznanie (Kucherbaeva)*, printed p. 139 |
+
+**Book (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019):** Records: books.json grade-02/gov/kazakhstan/estestvoznanie/student/44.pdf (Russian, on_disk=true, in_pushed=true, 13,447,836 bytes — verified exact on disk, 92 PDF pages) and grade-02/gov/kazakhstan/estestvoznanie/student/34.pdf (Kazakh parallel edition, on_disk=true, in_pushed=true, 7,131,144 bytes — verified exact on disk, 91 PDF pages; scanned copy of the same book in Kazakh). Same book in two languages — placed once from the Russian edition, read in full from the text layer (contents printed pp. 90–91 lists all 34 lessons). Title as printed: Естествознание. Учебник для учащихся 2 класса общеобразовательной школы. Authors: Н. А. Болтушенко, В. Н. Зворыгина, Р. Ш. Избасарова, О. А. Лауто, Т. В. Помогайко, Т. Л. Яндулова. Publisher: «Алматыкітап баспасы», Almaty, 2019. PDF pages: 92. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Physics of Nature L28 "Where did the sunbeam go?" (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019) | Kazakhstan, *G2 Estestvoznanie (Boltushenko)*, printed p. 72 |
+
+**Acceptance count unchanged: taught in 39 countries.** — Kazakhstan was already counted in this lesson from its earlier-wave books (named in the sections above); the General Science books above add provenance, counted once.
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, light light-travels-in-straight-lines

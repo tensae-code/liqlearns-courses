@@ -1,6 +1,6 @@
 # Sources — Motion, distance and speed
 
-countries: Ethiopia, Yemen
+countries: Ethiopia, Yemen, Kazakhstan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -28,3 +28,23 @@ Searchable tags: motion relative reference point መቃን, straight circular os
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, materials motion-distance-and-speed
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 2, Natural Science — Teacher Guide, NIS 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/teacher/1020.pdf (Russian, on_disk=true, in_pushed=true, 5,961,796 bytes — verified exact on disk in phase3-staging, 100 PDF pages; page count and size also match the TSV twin records 17). No Kazakh twin of this guide is in the target lists. Title as printed: Естествознание. Руководство для учителя. Пособие для учителя 2-го класса общеобразовательной школы. Authors: П. К. Бигазина, Т. А. Андриянова, В. Н. Беркало, Н. Ш. Каратаева, А. В. Полежаева, Г. А. Тураканова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022 (approved by the Ministry of Education of Kazakhstan). PDF pages: 100. Verdict: COMPLETE (introduction, all 34 lesson plans in 8 sections, glossary; contents printed pp. 3–4; read in full from the text layer). The guide gives lesson plans, explanations and expected answers for the NIS Grade 2 student book (records 23/72, filed separately below); all bullets are guide evidence. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 24 "Measuring speed" (guide evidence) (Kazakhstan — Bigazina et al., Grade 2, Natural Science — Teacher Guide, NIS 2022) | Kazakhstan, *G2 Estestvoznanie Guide (Bigazina)*, printed p. 72 |
+
+**Book (Kazakhstan — Bigazina et al., Grade 2, Natural Science, NIS 2022):** Records: TSV records 23 and 72 are the same record twice in targets-kz-a.json (grade-02/gov/kazakhstan/estestvoznanie/student/1021.pdf, 51,216,932 bytes — verified exact on disk in phase3-staging, 128 PDF pages). This book has no books.json twin in targets-kz-b.json. It is the student book for the teacher guide filed above as record 81. Title as printed: Естествознание. Учебник для 2-го класса общеобразовательных школ. Authors: П. К. Бигазина, Т. А. Андриянова, В. Н. Беркало, Н. Ш. Каратаева, А. В. Полежаева, Г. А. Тураканова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022. ISBN 978-601-348-372-6. PDF pages: 128. Verdict: COMPLETE (introduction, all 34 lessons in 8 sections, glossary; contents printed pp. 3–4; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, with every lesson heading verified against the contents). Mascots Negesh and Evrika, as in the NIS Grade 1 book. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 24 "Measuring speed" (Kazakhstan — Bigazina et al., Grade 2, Natural Science, NIS 2022) | Kazakhstan, *G2 Estestvoznanie (Bigazina)*, printed p. 88 |
+
+**Acceptance count: taught in 3 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials motion-distance-and-speed

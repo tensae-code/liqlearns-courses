@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Libya, Jordan
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Libya, Jordan, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -606,3 +606,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body the-human-body-systems-working-together
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018):** Records: books.json grade-03/gov/kazakhstan/estestvoznanie/student/69.pdf (Russian, on_disk=false, in_pushed=true; fetched by its repo release download_url, 8,313,379 bytes, 168 PDF pages — page count matches the record) and grade-03/gov/kazakhstan/estestvoznanie/student/991.pdf (same title, same 168 pages in its record — the same edition's second record; treated as one book, placed once). Title as printed: Естествознание. Учебник для 3 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: «Атамұра», Almaty, 2018. ISBN 978-601-331-096-1. PDF pages: 168. Verdict: COMPLETE (contents at the end, printed pp. 165–167, lists all 68 lessons, glossary and appendices; body read in full from the text layer, printed page = PDF page). Trilingual lesson headings (Russian/Kazakh/English) are this edition's own way of teaching. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| L19 "Look inside yourself": where the internal organs are (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018) | Kazakhstan, *G3 Estestvoznanie (Kucherbaeva)*, printed p. 55 |
+
+**Acceptance count: taught in 32 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, the-human-body the-human-body-systems-working-together

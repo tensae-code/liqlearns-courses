@@ -1,6 +1,6 @@
 # Sources — Noise pollution — harm, rights and compromise
 
-countries: Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab), Serbia, Greece, Sudan, Syria, Laos, Sri Lanka, Rwanda, Yemen, Vietnam, Nicaragua, Malaysia
+countries: Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab), Serbia, Greece, Sudan, Syria, Laos, Sri Lanka, Rwanda, Yemen, Vietnam, Nicaragua, Malaysia, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -223,3 +223,23 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count unchanged: taught in 16 countries.** South Sudan was already counted in this lesson through its earlier-wave books; the Primary books above add South Sudan's primary teaching of this thing, counted once, not twice.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 32, hearing-safety part: music at full volume through headphones harms the ears; do not let anyone shout into your ear; look through the door peephole when the bell rings (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 104 |
+
+**Book (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022):** **Жаратылыстану (Natural Science)** — Grade 2, student textbook, Kazakh. Authors E.A. Tulegenov, B.T. Aushakhmanova, K.S. Zhomartova, S.I. Karaeva. Arman-PV, Nur-Sultan, 2022, ISBN 978-601-318-441-8. PDF pages: 112 (8,554,989 bytes — matches the books.json record's size_bytes exactly, so records 11 and 73 are the same file). Printed book 112 pages. The PDF's embedded text layer uses a substitute-font encoding and is unreadable, so the book was read visually from page renders, all 112 pages. Verdict: COMPLETE (§§1–34 in 8 units, self-tests after each unit, glossary, conclusion, source list). Each unit is wrapped in a cross-curricular theme (About myself; My family and friends; My school; My native land; A sound mind in a sound body; Customs and oral literature; The environment; Travel), and every lesson ends with a "Zertte" (Investigate) task and a conclusion box; a talking swallow poses the thinking questions, and a Virtual CD/QR codes carry extra material. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound sources divide into natural (voices, rain, rivers, rustling leaves) and artificial, made by people (instruments, vehicles, bells, clocks, vacuum cleaner, radio, television); loud sounds damage hearing and long headphone listening is harmful, city noise burdens people while nature's sounds give rest; a tap-test investigation predicts, then checks with a pencil tap, which of five objects sounds loud and which quiet (Kazakhstan — Tulegenov et al., Grade 2, Natural Science (Kazakh edition), Arman-PV 2022) | Kazakhstan, *G2 Zharatylystanu (Tulegenov)*, printed p. 94 |
+
+**Acceptance count: taught in 17 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, sound noise-pollution-harm-rights-and-compromise

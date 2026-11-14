@@ -1,6 +1,6 @@
 # Sources — Friends — Playing and Learning Together
 
-countries: Ethiopia, Turkey, Angola, Vietnam
+countries: Ethiopia, Turkey, Angola, Vietnam, Kazakhstan
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -48,3 +48,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, family-school-and-community friends-playing-and-learning-together
 
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Baitenova et al., Grade 1, Knowledge of the World (Kazakh edition), NIS 2015):** **Дүниетану (Knowledge of the World)** — Grade 1, student textbook, **Kazakh edition** (the TSV record labels this file "Познание мира … Байтенова" in Russian, but the PDF itself is the Kazakh edition — named in the group log as a record mismatch). Authors: K.K. Baitenova, A.A. Zhakeeva, E.N. Popova, Sh.K. Saukatova, Zh.M. Seitakhmetova, L.A. Ufimtseva. Publisher: Nazarbayev Intellectual Schools, Astana, 2015 (trial edition). ISBN 978-601-7417-82-6. PDF pages: 92 (7,853,837 bytes); printed book 96 pp. Image-only scan; read visually page by page from 100-DPI contact sheets. Mascot: a young camel. Verdict: **COMPLETE** — imprint, contents, all 8 sections, final test and glossary present. Scope note: this is a mostly social-studies book (self, school, family, folklore, state symbols); only its general-science parts are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Learning to communicate": do not interrupt your talker, listen carefully, use "please" and "thank you", never say words that upset a person (Kazakhstan — Baitenova et al., Grade 1, Knowledge of the World (Kazakh edition), NIS 2015) | Kazakhstan, *Baitenova G1*, printed p. 24 |
+
+**Acceptance count: taught in 5 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, family-school-and-community friends-playing-and-learning-together

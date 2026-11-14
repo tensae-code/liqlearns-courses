@@ -1,6 +1,6 @@
 # Sources — Measuring: units of mass, length and time
 
-countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan, Venezuela, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Saudi Arabia, Vietnam, Iraq, Nepal, Iran
+countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan, Venezuela, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Saudi Arabia, Vietnam, Iraq, Nepal, Iran, Kazakhstan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -294,3 +294,35 @@ Searchable tags: nepal, curriculum development centre, science-skills/units-of-m
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, science-skills units-of-mass-length-and-time
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §17 "Physical body. Substance. Mass and its measurement" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 57 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/907.pdf and grade-06/gov/kazakhstan/estestvoznanie/student/1284.pdf (both Russian Part 1, 172 pages in their records; 1284.pdf fetched by its repo release download_url, 23,032,595 bytes, 172 PDF pages — page count matches). The Kazakh Part 1 is records 137/141 (1287.pdf / 192.pdf, 168 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (cover and the full contents at printed pp. 170–171 verified; author team Верховцева Л. А., Костюченко О. А., Праchnau В. И., Бойко Г. С., Матвеева С. А.). Title as printed: Естествознание. Учебник для учащихся 6 класса общеобразовательной школы. Часть 1. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 172. Verdict: COMPLETE for Part 1. Scope line: §§21–23 (the medium of a solution and how to determine it; what neutralisation is; determining and neutralising an acid, printed pp. 123–131) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "Which international units of measurement scientists use" (§4) (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023) | Kazakhstan, *G6 Estestvoznanie Pt1 (Verkhovtseva)*, printed p. 22 |
+
+**Book (Kazakhstan — Ochkur et al., Grade 6, Natural Science, Mektep 2018):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/218.pdf (Russian, fetched by its repo release download_url, 18,626,042 bytes, 201 PDF pages — page count matches the record) and grade-06/gov/kazakhstan/estestvoznanie/student/191.pdf (Kazakh parallel edition, 185 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 198–199 and the colophon verified). Title as printed: Естествознание. Учебник для 6 классов общеобразовательных школ. Authors: Е. А. Очкур, В. М. Уалиева, Т. Г. Белоусова, Н. А. Панищева. Publisher: «Мектеп», Almaty, 2018 (signed to print 21.06.2018; print run 42,000). PDF pages: 201. Verdict: COMPLETE. Scope line: §§23–25 (kinds of solutions and the medium in them; natural acids and alkalis; the neutralisation reaction, printed pp. 78–86) and §32 (chemical transformation of substances in nature, printed p. 106) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §4 "Using units of measurement in the International System" (Kazakhstan — Ochkur et al., Grade 6, Natural Science, Mektep 2018) | Kazakhstan, *G6 Estestvoznanie (Ochkur)*, printed p. 13 |
+
+**Book (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018):** Record: books.json grade-06/gov/kazakhstan/estestvoznanie/student/190.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 63's release URL, 5,441,776 bytes, 240 PDF pages — size and pages match both records). Its Russian parallel edition is record 142 (217.pdf), filed record-only above on the statement that this Kazakh book was "filed in the kz-a section" — it had not been; it is filed here, and record 142 stays cited once as its parallel edition (kz-b verified that book complete: cover, imprint and the same 60-paragraph contents). Title as printed: Жаратылыстану. Учебник для 6 класса общеобразовательной школы. Authors: Б. Ш. Әбдіманапов, С. Е. Нүркенова, А. Ұ. Әбілғазиев, Г. У. Әуезова. Publisher: «Атамұра», Almaty, 2018. ISBN (Russian edition) 978-601-331-144-9. PDF pages: 240. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, practical and laboratory works, glossary; contents at printed pp. 3–5 and 237–239 in the two language texts; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5 "SI units of quantities: calculations and measurements" (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 20 |
+
+**Acceptance count: taught in 19 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, science-skills units-of-mass-length-and-time

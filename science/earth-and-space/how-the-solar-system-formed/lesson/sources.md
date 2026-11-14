@@ -1,6 +1,6 @@
 # Sources — How the solar system formed — from cloud to Sun
 
-countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia, Armenia, Micronesia, Cambodia, Bhutan, Laos, Bangladesh, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia, Armenia, Micronesia, Cambodia, Bhutan, Laos, Bangladesh, Iraq, El Salvador, Colombia, Nepal, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -199,3 +199,41 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, earth-and-space/how-the-solar-system-formed
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/teacher/1036.pdf (Russian, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 1,999,904 bytes, 160 PDF pages — page count matches the record). Title as printed: Естествознание. Руководство для учителя. 5 класс. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-29-9. PDF pages: 160. Verdict: COMPLETE (introduction, contents printed pp. 3–4 listing all sections 1–7 through §7.2, and the full lesson-plan text; read in full from the text layer). Guide evidence for the Aksenova Grade 5 student book (record 120). Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §2.2 "The origin of planet Earth" (guide evidence) (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017) | Kazakhstan, *G5 Estestvoznanie Guide (Aksenova)*, printed p. 24 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §7 "How our planet arose" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 25 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 5 Part 1, Natural Science, Almatykitap 2023):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/1274.pdf (Russian Part 1, on_disk=false, in_pushed=true; fetched by its repo release download_url, 28,683,532 bytes, 180 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/152.pdf (same part, second record, 180 pages). The Kazakh Part 1 is records 116/117 (1279.pdf / 128.pdf, 176 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders plus the partial text layer (cover, introduction and the full contents at printed pp. 177–178 verified). Title as printed: Естествознание. Учебник для учащихся 5 класса общеобразовательной школы. Часть 1. Authors: Л. А. Верховцева, О. А. Костюченко, М. В. Ушакова. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 180. Verdict: COMPLETE for Part 1. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §7 "How planet Earth arose" (Kazakhstan — Verkhovtseva et al., Grade 5 Part 1, Natural Science, Almatykitap 2023) | Kazakhstan, *G5 Estestvoznanie Pt1 (Verkhovtseva)*, printed p. 40 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/907.pdf and grade-06/gov/kazakhstan/estestvoznanie/student/1284.pdf (both Russian Part 1, 172 pages in their records; 1284.pdf fetched by its repo release download_url, 23,032,595 bytes, 172 PDF pages — page count matches). The Kazakh Part 1 is records 137/141 (1287.pdf / 192.pdf, 168 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (cover and the full contents at printed pp. 170–171 verified; author team Верховцева Л. А., Костюченко О. А., Праchnau В. И., Бойко Г. С., Матвеева С. А.). Title as printed: Естествознание. Учебник для учащихся 6 класса общеобразовательной школы. Часть 1. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 172. Verdict: COMPLETE for Part 1. Scope line: §§21–23 (the medium of a solution and how to determine it; what neutralisation is; determining and neutralising an acid, printed pp. 123–131) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §9 "Similarities and differences of the hypotheses of the Earth's origin" (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023) | Kazakhstan, *G6 Estestvoznanie Pt1 (Verkhovtseva)*, printed p. 53 |
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/student/153.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 55's release URL, 11,962,693 bytes, 162 PDF pages — size and pages match both records; printed book 168 pp.). This is the student book for the teacher guide filed above as record 124; no Kazakh twin is in the target lists. Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-41-1. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, glossary; contents printed pp. 160–161; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every paragraph heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §2.2 "The origin of planet Earth" (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017) | Kazakhstan, *G5 Estestvoznanie (Aksenova)*, printed p. 22 |
+
+**Acceptance count: taught in 14 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space how-the-solar-system-formed

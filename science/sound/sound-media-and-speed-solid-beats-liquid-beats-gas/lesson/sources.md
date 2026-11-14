@@ -1,6 +1,6 @@
 # Sources — Sound — media and speed: solid beats liquid beats gas
 
-countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia, Afghanistan, Sudan, Bhutan, China, Syria, Eritrea, Rwanda, North Macedonia, Indonesia, Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only), Iraq, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia, Afghanistan, Sudan, Bhutan, China, Syria, Eritrea, Rwanda, North Macedonia, Indonesia, Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only), Iraq, Colombia, Nepal, Papua New Guinea, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -351,3 +351,36 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 24 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 33 "How sound travels": sound travels in air, water and solids — fastest in solids, then liquids, slowest in air; weather and wind affect it; sound spreads in all directions; no sound in space; the Er Töstik folk-tale hero hearing through the ground (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 105 |
+
+**Book (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.N. Kuznetsova, D.N. Sapakov, I.N. Vaseva, A.K. Zhamieva, M.K. Kusainova, M.K. Tasbulatova. Publisher: Nazarbayev Intellectual Schools (NIS) with Mektep, 2016, approved by the Ministry of Education and Science of Kazakhstan. PDF pages: 96 (24,104,612 bytes); full text layer, read in full as text. Mascot guides Negesh and Evrika. Verdict: **COMPLETE** — cover, imprint, contents, all 8 sections, glossary present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "How sound spreads": sound spreads from its source in all directions as sound waves; whether every hockey player hears the coach (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016) | Kazakhstan, *Kuznetsova G1 (NIS)*, printed p. 86 |
+| "Where sound spreads": sound seems louder travelling through a solid body; the coin-ring listening experiment (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016) | Kazakhstan, *Kuznetsova G1 (NIS)*, printed p. 88 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.Z. Kucherbaeva, I.S. Temnikova, G.K. Tashenova. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-914-8. PDF pages: 112 (24,363,186 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Every lesson carries trilingual keyword boxes (Russian/Kazakh/English). Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, literature list and contents present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 31 "How sound spreads": sounds spread from the source in all directions as sound waves, like ripples from a stone in water; they travel in air, water and solids (why we hear through walls); striking a metal object in air then in water; protect your ears — never poke them or listen to very loud music (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) | Kazakhstan, *Kucherbaeva G1*, printed p. 97 |
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| To hear a sound you need a source, a medium and a receiver: waves spread in gas, liquid and solid, best in solids, and not at all in the vacuum of space; animals hear otherwise — grasshoppers with their legs, snakes through the ground, fish with the whole body (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 103 |
+
+**Acceptance count: taught in 25 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, sound sound-media-and-speed-solid-beats-liquid-beats-gas

@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Jordan, Iran
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Jordan, Iran, Kazakhstan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -440,3 +440,23 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, animals looking-after-our-animals
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7, care part: keeping a domestic animal is a responsibility — clean housing, care rules, matching each animal to its shelter (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 26 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.Z. Kucherbaeva, I.S. Temnikova, G.K. Tashenova. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-914-8. PDF pages: 112 (24,363,186 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Every lesson carries trilingual keyword boxes (Russian/Kazakh/English). Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, literature list and contents present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7, care part: grooming, bathing, feeding and housing shown for dog, cat and hen (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) | Kazakhstan, *Kucherbaeva G1*, printed p. 32 |
+
+**Acceptance count: taught in 22 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, animals looking-after-our-animals

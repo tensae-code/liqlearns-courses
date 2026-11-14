@@ -1,6 +1,6 @@
 # Sources — The giant planets — Jupiter, Saturn, Uranus and Neptune
 
-countries: Ethiopia, Finland (teacher-training evidence only), Saudi Arabia
+countries: Ethiopia, Finland (teacher-training evidence only), Saudi Arabia, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -31,3 +31,17 @@ Searchable tags: Jupiter, Galilean moons, Saturn rings, Titan, Uranus tipped axi
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space the-giant-planets
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/student/979.pdf (Russian, on_disk=true at phase3-staging; byte size and 144 PDF pages match both records; printed book 144 pp.); record 80 is its Kazakh twin 982.pdf (on disk in phase3-staging, 144 pages; cover verified by Cyrillic OCR — Көшербаева/Көдек/Тәшенова, Атамұра 2022 — the same Kazakh student book, cited once here). Title as printed: Естествознание. Учебник для 2 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: Атамұра, Almaty, 2022. ISBN 978-601-10-0049-9. Verdict: COMPLETE (introduction, all 34 lessons in 6 sections, conclusion, glossary, bibliography; contents printed pp. 141–142; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and the Animals lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 22 "The giant planets" (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022) | Kazakhstan, *G2 Estestvoznanie (Kucherbaeva)*, printed p. 97 |
+
+**Acceptance count: taught in 3 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space the-giant-planets

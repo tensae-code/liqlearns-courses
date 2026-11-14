@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Nepal
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Nepal, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -304,3 +304,23 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, earth-and-space/small-bodies-asteroids-comets-and-shooting-stars
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 4 Part 2, Natural Science, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/student/109.pdf (Russian Part 2, on_disk=false, in_pushed=true; fetched by its repo release download_url, 15,674,181 bytes, 88 PDF pages — page count matches the record). The Kazakh Part 2 (record 108, 87.pdf, 88 pages in its record) is the parallel edition of the same part. Placed once from the Russian part. Title as printed: Естествознание. Учебник для 4-го класса общеобразовательных школ. Часть 2. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 88. Verdict: COMPLETE for Part 2 (contents printed pp. 3–4 lists all four sections through the glossary at printed p. 84; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth and Space L5 "Small cosmic bodies" (asteroids, comets, meteorites) (Kazakhstan — Bigazina et al., Grade 4 Part 2, Natural Science, NIS 2019) | Kazakhstan, *G4 Estestvoznanie Pt2 (Bigazina)*, printed p. 58 |
+
+**Book (Kazakhstan — Bigazina et al., Grade 4, Natural Science — Teacher Guide, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/teacher/1034.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 45's release URL, 5,415,149 bytes, 172 PDF pages — size and pages match both records) and grade-04/gov/kazakhstan/estestvoznanie/teacher/1033.pdf (Kazakh edition, 6,950,372 bytes, 172 PDF pages, TSV twin record 44). Same guide in two languages — read and placed once from the Russian edition's text layer, the Kazakh edition's text layer matching in structure and extent. Title as printed: Естествознание. Руководство для учителя. Пособие для учителя 4-го класса общеобразовательных школ. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 172. Verdict: COMPLETE (introduction, all 65 lesson plans for both student-book parts, revision and glossary; contents printed pp. 3–4; read in full from the text layer). The guide gives lesson plans, factual background, explanations and expected answers for the NIS Grade 4 student books filed above as records 101/102; all bullets are guide evidence at the guide's own pagination. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth and Space L5 "Small cosmic bodies" (guide evidence) (Kazakhstan — Bigazina et al., Grade 4, Natural Science — Teacher Guide, NIS 2019) | Kazakhstan, *G4 Estestvoznanie Guide (Bigazina)*, printed p. 142 |
+
+**Acceptance count: taught in 20 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space small-bodies-asteroids-comets-and-shooting-stars

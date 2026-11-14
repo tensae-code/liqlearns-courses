@@ -1,6 +1,6 @@
 # Sources — Measuring time the old way — sundial, sand-glass, water clock
 
-countries: Ethiopia, Zambia (teacher-module evidence only), China, Bangladesh, Fiji (teacher-guide evidence only), Vietnam, Morocco (teacher-guide evidence only), Nepal, Iran
+countries: Ethiopia, Zambia (teacher-module evidence only), China, Bangladesh, Fiji (teacher-guide evidence only), Vietnam, Morocco (teacher-guide evidence only), Nepal, Iran, Kazakhstan
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -135,3 +135,23 @@ Searchable tags: nepal, curriculum development centre, science-skills/measuring-
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, science-skills measuring-time-the-old-way-sundial-sand-glass-water-clock
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 22 "Tools that tell the time": sundial (first made in ancient Egypt, shadow direction still sets clock-hand direction), hourglass, mechanical and electronic clocks, dripping-water timing experiment, dawn/dusk Kazakh time words (boz ala tañ, kešqurym) (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 72 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.Z. Kucherbaeva, I.S. Temnikova, G.K. Tashenova. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-914-8. PDF pages: 112 (24,363,186 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Every lesson carries trilingual keyword boxes (Russian/Kazakh/English). Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, literature list and contents present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lessons 21–22 "Time": people once told time by sunrise and sunset; sundials, hourglasses, water clocks and flower clocks (flowers opening and closing at set hours); the rooster crowing three times in the night (midnight, 2 a.m., half past four) as a living clock (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) | Kazakhstan, *Kucherbaeva G1*, printed p. 70 |
+
+**Acceptance count: taught in 6 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, science-skills measuring-time-the-old-way-sundial-sand-glass-water-clock

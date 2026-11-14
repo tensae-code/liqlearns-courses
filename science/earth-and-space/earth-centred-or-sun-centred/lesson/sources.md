@@ -106,3 +106,17 @@ Searchable tags: sri lanka, sri lanka science, earth centred or sun centred
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space earth-centred-or-sun-centred
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 18 "How people study space": ancient astronomers put Earth at the centre with Sun, Moon, planets and stars circling it (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 62 |
+
+**Acceptance count unchanged: taught in 4 countries.** — Kazakhstan was already counted in this lesson from its earlier-wave books (named in the sections above); the General Science books above add provenance, counted once.
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space earth-centred-or-sun-centred

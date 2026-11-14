@@ -1,6 +1,6 @@
 # Sources — Astronomical observation — looking at the sky
 
-countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Armenia, Cambodia, Ecuador, Sudan, Venezuela, China, Syria, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen (teacher-guide evidence only), Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Jordan, Iran
+countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Armenia, Cambodia, Ecuador, Sudan, Venezuela, China, Syria, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen (teacher-guide evidence only), Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Jordan, Iran, Kazakhstan
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -387,3 +387,29 @@ Placement choice, on the record: the Iran placement(s) above filed as `earth-and
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, earth-and-space astronomical-observation-looking-at-the-sky
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 18, tools part: the astronomer and the telescope; the Moon gives no light of its own but reflects sunlight (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 61 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §4 "The starry sky" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 15 |
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| An observatory is known by its dome with opening walls for the telescope; the Tien Shan observatory high in the mountains near Almaty studies the Sun, the Moon and Mars (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 71 |
+
+**Acceptance count: taught in 21 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space astronomical-observation-looking-at-the-sky

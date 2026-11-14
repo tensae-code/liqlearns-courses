@@ -1,6 +1,6 @@
 # Sources — Energy resources — environmental degradation and its effects
 
-countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji, Nicaragua, Iraq, El Salvador
+countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji, Nicaragua, Iraq, El Salvador, Kazakhstan
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -150,3 +150,17 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/energy-resources-environmental-degradation-and-its-effects
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §53 "Change of natural ecosystems under human activity" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 173 |
+
+**Acceptance count: taught in 11 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, our-environment energy-resources-environmental-degradation-and-its-effects

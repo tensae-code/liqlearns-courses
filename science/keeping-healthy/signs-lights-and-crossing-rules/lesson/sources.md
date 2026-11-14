@@ -1,6 +1,6 @@
 # Sources — Signs, lights and crossing rules
 
-countries: Ethiopia, Turkey, Serbia, Angola, Eritrea, Yemen, Vietnam, Iraq, Jordan, Iran
+countries: Ethiopia, Turkey, Serbia, Angola, Eritrea, Yemen, Vietnam, Iraq, Jordan, Iran, Kazakhstan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -139,3 +139,23 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, keeping-healthy signs-lights-and-crossing-rules
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Baitenova et al., Grade 1, Knowledge of the World (Kazakh edition), NIS 2015):** **Дүниетану (Knowledge of the World)** — Grade 1, student textbook, **Kazakh edition** (the TSV record labels this file "Познание мира … Байтенова" in Russian, but the PDF itself is the Kazakh edition — named in the group log as a record mismatch). Authors: K.K. Baitenova, A.A. Zhakeeva, E.N. Popova, Sh.K. Saukatova, Zh.M. Seitakhmetova, L.A. Ufimtseva. Publisher: Nazarbayev Intellectual Schools, Astana, 2015 (trial edition). ISBN 978-601-7417-82-6. PDF pages: 92 (7,853,837 bytes); printed book 96 pp. Image-only scan; read visually page by page from 100-DPI contact sheets. Mascot: a young camel. Verdict: **COMPLETE** — imprint, contents, all 8 sections, final test and glossary present. Scope note: this is a mostly social-studies book (self, school, family, folklore, state symbols); only its general-science parts are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "The road to school": a pedestrian must keep road-safety rules, helped by the traffic light; road signs forbid, allow and warn; why the pedestrian crossing is called a "zebra"; drawing your own home-to-school route (Kazakhstan — Baitenova et al., Grade 1, Knowledge of the World (Kazakh edition), NIS 2015) | Kazakhstan, *Baitenova G1*, printed p. 18 |
+
+**Book (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021):** **Познание мира (Knowledge of the World)** — Grade 1, student textbook, Russian edition. Authors: B.K. Turmasheva, S.S. Salish, T.N. Miruk. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-917-9. PDF pages: 112 (31,075,326 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, contents, all 33 lessons in 8 themes, final test, glossary and source list present. Scope note: mostly social studies; only general-science parts are placed below (the state-symbols and independence lessons, Theme VI in part, are civics and are not placed). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 8 "The road to school": a pedestrian walks on the pavement; road signs are the helpers of the traffic rules (pedestrian crossing, no pedestrians, underground crossing, "caution, children"); every sign has its own colour and shape and red warns of danger; look left and right when crossing (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021) | Kazakhstan, *Turmasheva G1*, printed p. 26 |
+
+**Acceptance count: taught in 11 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, keeping-healthy signs-lights-and-crossing-rules

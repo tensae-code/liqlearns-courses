@@ -1,0 +1,29 @@
+# Sources — Environmental factors
+
+countries: Kazakhstan
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/teacher/1036.pdf (Russian, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 1,999,904 bytes, 160 PDF pages — page count matches the record). Title as printed: Естествознание. Руководство для учителя. 5 класс. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-29-9. PDF pages: 160. Verdict: COMPLETE (introduction, contents printed pp. 3–4 listing all sections 1–7 through §7.2, and the full lesson-plan text; read in full from the text layer). Guide evidence for the Aksenova Grade 5 student book (record 120). Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6.3 "Environmental factors and their influence on ecosystems" (guide evidence) (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017) | Kazakhstan, *G5 Estestvoznanie Guide (Aksenova)*, printed p. 124 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §47 "Factors influencing the life of an ecosystem" (with the practical work on water conditions for seed germination) (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 159 |
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/student/153.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 55's release URL, 11,962,693 bytes, 162 PDF pages — size and pages match both records; printed book 168 pp.). This is the student book for the teacher guide filed above as record 124; no Kazakh twin is in the target lists. Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-41-1. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, glossary; contents printed pp. 160–161; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every paragraph heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6.3 "Environmental factors and their influence on ecosystems" (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017) | Kazakhstan, *G5 Estestvoznanie (Aksenova)*, printed p. 126 |
+
+**Acceptance count: taught in 1 country (Kazakhstan).**
+
+Placement choice, on the record: this NEW LESSON was built for the Kazakhstan placements filed as NEW LESSON NEEDED — environmental-factors — kazakhstan-placements.md (3 placements). Checked live first: no existing general-science lesson covers this thing as its own lesson, so it was built new, in the standard lesson shape. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment) and TITLES.md.
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, our-environment environmental-factors

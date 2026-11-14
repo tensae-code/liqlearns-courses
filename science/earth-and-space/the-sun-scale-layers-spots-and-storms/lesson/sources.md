@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Vietnam, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Vietnam, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -422,3 +422,23 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space the-sun-scale-layers-spots-and-storms
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5 "The Sun and the Solar system" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 18 |
+
+**Book (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019):** Records: books.json grade-02/gov/kazakhstan/estestvoznanie/student/44.pdf (Russian, on_disk=true, in_pushed=true, 13,447,836 bytes — verified exact on disk, 92 PDF pages) and grade-02/gov/kazakhstan/estestvoznanie/student/34.pdf (Kazakh parallel edition, on_disk=true, in_pushed=true, 7,131,144 bytes — verified exact on disk, 91 PDF pages; scanned copy of the same book in Kazakh). Same book in two languages — placed once from the Russian edition, read in full from the text layer (contents printed pp. 90–91 lists all 34 lessons). Title as printed: Естествознание. Учебник для учащихся 2 класса общеобразовательной школы. Authors: Н. А. Болтушенко, В. Н. Зворыгина, Р. Ш. Избасарова, О. А. Лауто, Т. В. Помогайко, Т. Л. Яндулова. Publisher: «Алматыкітап баспасы», Almaty, 2019. PDF pages: 92. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth and Space L18 "The Sun and its influence on the Earth" (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019) | Kazakhstan, *G2 Estestvoznanie (Boltushenko)*, printed p. 50 |
+
+**Acceptance count: taught in 27 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space the-sun-scale-layers-spots-and-storms

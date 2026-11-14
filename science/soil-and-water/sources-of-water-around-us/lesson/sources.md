@@ -1,6 +1,6 @@
 # Sources — Sources of water around us
 
-countries: Zimbabwe (teacher-guide evidence only), Morocco (teacher-guide evidence only)
+countries: Zimbabwe (teacher-guide evidence only), Morocco (teacher-guide evidence only), Kazakhstan
 
 ## Zimbabwe growth (2026-11-14, General Science expansion)
 
@@ -46,3 +46,17 @@ Placement choice, on the record: this NEW LESSON was built for the Zimbabwe plac
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, soil-and-water sources-of-water-around-us
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018):** Records: books.json grade-03/gov/kazakhstan/estestvoznanie/student/69.pdf (Russian, on_disk=false, in_pushed=true; fetched by its repo release download_url, 8,313,379 bytes, 168 PDF pages — page count matches the record) and grade-03/gov/kazakhstan/estestvoznanie/student/991.pdf (same title, same 168 pages in its record — the same edition's second record; treated as one book, placed once). Title as printed: Естествознание. Учебник для 3 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: «Атамұра», Almaty, 2018. ISBN 978-601-331-096-1. PDF pages: 168. Verdict: COMPLETE (contents at the end, printed pp. 165–167, lists all 68 lessons, glossary and appendices; body read in full from the text layer, printed page = PDF page). Trilingual lesson headings (Russian/Kazakh/English) are this edition's own way of teaching. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lessons 30–31 "Natural sources of water" (rivers, lakes, ocean, groundwater compared) (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018) (placement filed as NEW LESSON NEEDED — natural-sources-of-water; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G3 Estestvoznanie (Kucherbaeva)*, printed p. 81 |
+
+**Acceptance count: taught in 1 country (Kazakhstan).** — Kazakhstan's student books above are the first counted books for this lesson; Zimbabwe and Morocco stand as teacher-guide evidence only.
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, soil-and-water sources-of-water-around-us

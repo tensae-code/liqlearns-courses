@@ -1,6 +1,6 @@
 # Sources — Human growth and development stages
 
-countries: Bahamas (curriculum evidence only), Moldova, North Macedonia, Vietnam, Morocco (teacher-guide evidence only)
+countries: Bahamas (curriculum evidence only), Moldova, North Macedonia, Vietnam, Morocco (teacher-guide evidence only), Kazakhstan
 
 **Book 1:** *Primary Science Curriculum Guidelines — Grades 1-2* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 1-2" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 1–2 (curriculum guideline; scope-and-sequence and benchmarks also sketch Grades 1–6) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 152 (fetched copy 1,986,174 bytes, matches meta record) · Verdict: COMPLETE — read in full (front matter, scope & sequence, standards/benchmarks, learner outcomes, Grade 1 and Grade 2 scope of work, process-skills appendix, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
 
@@ -74,3 +74,29 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-h
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, the-human-body human-growth-and-development-stages
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 11: infancy, childhood, youth, maturity, old age; the child grows fastest in infancy, growth stops in maturity and old age; a person grows until about 20 (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) (placement filed as NEW LESSON NEEDED — stages-of-a-human-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *Karatabanov G1*, printed p. 38 |
+
+**Book (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.N. Kuznetsova, D.N. Sapakov, I.N. Vaseva, A.K. Zhamieva, M.K. Kusainova, M.K. Tasbulatova. Publisher: Nazarbayev Intellectual Schools (NIS) with Mektep, 2016, approved by the Ministry of Education and Science of Kazakhstan. PDF pages: 96 (24,104,612 bytes); full text layer, read in full as text. Mascot guides Negesh and Evrika. Verdict: **COMPLETE** — cover, imprint, contents, all 8 sections, glossary present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "How a person grows up": stages of growing (glossary gives youth as 14–15 to 21–25); height changes with age; after younger school age comes adolescence (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016) (placement filed as NEW LESSON NEEDED — stages-of-a-human-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *Kuznetsova G1 (NIS)*, printed p. 34 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.Z. Kucherbaeva, I.S. Temnikova, G.K. Tashenova. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-914-8. PDF pages: 112 (24,363,186 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Every lesson carries trilingual keyword boxes (Russian/Kazakh/English). Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, literature list and contents present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 10 "Stages of a human life", with age bands: infancy 0–1, early childhood 1–3, preschool 3–6, school age 6–17, youth 18–25, middle age 26–44, mature 45–59, elderly 60–75+, long-livers 90+ (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) (placement filed as NEW LESSON NEEDED — stages-of-a-human-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *Kucherbaeva G1*, printed p. 43 |
+
+**Acceptance count: taught in 4 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, the-human-body human-growth-and-development-stages

@@ -1,6 +1,6 @@
 # Sources — Ones that come back and ones that finish
 
-countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan, Iran
+countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan, Iran, Kazakhstan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -580,3 +580,29 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, natural-resources ones-that-come-back-and-ones-that-finish
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 4 Part 2, Natural Science, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/student/109.pdf (Russian Part 2, on_disk=false, in_pushed=true; fetched by its repo release download_url, 15,674,181 bytes, 88 PDF pages — page count matches the record). The Kazakh Part 2 (record 108, 87.pdf, 88 pages in its record) is the parallel edition of the same part. Placed once from the Russian part. Title as printed: Естествознание. Учебник для 4-го класса общеобразовательных школ. Часть 2. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 88. Verdict: COMPLETE for Part 2 (contents printed pp. 3–4 lists all four sections through the glossary at printed p. 84; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| L9 "What minerals can be replaced with" (resources that finish and substitutes) (Kazakhstan — Bigazina et al., Grade 4 Part 2, Natural Science, NIS 2019) | Kazakhstan, *G4 Estestvoznanie Pt2 (Bigazina)*, printed p. 42 |
+
+**Book (Kazakhstan — Bigazina et al., Grade 4, Natural Science — Teacher Guide, NIS 2019):** Records: books.json grade-04/gov/kazakhstan/estestvoznanie/teacher/1034.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 45's release URL, 5,415,149 bytes, 172 PDF pages — size and pages match both records) and grade-04/gov/kazakhstan/estestvoznanie/teacher/1033.pdf (Kazakh edition, 6,950,372 bytes, 172 PDF pages, TSV twin record 44). Same guide in two languages — read and placed once from the Russian edition's text layer, the Kazakh edition's text layer matching in structure and extent. Title as printed: Естествознание. Руководство для учителя. Пособие для учителя 4-го класса общеобразовательных школ. Authors: П. К. Бигазина, А. Ж. Жаманкулова, Э. А. Кажекенова, Г. А. Тураканова, М. Хонтай. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2019. PDF pages: 172. Verdict: COMPLETE (introduction, all 65 lesson plans for both student-book parts, revision and glossary; contents printed pp. 3–4; read in full from the text layer). The guide gives lesson plans, factual background, explanations and expected answers for the NIS Grade 4 student books filed above as records 101/102; all bullets are guide evidence at the guide's own pagination. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Natural Resources L9 "What minerals can be replaced with" (guide evidence) (Kazakhstan — Bigazina et al., Grade 4, Natural Science — Teacher Guide, NIS 2019) | Kazakhstan, *G4 Estestvoznanie Guide (Bigazina)*, printed p. 126 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/student/979.pdf (Russian, on_disk=true at phase3-staging; byte size and 144 PDF pages match both records; printed book 144 pp.); record 80 is its Kazakh twin 982.pdf (on disk in phase3-staging, 144 pages; cover verified by Cyrillic OCR — Көшербаева/Көдек/Тәшенова, Атамұра 2022 — the same Kazakh student book, cited once here). Title as printed: Естествознание. Учебник для 2 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: Атамұра, Almaty, 2022. ISBN 978-601-10-0049-9. Verdict: COMPLETE (introduction, all 34 lessons in 6 sections, conclusion, glossary, bibliography; contents printed pp. 141–142; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and the Animals lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 18 "What kinds of natural resources there are" (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022) (placement filed as NEW LESSON NEEDED — kinds-of-natural-resources-renewable-and-nonrenewable; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G2 Estestvoznanie (Kucherbaeva)*, printed p. 83 |
+
+**Acceptance count: taught in 31 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, natural-resources ones-that-come-back-and-ones-that-finish

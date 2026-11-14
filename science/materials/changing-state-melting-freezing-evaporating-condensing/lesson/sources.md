@@ -1,6 +1,6 @@
 # Sources — Changing state — melting, freezing, evaporating, condensing
 
-countries: Vietnam, Morocco (teacher-guide evidence only)
+countries: Vietnam, Morocco (teacher-guide evidence only), Kazakhstan
 
 **Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
 
@@ -48,3 +48,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, mater
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials changing-state-melting-freezing-evaporating-condensing
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/907.pdf and grade-06/gov/kazakhstan/estestvoznanie/student/1284.pdf (both Russian Part 1, 172 pages in their records; 1284.pdf fetched by its repo release download_url, 23,032,595 bytes, 172 PDF pages — page count matches). The Kazakh Part 1 is records 137/141 (1287.pdf / 192.pdf, 168 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (cover and the full contents at printed pp. 170–171 verified; author team Верховцева Л. А., Костюченко О. А., Праchnau В. И., Бойко Г. С., Матвеева С. А.). Title as printed: Естествознание. Учебник для учащихся 6 класса общеобразовательной школы. Часть 1. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 172. Verdict: COMPLETE for Part 1. Scope line: §§21–23 (the medium of a solution and how to determine it; what neutralisation is; determining and neutralising an acid, printed pp. 123–131) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §19 "When does a substance boil and melt?" (Kazakhstan — Verkhovtseva et al., Grade 6 Part 1, Natural Science, Almatykitap 2023) (placement filed as NEW LESSON NEEDED — melting-and-boiling-points; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G6 Estestvoznanie Pt1 (Verkhovtseva)*, printed p. 115 |
+
+**Book (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018):** Record: books.json grade-06/gov/kazakhstan/estestvoznanie/student/190.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 63's release URL, 5,441,776 bytes, 240 PDF pages — size and pages match both records). Its Russian parallel edition is record 142 (217.pdf), filed record-only above on the statement that this Kazakh book was "filed in the kz-a section" — it had not been; it is filed here, and record 142 stays cited once as its parallel edition (kz-b verified that book complete: cover, imprint and the same 60-paragraph contents). Title as printed: Жаратылыстану. Учебник для 6 класса общеобразовательной школы. Authors: Б. Ш. Әбдіманапов, С. Е. Нүркенова, А. Ұ. Әбілғазиев, Г. У. Әуезова. Publisher: «Атамұра», Almaty, 2018. ISBN (Russian edition) 978-601-331-144-9. PDF pages: 240. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, practical and laboratory works, glossary; contents at printed pp. 3–5 and 237–239 in the two language texts; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §21 "Boiling and melting temperatures of substances" (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) (placement filed as NEW LESSON NEEDED — melting-and-boiling-points; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 81 |
+
+**Acceptance count: taught in 2 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials changing-state-melting-freezing-evaporating-condensing

@@ -1,6 +1,6 @@
 # Sources — Modelling in science
 
-countries: Armenia, Iraq
+countries: Armenia, Iraq, Kazakhstan
 
 **Book (Armenia — Grade 10, student book):** Title as printed: ԲՆԱԳԻՏՈՒԹՅՈՒՆ 10 (Natural Science 10); authors Sargis Galoyan, Gagik Melikyan, Hayk Harutyunyan, Karine Avetisyan, Tigran Tangamyan Grade: 10 (student/teacher: STUDENT book) Publisher: Edit Print (Էդիթ Պրինտ), Yerevan, 2023; ISBN 978-9939-969-17-6; recommended by the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 17,643,974; image-only PDF read from 100-DPI contact sheets; cover and title page visually verified against the record title; full contents at printed pp. 173–175 confirm all nine sections, matching the teacher guide's content section by section) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -44,3 +44,23 @@ Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills modelling-in-science
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 6 Part 2, Natural Science, Almatykitap 2023):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/1285.pdf (Russian Part 2, fetched by its repo release download_url, 27,642,190 bytes, 200 PDF pages — page count matches the record) and grade-06/gov/kazakhstan/estestvoznanie/student/899.pdf (same part, second record, 200 pages). The Kazakh Part 2 is records 138/144 (1288.pdf / 898.pdf, 192 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 198–199 verified). Title as printed: Естествознание. Учебник для учащихся 6 класса общеобразовательной школы. Часть 2. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 200. Verdict: COMPLETE for Part 2. Scope line: §34 (how chemical transformations in nature affect our life, printed p. 15) is a pure Chemistry chapter inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §33 "How modelling helps to understand nature" (Kazakhstan — Verkhovtseva et al., Grade 6 Part 2, Natural Science, Almatykitap 2023) (placement filed as NEW LESSON NEEDED — models-and-modelling-in-science; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G6 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 6 |
+
+**Book (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018):** Record: books.json grade-06/gov/kazakhstan/estestvoznanie/student/190.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 63's release URL, 5,441,776 bytes, 240 PDF pages — size and pages match both records). Its Russian parallel edition is record 142 (217.pdf), filed record-only above on the statement that this Kazakh book was "filed in the kz-a section" — it had not been; it is filed here, and record 142 stays cited once as its parallel edition (kz-b verified that book complete: cover, imprint and the same 60-paragraph contents). Title as printed: Жаратылыстану. Учебник для 6 класса общеобразовательной школы. Authors: Б. Ш. Әбдіманапов, С. Е. Нүркенова, А. Ұ. Әбілғазиев, Г. У. Әуезова. Publisher: «Атамұра», Almaty, 2018. ISBN (Russian edition) 978-601-331-144-9. PDF pages: 240. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, practical and laboratory works, glossary; contents at printed pp. 3–5 and 237–239 in the two language texts; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §31 "Modelling natural processes" (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) (placement filed as NEW LESSON NEEDED — models-and-modelling-in-science; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 115 |
+
+**Acceptance count: taught in 3 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, science-skills modelling-in-science

@@ -1,0 +1,4 @@
+# How the continents and oceans were explored — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (History of the mastering and study of the continents and parts of the world, History of the study of the oceans, Exploration of the oceans, How the modern map took shape, Who made the modern map?), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 5 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks.

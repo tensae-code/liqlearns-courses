@@ -1,6 +1,6 @@
 # Sources — Electricity and magnets
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), Papua New Guinea
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), Papua New Guinea, Kazakhstan
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -131,3 +131,31 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 6 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018):** Record: books.json grade-03/gov/kazakhstan/estestvoznanie/teacher/1032.pdf (Kazakh, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 4,909,936 bytes, 176 PDF pages — page count matches the record). Title as printed: Жаратылыстану. Мұғалімге арналған нұсқаулық, 3-сынып. Authors: Т. А. Андриянова, В. Н. Беркало, Н. Ш. Жакупова, С. Н. Кузнецова, А. В. Полежаева. Publisher: Назарбаев Зияткерлік мектептері (Nazarbayev Intellectual Schools), Astana, 2018. PDF pages: 176. Verdict: COMPLETE (introduction plus all 69 lesson plans in 9 sections, contents printed pp. 3–4; read in full from the text layer). The guide gives lesson-by-lesson aims, explanations and expected answers for the NIS Grade 3 student book (records 126/127, Kazakh parts 1–2); all bullets are guide evidence. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| L9 "Electrical phenomena" (guide evidence) (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Guide (Andriyanova)*, printed p. 158 |
+| L13 "Electrical and magnetic phenomena" (guide evidence) (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Guide (Andriyanova)*, printed p. 166 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §29 "Electric and magnetic phenomena" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 96 |
+
+**Book (Kazakhstan — Andriyanova et al., Grade 3 Part 2, Natural Science (Kazakh edition), NIS 2018):** Record: books.json grade-03/gov/kazakhstan/estestvoznanie/student/58.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 29's release URL, 7,717,703 bytes, 86 PDF pages — size and pages match both records). Part 2 of the same student book as record 126, for the same teacher guide (record 130). Title as printed: Жаратылыстану, 2-бөлім. Authors and publisher as Part 1, Astana, 2018. ISBN 978-601-328-322-7 (Part 2). PDF pages: 86 (printed book 88 pp.). Verdict: COMPLETE for Part 2 (all 35 lessons in 4 sections — soil and natural resources, Earth and space, forces and movement, light/sound/electricity/magnetism — plus the explanatory dictionary; contents printed pp. 2–3; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| L9 "Electrical phenomena" (Kazakhstan — Andriyanova et al., Grade 3 Part 2, Natural Science (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Pt2 (Andriyanova)*, printed p. 68 |
+| L13 "Electrical and magnetic phenomena" (Kazakhstan — Andriyanova et al., Grade 3 Part 2, Natural Science (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Pt2 (Andriyanova)*, printed p. 76 |
+
+**Acceptance count: taught in 7 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials electricity-and-magnets

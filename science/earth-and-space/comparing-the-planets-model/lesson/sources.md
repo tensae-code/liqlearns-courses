@@ -1,6 +1,6 @@
 # Sources — Comparing the planets — a model of distance, size and behaviour
 
-countries: Ethiopia, United States, Cambodia, Colombia
+countries: Ethiopia, United States, Cambodia, Colombia, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -61,3 +61,23 @@ Searchable tags: cambodia, moeys, comparing the planets model
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/comparing-the-planets-model
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 2, Natural Science — Teacher Guide, NIS 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/teacher/1020.pdf (Russian, on_disk=true, in_pushed=true, 5,961,796 bytes — verified exact on disk in phase3-staging, 100 PDF pages; page count and size also match the TSV twin records 17). No Kazakh twin of this guide is in the target lists. Title as printed: Естествознание. Руководство для учителя. Пособие для учителя 2-го класса общеобразовательной школы. Authors: П. К. Бигазина, Т. А. Андриянова, В. Н. Беркало, Н. Ш. Каратаева, А. В. Полежаева, Г. А. Тураканова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022 (approved by the Ministry of Education of Kazakhstan). PDF pages: 100. Verdict: COMPLETE (introduction, all 34 lesson plans in 8 sections, glossary; contents printed pp. 3–4; read in full from the text layer). The guide gives lesson plans, explanations and expected answers for the NIS Grade 2 student book (records 23/72, filed separately below); all bullets are guide evidence. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 22 "Such different planets" (guide evidence) (Kazakhstan — Bigazina et al., Grade 2, Natural Science — Teacher Guide, NIS 2022) | Kazakhstan, *G2 Estestvoznanie Guide (Bigazina)*, printed p. 66 |
+
+**Book (Kazakhstan — Bigazina et al., Grade 2, Natural Science, NIS 2022):** Records: TSV records 23 and 72 are the same record twice in targets-kz-a.json (grade-02/gov/kazakhstan/estestvoznanie/student/1021.pdf, 51,216,932 bytes — verified exact on disk in phase3-staging, 128 PDF pages). This book has no books.json twin in targets-kz-b.json. It is the student book for the teacher guide filed above as record 81. Title as printed: Естествознание. Учебник для 2-го класса общеобразовательных школ. Authors: П. К. Бигазина, Т. А. Андриянова, В. Н. Беркало, Н. Ш. Каратаева, А. В. Полежаева, Г. А. Тураканова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022. ISBN 978-601-348-372-6. PDF pages: 128. Verdict: COMPLETE (introduction, all 34 lessons in 8 sections, glossary; contents printed pp. 3–4; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, with every lesson heading verified against the contents). Mascots Negesh and Evrika, as in the NIS Grade 1 book. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 22 "Such different planets" (Kazakhstan — Bigazina et al., Grade 2, Natural Science, NIS 2022) | Kazakhstan, *G2 Estestvoznanie (Bigazina)*, printed p. 80 |
+
+**Acceptance count: taught in 4 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space comparing-the-planets-model

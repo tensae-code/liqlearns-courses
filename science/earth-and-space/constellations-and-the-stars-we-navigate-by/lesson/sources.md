@@ -1,6 +1,6 @@
 # Sources — Constellations and the stars we navigate by
 
-countries: Vanuatu (teacher-guide evidence only), Mongolia, Saudi Arabia, Nepal, Papua New Guinea
+countries: Vanuatu (teacher-guide evidence only), Mongolia, Saudi Arabia, Nepal, Papua New Guinea, Kazakhstan
 
 **Book 1:** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
 
@@ -96,3 +96,17 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 Placement choice, on the record: the Papua New Guinea placements filed 3 of these rows as "NEW LESSON NEEDED — constellations-and-star-patterns" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022):** **Естествознание (Natural Science)** — Grade 2, student textbook, Russian. Authors Zh.T. Suyundikova, V.N. Zvorygina, N.A. Boltushenko, T.V. Pomogaiko, O.A. Lauto, T.L. Yandulova. Almatykitap Baspasy, Almaty, 2022 (signed to print 17.06.2022; print run 25,000; no ISBN printed in the copy seen). PDF pages: 128 (27,408,534 bytes — matches the books.json record's size_bytes and page count exactly, so records 9 and 70 are the same file). Real text layer; read in full as text. Verdict: COMPLETE (34 lessons in 5 sections, own project pages, glossary, source list). Mascots: the scientist Vseznamus with pupils Kuanysh and Aisulu; every lesson carries Kazakh–Russian keyword pairs and a "Scientific diary" workbook link. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Constellations are groups people drew among unconnected stars, named for heroes, animals and household things, because a pattern is easier to find than one star; distances in space: Earth to Sun is about 150 million km, one astronomical unit, and a dead star's light can reach us hundreds of years after the star has gone out (Kazakhstan — Suyundikova et al., Grade 2, Natural Science (Russian edition), Almatykitap 2022) (placement filed as NEW LESSON NEEDED — constellations-patterns-people-draw-in-the-stars; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G2 Estestvoznanie (Suyundikova)*, printed p. 75 |
+
+**Acceptance count: taught in 5 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space constellations-and-the-stars-we-navigate-by

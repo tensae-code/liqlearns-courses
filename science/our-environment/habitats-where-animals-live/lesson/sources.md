@@ -1,6 +1,6 @@
 # Sources — Habitats where animals live
 
-countries: Bangladesh, Vietnam, Nepal (teacher-guide evidence only)
+countries: Bangladesh, Vietnam, Nepal (teacher-guide evidence only), Kazakhstan
 
 **Book (Bangladesh — Class 4):** *Elementary Science, Class Four* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2025); free distribution under PEDP-4; no ISBN printed. PDF pages: 117 (printed pages 111 + glossary); image-only PDF — read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary page (printed p. 111) marked "End". The Bangla twin record (bd02) is UNREAD and record-only as filed: its repo file could not be opened (damaged downloads), and its content is fully covered by this English twin. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -47,3 +47,23 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, our-environment/habitats-where-animals-live
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018):** Record: books.json grade-03/gov/kazakhstan/estestvoznanie/teacher/1032.pdf (Kazakh, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 4,909,936 bytes, 176 PDF pages — page count matches the record). Title as printed: Жаратылыстану. Мұғалімге арналған нұсқаулық, 3-сынып. Authors: Т. А. Андриянова, В. Н. Беркало, Н. Ш. Жакупова, С. Н. Кузнецова, А. В. Полежаева. Publisher: Назарбаев Зияткерлік мектептері (Nazarbayev Intellectual Schools), Astana, 2018. PDF pages: 176. Verdict: COMPLETE (introduction plus all 69 lesson plans in 9 sections, contents printed pp. 3–4; read in full from the text layer). The guide gives lesson-by-lesson aims, explanations and expected answers for the NIS Grade 3 student book (records 126/127, Kazakh parts 1–2); all bullets are guide evidence. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals L4 "How an animal's habitat is determined" (signs and observation) (guide evidence) (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018) (placement filed as NEW LESSON NEEDED — finding-where-an-animal-lives; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G3 Zharatylystanu Guide (Andriyanova)*, printed p. 50 |
+
+**Book (Kazakhstan — Andriyanova et al., Grade 3 Part 1, Natural Science (Kazakh edition), NIS 2018):** Record: books.json grade-03/gov/kazakhstan/estestvoznanie/student/57.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 28's release URL, 7,349,785 bytes, 81 PDF pages — size and pages match both records; the printed book is 88 pp., the scan ends with the glossary's last page, printed p. 87). This is the student book for the teacher guide filed above as record 130; no Russian twin of the student book is in the target lists. Title as printed: Жаратылыстану. Жалпы білім беретін мектептің 3-сыныбына арналған оқулық, 1-бөлім. Authors: Т. А. Андриянова, В. Н. Беркало, Н. Ш. Жакупова, С. Н. Кузнецова, А. В. Полежаева. Publisher: «Назарбаев Зияткерлік мектептері», Astana, 2018. ISBN 978-601-328-320-3 (Part 1), 978-601-328-321-0 (set). Verdict: COMPLETE for Part 1 (introduction, all 33 lessons in 4 sections, explanatory dictionary; contents printed pp. 2–3; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every lesson heading verified against the contents). Mascots Negesh and Evrika. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals L4 "How an animal's habitat is determined" (Kazakhstan — Andriyanova et al., Grade 3 Part 1, Natural Science (Kazakh edition), NIS 2018) (placement filed as NEW LESSON NEEDED — finding-where-an-animal-lives; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G3 Zharatylystanu Pt1 (Andriyanova)*, printed p. 38 |
+
+**Acceptance count: taught in 3 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, our-environment habitats-where-animals-live

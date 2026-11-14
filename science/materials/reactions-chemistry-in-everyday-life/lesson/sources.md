@@ -1,6 +1,6 @@
 # Sources — Reactions — chemistry in everyday life
 
-countries: Ethiopia, Seychelles, Sudan, Bangladesh, Yemen, Nicaragua, Nepal, Papua New Guinea
+countries: Ethiopia, Seychelles, Sudan, Bangladesh, Yemen, Nicaragua, Nepal, Papua New Guinea, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -126,3 +126,17 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 8 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018):** Record: books.json grade-06/gov/kazakhstan/estestvoznanie/student/190.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 63's release URL, 5,441,776 bytes, 240 PDF pages — size and pages match both records). Its Russian parallel edition is record 142 (217.pdf), filed record-only above on the statement that this Kazakh book was "filed in the kz-a section" — it had not been; it is filed here, and record 142 stays cited once as its parallel edition (kz-b verified that book complete: cover, imprint and the same 60-paragraph contents). Title as printed: Жаратылыстану. Учебник для 6 класса общеобразовательной школы. Authors: Б. Ш. Әбдіманапов, С. Е. Нүркенова, А. Ұ. Әбілғазиев, Г. У. Әуезова. Publisher: «Атамұра», Almaty, 2018. ISBN (Russian edition) 978-601-331-144-9. PDF pages: 240. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, practical and laboratory works, glossary; contents at printed pp. 3–5 and 237–239 in the two language texts; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §26 "Chemistry in everyday life" (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 99 |
+
+**Acceptance count: taught in 9 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials reactions-chemistry-in-everyday-life

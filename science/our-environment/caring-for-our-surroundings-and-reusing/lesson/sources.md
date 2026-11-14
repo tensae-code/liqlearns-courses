@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Libya, Jordan, Iran
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Libya, Jordan, Iran, Kazakhstan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -807,3 +807,23 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, our-environment caring-for-our-surroundings-and-reusing
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §57 "Rules of behaviour in nature" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 184 |
+
+**Book (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021):** **Познание мира (Knowledge of the World)** — Grade 1, student textbook, Russian edition. Authors: B.K. Turmasheva, S.S. Salish, T.N. Miruk. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-917-9. PDF pages: 112 (31,075,326 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, contents, all 33 lessons in 8 themes, final test, glossary and source list present. Scope note: mostly social studies; only general-science parts are placed below (the state-symbols and independence lessons, Theme VI in part, are civics and are not placed). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 32 "How to behave in nature": nature is our Green Home, full of insects, birds and animals living among trees, grasses and flowers; the first and main rule is deciding what to do with litter left after a hike; five forest rules beginning with "Do not"; our ancestors protected nature, counting themselves children of Mother Earth and doing nothing that could harm her — Earth is our common home (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021) | Kazakhstan, *Turmasheva G1*, printed p. 99 |
+
+**Acceptance count: taught in 35 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, our-environment caring-for-our-surroundings-and-reusing

@@ -1,0 +1,10 @@
+# Video script — Natural and artificial substances
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+---
+
+Today: **Natural and artificial substances** — Kazakhstan's way.
+
+Kazakhstan's books teach this as their own lesson — "Formation of substances in nature; artificial substances". The learner works through the books' own presentation of formation of substances in nature; artificial substances — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. The books teach this part as classifying substances by origin and by state — worked through in the books' own presentation, at the printed pages named in Sources. Kazakhstan's books teach this as their own lesson — "Natural and artificial substances". The learner works through the books' own presentation of natural and artificial substances — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. Kazakhstan's books teach this as their own lesson — "Synthetic materials in our life; safety in using them". The learner works through the books' own presentation of synthetic materials in our life; safety in using them — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. Kazakhstan's books teach this as their own lesson — "Why are artificial substances created?", "Advantages and disadvantages of natural and artificial materials", "Natural and artificial materials", "Formation of substances in nature. Artificial substances". The learner works through the books' own presentation of why are artificial substances created? — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach..
+
+Now you. Say it back — in your own words.

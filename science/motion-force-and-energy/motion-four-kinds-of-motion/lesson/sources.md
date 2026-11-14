@@ -1,6 +1,6 @@
 # Sources — Motion — four kinds of motion
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia, Papua New Guinea, Jordan, Iran
+countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia, Papua New Guinea, Jordan, Iran, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -302,3 +302,53 @@ Placement choice, on the record: the Iran placement(s) above filed as `direction
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, motion-force-and-energy motion-four-kinds-of-motion
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 14 "How different bodies move": motion as change of place; running, driving, flying, galloping, flowing and toy/robot movement compared (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 49 |
+
+**Book (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.N. Kuznetsova, D.N. Sapakov, I.N. Vaseva, A.K. Zhamieva, M.K. Kusainova, M.K. Tasbulatova. Publisher: Nazarbayev Intellectual Schools (NIS) with Mektep, 2016, approved by the Ministry of Education and Science of Kazakhstan. PDF pages: 96 (24,104,612 bytes); full text layer, read in full as text. Mascot guides Negesh and Evrika. Verdict: **COMPLETE** — cover, imprint, contents, all 8 sections, glossary present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "What movement is": movement as change of position; measuring how far a toy car travels (Negesh's car went 20 cm) (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016) | Kazakhstan, *Kuznetsova G1 (NIS)*, printed p. 42 |
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/teacher/1036.pdf (Russian, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 1,999,904 bytes, 160 PDF pages — page count matches the record). Title as printed: Естествознание. Руководство для учителя. 5 класс. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-29-9. PDF pages: 160. Verdict: COMPLETE (introduction, contents printed pp. 3–4 listing all sections 1–7 through §7.2, and the full lesson-plan text; read in full from the text layer). Guide evidence for the Aksenova Grade 5 student book (record 120). Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5.7 "Movement in living and non-living nature" (guide evidence) (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017) | Kazakhstan, *G5 Estestvoznanie Guide (Aksenova)*, printed p. 110 |
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §43 "Movement in nature" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 148 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/1275.pdf (Russian Part 2, on_disk=false, in_pushed=true; fetched by its repo release download_url, 30,221,690 bytes, 192 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/906.pdf (same part, second record, 192 pages). The Kazakh Part 2 is records 118/123 (1280.pdf / 960.pdf, 184 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 189–190 verified). Title as printed: Естествознание. Учебник для учащихся 5 класса общеобразовательной школы. Часть 2. Authors: Л. А. Верховцева, О. А. Костюченко, М. В. Ушакова. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 192. Verdict: COMPLETE for Part 2. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §49 "Without movement there is no life" (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023) | Kazakhstan, *G5 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 90 |
+
+**Book (Kazakhstan — Ochkur et al., Grade 6, Natural Science, Mektep 2018):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/218.pdf (Russian, fetched by its repo release download_url, 18,626,042 bytes, 201 PDF pages — page count matches the record) and grade-06/gov/kazakhstan/estestvoznanie/student/191.pdf (Kazakh parallel edition, 185 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 198–199 and the colophon verified). Title as printed: Естествознание. Учебник для 6 классов общеобразовательных школ. Authors: Е. А. Очкур, В. М. Уалиева, Т. Г. Белоусова, Н. А. Панищева. Publisher: «Мектеп», Almaty, 2018 (signed to print 21.06.2018; print run 42,000). PDF pages: 201. Verdict: COMPLETE. Scope line: §§23–25 (kinds of solutions and the medium in them; natural acids and alkalis; the neutralisation reaction, printed pp. 78–86) and §32 (chemical transformation of substances in nature, printed p. 106) are pure Chemistry chapters inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §49 "The importance of movement for living organisms" (Kazakhstan — Ochkur et al., Grade 6, Natural Science, Mektep 2018) | Kazakhstan, *G6 Estestvoznanie (Ochkur)*, printed p. 156 |
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/student/153.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 55's release URL, 11,962,693 bytes, 162 PDF pages — size and pages match both records; printed book 168 pp.). This is the student book for the teacher guide filed above as record 124; no Kazakh twin is in the target lists. Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-41-1. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, glossary; contents printed pp. 160–161; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every paragraph heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §5.7 "Movement in non-living and living nature" (Kazakhstan — Aksenova et al., Grade 5, Natural Science, NIS 2017) | Kazakhstan, *G5 Estestvoznanie (Aksenova)*, printed p. 110 |
+
+**Acceptance count: taught in 20 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, motion-force-and-energy motion-four-kinds-of-motion

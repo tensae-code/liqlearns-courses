@@ -1,6 +1,6 @@
 # Sources — What controls a place's climate
 
-countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States, Cuba, Egypt, Afghanistan, Dominican Republic, North Macedonia, Bangladesh, Yemen, Saudi Arabia, South Sudan, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States, Cuba, Egypt, Afghanistan, Dominican Republic, North Macedonia, Bangladesh, Yemen, Saudi Arabia, South Sudan, Papua New Guinea (teacher-guide evidence only), Kazakhstan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -241,3 +241,23 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 14 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017):** Record: books.json grade-05/gov/kazakhstan/estestvoznanie/teacher/1036.pdf (Russian, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 1,999,904 bytes, 160 PDF pages — page count matches the record). Title as printed: Естествознание. Руководство для учителя. 5 класс. Authors: И. В. Аксенова, О. Ж. Ибраева, А. Ж. Карсултанова, О. Д. Ключанцева. Publisher: АОО «Назарбаев Интеллектуальные школы», Astana, 2017. ISBN 978-601-7916-29-9. PDF pages: 160. Verdict: COMPLETE (introduction, contents printed pp. 3–4 listing all sections 1–7 through §7.2, and the full lesson-plan text; read in full from the text layer). Guide evidence for the Aksenova Grade 5 student book (record 120). Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §4.3 "Climatic processes" (guide evidence) (Kazakhstan — Aksenova et al., Grade 5, Natural Science — Teacher Guide, NIS 2017) | Kazakhstan, *G5 Estestvoznanie Guide (Aksenova)*, printed p. 80 |
+
+**Book (Kazakhstan — Turmasheva et al., Grade 3, Knowledge of the World, Atamura 2018):** Records: books.json grade-03/gov/kazakhstan/poznanie-mira/student/70.pdf (Russian, on_disk=false, in_pushed=true; fetched by its TSV twin record 33's release URL, 5,321,150 bytes, 96 PDF pages — size and pages match both records) and grade-03/gov/kazakhstan/poznanie-mira/student/59.pdf (Kazakh edition, 5,962,924 bytes, 96 PDF pages, TSV twin record 32). Same book in two languages — read and placed once from the Russian edition's text layer, the Kazakh contents matching lesson-for-lesson. Records 133 (992.pdf, Russian) and 134 (999.pdf, Kazakh) are second, image-only scans of these same two editions: covers and contents pages verified visually against the text-layer scans (identical title pages, Atamura 2018, and identical contents at the same pagination) — cited once here, no separate placements. Title as printed: Познание мира. Учебник для 3 класса общеобразовательной школы. Authors: Б. К. Турмашева, С. С. Салиш, В. Г. Пугач. Publisher: «Атамұра», Almaty, 2018. PDF pages: 96. Verdict: COMPLETE (contents printed pp. 3–4 lists all 34 lessons in 8 sections, final tests and glossary present; read in full from the text layer). Scope note: mostly social studies; only the general-science parts are placed below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 1 "What the climate on Earth depends on" (Kazakhstan — Turmasheva et al., Grade 3, Knowledge of the World, Atamura 2018) | Kazakhstan, *G3 Poznaniye (Turmasheva)*, printed p. 6 |
+
+**Acceptance count: taught in 15 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, weather-and-seasons what-controls-a-places-climate

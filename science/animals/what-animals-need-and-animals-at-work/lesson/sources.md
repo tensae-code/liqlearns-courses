@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea, Jordan, Iran
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea, Jordan, Iran, Kazakhstan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -608,3 +608,23 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, animals what-animals-need-and-animals-at-work
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023):** **ЖАРАТЫЛЫСТАНУ (Natural Science)** — Grade 1, student textbook, Kazakh edition. Authors: R.Ä. Karatabanov, G.A. Ürzhigitova, Zh.B. Qusaiynova, G.S. Batyrova. Publisher: Almatykitap Baspasy, Almaty, 2023 (text © 2021). ISBN 978-602-02-1203-6. PDF pages: 120 (12,817,942 bytes). Image-only scan (Okulyk watermark); read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, textbook map and contents all present; printed pagination matches contents. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7, Kazakh way: the "four kinds of livestock" (tört tülik — camel, horse, sheep, goat, plus cow) giving milk, meat, wool, hides and transport; dog as the first tamed animal; camel storing fat in its hump and going 40 days without water (Kazakhstan — Karatabanov et al., Grade 1, Natural Science (Kazakh edition), Almatykitap 2023) | Kazakhstan, *Karatabanov G1*, printed p. 25 |
+
+**Book (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.N. Kuznetsova, D.N. Sapakov, I.N. Vaseva, A.K. Zhamieva, M.K. Kusainova, M.K. Tasbulatova. Publisher: Nazarbayev Intellectual Schools (NIS) with Mektep, 2016, approved by the Ministry of Education and Science of Kazakhstan. PDF pages: 96 (24,104,612 bytes); full text layer, read in full as text. Mascot guides Negesh and Evrika. Verdict: **COMPLETE** — cover, imprint, contents, all 8 sections, glossary present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| "What people get from animals": food products and clothing materials from domestic animals; checking what you use that comes from animals (Kazakhstan — Kuznetsova et al., Grade 1, Natural Science (Russian edition), NIS/Mektep 2016) | Kazakhstan, *Kuznetsova G1 (NIS)*, printed p. 26 |
+
+**Acceptance count: taught in 30 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, animals what-animals-need-and-animals-at-work

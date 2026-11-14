@@ -1,6 +1,6 @@
 # Sources — Classification — scientific names and the seven ranks
 
-countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only), Malaysia, El Salvador, Colombia, Nepal, Jordan
+countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only), Malaysia, El Salvador, Colombia, Nepal, Jordan, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -125,3 +125,25 @@ Searchable tags: nepal, curriculum development centre, animals/scientific-names-
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals scientific-names-and-the-seven-ranks
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 6 Part 2, Natural Science, Almatykitap 2023):** Records: books.json grade-06/gov/kazakhstan/estestvoznanie/student/1285.pdf (Russian Part 2, fetched by its repo release download_url, 27,642,190 bytes, 200 PDF pages — page count matches the record) and grade-06/gov/kazakhstan/estestvoznanie/student/899.pdf (same part, second record, 200 pages). The Kazakh Part 2 is records 138/144 (1288.pdf / 898.pdf, 192 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 198–199 verified). Title as printed: Естествознание. Учебник для учащихся 6 класса общеобразовательной школы. Часть 2. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 200. Verdict: COMPLETE for Part 2. Scope line: §34 (how chemical transformations in nature affect our life, printed p. 15) is a pure Chemistry chapter inside this combined book — already covered by the Chemistry expansion wave; not placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §57 "How to determine this or that species of plant or animal" (Kazakhstan — Verkhovtseva et al., Grade 6 Part 2, Natural Science, Almatykitap 2023) | Kazakhstan, *G6 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 142 |
+| §59 "How to determine a species of plant or animal" (practical work No. 11) (Kazakhstan — Verkhovtseva et al., Grade 6 Part 2, Natural Science, Almatykitap 2023) | Kazakhstan, *G6 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 151 |
+
+**Book (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018):** Record: books.json grade-06/gov/kazakhstan/estestvoznanie/student/190.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 63's release URL, 5,441,776 bytes, 240 PDF pages — size and pages match both records). Its Russian parallel edition is record 142 (217.pdf), filed record-only above on the statement that this Kazakh book was "filed in the kz-a section" — it had not been; it is filed here, and record 142 stays cited once as its parallel edition (kz-b verified that book complete: cover, imprint and the same 60-paragraph contents). Title as printed: Жаратылыстану. Учебник для 6 класса общеобразовательной школы. Authors: Б. Ш. Әбдіманапов, С. Е. Нүркенова, А. Ұ. Әбілғазиев, Г. У. Әуезова. Publisher: «Атамұра», Almaty, 2018. ISBN (Russian edition) 978-601-331-144-9. PDF pages: 240. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, practical and laboratory works, glossary; contents at printed pp. 3–5 and 237–239 in the two language texts; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §51 "Systematics of plants" (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 192 |
+| §52 "Systematics of animals" (with the practical work on the species composition of the school grounds) (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 197 |
+
+**Acceptance count: taught in 8 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, animals scientific-names-and-the-seven-ranks

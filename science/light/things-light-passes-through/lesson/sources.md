@@ -1,6 +1,6 @@
 # Sources — Things light passes through
 
-countries: Ethiopia, Syria, Eritrea
+countries: Ethiopia, Syria, Eritrea, Kazakhstan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -47,3 +47,29 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, things
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, things light passes through
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Bigazina et al., Grade 2, Natural Science — Teacher Guide, NIS 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/teacher/1020.pdf (Russian, on_disk=true, in_pushed=true, 5,961,796 bytes — verified exact on disk in phase3-staging, 100 PDF pages; page count and size also match the TSV twin records 17). No Kazakh twin of this guide is in the target lists. Title as printed: Естествознание. Руководство для учителя. Пособие для учителя 2-го класса общеобразовательной школы. Authors: П. К. Бигазина, Т. А. Андриянова, В. Н. Беркало, Н. Ш. Каратаева, А. В. Полежаева, Г. А. Тураканова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022 (approved by the Ministry of Education of Kazakhstan). PDF pages: 100. Verdict: COMPLETE (introduction, all 34 lesson plans in 8 sections, glossary; contents printed pp. 3–4; read in full from the text layer). The guide gives lesson plans, explanations and expected answers for the NIS Grade 2 student book (records 23/72, filed separately below); all bullets are guide evidence. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 27 "Which bodies let light through" (guide evidence) (Kazakhstan — Bigazina et al., Grade 2, Natural Science — Teacher Guide, NIS 2022) | Kazakhstan, *G2 Estestvoznanie Guide (Bigazina)*, printed p. 80 |
+
+**Book (Kazakhstan — Bigazina et al., Grade 2, Natural Science, NIS 2022):** Records: TSV records 23 and 72 are the same record twice in targets-kz-a.json (grade-02/gov/kazakhstan/estestvoznanie/student/1021.pdf, 51,216,932 bytes — verified exact on disk in phase3-staging, 128 PDF pages). This book has no books.json twin in targets-kz-b.json. It is the student book for the teacher guide filed above as record 81. Title as printed: Естествознание. Учебник для 2-го класса общеобразовательных школ. Authors: П. К. Бигазина, Т. А. Андриянова, В. Н. Беркало, Н. Ш. Каратаева, А. В. Полежаева, Г. А. Тураканова. Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan, 2022. ISBN 978-601-348-372-6. PDF pages: 128. Verdict: COMPLETE (introduction, all 34 lessons in 8 sections, glossary; contents printed pp. 3–4; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, with every lesson heading verified against the contents). Mascots Negesh and Evrika, as in the NIS Grade 1 book. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 27 "Which bodies let light through" (Kazakhstan — Bigazina et al., Grade 2, Natural Science, NIS 2022) | Kazakhstan, *G2 Estestvoznanie (Bigazina)*, printed p. 100 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022):** Record: books.json grade-02/gov/kazakhstan/estestvoznanie/student/979.pdf (Russian, on_disk=true at phase3-staging; byte size and 144 PDF pages match both records; printed book 144 pp.); record 80 is its Kazakh twin 982.pdf (on disk in phase3-staging, 144 pages; cover verified by Cyrillic OCR — Көшербаева/Көдек/Тәшенова, Атамұра 2022 — the same Kazakh student book, cited once here). Title as printed: Естествознание. Учебник для 2 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: Атамұра, Almaty, 2022. ISBN 978-601-10-0049-9. Verdict: COMPLETE (introduction, all 34 lessons in 6 sections, conclusion, glossary, bibliography; contents printed pp. 141–142; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and the Animals lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lessons 28–29 "How light passes through objects" (Kazakhstan — Kucherbaeva et al., Grade 2, Natural Science, Atamura 2022) | Kazakhstan, *G2 Estestvoznanie (Kucherbaeva)*, printed p. 116 |
+
+**Acceptance count: taught in 4 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, light things-light-passes-through

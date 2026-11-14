@@ -1,6 +1,6 @@
 # Sources — The microscope — using it well, and making your own
 
-countries: Ethiopia, Samoa, Indonesia (teacher-guide evidence only), Vietnam, Libya
+countries: Ethiopia, Samoa, Indonesia (teacher-guide evidence only), Vietnam, Libya, Kazakhstan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -84,3 +84,23 @@ Placement choice, on the record: the Libya placement(s) above filed as how-livin
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body using-a-microscope-and-making-your-own
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/154.pdf (Russian, on_disk=false, in_pushed=true, 36,245,526 bytes fetched from the textbooks repo, 208 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/127.pdf (Kazakh parallel edition, 208 pages in its record). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (scanned book; cover, imprint, all 60 paragraph headings and the full contents at printed pp. 205–207 verified; printed page = PDF page). Title as printed: Естествознание. Учебник для 5 класса общеобразовательной школы. Authors: Б. Ш. Абдиманапов, А. У. Абулгазиев. Publisher: «Атамұра», Almaty, 2017. ISBN 978-601-306-720-9. PDF pages: 208. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Practical work "Making and examining a micro-preparation of onion skin" (Kazakhstan — Abdimanapov & Abulgaziev, Grade 5, Natural Science, Atamura 2017) | Kazakhstan, *G5 Estestvoznanie (Abdimanapov)*, printed p. 126 |
+
+**Book (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023):** Records: books.json grade-05/gov/kazakhstan/estestvoznanie/student/1275.pdf (Russian Part 2, on_disk=false, in_pushed=true; fetched by its repo release download_url, 30,221,690 bytes, 192 PDF pages — page count matches the record) and grade-05/gov/kazakhstan/estestvoznanie/student/906.pdf (same part, second record, 192 pages). The Kazakh Part 2 is records 118/123 (1280.pdf / 960.pdf, 184 pages). Same book in two languages — placed once from the Russian edition, read visually from 100-DPI page renders (full contents at printed pp. 189–190 verified). Title as printed: Естествознание. Учебник для учащихся 5 класса общеобразовательной школы. Часть 2. Authors: Л. А. Верховцева, О. А. Костюченко, М. В. Ушакова. Publisher: «Алматыкітап баспасы», 2023. PDF pages: 192. Verdict: COMPLETE for Part 2. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §38 "How to prepare temporary micro-preparations for study" (practical work No. 5) (Kazakhstan — Verkhovtseva et al., Grade 5 Part 2, Natural Science, Almatykitap 2023) | Kazakhstan, *G5 Estestvoznanie Pt2 (Verkhovtseva)*, printed p. 36 |
+
+**Acceptance count: taught in 5 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, the-human-body using-a-microscope-and-making-your-own

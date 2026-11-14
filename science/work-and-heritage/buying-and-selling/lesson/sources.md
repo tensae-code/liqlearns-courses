@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Buying and Selling
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Kazakhstan
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -47,3 +47,17 @@ Searchable tags: trade, buying and selling, market, traders, markets, surplus, l
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 3, grade 3
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021):** **Познание мира (Knowledge of the World)** — Grade 1, student textbook, Russian edition. Authors: B.K. Turmasheva, S.S. Salish, T.N. Miruk. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-917-9. PDF pages: 112 (31,075,326 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Verdict: **COMPLETE** — cover, imprint, contents, all 33 lessons in 8 themes, final test, glossary and source list present. Scope note: mostly social studies; only general-science parts are placed below (the state-symbols and independence lessons, Theme VI in part, are civics and are not placed). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 28 "Did people always trade?": at first people made everything themselves, then began exchanging products and harvests — barter; a good is a product made for exchange or sale; direct exchange was not always possible, so a good everyone would swap for became money — shells, fur, salt and livestock served, then gold and silver ingots and coins, then paper money and coins for small change, and today electronic money alongside paper; a week-long observation task: record in a table when your parents pay by card and when by cash (Kazakhstan — Turmasheva et al., Grade 1, Knowledge of the World (Russian edition), Atamura 2021) | Kazakhstan, *Turmasheva G1*, printed p. 86 |
+
+**Acceptance count: taught in 3 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, work-and-heritage buying-and-selling

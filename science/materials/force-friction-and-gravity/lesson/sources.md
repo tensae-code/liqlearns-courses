@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran, Kazakhstan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -464,3 +464,44 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, materials force-friction-and-gravity
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021):** **Естествознание (Natural Science)** — Grade 1, student textbook, Russian edition. Authors: S.Z. Kucherbaeva, I.S. Temnikova, G.K. Tashenova. Publisher: Atamura, Almaty, 2021. ISBN 978-601-331-914-8. PDF pages: 112 (24,363,186 bytes). Image-only scan; read visually page by page from 100-DPI contact sheets. Every lesson carries trilingual keyword boxes (Russian/Kazakh/English). Verdict: **COMPLETE** — cover, imprint, all 33 lessons, glossary, literature list and contents present. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 16 "What forces set objects moving": gravity pulls everything to Earth (the falling apple); tug-of-war teams' forces add when they pull the same way and cancel when equal (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) | Kazakhstan, *Kucherbaeva G1*, printed p. 58 |
+| Lesson 16, friction part: friction hinders movement over a surface; oiling creaking door hinges reduces it; without friction everything would slip, car wheels would spin and we could not walk; rubbing hands warms them by friction (Kazakhstan — Kucherbaeva et al., Grade 1, Natural Science (Russian edition), Atamura 2021) | Kazakhstan, *Kucherbaeva G1*, printed p. 60 |
+
+**Book (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018):** Record: books.json grade-03/gov/kazakhstan/estestvoznanie/teacher/1032.pdf (Kazakh, on_disk=false, in_pushed=true; fetched from the textbooks repo tree, 4,909,936 bytes, 176 PDF pages — page count matches the record). Title as printed: Жаратылыстану. Мұғалімге арналған нұсқаулық, 3-сынып. Authors: Т. А. Андриянова, В. Н. Беркало, Н. Ш. Жакупова, С. Н. Кузнецова, А. В. Полежаева. Publisher: Назарбаев Зияткерлік мектептері (Nazarbayev Intellectual Schools), Astana, 2018. PDF pages: 176. Verdict: COMPLETE (introduction plus all 69 lesson plans in 9 sections, contents printed pp. 3–4; read in full from the text layer). The guide gives lesson-by-lesson aims, explanations and expected answers for the NIS Grade 3 student book (records 126/127, Kazakh parts 1–2); all bullets are guide evidence. Every placement from this book is guide evidence — the guide's own lesson plans, explanations and expected answers for the student book's lessons — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forces L5 "What the friction force is" (guide evidence) (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Guide (Andriyanova)*, printed p. 132 |
+| Forces L6 "The benefit and harm of friction" (guide evidence) (Kazakhstan — Andriyanova et al., Grade 3, Natural Science — Teacher Guide (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Guide (Andriyanova)*, printed p. 134 |
+
+**Book (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018):** Records: books.json grade-03/gov/kazakhstan/estestvoznanie/student/69.pdf (Russian, on_disk=false, in_pushed=true; fetched by its repo release download_url, 8,313,379 bytes, 168 PDF pages — page count matches the record) and grade-03/gov/kazakhstan/estestvoznanie/student/991.pdf (same title, same 168 pages in its record — the same edition's second record; treated as one book, placed once). Title as printed: Естествознание. Учебник для 3 класса общеобразовательной школы. Authors: С. З. Кучербаева, И. С. Темникова, Г. К. Ташенова. Publisher: «Атамұра», Almaty, 2018. ISBN 978-601-331-096-1. PDF pages: 168. Verdict: COMPLETE (contents at the end, printed pp. 165–167, lists all 68 lessons, glossary and appendices; body read in full from the text layer, printed page = PDF page). Trilingual lesson headings (Russian/Kazakh/English) are this edition's own way of teaching. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lessons 51–52 "The friction force and where it shows itself" (Kazakhstan — Kucherbaeva et al., Grade 3, Natural Science, Atamura 2018) | Kazakhstan, *G3 Estestvoznanie (Kucherbaeva)*, printed p. 126 |
+
+**Book (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019):** Records: books.json grade-02/gov/kazakhstan/estestvoznanie/student/44.pdf (Russian, on_disk=true, in_pushed=true, 13,447,836 bytes — verified exact on disk, 92 PDF pages) and grade-02/gov/kazakhstan/estestvoznanie/student/34.pdf (Kazakh parallel edition, on_disk=true, in_pushed=true, 7,131,144 bytes — verified exact on disk, 91 PDF pages; scanned copy of the same book in Kazakh). Same book in two languages — placed once from the Russian edition, read in full from the text layer (contents printed pp. 90–91 lists all 34 lessons). Title as printed: Естествознание. Учебник для учащихся 2 класса общеобразовательной школы. Authors: Н. А. Болтушенко, В. Н. Зворыгина, Р. Ш. Избасарова, О. А. Лауто, Т. В. Помогайко, Т. Л. Яндулова. Publisher: «Алматыкітап баспасы», Almaty, 2019. PDF pages: 92. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Physics of Nature L25 "The slower you go, the further you'll get" (friction and safe movement) (Kazakhstan — Boltushenko et al., Grade 2, Natural Science, Almatykitap 2019) | Kazakhstan, *G2 Estestvoznanie (Boltushenko)*, printed p. 66 |
+
+**Book (Kazakhstan — Andriyanova et al., Grade 3 Part 2, Natural Science (Kazakh edition), NIS 2018):** Record: books.json grade-03/gov/kazakhstan/estestvoznanie/student/58.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 29's release URL, 7,717,703 bytes, 86 PDF pages — size and pages match both records). Part 2 of the same student book as record 126, for the same teacher guide (record 130). Title as printed: Жаратылыстану, 2-бөлім. Authors and publisher as Part 1, Astana, 2018. ISBN 978-601-328-322-7 (Part 2). PDF pages: 86 (printed book 88 pp.). Verdict: COMPLETE for Part 2 (all 35 lessons in 4 sections — soil and natural resources, Earth and space, forces and movement, light/sound/electricity/magnetism — plus the explanatory dictionary; contents printed pp. 2–3; image-only scan — read from Cyrillic OCR of the cover, imprint, full contents and lesson pages, every lesson heading verified against the contents). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forces L5 "What the friction force is" (Kazakhstan — Andriyanova et al., Grade 3 Part 2, Natural Science (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Pt2 (Andriyanova)*, printed p. 42 |
+| Forces L6 "The benefit and harm of friction" (Kazakhstan — Andriyanova et al., Grade 3 Part 2, Natural Science (Kazakh edition), NIS 2018) | Kazakhstan, *G3 Zharatylystanu Pt2 (Andriyanova)*, printed p. 44 |
+
+**Acceptance count: taught in 25 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials force-friction-and-gravity

@@ -1,0 +1,10 @@
+# Video script — Surveying — and drawing a plan of the ground
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+---
+
+Today: **Surveying — and drawing a plan of the ground** — Kazakhstan's way.
+
+Kazakhstan's books teach this as their own lesson — "Surveying the terrain; rules for drawing up plans". The learner works through the books' own presentation of surveying the terrain; rules for drawing up plans — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. Kazakhstan's books teach this as their own lesson — "Polar and route surveying of a terrain". The learner works through the books' own presentation of polar and route surveying of a terrain — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. Kazakhstan's books teach this as their own lesson — "How to survey and draw up a plan of the terrain". The learner works through the books' own presentation of how to survey and draw up a plan of the terrain — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. Kazakhstan's books teach this as their own lesson — "I draw up a plan of the locality". The learner works through the books' own presentation of i draw up a plan of the locality — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach. Kazakhstan's books teach this as their own lesson — "Surveying the locality. Rules for drawing up plans". The learner works through the books' own presentation of surveying the locality. Rules for drawing up plans — their text, examples, questions and tasks — at the printed pages named in Sources, and says back in their own words what those lessons teach..
+
+Now you. Say it back — in your own words.

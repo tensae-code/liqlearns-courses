@@ -1,6 +1,6 @@
 # Sources — Reading and drawing data graphs
 
-countries: Cook Islands, Sudan, Malaysia
+countries: Cook Islands, Sudan, Malaysia, Kazakhstan
 
 **Book 1:** *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition* (student book) — Cook Islands, Jacquie Bay and Delaney Yaqona; © University of Auckland, Cook Islands Ministry of Health and Cook Islands Ministry of Education, 2015; published for the Liggins Institute by Read Pacific Publishing Ltd, Auckland; ISBN 978-0-9941267-7-1. As printed: *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition, Student Book, Cook Islands Edition*. Filed as Grade 8, student book, in Cook Islands Māori and English. Record: TSV release record (EPUB asset). Fetched copy: 59,156,535 bytes, EPUB with 102 pages (printed pp. i–96). Verdict: COMPLETE — read in full from the EPUB's text (every page's content checked against the printed contents and unit map). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cook-islands-placements.md.
 
@@ -40,3 +40,17 @@ Searchable tags: sudan, sudan grade 8, science-skills/reading-and-drawing-data-g
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills reading-and-drawing-data-graphs
+
+## Kazakhstan growth (2026-11-14, General Science expansion)
+
+**Book (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018):** Record: books.json grade-06/gov/kazakhstan/estestvoznanie/student/190.pdf (Kazakh, on_disk=false, in_pushed=true; fetched by its TSV twin record 63's release URL, 5,441,776 bytes, 240 PDF pages — size and pages match both records). Its Russian parallel edition is record 142 (217.pdf), filed record-only above on the statement that this Kazakh book was "filed in the kz-a section" — it had not been; it is filed here, and record 142 stays cited once as its parallel edition (kz-b verified that book complete: cover, imprint and the same 60-paragraph contents). Title as printed: Жаратылыстану. Учебник для 6 класса общеобразовательной школы. Authors: Б. Ш. Әбдіманапов, С. Е. Нүркенова, А. Ұ. Әбілғазиев, Г. У. Әуезова. Publisher: «Атамұра», Almaty, 2018. ISBN (Russian edition) 978-601-331-144-9. PDF pages: 240. Verdict: COMPLETE (introduction, all 60 paragraphs in 7 sections, practical and laboratory works, glossary; contents at printed pp. 3–5 and 237–239 in the two language texts; read in full from the text layer). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kazakhstan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §6 "Graphical presentation of data and their analysis" (with the practical work on analysing and presenting data) (Kazakhstan — Abdimanapov et al., Grade 6, Natural Science (Kazakh edition), Atamura 2018) (placement filed as NEW LESSON NEEDED — presenting-research-data-in-tables-and-graphs; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Kazakhstan, *G6 Zharatylystanu (Abdimanapov)*, printed p. 23 |
+
+**Acceptance count: taught in 4 countries — Kazakhstan added.**
+
+Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
+
+Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, science-skills reading-and-drawing-data-graphs
