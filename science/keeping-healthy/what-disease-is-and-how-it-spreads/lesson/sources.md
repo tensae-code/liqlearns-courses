@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -319,3 +319,12 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 15 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, grade 5, grade 6, keeping-healthy what-disease-is-and-how-it-spreads
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| water-pollution diseases named in the solutions work: hepatitis, bilharzia and dysentery; safe disposal of farm waste (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 142 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Ecuador, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 7, keeping-healthy/what-disease-is-and-how-it-spreads

@@ -1,6 +1,6 @@
 # Sources — Changes — useful and harmful changes in daily life
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia, India, Uganda, Bahamas (curriculum evidence only), Moldova, Samoa, Egypt, Ecuador, Afghanistan
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia, India, Uganda, Bahamas (curriculum evidence only), Moldova, Samoa, Egypt, Ecuador, Afghanistan, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -183,3 +183,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 9 countries (Ethiopia, Mongolia, India, Uganda, Moldova, Samoa, Egypt, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, materials changes-useful-and-harmful
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5, Lesson 3: changes of materials (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 50 |
+
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5 (Materials), Lesson 1 (Physical changes): changes that alter a material's look but make no new material — grinding salt, hammering a copper wire, dissolving salt in water; the things that bring them (grinding, hammering, bending, adding water, change of warmth); and their uses in daily life: tanning animal skins into leather, spinning cotton and wool into clothes, drawing the colour out of tea with hot water, recycling plastic (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 42–43 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mongolia, India, Uganda, Moldova, Samoa, Egypt, Ecuador, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 4, grade 6, materials/changes-useful-and-harmful

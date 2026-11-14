@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -153,3 +153,18 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, materials mixtures-and-how-to-separate-them
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| mixtures (revisiting Grade 6 primary work) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 79 |
+
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2 (The mixture): a mixture is two or more materials together, each keeping its own properties — milk, juices, fizzy drinks and alloys in daily life; mixtures sorted into even mixtures that look like one material and uneven mixtures whose parts can be seen (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 53 |
+| Lesson 3 (The solution): a solution as an even mixture — the solute broken into particles spread evenly through the solvent (salt or sugar the smaller part, water the greater); and alloys as solid solutions — bronze, copper melted with zinc, used for medals and statues (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 54 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 6, grade 7, materials/mixtures-and-how-to-separate-them

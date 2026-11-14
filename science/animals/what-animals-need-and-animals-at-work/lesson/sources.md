@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -161,3 +161,17 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 9 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa, Ecuador, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals what-animals-need-and-animals-at-work
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3, Lesson 2: feeding in animals (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 30 |
+
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 3, needs of living things (air, water, food), with the two-potted-plants experiment (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 10 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 3, grade 4, animals/what-animals-need-and-animals-at-work

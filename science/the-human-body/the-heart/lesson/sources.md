@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -209,3 +209,14 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 9 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab, Cuba, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body the-heart
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 (The Human Body), Lesson 1 (The blood circulation system): the heart — a hollow muscular organ of four chambers (right and left atria above, right and left ventricles below) that pumps blood into the vessels (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 2 |
+| Lesson 1: the blood vessels — arteries carrying blood from the heart, veins bringing it back, and the fine capillaries where gases are exchanged; and what blood is made of — red cells that carry oxygen, white cells that guard the body against germs, platelets that seal wounds, and plasma (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 3 |
+| Lesson 1: the double circulation — the greater (body) circuit and the lesser (lung) circuit set out in a comparison table, and the lungs' part in the lesser circuit (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 4 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab, Cuba, Afghanistan, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 6, the-human-body/the-heart

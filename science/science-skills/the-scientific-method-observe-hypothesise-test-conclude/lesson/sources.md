@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -190,3 +190,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 9 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova, Armenia, Egypt).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills the-scientific-method-observe-hypothesise-test-conclude
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| the hypothesis need not be right; the scientific method: observe, ask, hypothesise, gather data by experiment; anyone can work as a scientist; science in the morning and after school (Sudan's own way: science in a school day) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed pp. 5–9 |
+
+**Book (Sudan — Grade 8):** Title as printed: العلوم الطبيعية «تساءل واستقص وتعلم» (Natural Sciences — "Ask, Investigate and Learn"), Second Intermediate (Grade 8). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee commissioned by the Centre (Habib Adam Habib; Dr Rashid Abdullah Ahmed Hassouna; Mai al-Daw Mohamed Youssef; Ahmed Hamad al-Neel Hasaballah). Student book, Arabic (the held copy carries the Afedne.com platform stamp). PDF 132 pages, 13,619,270 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the book has a full text layer). Verdict: COMPLETE (Units 1–6, printed pp. 1–126, through the Unit 6 assessment on the final page). Printed page = PDF page − 6. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: scientific practice and the scientific methods — scientists pick from a kit of skills (thinking, observing, predicting, investigating, modelling, measuring, analysing, concluding); the general pattern of an inquiry worked through the sealed-box investigation: observe and ask, predict, form a hypothesis (a guess at an answer resting on knowledge and observation), test it against a second box, compare the two in an observation table, conclude and revise the hypothesis when new information disagrees (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed pp. 4–9 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova, Armenia, Egypt, Sudan).**
+Searchable tags: sudan, sudan grade 7, grade 8, science-skills/the-scientific-method-observe-hypothesise-test-conclude

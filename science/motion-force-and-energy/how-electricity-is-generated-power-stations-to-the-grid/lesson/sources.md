@@ -1,6 +1,6 @@
 # Sources — How electricity is generated — power stations from source to grid
 
-countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab)
+countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab), Sudan
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -56,3 +56,12 @@ Searchable tags: gabon, super efficace, gabon grade 3, how electricity is genera
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, how-electricity-is-generated-power-stations-to-the-grid
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Part 2, Electrical energy: Lesson 1, sources of electricity — dry and liquid batteries, the generator, house electricity; batteries run the torch, radio, recorder and car (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed pp. 49–51 |
+
+**Acceptance count: taught in 5 countries (Argentina, Uzbekistan, Mozambique, Pakistan (Punjab), Sudan).**
+Searchable tags: sudan, sudan grade 3, motion-force-and-energy/how-electricity-is-generated-power-stations-to-the-grid

@@ -1,6 +1,6 @@
 # Sources — Air can be squeezed — compressing air and its spring back
 
-countries: Gabon (teacher-guide evidence only), Cuba (programme evidence only), Cabo Verde (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Cuba (programme evidence only), Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -42,3 +42,12 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 0 countries — this lesson stands on evidence only; Cabo Verde is named as teacher-guide evidence only, counted nowhere.**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, materials air-can-be-squeezed-compressing-air-and-its-spring-back
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, Lesson 3: properties of air (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 62 |
+
+**Acceptance count: taught in 1 country (Sudan).** — Sudan's student book(s) are this lesson's first counted country; the earlier rows remain evidence only, counted nowhere.
+Searchable tags: sudan, sudan grade 4, materials/air-can-be-squeezed-compressing-air-and-its-spring-back

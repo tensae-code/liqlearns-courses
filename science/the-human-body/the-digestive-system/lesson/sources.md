@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -304,3 +304,12 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 13 countries (Ethiopia, Guyana, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body the-digestive-system
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 5):** Title as printed: العلوم الطبيعية (Natural Sciences), Grade 5 Primary. Publisher: Ministry of Education, Republic of Sudan. PDF 67 pages. Verdict: COMPLETE (Units 1–7, printed pp. 1–62). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2, the digestive system: mouth and teeth cut, tear and grind; the tongue moves food (organ-and-job table) (Sudan, Grade 5) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 5*, printed p. 6 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Guyana, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 5, the-human-body/the-digestive-system

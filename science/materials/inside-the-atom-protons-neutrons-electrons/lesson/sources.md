@@ -1,6 +1,6 @@
 # Sources — Inside the atom — protons, neutrons, electrons
 
-countries: Ethiopia, Haiti (programme evidence only), Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab), Samoa
+countries: Ethiopia, Haiti (programme evidence only), Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab), Samoa, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia, Federal Ministry of Education new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C.; no bureau, publisher or publication year is printed anywhere in the file. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. PDF 141 pp. Printed page = PDF page (1:1). COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
@@ -65,3 +65,12 @@ Searchable tags: pakistan, punjab, general science, inside-the-atom-protons-neut
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, materials inside the atom protons neutrons electrons
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| structure of matter: the water molecule from hydrogen and oxygen atoms; the atom; electron, proton and neutron counts for carbon, helium, hydrogen (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed pp. 80–83 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab, Samoa, Sudan).**
+Searchable tags: sudan, sudan grade 7, materials/inside-the-atom-protons-neutrons-electrons

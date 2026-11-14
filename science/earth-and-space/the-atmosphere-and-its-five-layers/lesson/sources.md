@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -169,3 +169,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 8 countries (Iraq, Cuba, Italy, India, Armenia, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, the-atmosphere-and-its-five-layers
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, Lesson 2: the gases that make up the air (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 59 |
+
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| erosion of the ozone layer: ozone as a layer high in the atmosphere and why it matters to Earth (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 140 |
+
+**Acceptance count: taught in 9 countries (Iraq, Cuba, Italy, India, Armenia, Egypt, Cambodia, Ecuador, Sudan).**
+Searchable tags: sudan, sudan grade 4, grade 7, earth-and-space/the-atmosphere-and-its-five-layers

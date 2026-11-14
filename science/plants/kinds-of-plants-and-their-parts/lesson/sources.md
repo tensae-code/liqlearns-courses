@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -379,3 +379,23 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 15 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, plants kinds-of-plants-and-their-parts
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 (Plants), Lesson 1: parts of the plant (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 16 |
+| Unit 2, Lesson 2: the jobs of the plant's parts (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 18 |
+
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 12, plants: small plants (grasses, herbs) and large plants (trees, shrubs) (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 24 |
+
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 (Reproduction and growth in flowering plants), Lesson 1 (Flowering plants): the flower and what it is built of — stalk, receptacle, the outer whorls (calyx of green sepals guarding the flower; corolla of large scented coloured petals that draw insects) and the inner whorls (the stamens, the male parts, whose anthers make pollen; the carpel, the female part — ovary, style and stigma) (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 11–12 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 3, grade 4, grade 6, plants/kinds-of-plants-and-their-parts

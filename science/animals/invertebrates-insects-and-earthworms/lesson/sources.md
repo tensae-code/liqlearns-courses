@@ -1,6 +1,6 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -253,3 +253,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 11 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Mongolia, Uganda, Bulgaria, Pakistan (Punjab), Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals invertebrates-insects-and-earthworms
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5, Invertebrate Animals (printed pp. 99–120): the invertebrate groups — placed as the unit's general-science home; species detail beyond grouping is Biology-wave content (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 99 |
+
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 5: insect life cycles — the grasshopper's incomplete change (egg, wingless nymph, winged nymph, complete insect, about forty-five days as a nymph) against the housefly's complete change (egg, larva, pupa, complete fly; about 150 eggs laid on dung heaps and the wastes of animals and humans), the two cycles compared in a table (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 26–27 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Mongolia, Uganda, Bulgaria, Pakistan (Punjab), Ecuador, Sudan).**
+Searchable tags: sudan, sudan grade 6, grade 7, animals/invertebrates-insects-and-earthworms

@@ -1,6 +1,6 @@
 # Sources — Light and dark: what light is
 
-countries: Ethiopia, Mongolia, Moldova, United States
+countries: Ethiopia, Mongolia, Moldova, United States, Sudan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -54,3 +54,12 @@ Searchable tags: moldova, light and dark, stiinte, sciences, grade 5
 **Acceptance count: taught in 3 countries (Mongolia, Moldova, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, light and dark
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Part 1, Light energy: Lesson 1, what light is — light as a form of energy (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 44 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Moldova, United States, Sudan).**
+Searchable tags: sudan, sudan grade 3, light/light-and-dark

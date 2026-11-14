@@ -1,6 +1,6 @@
 # Sources — Measuring: units of mass, length and time
 
-countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde
+countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -81,3 +81,12 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Costa Rica, Uganda, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills units-of-mass-length-and-time
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| measurement: units of measurement; estimating length; the metric unit table (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed pp. 11–16 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Costa Rica, Uganda, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 7, science-skills/units-of-mass-length-and-time

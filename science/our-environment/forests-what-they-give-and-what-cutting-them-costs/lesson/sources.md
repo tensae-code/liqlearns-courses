@@ -1,6 +1,6 @@
 # Sources — Forests — what they give and what cutting them costs
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia
+countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -96,3 +96,17 @@ Searchable tags: gabon, super efficace, gabon grade 4, forests what they give an
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, forests what they give and what cutting them costs
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 12):** Title as printed: الجغرافيا (Geography), third secondary grade — the الجغرافيا والدراسات البيئية (Geography and Environmental Studies) course book. Publisher: Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research. ISBN 978-99942-53-4-3. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 8,811,675 bytes (= the books.json record's recorded file size, byte for byte), PDF 230 pages (= record pages). Staged at phase3-staging/grade-12/gov/sudan/geography/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE as a book (contents PDF pp. 6–8, three chapters, questions through the final pages). Scope verdict: a Geography book, not a general-science book — Chapters 1 (reading aerial and space photographs, map work) and 2 (economic geography) are geography and are NOT placed, except the remote-sensing line below; only Chapter 3 (Man and the environment — the environmental-studies half of the course) is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 3: forests (Sudan, Grade 12) | Sudan, *الجغرافيا والدراسات البيئية (Geography and Environmental Studies)*, printed p. 172 |
+
+**Book (Sudan — Grade 8):** Title as printed: العلوم الطبيعية «تساءل واستقص وتعلم» (Natural Sciences — "Ask, Investigate and Learn"), Second Intermediate (Grade 8). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee commissioned by the Centre (Habib Adam Habib; Dr Rashid Abdullah Ahmed Hassouna; Mai al-Daw Mohamed Youssef; Ahmed Hamad al-Neel Hasaballah). Student book, Arabic (the held copy carries the Afedne.com platform stamp). PDF 132 pages, 13,619,270 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the book has a full text layer). Verdict: COMPLETE (Units 1–6, printed pp. 1–126, through the Unit 6 assessment on the final page). Printed page = PDF page − 6. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| deforestation: what forests give (they store carbon, taking in carbon dioxide and so lessening global warming; timber, fuel and medicines for humans) and why they are cleared, farming being the greatest driver (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed p. 122 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Micronesia, India, Cambodia, Sudan).**
+Searchable tags: sudan, sudan grade 12, grade 8, our-environment/forests-what-they-give-and-what-cutting-them-costs

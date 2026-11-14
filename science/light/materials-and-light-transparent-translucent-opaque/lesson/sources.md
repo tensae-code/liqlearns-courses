@@ -1,6 +1,6 @@
 # Sources — Materials and light — transparent, translucent, opaque
 
-countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab), Ecuador
+countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab), Ecuador, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -98,3 +98,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 7 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States, Pakistan (Punjab), Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, materials-and-light-transparent-translucent-opaque
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| transparent and opaque bodies: seeing objects through different materials (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 46 |
+
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7 (Light), Lesson 1 (The nature and spread of light): sorting materials by the light they let through — transparent (glass), half-transparent and opaque; bodies that shine by themselves (the Sun) against bodies lit by others (the Moon, lit by reflected sunlight) (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 61 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States, Pakistan (Punjab), Ecuador, Sudan).**
+Searchable tags: sudan, sudan grade 3, grade 6, light/materials-and-light-transparent-translucent-opaque

@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -97,3 +97,12 @@ Searchable tags: echo, reflection of sound, 0.1 second, echolocation, sonar, ult
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, sound echoes-at-work-echolocation-and-ultrasound
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7, Lesson 5: the echo (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 78 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt, Sudan).**
+Searchable tags: sudan, sudan grade 4, sound/echoes-at-work-echolocation-and-ultrasound

@@ -1,6 +1,6 @@
 # Sources — What science is — evidence, inference and tentative knowledge
 
-countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only), Cabo Verde
+countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only), Cabo Verde, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -175,3 +175,18 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills what-science-is
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1, Science and Measurement: science and its processes — science describes natural phenomena and proposes explanations; inference from experience (the lost-pencil search) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 3 |
+
+**Book (Sudan — Grade 8):** Title as printed: العلوم الطبيعية «تساءل واستقص وتعلم» (Natural Sciences — "Ask, Investigate and Learn"), Second Intermediate (Grade 8). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee commissioned by the Centre (Habib Adam Habib; Dr Rashid Abdullah Ahmed Hassouna; Mai al-Daw Mohamed Youssef; Ahmed Hamad al-Neel Hasaballah). Student book, Arabic (the held copy carries the Afedne.com platform stamp). PDF 132 pages, 13,619,270 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the book has a full text layer). Verdict: COMPLETE (Units 1–6, printed pp. 1–126, through the Unit 6 assessment on the final page). Printed page = PDF page − 6. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 (The Nature of Science): science and its processes — science describes the phenomena of the natural world and proposes explanations for them, working by observation, hypotheses, experiments, analysis of results and conclusion (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed p. 1 |
+| Unit 1: the questions science cannot answer — questions of art, politics, personal taste and morals lie outside science; and why science's answers are never final: they rest on the information available at the time and change when new information comes (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed p. 3 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 7, grade 8, science-skills/what-science-is

@@ -1,6 +1,6 @@
 # Sources — The Earth — four spheres, one system
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -144,3 +144,12 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 8 countries (Ethiopia, Nauru, Tuvalu, Niue, United States, Cuba, Egypt, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, the-earths-four-spheres
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 9):** Title as printed: العلوم الطبيعية (Natural Sciences), third grade of the intermediate stage (Grade 9). Prepared by a committee commissioned by the National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا), Ministry of Education, Republic of Sudan. First edition (الطبعة الأولى; the edition year line on the imprint page is partly illegible in the scan — the wave record gives 2021). Student book, Arabic. (The wave target list names this book "Science and Technology"; the printed title, cover and preface all read Natural Sciences.) Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 39,415,536 bytes, PDF 192 pages (= the books.json record's 192 pages). Staged at phase3-staging/grade-09/gov/sudan/science/student/full-year.pdf. The book is image-only (a CamScanner scan, no text layer); read in full by rendering every page at 100–150 DPI and OCR (Arabic + English). Printed page = PDF page − 4. Verdict: COMPLETE — all seven units read through the final unit assessment (printed p. 182); PDF pp. 187–192 are blank endpapers carrying only the scanner watermark. Scope applied: only the general/integrated parts are placed item by item (Unit 1, Scientific models, and Unit 7, Earth). The five pure-subject units get one chapter line each. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7 (Earth): the Earth's envelopes — the outer spheres (atmosphere, hydrosphere, biosphere) and the inner rocky sphere (the crust) (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 160 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Niue, United States, Cuba, Egypt, Ecuador, Sudan).**
+Searchable tags: sudan, sudan grade 9, earth-and-space/the-earths-four-spheres

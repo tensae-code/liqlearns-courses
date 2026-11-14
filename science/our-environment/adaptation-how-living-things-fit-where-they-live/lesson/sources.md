@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -87,3 +87,14 @@ Placement choice, on the record: the Cuba placement(s) above were filed as "NEW 
 **Acceptance count: taught in 4 countries (Mongolia, Greece, United States, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, adaptation how living things fit where they live
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4 (Environments of living things), Lesson 1: how living things are fitted to live on land (placement slug as filed: NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the existing lesson covering this thing) (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 37 |
+| Unit 4, Lesson 2: how living things are fitted to live in water (placement slug as filed: NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the existing lesson covering this thing) (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 40 |
+
+Placement choice, on the record: the Sudan placement(s) above filed as "NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live" stock into this existing lesson, which already covers that thing as its own lesson (built earlier in this wave / earlier in the course) — checked the live repo at merge time; no second lesson is built, and the original slug is recorded in each row above.
+**Acceptance count: taught in 5 countries (Mongolia, Greece, United States, Cuba, Sudan).**
+Searchable tags: sudan, sudan grade 4, our-environment/adaptation-how-living-things-fit-where-they-live

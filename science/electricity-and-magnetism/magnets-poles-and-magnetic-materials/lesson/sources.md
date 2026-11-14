@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States, Egypt, Cabo Verde
+countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States, Egypt, Cabo Verde, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -267,3 +267,12 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 22 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Samoa, Egypt, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, electricity-and-magnetism magnets-poles-and-magnetic-materials
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 5):** Title as printed: العلوم الطبيعية (Natural Sciences), Grade 5 Primary. Publisher: Ministry of Education, Republic of Sudan. PDF 67 pages. Verdict: COMPLETE (Units 1–7, printed pp. 1–62). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7, The Magnet: Lesson 1, the natural magnet; Lesson 2, magnets and magnetic materials; Lesson 3, properties of the magnet (Sudan, Grade 5) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 5*, printed pp. 57–62 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Samoa, Egypt, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 5, electricity-and-magnetism/magnets-poles-and-magnetic-materials

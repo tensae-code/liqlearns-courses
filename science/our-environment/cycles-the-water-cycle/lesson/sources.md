@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -370,3 +370,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 18 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, our-environment cycles-the-water-cycle
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 5):** Title as printed: العلوم الطبيعية (Natural Sciences), Grade 5 Primary. Publisher: Ministry of Education, Republic of Sudan. PDF 67 pages. Verdict: COMPLETE (Units 1–7, printed pp. 1–62). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 5, the water cycle in nature (Sudan, Grade 5) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 5*, printed p. 36 |
+
+**Book (Sudan — Grade 8):** Title as printed: العلوم الطبيعية «تساءل واستقص وتعلم» (Natural Sciences — "Ask, Investigate and Learn"), Second Intermediate (Grade 8). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee commissioned by the Centre (Habib Adam Habib; Dr Rashid Abdullah Ahmed Hassouna; Mai al-Daw Mohamed Youssef; Ahmed Hamad al-Neel Hasaballah). Student book, Arabic (the held copy carries the Afedne.com platform stamp). PDF 132 pages, 13,619,270 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the book has a full text layer). Verdict: COMPLETE (Units 1–6, printed pp. 1–126, through the Unit 6 assessment on the final page). Printed page = PDF page − 6. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| the water cycle: how rain drops form (the kettle-and-lid inquiry); water moving between oceans, atmosphere, land and living things — evaporation by the sun's heat, condensation back to liquid, precipitation; and why water matters to life (it enters the build of living bodies and carries nutrients and wastes within them) (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed pp. 111–113 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 5, grade 8, our-environment/cycles-the-water-cycle

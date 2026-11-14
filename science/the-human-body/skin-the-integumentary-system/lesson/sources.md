@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -69,3 +69,12 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 3 countries (Ethiopia, Moldova, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body skin-the-integumentary-system
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2: the skin as an excretory organ — its two layers (epidermis outside, dermis inside), its jobs (throwing out sweat with its salts, which cools the body in summer; guarding the inner parts from germs, sun and dust; feeling heat, cold, smoothness and roughness), and caring for it (shade from the sun, daily washing with water and soap, good food, no playing with sharp or dirty tools, a doctor for wounds and burns) (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 7–8 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Cabo Verde, Sudan).**
+Searchable tags: sudan, sudan grade 6, the-human-body/skin-the-integumentary-system

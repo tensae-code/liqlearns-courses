@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -151,3 +151,12 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 6 countries (Ethiopia, Uganda, Finland, Bulgaria, Moldova, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, materials density-why-things-sink-or-float
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| measuring matter: density as mass in a unit volume; how we measure mass and weight (spring balance) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed pp. 20–21 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Finland, Bulgaria, Moldova, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 7, materials/density-why-things-sink-or-float

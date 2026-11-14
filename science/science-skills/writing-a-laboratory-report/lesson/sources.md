@@ -1,6 +1,6 @@
 # Sources — Writing a laboratory report
 
-countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 1:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp. Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -61,3 +61,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 3 countries (Bhutan, Cook Islands, Australia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills writing-a-laboratory-report
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| science and scientific writing: write a scientific report on the harms of water pollution (unit task) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 143 |
+
+**Book (Sudan — Grade 8):** Title as printed: العلوم الطبيعية «تساءل واستقص وتعلم» (Natural Sciences — "Ask, Investigate and Learn"), Second Intermediate (Grade 8). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee commissioned by the Centre (Habib Adam Habib; Dr Rashid Abdullah Ahmed Hassouna; Mai al-Daw Mohamed Youssef; Ahmed Hamad al-Neel Hasaballah). Student book, Arabic (the held copy carries the Afedne.com platform stamp). PDF 132 pages, 13,619,270 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the book has a full text layer). Verdict: COMPLETE (Units 1–6, printed pp. 1–126, through the Unit 6 assessment on the final page). Printed page = PDF page − 6. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, science and scientific writing: write a scientific report showing the effect of desertification on human life (unit task set inside the desertification lesson) (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed p. 121 |
+
+**Acceptance count: taught in 4 countries (Bhutan, Cook Islands, Australia, Sudan).**
+Searchable tags: sudan, sudan grade 7, grade 8, science-skills/writing-a-laboratory-report

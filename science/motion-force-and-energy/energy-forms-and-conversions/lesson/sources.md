@@ -474,3 +474,12 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 27 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, motion-force-and-energy energy-forms-and-conversions
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3, Energy: what energy is; forms of energy — kinetic, potential, magnetic, electric, light, sound (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed pp. 42–43 |
+
+**Acceptance count unchanged: taught in 27 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan).** Sudan is already counted in this lesson through its earlier books stocked by the earlier waves; the Sudan rows above add these books' provenance, counted once.
+Searchable tags: sudan, sudan grade 3, motion-force-and-energy/energy-forms-and-conversions

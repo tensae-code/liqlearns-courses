@@ -173,3 +173,12 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 9 countries (Ethiopia, Sudan, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab), Egypt, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, describing-things
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2, properties of materials: describing things with the senses — shape, size and colour by eye, texture by hand (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 33 |
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Sudan, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab), Egypt, Ecuador).** Sudan is already counted in this lesson through its earlier books stocked by the earlier waves; the Sudan rows above add these books' provenance, counted once.
+Searchable tags: sudan, sudan grade 3, materials/describing-things

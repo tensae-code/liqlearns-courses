@@ -1,6 +1,6 @@
 # Sources — Refraction — why the spoon looks broken
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India, Gabon (teacher-guide evidence only), Egypt
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India, Gabon (teacher-guide evidence only), Egypt, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -82,3 +82,12 @@ Searchable tags: gabon, super efficace, gabon grade 5, refraction why the spoon 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, light refraction-why-the-spoon-looks-broken
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2: refraction — the pencil standing in a glass of water looks broken, because the light coming from its underwater part bends as it crosses into the air; with the book's note on Ibn al-Haytham, the first Arab scholar to explain that we see things by the light reflected from them into the eye (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 66–67 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India, Egypt, Sudan).**
+Searchable tags: sudan, sudan grade 6, light/refraction-why-the-spoon-looks-broken

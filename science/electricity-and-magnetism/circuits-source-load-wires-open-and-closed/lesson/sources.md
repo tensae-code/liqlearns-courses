@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -288,3 +288,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 17 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Samoa, Egypt, Cambodia, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, electricity-and-magnetism circuits-source-load-wires-open-and-closed
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2, the electric circuit: how electricity flows in wires; closed and open circuits; the electric switch opening and closing the home lamp (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed pp. 52–54 |
+
+**Book (Sudan — Grade 5):** Title as printed: العلوم الطبيعية (Natural Sciences), Grade 5 Primary. Publisher: Ministry of Education, Republic of Sudan. PDF 67 pages. Verdict: COMPLETE (Units 1–7, printed pp. 1–62). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, Electricity: Lesson 4, current electricity; Lesson 5, open and closed electric circuits (Sudan, Grade 5) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 5*, printed pp. 53–54 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Samoa, Egypt, Cambodia, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 3, grade 5, electricity-and-magnetism/circuits-source-load-wires-open-and-closed

@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -150,3 +150,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 6 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, materials materials-around-us-metal-wood-and-what-things-are-made-of
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5, Lesson 4: using materials (Sudan, Grade 4) | Sudan, *العلوم الطبيعية ٤ (Natural Sciences 4)*, printed p. 53 |
+
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2, Matter/Materials: Lesson 1, matter — things around us are made of different materials (wood, plastic, glass, clay); clothes from fabric (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 31 |
+
+**Acceptance count: taught in 7 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 3, grade 4, materials/materials-around-us-metal-wood-and-what-things-are-made-of

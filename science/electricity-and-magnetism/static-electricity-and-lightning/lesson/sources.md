@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan
+countries: Pakistan (Punjab), Afghanistan, Sudan
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -28,3 +28,13 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 2 countries (Pakistan (Punjab), Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, electricity-and-magnetism static-electricity-and-lightning
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 5):** Title as printed: العلوم الطبيعية (Natural Sciences), Grade 5 Primary. Publisher: Ministry of Education, Republic of Sudan. PDF 67 pages. Verdict: COMPLETE (Units 1–7, printed pp. 1–62). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 1, static electricity; Lesson 2, lightning and thunderbolts; Lesson 3, uses of static electricity (placement slug as filed: NEW LESSON NEEDED — static-electricity-and-lightning — stocked into this lesson, electricity-and-magnetism/static-electricity-and-lightning, as the existing lesson covering this thing) (Sudan, Grade 5) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 5*, printed pp. 47–52 |
+
+Placement choice, on the record: the Sudan placement(s) above filed as "NEW LESSON NEEDED — static-electricity-and-lightning" stock into this existing lesson, which already covers that thing as its own lesson (built earlier in this wave / earlier in the course) — checked the live repo at merge time; no second lesson is built, and the original slug is recorded in each row above.
+**Acceptance count: taught in 3 countries (Pakistan (Punjab), Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 5, electricity-and-magnetism/static-electricity-and-lightning

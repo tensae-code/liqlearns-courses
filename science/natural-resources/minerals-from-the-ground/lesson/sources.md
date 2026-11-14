@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -171,3 +171,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 10 countries (Ethiopia, Italy, Costa Rica, Greece, United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, natural-resources minerals-from-the-ground
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 12):** Title as printed: الجغرافيا (Geography), third secondary grade — the الجغرافيا والدراسات البيئية (Geography and Environmental Studies) course book. Publisher: Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research. ISBN 978-99942-53-4-3. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 8,811,675 bytes (= the books.json record's recorded file size, byte for byte), PDF 230 pages (= record pages). Staged at phase3-staging/grade-12/gov/sudan/geography/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE as a book (contents PDF pp. 6–8, three chapters, questions through the final pages). Scope verdict: a Geography book, not a general-science book — Chapters 1 (reading aerial and space photographs, map work) and 2 (economic geography) are geography and are NOT placed, except the remote-sensing line below; only Chapter 3 (Man and the environment — the environmental-studies half of the course) is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 3: minerals and mineral fuels; the seas (Sudan, Grade 12) | Sudan, *الجغرافيا والدراسات البيئية (Geography and Environmental Studies)*, printed p. 179 |
+
+**Book (Sudan — Grade 9):** Title as printed: العلوم الطبيعية (Natural Sciences), third grade of the intermediate stage (Grade 9). Prepared by a committee commissioned by the National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا), Ministry of Education, Republic of Sudan. First edition (الطبعة الأولى; the edition year line on the imprint page is partly illegible in the scan — the wave record gives 2021). Student book, Arabic. (The wave target list names this book "Science and Technology"; the printed title, cover and preface all read Natural Sciences.) Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 39,415,536 bytes, PDF 192 pages (= the books.json record's 192 pages). Staged at phase3-staging/grade-09/gov/sudan/science/student/full-year.pdf. The book is image-only (a CamScanner scan, no text layer); read in full by rendering every page at 100–150 DPI and OCR (Arabic + English). Printed page = PDF page − 4. Verdict: COMPLETE — all seven units read through the final unit assessment (printed p. 182); PDF pp. 187–192 are blank endpapers carrying only the scanner watermark. Scope applied: only the general/integrated parts are placed item by item (Unit 1, Scientific models, and Unit 7, Earth). The five pure-subject units get one chapter line each. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: minerals — natural materials with a definite chemical make-up, the building blocks of rocks (granite is made of several minerals) (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 162 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Italy, Costa Rica, Greece, United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 12, grade 9, natural-resources/minerals-from-the-ground

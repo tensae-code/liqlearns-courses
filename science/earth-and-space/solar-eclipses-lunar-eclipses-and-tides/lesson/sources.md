@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -135,3 +135,12 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 8 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, solar-eclipses-lunar-eclipses-and-tides
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 3 (Eclipse and eclipse): the lunar eclipse — Earth passes between Sun and Moon and its shadow falls on the Moon; the solar eclipse — the Moon passes between Sun and Earth, total when it hides the Sun's disc wholly, partial when it hides part, and rare and brief because the Moon's shadow covers only a small patch of Earth; pupils build the model themselves (two balls of different sizes and a hand lamp) and learn the safety rule — never look at the Sun directly, in ordinary times or during an eclipse; scientists use special instruments to watch it safely (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 80–81 |
+
+**Acceptance count: taught in 9 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan).**
+Searchable tags: sudan, sudan grade 6, earth-and-space/solar-eclipses-lunar-eclipses-and-tides

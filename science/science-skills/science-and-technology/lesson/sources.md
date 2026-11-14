@@ -1,6 +1,6 @@
 # Sources — Science and technology — how they differ and feed each other
 
-countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt
+countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -113,3 +113,12 @@ Searchable tags: moldova, science and technology, stiinte, sciences, grade 5
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, science-skills science-and-technology
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 8):** Title as printed: العلوم الطبيعية «تساءل واستقص وتعلم» (Natural Sciences — "Ask, Investigate and Learn"), Second Intermediate (Grade 8). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee commissioned by the Centre (Habib Adam Habib; Dr Rashid Abdullah Ahmed Hassouna; Mai al-Daw Mohamed Youssef; Ahmed Hamad al-Neel Hasaballah). Student book, Arabic (the held copy carries the Afedne.com platform stamp). PDF 132 pages, 13,619,270 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the book has a full text layer). Verdict: COMPLETE (Units 1–6, printed pp. 1–126, through the Unit 6 assessment on the final page). Printed page = PDF page − 6. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: science and technology — the pair set side by side in a table (studying how sunlight's energy behaves, then using that knowledge to build solar panels; studying light in thin glass fibres, then optical fibres carrying information), and sorting statements into science or technology (the Japanese scientist studying the kingfisher's long pointed beak to cut the drag on a train) (Sudan, Grade 8) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 8 — Second Intermediate*, printed pp. 15–16 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cook Islands, Suriname, Costa Rica, Uganda, Moldova, Egypt, Sudan).**
+Searchable tags: sudan, sudan grade 8, science-skills/science-and-technology

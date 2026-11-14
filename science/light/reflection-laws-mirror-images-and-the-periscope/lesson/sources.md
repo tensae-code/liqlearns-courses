@@ -1,6 +1,6 @@
 # Sources — Reflection — laws, mirror images and the periscope
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -151,3 +151,12 @@ Searchable tags: india, ncert, class vii, class viii, class x, reflection-laws-m
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, light reflection-laws-mirror-images-and-the-periscope
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2 (Reflection and refraction of light): reflection — light bouncing off a flat mirror at the same angle, giving a picture, against scattered reflection off rough surfaces (cardboard, wood) that gives none (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed pp. 64–65 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Fiji, United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Guyana, Mongolia, India, Egypt, Sudan).**
+Searchable tags: sudan, sudan grade 6, light/reflection-laws-mirror-images-and-the-periscope

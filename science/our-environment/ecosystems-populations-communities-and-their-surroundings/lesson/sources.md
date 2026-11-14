@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -459,3 +459,23 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 20 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, India, Bulgaria, Greece, United States, Pakistan (Punjab), Cuba, Samoa, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, ecosystems-populations-communities-and-their-surroundings
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 12):** Title as printed: الجغرافيا (Geography), third secondary grade — the الجغرافيا والدراسات البيئية (Geography and Environmental Studies) course book. Publisher: Republic of Sudan, Ministry of General Education, National Centre for Curricula and Educational Research. ISBN 978-99942-53-4-3. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 8,811,675 bytes (= the books.json record's recorded file size, byte for byte), PDF 230 pages (= record pages). Staged at phase3-staging/grade-12/gov/sudan/geography/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE as a book (contents PDF pp. 6–8, three chapters, questions through the final pages). Scope verdict: a Geography book, not a general-science book — Chapters 1 (reading aerial and space photographs, map work) and 2 (economic geography) are geography and are NOT placed, except the remote-sensing line below; only Chapter 3 (Man and the environment — the environmental-studies half of the course) is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter 3 (Man and the environment): man and the environment, and ecological balance (Sudan, Grade 12) | Sudan, *الجغرافيا والدراسات البيئية (Geography and Environmental Studies)*, printed p. 144 |
+
+**Book (Sudan — Grade 3):** Title as printed: العلوم (Science), Grade 3 Primary. Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 59 pages. Verdict: COMPLETE (Units 1–3, printed pp. 2–54). Printed page = PDF page − 4. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 4, homes of living things: how plants and animals live in the desert; the forest; water homes (Sudan's own way: desert, forest and water habitats) (Sudan, Grade 3) | Sudan, *العلوم (Science), Grade 3*, printed p. 13 |
+
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, Living Things and Their Environments: the environment of living things; the web of life linking all living things; organisation in the environment; population defined (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed pp. 121–126 |
+| the ecosystem: all living and non-living factors in an area (river, forest, sea) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed p. 127 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, India, Bulgaria, Greece, United States, Pakistan (Punjab), Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan).**
+Searchable tags: sudan, sudan grade 12, grade 3, grade 7, our-environment/ecosystems-populations-communities-and-their-surroundings

@@ -1,6 +1,6 @@
 # Sources — Animals — fish
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -132,3 +132,12 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 7 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals animals-fish
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 (Reproduction and growth in animals), Lesson 1: growth against reproduction (growth is increase in the living thing's mass and size; reproduction is increase in its numbers; a life cycle is the series of growth stages to maturity) and the life cycle of the tilapia fish — eggs fertilised in the water, the female gathering the fertilised eggs into her mouth and guarding them in her gills until they hatch (Sudan, Grade 6) | Sudan, *العلوم (Science), Grade 6*, printed p. 22 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Sudan).**
+Searchable tags: sudan, sudan grade 6, animals/animals-fish

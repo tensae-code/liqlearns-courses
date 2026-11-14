@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -178,3 +178,12 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 8 countries (Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, materials elements-compounds-and-mixtures
+
+## Sudan growth (2026-11-14, General Science expansion)
+**Book (Sudan — Grade 7):** Title as printed: العلوم الطبيعية (Natural Sciences), First Intermediate (Grade 7). Publisher: Ministry of Education, National Centre for Curricula and Educational Research, Republic of Sudan. PDF 152 pages. Verdict: COMPLETE (Units 1–6, printed pp. 1–147). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+| Lesson part | Where it comes from |
+|---|---|
+| the elements: everything is made of basic elements; an element is made of molecules and atoms of one kind; classifying elements into metals (iron, copper, aluminium — malleable, shiny, conducting) and non-metals (sulphur, carbon) (Sudan, Grade 7) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 7 — First Intermediate*, printed pp. 64–71 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Ecuador, Afghanistan, Sudan).**
+Searchable tags: sudan, sudan grade 7, materials/elements-compounds-and-mixtures

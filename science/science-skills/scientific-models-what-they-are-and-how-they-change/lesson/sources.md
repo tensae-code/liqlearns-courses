@@ -1,0 +1,19 @@
+# Sources — Scientific models — what they are and how they change
+
+countries: Sudan
+
+**Book (Sudan — Grade 9):** Title as printed: العلوم الطبيعية (Natural Sciences), third grade of the intermediate stage (Grade 9). Prepared by a committee commissioned by the National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا), Ministry of Education, Republic of Sudan. First edition (الطبعة الأولى; the edition year line on the imprint page is partly illegible in the scan — the wave record gives 2021). Student book, Arabic. (The wave target list names this book "Science and Technology"; the printed title, cover and preface all read Natural Sciences.) Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 39,415,536 bytes, PDF 192 pages (= the books.json record's 192 pages). Staged at phase3-staging/grade-09/gov/sudan/science/student/full-year.pdf. The book is image-only (a CamScanner scan, no text layer); read in full by rendering every page at 100–150 DPI and OCR (Arabic + English). Printed page = PDF page − 4. Verdict: COMPLETE — all seven units read through the final unit assessment (printed p. 182); PDF pp. 187–192 are blank endpapers carrying only the scanner watermark. Scope applied: only the general/integrated parts are placed item by item (Unit 1, Scientific models, and Unit 7, Earth). The five pure-subject units get one chapter line each. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 (Scientific models): what a scientific model is — a representation of a thing or event that helps us understand the world; the three kinds of model: physical models, computer models and mental (conceptual) models (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 2 |
+| Unit 1: making models — the more information a scientist gathers, the more accurate the model (taught through the sketch artist drawing from a witness's description) (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 4 |
+| Unit 1: using models to communicate ideas — maps, drawings, recipes and the globe as everyday models (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 5 |
+| Unit 1: using models to test predictions and hypotheses (the closed-box experiment, engineers' wind tunnels) and to save time, money and lives (crash-test dummies, NASA's astronaut-training aircraft) (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 6 |
+| Unit 1: the limits of models — models are not perfect and change when new information arrives, told through the solar-system model changing from Earth-centred to Sun-centred (Sudan, Grade 9) | Sudan, *العلوم الطبيعية (Natural Sciences), Grade 9*, printed p. 7 |
+
+**Acceptance count: taught in 1 country (Sudan).**
+
+Placement choice, on the record: this NEW LESSON was built for the Sudan placement(s) "NEW LESSON NEEDED — scientific-models-what-they-are-and-how-they-change" — sudan-placements.md (5 placement bullet(s)). No existing general-science lesson covers this thing as its own lesson (checked the live repo at merge time — near lessons in other titles are different things or different depths, as noted in the merge log), so it gets its own lesson. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills). Sudan's own way — as described in the placement(s), carried in the rows above — IS part of this lesson's content.
+
+Searchable tags: sudan, scientific models what they are and how they change, science-skills/scientific-models-what-they-are-and-how-they-change
