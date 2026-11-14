@@ -1,6 +1,6 @@
 # Sources — Ones that come back and ones that finish
 
-countries: Ethiopia, Bulgaria, Greece
+countries: Ethiopia, Bulgaria, Greece, United States
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -63,3 +63,15 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 **Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, Greece).**
 
 Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 8):** *Utah OER Science Textbook – Grade 8* (student book) — United States. Title as printed: "8th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 75,572,977 bytes (matches repo size), 208 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 8.4.2 Renewable and Nonrenewable Resources: argue from evidence about the effect of per-capita consumption of natural resources on Earth's systems (United States, Grade 8) | United States, *Utah G8*, printed p. 153 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, Greece, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, ones that come back and ones that finish

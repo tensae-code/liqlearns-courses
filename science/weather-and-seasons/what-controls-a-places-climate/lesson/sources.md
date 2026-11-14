@@ -1,6 +1,6 @@
 # Sources — What controls a place's climate
 
-countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia
+countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -76,3 +76,15 @@ Searchable tags: micronesia, pcep, irei, prel, pacific islands, what controls a 
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, what controls a places climate, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.3.3 Climate: unequal heating of Earth drives atmospheric and oceanic circulation patterns that determine regional climates (United States, Grade 6) | United States, *Utah G6*, printed p. 110 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Italy, Micronesia, Mongolia, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, what controls a places climate

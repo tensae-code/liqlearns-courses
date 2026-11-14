@@ -314,3 +314,16 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 5, energy forms and conversions
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.2.2 Collisions: when objects collide, energy is transferred and may change form (speed changes, sound, heat) (United States, Grade 4) | United States, *Utah G4*, printed p. 81 |
+| 4.2.3 Energy Transfer: energy can be transferred from place to place by sound, light, heat and electric currents (United States, Grade 4) | United States, *Utah G4*, printed p. 87 |
+
+**Acceptance count unchanged: taught in 21 countries.** — the United States was already counted in this lesson from its Utah Physics student book (Physics expansion); the Grade 4 Utah SEEd rows above add provenance, counted once.
+
+Searchable tags: united states, utah, seed standards, utah oer, energy forms and conversions

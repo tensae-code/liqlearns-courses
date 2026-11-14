@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -113,3 +113,15 @@ Searchable tags: tuvalu, usp readers 2 and 4, overfishing, uga crab, export ban,
 Niue’s own way — caring taught through Pacific fishing practice and Niue’s own uga export ban of 2015 — Niue's own conservation decision, in its own adopted readers — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp readers 2 and 4, overfishing, uga crab, export ban, conservation
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 8):** *Utah OER Science Textbook – Grade 8* (student book) — United States. Title as printed: "8th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 75,572,977 bytes (matches repo size), 208 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 8.4.3 Problems Caused by Natural Resource Usage: design and evaluate solutions to monitor or mitigate the effects of using natural resources (United States, Grade 8) | United States, *Utah G8*, printed p. 167 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, caring so they last

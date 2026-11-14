@@ -1,6 +1,6 @@
 # Sources — Heat — radiation and the black/white test
 
-countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan, Mauritania, Greece, Armenia, Mongolia
+countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan, Mauritania, Greece, Armenia, Mongolia, United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -79,3 +79,15 @@ Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black hea
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, heat radiation and the black white test, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| K.1.3 Local Weather: investigate with the senses how sunlight warms different surfaces/materials (sidewalk, grass, road, sand in sun vs shade, snowman melting) (United States, Kindergarten) | United States, *Utah KG*, printed p. 32 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan, Mauritania, Greece, Armenia, Mongolia, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, heat radiation and the black white test

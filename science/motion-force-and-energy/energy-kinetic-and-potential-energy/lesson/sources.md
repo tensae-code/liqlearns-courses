@@ -1,6 +1,6 @@
 # Sources — Energy — kinetic and potential energy
 
-countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only)
+countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -64,3 +64,15 @@ Searchable tags: india, ncert, class ix, energy-kinetic-and-potential-energy
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.2.1 Speed and Energy: the faster an object moves, the more energy it has (qualitative cause and effect) (United States, Grade 4) | United States, *Utah G4*, printed p. 69 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Argentina, Iraq, Costa Rica, India, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, energy kinetic and potential energy

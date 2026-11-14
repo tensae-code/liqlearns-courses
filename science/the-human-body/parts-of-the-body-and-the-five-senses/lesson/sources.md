@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -175,3 +175,15 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, parts of the body and the five senses, stiinte, sciences, grade 2, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.1.2 Information: model how animals receive information through their senses, process it in the brain, and respond (United States, Grade 4) | United States, *Utah G4*, printed p. 30 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, parts of the body and the five senses

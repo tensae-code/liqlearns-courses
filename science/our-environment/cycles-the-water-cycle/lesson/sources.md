@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -209,3 +209,15 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, cycles the water cycle, stiinte, sciences, grade 3
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.3.1 Water Cycle: model how the cycling of water through Earth's systems is driven by energy from the Sun, gravity and density (United States, Grade 6) | United States, *Utah G6*, printed p. 95 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, cycles the water cycle

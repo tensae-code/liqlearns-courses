@@ -1,6 +1,6 @@
 # Sources — Properties that identify a thing
 
-countries: Ethiopia, Costa Rica, Bahamas (curriculum evidence only)
+countries: Ethiopia, Costa Rica, Bahamas (curriculum evidence only), United States
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -65,3 +65,15 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 3, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 5):** *Utah OER Science Textbook – Grade 5* (student book) — United States. Title as printed: "5th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,838,756 bytes (matches repo size), 108 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.2.2 Identifying Substances: investigate and identify substances by patterns of properties (colour, hardness, conductivity, solubility, response to magnets) (United States, Grade 5) | United States, *Utah G5*, printed p. 62 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, properties that identify a thing

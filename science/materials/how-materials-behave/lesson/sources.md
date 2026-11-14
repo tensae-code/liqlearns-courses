@@ -1,6 +1,6 @@
 # Sources — How materials behave: stretchy, breakable, shapable
 
-countries: Ethiopia, North Macedonia, Mauritania
+countries: Ethiopia, North Macedonia, Mauritania, United States
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -25,3 +25,15 @@ countries: Ethiopia, North Macedonia, Mauritania
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: materials, breakable, stretchy, elasticity, ductility, malleability, brittleness, ተለጣጭነት, north macedonia
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 2):** *Utah OER Science Textbook – Grade 2* (student book) — United States. Title as printed: "2nd Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 103,316,521 bytes (matches repo size), 119 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.3.2 Use and Function: how a material's properties decide its use (wood lightweight and strong for building; concrete, steel, cotton) (United States, Grade 2) | United States, *Utah G2*, printed p. 83 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Mauritania, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, how materials behave

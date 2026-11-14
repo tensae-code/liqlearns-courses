@@ -1,6 +1,6 @@
 # Sources — The daily motion of the Sun, Moon and stars
 
-countries: Mongolia, Vietnam, Albania (teacher-guide evidence only)
+countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -47,3 +47,15 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, the daily motion of the sun moon and stars, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.1.1 Movement: observe the sun's apparent movement across the sky through a morning (timed porch photos) (United States, Grade 1) | United States, *Utah G1*, printed p. 13 |
+
+**Acceptance count: taught in 3 countries (Mongolia, Vietnam, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, the daily motion of the sun moon and stars

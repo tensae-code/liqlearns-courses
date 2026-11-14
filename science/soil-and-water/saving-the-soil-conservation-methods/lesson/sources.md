@@ -1,6 +1,6 @@
 # Sources — Saving the soil — conservation methods
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Uganda
+countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Uganda, United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -85,3 +85,15 @@ Searchable tags: iceland, líf á landi, landgræðsla, land reclamation, gravel
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 2):** *Utah OER Science Textbook – Grade 2* (student book) — United States. Title as printed: "2nd Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 103,316,521 bytes (matches repo size), 119 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.1.3 Prevention: solutions that slow or prevent wind or water from changing the shape of the land (United States, Grade 2) | United States, *Utah G2*, printed p. 35 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Uganda, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, saving the soil conservation methods

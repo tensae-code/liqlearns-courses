@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -155,3 +155,18 @@ Searchable tags: moldova, what a plant needs to grow, stiinte, sciences, grade 2
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, what a plant needs to grow
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| K.2.1 Needs for Survival: what a growing tomato plant needs (air, water, minerals, light) and how its needs differ from an animal's (United States, Kindergarten) | United States, *Utah KG*, printed p. 45 |
+| 1.2.1 Sun and Water: a plant moved off its shelf wilts — what plants need (sunlight and water) to survive (United States, Grade 1) | United States, *Utah G1*, printed p. 57 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Guyana, Mongolia, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, what a plant needs to grow

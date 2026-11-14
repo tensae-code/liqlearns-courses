@@ -1,6 +1,6 @@
 # Sources — Materials and light — transparent, translucent, opaque
 
-countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only)
+countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -58,3 +58,15 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.3.3 Light Pathways: investigate materials in a beam of light — clear materials let it through, shiny materials reflect it, solid materials block it and make shadows (mirror ball) (United States, Grade 1) | United States, *Utah G1*, printed p. 126 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, materials and light transparent translucent opaque

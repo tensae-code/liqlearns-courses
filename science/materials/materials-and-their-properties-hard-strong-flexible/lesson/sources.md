@@ -1,6 +1,6 @@
 # Sources — Materials and their properties — hard, strong, flexible
 
-countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova
+countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -108,3 +108,15 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, materials and their properties hard strong flexible
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 2):** *Utah OER Science Textbook – Grade 2* (student book) — United States. Title as printed: "2nd Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 103,316,521 bytes (matches repo size), 119 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.3.1 Classifying Properties: investigate and classify materials by observable properties (strength, colour, flexibility, hardness, texture) (United States, Grade 2) | United States, *Utah G2*, printed p. 74 |
+
+**Acceptance count: taught in 6 countries (Finland, Costa Rica, India, Bulgaria, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, materials and their properties hard strong flexible

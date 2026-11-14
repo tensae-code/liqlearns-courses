@@ -1,6 +1,6 @@
 # Sources — Light — how seeing works
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova
+countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -49,3 +49,15 @@ Searchable tags: mongolia, light how seeing works, khun ba orchin, khun ba baiga
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, light how seeing works, stiinte, sciences, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.3.2 Light and Sight: model how light reflected from objects enters the eye so objects are seen (United States, Grade 4) | United States, *Utah G4*, printed p. 118 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, light how seeing works

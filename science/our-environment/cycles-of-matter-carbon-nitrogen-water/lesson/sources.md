@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -53,3 +53,15 @@ Searchable tags: iceland, halló heimur 3, cycles in nature, mms, teacher aims s
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, cycles of matter carbon nitrogen water
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 5):** *Utah OER Science Textbook – Grade 5* (student book) — United States. Title as printed: "5th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,838,756 bytes (matches repo size), 108 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.3.3 Movement of Matter: model matter moving among plants, animals, decomposers and the environment as organisms live and die (United States, Grade 5) | United States, *Utah G5*, printed p. 95 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, cycles of matter carbon nitrogen water

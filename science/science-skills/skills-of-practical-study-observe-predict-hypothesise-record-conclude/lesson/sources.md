@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -180,3 +180,15 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, skills of practical study observe predict hypothesise record conclude, stiinte, sciences, grade 5
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science and Engineering Practices: what scientists do to investigate phenomena (United States, Kindergarten) | United States, *Utah KG*, printed p. 8 |
+
+**Acceptance count: taught in 10 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, skills of practical study observe predict hypothesise record conclude

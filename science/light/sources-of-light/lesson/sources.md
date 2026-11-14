@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only)
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -108,3 +108,15 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.3.2 Effects of Light: light sources around us (bulbs, street lights, flashlights) and living light sources (fireflies, jellyfish) (United States, Grade 1) | United States, *Utah G1*, printed p. 114 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Guyana, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, sources of light

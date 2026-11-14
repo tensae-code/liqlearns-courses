@@ -1,6 +1,6 @@
 # Sources — Biodiversity — keeping the variety of life
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -163,3 +163,15 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, biodiversity keeping the variety of life, stiinte, sciences, grade 2, grade 3
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.4.5 Stability and Change: evaluate competing design solutions for preserving ecosystem resources and biodiversity (United States, Grade 6) | United States, *Utah G6*, printed p. 158 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, biodiversity keeping the variety of life

@@ -1,6 +1,6 @@
 # Sources — Molecules — atoms joined
 
-countries: Ethiopia
+countries: Ethiopia, United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,3 +14,15 @@ countries: Ethiopia
 Placement: Student item 9 (Unit 2, printed pp. 24–27 of the student book). This lesson rests on the student book only; no Grade 8 guide placement touches Unit 2's molecules part (guide items 5–6 concern the atom debate and the isotopes pacing warning). Growth check: Formulas — reading what a compound is made of (Grade 7) carries a short 'Molecules of elements' part inside formula-reading — monoatomic, diatomic and polyatomic named for element molecules only. The Grade 8 item teaches the molecule itself more widely — compound molecules and the smallest-particle definition — with its own joining GIF, so it is built NEW here and cross-referenced, not grown into the formula lesson. The GIF's mechanic, stated before building: two hydrogen atoms and one oxygen atom move together and JOIN — each atom stays whole and distinct inside the finished water molecule; ruled out: atoms melting into one blob, one atom striking or swallowing the others.
 
 Searchable tags: molecules, monoatomic, diatomic, polyatomic, compound molecules, smallest particle, water molecule, grade 8 general science unit 2, ethiopia
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.2.1 Atoms and Molecules: models showing molecules are made of different kinds, proportions and quantities of atoms (United States, Grade 6) | United States, *Utah G6*, printed p. 63 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, molecules atoms joined

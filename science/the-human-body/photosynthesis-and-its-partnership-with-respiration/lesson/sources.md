@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -95,3 +95,15 @@ Searchable tags: india, ncert, class vii, photosynthesis-and-its-partnership-wit
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, photosynthesis and its partnership with respiration
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 5):** *Utah OER Science Textbook – Grade 5* (student book) — United States. Title as printed: "5th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,838,756 bytes (matches repo size), 108 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.3.1 Building Plants: plants use air, water and energy from sunlight to produce the matter they grow from — most plant matter comes from air and water, not soil (United States, Grade 5) | United States, *Utah G5*, printed p. 79 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Guyana, India, Bulgaria, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, photosynthesis and its partnership with respiration

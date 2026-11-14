@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only)
+countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -195,3 +195,16 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 5, magnets poles and magnetic materials
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 3):** *Utah OER Science Textbook – Grade 3* (student book) — United States. Title as printed: "3rd Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,055,981 bytes (matches repo size), 136 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.3.4 Noncontact Forces: investigate electric and magnetic forces that act without contact (United States, Grade 3) | United States, *Utah G3*, printed p. 118 |
+| 3.3.5 Magnetic Devices: design a solution to a problem using a device that works by magnetic interactions (United States, Grade 3) | United States, *Utah G3*, printed p. 130 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, magnets poles and magnetic materials

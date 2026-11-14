@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -50,3 +50,15 @@ Searchable tags: india, ncert, class vii, heat-and-how-it-travels
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, heat and how it travels
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.2.3 Heat Energy and Particle Motion: investigate the relationship between temperature, heat transferred, and average particle motion (United States, Grade 6) | United States, *Utah G6*, printed p. 76 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Australia, India, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, heat and how it travels

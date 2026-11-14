@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -76,3 +76,15 @@ Searchable tags: india, ncert, class viii, force-friction-and-gravity
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, force friction and gravity
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 3):** *Utah OER Science Textbook – Grade 3* (student book) — United States. Title as printed: "3rd Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,055,981 bytes (matches repo size), 136 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.3.3 Gravity: the gravitational force exerted by Earth on objects, directed toward the centre of Earth (United States, Grade 3) | United States, *Utah G3*, printed p. 110 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Serbia, India, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, force friction and gravity

@@ -1,6 +1,6 @@
 # Sources — Seed dispersal — how seeds travel
 
-countries: Albania (teacher-guide evidence only), Guyana
+countries: Albania (teacher-guide evidence only), Guyana, United States
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -32,3 +32,17 @@ Placement choice, on the record: the Guyana placement was filed as NEW LESSON NE
 **Acceptance count: taught in 1 country (Guyana).** — Guyana's pupil book is this lesson's first counted country; the earlier rows remain teacher-guide evidence only, counted nowhere.
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 2):** *Utah OER Science Textbook – Grade 2* (student book) — United States. Title as printed: "2nd Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 103,316,521 bytes (matches repo size), 119 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.2.3 Seed Dispersal: model an animal dispersing seeds (hooks/barbs catching on fur, feathers, clothing) or pollinating plants (placement slug: how-seeds-are-spread-and-flowers-pollinated — stocked into this lesson, plants/seed-dispersal-how-seeds-travel, as the closest existing lesson covering seed dispersal as its own thing (the same call the Guyana merge made for its own placement filed as NEW — seed-dispersal)) (United States, Grade 2) | United States, *Utah G2*, printed p. 62 |
+
+Placement choice, on the record: the United States placement(s) above were filed as "NEW LESSON NEEDED — how-seeds-are-spread-and-flowers-pollinated" — united-states-placements.md. Checked live at merge time: this lesson already covers that thing as its own lesson, so the placement stocks into it and the original slug is recorded in each row above; no second lesson is built.
+
+**Acceptance count: taught in 2 countries (Guyana, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, seed dispersal how seeds travel

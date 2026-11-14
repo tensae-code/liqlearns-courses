@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only)
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -152,3 +152,17 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, life cycles of plants and animals
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 3):** *Utah OER Science Textbook – Grade 3* (student book) — United States. Title as printed: "3rd Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,055,981 bytes (matches repo size), 136 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.2.1 Life Cycles: develop and use models to describe the changes living things go through in their life cycles (placement slug: life-cycles-of-plants-and-animals — filed as NEW LESSON NEEDED; this lesson was built for Sweden's filing of the same shared slug, and the United States stocks into it) (United States, Grade 3) | United States, *Utah G3*, printed p. 42 |
+
+Placement choice, on the record: the United States placement(s) above were filed as "NEW LESSON NEEDED — life-cycles-of-plants-and-animals" — united-states-placements.md. This lesson bears that exact slug: it was built earlier in this expansion for Sweden's filing of the same shared slug, so the United States stocks into it instead of rebuilding it.
+
+**Acceptance count: taught in 6 countries (Sweden, Guyana, Mongolia, India, Bulgaria, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, life cycles of plants and animals

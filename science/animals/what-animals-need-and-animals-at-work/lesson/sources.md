@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -83,3 +83,15 @@ Searchable tags: moldova, what animals need and animals at work, stiinte, scienc
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, what animals need and animals at work
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| K.2.1 Needs for Survival: patterns in what living things (swans, deer, humans) need to survive (United States, Kindergarten) | United States, *Utah KG*, printed p. 45 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, what animals need and animals at work

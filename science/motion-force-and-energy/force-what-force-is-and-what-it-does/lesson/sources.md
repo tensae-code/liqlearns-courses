@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -227,3 +227,19 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, force what force is and what it does, stiinte, sciences, grade 5
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 3):** *Utah OER Science Textbook – Grade 3* (student book) — United States. Title as printed: "3rd Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,055,981 bytes (matches repo size), 136 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| K.3.1 Motion: plan an investigation comparing pushes and pulls of different strengths/directions on an object's motion (scooters, cars, baseball changing direction) (United States, Kindergarten) | United States, *Utah KG*, printed p. 75 |
+| K.3.1 word bank: push, pull, strength, direction as the vocabulary of forces (United States, Kindergarten) | United States, *Utah KG*, printed p. 82 |
+| 3.3.1 Forces and Motion: investigations giving evidence of the effects of balanced and unbalanced forces on motion (United States, Grade 3) | United States, *Utah G3*, printed p. 94 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, force what force is and what it does

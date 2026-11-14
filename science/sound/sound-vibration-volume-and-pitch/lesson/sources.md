@@ -154,3 +154,15 @@ Searchable tags: india, ncert, class viii, class ix, sound-vibration-volume-and-
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, sound vibration volume and pitch, stiinte, sciences, grade 5
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.3.1 Sound Vibrations: investigate cause and effect between sound and vibrating matter — vibrating matter makes sound and sound makes matter vibrate (United States, Grade 1) | United States, *Utah G1*, printed p. 105 |
+
+**Acceptance count unchanged: taught in 14 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India).** — the United States was already counted in this lesson from its Utah Physics student book (Physics expansion); the Grade 1 Utah SEEd row above adds provenance, counted once.
+
+Searchable tags: united states, utah, seed standards, utah oer, sound vibration volume and pitch

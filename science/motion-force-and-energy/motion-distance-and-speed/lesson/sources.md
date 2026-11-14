@@ -1,6 +1,6 @@
 # Sources — Motion — distance and speed
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India
+countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -99,3 +99,15 @@ Searchable tags: distance average speed ball rolling practical grade 7 unit 7 et
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vii, motion-distance-and-speed
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| K.3.2 Change in Speed: ramp-and-car tests and race data showing how a push changes speed/direction and how far a car travels (United States, Kindergarten) | United States, *Utah KG*, printed p. 83 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Sudan, Iraq, Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, motion distance and speed

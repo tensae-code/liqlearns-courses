@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only)
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -82,3 +82,15 @@ Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discov
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 8):** *Utah OER Science Textbook – Grade 8* (student book) — United States. Title as printed: "8th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 75,572,977 bytes (matches repo size), 208 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 8.4.1 Natural Resources Geology: evidence-based explanation that the uneven distribution of Earth's mineral, energy and groundwater resources is caused by geological processes (United States, Grade 8) | United States, *Utah G8*, printed p. 144 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Italy, Costa Rica, Greece, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, minerals from the ground

@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only)
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -44,3 +44,15 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.1.1 Earth, Moon and Sun System: the same model explains eclipses of the Sun and Moon (United States, Grade 6) | United States, *Utah G6*, printed p. 20 |
+
+**Acceptance count: taught in 3 countries (Vietnam, Costa Rica, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, solar eclipses lunar eclipses and tides

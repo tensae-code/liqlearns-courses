@@ -493,7 +493,7 @@ solar-system comparison lessons.
 62. **Evaporation — and what speeds it up** (`materials/evaporation-and-what-speeds-it-up`) — evaporation as a liquid turning into vapour from its surface without boiling, and its speed factors: warmth, moving air and a wider surface speed it up; cold, still air and a small surface slow it down — teacher-guide evidence only, acceptance 0 (Albania, Grade 5 — *Libër mësuesi — Dituri natyre 5*, printed p. 38)
 63. **Colloids and the Tyndall effect** (`materials/colloids-and-the-tyndall-effect`) — a colloid is a mixture whose tiny particles are spread through another substance and never settle out; the Tyndall effect — a light beam's path made visible as the colloid's particles scatter it — is the test that tells a colloid from a true solution (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 92)
 
-
+64. **Building new objects from a small set of pieces** (`materials/building-new-objects-from-a-small-set-of-pieces`) — modelling how an object made of a small set of pieces can be disassembled and reshaped into a new object with a different function (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.3.3, printed p. 98)
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -514,6 +514,8 @@ solar-system comparison lessons.
 15. **Waves and how they carry energy** (`light/waves-and-how-they-carry-energy`) — a wave is a travelling disturbance, and what travels in it is energy, not the material — Australia's step back: waves named after meeting heat, sound and light (Australia, Grade 9 — *Pearson Science 9*, 5.1, printed p. 179)
 16. **Low- and high-frequency radiation around us** (`light/low-and-high-frequency-radiation-around-us`) — radiation sorted by frequency alone into its two families: low-frequency radiation, the long gentle waves of signals and warmth, and high-frequency radiation, the short waves that carry more energy (Australia, Grade 9 — *Pearson Science 9*, 5.3–5.4, printed p. 198)
 
+17. **Waves — amplitude and wavelength** (`light/waves-amplitude-and-wavelength`) — modelling the regular patterns of waves described by amplitude and wavelength — water and rope models (United States, Grade 4 — *4th Grade Science for Utah SEEd Standards, Revised 2025*, 4.3.1, printed p. 110)
+18. **Using wave patterns to send information** (`light/using-wave-patterns-to-send-information`) — designing a solution to an information-transfer problem using wave patterns — light signals and codes (United States, Grade 4 — *4th Grade Science for Utah SEEd Standards, Revised 2025*, 4.3.3, printed p. 126)
 ## Unit 6 — Weather and Seasons
 
 1. **Day and night, rainbow and flood** (`weather-and-seasons/day-and-night-rainbow-and-flood`) — a natural event happens in nature outside human control; day and night are a natural cycle — 24 hours, 12 of sunlight and 12 without — and rainbow …
@@ -526,7 +528,8 @@ solar-system comparison lessons.
 8. **El Niño — when the Pacific warms** (`weather-and-seasons/el-nino-when-the-pacific-warms`) — every 3–7 years the trade winds weaken, the upwelling stops and the eastern Pacific warms — named "the Christmas child" by South American fishermen because it is noticed near Christmas — teacher/article evidence only, acceptance 0 (Iceland, Grade 11 record — *El Niño* (Í dagsins önn article sheet), printed p. 1)
 9. **El Niño and La Niña — ENOS** (`weather-and-seasons/el-nino-and-la-nina-enos`) — ENOS, the El Niño–Southern Oscillation, taught whole: the warm phase (El Niño) and the cold phase (La Niña) as the two ends of one Pacific swing, each with its effects (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 117)
 
-
+10. **Preparing for a weather forecast** (`weather-and-seasons/preparing-for-a-weather-forecast`) — using a forecast to decide how to prepare — clothing, items to carry, and readiness for severe weather such as floods, storms and extreme heat (United States, Kindergarten — *Kindergarten — for Utah SEEd Standards, Revised 2025*, K.1.2, printed p. 23)
+11. **Designing solutions to weather hazards** (`weather-and-seasons/designing-solutions-to-weather-hazards`) — designing, testing and optimising a solution that reduces the effects of a weather-related hazard — flood barriers and similar (United States, Grade 3 — *3rd Grade Science for Utah SEEd Standards, Revised 2025*, 3.1.3, printed p. 28)
 ## Unit 7 — Soil and Water
 
 1. **Drought: what it is and how we hold it back** (`soil-and-water/drought-what-it-is-and-how-we-hold-it-back`) — drought is when rain fails for a long time and water sources dry up — caused chiefly by an irregular climate, and also following deforestation — an…
@@ -608,6 +611,10 @@ solar-system comparison lessons.
 29. **Camouflage and warning colours** (`animals/camouflage-and-warning-colours`) — protective colouring both ways: the mantis hidden in green and the squirrel's seasonal coat against the wasp's warning stripes and the salamander's signal spots (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 52, printed p. 103)
 30. **Evolution and natural selection** (`animals/evolution-and-natural-selection`) — the diversity and evolution of living things, taught off a timeline: life appearing on Earth 3.8 billion years ago, living things changing generation after generation, and natural selection keeping the differences that fit — teacher-guide evidence only, acceptance 0 (Gabon, Grade 5 — *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique*, printed p. 48)
 
+31. **Young are like, but not exactly like, their parents** (`animals/young-are-like-but-not-exactly-like-their-parents`) — young plants and animals resemble their parents but not exactly — the carrots orange and cone-shaped yet different in size and taste — and patterns of inherited traits read from data (United States, Grades 1 and 3 — *Utah SEEd Standards* books, 1.2.3 printed p. 83; 3.2.2 printed p. 53)
+32. **How parents help their young survive** (`animals/how-parents-help-their-young-survive`) — offspring signals (crying, chirping) and parent responses (feeding, comforting, protecting) — survival behaviour in two halves (United States, Grade 1 — *1st Grade — for Utah SEEd Standards, Revised 2025*, 1.2.4, printed p. 93)
+33. **How the environment can change traits** (`animals/how-the-environment-can-change-traits`) — the environment can affect the traits of living things — the explanation built from evidence, not guessed (United States, Grade 3 — *3rd Grade Science for Utah SEEd Standards, Revised 2025*, 3.2.3, printed p. 62)
+34. **Copying nature to solve problems — biomimicry** (`animals/copying-nature-to-solve-problems-biomimicry`) — designing a solution to a human problem by mimicking how plants and animals use their external parts to survive and grow (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.2.4, printed p. 68)
 ## Unit 10 — Natural Resources
 
 1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
@@ -682,6 +689,8 @@ solar-system comparison lessons.
 53. **Mangroves — four types, and why they matter** (`our-environment/mangroves-four-types-and-why-they-matter`) — the four types of mangroves (red, black, white, buttonwood), the characteristics of each, the organisms found in mangrove ecosystems, and the importance of mangroves to the islands — curriculum evidence only, acceptance 0 (Bahamas, Grade 4 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 115)
 
 54. **Living underground — the soil as a home** (`our-environment/living-underground-the-soil-as-a-home`) — the underground living environment: the soil itself as a home for living things, taught as a living environment of its own, between the land-and-air and water environments in the living-environments module (Moldova, Grade 3 — *Științe: Manual pentru clasa a III-a*, Modulul 2, Lecția 4, printed p. 43)
+
+55. **Natural hazards — monitoring, prediction and protection** (`our-environment/natural-hazards-monitoring-prediction-and-protection`) — using data to monitor and predict natural hazards and to protect communities — tsunami warning systems and similar (United States, Grade 8 — *8th Grade — for Utah SEEd Standards, Revised 2025*, 8.4.5, printed p. 187)
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -804,6 +813,8 @@ solar-system comparison lessons.
 35. **Dealing with learners' misconceptions in science** (`science-skills/dealing-with-learners-misconceptions-in-science`) — pupils arrive with early and mistaken conceptions; the teacher surfaces the wrong first idea and works on it instead of just correcting it — teacher-guide evidence only, acceptance 0 (Greece, Grade 5 — *«Φυσικά» Ε΄ Δημοτικού teacher guide*, Part I, printed p. 29)
 
 36. **Explorers and inventors — how people discover and create** (`science-skills/explorers-and-inventors-how-people-discover-and-create`) — Man — explorer and inventor: expeditions, explorers, inventors and scientists, from the named explorers to Edison and Liv Arnesen, and modern technologies (Moldova, Grade 4 — *Științe: Manual pentru clasa a IV-a*, Unit 1, Lesson 4, printed p. 19)
+
+37. **Engineering design process** (`science-skills/engineering-design-process`) — the engineering design process — define a problem by its criteria and constraints, generate ideas, sketch and model, then test and modify each version until it is optimised (United States, Kindergarten and Grades 1–5 and 7 — *Utah SEEd Standards* books, printed pp. 10, 65 (KG); 134 (G1); 35 (G2); 85 (G3); 98 (G4); 44 (G5); 67 (G7))
 ## Unit 16 — Biology
 
 1. **A balanced diet — every group, in proportion** (`biology/a-balanced-diet`) — a balanced diet contains all nutrient groups in the right proportions for the person eating it.
@@ -2639,7 +2650,14 @@ solar-system comparison lessons.
 63. **Earthquakes and the Richter scale** (`earth-and-space/earthquakes-and-the-richter-scale`) — earthquakes (sismos) as phenomena that alter the geosphere, their classification, and the Richter scale that measures an earthquake's magnitude (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 120)
 64. **Rocks and minerals** (`earth-and-space/rocks-and-minerals`) — rocks and minerals compared and told apart (a mineral is one stuff throughout; a rock is one or more minerals joined), rocks and minerals classified by colour, size and shape, and the uses of rocks and minerals — curriculum evidence only, acceptance 0 (Bahamas, Grade 2 — *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 99)
 
-
+65. **Landforms and water on Earth** (`earth-and-space/landforms-and-water-on-earth`) — developing and using models showing patterns of landforms and water on Earth — valleys, canyons, floodplains; water solid and liquid (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.1.1, printed p. 13)
+66. **Earth's surface changes — fast and slow** (`earth-and-space/earths-surface-changes-fast-and-slow`) — changes to Earth's surface that happen quickly (volcanic eruptions, earthquakes, landslides) or slowly (weathering, erosion — its rate by water, ice, wind, gravity and vegetation investigated), explained from evidence at varying time and spatial scales (United States, Grades 2, 5 and 7 — *Utah SEEd Standards* books, 2.1.2 printed p. 26; 5.1.3 printed p. 27; 7.2.2 printed p. 56)
+67. **Fossils — evidence of life and environments long ago** (`earth-and-space/fossils-evidence-of-life-and-environments-long-ago`) — analysing fossil data as evidence of organisms and environments from long ago (trilobites and their modern relatives), and arguing from patterns in rock layers and their fossils that environments change over time (tropical plant fossils in the Arctic) (United States, Grade 4 — *4th Grade Science for Utah SEEd Standards, Revised 2025*, 4.1.3 printed p. 41; 4.1.4 printed p. 56)
+68. **Patterns of Earth's features** (`earth-and-space/patterns-of-earths-features`) — analysing data to describe patterns of Earth's features — most earthquakes and volcanoes in bands along continent–ocean boundaries; mountain chains inside continents or near their edges (United States, Grade 5 — *5th Grade — for Utah SEEd Standards, Revised 2025*, 5.1.1, printed p. 13)
+69. **Gravity and inertia keep objects in orbit** (`earth-and-space/gravity-and-inertia-keep-objects-in-orbit`) — modelling the role of gravity and inertia in the orbital motions of objects in the solar system (United States, Grade 6 — *6th Grade — for Utah SEEd Standards, Revised 2025*, 6.1.2, printed p. 36)
+70. **The rock cycle** (`earth-and-space/the-rock-cycle`) — modelling how energy flow and matter cycling create igneous, sedimentary and metamorphic rocks — the rock cycle (United States, Grade 7 — *7th Grade — for Utah SEEd Standards, Revised 2025*, 7.2.1, printed p. 49)
+71. **Plate tectonics and its patterns** (`earth-and-space/plate-tectonics-and-its-patterns`) — analysing data on the patterns linking plate tectonics to volcanoes, earthquakes, mountains and seafloor features (United States, Grade 7 — *7th Grade — for Utah SEEd Standards, Revised 2025*, 7.2.5, printed p. 87)
+72. **The geologic time scale** (`earth-and-space/the-geologic-time-scale`) — arguing from rock strata and fossil evidence how the geologic time scale shows Earth's age and history (United States, Grade 7 — *7th Grade — for Utah SEEd Standards, Revised 2025*, 7.2.6, printed p. 98)
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -2686,6 +2704,7 @@ solar-system comparison lessons.
 3. **Heat — radiation and the black/white test** (`heat/heat-radiation-and-the-black-white-test`) — radiation transfers heat by electromagnetic waves with no contact and no particles, working even through a vacuum — and black surfaces absorb it where white reflect it, proved by a two-hour fair test (Grade 8 General Science)
 4. **Insulation — slowing heat down** (`heat/insulation-slowing-heat-down`) — an insulator slows heat transfer in BOTH directions — the defended claim of the two ice cubes, one under a wool blanket — so food, houses and the gabi all use it (Grade 8 General Science)
 
+5. **Designing shade to reduce warming** (`heat/designing-shade-to-reduce-warming`) — designing, sketching/modelling and testing a shade solution that reduces sunlight warming of an area — eating tables, a dog, a toy (United States, Kindergarten — *Kindergarten — for Utah SEEd Standards, Revised 2025*, K.1.4, printed p. 39)
 ## Unit 23 — Electricity and Magnetism
 
 1. **Circuits — source, load, wires, and open vs closed** (`electricity-and-magnetism/circuits-source-load-wires-open-and-closed`) — open tinkering with battery, wire and bulb earns the concepts: current electricity is charge flowing continuously, and a circuit runs only when its loop is closed (Grade 8 General Science)

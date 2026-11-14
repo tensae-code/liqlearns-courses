@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -172,3 +172,18 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, food chains food webs and energy pyramids
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 5):** *Utah OER Science Textbook – Grade 5* (student book) — United States. Title as printed: "5th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,838,756 bytes (matches repo size), 108 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.3.2 Consuming Food: animals obtain energy and matter from food for repair, growth, motion and warmth — and that energy was once energy from the Sun (United States, Grade 5) | United States, *Utah G5*, printed p. 88 |
+| 6.4.3 Matter and Energy in Ecosystems: how matter and energy move through an ecosystem (Great Salt Lake organisms) (United States, Grade 6) | United States, *Utah G6*, printed p. 148 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, food chains food webs and energy pyramids

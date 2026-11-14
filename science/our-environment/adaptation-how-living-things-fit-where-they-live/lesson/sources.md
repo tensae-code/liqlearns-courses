@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Greece
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -50,3 +50,26 @@ Placement choice, on the record: the three Greece placements were filed as "NEW 
 **Acceptance count: taught in 2 countries (Mongolia, Greece).**
 
 Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 2):** *Utah OER Science Textbook – Grade 2* (student book) — United States. Title as printed: "2nd Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 103,316,521 bytes (matches repo size), 119 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 3):** *Utah OER Science Textbook – Grade 3* (student book) — United States. Title as printed: "3rd Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,055,981 bytes (matches repo size), 136 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.2.2 Surviving Locations: external features shared by living things in the same surroundings (thick water-holding coatings in dry places, thick coats in cold places) (placement slug: features-that-help-living-things-survive-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the closest existing lesson covering adaptation — how living things fit where they live (the same call the Greece merge made for its own placements filed under this slug)) (United States, Grade 1) | United States, *Utah G1*, printed p. 68 |
+| 2.2.2 Structure and Function: investigate plant and animal parts in different habitats (shallow cactus roots in the desert) (placement slug: features-that-help-living-things-survive-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the closest existing lesson covering adaptation — how living things fit where they live (the same call the Greece merge made for its own placements filed under this slug)) (United States, Grade 2) | United States, *Utah G2*, printed p. 56 |
+| 3.2.4 Traits and Survival: variations in traits give some individuals a survival advantage (placement slug: features-that-help-living-things-survive-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the closest existing lesson covering adaptation — how living things fit where they live (the same call the Greece merge made for its own placements filed under this slug)) (United States, Grade 3) | United States, *Utah G3*, printed p. 68 |
+| 4.1.1 Survival: internal and external structures of plants and animals function to support survival, growth, behaviour and reproduction (placement slug: features-that-help-living-things-survive-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the closest existing lesson covering adaptation — how living things fit where they live (the same call the Greece merge made for its own placements filed under this slug)) (United States, Grade 4) | United States, *Utah G4*, printed p. 12 |
+
+Placement choice, on the record: the United States placement(s) above were filed as "NEW LESSON NEEDED — features-that-help-living-things-survive-where-they-live" — united-states-placements.md. Checked live at merge time: this lesson already covers that thing as its own lesson, so the placement stocks into it and the original slug is recorded in each row above; no second lesson is built.
+
+**Acceptance count: taught in 3 countries (Mongolia, Greece, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, adaptation how living things fit where they live

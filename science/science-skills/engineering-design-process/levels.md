@@ -1,0 +1,4 @@
+# Engineering design process — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (Define the problem — criteria and constraints; Generate ideas — sketch and model the design; Test and modify — compare versions, then optimise; One process, many problems — Utah's own run of designs), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 4 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks. Practice deepens inside each part before the learner moves on — retelling without notes, in the lesson's own order.

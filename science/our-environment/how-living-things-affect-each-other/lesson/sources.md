@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -217,3 +217,18 @@ Searchable tags: moldova, how living things affect each other, stiinte, sciences
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 5, how living things affect each other
+
+## United States growth (2026-11-14, General Science expansion)
+
+**Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+**Book (United States — Utah Grade 6):** *Utah OER Science Textbook – Grade 6* (student book) — United States. Title as printed: "6th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 42,047,303 bytes (matches repo size), 166 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| K.2.3 Effects on Surroundings: how living things change their surroundings to survive (squirrels burying food, roots breaking concrete, humans building shelters, beaver dams) (United States, Kindergarten) | United States, *Utah KG*, printed p. 58 |
+| 6.4.2 Interactions Among Organisms: patterns of interaction across ecosystems — competition, predation and mutualism (United States, Grade 6) | United States, *Utah G6*, printed p. 141 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States).**
+
+Searchable tags: united states, utah, seed standards, utah oer, how living things affect each other
