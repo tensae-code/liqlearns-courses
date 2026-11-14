@@ -1,6 +1,6 @@
 # Sources — Creating two linked tables — DEPARTMENT and COURSE
 
-countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya
+countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya
 
 **Book 5:** *تقنية المعلومات للسنة الأولى بمرحلة التعليم الثانوي — كتاب الطالب (Information Technology, first year of secondary education = Grade 10, student book)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 6:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — DEPARTMENT created: D_Name, D_Number as primary key, D_Location | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 71–72 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya
 | Unit 2 Lesson 3: Relationships between tables in Access (filed as databases/creating-relationships-between-tables-in-access; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *ICT, Grade 7*, printed p. 31 |
 | Урок 13 "Определение связи между таблицами программы MS Access" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 31 |
 | Ch 8, creating, deleting and changing a table relationship | Libya Grade 10 IT student, printed p. 96 |
+| Unit 1, Lesson 2 Creating Related Tables: the parent and child tables and the FOREIGN KEY constraint in SQLite (the landmarks and regions tables) | Kuwait Grade 11 Information Technology T2, printed p. 27 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -35,4 +38,6 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Libya's own way (Grade 10, Information Technology student book): the entire Grade 10 year is databases — theory first (concepts, ER modelling, the relational model, mapping ER to tables), then a long Microsoft Access 2007 practical (environment, tables, data entry, relationships, queries, forms, reports) and three set projects at the end. The secondary line is تقنية المعلومات (Information Technology).
 
-Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student
+Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
+
+Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2

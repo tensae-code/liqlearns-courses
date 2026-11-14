@@ -1,6 +1,6 @@
 # Sources — CREATE TABLE — building a table with SQL
 
-countries: Ethiopia, Nepal, North Macedonia, Malaysia
+countries: Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal, North Macedonia, Malaysia
 
 **Book 5:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *تقنية المعلومات (Information Technology), Grade 11, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: second edition 2026/2027 (first edition 2025/2026); ISBN: no ISBN printed. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — CREATE TABLE's general form: table name, columns with data types in parentheses, optional [Primary Key], optional REFERENCES to another table's key column | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 69, 72 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Nepal, North Macedonia, Malaysia
 | Unit 2 §2.7, Data Definition Language (DDL) | Nepal, *Computer Science, Class 10*, printed p. 62 |
 | "Creating Tables in a Database" | North Macedonia, *Informatics, Year 2*, Тема 3, printed p. 189 |
 | 2.1 SQL: Membina Pangkalan Data | Malaysia Grade 11 SK Tingkatan 5, printed p. 77 |
+| Unit 1, Lesson 3 Creating Tables: CREATE TABLE in SQLite, column data types (INTEGER, TEXT, REAL) and the rules for naming tables and columns | Kuwait Grade 11 Information Technology T1, printed p. 41 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, North Macedonia, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait).**
 
 Honesty: sub lessons 1–2 are pupil-taught; the worked builds, sizing method, diagnosis set and the two working tips in sub lessons 2–3 are teacher-guide evidence, labelled as such. Guide errors NOT copied: the guide's worked CREATE TABLE Teacher carries a trailing comma after its last column — the lesson's statements carry no trailing comma; and its worked Grade table references a Course table that is never created in the answers — this lesson's Grade references only the Student and Teacher tables the set itself creates. The student book's printed spellings are corrected throughout (see the Databases title honesty notes in the touched lessons' sources).
 
@@ -30,4 +33,6 @@ North Macedonia's own way (Year 2): a strikingly current first theme (cybersecur
 
 Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
 
-Searchable tags: CREATE TABLE, DDL, primary key, REFERENCES, field sizing, broken SQL diagnosis, Ethiopia Grade 12, nepal, north macedonia, grade 11, malaysia, grade 11 sk tingkatan 5
+Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databases the programmer's way — not Access, but SQLite driven from Python (sqlite3), with every operation practised on one running example, a Kuwait_landmarks.db database of Kuwait's landmarks; the term ends by integrating AI with the database in a face-recognition attendance project (OpenCV Haar cascades + SQLite logging).
+
+Searchable tags: CREATE TABLE, DDL, primary key, REFERENCES, field sizing, broken SQL diagnosis, Ethiopia Grade 12, nepal, north macedonia, grade 11, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1

@@ -1,6 +1,6 @@
 # Sources — SmartArt, pictures and video on slides
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia
 
 **Book 9:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 10:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SmartArt — relationships, organisation charts, timelines; SmartArt Tools | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 130–132 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia
 | 2.2 Adding Audio and Video | Bhutan, *Literacy with ICT, Class VIII*, printed p. 16 |
 | Ch 5, adding multimedia to a presentation slide | Libya Grade 12 IT Humanities, printed p. 69 |
 | 2.3.3 Objects of many kinds in a presentation (inserting pictures, SmartArt diagrams, tables and charts) | Mongolia Grade 7 IT VII, printed p. 54 |
+| Unit 2, Lesson 3 The Exciting Presentation (3): inserting pictures (from the device and online) and formatting them on the slide | Kuwait Grade 4 Digital Explorer T2, printed p. 115 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -51,4 +54,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
 
-Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii
+Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
+
+Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2

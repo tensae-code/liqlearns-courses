@@ -1,6 +1,6 @@
 # Sources — FTP — moving big files over the internet
 
-countries: Ethiopia, Fiji, Libya
+countries: Ethiopia, Fiji, Libya, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Fiji, Libya
 
 **Book 3:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
+**Book 4:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Moving files — the FTP service; when FTP is the tool | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 65 |
 | Tip box | LiqLearns' own tip — marked as ours in the lesson, not from the book. |
 | 1.4 Uploading, downloading, FTP and peer-to-peer file sharing | Fiji, *Computer Studies, Year 12*, printed p. 14 |
 | Ch 6, uploading the site: transferring files with the FTP protocol | Libya Grade 11 IT student Term 2, printed p. 69 |
+| Unit 2: Projects Unit — uploading the site with an FTP program (FileZilla) | Kuwait Grade 9 Digital Intelligence T1, printed p. 149 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Libya).**
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Libya, Kuwait).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner. The one Tip box is LiqLearns' own, marked as such in the lesson and in the table above.
 
@@ -23,4 +26,6 @@ Fiji's own way (Year 12 Computer Studies student book): Written locally by the s
 
 Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 is web authoring from first principles — internet architecture and protocols, then hand-written HTML (structure, text formatting, links, lists, tables), then publishing a site properly (domain, hosting, FTP) and three full website projects. The book is printed for BOTH the Science and Humanities sections, although the records label it Humanities only — cited as printed.
 
-Searchable tags: FTP, File Transfer Protocol, download, upload, transferring files, Ethiopia Grade 8 ICT, fiji, year 12, libya, grade 11 it student term 2
+Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
+
+Searchable tags: FTP, File Transfer Protocol, download, upload, transferring files, Ethiopia Grade 8 ICT, fiji, year 12, libya, grade 11 it student term 2, kuwait, grade 9 digital intelligence term 1

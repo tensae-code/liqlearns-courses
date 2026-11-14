@@ -1,10 +1,12 @@
 # Sources — Lists in Scratch — Storing Many Values in Order
 
-countries: Palestine, Bhutan
+countries: Palestine, Bhutan, Kuwait
 
 **Book 1:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
 **Book 2:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 3:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,8 +16,9 @@ countries: Palestine, Bhutan
 | Unit 4 Lesson 34: Tracking expenses (Amal’s family budget program: an income variable; two parallel lists — kind of expense and its price; the total found by looping over the list with a counter; savings = income − total expenses; everything reset to zero at the start) | Palestine, *Programming, Grade 9*, printed p. 112 |
 | Unit 4 Lesson 36: The task list (an agenda on two lists — tasks and their dates — with Add, Update, Delete-one and Delete-all button sprites; updating first checks the position is inside the list using OR; project: warn when a task’s date has passed) | Palestine, *Programming, Grade 9*, printed p. 120 |
 | 7.1 List Blocks (filed as NEW LESSON NEEDED — programming/lists-in-scratch; stocked in this lesson because this lesson teaches lists in Scratch — storing many values in order under one name) | Bhutan, *Literacy with ICT, Class VIII*, printed p. 88 |
+| Unit 1: List — creating a list and using list blocks (the weekly shopping list; Kuwait the beacon of volunteer work) (filed as NEW LESSON NEEDED — programming/scratch-lists-storing-many-values; stocked in this lesson because this lesson teaches Scratch lists — creating a list and its operations — the same thing Kuwait's section teaches) | Kuwait Grade 6 Digital Intelligence T1, printed p. 61 |
 
-**Acceptance count: taught in 2 countries (Palestine, Bhutan).**
+**Acceptance count: taught in 3 countries (Palestine, Bhutan, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/lists-in-scratch-storing-many-values-in-order). It sits in the Programming title (programming/), following the book's own order.
 
@@ -23,4 +26,6 @@ Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications cou
 
 Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
 
-Searchable tags: lists, ordered data, position, parallel lists, add insert delete, contains, address book, scratch, palestine, grade 9, bhutan, class viii
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Searchable tags: lists, ordered data, position, parallel lists, add insert delete, contains, address book, scratch, palestine, grade 9, bhutan, class viii, kuwait, grade 6 digital intelligence term 1

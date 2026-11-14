@@ -1,6 +1,6 @@
 # Sources — Cloud computing — services over the internet, not on your PC
 
-countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia
+countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwait
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 **Book 2:** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 Ministry of Education, GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md.
@@ -23,6 +23,8 @@ countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia
 
 **Book 11:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 12:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cloud computing defined — storing and accessing data and services over the internet, not on your PC; servers, storage, networking, databases on demand; many users from a single data centre; no location limit; everyday examples (Gmail, Maps, Amazon, Netflix, PayPal, Spotify, Adobe Creative Cloud, Kindle) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 37–38 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia
 | Activity set 6 Cloud Computing | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 29 |
 | 6.1 What is Cloud Computing? | Fiji, *Computer Studies, Year 12*, printed p. 129 |
 | 1.2.3 Development and use of cloud technology (IaaS, PaaS, SaaS; public, private, hybrid and community clouds; practicals in Google Drive, Docs, Sheets, Slides and Forms, with sharing) | Mongolia Grade 12 IT XII, printed p. 27 |
+| Unit 1, Lesson 2 The Digital Cloud (1): what the digital cloud is; OneDrive, the Microsoft cloud platform, and why files in the cloud are reachable anywhere, any time | Kuwait Grade 4 Digital Explorer T2, printed p. 35 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwait).**
 
 The student book §1.4 points readers to “Unit 2 Section 2.3” for cloud computing; cloud is §2.2 and §2.3 is fog computing. This lesson follows the book's own Unit 2 order (§2.2 cloud, §2.3 fog) and names the wrong cross-reference here, as the placements flag it.
 
@@ -56,4 +59,6 @@ Fiji's own way (Year 12 Computer Studies student book): Written locally by the s
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: cloud computing, data centre, on demand, Gmail, origin of the word cloud, Grade 12 ICT Ethiopia, mozambique, nepal, iraq, grade 11, papua new guinea, grade 11, sudan, grade 6, egypt, grade 7, fiji, year 12, mongolia, grade 12 it xii
+Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
+
+Searchable tags: cloud computing, data centre, on demand, Gmail, origin of the word cloud, Grade 12 ICT Ethiopia, mozambique, nepal, iraq, grade 11, papua new guinea, grade 11, sudan, grade 6, egypt, grade 7, fiji, year 12, mongolia, grade 12 it xii, kuwait, grade 4 digital explorer term 2

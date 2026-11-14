@@ -1,6 +1,6 @@
 # Sources — What Programming Is
 
-countries: North Macedonia
+countries: North Macedonia, Kuwait
 
 **Book 1:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
@@ -8,13 +8,22 @@ countries: North Macedonia
 
 **Book 3:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 10 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-19-2. 180 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 Units 1–2 in full; its standards, overview and assessment sections largely reprint the Grade 9 apparatus (including a Grade 9 yearly overview), so placements rest on the Grade 10 content table and the detailed Strand 5 sections. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
 
+**Book 4:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 200 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 5:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 6:** *تقنية المعلومات (Information Technology), Grade 12, Term 1 (Parts 1 and 2 bound in one PDF)* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the long-running Visual Basic text; ISBN: no ISBN printed. 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 7:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "What Is Programming?" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.5, printed p. 108 |
 | Strand 5 Unit 2 Computer Software, Topic Software Programming, Lesson 1: Introduction to Programming (filed as programming/what-is-programming; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 71 (teacher guide — evidence, PARTIAL) |
 | Unit 1, Topic Programming, Lesson 1: Programming Concepts (filed as programming/what-is-programming; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 50 (teacher guide — evidence, PARTIAL) |
+| Unit 1, Lesson 2 The Little Programmer (1): the concept of programming; programming controls technology | Kuwait Grade 4 Digital Explorer T1, printed p. 29 |
+| Unit 2 Python Programming, Lesson 1 Introduction to Programming: what programming is and why it matters (the Grade 4 concept, at secondary depth) | Kuwait Grade 10 Information Technology T1, printed p. 39 |
+| Part 1, Book 1 (Introduction to Visual Basic), Chapter 1 Basic Concepts: what a program and a programming language are, and why programming languages matter | Kuwait Grade 12 Information Technology T1, printed p. 17 |
+| Unit 1, The Little Programmer (1): the concept of the program, the types of applications (web applications among them) and why programming matters | Kuwait Grade 5 Digital Explorer T1, printed p. 53 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (North Macedonia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/what-programming-is). It sits in the Programming title (programming/), following the book's own order.
 
@@ -24,4 +33,12 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to building with them — simple electronic circuits, programming that controls an external device, robotics and artificial intelligence sit inside "Computer Architecture", while the software unit pairs operating-system installation with machine learning; typing rises to 30 wpm. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: programming, program, instructions, algorithm, problem solving, cpp, north macedonia, grade 10, papua new guinea, grade 9, papua new guinea, grade 10
+Kuwait's own way (Grade 4 Digital Explorer Term 1): every lesson runs استكشف–تعلم–طبق (explore–learn–apply) around a story with Hamad, an AI robot assistant mascot; digital citizenship is framed as 'with my ethics I am an ambassador of my country'; block coding starts with ScratchJr, and using the national MS Teams platform (moe.edu.kw accounts) is taught as core curriculum in the front 'Digital Classroom' section.
+
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Kuwait's own way (Grade 12 Information Technology Term 1): Grade 12 has NOT moved to the new Python series — it still teaches the older Visual Basic 2008 textbook: build a Windows program graphically (forms, controls, properties), then write event code, variables and branching (If…Then, Select Case), closing with a team project. A legacy book kept in service, reprinted for 2025/2026.
+
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: programming, program, instructions, algorithm, problem solving, cpp, north macedonia, grade 10, papua new guinea, grade 9, papua new guinea, grade 10, kuwait, grade 4 digital explorer term 1, grade 10 information technology term 1, grade 12 information technology term 1, grade 5 digital explorer term 1

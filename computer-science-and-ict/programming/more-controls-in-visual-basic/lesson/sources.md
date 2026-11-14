@@ -1,17 +1,22 @@
 # Sources — More Controls in Visual Basic
 
-countries: Fiji
+countries: Fiji, Kuwait
 
 **Book 1:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 2:** *تقنية المعلومات (Information Technology), Grade 12, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the Visual Basic text; ISBN: no ISBN printed. 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | 5.4 Introducing More Controls in Visual Basic | Fiji, *Computer Studies, Year 12*, printed p. 84 |
+| Book 2, Chapter 2 Option Tools: ComboBox, RadioButton, CheckBox and GroupBox, and the FontDialog (filed as NEW LESSON NEEDED — programming/visual-basic-option-controls; stocked in this lesson because this lesson teaches the choosing controls — check box, option (radio) button, combo box — the same family Kuwait's Option Tools chapter teaches) | Kuwait Grade 12 Information Technology T2, printed p. 47 |
 
-**Acceptance count: taught in 1 country (Fiji).**
+**Acceptance count: taught in 2 countries (Fiji, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/more-controls-in-visual-basic). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: more, controls, in, visual, basic, programming, fiji, year 12
+Kuwait's own way (Grade 12 Information Technology Term 2): Term 2 of the legacy Visual Basic year: loops first (definite For…Next, then indefinite Do…Loop), then the richer form controls (data boxes and option tools), and finally real database work — connect a VB program to a database, show its tables in a grid, add and edit records, and print reports. The grade-12 exit skill is a working database application.
+
+Searchable tags: more, controls, in, visual, basic, programming, fiji, year 12, kuwait, grade 12 information technology term 2

@@ -1,6 +1,6 @@
 # Sources - Variables - storing values in memory
 
-countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia, Sri Lanka
+countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -46,6 +46,10 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, 
 
 **Book 22:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 23:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 24:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 25:** *تقنية المعلومات (Information Technology), Grade 12, Term 1 (Parts 1 and 2 bound in one PDF)* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the long-running Visual Basic text; ISBN: no ISBN printed. 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -76,8 +80,11 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, 
 | Bab 4 Kod Arahan, 4.1.1 Pemboleh Ubah dan Operator Matematik dalam Pengaturcaraan (Scratch 2.0) | Malaysia Grade 7 ASK Tingkatan 1, printed p. 94 |
 | Ch.5 Use of a variable | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 58 |
 | Ch.1 Variables in VB programs | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 33 |
+| Unit 1: Variables and Operators — what a variable is in Scratch; setting, showing and hiding it | Kuwait Grade 6 Digital Intelligence T1, printed p. 37 |
+| Unit 2, Lesson 2 Variables: a variable is a place reserved in memory; arithmetic operations and their order of execution | Kuwait Grade 10 Information Technology T1, printed p. 59 |
+| Part 2, Book 3 (Basic Code Instructions), Chapter 1 Variables and Constants: a variable is a named place in memory whose value changes as the program runs | Kuwait Grade 12 Information Technology T1 (Part 2), printed p. 105 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia, Sri Lanka).**
+**Acceptance count: taught in 15 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Malaysia, Sri Lanka, Kuwait).**
 
 No book error touches this lesson. The teacher guide's worked model solutions for this section (guide item 25) are filed above as verified expected outputs (teacher guide - evidence); they confirm the practice answers but are not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -118,4 +125,10 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, egypt, grade 7, fiji, year 12, year 13, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 7 reading book, sri lanka, grade 11 tamil
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Kuwait's own way (Grade 12 Information Technology Term 1): Grade 12 has NOT moved to the new Python series — it still teaches the older Visual Basic 2008 textbook: build a Windows program graphically (forms, controls, properties), then write event code, variables and branching (If…Then, Select Case), closing with a team project. A legacy book kept in service, reprinted for 2025/2026.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, egypt, grade 7, fiji, year 12, year 13, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 7 reading book, sri lanka, grade 11 tamil, kuwait, grade 6 digital intelligence term 1, grade 10 information technology term 1, grade 12 information technology term 1

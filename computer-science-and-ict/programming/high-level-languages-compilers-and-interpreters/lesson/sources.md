@@ -1,6 +1,6 @@
 # Sources - High-level languages - compilers and interpreters
 
-countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka
+countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 
 **Book 15:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 16:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - High-level languages (close to human language; concentrate on the problem; C, C++, Java, C#, Python, Perl, Ruby) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 133-134 |
@@ -50,8 +52,9 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 | 1.2 Penterjemahan Pelbagai Aras Bahasa Pengaturcaraan | Malaysia Grade 11 SK Tingkatan 5, printed p. 33 |
 | Translators inside 1.2.2 (assembler, compiler, interpreter; machine code and object programs) | Mongolia Grade 11 IT XI, printed p. 51 |
 | Ch.1 Programming language translation: assemblers, compilers, interpreters; source/object code; bugs | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 5 |
+| Unit 2, Lesson 1: the Python language, and compiler vs interpreter | Kuwait Grade 10 Information Technology T1, printed p. 39 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -82,4 +85,6 @@ Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU regis
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi, sri lanka, grade 11 tamil
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1

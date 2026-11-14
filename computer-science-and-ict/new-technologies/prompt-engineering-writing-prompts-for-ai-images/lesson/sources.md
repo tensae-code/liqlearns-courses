@@ -1,0 +1,17 @@
+# Sources — Prompt Engineering — Writing Prompts for AI Images
+
+countries: Kuwait
+
+**Book 1:** *الذكاء الرقمي (Digital Intelligence), Grade 7, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: AI in Design — Prompt Engineering: writing a good prompt and generating an AI image (designing Mubarak Al-Kabeer Port) | Kuwait Grade 7 Digital Intelligence T1, printed p. 107 |
+
+**Acceptance count: taught in 1 country (Kuwait).**
+
+Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — new-technologies/prompt-engineering-writing-prompts-for-ai-images). It sits in the New Technologies title (new-technologies/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
+
+Kuwait's own way (Grade 7 Digital Intelligence Term 1): Grade 7 turns the learner into a producer: a full graphic-design course in GIMP (free software, not Photoshop), ending in marketing your own talent as a product; AI enters through designing publications and an explicit Prompt Engineering lesson; the robotics unit advances to real sensor work (Touch, Ultrasonic, multi-sensor navigation) on the SPIKE robot in Open Roberta Lab.
+
+Searchable tags: prompt engineering, ai images, generative ai, design, mubarak al-kabeer port, new technologies, kuwait, grade 7 digital intelligence term 1

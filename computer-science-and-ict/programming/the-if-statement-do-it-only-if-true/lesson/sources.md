@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia
+countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -30,6 +30,9 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 
 **Book 14:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 15:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 16:** *تقنية المعلومات (Information Technology), Grade 12, Term 1 (Parts 1 and 2 bound in one PDF)* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the long-running Visual Basic text; ISBN: no ISBN printed. 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -48,8 +51,10 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 | 3.2.1(ii) Struktur Kawalan Pilihan | Malaysia Grade 8 ASK Tingkatan 2, printed p. 127 |
 | 1.4.1 Struktur Kawalan Pilihan (Java) | Malaysia Grade 10 SK Tingkatan 4, printed p. 76 |
 | 3.4 Branching (If–Then–Else–ElseIf–EndIf, comparison and logical operators) | Mongolia Grade 11 IT XI, printed p. 111 |
+| Unit 2, Lesson 4 Conditions: conditions and Boolean values; the simple if statement | Kuwait Grade 10 Information Technology T1, printed p. 93 |
+| Part 2, Book 3, Chapter 2 Branching: the IF…Then instruction in its first form | Kuwait Grade 12 Information Technology T1 (Part 2), printed p. 123 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -73,4 +78,8 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Kuwait's own way (Grade 12 Information Technology Term 1): Grade 12 has NOT moved to the new Python series — it still teaches the older Visual Basic 2008 textbook: build a Windows program graphically (forms, controls, properties), then write event code, variables and branching (If…Then, Select Case), closing with a team project. A legacy book kept in service, reprinted for 2025/2026.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1

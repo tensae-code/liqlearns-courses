@@ -1,6 +1,6 @@
 # Sources — Designing vs building a website
 
-countries: Ethiopia, Belarus, Egypt, Libya
+countries: Ethiopia, Belarus, Egypt, Libya, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Belarus, Egypt, Libya
 
 **Book 4:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
+**Book 5:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Design vs development | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed p. 80 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Belarus, Egypt, Libya
 | Раздзел 1 "Асновы вэб-канструявання", § 1.1 "Інструменты і метады распрацоўкі вэб-сайтаў" (tools and methods for developing websites) | Belarus, *Інфарматыка. 11 клас*, Раздзел 1, § 1.1, printed p. 4 |
 | Unit 1 Basics of Web Site Design | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 8 (PDF page) |
 | Ch 1, website design and development techniques: markup languages, scripting languages, object-modelling techniques | Libya Grade 11 IT student Term 2, printed p. 22 |
+| Unit 1 Digital Processing: Introduction to Web Pages Development — web pages, websites and servers; design vs development | Kuwait Grade 9 Digital Intelligence T1, printed p. 21 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Egypt, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Egypt, Libya, Kuwait).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -28,4 +31,6 @@ Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whol
 
 Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 is web authoring from first principles — internet architecture and protocols, then hand-written HTML (structure, text formatting, links, lists, tables), then publishing a site properly (domain, hosting, FTP) and three full website projects. The book is printed for BOTH the Science and Humanities sections, although the records label it Humanities only — cited as printed.
 
-Searchable tags: web design vs development, WYSIWYG, Dreamweaver, text editor, Notepad, Grade 11 ICT Ethiopia, belarus, egypt, grade 11, libya, grade 11 it student term 2
+Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
+
+Searchable tags: web design vs development, WYSIWYG, Dreamweaver, text editor, Notepad, Grade 11 ICT Ethiopia, belarus, egypt, grade 11, libya, grade 11 it student term 2, kuwait, grade 9 digital intelligence term 1

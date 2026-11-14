@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 
 **Book 22:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 23:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page print المستكشف الرقمي (Digital Explorer), Grade 5, Term 2 — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the series front section placed from Book 1 (Grade 4 Term 1).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -76,8 +78,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 | Ch.4 Spreadsheet Management: packages Excel, Quattro Pro, Lotus 1-2-3, Calc and online sheets; columns, rows, cells and cell addresses | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 117 |
 | Unit 4 Spreadsheet Basics: environment, cell/row/column basics, worksheet basics (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 74 (teacher guide — evidence) |
 | Unit 4 Spreadsheet Basics: definition, environment, cell/row/column and worksheet basics | Rwanda Grade 8 S2 ICT Student Book, printed p. 95 |
+| Unit 2, Lesson 2 My Special Table (2): working with data — rows, columns and cells, the kinds of data you enter, moving between cells | Kuwait Grade 5 Digital Explorer T2, printed p. 55 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 15 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -120,4 +123,6 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
+Kuwait's own way (Grade 5 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): Grade 5 pairs a data-analysis lesson with a full Excel journey ('My Special Table', 1–4), then moves from screen coding to physical computing: robots in our lives, then micro:bit programming in MakeCode (Basic, Input and Logic block families) with an 'introduce yourself by programming' project.
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2

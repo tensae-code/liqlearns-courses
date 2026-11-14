@@ -1,6 +1,6 @@
 # Sources — Confidentiality, integrity, availability — the CIA triad
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,16 +12,19 @@ countries: Ethiopia, Mongolia
 
 **Book 5:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 6:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CIA triad defined and drawn as a triangle | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 194–195 |
 | The school-marks worked example for Activity 5.2 — confidentiality, integrity and on-time availability (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 5, printed p. 74 |
 | Lesson 08 Information security: confidentiality, integrity, availability (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 14 (teacher guide — evidence) |
 | 1.1.5 Information security and protection (availability, integrity, confidentiality; physical and logical protection; fingerprint and voice recognition) | Mongolia Grade 9 IT IX, printed p. 9 |
+| Unit 1, Theme 2: the main pillars of information security and cyber security — the CIA model | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 
 | Nine habits against cyber-attack; who to call; the triad as the protection aim (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 198–200 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Kuwait).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -29,4 +32,6 @@ Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS 
 
 Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
 
-Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix, kuwait, grade 10 information technology term 1

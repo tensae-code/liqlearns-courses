@@ -1,6 +1,6 @@
 # Sources — From Polya to programs — the algorithm
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Libya
+countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya
 
 **Book 10:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الأول (Information Technology, Grade 11, for the Science and Humanities sections, Term 1)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
+**Book 11:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The computing adjustment of Polya's steps | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 220–221 |
@@ -29,6 +31,7 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya
 | Lesson 13 Introduction to the notion of an algorithm (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 60 (teacher guide — evidence) |
 | Capítulo 1.1 Algoritmos | Cuba, *Informática, Grade 9*, printed p. 1 |
 | Ch 1, the algorithm | Libya Grade 11 IT student Term 1, printed p. 12 |
+| Unit 1, The Little Programmer (2): the stages of building a program — set the goal, the smart plan (the algorithm), the flowchart, then the code instructions (filed as NEW LESSON NEEDED — programming/the-stages-of-writing-a-program; stocked in this lesson because this lesson teaches the stages of building a program — define the problem, plan the logical steps (the algorithm) and write the program — the same four-stage craft Kuwait's book teaches (goal, smart plan, flowchart, code), and Sudan's identical slug was stocked here before) | Kuwait Grade 5 Digital Explorer T1, printed p. 61 |
 
 | What an algorithm is — the three definitions; algorithm vs program; language-independence; the doro wot analogy (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 206–207 |
 | Unit 3 Ch.1 Lesson 1 The concept of algorithms | Iraq, *Computer, Grade 7*, printed p. 83 |
@@ -38,7 +41,7 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya
 | Unit 3: Steps of building a program — define the problem, then the logical steps (the algorithm, named for al-Khwarizmi) | Sudan, *Computer Science, Grade 11*, printed p. 32 |
 | Unit 1 Lesson 3: Stages of programming (filed as programming/the-stages-of-writing-a-program; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *ICT, Grade 9*, printed p. 14 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Sudan, Cuba, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -56,4 +59,6 @@ Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year —
 
 Libya's own way (Grade 11 Term 1, Information Technology student book): a programming year taught in old-school order — problem solving and algorithms, flowcharts, memory/variables, then Visual Basic statement by statement (LET, PRINT, INPUTBOX, IF, SELECT CASE, FOR…NEXT, DO…WHILE, DO…UNTIL), every chapter ending in graded exercises. The book is printed for BOTH the Science and Humanities sections (للقسمين العلمي والأدبي), although the records label it Humanities only — cited as printed, and taught to Science and Humanities together.
 
-Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1

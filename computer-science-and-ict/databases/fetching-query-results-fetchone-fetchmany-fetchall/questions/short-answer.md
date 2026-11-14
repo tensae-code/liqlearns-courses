@@ -1,0 +1,33 @@
+# Fetching Query Results — fetchone, fetchmany, fetchall — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) Where do a SELECT's results wait?**
+**Answer: On the cursor — the query's answer, held by the database side**
+
+**2. (Sub lesson 1) What does fetching do?**
+**Answer: Moves rows from the cursor into the program**
+
+**3. (Sub lesson 1) Until a row is fetched, whose is it?**
+**Answer: Not the program's — the query was asked but nothing was heard**
+
+**4. (Sub lesson 1) What does fetchone take?**
+**Answer: The next one row**
+
+**5. (Sub lesson 1) When is fetchone right?**
+**Answer: For questions with a single answer**
+
+**6. (Sub lesson 2) What does fetchmany take?**
+**Answer: The next counted rows — answers taken in mouthfuls**
+
+**7. (Sub lesson 2) What does fetchall take?**
+**Answer: Every remaining row at once, as a list**
+
+**8. (Sub lesson 2) When is fetchall dangerous?**
+**Answer: On a very large store — a million rows held at once**
+
+**9. (Sub lesson 2) What is choosing the fetch, really?**
+**Answer: Choosing how the program will hold the answer**
+
+**10. (Sub lesson 2) Which book teaches this?**
+**Answer: Kuwait Grade 11 Information Technology Term 1, Unit 1 Lesson 5**

@@ -1,17 +1,22 @@
 # Sources — Functions of Electronic Components in a Computer
 
-countries:
+countries: Kuwait
 
 **Book 1:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
+**Book 2:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Strand 5 Unit 1, Topic Computer Electronics, Lesson 2: Functions of computer electronic components (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 62 (teacher guide — evidence, PARTIAL) |
+| Unit 2 Lesson 9: Electronics — first ideas (filed in the superseded second L2 draft of this same book as hardware/electronics-first-ideas; stocked in this lesson as the closest existing lesson covering this thing — the section is genuinely absent from Book 13's kept section for the same book, so it is stocked as an extra beyond the 216 counted placements) | Kuwait Grade 5 Digital Explorer Term 1, printed p. 189 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Kuwait).** — Kuwait's student book is this lesson's first counting source; the earlier teacher-guide evidence stays named in its book entry and rows above.
 
 Placement choice: this lesson was built new for the ICT expansion (Papua New Guinea, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — hardware/functions-of-electronic-components-in-a-computer). It sits in the Hardware title (hardware/), following the book's own order. It stands on teacher-guide evidence only: Papua New Guinea is named here and counted nowhere, and the lesson's countries list is empty. The Grade 9 guide is PARTIAL — each guide's PARTIAL label is carried with every citation in lesson/sources.md.
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: electronic components, resistor, capacitor, diode, transistor, functions, hardware, papua new guinea, grade 9
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: electronic components, resistor, capacitor, diode, transistor, functions, hardware, papua new guinea, grade 9, kuwait, grade 5 digital explorer term 1

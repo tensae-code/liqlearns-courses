@@ -1,6 +1,6 @@
 # Sources — Digital citizenship — active and thoughtful, not just careful
 
-countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia
+countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -26,6 +26,9 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 
 **Book 12:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 13:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 200 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 14:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Citizenship — the do's | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 22 (student placement item 30) |
@@ -40,8 +43,10 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 | Unit 7.3 Acceptable and responsible use | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 195 |
 | Unit 3 Ch 1, rules of conduct when using email | Libya Grade 9 Computer, printed p. 127 |
 | 1.1.1 ICT ethics and norms (workplace ethics cases, e-mail etiquette, netiquette RFC 1855) | Mongolia Grade 10 IT X, printed p. 6 |
+| Unit 1 The Digital World, Lesson 1 Digital Citizenship: what it is and the good behaviours of the digital citizen | Kuwait Grade 4 Digital Explorer T1, printed p. 25 |
+| Unit 1 The Digital World: Creative in the Digital World — the digital community, the digital citizen and digital culture with intellectual honesty | Kuwait Grade 5 Digital Explorer T1, printed p. 23 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -61,4 +66,8 @@ Libya's own way (Grade 9, Computer student book): the whole year is networks and
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x
+Kuwait's own way (Grade 4 Digital Explorer Term 1): every lesson runs استكشف–تعلم–طبق (explore–learn–apply) around a story with Hamad, an AI robot assistant mascot; digital citizenship is framed as 'with my ethics I am an ambassador of my country'; block coding starts with ScratchJr, and using the national MS Teams platform (moe.edu.kw accounts) is taught as core curriculum in the front 'Digital Classroom' section.
+
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1

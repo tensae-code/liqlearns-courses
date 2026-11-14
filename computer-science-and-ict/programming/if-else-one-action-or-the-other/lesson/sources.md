@@ -1,6 +1,6 @@
 # Sources — if…else — one action or the other
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka
+countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -29,6 +29,9 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 
 **Book 14:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 15:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page print المستكشف الرقمي (Digital Explorer), Grade 5, Term 2 — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the series front section placed from Book 1 (Grade 4 Term 1).
+**Book 16:** *تقنية المعلومات (Information Technology), Grade 12, Term 1 (Parts 1 and 2 bound in one PDF)* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the long-running Visual Basic text; ISBN: no ISBN printed. 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -49,8 +52,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 | 1.3.2 The branching algorithm (crossing the road safely; the save-a-file algorithm; even or odd) | Mongolia Grade 8 IT VIII, printed p. 23 |
 | Ch.3 Programming: simple selection | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 29 |
 | Ch.1 If...Then...Else in VB (even/odd number program) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 44 |
+| Unit 2, Lesson 10: Logic blocks — conditions (if … then … else), true/false and comparisons in MakeCode | Kuwait Grade 5 Digital Explorer T2, printed p. 141 |
+| Part 2, Book 3, Chapter 2: IF…Then…Else, with the table of comparison operators | Kuwait Grade 12 Information Technology T1 (Part 2), printed p. 123 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait).**
 
 BOOK ERROR flagged: the student book's if…else example on printed p. 171 carries a printed Word cross-reference failure — the words 'error: reference source not found' appear where a figure reference belongs. The lesson teaches the if…else content itself, which is complete and correct; the broken reference is named here, not reproduced as teaching. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -77,4 +82,8 @@ Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer s
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil
+Kuwait's own way (Grade 5 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): Grade 5 pairs a data-analysis lesson with a full Excel journey ('My Special Table', 1–4), then moves from screen coding to physical computing: robots in our lives, then micro:bit programming in MakeCode (Basic, Input and Logic block families) with an 'introduce yourself by programming' project.
+
+Kuwait's own way (Grade 12 Information Technology Term 1): Grade 12 has NOT moved to the new Python series — it still teaches the older Visual Basic 2008 textbook: build a Windows program graphically (forms, controls, properties), then write event code, variables and branching (If…Then, Select Case), closing with a team project. A legacy book kept in service, reprinted for 2025/2026.
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1

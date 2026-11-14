@@ -1,6 +1,6 @@
 # Sources — Entities, attributes and relationships
 
-countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia
+countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia
 
 **Book 10:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 11:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a data model is the blueprint of a database, showing what data to store; entities are the people, places or events data is kept about (bank: customers, accounts; library: books, loans, borrowers); an entity becomes a table when built | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 55–56 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia
 | 4.1.2 Entiti dan Atribut | Malaysia Grade 9 ASK Tingkatan 3, printed p. 118 |
 | 2.1.3 Entiti, Atribut, Set Hubungan dan Kekardinalan | Malaysia Grade 10 SK Tingkatan 4, printed p. 209 |
 | 4.2.1 Planning a database (planning a phone-book database: choosing fields, data types and the key) | Mongolia Grade 10 IT X, printed p. 118 |
+| Unit 1 Databases (SQLite in Python), Lesson 1 Relationships in Databases: what a relationship is and why it matters | Kuwait Grade 11 Information Technology T2, printed p. 17 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait).**
 
 Honesty: nothing in this lesson rests on teacher-guide evidence; all parts are pupil-taught from the student book. No book error touches these pages.
 
@@ -60,4 +63,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: data model, entity, attribute, relationship, instance, blueprint, Ethiopia Grade 11, sudan, grade 6, grade 7, fiji, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x
+Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
+
+Searchable tags: data model, entity, attribute, relationship, instance, blueprint, Ethiopia Grade 11, sudan, grade 6, grade 7, fiji, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, kuwait, grade 11 information technology term 2

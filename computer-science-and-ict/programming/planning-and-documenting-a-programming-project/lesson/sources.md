@@ -1,0 +1,52 @@
+# Sources — Planning and Documenting a Programming Project
+
+countries: Kuwait
+
+**Book 1:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 2:** *الذكاء الرقمي (Digital Intelligence), Grade 7, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 3:** *الذكاء الرقمي (Digital Intelligence), Grade 8, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 239 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 4:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 5:** *تقنية المعلومات (Information Technology), Grade 11, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: second edition 2026/2027 (first edition 2025/2026); ISBN: no ISBN printed. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 6:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 7:** *تقنية المعلومات (Information Technology), Grade 12, Term 1 (Parts 1 and 2 bound in one PDF)* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: current printing 2025/2026 (1447H) of the long-running Visual Basic text; ISBN: no ISBN printed. 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
+**Book 8:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2: Project Implementation Steps — goals and skill areas, the weekly plan, sharing team tasks, and documenting the project with references | Kuwait Grade 6 Digital Intelligence T1, printed p. 121 |
+| Unit 2: Project Implementation Steps — the project's goal, teamwork skills, the timetable of stages and scientific documentation (the same project-method lesson as Grade 6, here applied to a design product) | Kuwait Grade 7 Digital Intelligence T1, printed p. 123 |
+| Unit 2: Project Implementation Steps — goals, real-life use, research and documentation skills, the project timetable and scientific documentation (the series project-method lesson, here for a 3D design project) | Kuwait Grade 8 Digital Intelligence T1, printed p. 178 |
+| Unit 2: Project Implementation Steps — the skills the project uses, the team tasks and work plan, and continuing to learn from references (the series project-method lesson, here for a website project) | Kuwait Grade 9 Digital Intelligence T1, printed p. 175 |
+| Unit 2: Stages of Designing and Developing a Digital Product — the projects unit and project implementation steps: team roles, weekly stages, goals and skills, and scientific documentation in APA style (the series project-method lesson) | Kuwait Grade 11 Information Technology T1, printed p. 125 |
+| Unit 2: Stages of Designing and Developing a Digital Product — the project-method lesson of the series (team roles, weekly stages, goals, skills, implementation steps, APA documentation) | Kuwait Grade 11 Information Technology T2, printed p. 113 |
+| Part 2: The Project — the stages of preparing the project and preparing the program (creating the forms, adding the objects) — the series project-method lesson in its Visual Basic form | Kuwait Grade 12 Information Technology T1 (Part 2), printed p. 131 |
+| Unit 2, Project 2: Let's Apply the Project — the project plan/map and the proposed projects — the series project-method lesson | Kuwait Grade 5 Digital Explorer T1, printed p. 181 |
+
+**Acceptance count: taught in 1 country (Kuwait).**
+
+Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/planning-and-documenting-a-programming-project). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
+
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Kuwait's own way (Grade 7 Digital Intelligence Term 1): Grade 7 turns the learner into a producer: a full graphic-design course in GIMP (free software, not Photoshop), ending in marketing your own talent as a product; AI enters through designing publications and an explicit Prompt Engineering lesson; the robotics unit advances to real sensor work (Touch, Ultrasonic, multi-sensor navigation) on the SPIKE robot in Open Roberta Lab.
+
+Kuwait's own way (Grade 8 Digital Intelligence Term 1): Grade 8 is a full 3D-design course in Blender (free software again), from the viewport to modifiers, textures, lighting, cameras and 3D printing, applied to Kuwaiti landmarks (Kuwait Towers, Liberation Tower, Sadu House, Al-Shagaya renewable-energy station); the robotics unit reaches control theory — a gyroscope with proportional correction (Kp) — and functions in robot code.
+
+Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
+
+Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databases the programmer's way — not Access, but SQLite driven from Python (sqlite3), with every operation practised on one running example, a Kuwait_landmarks.db database of Kuwait's landmarks; the term ends by integrating AI with the database in a face-recognition attendance project (OpenCV Haar cascades + SQLite logging).
+
+Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
+
+Kuwait's own way (Grade 12 Information Technology Term 1): Grade 12 has NOT moved to the new Python series — it still teaches the older Visual Basic 2008 textbook: build a Windows program graphically (forms, controls, properties), then write event code, variables and branching (If…Then, Select Case), closing with a team project. A legacy book kept in service, reprinted for 2025/2026.
+
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: project planning, documentation, team roles, weekly plan, apa references, programming, kuwait, digital intelligence, information technology

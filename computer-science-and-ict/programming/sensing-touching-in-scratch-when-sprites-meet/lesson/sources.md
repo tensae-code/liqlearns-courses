@@ -1,6 +1,6 @@
 # Sources — Sensing Touching in Scratch — When Sprites Meet
 
-countries: Palestine, Bhutan
+countries: Palestine, Bhutan, Kuwait
 
 **Book 1:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -8,13 +8,16 @@ countries: Palestine, Bhutan
 
 **Book 3:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 4:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 3: Games in Scratch — sensing (touching the mouse pointer, touching another sprite or a colour; wait-until; go to front/back layers) | Palestine, *Programming, Grade 8*, printed p. 60 |
 | U.D.3 Séance 3 capturing a touched colour (fiche title misprinted, see header) (filed as programming/sensing-a-touched-colour-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 24 (teacher guide — evidence) |
 | 7.5 Sensing Blocks (filed as NEW LESSON NEEDED — programming/scratch-sensing-blocks; stocked in this lesson because this lesson teaches Scratch's sensing blocks — the touching tests and wait-until) | Bhutan, *Literacy with ICT, Class VI*, printed p. 114 |
+| Unit 1 Digital Processing: Sensing — sensing conditions and the ask/answer blocks, built into space games (Stars Collector, Space Maze, Pong) (filed as NEW LESSON NEEDED — programming/scratch-sensing-blocks; stocked in this lesson because this lesson teaches the Scratch Sensing family as its own lesson — touching tests and wait-until; Kuwait's ask/answer work is also stocked in the variables lesson's ask-and-answer teaching) | Kuwait Grade 6 Digital Intelligence T1, printed p. 23 |
 
-**Acceptance count: taught in 2 countries (Palestine, Bhutan).**
+**Acceptance count: taught in 3 countries (Palestine, Bhutan, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/sensing-touching-in-scratch-when-sprites-meet). It sits in the Programming title (programming/), following the book's own order.
 
@@ -24,4 +27,6 @@ Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real p
 
 Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
 
-Searchable tags: sensing, touching, wait until, layers, front back, games, scratch, palestine, grade 8, morocco, grade 5, bhutan, class vi
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Searchable tags: sensing, touching, wait until, layers, front back, games, scratch, palestine, grade 8, morocco, grade 5, bhutan, class vi, kuwait, grade 6 digital intelligence term 1

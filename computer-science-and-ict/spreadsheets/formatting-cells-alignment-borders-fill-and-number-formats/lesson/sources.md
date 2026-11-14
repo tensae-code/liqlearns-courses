@@ -1,6 +1,6 @@
 # Sources — Formatting cells — alignment, borders, fill and number formats
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia,
 
 **Book 14:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 15:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page print المستكشف الرقمي (Digital Explorer), Grade 5, Term 2 — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the series front section placed from Book 1 (Grade 4 Term 1).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — alignment: three horizontal and three vertical, on the Home tab; text bottom-left, numbers bottom-right by nature; Borders dropdown and Draw Borders tools; Fill Color paints the background | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 119–121 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia,
 | Competency 2.2: enters data, column width/row height, cell formatting, data types, saving a workbook (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 26 (teacher guide — evidence) |
 | Format cell data as a table (Format as Table, Table Tools) | Rwanda Grade 9 S3 ICT Student Book, printed p. 135 |
 | Format cell data as a table; printable datasheet (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 81 (teacher guide — evidence) |
+| Unit 2, Lesson 3 My Special Table (3): formatting the data — selecting a range, fonts and alignment, cell background colour and borders | Kuwait Grade 5 Digital Explorer T2, printed p. 63 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -73,4 +76,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Kuwait's own way (Grade 5 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): Grade 5 pairs a data-analysis lesson with a full Excel journey ('My Special Table', 1–4), then moves from screen coding to physical computing: robots in our lives, then micro:bit programming in MakeCode (Basic, Input and Logic block families) with an 'introduce yourself by programming' project.
+
+Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 5 digital explorer term 2

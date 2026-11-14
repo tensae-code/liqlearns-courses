@@ -1,6 +1,6 @@
 # Sources — and / or — combining tests in one if
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia
+countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malay
 
 **Book 11:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 12:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — and — both must be true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 176–178 (student placement item 123) |
@@ -38,8 +40,9 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malay
 | Ch 7, using the logical connectors AND and OR | Libya Grade 11 IT student Term 1, printed p. 80 |
 | 3.1.3(iii) Operator Logik | Malaysia Grade 8 ASK Tingkatan 2, printed p. 99 |
 | 1.4.2 Operator Hubungan dan Operator Logikal dalam Struktur Kawalan Pilihan | Malaysia Grade 10 SK Tingkatan 4, printed p. 84 |
+| Unit 2, Lesson 4: the logical operations in conditions | Kuwait Grade 10 Information Technology T1, printed p. 93 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait).**
 
 Finland is filed in this lesson as teacher-guide evidence only and does not add to this lesson's acceptance count.
 
@@ -61,4 +64,6 @@ Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well bey
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1

@@ -1,6 +1,6 @@
 # Sources — Ethics and law in information systems
 
-countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka
+countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri L
 
 **Book 11:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 12:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ethics, and why information systems raise questions | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 2 (student placement item 2) |
@@ -38,8 +40,9 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri L
 | 1.1 Etika dalam Pengkomputeran | Malaysia Grade 11 SK Tingkatan 5, printed p. 6 |
 | 1.1.2 The legal basis of ICT (privacy law, types of cybercrime) | Mongolia Grade 10 IT X, printed p. 11 |
 | Ch.2 Computer ethics | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 18 |
+| Unit 1, Theme 6: the main ethical aspects of cyber security — using technology responsibly and not harming others | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -57,4 +60,6 @@ Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, la
 
 Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
 
-Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5, mongolia, grade 10 it x, sri lanka, grade 6 reading book
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5, mongolia, grade 10 it x, sri lanka, grade 6 reading book, kuwait, grade 10 information technology term 1

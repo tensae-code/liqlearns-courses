@@ -1,6 +1,6 @@
 # Sources — The IDE — one home for editing, compiling, debugging
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka
 
 **Book 8:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 9:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an IDE is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 218–220 |
@@ -29,8 +31,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka
 | Ch 5, running the Visual Basic environment and executing a simple program; writing the program | Libya Grade 11 IT student Term 1, printed p. 47 |
 | Ch 4, the Visual Basic interface: the toolbox and its tools on a form, the project explorer window, the form-layout window, the menu bar, the toolbar, the properties window, the form window | Libya Grade 12 IT Science, printed p. 47 |
 | Ch.1 Preparing programs in Visual Basic: the VB IDE (Form Design, Project Explorer, Properties, Tool Box, Form Layout, Main Menu) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 12 |
+| Unit 2, Lesson 1: writing programs in Python — the PyCharm IDE window, creating a Python file and running it | Kuwait Grade 10 Information Technology T1, printed p. 39 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -47,4 +50,6 @@ Libya's own way (Grade 12 Science, Information Technology student book): the Sci
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1

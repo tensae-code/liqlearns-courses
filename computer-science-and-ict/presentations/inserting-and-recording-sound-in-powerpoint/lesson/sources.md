@@ -1,17 +1,22 @@
 # Sources — Inserting and Recording Sound in PowerPoint
 
-countries: Libya
+countries: Libya, Kuwait
 
 **Book 1:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
+**Book 2:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Ch 5, inserting audio material into a slide, using PowerPoint to record sound, inserting a ready-made sound clip | Libya Grade 12 IT Humanities, printed p. 73 |
+| Unit 2, Lesson 4 The Exciting Presentation (4): inserting and recording audio on a slide; audio tools — playback options and icon formatting (filed as NEW LESSON NEEDED — presentations/inserting-and-recording-audio-on-a-slide; stocked in this lesson because this lesson teaches inserting and recording sound on a slide in PowerPoint — the same thing Kuwait's section teaches) | Kuwait Grade 4 Digital Explorer T2, printed p. 123 |
 
-**Acceptance count: taught in 1 country (Libya).**
+**Acceptance count: taught in 2 countries (Libya, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Libya, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — presentations/inserting-and-recording-sound-in-powerpoint). It sits in the Presentations title (presentations/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Libya student book; teacher-guide placements are cited as (teacher guide — evidence) and counted nowhere on their own — each new lesson here also carries student-book placements, so Libya is counted once. Duplicate catalogue records of the same book (5 of the 15 records duplicate books) are cited once: 10 distinct books in this expansion. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
 
-Searchable tags: powerpoint, sound, audio, recording, narration, sound clip, presentations, libya, grade 12 it humanities
+Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
+
+Searchable tags: powerpoint, sound, audio, recording, narration, sound clip, presentations, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2

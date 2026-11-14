@@ -1,6 +1,6 @@
 # Sources — The structure of an HTML document
 
-countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka
+countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongoli
 
 **Book 10:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four parts of the skeleton | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 83–84 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongoli
 | 2.2.1 Basic structure of an HTML document (tags; headings, paragraphs, text formatting and FONT; lists; tables; images; embedding video and audio) | Mongolia Grade 11 IT XI, printed p. 67 |
 | Ch.7 Develop webpages using HTML; create a simple web page | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 96 |
 | Ch.6 Creating a web page / developing websites | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 66 |
+| Unit 1 HTML Fundamentals: Structure of an HTML Page — head, body and title; the dir attribute and page language; the pre tag | Kuwait Grade 9 Digital Intelligence T1, printed p. 39 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Kuwait).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -58,4 +61,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
 
-Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 8 reading book
+Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
+
+Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 8 reading book, kuwait, grade 9 digital intelligence term 1

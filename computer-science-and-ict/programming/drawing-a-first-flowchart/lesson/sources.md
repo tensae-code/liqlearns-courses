@@ -1,6 +1,6 @@
 # Sources — Drawing a first flowchart
 
-countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,9 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka
 
 **Book 11:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
 
+**Book 12:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+**Book 13:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The garden-policy worked example — terminators, diamond, Yes and No paths | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 225–226 |
@@ -35,12 +38,14 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka
 | Guide Ch 2, flowcharts: sequence, decision branching, repeated operations (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 1, printed p. 13 (teacher guide — evidence) |
 | Ch.5 Use flow charts to represent algorithms; sequence | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 50 |
 | Competency 3.1: flow charts with sequence, selection and iteration (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 44 (teacher guide — evidence) |
+| Unit 2, Lesson 1: algorithms and flowcharts — planning the solution (area of a rectangle; dividing two numbers) | Kuwait Grade 10 Information Technology T1, printed p. 39 |
+| Unit 1, The Little Programmer (2): drawing the flowchart that turns the smart plan's steps into a picture | Kuwait Grade 5 Digital Explorer T1, printed p. 61 |
 
 | Drawing flowcharts — add two numbers; positive or negative (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 213–214 |
 | Unit 3, 3-2: Drawing flowcharts — a simple program and a complex program | Sudan, *Computer Science, Grade 11*, printed p. 28 |
 | Unit 3 Lesson 3: Drawing flowcharts for problems | Sudan, *ICT, Grade 9*, printed p. 42 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait).**
 
 Book error, taught corrected: the teacher guide's worked speed-limit flowchart answer tangles its own FALSE branch in words ('if the S is less than or equal to 40, it is FALSE'); the lesson teaches the student book's three speed bands as printed, and the guide's sentence is not followed.
 
@@ -62,4 +67,8 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
 
-Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1

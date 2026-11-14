@@ -1,6 +1,6 @@
 # Sources - Writing a simple Python program - input, process, print
 
-countries: Ethiopia, Malaysia
+countries: Ethiopia, Malaysia, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia
 
 **Book 4:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 5:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Functions, input() and print() (function definition; print() any expression, comma-separated values on one line; input() prompt, wait, Enter, always a string; numbers must be converted) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 151-155 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Malaysia
 | The worked model solutions (teacher guide - evidence) (name/age/BMI read and converted; two-number product converting inside the input call; BMI from weight and height; five review code-writing solutions - filed as the verified expected outputs for this lesson's practice) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 6, printed pp. 116-121 |
 | Unit 2, Topic Computer Terminology and Software programming, Lesson 3: Writing Computer Programs (filed as programming/creating-a-first-program-in-microsoft-small-basic; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 70 (teacher guide — evidence) |
 | 3.1.3(i) Segmen Kod Fungsi Input dan Fungsi Output | Malaysia Grade 8 ASK Tingkatan 2, printed p. 95 |
+| Unit 2, Lesson 2: reading input with input() and building working programs (the speed-law program; the Kuwait Towers trip) | Kuwait Grade 10 Information Technology T1, printed p. 59 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Kuwait).**
 
 Guide-side numbering fault noted where this evidence is filed: the teacher guide's contents misnumbers Writing a Simple Program as "6.4" a second time - it is section 6.5 - flagged here, in the lesson whose guide evidence it labels. The lesson's programs were run in Python 3 exactly as printed: radius 3 gives area 28.26 and circumference 18.84; radius 2 gives 12.56 and 12.56. The guide's worked model solutions (guide item 25) are filed above as verified expected outputs (teacher guide - evidence), not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -27,4 +30,6 @@ Papua New Guinea's own way (Grade 11): the senior guide turns learners into juni
 
 Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
 
-Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2, kuwait, grade 10 information technology term 1

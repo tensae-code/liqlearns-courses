@@ -1,18 +1,21 @@
 # Sources — Making Your Own Blocks in Scratch
 
-countries: Palestine, Bhutan
+countries: Palestine, Bhutan, Kuwait
 
 **Book 1:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
 **Book 2:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 3:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 23: Additional blocks (defining your own block — “square”, “sum” — with number inputs, then using it like any built-in block) | Palestine, *Programming, Grade 9*, printed p. 70 |
 | Unit 3 Lesson 24: a custom “draw the triangle” block taking the two sides as inputs | Palestine, *Programming, Grade 9*, printed p. 71 |
 | 7.2 Custom Blocks (breaking a problem into functions) (filed as NEW LESSON NEEDED — programming/custom-blocks-your-own-scratch-blocks; stocked in this lesson because this lesson teaches making your own blocks in Scratch — defining a named block once and using it like a built-in block) | Bhutan, *Literacy with ICT, Class VIII*, printed p. 96 |
+| Unit 1: Make a Block — creating your own block in My Blocks and using it (Kuwait, pioneer of education) (filed as NEW LESSON NEEDED — programming/scratch-make-a-block-your-own-blocks; stocked in this lesson because this lesson teaches defining your own blocks in Scratch (My Blocks) — the same thing Kuwait's section teaches) | Kuwait Grade 6 Digital Intelligence T1, printed p. 87 |
 
-**Acceptance count: taught in 2 countries (Palestine, Bhutan).**
+**Acceptance count: taught in 3 countries (Palestine, Bhutan, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/making-your-own-blocks-in-scratch). It sits in the Programming title (programming/), following the book's own order.
 
@@ -20,4 +23,6 @@ Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications cou
 
 Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
 
-Searchable tags: custom blocks, define block, inputs, square, sum, scratch, palestine, grade 9, bhutan, class viii
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Searchable tags: custom blocks, define block, inputs, square, sum, scratch, palestine, grade 9, bhutan, class viii, kuwait, grade 6 digital intelligence term 1

@@ -1,6 +1,6 @@
 # Sources — Broadcasting Messages Between Sprites in Scratch
 
-countries: Finland, Palestine
+countries: Finland, Palestine, Kuwait
 
 **Book 1:** *Ensiaskeleet ohjelmointiin — Oppilaan kirja, Versio 2.0* (student book, Finnish) — Finland, Suomen Koodikoulu Oy, 2022. ISBN 978-952-7403-28-0. Grades 3–6. 73 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/finland-placements.md.
 
@@ -10,6 +10,8 @@ countries: Finland, Palestine
 
 **Book 4:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 5:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Project tips (advanced): Using messages (broadcast / when I receive — running the whole game by messages instead of backdrop changes) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 69 |
@@ -18,8 +20,9 @@ countries: Finland, Palestine
 | Unit 2 Lesson 2: broadcasting messages (sender and receiver in a scene; each creature in its own environment — fox/forest, fish/underwater — with background switching) | Palestine, *Programming, Grade 8*, printed p. 39 |
 | Unit 1 Lesson 3: Broadcasting messages and receiving them (finding who sent a message and who received it by right-clicking the block) | Palestine, *Programming, Grade 9*, printed p. 13 |
 | Unit 2 Lesson 13: A video from nature (building a video player: play and stop button sprites that broadcast to the video sprite and swap places; a volume variable shown as a slider) | Palestine, *Programming, Grade 9*, printed p. 35 |
+| Unit 1: Broadcasting — sending a broadcast to make other sprites act (a journey to space; raising Kuwait's flag on the moon) (filed as NEW LESSON NEEDED — programming/scratch-broadcasting-messages-between-sprites; stocked in this lesson because this lesson teaches Scratch broadcasting — sending a named message and starting scripts with when I receive — the same thing Kuwait's section teaches) | Kuwait Grade 6 Digital Intelligence T1, printed p. 53 |
 
-**Acceptance count: taught in 2 countries (Finland, Palestine).**
+**Acceptance count: taught in 3 countries (Finland, Palestine, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Finland, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked first. The placements file named this slug directly (NEW LESSON NEEDED — programming/broadcasting-messages-between-sprites-in-scratch). It sits in the Programming title (programming/). It is one whole lesson with no sub lessons — a short, single-skill lesson.
 
@@ -33,4 +36,6 @@ Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications cou
 
 Palestine stocking note (2026-11-14): the Palestine placements file named this slug NEW LESSON NEEDED, but the live tree was checked before building and the lesson already exists (built by Finland) — so Palestine's four placements were stocked into this lesson, with a provenance row per book above, and Palestine joins its acceptance count.
 
-Searchable tags: broadcast, when I receive, messages, sprites communicating, advanced, scratch, programming, finland, palestine
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Searchable tags: broadcast, when I receive, messages, sprites communicating, advanced, scratch, programming, finland, palestine, kuwait, grade 6 digital intelligence term 1

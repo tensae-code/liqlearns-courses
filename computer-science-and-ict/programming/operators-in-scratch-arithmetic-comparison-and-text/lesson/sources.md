@@ -1,6 +1,6 @@
 # Sources — Operators in Scratch — Arithmetic, Comparison and Text
 
-countries: Palestine, Cuba, Bhutan
+countries: Palestine, Cuba, Bhutan, Kuwait
 
 **Book 1:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -12,6 +12,8 @@ countries: Palestine, Cuba, Bhutan
 
 **Book 5:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 6:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 2: Operations and data (arithmetic + − × ÷, remainder, rounding, square root; comparisons; joining text; operations nested inside say blocks) | Palestine, *Programming, Grade 8*, printed p. 53 |
@@ -19,8 +21,9 @@ countries: Palestine, Cuba, Bhutan
 | Capítulo 4.2 Bloques de operadores aritméticos y lógicos en Scratch — filed as programming/scratch-operator-blocks-arithmetic-and-logic; stocked here, in the lesson covering this topic | Cuba, *Informática, Grade 8*, printed p. 116 |
 | 7.4 Operator Blocks (filed as NEW LESSON NEEDED — programming/scratch-operator-blocks; stocked in this lesson because this lesson teaches Scratch's operator blocks — arithmetic, comparison and joining text) | Bhutan, *Literacy with ICT, Class VI*, printed p. 111 |
 | 9.3 Operator (filed as NEW LESSON NEEDED — programming/scratch-operator-blocks; stocked in this lesson because this lesson teaches Scratch's operator blocks — arithmetic, comparison and joining text) | Bhutan, *Literacy with ICT, Class VII*, printed p. 125 |
+| Unit 1: Variables and Operators — the operator blocks: comparisons and calculations in Scratch (filed as NEW LESSON NEEDED — programming/scratch-operators-comparing-and-calculating; stocked in this lesson because this lesson teaches Scratch operators — arithmetic, comparison and text joining — the same thing Kuwait's section teaches) | Kuwait Grade 6 Digital Intelligence T1, printed p. 37 |
 
-**Acceptance count: taught in 3 countries (Palestine, Cuba, Bhutan).**
+**Acceptance count: taught in 4 countries (Palestine, Cuba, Bhutan, Kuwait).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/operators-in-scratch-arithmetic-comparison-and-text). It sits in the Programming title (programming/), following the book's own order.
 
@@ -34,4 +37,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: operators, arithmetic, remainder, rounding, square root, comparison, join, mean, scratch, palestine, grade 8, grade 9, cuba, grade 8, bhutan, class vi, class vii
+Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
+
+Searchable tags: operators, arithmetic, remainder, rounding, square root, comparison, join, mean, scratch, palestine, grade 8, grade 9, cuba, grade 8, bhutan, class vi, class vii, kuwait, grade 6 digital intelligence term 1

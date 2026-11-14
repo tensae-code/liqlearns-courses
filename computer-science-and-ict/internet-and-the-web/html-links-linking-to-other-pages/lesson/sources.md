@@ -1,6 +1,6 @@
 # Sources — HTML links — linking to other pages
 
-countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka
+countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka
 
 **Book 9:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 10:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The anchor element — reference and clickable text | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 87–89 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka
 | 4.2.5 Pautan Teks dan Imej dalam HTML | Malaysia Grade 7 ASK Tingkatan 1, printed p. 128 |
 | 2.2.3 Links and their types (links between pages, anchors inside a page, mailto links, target, link colours) (filed as NEW LESSON NEEDED — programming/html-links-and-anchors; stocked in this lesson because this lesson teaches HTML links and the anchor element as its own lesson) | Mongolia Grade 11 IT XI, printed p. 82 |
 | Ch.5 Links: anchors within a document, image buttons as links | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 196 |
+| Unit 1: HTML Page Formatting and Handling Links — creating hyperlinks with the a tag, their kinds, and opening a link in a new tab (the Kuwait Future site: index, Kuwait Vision 2035, Kuwait Landmarks) | Kuwait Grade 9 Digital Intelligence T1, printed p. 53 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -52,4 +55,6 @@ Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU regis
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil
+Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
+
+Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1

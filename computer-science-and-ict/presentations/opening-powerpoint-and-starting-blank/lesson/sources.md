@@ -1,6 +1,6 @@
 # Sources — Opening PowerPoint and starting blank
 
-countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka
+countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka
 
 **Book 10:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The File tab — New, Open, Recent and what each does | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 121–122 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka
 | 7.3 Introduction to MS PowerPoint | Bhutan, *Literacy with ICT, Class VII*, printed p. 99 |
 | Ch 5, using multimedia in producing presentations: starting the PowerPoint program | Libya Grade 12 IT Humanities, printed p. 61 |
 | Ch.5 Opening/closing/creating a presentation in PowerPoint 2010 and Impress 4.1 (templates, Presentation Wizard) (filed as presentations/creating-a-new-presentation; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 198 |
+| Unit 2 Digital Tools (Microsoft PowerPoint), Lesson 1 The Exciting Presentation (1): launching into presentations — starting PowerPoint, its window, adding slides, opening and saving a presentation file | Kuwait Grade 4 Digital Explorer T2, printed p. 95 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka).**
+**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Iraq, Sudan, Egypt, Bhutan, Libya, Sri Lanka, Kuwait).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -55,4 +58,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
 
-Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 12 science for technology tamil
+Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
+
+Searchable tags: PowerPoint, File tab, New, Open, Recent, blank presentation, Create, Ethiopia Grade 9, afghanistan, mauritania, grade 9, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 12 science for technology tamil, kuwait, grade 4 digital explorer term 2

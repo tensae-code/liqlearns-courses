@@ -1,6 +1,6 @@
 # Sources — Securing your computer — the checklist
 
-countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda
+countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda
 
 **Book 13:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 14:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The securing steps — software, firewall, updates, attachments, passwords, caution, scans and backups | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 208–209 |
@@ -41,12 +43,13 @@ countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda
 | Security procedures: protect physical equipment (fire, burglary, UPS, surge protector) and protect data (backups, antivirus updates, strong passwords, firewall) | Rwanda Grade 9 S3 ICT Student Book, printed p. 320 |
 | Basic security precautions: wireless networks (SSID, Wi-Fi encryption, access rights) and wired networks (physical access, strong passwords, secure cables) | Rwanda Grade 9 S3 ICT Student Book, printed p. 323 |
 | Security procedures and basic security precautions (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 167 (teacher guide — evidence) |
+| Unit 1, Theme 4: cyber-security practices — the protective measures you can take | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 
 | The two families; the technical table of seven measures (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 188–189 |
 | Copy protection's components; seven ways to protect programs and data; non-technical prevention keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 5 (Activity 5.7 key), printed pp. 96–97 |
 | Unit 4 Ch.2 Lesson 2 Protection measures against cyber attacks | Iraq, *Computer, Grade 10*, printed p. 134 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait).**
 
 Book error, taught corrected: the student book numbers two different activities 5.4 in this unit; both are taught in this build, in the book's order, and the duplicate number is flagged here rather than silently renumbered. The teacher guide prints "treats" for threats throughout its Unit 5; the build teaches 'threats'.
 
@@ -68,4 +71,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
+
+Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1

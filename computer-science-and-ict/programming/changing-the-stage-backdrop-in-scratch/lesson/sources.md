@@ -1,18 +1,21 @@
 # Sources — Changing the Stage Backdrop in Scratch
 
-countries:
+countries: Kuwait
 
 **Book 1:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
 **Book 2:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 3e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 38 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the whole Grade 3 year is Scratch: 4 teaching units (discovering Scratch, sprites, the stage, sounds) plus two story projects; the 5th séance of each teaching unit is evaluation and is not placed. The U.D.1 Séance 4 fiche carries a misprinted title (“Rechercher des vidéos sur Internet”) — its objectives and activities are the Scratch instructions and scripts area, and it is placed by its content. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
+**Book 3:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3, Lesson 1: Changing the sprite and the stage backdrop (choosing from the library by category, drawing a new one, or uploading a picture) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 80 (teacher guide — evidence) |
 | U.D.3 Séance 3 Personnaliser et modifier un arrière-plan (filed as programming/personalising-and-editing-a-backdrop-with-the-drawing-tools; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 24 (teacher guide — evidence) |
 | U.D.3 Séance 4 Dessiner un arrière-plan (filed as programming/drawing-your-own-backdrop; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 25 (teacher guide — evidence) |
+| Unit 2, Looks (2): changing the stage's look and the colour of the stage backdrop (filed as NEW LESSON NEEDED — programming/scratch-changing-the-stage-backdrop; stocked in this lesson because this lesson teaches choosing and changing the stage backdrop in Scratch — the same thing Kuwait's section teaches; it stood on Saudi teacher-guide evidence only, so Kuwait's student book is its first counting source) | Kuwait Grade 5 Digital Explorer T1, printed p. 143 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Saudi Arabia), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Kuwait).** — Kuwait's student book is this lesson's first counting source; the earlier teacher-guide evidence stays named in its book entry and rows above.
 
 Placement choice: this lesson was built new for the ICT expansion (Saudi Arabia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/changing-the-stage-backdrop-in-scratch). It sits in the Programming title (programming/), following the book's own order. It stands on teacher-guide evidence only: Saudi Arabia is named here and counted nowhere, and the lesson's countries list is empty. The Grade 4 guide citation is PARTIAL — Term 1 only (guide pp. 1–92 of 292); Terms 2–3 are missing, and the record's "full-year" filename is wrong as filed.
 
@@ -20,4 +23,6 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Morocco's own way (Grade 3): a full primary year given to one tool — Scratch — sequenced interface → sprites → stage/backdrops → sounds, each strand ending in a familiar story retold as a Scratch project (the hare and the tortoise; Little Red Riding Hood). (teacher guide — evidence)
 
-Searchable tags: scratch, stage backdrop, sprite, library, drawing, uploading, programming, saudi arabia, grade 4, morocco, grade 3
+Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
+
+Searchable tags: scratch, stage backdrop, sprite, library, drawing, uploading, programming, saudi arabia, grade 4, morocco, grade 3, kuwait, grade 5 digital explorer term 1
