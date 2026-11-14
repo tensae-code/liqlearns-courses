@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia
+countries: Ethiopia, Serbia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -36,3 +36,18 @@ Searchable tags: chemical change, burning, rusting, gas forming, paper and ash, 
 | Grade 7 physical vs chemical change — crushed chalk vs chalk in vinegar; Table 2.3 contrast | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 46–47 |
 
 Acceptance count unchanged: taught in 1 country (Ethiopia).
+
+## Serbia — General Science expansion (2026-11-13)
+
+**Book (Serbia):** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Промене материјала (Changes of materials): reversible changes — bending, squeezing and stretching that spring back — placement filed as NEW LESSON NEEDED — changes-that-can-be-undone-and-changes-that-cannot; stocked into this existing lesson, which already covers the thing (physical changes that form nothing new and are mostly reversible, set against chemical changes that form new substances, in the Grade 5 comparison, Table 3.2) (Serbia, Grade 3) | Serbia, *Природа и друштво 3*, printed p. 106 |
+| Неповратне промене (Irreversible changes): burning to ash, rusting, cooking and rotting make new materials — placement filed as NEW LESSON NEEDED — changes-that-can-be-undone-and-changes-that-cannot; stocked into this existing lesson, which already covers the thing (Serbia, Grade 3) | Serbia, *Природа и друштво 3*, printed p. 108 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Serbia).**
+
+Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk

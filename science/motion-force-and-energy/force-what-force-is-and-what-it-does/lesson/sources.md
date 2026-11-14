@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -110,3 +110,17 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — force taught as pulling and pushing, a lesson each for the pull, the push, and understanding both, in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, pulling and pushing, pull, push
+
+## Serbia — General Science expansion (2026-11-13)
+
+**Book (Serbia):** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Утицај јачине деловања на пређено растојање тела (How the strength of the action changes the distance a body travels): the push-and-measure experiments (Serbia, Grade 3) | Serbia, *Природа и друштво 3*, printed p. 94 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia).**
+
+Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk

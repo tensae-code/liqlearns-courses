@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -75,3 +75,17 @@ Searchable tags: tuvalu, usp reader 4, tuvalu water, atolls, droughts, precious 
 Niue’s own way — precious water taught through the Pacific's own waterless-atoll case, in the reader Niue adopted — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp reader 4, tuvalu water, atolls, droughts, precious water
+
+## Serbia — General Science expansion (2026-11-13)
+
+**Book (Serbia):** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Значај и заштита воде (Importance and protection of water): water's uses from drinking to hydroelectric power, its polluters, and how to protect it (Serbia, Grade 3) | Serbia, *Природа и друштво 3*, printed p. 76 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia).**
+
+Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk

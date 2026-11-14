@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -58,3 +58,18 @@ Searchable tags: disease, germs, flies, mosquitoes, trachoma, hygiene diseases, 
 Suriname's own way — Suriname teaches disease through its own two mosquito-carried diseases in a row — malaria first, then dengue as the second mosquito-carried disease — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, malaria, dengue, mosquito-carried disease, natuuronderwijs
+
+## Serbia — General Science expansion (2026-11-13)
+
+**Book (Serbia):** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Заразне болести (Infectious diseases): flu, infectious jaundice — the "disease of dirty hands" — and chickenpox; the protection rules and vaccination (Serbia, Grade 3) | Serbia, *Природа и друштво 3*, printed p. 52 |
+| Заразне болести (Infectious diseases), the same lesson's second half: diseases carried from animals — ticks and Lyme disease, head lice — how to protect yourself and what to do after a tick bite (Serbia, Grade 3) | Serbia, *Природа и друштво 3*, printed p. 54 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Peru, Australia, Suriname, Serbia).**
+
+Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
