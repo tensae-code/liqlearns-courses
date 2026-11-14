@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland
+countries: Ethiopia, Cuba, Finland, Mexico
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -8,17 +8,20 @@ countries: Ethiopia, Cuba, Finland
 
 **Book 3:** *Luova LUMA -hankkeen aktiviteettipankki* (early-years activity collection) — Finland, Luova LUMA project, Tampere University of Applied Sciences (TAMK), Finland. Title as printed: Luova LUMA -hankkeen aktiviteettipankki. Publisher: Luova LUMA project, Tampere University of Applied Sciences (TAMK), Finland. PDF 24 pages. Verdict: COMPLETE (15 numbered activities, contents p. 2). Records: the Finland file carries 4 target records (2 TSV + 2 books.json) for 2 distinct books; this activity bank's books.json record is the same book as its TSV record (identical byte size 7,259,705 B / 24 pp, verified through the earlier readers' fetch inventory), cited once here. Hosted on Finland's national AOE learning-materials library, filed under Grade 1 in the records; it is not a school textbook series — it is a bank of hands-on science activities for early-childhood education (roughly ages 1–6), each with materials, a story or procedure and the science idea. Read in full. Page numbers are the PDF page numbers, which match the activity bank's own contents page. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/finland-placements.md.
 
+**Book 4:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pan-and-ice experiment (vapour condensing on a cold pan bottom); evaporation from surface water; transpiration from plants; condensation into droplets | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 6, printed pp. 166–168 |
 | Sub lesson 2 — Precipitation as rain; soil absorption and flow back to water bodies; the loop with no starting point, which is why Earth's water endures | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 6, printed pp. 166–168 |
 | Ch. 6: the hydrological cycle — printed pp. 158–159 (Cuba, Grade 7) | Cuba, *Geografía Física — séptimo grado (Grade 7, Physical Geography)*, Ch. 6: the hydrological cycle — printed pp. 158–159 |
 | Activity 15 — the water cycle: droplets form under the lid (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 15 — LUMA Activities, p. 23 |
+| Distribution of continental waters in Mexico and the world: the water cycle and the world's water percentages (Mexico, Grade 7) | Mexico, *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed p. 47 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cuba, Finland).**
+**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Finland, Mexico).**
 
 Placement decision, stated for the record: no water-cycle lesson exists in the Our Environment or Soil and Water titles (checked both trees at build time; Soil and Water teaches water's uses, drought and water bodies, not the cycle), so this is a NEW lesson in Our Environment, as the brief directs. A secondary-depth Biology lesson on the water cycle exists under the Biology title; it is a different treatment at a different depth and was not grown.
 
 The video script for this lesson is FULL, as the placement requires: it walks through the pan-and-ice condensation experiment step by step.
 
-Searchable tags: water cycle, evaporation, transpiration, condensation, precipitation, pan and ice experiment, Ethiopia Grade 7 General Science Unit 6, finland, luova luma, droplets under the lid
+Searchable tags: water cycle, evaporation, transpiration, condensation, precipitation, pan and ice experiment, Ethiopia Grade 7 General Science Unit 6, finland, luova luma, droplets under the lid, mexico, etica naturaleza y sociedades

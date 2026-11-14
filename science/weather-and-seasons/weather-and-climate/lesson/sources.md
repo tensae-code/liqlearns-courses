@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia
+countries: Ethiopia, Mexico
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia
 
 **Book 13:** *Grade 6 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ስድስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–63 (Units 1–3); Units 4–5 are NOT in the file (the contents page promises 5 units running to at least printed p. 105). Printed page = PDF page − 11. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-teacher-placements.md.
 
+**Book 14:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Weather is short; climate is long | Ethiopia, *Grade 2 Student Textbook*, Chapter 3, climate and its elements, printed pp. 33–34 |
@@ -35,6 +37,7 @@ countries: Ethiopia
 | The elements, and the air itself | Ethiopia, *Grade 2 Student Textbook*, Chapter 3, climate elements, printed pp. 33–34 |
 | The elements, and the air itself (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide (Addis Ababa Bureau)*, §3.1, air — a mixture of gases (teacher guide — evidence), printed pp. 42–47 |
 | The elements, and the air itself | Ethiopia, *Grade 2 Student Textbook*, Chapter 3, air is breathed by all living things; the hold-nose activity, printed pp. 65–67 |
+| Difference between climate and weather (Mexico, Grade 7) | Mexico, *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed p. 101 |
 
 | Grade 4: the long average, worked at Debre Berhan | Ethiopia, *Grade 4 Student Textbook*, §3.1, printed pp. 69–70 |
 | Grade 4: the long average, worked at Debre Berhan (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §3.1.1, printed pp. 66–71 |
@@ -46,7 +49,7 @@ countries: Ethiopia
 
 | Chapter 3 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 3 summary + review, printed pp. 96–99 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–54 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
@@ -62,4 +65,4 @@ Grade 5/6 extension (2026-11-12): the Grade 5 student book is COMPLETE. Both tea
 
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
-Searchable tags: weather, climate, elements of weather, temperature, rain, 30 years, የአየር ንብረት, long-term average, Debre Berhan station, 25 years
+Searchable tags: weather, climate, elements of weather, temperature, rain, 30 years, የአየር ንብረት, long-term average, Debre Berhan station, 25 years, mexico, etica naturaleza y sociedades
