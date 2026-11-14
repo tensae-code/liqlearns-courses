@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -96,3 +96,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 4 countries (Serbia, Mongolia, Cuba, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, materials dissolving-when-solids-disappear-into-liquids
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 1.5: which materials dissolve in water — salt and ink dissolve (soluble); oil and sand do not (insoluble) (guide evidence) — filed as NEW LESSON NEEDED — materials/dissolving-solids-in-water; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 18 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 4 countries (Serbia, Mongolia, Cuba, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, materials dissolving-when-solids-disappear-into-liquids

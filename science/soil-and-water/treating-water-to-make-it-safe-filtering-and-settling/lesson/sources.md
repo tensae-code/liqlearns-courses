@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -140,3 +140,25 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 5 countries (India, Pakistan (Punjab), Cuba, Egypt, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, treating-water-to-make-it-safe-filtering-and-settling
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Manual de Ciências Integradas, 4.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 4º Ano — Manual (cover verified from the PDF). Grade: 4 (student/teacher: STUDENT book). PDF pages: 105 (verified: byte size 10,203,079 and 105 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade III (Ciências da Natureza, Temas 6–11) is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade II (Atividades Económicas) are social studies/economics, recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 10: water quality (printed p. 85) (Cabo Verde, Grade 4) | Ciências Integradas 4, printed p. 87 |
+
+**Book (Cabo Verde — Grade 4):** *Guia de Atividades Científicas, 4.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação); no year printed in the text layer (no ISBN printed). Title as printed: Guia de Atividades Científicas — 4.º ano (series title page; the guide's own front matter addresses teachers and pupils of the 4th year). Grade: 4 (student/teacher: TEACHER guide — practical companion to the Grade 4 student manual; all placements from it are guide evidence). PDF pages: 48 (verified: byte size 1,843,077 and 48 pages; contents page matches the record title). Verdict: COMPLETE — Experiences 1 ("Eu, Cidadão") and 2 (traffic rules) are citizenship/safety lessons, recorded in the placements file as out of the general-science scope and not placed; Experiences 3–12 are placed here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 7: building a filter to purify water (guide evidence) (Cabo Verde, Grade 4) | Cabo Verde G4 Activities Guide, printed p. 24 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 6 countries (India, Pakistan (Punjab), Cuba, Egypt, Ecuador, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, soil-and-water treating-water-to-make-it-safe-filtering-and-settling

@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -235,3 +235,36 @@ Searchable tags: egypt, plants what-a-plant-needs-to-grow
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, what a plant needs to grow
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 11 "The little plants": two plants in bags, one with air holes and one sealed — which lives longer without watering (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 33 |
+
+**Book (Cabo Verde — Grade 3):** *Guia de Atividades Científicas, 3.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 3º ano. Grade: 3 (student/teacher: TEACHER guide — practical companion to the Grade 3 student manual; all placements from it are guide evidence). PDF pages: 52 (verified: byte size 7,018,456 and 52 pages; title page matches the record title). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 5: vegetables/plants hold water in their make-up (guide evidence) (Cabo Verde, Grade 3) | Cabo Verde G3 Activities Guide, printed p. 21 |
+| Experience 9: the needs of plants (guide evidence) (Cabo Verde, Grade 3) | Cabo Verde G3 Activities Guide, printed p. 29 |
+
+**Book (Cabo Verde — Grade 4):** *Guia de Atividades Científicas, 4.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação); no year printed in the text layer (no ISBN printed). Title as printed: Guia de Atividades Científicas — 4.º ano (series title page; the guide's own front matter addresses teachers and pupils of the 4th year). Grade: 4 (student/teacher: TEACHER guide — practical companion to the Grade 4 student manual; all placements from it are guide evidence). PDF pages: 48 (verified: byte size 1,843,077 and 48 pages; contents page matches the record title). Verdict: COMPLETE — Experiences 1 ("Eu, Cidadão") and 2 (traffic rules) are citizenship/safety lessons, recorded in the placements file as out of the general-science scope and not placed; Experiences 3–12 are placed here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 9: how plants absorb water (guide evidence) (Cabo Verde, Grade 4) | Cabo Verde G4 Activities Guide, printed p. 28 |
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 20: vital processes in plants (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 54 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, plants what-a-plant-needs-to-grow

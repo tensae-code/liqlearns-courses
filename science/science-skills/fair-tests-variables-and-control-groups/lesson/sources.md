@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -125,3 +125,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, fair te
 Placement choice, on the record: this placement was filed as "science-skills/designing-a-fair-test" — samoa-placements.md, printed p. 55 — and is stocked here because the existing lesson on fair tests, variables and control groups teaches designing a fair test as its own thing. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, science skills fair tests variables and control groups
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how to organise experimental data (guide evidence) (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 13 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills fair-tests-variables-and-control-groups

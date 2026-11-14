@@ -1,6 +1,6 @@
 # Sources — Measuring: volume and displacement
 
-countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles
+countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -34,3 +34,17 @@ Seychelles' own way — the NIP Integrated Science unit booklets teach this thin
 The Grade 4 student book is COMPLETE (printed pp. 1–148), cited exactly as its placements header gives it. Carried item — see the honesty note in Measuring: traditional and modern measures.
 
 Searchable tags: volume ይዘት ምድገት, displacement, graduated cylinder, cubic metre centimetre, litre, north macedonia, finland, luova luma, measuring amounts of liquid, volumes of vessels
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 1.1: does water keep the same volume? Pouring one bottle through jug, cups and bowls — water takes the container's shape, volume does not change (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 15 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills volume-and-displacement

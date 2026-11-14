@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -217,3 +217,25 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 9 countries (Ethiopia, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab, Cuba, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, the-human-body the-lungs-and-breathing
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Manual de Ciências Integradas, 3.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 3º Ano (cover verified from the PDF). Grade: 3 (student/teacher: STUDENT book). PDF pages: 104 (verified: byte size 25,740,939 and 104 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade II (Temas 3–8) is the science unit and is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade III (Atividades Económicas) are social studies/economics, not science, and are recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 3 vital functions: respiration (Cabo Verde, Grade 3) | Ciências Integradas 3, printed p. 35 |
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 8: simulating breathing movements (guide evidence) (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 30 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab, Cuba, Afghanistan, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body the-lungs-and-breathing

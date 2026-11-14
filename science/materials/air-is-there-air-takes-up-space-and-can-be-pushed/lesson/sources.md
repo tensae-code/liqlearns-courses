@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -145,3 +145,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, air is 
 Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, air is there air takes up space and can be pushed
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiments 3.1–3.2: air exists and takes up space — air trapped in the funnel keeps water out; the handkerchief in the upturned glass stays dry (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed pp. 22–23 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 5 countries (India, Uganda, Bulgaria, Moldova, Cuba).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, materials air-is-there-air-takes-up-space-and-can-be-pushed

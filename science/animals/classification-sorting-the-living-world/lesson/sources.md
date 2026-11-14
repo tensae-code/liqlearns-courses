@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -127,3 +127,25 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 7 countries (Ethiopia, Suriname, Uganda, Moldova, Pakistan (Punjab), Samoa, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, classification-sorting-the-living-world
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 5: sorting fallen leaves by colour, texture, size, shape, edge and veins — choosing your own classification criteria (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 26 |
+
+**Book (Cabo Verde — Grade 3):** *Manual de Ciências Integradas, 3.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 3º Ano (cover verified from the PDF). Grade: 3 (student/teacher: STUDENT book). PDF pages: 104 (verified: byte size 25,740,939 and 104 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade II (Temas 3–8) is the science unit and is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade III (Atividades Económicas) are social studies/economics, not science, and are recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 8 My experiences: what a dichotomous key is for (Cabo Verde, Grade 3) | Ciências Integradas 3, printed p. 74 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Suriname, Uganda, Moldova, Pakistan (Punjab), Samoa, Ecuador, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals classification-sorting-the-living-world

@@ -1,6 +1,6 @@
 # Sources — Animals — birds
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -59,3 +59,18 @@ Searchable tags: iceland, líf á landi, forest birds, owl, woodcock, godwit, re
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, animals birds
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 5: feeding birds (field observation) (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 24 |
+| Experience 7: make-up and properties of feathers (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 28 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Sweden, Bulgaria).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals animals-birds

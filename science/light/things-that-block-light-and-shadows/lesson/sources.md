@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -191,3 +191,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 14 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, light things-that-block-light-and-shadows
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Guia de Atividades Científicas, 3.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 3º ano. Grade: 3 (student/teacher: TEACHER guide — practical companion to the Grade 3 student manual; all placements from it are guide evidence). PDF pages: 52 (verified: byte size 7,018,456 and 52 pages; title page matches the record title). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 10: shadows and the cardinal points (guide evidence) (Cabo Verde, Grade 3) | Cabo Verde G3 Activities Guide, printed p. 31 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 14 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, light things-that-block-light-and-shadows

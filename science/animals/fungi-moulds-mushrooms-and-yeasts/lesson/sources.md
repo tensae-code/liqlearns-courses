@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -111,3 +111,17 @@ Searchable tags: pakistan, punjab, general science, fungi-moulds-mushrooms-and-y
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, animals fungi moulds mushrooms and yeasts
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 3: effect of temperature on bread yeast (guide evidence) (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 18 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Sweden, Uganda, Moldova, Pakistan (Punjab, Samoa).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals fungi-moulds-mushrooms-and-yeasts

@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles, Cabo Verde
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -129,3 +129,25 @@ Searchable tags: samoa, samoa mesc, the human body the human reproductive system
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, the human reproductive system
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Manual de Ciências Integradas, 4.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 4º Ano — Manual (cover verified from the PDF). Grade: 4 (student/teacher: STUDENT book). PDF pages: 105 (verified: byte size 10,203,079 and 105 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade III (Ciências da Natureza, Temas 6–11) is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade II (Atividades Económicas) are social studies/economics, recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 8: reproduction (printed p. 74) (Cabo Verde, Grade 4) | Ciências Integradas 4, printed p. 76 |
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 11: transmission of life (reproduction) (guide evidence) (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 37 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Guyana, Mongolia, India, Cuba, Samoa, Cambodia, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body the-human-reproductive-system

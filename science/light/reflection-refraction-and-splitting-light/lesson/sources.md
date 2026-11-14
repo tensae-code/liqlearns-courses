@@ -1,6 +1,6 @@
 # Sources — Reflection, refraction and splitting light
 
-countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa
+countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -59,3 +59,17 @@ Searchable tags: pakistan, punjab, general science, reflection-refraction-and-sp
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, light reflection refraction and splitting light
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Guia de Atividades Científicas, 3.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 3º ano. Grade: 3 (student/teacher: TEACHER guide — practical companion to the Grade 3 student manual; all placements from it are guide evidence). PDF pages: 52 (verified: byte size 7,018,456 and 52 pages; title page matches the record title). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 12: refraction and reflection of light (guide evidence) (Cabo Verde, Grade 3) | Cabo Verde G3 Activities Guide, printed p. 35 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 7 countries (Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab, Samoa).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, light reflection-refraction-and-splitting-light

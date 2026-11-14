@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -177,3 +177,29 @@ Placement choice, on the record: the United States placement(s) above were filed
 **Acceptance count: taught in 6 countries (Sweden, Guyana, Mongolia, India, Bulgaria, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, life cycles of plants and animals
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Guia de Atividades Científicas, 3.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 3º ano. Grade: 3 (student/teacher: TEACHER guide — practical companion to the Grade 3 student manual; all placements from it are guide evidence). PDF pages: 52 (verified: byte size 7,018,456 and 52 pages; title page matches the record title). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 6: building the life cycle of the butterfly (guide evidence) — filed as NEW LESSON NEEDED — animals/life-cycles-of-animals; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Cabo Verde, Grade 3) | Cabo Verde G3 Activities Guide, printed p. 23 |
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 26: reproduction in hens (guide evidence) — filed as NEW LESSON NEEDED — animals/life-cycles-of-animals; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 68 |
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 12: building an egg-candling device (ovoscopy) to watch the chick develop (guide evidence) — filed as NEW LESSON NEEDED — animals/life-cycles-of-animals; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 43 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 6 countries (Sweden, Guyana, Mongolia, India, Bulgaria, United States).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals life-cycles-of-plants-and-animals

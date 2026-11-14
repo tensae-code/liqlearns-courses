@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -141,3 +141,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 11 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, earth-and-space inside-the-earth-crust-mantle-core
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Manual de Ciências Integradas, 3.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 3º Ano (cover verified from the PDF). Grade: 3 (student/teacher: STUDENT book). PDF pages: 104 (verified: byte size 25,740,939 and 104 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade II (Temas 3–8) is the science unit and is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade III (Atividades Económicas) are social studies/economics, not science, and are recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 7: landscape and landforms — mountains; seas, rivers, lagoons and lakes (Cabo Verde, Grade 3) | Ciências Integradas 3, printed p. 66 |
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 12 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space inside-the-earth-crust-mantle-core

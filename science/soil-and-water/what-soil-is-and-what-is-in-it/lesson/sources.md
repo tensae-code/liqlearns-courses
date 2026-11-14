@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -287,3 +287,37 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 16 countries (Ethiopia, Mexico, Suriname, Italy, Nauru, Tuvalu, Niue, Micronesia, India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, soil-and-water what-soil-is-and-what-is-in-it
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Manual de Ciências Integradas, 3.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 3º Ano (cover verified from the PDF). Grade: 3 (student/teacher: STUDENT book). PDF pages: 104 (verified: byte size 25,740,939 and 104 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade II (Temas 3–8) is the science unit and is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade III (Atividades Económicas) are social studies/economics, not science, and are recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 7: the soil (Cabo Verde, Grade 3) | Ciências Integradas 3, printed p. 66 |
+
+**Book (Cabo Verde — Grade 4):** *Manual de Ciências Integradas, 4.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 4º Ano — Manual (cover verified from the PDF). Grade: 4 (student/teacher: STUDENT book). PDF pages: 105 (verified: byte size 10,203,079 and 105 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade III (Ciências da Natureza, Temas 6–11) is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade II (Atividades Económicas) are social studies/economics, recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 10: the soil (printed p. 89) (Cabo Verde, Grade 4) | Ciências Integradas 4, printed p. 91 |
+
+**Book (Cabo Verde — Grade 5):** *Guia de Atividades Científicas, 5.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves and Diara Kady Rocha (no ISBN printed). Title as printed: Guia de Atividades Científicas — 5º ano (credits page verified from the PDF). Grade: 5 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 54 (verified: byte size 3,306,715 and 54 pages; title page matches the record title; pages cited are the guide's printed foliation from its index). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 7: making paints from soil samples (guide evidence) (Cabo Verde, Grade 5) | Cabo Verde G5 Activities Guide, printed p. 29 |
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 14: observing sands (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 41 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Mexico, Suriname, Italy, Nauru, Tuvalu, Niue, Micronesia, India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, soil-and-water what-soil-is-and-what-is-in-it

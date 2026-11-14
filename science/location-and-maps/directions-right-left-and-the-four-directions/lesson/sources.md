@@ -1,6 +1,6 @@
 # Sources — Directions — Right, Left and the Four Directions
 
-countries: Ethiopia, Serbia, Mongolia, Moldova
+countries: Ethiopia, Serbia, Mongolia, Moldova, Cabo Verde
 
 **Book 2:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -82,3 +82,17 @@ Searchable tags: mongolia, directions right left and the four directions, khun b
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, directions right left and the four directions, stiinte, sciences, grade 2, grade 3
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Manual de Ciências Integradas, 3.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 3º Ano (cover verified from the PDF). Grade: 3 (student/teacher: STUDENT book). PDF pages: 104 (verified: byte size 25,740,939 and 104 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade II (Temas 3–8) is the science unit and is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade III (Atividades Económicas) are social studies/economics, not science, and are recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 7: the cardinal points (found from the Sun's path) (Cabo Verde, Grade 3) | Ciências Integradas 3, printed p. 66 |
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Serbia, Mongolia, Moldova, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, location-and-maps directions-right-left-and-the-four-directions

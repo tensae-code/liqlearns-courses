@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -350,3 +350,23 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 18 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, our-environment cycles-the-water-cycle
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Guia de Atividades Científicas, 4.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação); no year printed in the text layer (no ISBN printed). Title as printed: Guia de Atividades Científicas — 4.º ano (series title page; the guide's own front matter addresses teachers and pupils of the 4th year). Grade: 4 (student/teacher: TEACHER guide — practical companion to the Grade 4 student manual; all placements from it are guide evidence). PDF pages: 48 (verified: byte size 1,843,077 and 48 pages; contents page matches the record title). Verdict: COMPLETE — Experiences 1 ("Eu, Cidadão") and 2 (traffic rules) are citizenship/safety lessons, recorded in the placements file as out of the general-science scope and not placed; Experiences 3–12 are placed here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 11: simulating rain (guide evidence) (Cabo Verde, Grade 4) | Cabo Verde G4 Activities Guide, printed p. 32 |
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 2: the water cycle (guide evidence) (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 16 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 18 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, our-environment cycles-the-water-cycle

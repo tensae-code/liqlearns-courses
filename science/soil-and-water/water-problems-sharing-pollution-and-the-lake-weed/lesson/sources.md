@@ -1,6 +1,6 @@
 # Sources — Water problems: sharing, pollution and the lake weed
 
-countries: Ethiopia, Bulgaria, Armenia
+countries: Ethiopia, Bulgaria, Armenia, Cabo Verde
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -43,3 +43,17 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Manual de Ciências Integradas, 4.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 4º Ano — Manual (cover verified from the PDF). Grade: 4 (student/teacher: STUDENT book). PDF pages: 105 (verified: byte size 10,203,079 and 105 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade III (Ciências da Natureza, Temas 6–11) is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade II (Atividades Económicas) are social studies/economics, recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 10: conserving the sea (printed p. 86) (Cabo Verde, Grade 4) | Ciências Integradas 4, printed p. 88 |
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, Armenia, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, soil-and-water water-problems-sharing-pollution-and-the-lake-weed

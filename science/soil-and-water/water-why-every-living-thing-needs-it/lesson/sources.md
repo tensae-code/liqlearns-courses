@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -209,3 +209,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 12 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, water-why-every-living-thing-needs-it
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 15: water (properties and uses investigation) (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 43 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 12 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, soil-and-water water-why-every-living-thing-needs-it

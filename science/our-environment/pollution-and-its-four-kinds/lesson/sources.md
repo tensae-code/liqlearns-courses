@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only)
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -168,3 +168,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 7 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, pollution-and-its-four-kinds
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Guia de Atividades Científicas, 4.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação); no year printed in the text layer (no ISBN printed). Title as printed: Guia de Atividades Científicas — 4.º ano (series title page; the guide's own front matter addresses teachers and pupils of the 4th year). Grade: 4 (student/teacher: TEACHER guide — practical companion to the Grade 4 student manual; all placements from it are guide evidence). PDF pages: 48 (verified: byte size 1,843,077 and 48 pages; contents page matches the record title). Verdict: COMPLETE — Experiences 1 ("Eu, Cidadão") and 2 (traffic rules) are citizenship/safety lessons, recorded in the placements file as out of the general-science scope and not placed; Experiences 3–12 are placed here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 6: why birds cannot fly when hit by an oil spill (black tide) (guide evidence) (Cabo Verde, Grade 4) | Cabo Verde G4 Activities Guide, printed p. 22 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 7 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, our-environment pollution-and-its-four-kinds

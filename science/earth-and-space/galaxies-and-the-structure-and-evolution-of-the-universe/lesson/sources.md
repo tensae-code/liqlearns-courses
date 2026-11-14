@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -71,3 +71,23 @@ Searchable tags: pakistan, punjab, general science, galaxies-and-the-structure-a
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, astghik gratun, edit print
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 5):** *Guia de Atividades Científicas, 5.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves and Diara Kady Rocha (no ISBN printed). Title as printed: Guia de Atividades Científicas — 5º ano (credits page verified from the PDF). Grade: 5 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 54 (verified: byte size 3,306,715 and 54 pages; title page matches the record title; pages cited are the guide's printed foliation from its index). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 1: how the Universe evolved (guide evidence) (Cabo Verde, Grade 5) | Cabo Verde G5 Activities Guide, printed p. 15 |
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 4: simulating the movement of galaxies (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 22 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 4 countries (Bulgaria, Yemen, Pakistan (Punjab), Armenia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe

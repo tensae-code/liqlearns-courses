@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only)
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -440,3 +440,18 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count unchanged: taught in 24 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Ecuador).** Afghanistan was already counted in this lesson from its earlier Afghanistan books; the General Science student-book rows above add provenance for the same country, counted once.
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, grade 6, materials solids-liquids-and-gases
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 1.4: the states water is found in — freezer cup freezes solid, sun cup evaporates to gas, room cup stays liquid (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 17 |
+| Experiment 9 "Crazy dough — liquid or solid?": corn-starch colloid is hard when hit or squeezed fast and flows when handled slowly; viscosity that changes with force (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 30 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 24 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, materials solids-liquids-and-gases

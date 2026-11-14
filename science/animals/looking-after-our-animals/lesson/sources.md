@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -125,3 +125,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 6 countries (Ethiopia, Suriname, Guyana, Costa Rica, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, looking-after-our-animals
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Manual de Ciências Integradas, 4.º ano* (student book) — Cabo Verde, Ministério da Educação, Cabo Verde (Direção Nacional de Educação); no year or ISBN in the text layer. Title as printed: Ciências Integradas — 4º Ano — Manual (cover verified from the PDF). Grade: 4 (student/teacher: STUDENT book). PDF pages: 105 (verified: byte size 10,203,079 and 105 pages; title page matches the record title). Verdict: COMPLETE for the science scope — Unidade III (Ciências da Natureza, Temas 6–11) is placed here; Unidade I (Relações Sociais e Cidadania) and Unidade II (Atividades Económicas) are social studies/economics, recorded in the placements file as out of scope, not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tema 7: protection and care of animals (printed p. 63) (Cabo Verde, Grade 4) | Ciências Integradas 4, printed p. 65 |
+
+Cabo Verde's own way — its Ciências Integradas student manuals mix science with social studies/economics in one volume, and only the science unit is placed here, as filed — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Suriname, Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde).**
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, animals looking-after-our-animals

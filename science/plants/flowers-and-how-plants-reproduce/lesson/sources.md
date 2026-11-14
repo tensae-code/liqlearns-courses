@@ -1,6 +1,6 @@
 # Sources — Flowers — and how plants reproduce
 
-countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles
+countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -124,3 +124,23 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, flowers and how plants reproduce
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 3):** *Guia de Atividades Científicas, 3.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 3º ano. Grade: 3 (student/teacher: TEACHER guide — practical companion to the Grade 3 student manual; all placements from it are guide evidence). PDF pages: 52 (verified: byte size 7,018,456 and 52 pages; title page matches the record title). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 8: reproduction of plants (guide evidence) — filed as NEW LESSON NEEDED — plants/flowers-and-how-plants-reproduce; stocked into this existing lesson, which was built earlier in this expansion for the same shared slug (Cabo Verde, Grade 3) | Cabo Verde G3 Activities Guide, printed p. 27 |
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 19: morphology of the flower (guide evidence) — filed as NEW LESSON NEEDED — plants/flowers-and-how-plants-reproduce; stocked into this existing lesson, which was built earlier in this expansion for the same shared slug (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 50 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 5 countries (Guyana, India, Bulgaria, Armenia, Cambodia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, plants flowers-and-how-plants-reproduce

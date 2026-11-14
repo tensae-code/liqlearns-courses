@@ -1,6 +1,6 @@
 # Sources — The Earth — shape, evidence and dimensions
 
-countries: Ethiopia, Cuba, Albania (teacher-guide evidence only), Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan
+countries: Ethiopia, Cuba, Albania (teacher-guide evidence only), Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -159,3 +159,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 9 countries (Ethiopia, Cuba, Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, grade 5, earth-and-space the-earth-shape-evidence-and-dimensions
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 5):** *Guia de Atividades Científicas, 5.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves and Diara Kady Rocha (no ISBN printed). Title as printed: Guia de Atividades Científicas — 5º ano (credits page verified from the PDF). Grade: 5 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 54 (verified: byte size 3,306,715 and 54 pages; title page matches the record title; pages cited are the guide's printed foliation from its index). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 2: locating the Earth in space (guide evidence) (Cabo Verde, Grade 5) | Cabo Verde G5 Activities Guide, printed p. 18 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Cuba, Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space the-earth-shape-evidence-and-dimensions

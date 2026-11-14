@@ -531,6 +531,7 @@ solar-system comparison lessons.
 
 17. **Waves — amplitude and wavelength** (`light/waves-amplitude-and-wavelength`) — modelling the regular patterns of waves described by amplitude and wavelength — water and rope models (United States, Grade 4 — *4th Grade Science for Utah SEEd Standards, Revised 2025*, 4.3.1, printed p. 110)
 18. **Using wave patterns to send information** (`light/using-wave-patterns-to-send-information`) — designing a solution to an information-transfer problem using wave patterns — light signals and codes (United States, Grade 4 — *4th Grade Science for Utah SEEd Standards, Revised 2025*, 4.3.3, printed p. 126)
+19. **Colour mixing — primary and secondary colours** (`light/colour-mixing-primary-and-secondary-colours`) — mixing primary-colour plasticine gives secondary colours; white lightens, black darkens; a mixed colour cannot be unmixed — the experiment called "The colour inventor" — teacher-guide evidence only, acceptance 0 (Cabo Verde, Grade 1 — *Atividades Científicas, 1.º ano* (teacher/activity guide), Experiment 4, printed p. 24)
 ## Unit 6 — Weather and Seasons
 
 1. **Day and night, rainbow and flood** (`weather-and-seasons/day-and-night-rainbow-and-flood`) — a natural event happens in nature outside human control; day and night are a natural cycle — 24 hours, 12 of sunlight and 12 without — and rainbow …
@@ -2783,6 +2784,7 @@ solar-system comparison lessons.
 
 
 23. **Energy stores — where energy is kept** (`motion-force-and-energy/energy-stores-where-energy-is-kept`) — energy kept until it is used: fuels, foods, batteries and other stores, and stored energy waiting to be released in the workbook's experiments (Greece, Grade 5 — *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω*, Energy ch. 2, printed p. 28)
+24. **The pendulum and its swing** (`motion-force-and-energy/the-pendulum-and-its-swing`) — a weight hanging from a string swings back and forth through its lowest point in a steady beat; the experiment: build it, let go without pushing, count and time the swings as they slowly shrink (Cabo Verde, Grade 3 — *Manual de Ciências Integradas, 3.º ano*, Tema 8, printed p. 74)
 
 ## Unit 21 — Sound
 

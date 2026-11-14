@@ -1,6 +1,6 @@
 # Sources — Seed dispersal — how seeds travel
 
-countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles
+countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only)
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -56,3 +56,17 @@ Placement choice, on the record: the United States placement(s) above were filed
 **Acceptance count: taught in 2 countries (Guyana, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, seed dispersal how seeds travel
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 4):** *Guia de Atividades Científicas, 4.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação); no year printed in the text layer (no ISBN printed). Title as printed: Guia de Atividades Científicas — 4.º ano (series title page; the guide's own front matter addresses teachers and pupils of the 4th year). Grade: 4 (student/teacher: TEACHER guide — practical companion to the Grade 4 student manual; all placements from it are guide evidence). PDF pages: 48 (verified: byte size 1,843,077 and 48 pages; contents page matches the record title). Verdict: COMPLETE — Experiences 1 ("Eu, Cidadão") and 2 (traffic rules) are citizenship/safety lessons, recorded in the placements file as out of the general-science scope and not placed; Experiences 3–12 are placed here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 8: reproducing plants (vegetative propagation) (guide evidence) — filed as NEW LESSON NEEDED — plants/seed-dispersal-how-seeds-travel; stocked into this existing lesson, which was built earlier in this expansion for the same shared slug (Cabo Verde, Grade 4) | Cabo Verde G4 Activities Guide, printed p. 26 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 2 countries (Guyana, United States).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, plants seed-dispersal-how-seeds-travel

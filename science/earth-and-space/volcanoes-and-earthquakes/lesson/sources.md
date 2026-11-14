@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only), Cambodia
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -51,3 +51,17 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, volcanoes and earthquakes
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 5):** *Guia de Atividades Científicas, 5.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves and Diara Kady Rocha (no ISBN printed). Title as printed: Guia de Atividades Científicas — 5º ano (credits page verified from the PDF). Grade: 5 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 54 (verified: byte size 3,306,715 and 54 pages; title page matches the record title; pages cited are the guide's printed foliation from its index). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 3: a volcano erupting (model) (guide evidence) — filed as NEW LESSON NEEDED — earth-and-space/volcanoes-how-they-erupt; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Cabo Verde, Grade 5) | Cabo Verde G5 Activities Guide, printed p. 20 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 2 countries (Australia, Cambodia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space volcanoes-and-earthquakes

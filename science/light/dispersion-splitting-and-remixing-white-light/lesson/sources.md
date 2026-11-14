@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -143,3 +143,24 @@ Searchable tags: moldova, dispersion splitting and remixing white light, stiinte
 **Acceptance count unchanged: taught in 20 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, dispersion splitting and remixing white light
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 5):** *Guia de Atividades Científicas, 5.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves and Diara Kady Rocha (no ISBN printed). Title as printed: Guia de Atividades Científicas — 5º ano (credits page verified from the PDF). Grade: 5 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 54 (verified: byte size 3,306,715 and 54 pages; title page matches the record title; pages cited are the guide's printed foliation from its index). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 13: "white in the Sun" — sunlight split into colours (guide evidence) (Cabo Verde, Grade 5) | Cabo Verde G5 Activities Guide, printed p. 41 |
+
+**Book (Cabo Verde — Grade 6):** *Guia de Atividades Científicas, 6.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Costa (no ISBN printed). Title as printed: Guia de Atividades Científicas — 6º ano (credits page verified from the PDF). Grade: 6 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 71 (verified: byte size 10,217,364 and 71 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 1: the spectrum (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 17 |
+| Experience 2: "white in the Sun" — Universe/Solar System (guide evidence) (Cabo Verde, Grade 6) | Cabo Verde G6 Activities Guide, printed p. 18 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 20 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, light dispersion-splitting-and-remixing-white-light

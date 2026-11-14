@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -280,3 +280,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 15 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, global-warming-the-greenhouse-effect
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 7):** *Guia de Atividades Científicas, 7.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), 2021; authors Jorge Brito Neves, Diara Kady Rocha, Manuela Morais Costa (no ISBN printed). Title as printed: Guia — Atividades científicas — 7º ano. Grade: 7 (student/teacher: TEACHER guide — practical wing of Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 57 (verified: byte size 8,438,469 and 57 pages; title page matches the record title; pages cited are PDF pages of each item's start). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 1: the greenhouse effect (guide evidence) (Cabo Verde, Grade 7) | Cabo Verde G7 Activities Guide, printed p. 14 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, our-environment global-warming-the-greenhouse-effect

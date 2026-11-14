@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -220,3 +220,23 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 18 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, sound sound-vibration-volume-and-pitch
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 2: sound comes from vibration; 2.1 build a bottle xylophone — pitch changes with the water level (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 20 |
+
+**Book (Cabo Verde — Grade 5):** *Guia de Atividades Científicas, 5.º ano* (teacher guide) — Cabo Verde, Ministério da Educação (Direção Nacional de Educação), edition 2020; authors Jorge Brito Neves and Diara Kady Rocha (no ISBN printed). Title as printed: Guia de Atividades Científicas — 5º ano (credits page verified from the PDF). Grade: 5 (student/teacher: TEACHER guide — experiments for Earth and Life Sciences (CTV); all placements from it are guide evidence). PDF pages: 54 (verified: byte size 3,306,715 and 54 pages; title page matches the record title; pages cited are the guide's printed foliation from its index). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experience 4: experiment on sound (guide evidence) (Cabo Verde, Grade 5) | Cabo Verde G5 Activities Guide, printed p. 22 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 18 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, sound sound-vibration-volume-and-pitch

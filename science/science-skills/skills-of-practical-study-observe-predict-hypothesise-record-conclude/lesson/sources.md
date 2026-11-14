@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -269,3 +269,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 13 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, skills-of-practical-study-observe-predict-hypothesise-record-conclude
+
+## Cabo Verde growth (2026-11-14, General Science expansion)
+
+**Book (Cabo Verde — Grade 1):** *Atividades Científicas, 1.º ano* (teacher/activity guide) — Cabo Verde, Ministério da Educação, Cabo Verde; authors Diara Kady Rocha and Jorge Neves; © 2018 (no ISBN printed). Title as printed: ATIVIDADES CIENTÍFICAS — 1º Ano (cover verified from the PDF). Grade: 1 (student/teacher: TEACHER guide — experiments written to be run by the teacher with the class; all placements from it are guide evidence). PDF pages: 35 (verified: byte size 6,972,210 and 35 pages; image-only PDF — read in full from 100-DPI contact sheets; printed foliation = PDF pages). Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cabo-verde-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| field work: recording day, place and hour, describing the landscape, drawing observations; leave only footprints (guide evidence) (Cabo Verde, Grade 1) | Cabo Verde G1 Activities Guide, printed p. 10 |
+
+Cabo Verde's own way — science in the first school years is taught as hands-on experiments with household materials: every activity guide opens with the scientific method, field work, laboratory safety and hazard symbols, then a numbered set of experiments, each ending in a written report (relatório) by the child — is itself course content, carried exactly as filed.
+
+**Acceptance count unchanged: taught in 13 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude
