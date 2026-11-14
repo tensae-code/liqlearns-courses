@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -64,3 +64,20 @@ Searchable tags: pakistan, punjab, general science, stars-classification-and-evo
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, astghik gratun, edit print
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 4):** *Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-19-1. Title as printed: Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+**Book (Dominican Republic — Grade 6):** *Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-21-4. Title as printed: Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stars and galaxies: nebulae (Dominican Republic, Grade 4) | Dominican Republic, *Ciencias de la Naturaleza 4*, printed p. 160 |
+| stars and their life cycle (Dominican Republic, Grade 6) | Dominican Republic, *Ciencias de la Naturaleza 6*, printed p. 144 |
+
+**Acceptance count: taught in 7 countries (Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, stars classification and evolution

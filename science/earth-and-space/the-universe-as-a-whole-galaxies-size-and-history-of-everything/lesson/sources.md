@@ -1,6 +1,6 @@
 # Sources — The universe as a whole — galaxies, size and history of everything
 
-countries: Slovenia, Bhutan, Moldova, Armenia
+countries: Slovenia, Bhutan, Moldova, Armenia, Dominican Republic
 
 **Book 1:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
@@ -54,3 +54,20 @@ Searchable tags: moldova, the universe as a whole galaxies size and history of e
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, astghik gratun, edit print
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 4):** *Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-19-1. Title as printed: Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+**Book (Dominican Republic — Grade 6):** *Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-21-4. Title as printed: Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the universe and cosmology (Dominican Republic, Grade 4) | Dominican Republic, *Ciencias de la Naturaleza 4*, printed p. 156 |
+| the universe and its origin: the Big Bang 13.8 billion years ago (Dominican Republic, Grade 6) | Dominican Republic, *Ciencias de la Naturaleza 6*, printed p. 140 |
+
+**Acceptance count: taught in 5 countries (Slovenia, Bhutan, Moldova, Armenia, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, the universe as a whole galaxies size and history of everything

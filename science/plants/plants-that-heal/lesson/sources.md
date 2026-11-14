@@ -1,6 +1,6 @@
 # Sources — Plants that heal
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Ecuador
+countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Ecuador, Dominican Republic
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -73,3 +73,18 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 2 countries (Ethiopia).** Iceland is named as teacher-guide evidence only, not added to this count, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, plants-that-heal
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 3):** *Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial, Serie 1 Proyecto Libro Abierto, © 2023, ISBN 978-9945-646-18-4. Title as printed: Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units, bibliography and closing pages present). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| medicinal plants and their uses (Dominican Republic, Grade 3) | Dominican Republic, *Ciencias de la Naturaleza 3*, printed p. 66 |
+| using plants personally: plants that care for wounds (Dominican Republic, Grade 3) | Dominican Republic, *Ciencias de la Naturaleza 3*, printed p. 68 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, plants that heal

@@ -1,6 +1,6 @@
 # Sources — Energy — kinetic and potential energy
 
-countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan
+countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -134,3 +134,20 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, motion-f
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class vi
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 4):** *Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-19-1. Title as printed: Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+**Book (Dominican Republic — Grade 6):** *Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-21-4. Title as printed: Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| forms of energy: kinetic and potential (Dominican Republic, Grade 4) | Dominican Republic, *Ciencias de la Naturaleza 4*, printed p. 142 |
+| energy and work: kinetic energy (Dominican Republic, Grade 6) | Dominican Republic, *Ciencias de la Naturaleza 6*, printed p. 126 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Argentina, Iraq, Costa Rica, India, United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, energy kinetic and potential energy

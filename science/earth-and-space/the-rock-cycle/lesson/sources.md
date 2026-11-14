@@ -1,6 +1,6 @@
 # Sources — The rock cycle
 
-countries: United States, Samoa, Egypt, Cambodia
+countries: United States, Samoa, Egypt, Cambodia, Dominican Republic
 
 **Book (United States — Utah Grade 7):** *Utah OER Science Textbook – Grade 7* (student book) — United States. Title as printed: "7th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 64,618,223 bytes (matches repo size), 202 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -71,3 +71,20 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books and its Kindergarten core book / Student-Centred Science Teaching manuals teach this thing in the chapters, lessons and activities named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, the rock cycle
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 3):** *Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial, Serie 1 Proyecto Libro Abierto, © 2023, ISBN 978-9945-646-18-4. Title as printed: Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units, bibliography and closing pages present). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+**Book (Dominican Republic — Grade 5):** *Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-20-7. Title as printed: Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the rock cycle (Dominican Republic, Grade 3) — filed as NEW LESSON NEEDED — rocks-and-the-rock-cycle; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 3*, printed p. 126 |
+| rocks and the rock cycle: limestone of our island (Dominican Republic, Grade 5) — filed as NEW LESSON NEEDED — rocks-and-the-rock-cycle; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 146 |
+
+**Acceptance count: taught in 5 countries (United States, Samoa, Egypt, Cambodia, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, the rock cycle

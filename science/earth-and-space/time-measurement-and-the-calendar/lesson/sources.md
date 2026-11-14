@@ -1,6 +1,6 @@
 # Sources — Time measurement and the calendar
 
-countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan
+countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -79,3 +79,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 3 countries (Uzbekistan, Kazakhstan, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, earth-and-space time-measurement-and-the-calendar
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 5):** *Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-20-7. Title as printed: Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the geological time scale: eons, eras, periods (Dominican Republic, Grade 5) | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 29 |
+
+**Acceptance count: taught in 4 countries (Uzbekistan, Kazakhstan, Afghanistan, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, time measurement and the calendar

@@ -1,6 +1,6 @@
 # Sources — Reproducing plants — seeds and other ways
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles
+countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -70,3 +70,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, reproducing plants seeds and other ways
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 5):** *Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-20-7. Title as printed: Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sexual and asexual reproduction: bulbs, stolons, rhizomes, spores (Dominican Republic, Grade 5) — filed as NEW LESSON NEEDED — sexual-and-asexual-reproduction; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 80 |
+
+**Acceptance count: taught in 2 countries (Dominican Republic added).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, reproducing plants seeds and other ways

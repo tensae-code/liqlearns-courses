@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -175,3 +175,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, earth-an
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class vii
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 3):** *Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial, Serie 1 Proyecto Libro Abierto, © 2023, ISBN 978-9945-646-18-4. Title as printed: Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units, bibliography and closing pages present). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun warms us (Dominican Republic, Grade 3) | Dominican Republic, *Ciencias de la Naturaleza 3*, printed p. 142 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia, Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, the sun scale layers spots and storms

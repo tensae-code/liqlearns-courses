@@ -1,6 +1,6 @@
 # Sources — Immunisation and immunity
 
-countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia, Mauritania, Angola
+countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia, Mauritania, Angola, Dominican Republic
 
 **Book 1:** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
 
@@ -97,3 +97,20 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 1, grade 1
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 5):** *Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-20-7. Title as printed: Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+**Book (Dominican Republic — Grade 6):** *Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-21-4. Title as printed: Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the immune system and its response to infections (Dominican Republic, Grade 5) — filed as NEW LESSON NEEDED — the-immune-system-and-how-the-body-defends-itself; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 50 |
+| the immune system and its function in defending the body: innate response (Dominican Republic, Grade 6) — filed as NEW LESSON NEEDED — the-immune-system-and-how-the-body-defends-itself; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 6*, printed p. 82 |
+
+**Acceptance count: taught in 6 countries (Uganda, Bulgaria, Cambodia, Mauritania, Angola, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, immunisation and immunity

@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -119,3 +119,18 @@ Placement choice, on the record: the Bhutan placement(s) filed as "NEW LESSON NE
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class iv, science class v, science class vii, science class viii
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 4):** *Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-19-1. Title as printed: Ciencias de la Naturaleza, Cuarto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals in their habitats: where they live and their adaptations (Dominican Republic, Grade 4) — filed as NEW LESSON NEEDED — habitats-and-animal-adaptations; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 4*, printed p. 16 |
+| adaptations of plants (hydrophytes and others) (Dominican Republic, Grade 4) — filed as NEW LESSON NEEDED — habitats-and-animal-adaptations; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 4*, printed p. 34 |
+
+**Acceptance count: taught in 6 countries (Guyana, Mongolia, India, Angola, Bhutan, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, habitats and animal adaptations

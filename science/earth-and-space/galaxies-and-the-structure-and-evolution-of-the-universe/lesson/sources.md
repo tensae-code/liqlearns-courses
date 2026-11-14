@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only)
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -91,3 +91,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 4 countries (Bulgaria, Yemen, Pakistan (Punjab), Armenia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 6):** *Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-21-4. Title as printed: Ciencias de la Naturaleza, Sexto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| galaxies and types of galaxies: irregular galaxies (Dominican Republic, Grade 6) | Dominican Republic, *Ciencias de la Naturaleza 6*, printed p. 142 |
+
+**Acceptance count: taught in 5 countries (Bulgaria, Yemen, Pakistan (Punjab, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, galaxies and the structure and evolution of the universe

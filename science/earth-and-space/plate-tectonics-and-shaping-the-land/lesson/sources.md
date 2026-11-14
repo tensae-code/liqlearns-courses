@@ -1,6 +1,6 @@
 # Sources — Plate tectonics and shaping the land
 
-countries: Canada (teacher-guide evidence only), Armenia
+countries: Canada (teacher-guide evidence only), Armenia, Dominican Republic
 
 **Book 1:** *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2016 (no ISBN printed). Title as printed: Science First Peoples — Teacher Resource Guide, Grades 5 to 9. Grade: 5–9 (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 231 (verified: byte size 3,028,842 and 231 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: Canada's set holds 3 records for 2 distinct books — this guide is cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
 
@@ -32,3 +32,17 @@ Searchable tags: plate tectonics, shaping the land, juan de fuca, subduction, cl
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 5):** *Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-20-7. Title as printed: Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plate tectonics and the formation of the island of Hispaniola (the country's own way) (Dominican Republic, Grade 5) — filed as NEW LESSON NEEDED — plate-tectonics-and-how-landforms-change; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 30 |
+
+**Acceptance count: taught in 2 countries (Armenia, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, plate tectonics and shaping the land

@@ -434,6 +434,8 @@ solar-system comparison lessons.
 34. **Emotions — and how we feel** (`the-human-body/emotions-and-how-we-feel`) — my emotions — the feelings a person has and can name: joy, sadness, anger and fear; emotions show in the face and body, and no feeling stays at its strongest for ever (Angola, Grade 3 — *Estudo do Meio, Manual da 3.ª Classe*, printed p. 24; built for the Angola placements, expansion-science-2026-11-13/angola-placements.md)
 35. **Early pregnancy — and its risks** (`the-human-body/early-pregnancy-and-its-risks`) — early pregnancy (a gravidez precoce): pregnancy while the mother's own body is still growing, and its risks for the young mother, the baby and her schooling (Angola, Grade 6 — *Ciências da Natureza, Manual da 6.ª Classe*, printed p. 100; built for the Angola placements, expansion-science-2026-11-13/angola-placements.md)
 
+36. **Tissues — plant and animal** (`the-human-body/tissues-plant-and-animal`) — a tissue defined and classified: a group of like cells joined to do one job, sorted into plant tissues and animal tissues, with nervous and reticular connective tissue named among the animal tissues (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed pp. 28, 32; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -521,6 +523,9 @@ solar-system comparison lessons.
 76. **Soluble and insoluble substances** (`materials/soluble-and-insoluble-substances`) — which substances dissolve in water and which never dissolve however long you stir — and that dissolving is a physical change, the substance still there and winnable back (Bhutan, Class IV — *Science, Class IV*, §3.2, printed p. 36, and Class V — *Science, Class V*, §2.3, printed p. 29; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
 
 77. **Solutions — solute and solvent** (`materials/solutions-solute-and-solvent`) — a solution taken apart into its two named parts — the solute that dissolves and the solvent it dissolves in (Bhutan, Class VII — *Science, Class VII*, Ch. 7, printed p. 136; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
+
+78. **Fluids and superfluids** (`materials/fluids-and-superfluids`) — a fluid is a material that flows, liquid or gas, and a superfluid is a fluid that flows without friction at all (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed p. 112; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -779,6 +784,9 @@ solar-system comparison lessons.
 74. **Desertification — and fighting it** (`our-environment/desertification-and-fighting-it`) — desertification — and fighting it — how land turns to desert, and the green belt planted to hold the sand back (Mauritania, Grade 4 — *Sciences Naturelles, 4e année fondamentale*, printed p. 54, and Grade 6 — *Sciences Naturelles, 6e année fondamentale*, printed pp. 63–64; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 75. **Protected areas and wetlands** (`our-environment/protected-areas-and-wetlands`) — protected areas and wetlands — places set apart under protection guarding whole habitats, and wetlands as ecosystems in their own right (Mauritania, Grade 8 — *Sciences de la Vie et de la Terre, 2ème AS*, Unit V, printed pp. 110–122; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 76. **Primary and secondary productivity** (`our-environment/primary-and-secondary-productivity`) — primary and secondary productivity — the producers' making as the ecosystem's income, and the consumers' smaller second-hand making built from it (Mauritania, Grade 10 — *Sciences Naturelles, 4ème AS*, printed p. 113; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
+
+77. **Coastal ecosystems — dunes, seagrass and coral banks** (`our-environment/coastal-ecosystems-dunes-seagrass-and-coral-banks`) — the coast walked shore to sea: dunes and their coastal vegetation, seagrass meadows — the ocean's prairies — and the Banco de la Plata, paradise of corals and humpback whales (Dominican Republic, Grade 5 — *Ciencias de la Naturaleza 5*, printed pp. 164–166; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -953,6 +961,8 @@ solar-system comparison lessons.
 51. **Scientific models — what they are and how they change** (`science-skills/scientific-models-what-they-are-and-how-they-change`) — what a scientific model is — a representation of a thing or event that helps us understand the world, in three kinds (physical, computer, mental); making models more accurate with more information (the sketch artist and the witness); using models to communicate ideas (maps, drawings, recipes, the globe), to test predictions (the closed box, wind tunnels) and to save time, money and lives (crash-test dummies, NASA's astronaut-training aircraft); and the limits of models — they change when new information arrives, as the solar-system model changed from Earth-centred to Sun-centred (Sudan, Grade 9 — *العلوم الطبيعية (Natural Sciences), Grade 9*, Unit 1, printed pp. 2–7)
 52. **Venezuelan scientists — love of nature** (`science-skills/venezuelan-scientists-love-of-nature`) — Francisco Tamayo, the Venezuelan botanist who explored and classified the country's vegetation and sought medicines from plants (Venezuela, Grade 1 — *Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)*, printed pp. 106–108; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 53. **Venezuelan popular inventors** (`science-skills/venezuelan-popular-inventors`) — the popular inventor of the Grade 2 book's complementary readings, and community technology (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 147–156; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
+
+54. **DNA as evidence — forensic identification** (`science-skills/dna-as-evidence-forensic-identification`) — DNA's pattern differs from person to person, so a trace's pattern can be matched to identify whose it is; the book's closing project reading, in which a DNA match identifies a murderer, carried as a summary only (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed p. 158; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
 
 ## Unit 16 — Biology
 
@@ -2812,6 +2822,11 @@ solar-system comparison lessons.
 83. **Mauritania's geological ensembles** (`earth-and-space/mauritanias-geological-ensembles`) — Mauritania's geological ensembles — the country's great rock regions, taught between the geological eras and its mining resources (Mauritania, Grade 11 — *Sciences Naturelles, 5ème AS, série D*, printed p. 129; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 
 84. **Polar day and polar night** (`earth-and-space/polar-day-and-polar-night`) — the days near the poles when the Sun never sets and the nights when it never rises, and the Earth's tilted axis that causes both (Bhutan, Class VI — *Science, Class VI*, §12.2, printed p. 202; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
+
+85. **Earthquakes and tsunamis** (`earth-and-space/earthquakes-and-tsunamis`) — earthquakes: rock slipping along a fault, seismic waves, and the seismograph that records them; and tsunamis (maremotos), the great sea waves an undersea earthquake sets off — taught together as an island's joined hazard (Dominican Republic, Grade 3 — *Ciencias de la Naturaleza 3*, printed p. 128, and Grade 5 — *Ciencias de la Naturaleza 5*, printed p. 144; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
+86. **Landforms and geological features of our island** (`earth-and-space/landforms-and-geological-features-of-our-island`) — the geological characteristics of the island of Hispaniola, above all its mountain systems, read as the landforms of the learner's own island (Dominican Republic, Grade 5 — *Ciencias de la Naturaleza 5*, printed p. 36; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -2842,6 +2857,8 @@ solar-system comparison lessons.
 24. **The pendulum and its swing** (`motion-force-and-energy/the-pendulum-and-its-swing`) — a weight hanging from a string swings back and forth through its lowest point in a steady beat; the experiment: build it, let go without pushing, count and time the swings as they slowly shrink (Cabo Verde, Grade 3 — *Manual de Ciências Integradas, 3.º ano*, Tema 8, printed p. 74)
 25. **Means of transport — land, water and air** (`motion-force-and-energy/means-of-transport-land-water-air`) — classifying land, water and air transport — curriculum-proposal evidence only, acceptance 0 (Venezuela, Primary Grade 1 — *Propuestas de contenidos, Septiembre 2025*, printed p. 15; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 26. **Building a gurrufío** (`motion-force-and-energy/building-a-gurrufio`) — building a gurrufío, the traditional Venezuelan spinning toy, and asking who supplies its energy (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 118–119; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
+
+27. **Pressure in fluids — Pascal and Archimedes** (`motion-force-and-energy/pressure-in-fluids-pascal-and-archimedes`) — hydrostatics: pressure inside a fluid at rest, growing with depth; Pascal's principle — pressure passed through a closed fluid undiminished — and Archimedes' principle — upthrust equal to the weight of fluid displaced (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed pp. 130, 132; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
 
 ## Unit 21 — Sound
 

@@ -1,6 +1,6 @@
 # Sources — Evolution and natural selection
 
-countries: Gabon (teacher-guide evidence only), Venezuela
+countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic
 
 **Book 1:** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file's scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md.
 
@@ -28,3 +28,18 @@ Searchable tags: evolution, natural selection, diversity of living things, timel
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, animals evolution-and-natural-selection
+
+## Dominican Republic growth (2026-11-14, General Science expansion)
+
+**Book (Dominican Republic — Grade 5):** *Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD) with the Academia de Ciencias de la República Dominicana, 1st ed. 2023, 2nd ed. 2026, ISBN 978-9945-646-20-7. Title as printed: Ciencias de la Naturaleza, Quinto Grado, Segundo Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| evolution: Darwin and The Origin of Species (Dominican Republic, Grade 5) — filed as NEW LESSON NEEDED — evolution-and-natural-selection; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 18 |
+| evidence that organisms evolve: penguin body design (Dominican Republic, Grade 5) — filed as NEW LESSON NEEDED — evolution-and-natural-selection; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Dominican Republic, *Ciencias de la Naturaleza 5*, printed p. 20 |
+
+**Acceptance count: taught in 2 countries (Gabon, Venezuela, Dominican Republic).**
+
+Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
+
+Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, evolution and natural selection
