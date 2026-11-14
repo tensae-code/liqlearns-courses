@@ -1,6 +1,6 @@
 # Sources — Formatting — bold, italic, underline, font and colour
 
-countries: Ethiopia, Eritrea, Cambodia, Azerbaijan
+countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan
 
 **Book 5:** *İnformatika 2* (student book, Azerbaijani; title as printed: İnformatika 2 — Ümumi təhsil müəssisələrinin 2-ci sinifləri üçün İnformatika fənni üzrə dərslik) — Azerbaijan, Azərbaycan Respublikası Təhsil Nazirliyi (Ministry of Education of Azerbaijan), Baku, 2021–2022. Authors: İsmayıl Sadıqov, Naidə İsayeva, Aygün Əzizova. No ISBN printed (issued under CC BY-NC-SA 4.0 via trims.edu.az). 67 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/azerbaijan-placements.md.
 
+**Book 6:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
+**Book 7:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -22,9 +26,11 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan
 | Unit 3 §3.3 — Formatting Characters | Eritrea, *ICT for Grade 8*, Unit 3 §3.3, printed p. 35 |
 | Chapter 2 Lesson 2 Session 3, OpenOffice Writer II | Cambodia, *ICT, Grade 10*, printed p. 75 |
 | Lesson 22 "Mətnin formatlanması" (Formatting text) | Azerbaijan, *İnformatika 2*, printed p. 55 |
+| Character formatting; bolding, italicizing and underlining; line spacing | Uganda, *ICT Textbook Senior One*, printed p. 26 |
+| Character formatting and changing the font (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 42 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda).**
 
 The model paragraph in Sub lesson 3 is teacher-guide evidence, filed as the activity's model text: its facts (including its counts of 53 international destinations, 157 weekly international departures from Addis Ababa and 410 weekly international departures worldwide, as printed in the guide) are the guide's 2022-era figures, taught as the model for the writing activity — not as a current-facts source. The lesson's paragraph uses the model's founding and operating facts, which the guide prints alongside those figures.
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda

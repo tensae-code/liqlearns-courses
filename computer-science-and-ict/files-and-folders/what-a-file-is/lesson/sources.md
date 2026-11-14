@@ -1,6 +1,6 @@
 # Sources — What a file is
 
-countries: Ethiopia, Djibouti
+countries: Ethiopia, Djibouti, Uganda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Djibouti
 **Book 4:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). First Published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). 131 PDF pages. Printed page = PDF page − 9 (front matter roman-numbered, printed page = PDF page − 1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
 **Book 5:** *Guide manuel — Informatique, 6ème année de l'Enseignement fondamental* (teacher guide) — Djibouti, Ministère de l'Éducation nationale et de la Formation professionnelle, République de Djibouti. Year not printed; no ISBN printed. 90 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/djibouti-placements.md. This is a combined teacher guide + pupil manual, filed as TEACHER — stocked here as teacher-guide evidence only; Djibouti is not added to this lesson's acceptance count.
+
+**Book 6:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,6 +25,7 @@ countries: Ethiopia, Djibouti
 | Sub lesson 4 — disk against drive; Activity 1.1 key (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 2–3 (teacher guide — evidence) |
 | Sub lesson 4 — the guide's shape: 72-period budget, chalkboard fallback, one named file (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. IV–V and the lesson-plan tables and scaffolding at printed pp. 1–2, 22–23, 52–53, 72–73, 90–91, 103–104 (teacher guide — evidence) |
 | Chapitre 6 — Le téléchargement des fichiers — downloading files (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 61 (teacher guide — evidence) |
+| Chapter 3: files and folders (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 21 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -30,4 +33,4 @@ The book's own shape is filed in this lesson, as the build brief directs: the si
 
 Grade 10 growth (2026-11-12, Wave 3 band D1): this lesson was grown, not duplicated — the Grade 10 book covers the same ground at greater depth, so its file-management teaching, its own six-unit road map (placement item 1, the book's-own-shape item, filed in this first grown lesson as the brief directs) and the guide's disk-against-drive note were added as Sub lesson 4. Question answers for the new sub lesson were checked against the teacher guide's Unit 1 keys (printed pp. 2–3, 18–21) (teacher guide — evidence).
 
-Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti
+Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda

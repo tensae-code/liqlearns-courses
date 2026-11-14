@@ -1,6 +1,6 @@
 # Sources — Caring for a computer — safety before cleaning
 
-countries: Ethiopia, Tanzania, Eritrea, Mozambique
+countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique
 
 **Book 4:** *Módulo de Tecnologias de Informação e Comunicação (TIC) — Programa do Ensino Secundário à Distância, 1º Ciclo (PESD I)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano, Instituto de Educação Aberta e à Distância (IEDA), 2023. Grade 7 (grades 7–9 distance secondary, first cycle). No ISBN printed. 186 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mozambique-placements.md.
 
+**Book 5:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
+**Book 6:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Harms of wrong use to user and device | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.58 |
@@ -17,7 +21,9 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique
 | Chapter Six: the concept of computer handling | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 114 |
 | Unit 4 §4.1 — Safe Use of Computers | Eritrea, *ICT for Grade 8*, Unit 4 §4.1, printed p. 50 |
 | Lição 11, Cuidados e Ciclo de Vida dos Dispositivos Computacionais | Mozambique, *Módulo de TIC, PESD I*, printed p. 69 |
+| Handling and maintaining ICT tools; ICT safety precautions | Uganda, *ICT Textbook Senior One*, printed p. 1 |
+| Handling and maintaining ICT tools (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 7 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Eritrea, Mozambique).**
+**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda).**
 
-Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique
+Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda

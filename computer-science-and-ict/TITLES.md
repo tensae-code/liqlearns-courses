@@ -771,3 +771,9 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Files and Folders** (ICT expansion, from Finland): Saving and Versioning a Scratch Project
 
 **Computers in Society** (ICT expansion, from Finland): Giving Peer Feedback on a Programming Project
+
+**First Steps** (ICT expansion, from Uganda): Reading ICT User Manuals
+
+**Hardware** (ICT expansion, from Uganda): Assembling a Desktop Computer
+
+**Word Processing** (ICT expansion, from Uganda): Page Setup — Margins and Orientation · Spell Check and Proofing Tools

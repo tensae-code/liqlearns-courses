@@ -1,6 +1,6 @@
 # Sources — Deleting a file — Recycle Bin and permanent delete
 
-countries: Ethiopia
+countries: Ethiopia, Uganda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia
 
 **Book 4:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). First Published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). 131 PDF pages. Printed page = PDF page − 9 (front matter roman-numbered, printed page = PDF page − 1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
+**Book 5:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
+**Book 6:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Deleting — three ways | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 21–23 |
@@ -18,11 +22,13 @@ countries: Ethiopia
 | Sub lesson 3 — deleting at Grade 10 depth: three routes, folder warning, reasons, Shift+Delete | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 25–26 |
 | Sub lesson 4 — restoring at Grade 10 depth: the Restore route and the three impossible cases | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 27–28 |
 | Verified answers (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 1 review key, printed pp. 18–21 (teacher guide — evidence) |
+| Managing the Recycle Bin | Uganda, *ICT Textbook Senior One*, printed p. 15 |
+| The Recycle Bin (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 29 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
 
 Teacher-guide slip, taught corrected: in the guide's keyed Practical Exercise 1.5 the duplicated file is set up in folder Test2, but its delete steps tell the pupil to highlight the copy in Test1 (printed p. 7). The lesson teaches the sequence in the folder the copy actually stands in. Guide confirmation used in the question files: an ordinary delete can be restored from the Recycle Bin, and copying-and-pasting is not moving (guide Unit 1 answer keys, printed pp. 17–19) (teacher guide — evidence). Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
 Grade 10 growth (2026-11-12, Wave 3 band D1): grown, not duplicated, as Sub lessons 3–4. Book slip flagged: the student book prints 'flowing conditions' for following conditions on printed p. 27, inside this lesson's restoring span; the lesson teaches the corrected wording and names the slip here.
 
-Searchable tags: delete file, Recycle Bin, restore, Shift+Delete permanent delete, Delete key, caution local disk, files and folders, grade 9, information technology, ict, ethiopia
+Searchable tags: delete file, Recycle Bin, restore, Shift+Delete permanent delete, Delete key, caution local disk, files and folders, grade 9, information technology, ict, ethiopia, uganda

@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique
+countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 
 **Book 7:** *Módulo de Tecnologias de Informação e Comunicação (TIC) — Programa do Ensino Secundário à Distância, 1º Ciclo (PESD I)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano, Instituto de Educação Aberta e à Distância (IEDA), 2023. Grade 7 (grades 7–9 distance secondary, first cycle). No ISBN printed. 186 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mozambique-placements.md.
 
+**Book 8:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -26,9 +28,10 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 | Chapter 1 Lesson 1 Session 2, The Computer and Its Components | Cambodia, *ICT, Grade 10*, printed p. 9 |
 | Unit 4 Kompüter, Lesson 17 "Kompüter və onun hissələri" (The computer and its parts) | Azerbaijan, *İnformatika 2*, printed p. 44 |
 | Lição 5, Conceito de Dispositivos Computacionais | Mozambique, *Módulo de TIC, PESD I*, printed p. 33 |
+| Chapter 2 Computer Hardware and System Start up: parts of a computer, categories of hardware | Uganda, *ICT Textbook Senior One*, printed p. 9 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique).**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda).**
 
 No book error touches this lesson's content.
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda
