@@ -1,6 +1,6 @@
 # Sources — Protocols — the rules devices share
 
-countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia
+countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia
 
 **Book 12:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
 
+**Book 13:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
+**Book 14:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Shared rules for talking machines | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 43 |
@@ -42,8 +46,10 @@ countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia
 | Bab V A.2 Model jaringan komputer (OSI/TCP-IP) | Indonesia Grade 11 G11 Informatika student, printed p. 214 |
 | Bab 4 E. Lapisan informasi dalam sistem jaringan: model OSI Layer dan TCP/IP Layer | Indonesia Grade 12 G12 Informatika student, printed p. 100 |
 | Bab 4 Panduan pembelajaran jaringan komputer dan internet: OSI dan TCP/IP | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 144 (teacher guide — evidence) |
+| Bài 4 Giao thức mạng (Network protocols, TCP/IP) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 21 |
+| Bài 4 Giao thức mạng (Network protocols — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 21 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vietnam).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -68,4 +74,8 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
 
-Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 12 it xii, indonesia, grade 11, grade 12, grade 12
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 12 it xii, indonesia, grade 11, grade 12, grade 12, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính

@@ -1,6 +1,6 @@
 # Sources — HTML links — linking to other pages
 
-countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bang
 
 **Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 9 (Digital Literacy and Computer Science, Grade 9 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-309-7. Grade 9 (student book). 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The PDF contains the complete 176-page printed book twice, back to back (identical contents at PDF pp. 175 and 352); read and placed once.
 
+**Book 14:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
+**Book 15:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The anchor element — reference and clickable text | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 87–89 |
@@ -45,8 +49,10 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bang
 | Chapter 4, 4.2: hyperlinks — internal and external | Bangladesh HSC ICT, printed p. 129 |
 | Lesson 6: Multimedia and Hyperlinks — hyperlinks | Jordan Grade 10 G10T1 Student, printed p. 177 |
 | §7 Including a picture and a link in a webpage (links) | Armenia Grade 9 G9 student, printed p. 70 |
+| Bài 10 Tạo liên kết (Creating links) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 57 |
+| Bài 10 Tạo liên kết (Links — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 57 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -72,4 +78,8 @@ Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year
 
 Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the web: after digital dangers and data protection, a full HTML/CSS block (document structure, lists and forms, text and tables, pictures and links, site design and styling, colour systems, font units), then operating systems, then Python conditionals, loops, functions and arrays.
 
-Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính

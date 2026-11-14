@@ -1,6 +1,6 @@
 # Sources - Python data types - int, float, str, bool
 
-countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan
+countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, J
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - int and float (whole / decimal numbers; arithmetic operators +, -, /, //, *, %, **; /, //, % subtleties) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 142-145 |
@@ -39,8 +41,9 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, J
 | Unit 2 Data types | Greece Grade 9 Pliroforiki C, printed p. 18 |
 | Lesson 2: elements of the Python language (variables, data types, arithmetic and logical expressions) | Jordan Grade 11 G11T1 Student, printed p. 29 |
 | Theme 6-13 Data types and names (constants, variables, declaration) | Armenia Grade 6 G6 teacher, printed p. 46 (teacher guide — evidence) |
+| Bài 3 Một số kiểu dữ liệu và dữ liệu văn bản (Data types; text data and character encoding) | Vietnam Grade 10 Tin học 10, printed p. 16 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan, Vietnam).**
 
 No book error touches this lesson. All operator examples in the lesson text were run in Python 3 and give the values printed (7 / 2 = 3.5, 7 // 2 = 3, 7 % 2 = 1, "Sel" + "am" = "Selam"). The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -60,4 +63,6 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
 
-Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, armenia, grade 6
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, armenia, grade 6, vietnam, grade 10 tin học 10

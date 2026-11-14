@@ -1,6 +1,6 @@
 # Sources — Python Lists — Creating, Indexing and Methods
 
-countries: Kuwait, Jordan
+countries: Kuwait, Jordan, Vietnam
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
@@ -10,6 +10,8 @@ countries: Kuwait, Jordan
 
 **Book 4:** *المهارات الرقمية — الصف الحادي عشر، دليل المعلم — الفصل الدراسي الأول (Digital Skills, Grade 11 Teacher's Guide, First Semester)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024; ISBN 978-9923-41-660-0. Grade 11 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Digital Processing: Lists (القوائم) | Kuwait Grade 10 Term 2 Book L1, printed p. 17 |
@@ -17,8 +19,10 @@ countries: Kuwait, Jordan
 | Lesson 5: Lists — creating lists, accessing elements, traversing, operations, built-in list functions (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) | Jordan Grade 11 G11T1 Student, printed p. 78 |
 | Lesson 5 (cont.): nested lists (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) | Jordan Grade 11 G11T1 Student, printed p. 99 |
 | Lesson plan 5: Lists (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 78 (teacher guide — evidence) |
+| Bài 22 Kiểu dữ liệu danh sách (The list data type) (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches the Python list data type — creating a list, indexing it and its methods) | Vietnam Grade 10 Tin học 10, printed p. 111 |
+| Bài 23 Một số lệnh làm việc với dữ liệu danh sách (Commands for working with list data) (filed as NEW LESSON NEEDED — programming/working-with-python-lists; stocked in this lesson because this lesson teaches working with Python lists — the methods and commands that change, add and remove items) | Vietnam Grade 10 Tin học 10, printed p. 115 |
 
-**Acceptance count: taught in 2 countries (Kuwait, Jordan).**
+**Acceptance count: taught in 3 countries (Kuwait, Jordan, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-lists-creating-indexing-and-methods). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -30,4 +34,6 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson through a three-stage project-based learning model (preparation / teaching-and-learning / enrichment, reflection and assessment), with per-lesson performance indicators, class-period counts, assessment strategies and tools, unit appendices and full worked solutions — the pedagogy front matter (lettered pp. A–Y) is Jordan's own teaching way for the same student-book lessons (student-book page references below are the guide's own contents references).
 
-Searchable tags: python, lists, indexing, methods, append, data structures, programming, kuwait, grade 10 information technology term 2, jordan, grade 12 term 1 digital skills, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: python, lists, indexing, methods, append, data structures, programming, kuwait, grade 10 information technology term 2, jordan, grade 12 term 1 digital skills, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, vietnam, grade 10 tin học 10

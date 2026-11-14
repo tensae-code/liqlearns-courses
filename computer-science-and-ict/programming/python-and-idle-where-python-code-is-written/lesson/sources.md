@@ -1,6 +1,6 @@
 # Sources - Python and IDLE - where Python code is written
 
-countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia
 
 **Book 10:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 11:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Python (popular high-level language; much easier to learn; chosen for teaching beginners) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 134-135 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia
 | Theme 7-13 Basics of a programming language (§15, Python) | Armenia Grade 7 G7 teacher, printed p. 53 (teacher guide — evidence) |
 | Bab 1 B. Program Hello World Python di Google Colab | Indonesia Grade 10 G10 Informatika student, printed p. 10 |
 | Bab 1 D. Berkenalan dengan Python | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 55 |
+| Bài 16 Ngôn ngữ lập trình bậc cao và Python (High-level programming languages and Python) | Vietnam Grade 10 Tin học 10, printed p. 86 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -55,4 +58,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 10, grade 10
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 10, grade 10, vietnam, grade 10 tin học 10

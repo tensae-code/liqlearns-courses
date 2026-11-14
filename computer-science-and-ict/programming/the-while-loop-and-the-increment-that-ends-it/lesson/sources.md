@@ -1,6 +1,6 @@
 # Sources — The while loop — and the increment that ends it
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 
 **Book 22:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 23:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The while shape — test first, every time | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 184–185 (student placement item 128) |
@@ -71,8 +73,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 | Theme 8-10 Working with loops (§13) | Armenia Grade 8 G8 teacher, printed p. 24 (teacher guide — evidence) |
 | Additional materials: the while construction in JavaScript | Armenia Grade 12 G12 teacher, printed p. 41 (teacher guide — evidence) |
 | Bab 3 M. Perulangan pada program Arduino | Indonesia Grade 12 G12 Informatika student, printed p. 80 |
+| Bài 21 Câu lệnh lặp while (The while loop) | Vietnam Grade 10 Tin học 10, printed p. 108 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 2: the keyed point that the while-loop activity and the for-loop activity solve the same problem with the same output — two roads to one output (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -117,4 +120,6 @@ Armenia's own way (Armenia Grade 12 G12 teacher): Companion to Book 22 in the Za
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 12, indonesia, grade 12
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 12, indonesia, grade 12, vietnam, grade 10 tin học 10

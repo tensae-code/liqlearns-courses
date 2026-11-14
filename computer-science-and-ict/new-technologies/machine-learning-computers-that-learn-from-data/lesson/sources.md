@@ -1,6 +1,6 @@
 # Sources — Machine Learning — computers that learn from data
 
-countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan
+countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Ban
 
 **Book 17:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 11 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-725-6. Grade 11 (student book). 169 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 18:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Machine Learning defined; train on sample data, build a model, predict for decisions; the four applications | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 29 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Ban
 | Introduction §7 Intelligence artificielle | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 14 (teacher guide — evidence) |
 | Chapter 1, 1.3.1: machine learning — supervised, unsupervised and reinforcement learning, neural networks and deep learning | Bangladesh HSC ICT, printed p. 16 |
 | Lesson: Machine Learning — what machine learning is | Jordan Grade 11 G11T2 Student, printed p. 92 |
+| Bài 25 Làm quen với Học máy (Getting to know machine learning) (filed as NEW LESSON NEEDED — new-technologies/machine-learning-first-ideas; stocked in this lesson because this lesson teaches the first ideas of machine learning — computers that learn from data instead of fixed instructions) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 134 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan, Vietnam).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -87,4 +90,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught through the two commercial providers students can actually open — Microsoft Azure and Google Cloud — before data security in the cloud; the AI unit goes from expert systems through machine learning and NLP to modelling and simulation.
 
-Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills, vietnam, grade 12 tin học 12 khoa học máy tính

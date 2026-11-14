@@ -1,6 +1,6 @@
 # Sources — Output devices — getting results out
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia
+countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greec
 
 **Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 18:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Output devices — getting results out | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 21–23 (teacher evidence: guide printed pp. 31–34) |
@@ -56,8 +58,9 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greec
 | Lesson 8 Output and input devices (Theme 5) | Armenia Grade 3 G3 student, printed p. 48 |
 | §15 Computer input and output devices (output) | Armenia Grade 5 G5 student (Antares), printed p. 79 |
 | §9 Input and output devices (output) | Armenia Grade 8 G8 student, printed p. 71 |
+| Bài 1 Thiết bị vào – ra §2 (Output devices: screen, printer, speakers; using devices correctly) | Vietnam Grade 7 Tin học 7, printed p. 5 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -89,4 +92,6 @@ Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different G
 
 Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
 
-Searchable tags: output devices — getting results out, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, armenia, grade 2, grade 3, grade 5, grade 8
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Searchable tags: output devices — getting results out, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, armenia, grade 2, grade 3, grade 5, grade 8, vietnam, grade 7 tin học 7

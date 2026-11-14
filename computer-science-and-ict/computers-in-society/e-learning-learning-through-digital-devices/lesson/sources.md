@@ -1,6 +1,6 @@
 # Sources — E-learning — learning through digital devices
 
-countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Banglad
 
 **Book 23:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
 
+**Book 24:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-learning and its components | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 15–16 (student placement item 12) |
@@ -72,8 +74,9 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Banglad
 | Lesson 4 Remote work and education (Theme 3 IT and society) | Armenia Grade 10 G10 student, printed p. 21 |
 | Bab 5 B. Peran informatika pada bidang pendidikan: manfaat positif dan dampak negatif | Indonesia Grade 12 G12 Informatika student, printed p. 157 |
 | Bab 5 Panduan pembelajaran: peran informatika pada pendidikan dan ekonomi | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 225 (teacher guide — evidence) |
+| Bài 12 Tìm hiểu về thế giới tự nhiên (Using the computer to explore the natural world) | Vietnam Grade 3 Tin học 3, printed p. 55 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. The e-learning figure in the student book is numbered 1.13, straight after Figure 1.10 — Figures 1.11 and 1.12 never appear; the lesson teaches the content, not the numbering.
 
@@ -115,4 +118,6 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
 
-Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10, indonesia, grade 12, grade 12
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10, indonesia, grade 12, grade 12, vietnam, grade 3 tin học 3

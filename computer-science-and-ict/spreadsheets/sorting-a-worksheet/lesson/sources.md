@@ -1,6 +1,6 @@
 # Sources — Sorting a worksheet
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 
 **Book 13:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 14:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — sorting defined: alphabetical, numerical, by date, custom list, by cell/font colour or icon; the scope decision — whole sheet (rows move together) vs only a range | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 110–111 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 | Unit 3 Sorting data | Greece Grade 8 Pliroforiki B, printed p. 35 |
 | Additional tasks with solutions: sorting data in a table, removing duplicates, grouping | Armenia Grade 11 G11 teacher, printed p. 69 (teacher guide — evidence) |
 | Bab 2 D.1 Sort | Indonesia Grade 7 G7 Informatika student, printed p. 76 |
+| Bài 6 Sắp xếp và lọc dữ liệu §1 (Sorting data) | Vietnam Grade 8 Tin học 8, printed p. 27 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -70,4 +73,6 @@ Armenia's own way (Armenia Grade 11 G11 teacher): Companion to Book 20 in the Za
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7, vietnam, grade 8 tin học 8

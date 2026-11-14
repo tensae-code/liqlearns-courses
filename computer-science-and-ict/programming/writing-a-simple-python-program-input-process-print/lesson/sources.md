@@ -1,6 +1,6 @@
 # Sources - Writing a simple Python program - input, process, print
 
-countries: Ethiopia, Malaysia, Kuwait, Greece, Bangladesh, Jordan
+countries: Ethiopia, Malaysia, Kuwait, Greece, Bangladesh, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Malaysia, Kuwait, Greece, Bangladesh, Jordan
 
 **Book 9:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 10:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Functions, input() and print() (function definition; print() any expression, comma-separated values on one line; input() prompt, wait, Enter, always a string; numbers must be converted) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 151-155 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Malaysia, Kuwait, Greece, Bangladesh, Jordan
 | Learning Experience 4, Session 4: Let us Start Taking Input | Bangladesh Grade 9 Digital Technology, printed p. 118 |
 | Learning Experience 4, Session 6: Let's Start Taking Input | Bangladesh Grade 8 Digital Technology, printed p. 90 |
 | Lesson 2: the input() statement | Jordan Grade 11 G11T1 Student, printed p. 26 |
+| Bài 31 Thực hành viết chương trình đơn giản (Practical: writing simple programs) | Vietnam Grade 10 Tin học 10, printed p. 149 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Kuwait, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Kuwait, Greece, Bangladesh, Jordan, Vietnam).**
 
 Guide-side numbering fault noted where this evidence is filed: the teacher guide's contents misnumbers Writing a Simple Program as "6.4" a second time - it is section 6.5 - flagged here, in the lesson whose guide evidence it labels. The lesson's programs were run in Python 3 exactly as printed: radius 3 gives area 28.26 and circumference 18.84; radius 2 gives 12.56 and 12.56. The guide's worked model solutions (guide item 25) are filed above as verified expected outputs (teacher guide - evidence), not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -52,4 +55,6 @@ Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same pro
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, grade 8 digital technology, jordan, grade 11 term 1 digital skills
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, grade 8 digital technology, jordan, grade 11 term 1 digital skills, vietnam, grade 10 tin học 10

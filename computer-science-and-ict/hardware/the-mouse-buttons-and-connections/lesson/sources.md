@@ -1,6 +1,6 @@
 # Sources — The mouse — buttons and connections
 
-countries: Ethiopia, Saudi Arabia
+countries: Ethiopia, Saudi Arabia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Saudi Arabia
 
 **Book 4:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed p. 22 |
 | Lesson 8: Using the mouse (moving the pointer; left button — click to select, double-click to open, drag and drop; right button — the pop-up menu) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 50 |
 | U.D.1 Séance 3 La souris (right/left click, drawing with the mouse) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 14 (teacher guide — evidence) |
 | Scénario 4 Séance 1: Où est ta souris? choisir avec la souris | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 6 (Scénario 4) (teacher guide — evidence) |
+| Bài 13 Luyện tập sử dụng chuột (Mouse practice: holding, moving, clicking, dragging) | Vietnam Grade 3 Tin học 3, printed p. 59 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Vietnam).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -27,4 +30,6 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digital-education curriculum is taught in three axes — Science informatique (SI), Médias (M), Usages (U) — almost entirely UNPLUGGED at this age: algorithms are learned with the body (robot game, crane game, hand-washing, getting dressed, a crêpe recipe), a physical sorting machine, and the Blue-Bot floor robot; the class also builds a collective digital “charter book” of good digital habits across the whole cycle.
 
-Searchable tags: mouse, left click, right-click, properties, scrolling, wired, wireless, mouse pad, Ethiopia Grade 8, saudi arabia, grade 3, morocco, grade 1, switzerland, decodage, grades 12
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: mouse, left click, right-click, properties, scrolling, wired, wireless, mouse pad, Ethiopia Grade 8, saudi arabia, grade 3, morocco, grade 1, switzerland, decodage, grades 12, vietnam, grade 3 tin học 3

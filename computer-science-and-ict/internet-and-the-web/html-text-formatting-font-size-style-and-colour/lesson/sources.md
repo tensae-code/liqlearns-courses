@@ -1,17 +1,23 @@
 # Sources — HTML Text Formatting — Font Size, Style and Colour
 
-countries: Libya
+countries: Libya, Vietnam
 
 **Book 1:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
 **Book 2:** *تقنية المعلومات — دليل المعلم، للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology teacher guide, Grade 11, both sections, Term 2)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 39 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
 
+**Book 3:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
+**Book 4:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch 3, formatting texts in HTML: font size, font styles, background colour, font colour, combining font properties | Libya Grade 11 IT student Term 2, printed p. 39 |
 | Guide Ch 3, formatting texts (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 19 (teacher guide — evidence) |
+| Bài 8 Định dạng văn bản (Formatting text in HTML) (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-in-html; stocked in this lesson because this lesson teaches formatting text in HTML — the size, style and colour of text on a page) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 46 |
+| Bài 8 Định dạng văn bản (Formatting text in HTML — common core) (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-in-html; stocked in this lesson because this lesson teaches formatting text in HTML — the size, style and colour of text on a page) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 46 |
 
-**Acceptance count: taught in 1 country (Libya).**
+**Acceptance count: taught in 2 countries (Libya, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Libya, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — internet-and-the-web/html-text-formatting-font-size-style-and-colour). It sits in the Internet and the Web title (internet-and-the-web/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Libya student book; teacher-guide placements are cited as (teacher guide — evidence) and counted nowhere on their own — each new lesson here also carries student-book placements, so Libya is counted once. Duplicate catalogue records of the same book (5 of the 15 records duplicate books) are cited once: 10 distinct books in this expansion. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +25,8 @@ Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 i
 
 Libya's own way (Grade 11 Term 2, Information Technology teacher guide): each web chapter is taught as target outcomes + a chapter summary + scripted lesson steps (an introduction and set activities — e.g. pupils role-play the devices of a network) + answers to the chapter questions. The guide is printed for both the Science and Humanities sections. (teacher guide — evidence)
 
-Searchable tags: html, text formatting, font size, font style, colour, background colour, internet and the web, libya, grade 11 it
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: html, text formatting, font size, font style, colour, background colour, internet and the web, libya, grade 11 it, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính

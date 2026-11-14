@@ -1,17 +1,23 @@
 # Sources — Database Security
 
-countries: Fiji, Bangladesh
+countries: Fiji, Bangladesh, Vietnam
 
 **Book 1:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
 **Book 2:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 3:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 4:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 3.5 Database Security | Fiji, *Computer Education, Year 11*, printed p. 69 |
 | Chapter 6, 6.4: Data security — backups, disc mirroring and user permissions (filed as NEW LESSON NEEDED — databases/keeping-database-data-safe-backups-and-permissions; stocked in this lesson because this lesson teaches database security — user accounts and permissions, and backups kept apart — Bangladesh's data security of backups, disc mirroring and user permissions) | Bangladesh HSC ICT, printed p. 205 |
+| Bài 15 Bảo mật và an toàn hệ cơ sở dữ liệu (Security and safety of database systems) (filed as NEW LESSON NEEDED — databases/database-security-and-safety; stocked in this lesson because this lesson teaches database security and safety — users, passwords, permissions, and guarding the data itself by backup) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 73 |
+| Bài 15 Bảo mật và an toàn hệ cơ sở dữ liệu (Database security — common core) (filed as NEW LESSON NEEDED — databases/database-security-and-safety; stocked in this lesson because this lesson teaches database security and safety — users, passwords, permissions, and guarding the data itself by backup) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 73 |
 
-**Acceptance count: taught in 2 countries (Fiji, Bangladesh).**
+**Acceptance count: taught in 3 countries (Fiji, Bangladesh, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — databases/database-security). It sits in the Databases title (databases/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +25,8 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: database, security, databases, fiji, year 11, bangladesh, hsc ict classes xi xii and alim
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: database, security, databases, fiji, year 11, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

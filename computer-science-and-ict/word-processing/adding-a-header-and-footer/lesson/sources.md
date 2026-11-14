@@ -1,6 +1,6 @@
 # Sources — Adding a header and footer
 
-countries: Ethiopia, Sudan, Bhutan, Rwanda
+countries: Ethiopia, Sudan, Bhutan, Rwanda, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sudan, Bhutan, Rwanda
 
 **Book 6:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 7:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Headers and footers: a header at the top of every page, a footer at the bottom; they carry page numbers, dates, the author's name and footnotes, repeating on each page, keeping long documents organised and readable; the worked example — double-click the top margin, type the paper's title and date, Close Header and Footer (or Esc), the header on all pages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 103-105 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Sudan, Bhutan, Rwanda
 | Unit 4 Lesson 5: Header and footer of the page | Sudan, *ICT, Grade 5*, printed p. 49 |
 | 2.3 Header and Footer | Bhutan, *Literacy with ICT, Class VI*, printed p. 27 |
 | Headers and footers | Rwanda Grade 7 S1 ICT Student Book, printed p. 150 |
+| Bài 9a Tạo đầu trang, chân trang cho văn bản (Creating headers and footers — track a) | Vietnam Grade 8 Tin học 8, printed p. 42 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Bhutan, Rwanda).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Bhutan, Rwanda, Vietnam).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -33,4 +36,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
 
-Searchable tags: header, footer, top margin, Close Header and Footer, repeating text, Grade 9 ICT Ethiopia, mauritania, grade 7, sudan, grade 5, bhutan, class vi, rwanda, grade 7 s1 ict student book
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: header, footer, top margin, Close Header and Footer, repeating text, Grade 9 ICT Ethiopia, mauritania, grade 7, sudan, grade 5, bhutan, class vi, rwanda, grade 7 s1 ict student book, vietnam, grade 8 tin học 8

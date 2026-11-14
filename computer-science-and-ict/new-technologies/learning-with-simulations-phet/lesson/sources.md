@@ -1,17 +1,28 @@
 # Sources — Learning With Simulations — PhET
 
-countries:
+countries: Vietnam
 
 **Book 1:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
+
+**Book 2:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 3:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Environment 6 (Science: Electricity): exploring circuits with the PhET simulation site and designing a circuit (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 70 (teacher guide — evidence) |
+| Bài 5 Tìm hiểu phần mềm mô phỏng (Discovering simulation software: PhET, Geometer's Sketchpad) (filed as NEW LESSON NEEDED — software/simulation-software-learning-by-experiment; stocked in this lesson because this lesson teaches learning by experiment with simulation software — PhET and Sketchpad-style simulations, the very software Vietnam's lessons name; Vietnam's student book is its first counting source) | Vietnam Grade 9 Tin học 9, printed p. 20 |
+| Bài 6 Thực hành: Khai thác phần mềm mô phỏng (Practical: using simulation software to explore and learn) (filed as NEW LESSON NEEDED — software/simulation-software-learning-by-experiment; stocked in this lesson because this lesson teaches learning by experiment with simulation software — PhET and Sketchpad-style simulations, the very software Vietnam's lessons name; Vietnam's student book is its first counting source) | Vietnam Grade 9 Tin học 9, printed p. 23 |
+| Bài 30 Ứng dụng mô phỏng trong giáo dục (Simulation applications in education) (filed as NEW LESSON NEEDED — software/simulation-software-learning-by-experiment; stocked in this lesson because this lesson teaches learning by experiment with simulation software — PhET and Sketchpad-style simulations, the very software Vietnam's lessons name; Vietnam's student book is its first counting source) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 159 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Jordan), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Vietnam). Jordan's teacher-guide evidence is named here and counted nowhere.**
 
 Placement choice: this lesson was built new for the ICT expansion (Jordan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — new-technologies/learning-with-simulations-phet). It sits in the New Technologies title (new-technologies/), following the book's own order. It carries 1 links-pass L2 extra placement(s) — one lesson, a provenance row per placement. Provenance scope note: every placement stocked here is a links-pass L2 extra section of Jordan's Grade 4 Term 1 teacher guide (NCCD, Arabic) — the same book as Book 22 of the counted filing, whose L2 re-reading is fuller than Book 22's 3-placement filing; these sections are stocked beyond the 310 counted placements, as teacher-guide evidence only, counted nowhere. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
 
-Searchable tags: simulations, phet, science learning, circuits, teacher guide, jordan, grade 4
+Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: simulations, phet, science learning, circuits, teacher guide, jordan, grade 4, vietnam, grade 9 tin học 9, grade 12 tin học 12 khoa học máy tính

@@ -1,6 +1,6 @@
 # Sources — Filtering data — seeing only what you need
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Rwanda, Indonesia
+countries: Ethiopia, North Macedonia, Uzbekistan, Rwanda, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Rwanda, Indonesia
 
 **Book 7:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 8:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — header row required; Data → Filter; dropdown arrow in every header cell; uncheck Select All, check only wanted values, OK; other rows hide; Filter again removes all filters | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 112–113 |
@@ -26,8 +28,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Rwanda, Indonesia
 | Filter data by colour, text, number and custom filter (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 90 (teacher guide — evidence) |
 | Filter | Rwanda Grade 8 S2 ICT Student Book, printed p. 140 |
 | Bab 2 D.2 Filter | Indonesia Grade 7 G7 Informatika student, printed p. 80 |
+| Bài 6 Sắp xếp và lọc dữ liệu §2 (Filtering data) | Vietnam Grade 8 Tin học 8, printed p. 27 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Uzbekistan, Rwanda, Indonesia).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Uzbekistan, Rwanda, Indonesia, Vietnam).**
 
 Teacher-guide evidence filed in this lesson: the guide's keyed feature list names AutoFilter (including filter by selection) for simple criteria and Advanced Filter for complex criteria — taught here as a labelled note in sources only; the student book's body teaches the Filter route in the lesson text.
 
@@ -42,4 +45,6 @@ Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 gui
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: filtering, Data Filter, header row, dropdown arrow, Select All, AutoFilter, Ethiopia Grade 10, north macedonia, grade 10, uzbekistan, grade 9, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, indonesia, grade 7
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: filtering, Data Filter, header row, dropdown arrow, Select All, AutoFilter, Ethiopia Grade 10, north macedonia, grade 10, uzbekistan, grade 9, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, indonesia, grade 7, vietnam, grade 8 tin học 8

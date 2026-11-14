@@ -1,6 +1,6 @@
 # Sources — Digital collaboration — working together through technology
 
-countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece, Armenia
+countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece, Armenia
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What digital collaboration is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 18–19 (student placement item 25) |
@@ -36,8 +38,9 @@ countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia, Greece, Armenia
 | Parcours: Partager et collaborer | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 11 (Parcours) (teacher guide — evidence) |
 | §26–27 Principles of working in a team | Armenia Grade 5 G5 student (Antares), printed p. 131 |
 | Theme 7-7 Collaboration with people near and far | Armenia Grade 7 G7 teacher, printed p. 35 (teacher guide — evidence) |
+| Bài 7 Trình bày thông tin trong trao đổi và hợp tác (Presenting information for exchange and collaboration) | Vietnam Grade 9 Tin học 9, printed p. 27 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Egypt, Mongolia, Greece, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Egypt, Mongolia, Greece, Armenia, Vietnam).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -55,4 +58,6 @@ Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different G
 
 Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
 
-Searchable tags: digital collaboration, shared documents, real-time collaboration, way of working, Ethiopia Grade 12 IT, djibouti, cambodia, egypt, grade 5, mongolia, grade 8 it viii, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, armenia, grade 5, grade 7
+Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
+
+Searchable tags: digital collaboration, shared documents, real-time collaboration, way of working, Ethiopia Grade 12 IT, djibouti, cambodia, egypt, grade 5, mongolia, grade 8 it viii, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, armenia, grade 5, grade 7, vietnam, grade 9 tin học 9

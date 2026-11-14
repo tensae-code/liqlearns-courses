@@ -1,6 +1,6 @@
 # Sources — Slide transitions — and using one throughout
 
-countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova
+countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — slides and their contents; transitions defined against animations; the setting order in Normal view (Transitions tab, star marker, Effect Options, Duration, Sound, Advance Slide, Ctrl+S, F5, Esc) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 125–126 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova
 | Unit 4 Slide transitions | Greece Grade 8 Pliroforiki B, printed p. 51 |
 | 5.5 Tranziții și animații | Moldova Grade 7 Informatică, printed p. 103 |
 | Theme 8-3 Multimedia and spreadsheets: creating new works (§3–§4; slide transitions, animation, design, timing; spreadsheet functions and cell addressing) | Armenia Grade 8 G8 teacher, printed p. 11 (teacher guide — evidence) |
+| Bài 9 Hiệu ứng chuyển trang (Slide transition effects) | Vietnam Grade 4 Tin học 4, printed p. 39 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova).**
+**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova, Vietnam).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -59,4 +62,6 @@ Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real
 
 Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
 
-Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 8
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 8, vietnam, grade 4 tin học 4

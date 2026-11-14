@@ -1,6 +1,6 @@
 # Sources — Themes and readable slide design
 
-countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova
+countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -36,6 +36,10 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 
 **Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 18:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 19:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying a theme — Design tab, thumbnail; scroll bar, down-arrow, Microsoft Office Online | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 125–126 |
@@ -55,8 +59,10 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 | Slide-presentation assessment criteria | Armenia Grade 6 G6 teacher, printed p. 78 (teacher guide — evidence) |
 | Slide-presentation assessment criteria | Armenia Grade 7 G7 teacher, printed p. 202 (teacher guide — evidence) |
 | Slide-presentation assessment criteria | Armenia Grade 8 G8 teacher, printed p. 156 (teacher guide — evidence) |
+| Bài 10a Định dạng nâng cao cho trang chiếu (Advanced formatting of slides — track a) | Vietnam Grade 8 Tin học 8, printed p. 46 |
+| Chuyên đề 3, Bài 1 Xây dựng ý tưởng, cấu trúc bài trình chiếu (Building the idea and structure of the presentation) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 55 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova).**
+**Acceptance count: taught in 13 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova, Vietnam).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -90,4 +96,8 @@ Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this g
 
 Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
 
-Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 6, grade 7, grade 8
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
+
+Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 6, grade 7, grade 8, vietnam, grade 8 tin học 8, grade 10 chuyên đề tin học 10 ứng dụng

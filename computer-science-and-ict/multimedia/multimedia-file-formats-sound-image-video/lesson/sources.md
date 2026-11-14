@@ -1,6 +1,6 @@
 # Sources — Multimedia file formats — sound, image, video
 
-countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova
+countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -25,6 +25,10 @@ countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, M
 
 **Book 12:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 13:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 14:** *Chuyên đề học tập Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35061-9. Grade 11 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a file format is; The three shelves | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 148–149 |
@@ -40,8 +44,10 @@ countries: Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, M
 | Ch.4 Image file types – compression / sources of digital images | Greece Grade 11 EPAL Basika Themata, printed p. 50 |
 | 4.3 Formate de fișiere grafice | Moldova Grade 8 Informatică, printed p. 130 |
 | 4.4 Activități practice: Echipamente și formate de fișiere grafice | Moldova Grade 8 Informatică, printed p. 133 |
+| Bài 6 Dữ liệu âm thanh và hình ảnh §2 (Sound data: sampling and sound files) | Vietnam Grade 10 Tin học 10, printed p. 28 |
+| Chuyên đề 2, Bài 9 Tạo các nguồn dữ liệu khác nhau cho phim hoạt hình (Creating the different data sources — images, sound — for an animated film) | Vietnam Grade 11 Chuyên đề Tin học 11 Ứng dụng, printed p. 44 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Vietnam).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -65,4 +71,8 @@ Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes):
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 epal basika themata, moldova, grade 8 informatica
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Vietnam's own way (Grade 11 Chuyên đề Tin học 11 Ứng dụng): a media-production volume in three crafts — vector decoration design in Inkscape (a postcard for a national tourism-design contest), cartoon-film making, and animated-GIF editing in a photo editor, layers first.
+
+Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 epal basika themata, moldova, grade 8 informatica, vietnam, grade 10 tin học 10, grade 11 chuyên đề tin học 11 ứng dụng

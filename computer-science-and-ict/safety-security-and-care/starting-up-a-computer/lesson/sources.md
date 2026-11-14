@@ -1,6 +1,6 @@
 # Sources — Starting up a computer
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia
+countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, J
 
 **Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն, 3-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 3, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 3 (teacher guide). 69 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 15:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Start-up order — checks, connections, power buttons, loading, sign-in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.63 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, J
 | Thematic planning, Theme 1: switching devices on and off; fire cases | Armenia Grade 2 G2 teacher, printed p. 28 (teacher guide — evidence) |
 | Lesson 1 Working with devices. Safety (Theme 1 Learning to work with devices) | Armenia Grade 3 G3 student, printed p. 5 |
 | Thematic planning, Theme 1 Lesson 1: E-security and health — working with electronic devices, switching the computer on, off and restarting | Armenia Grade 3 G3 teacher, printed p. 23 (teacher guide — evidence) |
+| Bài 4 Làm việc với máy tính (Working with a computer: switching on/off, sitting properly, first mouse use) | Vietnam Grade 3 Tin học 3, printed p. 18 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -69,4 +72,6 @@ Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan,
 
 Armenia's own way (Armenia Grade 3 G3 teacher): Companion to Book 3 in the Zangak guide template: Grade 3 standard outcomes, exemplary programme, thematic planning that opens with e-security and health (switching the computer on, off and restarting), sample lesson plans (the first is Theme 6, keyboard shortcuts for fast work), and explanations of the textbook's electronic tasks.
 
-Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook, armenia, grade 2, grade 3
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook, armenia, grade 2, grade 3, vietnam, grade 3 tin học 3

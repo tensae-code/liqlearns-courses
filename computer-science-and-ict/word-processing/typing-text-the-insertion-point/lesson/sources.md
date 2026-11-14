@@ -1,6 +1,6 @@
 # Sources — Typing text — the blinking insertion point
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan
+countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan
 
 **Book 9:** *المهارات الرقمية — الصف الثالث الأساسي، كتاب الأنشطة (Digital Skills, Grade 3 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-979-3. Grade 3 (student activity book). 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts (Word, PowerPoint, Excel, saving files) are placed; partner-subject content is not.
 
+**Book 10:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Click the word processor icon to open it; the blinking cursor (insertion point) sits in the text area below the ribbon | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 46 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan
 | Ch.4 Create a document using the keyboard | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 42 |
 | Lecția 5 Elementele textului (the cursor, moving to a new line, menus of a text editor) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 25 |
 | typing and writing in Word across the early blocks | Jordan Grade 3 G3 Workbook, printed p. 12 |
+| Bài 7 Thực hành soạn thảo văn bản (Practical: composing a complete text document) | Vietnam Grade 5 Tin học 5, printed p. 34 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, Vietnam).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -53,4 +56,6 @@ Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of inf
 
 Jordan's own way (Jordan Grade 3 G3 Workbook): The Office ladder continues — Word carries the early blocks, PowerPoint the middle blocks (e.g. multiplication facts), and Excel appears in the geometry-and-measurement block, with Save As taught as an explicit step.
 
-Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book, moldova, grade 2 educatie digitala, jordan, grade 3 digital skills workbook
+Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
+
+Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book, moldova, grade 2 educatie digitala, jordan, grade 3 digital skills workbook, vietnam, grade 5 tin học 5

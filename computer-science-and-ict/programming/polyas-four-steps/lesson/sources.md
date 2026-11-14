@@ -1,6 +1,6 @@
 # Sources — Polya's four steps
 
-countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 
 **Book 14:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 15:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polya's four steps with their contents; the back-and-forth note | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 219–220 |
@@ -46,8 +48,9 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 | Learning Experience 1, Sessions 2-8: find a problem, decide as a group, solve it and make a guideline | Bangladesh Grade 6 Digital Technology, printed p. 3 |
 | Lesson 2 Algorithms: problem solving | Jordan Grade 12 G12T1 Student, printed p. 27 |
 | Bab 1 F. Pemecahan masalah (problem solving, Polya, brainstorming) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 20 |
+| Bài 14 Giải quyết vấn đề (Solving problems in steps, with the computer's help) | Vietnam Grade 9 Tin học 9, printed p. 76 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia, Vietnam).**
 
 Book error, taught corrected: the student book's Polya table prints the typo "2tep 2" for Step 2; the lesson teaches Step 2 and flags the misprint here.
 
@@ -76,4 +79,6 @@ Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; 
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student, bangladesh, grade 6 digital technology, jordan, grade 12 term 1 digital skills, indonesia, grade 10
+Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
+
+Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student, bangladesh, grade 6 digital technology, jordan, grade 12 term 1 digital skills, indonesia, grade 10, vietnam, grade 9 tin học 9

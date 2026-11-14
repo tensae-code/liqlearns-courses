@@ -1,6 +1,6 @@
 # Sources — Cut and paste — moving text
 
-countries: Ethiopia, Eritrea, Uzbekistan, Bhutan
+countries: Ethiopia, Eritrea, Uzbekistan, Bhutan, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Uzbekistan, Bhutan
 
 **Book 5:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 6:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — cut: select the text; right-click Cut, or Cut in the Clipboard group of the Home tab; the text waits on the clipboard | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 48–49 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Eritrea, Uzbekistan, Bhutan
 | Урок 28 "Редактирование документов" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 116 |
 | Урок 29 "Упражнения на редактирование текста" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 120 |
 | 2.6 Editing Texts (cut and move text) | Bhutan, *Literacy with ICT, Class V*, printed p. 23 |
+| Bài 11 Chỉnh sửa văn bản (Editing a text: correcting, deleting, moving text) | Vietnam Grade 4 Tin học 4, printed p. 47 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Uzbekistan, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Uzbekistan, Bhutan, Vietnam).**
 
 
 Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught to mastery — MS Word from its interface to formulas and print — on the principle that one tool learned deeply beats many tools skimmed.
@@ -31,4 +34,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: cut and paste, clipboard, moving text, Home tab, Clipboard group, Addis Ababa, Ethiopia Grade 8, eritrea, uzbekistan, grade 6, grade 8, bhutan, class v
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Searchable tags: cut and paste, clipboard, moving text, Home tab, Clipboard group, Addis Ababa, Ethiopia Grade 8, eritrea, uzbekistan, grade 6, grade 8, bhutan, class v, vietnam, grade 4 tin học 4

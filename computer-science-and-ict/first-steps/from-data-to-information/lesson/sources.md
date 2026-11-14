@@ -1,6 +1,6 @@
 # Sources — From data to information
 
-countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia
+countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -36,6 +36,10 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 
 **Book 17:** *Թվային գրագիտություն և համակարգչային գիտություն, 2-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 2, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2023; ISBN 978-9939-99-000-0. Grade 2 (teacher guide). 62 PDF pages. Verdict: COMPLETE. Read via contents, the 32-hour thematic planning, sample lesson plan 1 and the electronic-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 18:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 19:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Processed data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 3–4 |
@@ -56,8 +60,10 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 | Ch.1 Data and information | Greece Grade 11 EPAL Basika Themata, printed p. 11 |
 | Lesson 15 Data and information | Armenia Grade 2 G2 student, printed p. 106 |
 | Thematic planning, Theme 12: what data is, what information is, how they can be shown | Armenia Grade 2 G2 teacher, printed p. 29 (teacher guide — evidence) |
+| Bài 1 Thông tin và quyết định (Information and decisions; three forms of information: text, sound, image) | Vietnam Grade 3 Tin học 3, printed p. 5 |
+| Bài 1 Thông tin và xử lí thông tin (Information and information processing; information vs data) | Vietnam Grade 10 Tin học 10, printed p. 6 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia, Vietnam).**
 
 No book error touches this lesson's content.
 
@@ -85,4 +91,8 @@ Armenia's own way (Armenia Grade 2 G2 student): A story-led primary book built a
 
 Armenia's own way (Armenia Grade 2 G2 teacher): Companion to Book 1 in the Zangak guide template: Grade 2 standard outcomes, an exemplary programme, a 32-hour thematic plan covering the student book's twelve themes with practical works and two summary tests, sample lesson plans (the first teaches the "Important commands" lesson — select, cut, copy, paste, undo, redo), and worked explanations of the book's electronic tasks, opening with correct sitting posture at the computer.
 
-Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata, armenia, grade 2
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata, armenia, grade 2, vietnam, grade 3 tin học 3, grade 10 tin học 10

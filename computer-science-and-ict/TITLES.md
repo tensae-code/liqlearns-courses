@@ -1309,3 +1309,24 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Indonesia): Browsing Digital Information Wisely · Checking Whether Information Is Credible · Citing Sources — the International Standard · Creating Content for Social Media · A Cross-Field Computing Project — the Smart Waste Project · Digital Literacy — the Four Pillars · Evaluating Data and Its Sources · Fact, Opinion and Hoax · Healthy Habits and Mental Health Online · Information Technology Laws and Regulations — the UU ITE · IT Careers and Certifications · Lateral Reading — Checking Whether Content Is True · Managing an Informatics Project · Mindfulness in the Digital World · Monitoring and Evaluating a Project · Problems of Bad Data Processing · The Fact-Checking Ecosystem
 
 **New Technologies** (ICT expansion, from Indonesia): Building AI Apps with App Inventor · Programming a Small Robot — Ozobot
+
+**First Steps** (ICT expansion, from Vietnam): Binary — and How Integers Are Stored
+
+**Hardware** (ICT expansion, from Vietnam): Typing With Correct Fingers on the Home Row
+
+**Software** (ICT expansion, from Vietnam): Mind Maps — Organising Ideas Visually · Open-Source and Web-Based Software · Project Management Software and Gantt Charts
+
+**Word Processing** (ICT expansion, from Vietnam): Using Styles and the Navigation Pane
+
+**Spreadsheets** (ICT expansion, from Vietnam): Checkbox Forms in a Spreadsheet · Conditional Functions — COUNTIF, SUMIF and IF · Data Validation — Checking What Is Entered · Date and Time Functions in a Spreadsheet · Probability and Random Sampling in a Spreadsheet · Statistical Hypothesis Testing
+
+**Presentations** (ICT expansion, from Vietnam): Interactive Slides — Triggers and Action Buttons
+
+**Internet and the Web** (ICT expansion, from Vietnam): Building a Website With Google Sites · Colours for Text and Background in CSS · CSS Selector Priority — Which Rule Wins · Formatting Text With CSS · The CSS Box Model
+
+**Multimedia** (ICT expansion, from Vietnam): Animated GIFs — Timing and Moving Text · Animation Software — First Steps · Designing Characters for Animation · Effects for Animated Images · Learning a Craft From a Tutorial Video · Making a Digital Product With Graphics Software · Making an Animated Film · Vector Graphics Design Software
+
+**Programming** (ICT expansion, from Vietnam): Backtracking · Binary Search Trees · Binary Trees · Depth-First Search · Designing Recursive Algorithms · Doing My Own Work — With a Computer's Help · Graph Traversal Practice — Depth and Breadth Together · Merge Sort · Representing Graphs — Adjacency Matrix and List · Robot Course Driving Project · The N-Queens Problem · The Tower of Hanoi · Traversing a Binary Search Tree · What a Computer Program Is
+
+**Computers in Society** (ICT expansion, from Vietnam): Information in the Digital Environment · Using Information to Solve Problems
+

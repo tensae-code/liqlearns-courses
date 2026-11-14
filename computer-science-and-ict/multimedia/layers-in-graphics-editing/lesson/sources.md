@@ -1,17 +1,20 @@
 # Sources — Layers in Graphics Editing
 
-countries: North Macedonia, Bhutan
+countries: North Macedonia, Bhutan, Vietnam
 
 **Book 1:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
 **Book 2:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 3:** *Chuyên đề học tập Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35061-9. Grade 11 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Layers in Graphics" | North Macedonia, *Informatics, Year 2*, Тема 4, printed p. 267 |
 | 6.5 Using Layers in Image Editing (filed as NEW LESSON NEEDED — multimedia/using-layers-in-image-editing; stocked in this lesson because this lesson teaches layers in graphics editing — the stack of transparent sheets each holding part of the picture) | Bhutan, *Literacy with ICT, Class VII*, printed p. 92 |
+| Chuyên đề 3, Bài 11 Thao tác với các lớp ảnh (Working with image layers) (filed as NEW LESSON NEEDED — multimedia/working-with-layers-in-an-image-editor; stocked in this lesson because this lesson teaches working with layers in an image editor — the stack of sheets, worked layer by layer) | Vietnam Grade 11 Chuyên đề Tin học 11 Ứng dụng, printed p. 49 |
 
-**Acceptance count: taught in 2 countries (North Macedonia, Bhutan).**
+**Acceptance count: taught in 3 countries (North Macedonia, Bhutan, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (North Macedonia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — multimedia/layers-in-graphics-editing). It sits in the Multimedia title (multimedia/), following the book's own order.
 
@@ -19,4 +22,6 @@ North Macedonia's own way (Year 2): a strikingly current first theme (cybersecur
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: layers, graphics editing, stack, opacity, flatten, multimedia, north macedonia, grade 11, bhutan, class vii
+Vietnam's own way (Grade 11 Chuyên đề Tin học 11 Ứng dụng): a media-production volume in three crafts — vector decoration design in Inkscape (a postcard for a national tourism-design contest), cartoon-film making, and animated-GIF editing in a photo editor, layers first.
+
+Searchable tags: layers, graphics editing, stack, opacity, flatten, multimedia, north macedonia, grade 11, bhutan, class vii, vietnam, grade 11 chuyên đề tin học 11 ứng dụng

@@ -1,6 +1,6 @@
 # Sources — What a computer network is
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -85,6 +85,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Suda
 
 **Book 43:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 44:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two or more computers, linked to share | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 37 |
@@ -133,8 +135,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Suda
 | Bab 5 D. Jaringan komputer | Indonesia Grade 8 G8 Informatika student, printed p. 208 |
 | Bab 4 B. Jaringan komputer dan internet | Indonesia Grade 10 G10 Informatika student, printed p. 193 |
 | Bab 4 A. Mengenal jaringan | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 123 |
+| Bài 4 Mạng máy tính (Computer networks: components and benefits) | Vietnam Grade 6 Tin học 6, printed p. 16 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 21 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -218,4 +221,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, indonesia, grade 7, grade 8, grade 10, grade 10
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, indonesia, grade 7, grade 8, grade 10, grade 10, vietnam, grade 6 tin học 6

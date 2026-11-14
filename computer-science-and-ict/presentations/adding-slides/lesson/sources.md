@@ -1,6 +1,6 @@
 # Sources — Adding slides
 
-countries: Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece
+countries: Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece
 
 **Book 10:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
 
+**Book 11:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Title Slide — "Click to Add Title" and "Click to Add Subtitle" placeholders; click inside and type | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 122–123 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece
 | Slides and objects on slides (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
 | Unit 4 Slides / inserting slides | Greece Grade 8 Pliroforiki B, printed p. 46 |
 | Learning Project 4 (Places and Feelings): a PowerPoint presentation about places in Jordan (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 87 (teacher guide — evidence) |
+| Bài 7 Tạo bài trình chiếu (Creating a presentation) | Vietnam Grade 4 Tin học 4, printed p. 30 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Rwanda, Greece, Vietnam).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -57,4 +60,6 @@ Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook bl
 
 Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
 
-Searchable tags: title slide, placeholder, New Slide button, layout gallery, Ctrl+M, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, bhutan, class vii, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Searchable tags: title slide, placeholder, New Slide button, layout gallery, Ctrl+M, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, bhutan, class vii, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, vietnam, grade 4 tin học 4

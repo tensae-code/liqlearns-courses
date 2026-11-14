@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — add, decide, loop
 
-countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -35,6 +35,8 @@ countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan, Armenia, In
 
 **Book 18:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 19:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Model 1 — adding two numbers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 209–210 |
@@ -60,8 +62,9 @@ countries: Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan, Armenia, In
 | Thematic planning, Themes 9–11: algorithms in everyday life, presenting step sequences, step-by-step programming | Armenia Grade 2 G2 teacher, printed p. 29 (teacher guide — evidence) |
 | Bab 1 B. Algoritma dan dasar pemrograman | Indonesia Grade 7 G7 Informatika student, printed p. 13 |
 | Bab 1 A. Algoritma | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 3 |
+| Bài 15 Thuật toán (Algorithms in everyday life and for the computer) | Vietnam Grade 6 Tin học 6, printed p. 63 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Malaysia, Sri Lanka, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
 
 As printed: model 3's loop check reads “less than 10” in the book (printed p. 210); the lesson keeps the book's printed check and names it as printed, rather than silently rewriting the limit.
 
@@ -99,4 +102,6 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: writing algorithms, add two numbers, branching algorithm, negative positive zero, loop, counter, sum of ten numbers, Grade 10 ICT Ethiopia, mauritania, grade 9, egypt, grade 10, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 2, indonesia, grade 7, grade 10
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: writing algorithms, add two numbers, branching algorithm, negative positive zero, loop, counter, sum of ten numbers, Grade 10 ICT Ethiopia, mauritania, grade 9, egypt, grade 10, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 2, indonesia, grade 7, grade 10, vietnam, grade 6 tin học 6

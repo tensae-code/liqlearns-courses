@@ -1,6 +1,6 @@
 # Sources — Input, process, output
 
-countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia, Indonesia
+countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -35,6 +35,8 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 
 **Book 17:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
 
+**Book 18:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The input–process–output model; its sources of input and forms of output | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 222 |
@@ -49,6 +51,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 | Activité 2 Séance 2: prendre une photo avec la tablette; chansons stockées dans la mémoire | Switzerland Grade 5 Décodage 5e–6e, printed p. 7 (Activité 2) (teacher guide — evidence) |
 | Lesson 14 Input and output data. Variables | Armenia Grade 10 G10 student, printed p. 75 |
 | Bab 2 A. Fungsi: konsep fungsi sebagai masukan-proses-keluaran (struktur teks lagu, mesin pembentuk adonan) | Indonesia Grade 8 G8 Informatika student, printed p. 59 |
+| Bài 18 Các lệnh vào ra đơn giản (Simple input/output commands: input(), print()) | Vietnam Grade 10 Tin học 10, printed p. 97 |
 
 | Solving problems with a computer — the seven steps; A + B = C; the everyday-algorithm activity (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 204–205 |
 | The five problem-solving steps; the input–process–output skeleton; the 15-period budget (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6, printed pp. 103–104, 107 |
@@ -57,7 +60,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 | Strand 5 Unit 1 Computer Architecture, Topic Computer System, Lesson 1: Information Processing Cycle (filed as first-steps/the-information-processing-cycle-cake; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Unit 4, 4-6: Input and output in BASIC — INPUT, PRINT and LPRINT, READ and DATA | Sudan, *Computer Science, Grade 11*, printed p. 41 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia, Indonesia, Vietnam).**
 
 Book errors taught corrected, flagged here as this growth teaches the unit's opening outcomes: the Grade 10 student book's Unit 6 outcomes header spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint) — the lessons use the correct spelling, Fundamentals of Programming. In the teacher guide, the §6.8 answer key defines an algorithm as a sequence of “ambiguous” step-by-step instructions — the opposite of both books' wording everywhere else (unambiguous); the worked-problems lesson teaches the corrected word and flags the slip there too. The guide's keys for every unit's objective items (Unit 5 printed p. 101; Unit 6 printed p. 116) were used as the verified answer source for this build's Grade 10 question files.
 
@@ -89,4 +92,6 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
 
-Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii, laos, grade 12 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 56, armenia, grade 10, indonesia, grade 8
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii, laos, grade 12 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 56, armenia, grade 10, indonesia, grade 8, vietnam, grade 10 tin học 10

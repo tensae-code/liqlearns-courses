@@ -1,6 +1,6 @@
 # Sources — Inside the CPU — ALU, control unit, registers
 
-countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia
+countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia
 
 **Book 8:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 9:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 10:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ALU — works out and compares | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 21 (teacher evidence: guide printed pp. 31–34) |
@@ -30,8 +34,10 @@ countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia
 | Ch.1 Components of the CPU | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 3 |
 | Ch.1 §1.1 The CPU (its components, choosing a CPU, heat) | Laos Grade 8 ICT student, printed p. 1 |
 | Bab 3 D (kerja internal CPU) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 98 |
+| Bài 4 Bên trong máy tính (Inside the computer: CPU, memory, logic circuits) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 21 |
+| Bài 4 Bên trong máy tính (Inside the computer — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 21 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia, Vietnam).**
 
 No book error touches this lesson's content.
 
@@ -47,4 +53,8 @@ Laos's own way (Grade 8 ICT student book): a full PC-technician year in full col
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: inside the cpu — alu, control unit, registers, hardware, grade 7, information technology, ict, ethiopia, the alu — works out and compares, the control unit — directs everything, fiji, year 11, bhutan, class vi, mongolia, grade 12 it xii, sri lanka, grade 7 reading book, laos, grade 8 ict student, indonesia, grade 10
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: inside the cpu — alu, control unit, registers, hardware, grade 7, information technology, ict, ethiopia, the alu — works out and compares, the control unit — directs everything, fiji, year 11, bhutan, class vi, mongolia, grade 12 it xii, sri lanka, grade 7 reading book, laos, grade 8 ict student, indonesia, grade 10, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

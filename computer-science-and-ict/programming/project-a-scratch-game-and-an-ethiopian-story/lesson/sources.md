@@ -1,6 +1,6 @@
 # Sources — Project: a Scratch game and an Ethiopian story
 
-countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
+countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,12 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 
 **Book 16:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 17:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 18:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 19:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The game project — models named; actors, actions, stages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 238-239 |
@@ -56,8 +62,11 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 | Add a level of a game (switch backdrop at the edge, red sends the player back, pink finish, winning costume with sound and message; Jump variable and gravity) | Rwanda Grade 9 S3 ICT Student Book, printed p. 342 |
 | Unit 10: platform game programming — concepts, creating a platform sprite, add a level (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 191 (teacher guide — evidence) |
 | Unit 9 Game Programming (Scratch): game concepts, sprites, backgrounds | Rwanda Grade 8 S2 ICT Student Book, printed p. 257 |
+| Bài 16 Chương trình của em (My own program: project) | Vietnam Grade 4 Tin học 4, printed p. 72 |
+| Bài 16 Từ kịch bản đến chương trình (From a script/storyboard to a finished program) | Vietnam Grade 5 Tin học 5, printed p. 78 |
+| Bài 16 Thực hành: Lập chương trình máy tính (Practical: writing a computer program in Scratch) | Vietnam Grade 9 Tin học 9, printed p. 83 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Vietnam).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -85,4 +94,10 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
+
+Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
+
+Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 9 tin học 9

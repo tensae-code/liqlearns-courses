@@ -1,6 +1,6 @@
 # Sources — Robotics — machines that do people's tasks
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Gree
 
 **Book 18:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 19:** *Chuyên đề học tập Tin học 10 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31091-0. Grade 10 (student book). 74 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Robotics defined; factory routine work, dangerous work, underwater and space work; home work and the robot vacuum | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 30 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Gree
 | Learning Experience 5, Session 7 and experience introduction: robots solving problems, Let's Make a Robot with Paper | Bangladesh Grade 7 Digital Technology, printed p. 61 |
 | Chapter 1, 1.3.2: Robotics — what a robot is, its components and seven application areas | Bangladesh HSC ICT, printed p. 17 |
 | Lesson 3: The Robot — concept of the robot and the components of a robot system | Jordan Grade 9 G9T2 Student, printed p. 129 |
+| Chuyên đề 1, Bài 1 Cấu tạo chung của robot giáo dục (General structure of an educational robot: controller board, sensors, actuators, power) | Vietnam Grade 10 Chuyên đề Tin học 10 Khoa học máy tính, printed p. 5 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan, Vietnam).**
 
 No book error touches this lesson.
 
@@ -93,4 +96,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
 
-Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 2 digital skills
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Khoa học máy tính): the CS study-topics book for Grade 10 is not more Python — it is a full educational-robotics course (a STEM orientation, per its preface): build the robot, connect it to the computer, then program it to move, sense obstacles and follow a line on a test course (sa bàn).
+
+Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 2 digital skills, vietnam, grade 10 chuyên đề tin học 10 khoa học máy tính

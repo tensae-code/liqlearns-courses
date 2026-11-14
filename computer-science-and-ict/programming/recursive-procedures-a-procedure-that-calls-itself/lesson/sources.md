@@ -1,6 +1,6 @@
 # Sources — Recursive procedures — a procedure that calls itself
 
-countries: Ethiopia, Greece, Moldova, Armenia
+countries: Ethiopia, Greece, Moldova, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Greece, Moldova, Armenia
 
 **Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն 11 (Digital Literacy and Computer Science, Grade 11 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-283-9 (from the book's printed QR link, zangak.am/9789939992839). Grade 11 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The imprint's “112 pages” figure disagrees with the PDF and with the book's own contents (which runs to p. 124 plus back matter); the PDF pagination is used, as filed.
 
+**Book 9:** *Chuyên đề học tập Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35060-2. Grade 11 (student book). 74 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Recursive defined — a procedure that invokes a copy of itself | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 6 §6.3, printed pp. 96–97 |
@@ -28,8 +30,10 @@ countries: Ethiopia, Greece, Moldova, Armenia
 | 1.8 Recursia (in Pascal/C++) | Moldova Grade 12 Informatică, printed p. 40 |
 | Lesson 26 What recursion is. Recursion in mathematics and other sciences (Theme 17) | Armenia Grade 10 G10 student, printed p. 128 |
 | Lesson 12 Program implementation of recursive algorithms | Armenia Grade 11 G11 student, printed p. 88 |
+| Chuyên đề 1, Bài 1 Đệ quy và hàm đệ quy (Recursion and recursive functions: Fibonacci, Lucas sequences) | Vietnam Grade 11 Chuyên đề Tin học 11 Khoa học máy tính, printed p. 5 |
+| Chuyên đề 1, Bài 3 Thực hành giải toán theo kĩ thuật đệ quy (Practical: solving problems recursively) | Vietnam Grade 11 Chuyên đề Tin học 11 Khoa học máy tính, printed p. 16 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Greece, Moldova, Armenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Greece, Moldova, Armenia, Vietnam).**
 
 Book error taught corrected, as the placements flag it: the "star" procedure in §6.3 is presented as recursive but never calls itself — it only uses REPEAT (printed pp. 96–97). The lesson teaches the book's definition of recursion, draws the book's star, and teaches plainly what the code actually does; the label is flagged here rather than taught as settled. The same section misspells SQUARE as "SQAURE" (printed p. 94) — flagged here, spelled correctly in the lessons. The teacher guide prints the same recursive-procedure definition twice in consecutive sentences in its Unit 6 overview (guide printed p. 50) — a guide duplication, noted here. The guide's Unit 6 answer key (printed p. 55) keys "recursive procedure" as a fill-in answer and was used as the verified-answer check for this lesson's question files.
 
@@ -45,4 +49,6 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Zangak) is the most advanced book in the set: online payment systems, digital biography, software licences, inclusive technology, logic-circuit adders, network performance, big data in tables, 1D/2D arrays, sorting and searching, recursion, OOP classes and inheritance, error types and algorithm speed — most of it beyond the current ICT course's 584 lessons, hence the high NEW share.
 
-Searchable tags: recursive procedures, LOGO recursion, self-call, star procedure, REPEAT 100, fd 100 rt 144, Grade 8 ICT Ethiopia, greece, grade 9 pliroforiki c gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 12 informatica, armenia, grade 10, grade 11
+Vietnam's own way (Grade 11 Chuyên đề Tin học 11 Khoa học máy tính): the CS study-topics book for Grade 11 is a pure algorithm-techniques course in Python — recursion (with the Tower of Hanoi), divide and conquer (with merge sort), and exhaustive search with backtracking (with the N-Queens problem).
+
+Searchable tags: recursive procedures, LOGO recursion, self-call, star procedure, REPEAT 100, fd 100 rt 144, Grade 8 ICT Ethiopia, greece, grade 9 pliroforiki c gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 12 informatica, armenia, grade 10, grade 11, vietnam, grade 11 chuyên đề tin học 11 khoa học máy tính

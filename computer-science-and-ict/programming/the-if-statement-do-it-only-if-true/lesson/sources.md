@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan
+countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -47,6 +47,10 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 
 **Book 25:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 9 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-657-0. Grade 9 (student book). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 26:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 27:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -76,8 +80,10 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 | Scénario 5 (Square CT) Séance 1: créer des instructions conditionnelles | Switzerland Grade 6 Décodage 5e–6e, printed p. 10 (Scénario 5) (teacher guide — evidence) |
 | Chapter 5, 5.6: conditional statements — if | Bangladesh HSC ICT, printed p. 162 |
 | Lesson 2: the conditional statement and advanced control | Jordan Grade 9 G9T1 Student, printed p. 85 |
+| Bài 15 Công việc được thực hiện theo điều kiện (Jobs done according to a condition — "if… then…") | Vietnam Grade 3 Tin học 3, printed p. 67 |
+| Bài 19 Câu lệnh rẽ nhánh if (The if branching statement) | Vietnam Grade 10 Tin học 10, printed p. 101 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia, Kuwait, Greece, Moldova, Bangladesh, Jordan, Vietnam).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -123,4 +129,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 9 G9T1 Student): Grade 9 pairs the social side of computing (impact, e-learning, cybercrime, cyberbullying, digital media) with Scratch programming taken further than blocks basics — variables, nested conditionals, debugging, iterative development, nested loops, functions and subroutines.
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, grade 12 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa, moldova, grade 8 informatica, moldova, grade 10 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills, vietnam, grade 3 tin học 3, grade 10 tin học 10

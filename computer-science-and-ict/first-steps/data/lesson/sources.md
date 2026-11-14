@@ -1,6 +1,6 @@
 # Sources — Data — raw facts with no meaning yet
 
-countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova, Armenia
+countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -39,6 +39,8 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Gr
 
 **Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
 
+**Book 22:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Data — raw facts with no meaning yet | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 3 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Gr
 | Lesson 10 Collecting data using programs (Theme 7 Collecting data) | Armenia Grade 3 G3 student, printed p. 59 |
 | §2 Types and sources of data | Armenia Grade 5 G5 student (Antares), printed p. 11 |
 | Task analysis and answers: §2 Types and sources of data | Armenia Grade 5 G5 teacher, printed p. 54 (teacher guide — evidence) |
+| Bài 1 Thông tin và dữ liệu (Information and data: telling them apart, data carriers) | Vietnam Grade 6 Tin học 6, printed p. 5 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova, Armenia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece, Moldova, Armenia, Vietnam).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -103,4 +106,6 @@ Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different G
 
 Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
 
-Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, armenia, grade 2, grade 3, grade 5
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, armenia, grade 2, grade 3, grade 5, vietnam, grade 6 tin học 6

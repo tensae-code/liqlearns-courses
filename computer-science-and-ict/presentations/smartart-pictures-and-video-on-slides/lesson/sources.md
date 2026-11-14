@@ -1,6 +1,6 @@
 # Sources — SmartArt, pictures and video on slides
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, M
 
 **Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 14:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 15:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SmartArt — relationships, organisation charts, timelines; SmartArt Tools | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 130–132 |
@@ -44,8 +48,10 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, M
 | Ch.5 §IV Inserting media and pictures into slides (and Clip Art) | Laos Grade 12 ICT student, printed p. 218 |
 | 5.4 Inserarea și editarea imaginilor | Moldova Grade 7 Informatică, printed p. 100 |
 | §3 Using multimedia in slide decks | Armenia Grade 8 G8 student, printed p. 19 |
+| Bài 12 Định dạng đối tượng trên trang chiếu (Formatting objects on slides: pictures, shapes, text boxes) | Vietnam Grade 7 Tin học 7, printed p. 61 |
+| Chuyên đề 3, Bài 2 Tạo ấn tượng với minh họa bằng video (Impressing with video illustrations on slides) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 61 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia, Vietnam).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -71,4 +77,8 @@ Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real
 
 Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
 
-Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, moldova, grade 7 informatica, armenia, grade 8
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
+
+Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, moldova, grade 7 informatica, armenia, grade 8, vietnam, grade 7 tin học 7, grade 10 chuyên đề tin học 10 ứng dụng

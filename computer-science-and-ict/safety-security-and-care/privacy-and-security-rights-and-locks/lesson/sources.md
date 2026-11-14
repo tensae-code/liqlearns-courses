@@ -1,6 +1,6 @@
 # Sources — Privacy and security — rights vs locks
 
-countries: Ethiopia, Bhutan, Jordan, Armenia
+countries: Ethiopia, Bhutan, Jordan, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bhutan, Jordan, Armenia
 
 **Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 7:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Privacy — rights over your data; data privacy defined | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 185–186 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Bhutan, Jordan, Armenia
 | §3 Data protection mechanisms | Armenia Grade 5 G5 student (Antares), printed p. 17 |
 | Theme 6-2 Protection of personal data | Armenia Grade 6 G6 teacher, printed p. 13 (teacher guide — evidence) |
 | 1.7 Safe and legal use of data | Armenia Grade 7 G7 student, printed p. 20 |
+| Bài 10 Bảo vệ thông tin khi dùng máy tính (Protecting your and your family's information when using a computer) | Vietnam Grade 3 Tin học 3, printed p. 46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Jordan, Armenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Jordan, Armenia, Vietnam).**
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
@@ -37,4 +40,6 @@ Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the studen
 
 Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
 
-Searchable tags: privacy, security, data privacy, data security, personal information, rights, Gmail exercise, Grade 10 ICT Ethiopia, bhutan, class vii, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 6, grade 7
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: privacy, security, data privacy, data security, personal information, rights, Gmail exercise, Grade 10 ICT Ethiopia, bhutan, class vii, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 6, grade 7, vietnam, grade 3 tin học 3

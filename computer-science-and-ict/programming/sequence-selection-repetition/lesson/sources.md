@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan, Armenia, Indonesia
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -55,6 +55,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 
 **Book 29:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 30:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 31:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -92,8 +96,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 | Bab 1 B.2 Pengembangan pemrograman: urutan, kondisional, pengulangan | Indonesia Grade 7 G7 Informatika student, printed p. 20 |
 | Bab 2 B. Membuat program sesuai struktur kendalinya (sekuensial, seleksi, perulangan) | Indonesia Grade 10 G10 Informatika student, printed p. 45 |
 | Bab 1 C. Bentuk dasar algoritma (sekuensial, percabangan, perulangan) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 14 |
+| Bài 10 Cấu trúc tuần tự (The sequence structure in a program) | Vietnam Grade 5 Tin học 5, printed p. 52 |
+| Bài 16 Các cấu trúc điều khiển (Control structures: sequence, selection, repetition in flowcharts) | Vietnam Grade 6 Tin học 6, printed p. 67 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 17 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece, Jordan, Armenia, Indonesia, Vietnam).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -148,4 +154,8 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii, sri lanka, grade 8 reading book, kuwait, grade 4 digital explorer term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 12 term 1 digital skills, armenia, grade 5, grade 8, indonesia, grade 7, grade 10, grade 10
+Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
+
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii, sri lanka, grade 8 reading book, kuwait, grade 4 digital explorer term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 12 term 1 digital skills, armenia, grade 5, grade 8, indonesia, grade 7, grade 10, grade 10, vietnam, grade 5 tin học 5, grade 6 tin học 6

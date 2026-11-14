@@ -1,6 +1,6 @@
 # Sources — The relational data model — tables of rows and columns
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 
 **Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
 
+**Book 16:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 17:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the relational model represents data as two-dimensional tables called relations; each row is a record (tuple) holding one unique instance; each column is an attribute (field) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 58–59 |
@@ -45,6 +49,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | 4.3 Elaborarea bazelor relaționale de date | Moldova Grade 12 Informatică, printed p. 128 |
 | Chapter 6, 6.2: the relational database management system (RDBMS) | Bangladesh HSC ICT, printed p. 192 |
 | §23 Presenting data by means of tables | Armenia Grade 5 G5 student (Antares), printed p. 119 |
+| Bài 13 Cơ sở dữ liệu quan hệ §1 (Relational databases: tables, rows, columns) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 64 |
+| Bài 13 Cơ sở dữ liệu quan hệ §1 (Relational databases — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 64 |
 
 | Sub lesson 4 — an RDBMS is software used to create, maintain and provide controlled access to a relational database; two-dimensional tables, column = field/attribute, row = record/tuple with one value per column; the student entity's attributes (id, name, age, grade level, sex) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed p. 61 |
 | Sub lesson 4 (teacher guide — evidence) — Ethiopian example sets: single field values across types (book title, email address, sales date, body temperature, weight, cost in birr, expiry date, opening hour); the patient typed fields; fields for Person, Book and Sales; one full Student record row | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 53–54 |
@@ -54,7 +60,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | Unit 1 Lesson 2: Linked tables — avoiding repeated data | Sudan, *ICT, Grade 7*, printed p. 12 |
 | 9-2 Database [2] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 115 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -82,4 +88,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
 
-Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

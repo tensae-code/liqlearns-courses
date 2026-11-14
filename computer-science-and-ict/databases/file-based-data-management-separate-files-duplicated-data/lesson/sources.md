@@ -1,6 +1,6 @@
 # Sources — File-based data management — separate files, duplicated data
 
-countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh
+countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh
 
 **Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 6:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 7:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — separate files, no explicit relationships, each file managed by its own application program, each department keeping its own files; changing data means changing the program, and changing the program can mean changing the file structure | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 51–53 |
@@ -22,8 +26,10 @@ countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh
 | 3.2 File Organisation | Fiji, *Computer Education, Year 13*, printed p. 37 |
 | Ch.1 §2 Data systems | Laos Grade 11 ICT student, printed p. 14 |
 | Chapter 6, 6.1.1: limitations of the file system — duplication, dependence and inconsistency | Bangladesh HSC ICT, printed p. 192 |
+| Bài 10 Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lí (Storing data and exploiting information for management) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 49 |
+| Bài 10 Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lí (Data storage for management — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 49 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Fiji, Laos, Bangladesh).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam).**
 
 Honesty: the security limitation in Sub lesson 3 is teacher-guide evidence only (Activity 3.1's keyed answer) and is labelled as such in the lesson; it is never counted as pupil-taught. Unit 3's Unit Summary (printed p.71) opens with the stray bullet “what is meant by Emerging Technologies” — a copy-over from Unit 2; it belongs to Unit 2, is not taught anywhere in this title, and is named here because this lesson opens the unit. The review headings throughout the book misspell “statement” as “statment”; the lessons teach the correct spelling and do not copy the misprint.
 
@@ -35,4 +41,8 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: file-based data management, separate files, duplication, redundancy, inconsistency, data drift, file structure, Ethiopia Grade 11, sudan, grade 11, fiji, year 13, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: file-based data management, separate files, duplication, redundancy, inconsistency, data drift, file structure, Ethiopia Grade 11, sudan, grade 11, fiji, year 13, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

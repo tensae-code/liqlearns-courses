@@ -1,6 +1,6 @@
 # Sources — Data Science — finding hidden patterns in data
 
-countries: Ethiopia, China, Egypt
+countries: Ethiopia, China, Egypt, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, China, Egypt
 
 **Book 5:** *Computer and Information Technology — Second grade preparatory, Second Term 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 80 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Data Science defined — blend of tools, algorithms, machine-learning principles; interdisciplinary: statistics, mathematics, computer science; the data scientist; the five uses | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 44–46 |
@@ -19,8 +21,10 @@ countries: Ethiopia, China, Egypt
 | Unit 2 Computer Software, Topic Data Science, Lesson 1: Fundamental Concepts of Data Science; Applying Data Science Concepts (filed as new-technologies/data-science-mining-data; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 64 (teacher guide — evidence) |
 | 10-1 Types of Data and Analysis | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 123 |
 | Unit 3 Lesson 6 Introduction to Data Analysis in Python | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 38 |
+| Bài 26 Làm quen với Khoa học dữ liệu (Getting to know data science) (filed as NEW LESSON NEEDED — new-technologies/data-science-first-ideas; stocked in this lesson because this lesson teaches the first ideas of data science — what it is, the patterns it finds in data, and the data scientist's work) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 140 |
+| Bài 27 Máy tính và Khoa học dữ liệu (Computers and data science) (filed as NEW LESSON NEEDED — new-technologies/data-science-first-ideas; stocked in this lesson because this lesson teaches the first ideas of data science — what it is, the patterns it finds in data, and the data scientist's work) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 145 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, China, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, China, Egypt, Vietnam).**
 
 Guide-side error, noted where this evidence family is filed: the teacher guide's contents misnumbers Data Science as '2.2' — it is §2.3 in the unit's own order. The lesson follows the student book's placement (§2.3, printed pp. 44–46). No student-book error touches this lesson.
 
@@ -30,4 +34,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from the neuron up — artificial neuron, its role in AI — then Python for data analysis and even encryption with XOR, a depth most countries save for secondary school.
 
-Searchable tags: data science, data scientist, hidden patterns, statistics, forecasting, preventive medicine, risk management, Grade 11 ICT Ethiopia, china, papua new guinea, grade 11, egypt, grade 10, grade 8
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: data science, data scientist, hidden patterns, statistics, forecasting, preventive medicine, risk management, Grade 11 ICT Ethiopia, china, papua new guinea, grade 11, egypt, grade 10, grade 8, vietnam, grade 12 tin học 12 khoa học máy tính

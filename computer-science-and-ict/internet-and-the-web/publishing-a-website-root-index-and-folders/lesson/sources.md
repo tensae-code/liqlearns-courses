@@ -1,6 +1,6 @@
 # Sources — Publishing a website — root, index and folders
 
-countries: Ethiopia, Belarus, Cuba, Egypt, Bangladesh
+countries: Ethiopia, Belarus, Cuba, Egypt, Bangladesh, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Belarus, Cuba, Egypt, Bangladesh
 
 **Book 7:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 8:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What publishing is, and the root directory | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 4, printed pp. 125–126 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Belarus, Cuba, Egypt, Bangladesh
 | 13-6 Presenting Your Website | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 192 |
 | Unit 3 Creating Site Pages | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 57 (PDF page) |
 | Chapter 4, 4.4: website file structure — root folder, index.html and folders | Bangladesh HSC ICT, printed p. 141 |
+| Bài 28 Thực hành tổng hợp (Synthesis practical: finishing and publishing the site) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 151 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Cuba, Egypt, Bangladesh).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Cuba, Egypt, Bangladesh, Vietnam).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -41,4 +44,6 @@ Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whol
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: publishing a website, root directory, index.html, home page, pages folder, images folder, CSS folder, scripts folder, ethiopia.gov.et, Grade 12 ICT Ethiopia, belarus, cuba, grade 7, egypt, grade 10, grade 11, bangladesh, hsc ict classes xi xii and alim
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Searchable tags: publishing a website, root directory, index.html, home page, pages folder, images folder, CSS folder, scripts folder, ethiopia.gov.et, Grade 12 ICT Ethiopia, belarus, cuba, grade 7, egypt, grade 10, grade 11, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 12 tin học 12 tin học ứng dụng

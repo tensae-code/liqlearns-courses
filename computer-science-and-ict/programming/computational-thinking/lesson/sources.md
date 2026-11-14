@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -81,6 +81,8 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 
 **Book 41:** *Panduan Guru Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-202-6 (jil. 2 PDF). Grade 11 (teacher guide). 298 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 42:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -126,8 +128,9 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 | Panduan Khusus Bab 1: panduan pembelajaran berpikir komputasi untuk penyelesaian masalah (termasuk Scratch) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 57 (teacher guide — evidence) |
 | Bab II Panduan pembelajaran berpikir komputasional dalam algoritma dan pemrograman: modularisasi dan lib | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 95 (teacher guide — evidence) |
 | Bab IV Panduan pembelajaran pengembangan kemampuan berpikir komputasional: aplikasi algoritma, aplikasi mobile dan AI dengan App Inventor | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 163 (teacher guide — evidence) |
+| Bài 14 Em thực hiện công việc như thế nào? (How do you do a job? Breaking work into ordered steps) | Vietnam Grade 3 Tin học 3, printed p. 63 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -207,4 +210,6 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapt
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika teacher guide): Chapter guides with concept maps, learning schemes, per-activity assessment recaps and answer keys for the five Grade 11 units, from digital information and data analysis to network design and security configuration. (teacher guide — evidence)
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills, armenia, grade 2, grade 5, grade 7, grade 8, grade 10, indonesia, grade 7, grade 8, grade 9, grade 10, grade 12, grade 12, grade 10, grade 7, grade 9, grade 11
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills, armenia, grade 2, grade 5, grade 7, grade 8, grade 10, indonesia, grade 7, grade 8, grade 9, grade 10, grade 12, grade 12, grade 10, grade 7, grade 9, grade 11, vietnam, grade 3 tin học 3

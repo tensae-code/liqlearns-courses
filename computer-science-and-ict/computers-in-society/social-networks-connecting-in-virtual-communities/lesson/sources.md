@@ -1,6 +1,6 @@
 # Sources — Social networks — connecting in virtual communities
 
-countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia
+countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -39,6 +39,8 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 
 **Book 19:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
 
+**Book 20:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a social network is; the named platforms; the warning held for later | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 | Bab 4 B. Media sosial | Indonesia Grade 8 G8 Informatika student, printed p. 162 |
 | Bab 5 A. Peran teknologi digital dan informatika pada media sosial: jenis platform, jenis fitur | Indonesia Grade 12 G12 Informatika student, printed p. 142 |
 | Bab 5 Panduan pembelajaran dampak sosial informatika: media sosial | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 213 (teacher guide — evidence) |
+| Bài 4 Mạng xã hội và một số kênh trao đổi thông tin trên Internet (Social networks and other online information-exchange channels) | Vietnam Grade 7 Tin học 7, printed p. 18 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam).**
 
 Belarus's own way (Grade 10): social networks are taught inside one chapter-section with blogs, forums and chats (§ 20) — the virtual-community forms are compared together, not taken one tool at a time.
 
@@ -99,4 +102,6 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
 
-Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 7, grade 8, grade 12, grade 12
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 7, grade 8, grade 12, grade 12, vietnam, grade 7 tin học 7

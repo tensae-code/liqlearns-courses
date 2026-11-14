@@ -1,6 +1,6 @@
 # Sources — How information systems change society — gains and problems
 
-countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -70,6 +70,8 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 
 **Book 34:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 35:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The good side first | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 5–6 (student placement item 7) |
@@ -107,8 +109,9 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 | §3 Information technologies and society | Armenia Grade 9 G9 student, printed p. 20 |
 | Theme 9-3 Information technologies and society (§3) | Armenia Grade 9 G9 teacher, printed p. 15 (teacher guide — evidence) |
 | Bab 3 D. Budaya baru di era informatika | Indonesia Grade 10 G10 Informatika student, printed p. 154 |
+| Bài 2 Vai trò của thiết bị thông minh và tin học đối với xã hội (Smart devices and informatics in society, Industry 4.0) | Vietnam Grade 10 Tin học 10, printed p. 11 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 17 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -173,4 +176,6 @@ Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard the
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
 
-Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, armenia, grade 5, grade 6, grade 7, grade 9, indonesia, grade 10
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, armenia, grade 5, grade 6, grade 7, grade 9, indonesia, grade 10, vietnam, grade 10 tin học 10

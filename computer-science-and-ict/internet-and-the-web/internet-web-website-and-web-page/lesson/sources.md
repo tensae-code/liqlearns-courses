@@ -1,6 +1,6 @@
 # Sources — Internet, Web, website and web page
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 | Chapter 4, 4.1: Introduction to web design — web, website and the World Wide Web; client, server, browser and the user | Bangladesh HSC ICT, printed p. 115 |
 | Unit 2, Lesson 1: Introduction to Websites — websites and their components | Jordan Grade 10 G10T1 Student, printed p. 116 |
 | 2.2 The modern Internet | Armenia Grade 7 G7 student, printed p. 39 |
+| Bài 3 Thông tin trên trang web (Information on a web page: text, pictures, video, links) | Vietnam Grade 4 Tin học 4, printed p. 14 |
+| Bài 6 Mạng thông tin toàn cầu (The World Wide Web: websites, web pages, hyperlinks) | Vietnam Grade 6 Tin học 6, printed p. 23 |
 
 | Sub lesson 3 — The Web in depth — server, hyperlink, URL (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | "The Concept of a Web Page" | North Macedonia, *Informatics, Year 2*, Тема 5, printed p. 281 |
@@ -51,12 +53,16 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 
 **Book 12:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 17:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 18:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Sub lesson 4 — The Web's four foundations (Grade 11 depth): the Web as the internet's most popular service (with email and file transfer); Berners-Lee, CERN, 1989; HTML, HTTP, web server, web browser; website as a publicly accessible collection of interrelated webpages joined by hypertext links | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 76–77 |
 | Lesson 22 "The World Wide Web" | Afghanistan, *Computer, Grade 12*, printed p. 87 |
 | Unit 4 Ch.1 Lesson 2 The internet and the World Wide Web | Iraq, *Computer, Grade 8*, printed p. 119 |
 | Unit 3 Lesson 1: The World Wide Web | Sudan, *ICT, Grade 7*, printed p. 54 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia, Vietnam).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -84,6 +90,10 @@ Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year
 
 Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
 
-Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 7
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 7, vietnam, grade 4 tin học 4, grade 6 tin học 6
 
 Growth note (Wave 3, band E4): Sub lessons 1–3 are the original Grade 7/8 lesson, unchanged in content; Sub lesson 4 is the Grade 11 depth added from the Grade 11 book (printed pp. 76–77) — the same Web, with its inventor, place, year and four foundations made explicit. Note the Grade 8 part of this lesson gives the Web's invention as 1991 (Grade 8 book, printed p. 64) while the Grade 11 book gives 1989 at CERN — both are taught as their own books state them, in their own sub lessons, and the Grade 11 date is the one the Grade 11 sub lesson and its questions use. Unit 4 figure references and captions repeatedly disagree in the Grade 11 book and table numbers are reused; this growth cites no figure or table number.

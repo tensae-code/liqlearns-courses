@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -56,6 +56,12 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 
 **Book 27:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 28:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 29:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 30:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -88,8 +94,11 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 | Theme 7-2 Electronic communication (§2) | Armenia Grade 7 G7 teacher, printed p. 16 (teacher guide — evidence) |
 | Bab 5 B.4 Surel: membuka akun, mengirim, membalas, etika berkirim surel | Indonesia Grade 7 G7 Informatika student, printed p. 215 |
 | Panduan Khusus Bab 5: panduan pembelajaran surat elektronik (filed as internet-and-the-web/email-accounts-and-basic-functions; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 210 (teacher guide — evidence) |
+| Bài 8 Thư điện tử (Email: account, sending, receiving, attaching files) | Vietnam Grade 6 Tin học 6, printed p. 32 |
+| Bài 8 Thực hành nâng cao sử dụng thư điện tử và mạng xã hội (Advanced practical: email and social networks) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 39 |
+| Bài 8 Thực hành nâng cao sử dụng thư điện tử và mạng xã hội (Advanced email/social practical — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 39 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 19 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -139,4 +148,10 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7, indonesia, grade 7, grade 7
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7, indonesia, grade 7, grade 7, vietnam, grade 6 tin học 6, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

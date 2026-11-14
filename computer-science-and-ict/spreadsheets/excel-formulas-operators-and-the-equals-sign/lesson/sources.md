@@ -1,6 +1,6 @@
 # Sources — Excel formulas — operators and the equals sign
 
-countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 
 **Book 19:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
 
+**Book 20:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Spreadsheet software and formulas; the six operators; every formula begins with =; the worked entry =5+3*3/2-4 in A1 | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 109–111 |
@@ -59,6 +61,7 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 | Environment 2 (Maths: Multiplication and Division): "Program it yourself — a smart calculator" in Excel (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 14 (teacher guide — evidence) |
 | §4 Electronic spreadsheets | Armenia Grade 8 G8 student, printed p. 29 |
 | Bab 1 A–C (pengayaan/praktik dataset penumpang pesawat, wisatawan, koperasi sekolah) | Indonesia Grade 8 G8 Informatika student, printed p. 29 |
+| Bài 5 Sử dụng bảng tính giải quyết bài toán thực tế §1 (Using a spreadsheet to solve real problems: formulas) | Vietnam Grade 8 Tin học 8, printed p. 21 |
 
 **Book (Grade 10 growth):** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -71,7 +74,7 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 | Lesson 19 "Formulas" | Afghanistan, *Computer, Grade 12*, printed p. 75 |
 | Урок 20 "Работа с математическими формулами" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 47 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -112,4 +115,6 @@ Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series
 
 Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
 
-Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 8 digital technology, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 8, indonesia, grade 8
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 8 digital technology, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 8, indonesia, grade 8, vietnam, grade 8 tin học 8

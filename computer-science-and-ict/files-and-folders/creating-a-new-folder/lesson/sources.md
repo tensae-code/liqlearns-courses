@@ -1,6 +1,6 @@
 # Sources — Creating a new folder
 
-countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka
+countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka
 
 **Book 10:** *தொழில்நுட்பவியலிற்கான விஞ்ஞானம் — தகவல் மற்றும் தொடர்பாடல் தொழில்நுட்பவியல் (Science for Technology — Information and Communication Technology), G.C.E. Advanced Level technology stream, Grade 12* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2015 (first print; print code 2014/T); no ISBN printed (EPD sales stock barcode only). 252 PDF pages. Verdict: COMPLETE (image-only Noolaham scan read via 100-DPI 4-up contact sheets; printed pages run to 242). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating a new folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 11 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka
 | 3.1 Creating Folder | Bhutan, *Literacy with ICT, Class V*, printed p. 36 |
 | Ch.2 Create and edit a folder; file/folder characteristics | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 17 |
 | Ch.2 File management: creating/deleting/renaming/moving files and folders, back up; folder-tree practical (filed as files-and-folders/creating-and-organising-folders; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 38 |
+| Bài 9 Thực hành với tệp và thư mục trong máy tính (Practical: open This PC, create, rename and delete folders, find a file in a given folder) | Vietnam Grade 3 Tin học 3, printed p. 42 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam).**
 
 No book error touches this lesson's content. The guide's keyed Test1/Test2 run (printed pp. 5–7) is the verified model for this unit's doing-lessons; its own slips in that key — "yoxxur desktop" (p. 5) and "testfile1.text" for testfile1.txt (p. 7) — are misprints, taught as nothing. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -53,4 +56,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology-stream ICT volume teaches every office skill twice — once in Microsoft Office 2010 and once in LibreOffice (Writer/Calc/Impress 4.1) — and closes with creating a real Gmail account, mailbox folders, attachments and password safety; hardware goes down to cache levels L1/L2/L3, ROM types and file systems (FAT/NTFS/ext4).
 
-Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 12 science for technology tamil
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 12 science for technology tamil, vietnam, grade 3 tin học 3

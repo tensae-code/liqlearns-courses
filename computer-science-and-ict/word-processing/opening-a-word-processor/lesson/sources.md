@@ -1,6 +1,6 @@
 # Sources — Opening a word processor
 
-countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan
+countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -52,8 +52,9 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan
 | Block 1 guide plan: creating an ID card for a living thing in Word (teacher guide — evidence) | Jordan Grade 3 G3 Teacher, printed p. 6 (teacher guide — evidence) |
 | creating a new document (Blank Document) and the Word workspace | Jordan Grade 6 G6 Workbook, printed p. 13 |
 | Guide plan: creating a new document in Word (teacher guide — evidence) | Jordan Grade 6 G6 Teacher, printed p. 15 (teacher guide — evidence) |
+| Bài 10 Phần mềm soạn thảo văn bản (Word-processing software: first documents) | Vietnam Grade 4 Tin học 4, printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan, Laos, Jordan, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -67,6 +68,8 @@ Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
+
+**Book 19:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -90,4 +93,6 @@ Jordan's own way (Jordan Grade 6 G6 Workbook): Grade 6 adds real Windows skills 
 
 Jordan's own way (Jordan Grade 6 G6 Teacher): Guide plans mirror the workbook blocks with learning products, digital tools and assessment appendices, as in the other early-grades guides.
 
-Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5, bhutan, class v, laos, grade 9 ict student, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 6 digital skills workbook, grade 6 digital skills teacher guide
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5, bhutan, class v, laos, grade 9 ict student, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 6 digital skills workbook, grade 6 digital skills teacher guide, vietnam, grade 4 tin học 4

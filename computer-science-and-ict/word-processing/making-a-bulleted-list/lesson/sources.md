@@ -1,6 +1,6 @@
 # Sources — Making a bulleted list
 
-countries: Ethiopia, Greece, Moldova
+countries: Ethiopia, Greece, Moldova, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Greece, Moldova
 
 **Book 5:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 6:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bulleted lists: select the text, Home → the drop-down beside Bullets, hover for live preview, click the style; the worked list is the "12 Principles of Business Ethics"; removal by clicking the command again; Enter and Enter-twice behaviour; ruler markers adjust list indentation and the bullet-text gap | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 87-89 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Greece, Moldova
 | Unit 2, Lesson 3: Bulleted lists (making a bulleted list of the months; changing the bullet symbol) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 60 (teacher guide — evidence) |
 | Unit 7 Creating a list | Greece Grade 7 Pliroforiki A, printed p. 79 |
 | 1.5 Liste și tabele (lists) | Moldova Grade 8 Informatică, printed p. 22 |
+| Bài 8a Làm việc với danh sách dạng liệt kê và hình ảnh trong văn bản §1 (Bulleted and numbered lists in a text — track a) | Vietnam Grade 8 Tin học 8, printed p. 36 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Greece, Moldova).**
+**Acceptance count: taught in 4 countries (Ethiopia, Greece, Moldova, Vietnam).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
@@ -29,4 +32,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: bulleted list, Bullets drop-down, live preview, 12 Principles of Business Ethics, Define New Bullet, Wingdings, Symbol font, Font Color, Grade 9 ICT Ethiopia, saudi arabia, grade 4, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: bulleted list, Bullets drop-down, live preview, 12 Principles of Business Ethics, Define New Bullet, Wingdings, Symbol font, Font Color, Grade 9 ICT Ethiopia, saudi arabia, grade 4, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, vietnam, grade 8 tin học 8

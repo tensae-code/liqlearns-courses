@@ -1,6 +1,6 @@
 # Sources — Creating two linked tables — DEPARTMENT and COURSE
 
-countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait
+countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait
 
 **Book 6:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 7:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — DEPARTMENT created: D_Name, D_Number as primary key, D_Location | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 71–72 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait
 | Урок 13 "Определение связи между таблицами программы MS Access" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 31 |
 | Ch 8, creating, deleting and changing a table relationship | Libya Grade 10 IT student, printed p. 96 |
 | Unit 1, Lesson 2 Creating Related Tables: the parent and child tables and the FOREIGN KEY constraint in SQLite (the landmarks and regions tables) | Kuwait Grade 11 Information Technology T2, printed p. 27 |
+| Bài 22 Thực hành cập nhật bảng dữ liệu có tham chiếu (Practical: updating data with references between tables) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 105 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait).**
+**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -40,4 +43,6 @@ Libya's own way (Grade 10, Information Technology student book): the entire Grad
 
 Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
 
-Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2, vietnam, grade 11 tin học 11 tin học ứng dụng

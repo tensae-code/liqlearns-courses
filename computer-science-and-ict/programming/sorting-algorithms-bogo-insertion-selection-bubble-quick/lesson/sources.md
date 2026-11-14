@@ -1,6 +1,6 @@
 # Sources — Sorting Algorithms — Bogo, Insertion, Selection, Bubble, Quick
 
-countries:
+countries: Vietnam
 
 **Book 1:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
@@ -10,6 +10,10 @@ countries:
 
 **Book 4:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 6:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Annexes: Les algorithmes de tri (tri stupide, par insertion, par sélection, à bulles, rapide, réseaux de tri) | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 13 (Annexes) (teacher guide — evidence) |
@@ -17,8 +21,11 @@ countries:
 | Enquête 3: Existe-t-il plusieurs façons de trier des nombres? | Switzerland Grade 6 Décodage 5e–6e, printed p. 3 (Enquête 3) (teacher guide — evidence) |
 | Livret 3: Les algorithmes de tri | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 2 (Livret 3) (teacher guide — evidence) |
 | Enquête 2 Étape 1: Quelle est la meilleure façon de trier des nombres? — le tri à bulles (puis tri fusion et tri rapide) | Switzerland Grade 7 Décodage 7e–8e, printed p. 4 (Enquête 2) (teacher guide — evidence) |
+| Bài 16 Thuật toán sắp xếp (Sorting algorithms) (filed as NEW LESSON NEEDED — programming/sorting-algorithms-bubble-and-selection; stocked in this lesson because this lesson teaches bubble sort and selection sort among its sorting methods; Vietnam's student book is its first counting source) | Vietnam Grade 7 Tin học 7, printed p. 78 |
+| Bài 21 Các thuật toán sắp xếp đơn giản (Simple sorting algorithms) (filed as NEW LESSON NEEDED — programming/sorting-algorithms-bubble-and-selection; stocked in this lesson because this lesson teaches bubble sort and selection sort among its sorting methods; Vietnam's student book is its first counting source) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 99 |
+| Bài 22 Thực hành bài toán sắp xếp (Practical: sorting problems) (filed as NEW LESSON NEEDED — programming/sorting-algorithms-bubble-and-selection; stocked in this lesson because this lesson teaches bubble sort and selection sort among its sorting methods; Vietnam's student book is its first counting source) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 104 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Switzerland), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Vietnam). Switzerland's teacher-guide evidence is named here and counted nowhere.**
 
 Placement choice: this lesson was built new for the ICT expansion (Switzerland, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/sorting-algorithms-bogo-insertion-selection-bubble-quick). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every placement stocked here is from a Switzerland Décodage teacher guide (all four books in this expansion are teacher guides), stocked as evidence only and counted nowhere. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -30,4 +37,8 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: sorting algorithms, algorithmes de tri, bubble, insertion, selection, quick, bogo, programming, switzerland, decodage, grades 12, grades 34, grades 56, grades 78
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Searchable tags: sorting algorithms, algorithmes de tri, bubble, insertion, selection, quick, bogo, programming, switzerland, decodage, grades 12, grades 34, grades 56, grades 78, vietnam, grade 7 tin học 7, grade 11 tin học 11 khoa học máy tính

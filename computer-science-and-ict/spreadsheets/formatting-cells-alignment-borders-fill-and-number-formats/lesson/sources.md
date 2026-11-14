@@ -1,6 +1,6 @@
 # Sources — Formatting cells — alignment, borders, fill and number formats
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -39,6 +39,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia,
 
 **Book 19:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 20:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — alignment: three horizontal and three vertical, on the Home tab; text bottom-left, numbers bottom-right by nature; Borders dropdown and Draw Borders tools; Fill Color paints the background | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 119–121 |
@@ -63,8 +65,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia,
 | Ch.3 §II.2 Improving tables so they present well (filed as NEW LESSON NEEDED — spreadsheets/improving-tables-for-presentation; stocked in this lesson because this lesson teaches formatting tables/cells so they present well — alignment, borders, fill, styles and number formats — the same improving Laos's section teaches) | Laos Grade 12 ICT student, printed p. 155 |
 | §12 Setting the cell format | Armenia Grade 6 G6 student, printed p. 67 |
 | Bab 2 B.5 Format Cells | Indonesia Grade 7 G7 Informatika student, printed p. 60 |
+| Chuyên đề 2, Bài 1 Tạo dữ liệu ban đầu với công cụ định dạng bảng (Creating the initial data with table-formatting tools) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 26 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia, Vietnam).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -98,4 +101,6 @@ Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, grade 12 ict student, armenia, grade 6, indonesia, grade 7
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
+
+Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, grade 12 ict student, armenia, grade 6, indonesia, grade 7, vietnam, grade 10 chuyên đề tin học 10 ứng dụng

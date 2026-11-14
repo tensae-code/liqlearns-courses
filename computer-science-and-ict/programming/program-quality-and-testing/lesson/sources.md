@@ -1,6 +1,6 @@
 # Sources — Program Quality and Testing
 
-countries: Armenia
+countries: Armenia, Vietnam
 
 **Book 1:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
@@ -10,14 +10,17 @@ countries: Armenia
 
 **Book 4:** *Թվային գրագիտություն և համակարգչային գիտություն, 12-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 12, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 12 (teacher guide). 51 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | §20 Prerequisites for ensuring program quality | Armenia Grade 6 G6 student, printed p. 122 |
 | Lesson 30 Program testing (Theme 20 Testing methods and goals) | Armenia Grade 10 G10 student, printed p. 146 |
 | Lesson 8 The concept and stages of testing. Testing levels (Theme 2 Testing methods) | Armenia Grade 12 G12 student, printed p. 66 |
 | Sample lesson plan: testing stages and levels | Armenia Grade 12 G12 teacher, printed p. 17 (teacher guide — evidence) |
+| Bài 23 Kiểm thử và đánh giá chương trình (Testing and evaluating programs) (filed as NEW LESSON NEEDED — programming/testing-and-evaluating-a-program; stocked in this lesson because this lesson teaches judging a program's quality and proving it by testing — the testing and evaluating of a program) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 106 |
 
-**Acceptance count: taught in 1 country (Armenia).**
+**Acceptance count: taught in 2 countries (Armenia, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Armenia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/program-quality-and-testing). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: the placements stocked here are from Armenia's “Digital Literacy and Computer Science” books (Armenian) — one subject running Grades 2–12 with a matched methodological (teacher) guide per grade, from Zangak, Antares and Shant Compu/“System” of Yerevan; student books count toward the acceptance count, and teacher-guide placements are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Scope notes as filed are carried: the Zangak teacher guides for Grades 2, 3 and 4 and the Grade 11 guide have a broken text layer and were read from page renders; the Grade 5 student book exists in two printings and is placed once; the Grade 7 teacher guide belongs to the parallel Grade 7 series, as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -29,4 +32,6 @@ Armenia's own way (Armenia Grade 12 G12 student): The final school year (Stepany
 
 Armenia's own way (Armenia Grade 12 G12 teacher): Companion to Book 22 in the Zangak guide template: subject programme and thematic planning for the JavaScript course, sample lesson plans (object structure/OOP; testing levels), a teaching methodology for the OOP theme, a learning-project plan, a summary test with descriptor, and additional problems with worked HTML/JavaScript solutions for the book's lessons.
 
-Searchable tags: program quality, testing, test case, unit integration system acceptance, programming, armenia, grade 6, grade 10, grade 12
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Searchable tags: program quality, testing, test case, unit integration system acceptance, programming, armenia, grade 6, grade 10, grade 12, vietnam, grade 11 tin học 11 khoa học máy tính

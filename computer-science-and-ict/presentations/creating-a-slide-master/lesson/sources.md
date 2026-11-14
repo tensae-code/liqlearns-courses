@@ -1,6 +1,6 @@
 # Sources — Creating a slide master
 
-countries: Ethiopia, Bhutan, Mongolia, Greece
+countries: Ethiopia, Bhutan, Mongolia, Greece, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bhutan, Mongolia, Greece
 
 **Book 5:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 6:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — the slide master defined (top of the hierarchy; theme and layouts: background, colour, fonts, effects, placeholder sizes and positions); the creation order: View → Slide Master, top master, Master Layout, updates, Delete Layout, Slide Orientation, Save As PowerPoint Template; the practical: school logo/picture, background style 6, named theme | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 130–131 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Bhutan, Mongolia, Greece
 | 2.1 Slide Master | Bhutan, *Literacy with ICT, Class VIII*, printed p. 14 |
 | 2.3.3 Preparing the master slide (Slide Master layouts; navigation buttons with hyperlinks between slides) | Mongolia Grade 8 IT VIII, printed p. 51 (section in the body, not listed in the book's contents page) |
 | Unit 4 Slide show: master slide | Greece Grade 8 Pliroforiki B, printed p. 52 |
+| Bài 11a Sử dụng bản mẫu tạo bài trình chiếu (Using templates/masters to build a presentation — track a) | Vietnam Grade 8 Tin học 8, printed p. 51 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Mongolia, Greece).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Mongolia, Greece, Vietnam).**
 
 
 
@@ -31,4 +34,6 @@ Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a fo
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: slide master, Slide Master view, Master Layout, Delete Layout, PowerPoint Template, school logo, Ethiopia Grade 10, bhutan, class viii, mongolia, grade 8 it viii, greece, grade 8 pliroforiki b gymnasiou
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: slide master, Slide Master view, Master Layout, Delete Layout, PowerPoint Template, school logo, Ethiopia Grade 10, bhutan, class viii, mongolia, grade 8 it viii, greece, grade 8 pliroforiki b gymnasiou, vietnam, grade 8 tin học 8

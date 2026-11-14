@@ -1,6 +1,6 @@
 # Sources — Troubleshooting — find the fault, find its cause
 
-countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia
+countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia
 
 **Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն, 4-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 4, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 4 (teacher guide). 108 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and a sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 14:** *Chuyên đề học tập Tin học 10 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31091-0. Grade 10 (student book). 74 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | A systematic approach — hardware and software | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 142–143 |
@@ -43,8 +45,9 @@ countries: Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia
 | Unit 1 Computing Systems, Lesson 1: Computer Troubleshooting and Computer Maintenance | Jordan Grade 8 G8T1 Student, printed p. 10 |
 | Lesson 1 Recognising device malfunctions (Theme 1 Electronic security and health) | Armenia Grade 4 G4 student, printed p. 5 |
 | Thematic planning, Theme 1 Lesson 1: Recognising device malfunctions (electrical safety and health outcomes) | Armenia Grade 4 G4 teacher, printed p. 26 (teacher guide — evidence) |
+| Chuyên đề 2, Bài 8 Thực hành: Kiểm tra tình trạng hoạt động của robot (Practical: checking the robot's working condition) | Vietnam Grade 10 Chuyên đề Tin học 10 Khoa học máy tính, printed p. 35 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Fiji, Sri Lanka, Laos, Jordan, Armenia, Vietnam).**
 
 The student book sets the black-screen investigation as an activity with no printed solution (printed p. 143); the lesson teaches the systematic approach for it and invents no book answer. The book uses the number "Activity 5.2" for this troubleshooting activity as well as for the earlier uninstalling activity; the lesson teaches the skill, not the activity number.
 
@@ -70,4 +73,6 @@ Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan,
 
 Armenia's own way (Armenia Grade 4 G4 teacher): Companion to Book 5 in the Zangak guide template: exemplary programme and thematic planning (Theme 1 covers electrical safety and health, with the device-malfunctions lesson and its safety outcomes spelled out), textbook and task structure notes, formative-assessment checklists, sample daily lesson plans (Theme 8-1, solving technical problems, starting from power and network checks), and explanations of selected textbook tasks.
 
-Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills, armenia, grade 4
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Khoa học máy tính): the CS study-topics book for Grade 10 is not more Python — it is a full educational-robotics course (a STEM orientation, per its preface): build the robot, connect it to the computer, then program it to move, sense obstacles and follow a line on a test course (sa bàn).
+
+Searchable tags: troubleshooting, systematic approach, fault, cause, hardware problems, software problems, Grade 12 ICT Ethiopia, iraq, grade 10, papua new guinea, grade 9, papua new guinea, grade 11, fiji, year 13, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, laos, grade 8 ict student, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills, armenia, grade 4, vietnam, grade 10 chuyên đề tin học 10 khoa học máy tính

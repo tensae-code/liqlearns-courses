@@ -1,6 +1,6 @@
 # Sources — CSS — Styling the Look of a Webpage
 
-countries: Fiji, Malaysia, Kuwait, Greece, Armenia
+countries: Fiji, Malaysia, Kuwait, Greece, Armenia, Vietnam
 
 **Book 1:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
@@ -14,6 +14,10 @@ countries: Fiji, Malaysia, Kuwait, Greece, Armenia
 
 **Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
+**Book 8:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 5.2 Cascading Style Sheets (CSS and CSS3 effects) | Fiji, *Computer Education, Year 13*, printed p. 100 |
@@ -23,8 +27,10 @@ countries: Fiji, Malaysia, Kuwait, Greece, Armenia
 | Ch.11 Defining appearance – CSS (filed as NEW LESSON NEEDED — internet-and-the-web/styling-a-page-with-css; stocked in this lesson because this lesson teaches CSS — the styling language that sets a page's look, separated from HTML's structure — the CSS Greece's section introduces) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 99 |
 | §9 Styling websites (filed as internet-and-the-web/styling-a-website-with-css; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 student, printed p. 88 |
 | Theme 9-6 Styling the webpage (§9) (filed as internet-and-the-web/styling-a-website-with-css; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 teacher, printed p. 21 (teacher guide — evidence) |
+| Bài 13 Khái niệm, vai trò của CSS (CSS: concept and role) (filed as NEW LESSON NEEDED — internet-and-the-web/css-what-it-is-and-what-it-does; stocked in this lesson because this lesson teaches what CSS is and what it does — the web's styling language, its look separated from HTML's structure) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 71 |
+| Bài 13 Khái niệm, vai trò của CSS (CSS concept and role — common core) (filed as NEW LESSON NEEDED — internet-and-the-web/css-what-it-is-and-what-it-does; stocked in this lesson because this lesson teaches what CSS is and what it does — the web's styling language, its look separated from HTML's structure) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 71 |
 
-**Acceptance count: taught in 5 countries (Fiji, Malaysia, Kuwait, Greece, Armenia).**
+**Acceptance count: taught in 6 countries (Fiji, Malaysia, Kuwait, Greece, Armenia, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — internet-and-the-web/css-styling-the-look-of-a-webpage). It sits in the Internet and the Web title (internet-and-the-web/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -40,4 +46,8 @@ Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the 
 
 Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
 
-Searchable tags: css, styling, the, look, of, a, internet and the web, fiji, year 13, malaysia, grade 11 sk tingkatan 5, kuwait, grade 9 digital intelligence term 1, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 9
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: css, styling, the, look, of, a, internet and the web, fiji, year 13, malaysia, grade 11 sk tingkatan 5, kuwait, grade 9 digital intelligence term 1, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính

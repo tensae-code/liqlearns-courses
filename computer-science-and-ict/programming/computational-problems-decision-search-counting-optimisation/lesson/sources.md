@@ -1,6 +1,6 @@
 # Sources — Computational problems — decision, search, counting, optimisation
 
-countries: Ethiopia, Greece, Armenia, Indonesia
+countries: Ethiopia, Greece, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Greece, Armenia, Indonesia
 
 **Book 5:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 6:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational problem defined — inputs, constraints, output conditions | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 218 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Greece, Armenia, Indonesia
 | 1.8 Computers help to make decisions | Armenia Grade 7 G7 student, printed p. 27 |
 | Bab 2 C (masalah komputasi klasik: pencarian, pengurutan, penjadwalan) | Indonesia Grade 10 G10 Informatika student, printed p. 80 |
 | Bab IV A. Menerapkan strategi algoritmik: problem simulasi burung, pengelolaan bank darah, persilangan tanaman, stoikiometri | Indonesia Grade 11 G11 Informatika student, printed p. 134 |
+| Bài 15 Bài toán tin học (Informatics problems: inputs, outputs and what the computer must do) | Vietnam Grade 9 Tin học 9, printed p. 79 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Greece, Armenia, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Greece, Armenia, Indonesia, Vietnam).**
 
 Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
 
@@ -31,4 +34,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
 
-Searchable tags: computational problem, decision, search, counting, optimisation, Grade 9 ICT Ethiopia Unit 6, greece, grade 11 eisagogi epistimis hy lykeiou, armenia, grade 7, indonesia, grade 10, grade 11
+Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
+
+Searchable tags: computational problem, decision, search, counting, optimisation, Grade 9 ICT Ethiopia Unit 6, greece, grade 11 eisagogi epistimis hy lykeiou, armenia, grade 7, indonesia, grade 10, grade 11, vietnam, grade 9 tin học 9

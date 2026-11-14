@@ -1,6 +1,6 @@
 # Sources — Digital citizenship — active and thoughtful, not just careful
 
-countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -46,6 +46,14 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 
 **Book 24:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 25:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 26:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 27:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
+**Book 28:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Citizenship — the do's | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 22 (student placement item 30) |
@@ -72,8 +80,12 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 | Unit 1 Impact of Computing, Lesson 1: Digital Citizenship — its concept and principles; the digital citizen; importance and principles of digital citizenship | Jordan Grade 7 G7T2 Student, printed p. 10 |
 | Bab 4 C. Etika bermedia digital | Indonesia Grade 8 G8 Informatika student, printed p. 172 |
 | Bab IV E.1 Perilaku digital | Indonesia Grade 9 G9 Informatika student, printed p. 226 |
+| Bài 5 Ứng xử trên mạng (Behaving properly online: netiquette and responsibility) | Vietnam Grade 7 Tin học 7, printed p. 23 |
+| Bài 11 Ứng xử trên môi trường số §1 (Behaving in the digital environment) | Vietnam Grade 10 Tin học 10, printed p. 55 |
+| Bài 6 Giao tiếp và ứng xử trong không gian mạng (Communicating and behaving in cyberspace) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 34 |
+| Bài 6 Giao tiếp và ứng xử trong không gian mạng (Behaviour in cyberspace — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 34 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan, Indonesia, Vietnam).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -117,4 +129,12 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
 
-Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1, laos, grade 12 ict student, moldova, grade 7 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills, indonesia, grade 8, grade 9
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1, laos, grade 12 ict student, moldova, grade 7 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills, indonesia, grade 8, grade 9, vietnam, grade 7 tin học 7, grade 10 tin học 10, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính

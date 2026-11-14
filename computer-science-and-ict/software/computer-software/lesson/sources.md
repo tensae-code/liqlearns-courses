@@ -1,6 +1,6 @@
 # Sources — Computer software — instructions that make hardware work
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece, Jordan, Indonesia
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 
 **Book 16:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 17:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What software is — instructions; hardware can do nothing without it; interdependence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.31 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 | Lesson 3: Software — the computer's software components | Jordan Grade 7 G7T1 Student, printed p. 32 |
 | Lesson plan 3: Software Components (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 32 (teacher guide — evidence) |
 | Bab 3 B. Perangkat lunak komputer | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 90 |
+| Bài 2 Phần mềm máy tính (Computer software: operating system and applications) | Vietnam Grade 7 Tin học 7, printed p. 10 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece, Jordan, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece, Jordan, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -86,4 +89,6 @@ Jordan's own way (Jordan Grade 7 G7T1 Teacher): Same guide model as the other Jo
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, indonesia, grade 10
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, indonesia, grade 10, vietnam, grade 7 tin học 7

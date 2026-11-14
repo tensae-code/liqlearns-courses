@@ -1,6 +1,6 @@
 # Sources — Copyright — automatic protection for original works
 
-countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 
 **Book 16:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
 
+**Book 17:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 18:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What copyright protects | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 16 (student placement item 20) |
@@ -53,8 +57,10 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 | Bab 3 E (aspek hukum informatika: hak cipta) | Indonesia Grade 10 G10 Informatika student, printed p. 175 |
 | Bab 2 B. Hak cipta dalam HAKI | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 110 |
 | Bab 2 (Semester 2) Panduan pembelajaran dampak sosial informatika: sejarah TIK, bagan generasi komputer, HAKI dan profesi informatika (filed as computers-in-society/copyright-and-licenses; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 198 (teacher guide — evidence) |
+| Bài 5 Bản quyền nội dung thông tin (Copyright of information content) | Vietnam Grade 5 Tin học 5, printed p. 24 |
+| Bài 11 Ứng xử trên môi trường số §2 (The duty to respect copyright) | Vietnam Grade 10 Tin học 10, printed p. 55 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -84,4 +90,8 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 tu
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
 
-Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7, indonesia, grade 10, grade 10, grade 10
+Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
+
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7, indonesia, grade 10, grade 10, grade 10, vietnam, grade 5 tin học 5, grade 10 tin học 10

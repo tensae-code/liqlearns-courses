@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -81,6 +81,10 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sr
 
 **Book 40:** *Panduan Guru Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-168-5 (jil. 2 PDF). Grade 8 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 41:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 42:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -132,8 +136,10 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sr
 | Bab 3 B. Eksplorasi lanjutan Scratch | Indonesia Grade 8 G8 Informatika student, printed p. 98 |
 | Bab II A (program Scratch modular: kondisi awal dan akhir program) | Indonesia Grade 9 G9 Informatika student, printed p. 42 |
 | Bab III Panduan pembelajaran algoritma pemrograman: Scratch lanjutan | Indonesia Grade 8 G8 Informatika teacher guide, printed p. 106 (teacher guide — evidence) |
+| Bài 11 Cấu trúc lặp (The loop structure) | Vietnam Grade 5 Tin học 5, printed p. 56 |
+| Bài 14 Cấu trúc điều khiển (Control structures in Scratch) | Vietnam Grade 8 Tin học 8, printed p. 80 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia, Vietnam).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
@@ -207,4 +213,8 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 complete
 
 Indonesia's own way (Indonesia Grade 8 G8 Informatika teacher guide): The teacher guide mirrors the student book chapter by chapter with capaian pembelajaran, prerequisite maps, apersepsi, per-meeting teaching guides, follow-up, assessment rubrics and answer keys — the official way to teach each Grade 8 topic. (teacher guide — evidence)
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills, armenia, grade 3, grade 4, indonesia, grade 7, grade 8, grade 9, grade 8
+Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
+
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 8 term 1 digital skills, armenia, grade 3, grade 4, indonesia, grade 7, grade 8, grade 9, grade 8, vietnam, grade 5 tin học 5, grade 8 tin học 8

@@ -1,6 +1,6 @@
 # Sources — Python Functions — Defining, Calling and Returning
 
-countries: Kuwait, Greece, Jordan, Armenia
+countries: Kuwait, Greece, Jordan, Armenia, Vietnam
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
@@ -22,6 +22,8 @@ countries: Kuwait, Greece, Jordan, Armenia
 
 **Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 11:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1: Functions (الدوال) | Kuwait Grade 10 Term 2 Book L1, printed p. 63 |
@@ -34,8 +36,10 @@ countries: Kuwait, Greece, Jordan, Armenia
 | Theme 8-12 Functions in Python (§15) (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 8 G8 teacher, printed p. 28 (teacher guide — evidence) |
 | §16 Functions of the Python language (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 student, printed p. 149 |
 | Theme 9-9 Functions (§16) (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 teacher, printed p. 28 (teacher guide — evidence) |
+| Bài 26 Hàm trong Python (Functions in Python) (filed as NEW LESSON NEEDED — programming/defining-and-calling-functions-in-python; stocked in this lesson because this lesson teaches defining and calling Python functions — def, the call, and returning) | Vietnam Grade 10 Tin học 10, printed p. 127 |
+| Bài 27 Tham số của hàm (Function parameters) (filed as NEW LESSON NEEDED — programming/function-parameters-and-arguments; stocked in this lesson because this lesson teaches Python function parameters and the arguments a call passes to them) | Vietnam Grade 10 Tin học 10, printed p. 131 |
 
-**Acceptance count: taught in 4 countries (Kuwait, Greece, Jordan, Armenia).**
+**Acceptance count: taught in 5 countries (Kuwait, Greece, Jordan, Armenia, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-functions-defining-calling-and-returning). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -59,4 +63,6 @@ Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the 
 
 Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
 
-Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 9
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 9, vietnam, grade 10 tin học 10

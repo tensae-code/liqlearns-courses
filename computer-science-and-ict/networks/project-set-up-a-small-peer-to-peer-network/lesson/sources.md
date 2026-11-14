@@ -1,6 +1,6 @@
 # Sources — Project: set up a small peer-to-peer network
 
-countries: Ethiopia, Greece, Bangladesh, Indonesia
+countries: Ethiopia, Greece, Bangladesh, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Greece, Bangladesh, Indonesia
 
 **Book 6:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 7:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
+
+**Book 8:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Steps 1–2 — Connect the hardware; set up sharing | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 2, teacher guide printed pp. 27–28 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Greece, Bangladesh, Indonesia
 | Unit 2 Connecting a computer to a local network (filed as NEW LESSON NEEDED — networks/connecting-a-computer-to-a-local-network; stocked in this lesson because this project lesson teaches connecting computers to a local network for real — cabling machines to a hub/switch, setting sharing and discovery, and testing from every computer — the connection Greece's section describes) | Greece Grade 8 Pliroforiki B, printed p. 25 |
 | Learning Experience 5, Sessions 6-7: Let Us Make a Network; Sharing File | Bangladesh Grade 9 Digital Technology, printed p. 163 |
 | Bab 4 C. Mengoperasikan perangkat jaringan (praktik) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 142 |
+| Bài 5 Thực hành chia sẻ tài nguyên trên mạng (Practical: sharing resources on a network) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 26 |
+| Bài 5 Thực hành chia sẻ tài nguyên trên mạng (Sharing resources practical — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Greece, Bangladesh, Indonesia).**
+**Acceptance count: taught in 4 countries (Greece, Bangladesh, Indonesia, Vietnam).**
 
 This lesson stands on teacher-guide evidence only: the student book teaches peer-to-peer as a kind of network (printed p. 58, built as its own lesson in this title), while this five-step build is the guide's additional activity (guide placement item 9). It is labelled teacher evidence throughout, and its acceptance count below says so plainly.
 
@@ -38,4 +44,8 @@ Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — 
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: peer-to-peer project, Homegroup, UTP, file sharing, firewall, teacher guide evidence, Grade 9 ICT Ethiopia, mauritania, grade 9, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, indonesia, grade 10
+Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
+
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: peer-to-peer project, Homegroup, UTP, file sharing, firewall, teacher guide evidence, Grade 9 ICT Ethiopia, mauritania, grade 9, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, indonesia, grade 10, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính

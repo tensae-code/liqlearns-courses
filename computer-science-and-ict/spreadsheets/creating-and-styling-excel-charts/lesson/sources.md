@@ -1,6 +1,6 @@
 # Sources — Creating and styling Excel charts
 
-countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -61,6 +61,10 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 
 **Book 30:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 31:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 32:** *Chuyên đề học tập Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39255-8. Grade 12 (student book). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -101,8 +105,10 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 | Bab 1 B. Visualisasi data dengan chart | Indonesia Grade 8 G8 Informatika student, printed p. 22 |
 | Bab I C.5 Memvisualisasikan hasil analisis data | Indonesia Grade 9 G9 Informatika student, printed p. 23 |
 | Bab II D.3 (visualisasi permasalahan deforestasi) | Indonesia Grade 11 G11 Informatika student, printed p. 72 |
+| Bài 7 Trình bày dữ liệu bằng biểu đồ (Presenting data with charts) | Vietnam Grade 8 Tin học 8, printed p. 32 |
+| Chuyên đề 3, Bài 13 Mô tả thống kê bằng biểu đồ (Describing statistics with charts) | Vietnam Grade 12 Chuyên đề Tin học 12 Ứng dụng, printed p. 76 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 20 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -155,4 +161,8 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 complete
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, armenia, grade 4, grade 6, grade 7, indonesia, grade 8, grade 9, grade 11
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Vietnam's own way (Grade 12 Chuyên đề Tin học 12 Ứng dụng): three workplace crafts — project management in the open-source GanttProject (schedule, people, budget, progress), installing/uninstalling software and an operating system with data protection, and a real statistics course inside the spreadsheet: probability and random sampling, measures of centre and spread, PivotTables, correlation and hypothesis testing.
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, armenia, grade 4, grade 6, grade 7, indonesia, grade 8, grade 9, grade 11, vietnam, grade 8 tin học 8, grade 12 chuyên đề tin học 12 ứng dụng

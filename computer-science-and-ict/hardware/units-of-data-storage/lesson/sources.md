@@ -1,6 +1,6 @@
 # Sources — Units of data storage — bit, byte, KB, MB, GB, TB
 
-countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia
+countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 
 **Book 16:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 17:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Units of data storage — bit, byte, KB, MB, GB, TB | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 27 |
@@ -52,8 +54,9 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 | Activité 3 Séance 1: La taille des fichiers — taille et téléchargement (filed as NEW LESSON NEEDED — files-and-folders/how-big-is-this-file-downloads-and-storage; stocked in this lesson because this lesson teaches the units files are measured in — bit, byte, KB, MB, GB, TB — the file sizes of Switzerland's activity, whose second séance the reader filed to this same lesson directly) | Switzerland Grade 7 Décodage 7e–8e, printed p. 3 (Activité 3) (teacher guide — evidence) |
 | Activité 3 Séance 2: Les unités de taille des fichiers | Switzerland Grade 7 Décodage 7e–8e, printed p. 6 (Activité 3) (teacher guide — evidence) |
 | Bab 2 A.2 Satuan ukuran data | Indonesia Grade 7 G7 Informatika student, printed p. 42 |
+| Bài 3 Thông tin trong máy tính (Information inside the computer: binary, bits and bytes) | Vietnam Grade 6 Tin học 6, printed p. 12 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia, Vietnam).**
 
 No book error touches this lesson's content.
 
@@ -84,4 +87,6 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii, sri lanka, grade 8 reading book, laos, grade 11 ict student, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 78, indonesia, grade 7
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii, sri lanka, grade 8 reading book, laos, grade 11 ict student, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 78, indonesia, grade 7, vietnam, grade 6 tin học 6

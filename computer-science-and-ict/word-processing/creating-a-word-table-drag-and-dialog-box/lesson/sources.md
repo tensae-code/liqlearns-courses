@@ -1,6 +1,6 @@
 # Sources — Creating a Word table — drag and dialog box
 
-countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia
+countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan,
 
 **Book 23:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
 
+**Book 24:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — what a table is; the drag route (5×2, saved as Table 1); blank lines between tables | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 82–83 |
@@ -76,8 +78,9 @@ countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan,
 | Lesson 6 Simple tables in text editors | Armenia Grade 3 G3 student, printed p. 36 |
 | Lesson 5 Purposeful tables | Armenia Grade 4 G4 student, printed p. 37 |
 | §10 Inserting tables and pictures in text editors (tables) | Armenia Grade 5 G5 student (Antares), printed p. 54 |
+| Bài 12 Trình bày thông tin ở dạng bảng (Presenting information in tables) | Vietnam Grade 6 Tin học 6, printed p. 53 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia).**
+**Acceptance count: taught in 18 countries (Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -116,4 +119,6 @@ Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan,
 
 Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
 
-Searchable tags: Word table, Insert Table, drag grid, columns rows cells, AutoFit, Table 1, Table 2, Ethiopia Grade 10, eritrea, cambodia, uganda, afghanistan, yemen, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, bhutan, class vi, mongolia, grade 7 it vii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, jordan, grade 4 digital skills workbook, armenia, grade 3, grade 4, grade 5
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: Word table, Insert Table, drag grid, columns rows cells, AutoFit, Table 1, Table 2, Ethiopia Grade 10, eritrea, cambodia, uganda, afghanistan, yemen, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, bhutan, class vi, mongolia, grade 7 it vii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, jordan, grade 4 digital skills workbook, armenia, grade 3, grade 4, grade 5, vietnam, grade 6 tin học 6

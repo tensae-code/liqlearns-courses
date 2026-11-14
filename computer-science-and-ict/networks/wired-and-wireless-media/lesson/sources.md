@@ -1,6 +1,6 @@
 # Sources — Wired and wireless media
 
-countries: Ethiopia, Nepal, Libya, Laos, Bangladesh
+countries: Ethiopia, Nepal, Libya, Laos, Bangladesh, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,7 @@ countries: Ethiopia, Nepal, Libya, Laos, Bangladesh
 | Unit 1 Ch 2, transmission media, wired and wireless | Libya Grade 9 Computer, printed p. 29 |
 | Ch.4 §4.3 Communication channels (physical wire, wireless transmission) | Laos Grade 8 ICT student, printed p. 74 |
 | Chapter 2: Medium of data communication — guided and unguided media overview | Bangladesh HSC ICT, printed p. 50 |
+| Bài 23 Đường truyền mạng và ứng dụng §1 (Network transmission media) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 123 |
 
 | Transmission media — the pathway, and how each carries a signal (Grade 10 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 37–38 |
 | Choosing a medium — distance, environment, data amount and speed, cost (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 2, printed pp. 24–27 (guide placement item 9) |
@@ -33,7 +34,9 @@ countries: Ethiopia, Nepal, Libya, Laos, Bangladesh
 
 **Book 5:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Libya, Laos, Bangladesh).**
+**Book 10:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Nepal, Libya, Laos, Bangladesh, Vietnam).**
 
 Grown 2026-11-12 (Wave 3, band D2): Sub lesson 3 adds the Grade 10 depth of student placement item 16 — the Grade 10 book returns to this Grade 9 topic one level deeper, so the lesson grows rather than duplicates. The Grade 10 teacher guide's Unit 2 review keys (guide printed p. 47; guide placement item 31) were used as the verified-answer check for the grown questions.
 
@@ -47,4 +50,6 @@ Laos's own way (Grade 8 ICT student book): a full PC-technician year in full col
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: media, UTP, fibre optic, radio waves, microwaves, infrared, satellite, Grade 9 ICT Ethiopia, nepal, papua new guinea, grade 9, libya, grade 9 computer, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: media, UTP, fibre optic, radio waves, microwaves, infrared, satellite, Grade 9 ICT Ethiopia, nepal, papua new guinea, grade 9, libya, grade 9 computer, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 12 tin học 12 khoa học máy tính

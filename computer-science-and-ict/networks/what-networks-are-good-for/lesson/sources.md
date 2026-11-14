@@ -1,6 +1,6 @@
 # Sources — What networks are good for
 
-countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, 
 
 **Book 12:** *Panduan Guru Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-495-5 (jil. 1 PDF). Grade 10 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 13:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Five families of benefit | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 61–62 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, 
 | Lesson 1: advantages of computer networks | Jordan Grade 7 G7T1 Student, printed p. 70 |
 | Bab 4 A. Jaringan komputer dan manfaatnya | Indonesia Grade 12 G12 Informatika student, printed p. 89 |
 | Panduan Khusus Bab 4: panduan pembelajaran keamanan dan manajemen informasi (jaringan komputer) | Indonesia Grade 10 G10 Informatika teacher guide, printed p. 243 (teacher guide — evidence) |
+| Bài 8 Mạng máy tính trong cuộc sống hiện đại (Computer networks in modern life: LAN, Internet, IoT) | Vietnam Grade 10 Tin học 10, printed p. 38 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia, Vietnam).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -68,4 +71,6 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika teacher guide): Chapter guides (Panduan Khusus) for the four revised Grade 10 chapters — data and its validation, algorithms and data structures, digital technology and culture, information security and management — with the same guide structure as the junior guides. (teacher guide — evidence)
 
-Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, indonesia, grade 12, grade 10
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, indonesia, grade 12, grade 10, vietnam, grade 10 tin học 10

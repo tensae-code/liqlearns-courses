@@ -1,6 +1,6 @@
 # Sources — Internet awareness — what every student must know
 
-countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos
+countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -39,6 +39,8 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 **Book 18:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 19:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 20:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The awareness list — the tool, invalid content, predators, footprints, photos, gaming, downloads, adult help | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–208 |
@@ -61,8 +63,9 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 | Parcours: Sécurité en ligne et droit à l'image | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 4 (Parcours) (teacher guide — evidence) |
 | Parcours: Sécurité en ligne et droit à l'image | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 4 (Parcours) (teacher guide — evidence) |
 | Scénario 6 Parcours du partage: le partage d'images et d'informations sur Internet, le droit à l'image | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Scénario 6) (teacher guide — evidence) |
+| Bài 9 An toàn thông tin trên Internet (Information safety on the Internet) | Vietnam Grade 6 Tin học 6, printed p. 37 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos).**
+**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos, Vietnam).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -94,4 +97,6 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
 
-Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 12 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 12 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34, vietnam, grade 6 tin học 6

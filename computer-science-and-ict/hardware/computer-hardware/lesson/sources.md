@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia
+countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -82,6 +82,8 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 
 **Book 42:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
 
+**Book 43:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -129,8 +131,9 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 | Bab 3 A. Sistem komputer | Indonesia Grade 10 G10 Informatika student, printed p. 114 |
 | Bab 3 A. Perangkat keras komputer | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 83 |
 | Bab 3 (Semester 1) Panduan pembelajaran sistem komputer: komponen perangkat keras input, output dan proses (CPU, RAM, VGA) (filed as hardware/input-and-output-devices; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 86 (teacher guide — evidence) |
+| Bài 3 Máy tính và em §1 (Basic parts of a desktop computer: system unit, screen, keyboard, mouse, speakers) | Vietnam Grade 3 Tin học 3, printed p. 13 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 24 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -203,4 +206,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 5, indonesia, grade 7, grade 10, grade 10, grade 10
+Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
+
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, moldova, grade 1 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 5, indonesia, grade 7, grade 10, grade 10, grade 10, vietnam, grade 3 tin học 3

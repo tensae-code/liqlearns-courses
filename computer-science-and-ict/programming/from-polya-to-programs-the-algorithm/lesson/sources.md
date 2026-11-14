@@ -1,6 +1,6 @@
 # Sources — From Polya to programs — the algorithm
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia
+countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia
 
 **Book 15:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 16:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The computing adjustment of Polya's steps | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 220–221 |
@@ -42,6 +44,7 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia
 | Ch.2.2 Definition of an algorithm | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 19 |
 | Ch.2 What an algorithm is / importance of algorithms | Greece Grade 12 Anaptyxi Efarmogon, printed p. 33 |
 | Bab III A. Alur proses pengembangan program: menganalisis, mendesain, coding, testing | Indonesia Grade 11 G11 Informatika student, printed p. 93 |
+| Bài 12 Từ thuật toán đến chương trình (From an algorithm to a Scratch program) | Vietnam Grade 8 Tin học 8, printed p. 73 |
 
 | What an algorithm is — the three definitions; algorithm vs program; language-independence; the doro wot analogy (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 206–207 |
 | Unit 3 Ch.1 Lesson 1 The concept of algorithms | Iraq, *Computer, Grade 7*, printed p. 83 |
@@ -51,7 +54,7 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia
 | Unit 3: Steps of building a program — define the problem, then the logical steps (the algorithm, named for al-Khwarizmi) | Sudan, *Computer Science, Grade 11*, printed p. 32 |
 | Unit 1 Lesson 3: Stages of programming (filed as programming/the-stages-of-writing-a-program; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *ICT, Grade 9*, printed p. 14 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietnam).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -79,4 +82,6 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
 
-Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, indonesia, grade 11
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, indonesia, grade 11, vietnam, grade 8 tin học 8

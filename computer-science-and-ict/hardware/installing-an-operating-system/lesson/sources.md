@@ -1,6 +1,6 @@
 # Sources — Installing an Operating System
 
-countries: Laos, Indonesia
+countries: Laos, Indonesia, Vietnam
 
 **Book 1:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
@@ -8,13 +8,16 @@ countries: Laos, Indonesia
 
 **Book 3:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
 
+**Book 4:** *Chuyên đề học tập Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39255-8. Grade 12 (student book). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.3 §3.1 Installing an operating system (BIOS setup, installing Windows XP, first steps after installing) | Laos Grade 8 ICT student, printed p. 47 |
 | Bab 3 F. Instalasi sistem operasi (praktik) (filed as software/installing-an-operating-system; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 104 |
 | Bab 3 (Semester 1) Panduan pembelajaran: instalasi sistem operasi Linux Ubuntu langkah demi langkah dan siklus fetch-decode-execute (filed as software/operating-system-the-computers-manager; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 78 (teacher guide — evidence) |
+| Chuyên đề 2, Bài 7 Cài đặt hệ điều hành máy tính (Installing a computer operating system) (filed as NEW LESSON NEEDED — hardware/installing-an-operating-system; that slug already exists live, so the placement is stocked here as an existing lesson) | Vietnam Grade 12 Chuyên đề Tin học 12 Ứng dụng, printed p. 37 |
 
-**Acceptance count: taught in 2 countries (Laos, Indonesia).**
+**Acceptance count: taught in 3 countries (Laos, Indonesia, Vietnam).**
 
 Placement choice: this lesson was built new for the ICT expansion (Laos, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — hardware/installing-an-operating-system). It sits in the Hardware title (hardware/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Laos student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -24,4 +27,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
 
-Searchable tags: installing an operating system, windows xp install, bios boot order, hardware, laos, grade 8 ict student, indonesia, grade 10, grade 10
+Vietnam's own way (Grade 12 Chuyên đề Tin học 12 Ứng dụng): three workplace crafts — project management in the open-source GanttProject (schedule, people, budget, progress), installing/uninstalling software and an operating system with data protection, and a real statistics course inside the spreadsheet: probability and random sampling, measures of centre and spread, PivotTables, correlation and hypothesis testing.
+
+Searchable tags: installing an operating system, windows xp install, bios boot order, hardware, laos, grade 8 ict student, indonesia, grade 10, grade 10, vietnam, grade 12 chuyên đề tin học 12 ứng dụng

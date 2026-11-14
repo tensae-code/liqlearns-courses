@@ -1,6 +1,6 @@
 # Sources — Breakpoints and stepping — hunting a TypeError
 
-countries: Ethiopia, Malaysia
+countries: Ethiopia, Malaysia, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia
 
 **Book 4:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 5:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Debug Control — Go, Step, Over, and watching variables | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 192–194 (student placement item 135) |
@@ -17,8 +19,9 @@ countries: Ethiopia, Malaysia
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed p. 150 — see the honesty note below for exactly what is filed and where |
 | Unit 1, Topic Robotics, Lesson 2: Modifying existing algorithm or Codes (filed as programming/editing-while-you-run; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 58 (teacher guide — evidence) |
 | 3.2.2 Menguji Atur Cara dan Membaiki Ralat | Malaysia Grade 8 ASK Tingkatan 2, printed p. 149 |
+| Bài 30 Kiểm thử và gỡ lỗi chương trình (Testing and debugging programs) | Vietnam Grade 10 Tin học 10, printed p. 145 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Vietnam).**
 
 BOOK ERROR flagged: Figure 6.30 on printed p. 193 — the breakpoint figure — carries a printed Word cross-reference failure, the words 'error: reference source not found'. The breakpoint teaching itself is complete in the text and is taught in full; the broken figure reference is named here only. GUIDE FAULTS flagged (teacher item 39's caution, guide printed pp. 151–153): three of the guide's keyed Unit 6 review programs do not answer the student questions as printed — (1) the pass/fail key uses mark > 50 where the student question asks pass at 50 or above (≥ 50): this course follows the STUDENT question (see the if…else and elif lessons, where mark 50 passes); (2) the counting key uses range(1, user_input), stopping one short of the number the student question asks to reach: this course uses range(1, n + 1) (see the range lesson); (3) the key omits part 3(c) of that question — showing the variable's data type before and after reassignment — which the range lesson's sources record and whose behaviour was verified for this band (type before: int; after reassigning text: str). The guide's worked divide-by-zero walkthrough (item 38, guide printed p. 150) is filed in Sub lesson 2 as labelled teacher evidence and scripted in full in video-script.md. The calculator and alphabet review programs keyed in item 39 are practised in the elif and list/string lessons' Do It Yourself blocks (calculator shape verified: choice 1, 6 and 3 gives 9). All code in this lesson was run in Python 3: '50' + 10 raises TypeError, int('50') + 10 = 60, 50 / 0 raises ZeroDivisionError — outputs match the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions, subject to the three faults above (guide item 40).
 
@@ -26,4 +29,6 @@ Papua New Guinea's own way (Grade 11): the senior guide turns learners into juni
 
 Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
 
-Searchable tags: breakpoint, Debug Control, Go, Step, Over, TypeError, debugging, divide by zero, Grade 12 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2
+Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
+
+Searchable tags: breakpoint, Debug Control, Go, Step, Over, TypeError, debugging, divide by zero, Grade 12 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2, vietnam, grade 10 tin học 10

@@ -1,6 +1,6 @@
 # Sources — Project: build and present a slide deck
 
-countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova, Jordan
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova, Jordan, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova, Jordan
 
 **Book 13:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
 
+**Book 14:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 15:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical Exercise 3.7 — the group presentation and its set tasks; saved in a Presentation Project folder in Documents | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 132, 135 |
@@ -43,8 +47,10 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova, Jordan
 | 5.2 Învață prin proiecte | Moldova Grade 7 Informatică, printed p. 96 |
 | Learning Project 3: building and presenting a slide deck | Jordan Grade 2 G2 Workbook, printed p. 100 |
 | Learning Project 2 (Smart saving of electricity): research-and-present project (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 43 (teacher guide — evidence) |
+| Bài 13 Thực hành tổng hợp: Hoàn thiện bài trình chiếu (Combined practical: finishing a presentation) | Vietnam Grade 7 Tin học 7, printed p. 68 |
+| Chuyên đề 3, Bài 4 Hoàn thiện và xuất bản sản phẩm truyền thông (Finishing and publishing the media product) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 73 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova, Jordan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Kuwait, Moldova, Jordan, Vietnam).**
 
 No book error touches this part.
 
@@ -72,4 +78,8 @@ Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook bl
 
 Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
 
-Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide, moldova, grade 7 informatica, jordan, grade 2 digital skills workbook, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2
+Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
+
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
+
+Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities, kuwait, grade 4 digital explorer term 2, laos, grade 10 ict teacher guide, moldova, grade 7 informatica, jordan, grade 2 digital skills workbook, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, vietnam, grade 7 tin học 7, grade 10 chuyên đề tin học 10 ứng dụng

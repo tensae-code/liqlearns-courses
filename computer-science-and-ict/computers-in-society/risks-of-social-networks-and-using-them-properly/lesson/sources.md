@@ -1,6 +1,6 @@
 # Sources — Risks of social networks — and using them properly
 
-countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia
+countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia
 
 **Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 9:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 10:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight risks, named; the closing question | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 76–77 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia
 | Scénario 3 Séance 3: Chatter, publier, acheter en ligne (prolongement) | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 12 (Scénario 3) (teacher guide — evidence) |
 | Learning Experience 2, Session 4: Social Media Watchdogs | Bangladesh Grade 8 Digital Technology, printed p. 42 |
 | Bab 5 A.4–A.5 Dampak negatif media sosial dan menggunakan media sosial secara bijak (termasuk FOMO) | Indonesia Grade 12 G12 Informatika student, printed p. 149 |
+| Bài 9 Giao tiếp an toàn trên Internet (Communicating safely on the Internet) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 43 |
+| Bài 9 Giao tiếp an toàn trên Internet (Safe communication — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 43 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam).**
 
 Nothing in this lesson claims a page the placements do not give; the one Tip box is LiqLearns' own, marked as such in the lesson and in the table above.
 
@@ -46,4 +52,8 @@ Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same pro
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

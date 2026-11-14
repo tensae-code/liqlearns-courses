@@ -1,6 +1,6 @@
 # Sources — CREATE TABLE — building a table with SQL
 
-countries: Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait, Bangladesh
+countries: Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait, Bangladesh, Vietnam
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait, Bangladesh
 
 **Book 7:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 8:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — CREATE TABLE's general form: table name, columns with data types in parentheses, optional [Primary Key], optional REFERENCES to another table's key column | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 69, 72 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait, Bangladesh
 | 2.1 SQL: Membina Pangkalan Data | Malaysia Grade 11 SK Tingkatan 5, printed p. 77 |
 | Unit 1, Lesson 3 Creating Tables: CREATE TABLE in SQLite, column data types (INTEGER, TEXT, REAL) and the rules for naming tables and columns | Kuwait Grade 11 Information Technology T1, printed p. 41 |
 | Chapter 6, 6.3.1: CREATE TABLE — syntax, data types and rules | Bangladesh HSC ICT, printed p. 199 |
+| Bài 18 Thực hành xác định cấu trúc bảng và các trường khóa (Practical: table structure and key fields) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 86 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, North Macedonia, Malaysia, Kuwait, Bangladesh, Vietnam).**
 
 Honesty: sub lessons 1–2 are pupil-taught; the worked builds, sizing method, diagnosis set and the two working tips in sub lessons 2–3 are teacher-guide evidence, labelled as such. Guide errors NOT copied: the guide's worked CREATE TABLE Teacher carries a trailing comma after its last column — the lesson's statements carry no trailing comma; and its worked Grade table references a Course table that is never created in the answers — this lesson's Grade references only the Student and Teacher tables the set itself creates. The student book's printed spellings are corrected throughout (see the Databases title honesty notes in the touched lessons' sources).
 
@@ -40,4 +43,6 @@ Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databas
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: CREATE TABLE, DDL, primary key, REFERENCES, field sizing, broken SQL diagnosis, Ethiopia Grade 12, nepal, north macedonia, grade 11, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, bangladesh, hsc ict classes xi xii and alim
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: CREATE TABLE, DDL, primary key, REFERENCES, field sizing, broken SQL diagnosis, Ethiopia Grade 12, nepal, north macedonia, grade 11, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 tin học ứng dụng

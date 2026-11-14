@@ -1,6 +1,6 @@
 # Sources — Hardware and software — the two parts of a computer system
 
-countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia
+countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia
 
 **Book 12:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 13:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware and software — the two parts of a computer system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 11 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia
 | Bab 5 B.1 Interaksi dengan perkakas: GUI, ikon, aplikasi kalkulator/kalender/file manager | Indonesia Grade 7 G7 Informatika student, printed p. 193 |
 | Bab 3 A (perangkat keras dan perangkat lunak dalam sistem komputer) | Indonesia Grade 10 G10 Informatika student, printed p. 114 |
 | Bab 3 E. Interaksi antara komputer dan pengguna | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 102 |
+| Bài 1 Phần cứng và phần mềm máy tính (Computer hardware and software) | Vietnam Grade 4 Tin học 4, printed p. 5 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia, Vietnam).**
 
 No book error touches this lesson's content.
 
@@ -67,4 +70,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, jordan, grade 7 term 1 digital skills, grade 2 digital skills teacher guide, indonesia, grade 7, grade 10, grade 10
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, jordan, grade 7 term 1 digital skills, grade 2 digital skills teacher guide, indonesia, grade 7, grade 10, grade 10, vietnam, grade 4 tin học 4

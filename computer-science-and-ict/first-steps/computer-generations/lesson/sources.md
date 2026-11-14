@@ -1,6 +1,6 @@
 # Sources — Computer generations — five periods of change
 
-countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia
+countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mong
 
 **Book 15:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 16:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a generation is | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.1, printed p. 2 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mong
 | Ch.1 Technological developments in computer hardware | Greece Grade 10 Efarmoges Pliroforikis, printed p. 16 |
 | Ch.10 A short history of electronic computers | Greece Grade 11 EPAL Basika Themata, printed p. 110 |
 | Bab 2 A. Sejarah teknologi informasi | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 86 |
+| Bài 1 Lược sử công cụ tính toán (A short history of calculating tools: abacus, mechanical calculators, computer generations) | Vietnam Grade 8 Tin học 8, printed p. 5 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -81,4 +84,6 @@ Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes):
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer, mongolia, grade 12 it xii, rwanda, grade 7 s1 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, indonesia, grade 10
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer, mongolia, grade 12 it xii, rwanda, grade 7 s1 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, indonesia, grade 10, vietnam, grade 8 tin học 8

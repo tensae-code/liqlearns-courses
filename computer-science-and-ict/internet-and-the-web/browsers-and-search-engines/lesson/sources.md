@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -66,6 +66,18 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 33:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 34:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 35:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 36:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 37:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 38:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 39:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -106,8 +118,14 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 | Bab 2 B. Mesin pencari informasi digital: operator filetype:, tanda petik, define, kata kunci | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 58 |
 | Bab I A. Menggunakan mesin pencari, termasuk untuk riset | Indonesia Grade 11 G11 Informatika student, printed p. 3 |
 | Panduan Khusus Bab 3: panduan pembelajaran literasi informasi dan mesin pencari (filed as internet-and-the-web/advanced-search-techniques; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 119 (teacher guide — evidence) |
+| Bài 4 Tìm kiếm thông tin trên Internet (Searching for information on the Internet) | Vietnam Grade 4 Tin học 4, printed p. 18 |
+| Bài 2 Tìm kiếm thông tin trên website (Searching for information on websites) | Vietnam Grade 5 Tin học 5, printed p. 8 |
+| Bài 7 Tìm kiếm thông tin trên Internet (Searching for information on the Internet) | Vietnam Grade 6 Tin học 6, printed p. 28 |
+| Bài 3 Thực hành: Khai thác thông tin số (Practical: finding and using digital information well) | Vietnam Grade 8 Tin học 8, printed p. 14 |
+| Bài 7 Thực hành tìm kiếm thông tin trên Internet (Practical: searching for information on the Internet) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 36 |
+| Bài 7 Thực hành tìm kiếm thông tin trên Internet (Practical search — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 36 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia).**
+**Acceptance count: taught in 20 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -172,4 +190,16 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is th
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology, indonesia, grade 7, grade 10, grade 11, grade 7
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
+
+Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
+
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
+
+Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology, indonesia, grade 7, grade 10, grade 11, grade 7, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 6 tin học 6, grade 8 tin học 8, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng

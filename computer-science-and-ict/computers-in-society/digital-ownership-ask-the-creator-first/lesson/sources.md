@@ -1,6 +1,6 @@
 # Sources — Digital ownership — ask the creator first
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Vietnam
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Mongolia
 
 **Book 3:** *المهارات الرقمية — الصف الرابع الأساسي، دليل المعلم (Digital Skills, Grade 4 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-983-0. Grade 4 (teacher guide). 91 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. This is the same book the links-pass L2 list re-reads; L2's fuller sections are stocked as extras beyond the 310, marked in the provenance rows. (teacher guide — evidence)
 
+**Book 4:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What digital ownership is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 4) |
 | Sub lesson 2 — Permission — what asking does | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 4) |
 | 1.2.2 Digital intellectual property (digital works and Mongolian national content: the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu, YoLo; the CRC blacklist black-list.mn) | Mongolia Grade 10 IT X, printed p. 28 |
 | Environment 1: protecting intellectual-property rights, documenting sources, not copying others' work in the digital card (links-pass L2 extra — the L2 list is a fuller re-reading of Book 22, the Grade 4 Term 1 teacher guide; this section is not in Book 22's 3-placement filing, so it is stocked beyond the 310 counted placements, as evidence only) (teacher guide — evidence) | Jordan Grade 4 Digital Skills Teacher Guide, printed p. 6 (teacher guide — evidence) |
+| Bài 6 Sử dụng phần mềm khi được phép (Only use software when you are allowed to: permission and licences) | Vietnam Grade 4 Tin học 4, printed p. 27 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Vietnam).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -25,4 +28,6 @@ Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook bl
 
 Jordan's own way (Grade 4 Digital Skills Teacher Guide — links-pass L2 sections): Digital Skills is not a standalone subject book at this level — the guide embeds digital skills inside the child's other subjects as six "learning environments" (Science and Maths units) plus staged learning projects, each with named digital tools (PowerPoint, Excel, Word, Padlet, PhET), learning outcomes, and a performance rubric.
 
-Searchable tags: digital ownership, permission, creator rights, copy and paste, credit, Ethiopia Grade 12 IT, mongolia, grade 10 it x, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2
+Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
+
+Searchable tags: digital ownership, permission, creator rights, copy and paste, credit, Ethiopia Grade 12 IT, mongolia, grade 10 it x, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, vietnam, grade 4 tin học 4

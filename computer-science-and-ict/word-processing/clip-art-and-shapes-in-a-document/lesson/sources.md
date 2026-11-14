@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia
+countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, 
 
 **Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
 
+**Book 20:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 21:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -67,8 +71,10 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, 
 | Unit 7 Images and automatic shapes | Greece Grade 7 Pliroforiki A, printed p. 81 |
 | 1.8 Grafica orientată pe obiecte (drawing objects) | Moldova Grade 8 Informatică, printed p. 36 |
 | §10 Inserting tables and pictures in text editors (pictures) | Armenia Grade 5 G5 student (Antares), printed p. 54 |
+| Bài 8a Làm việc với danh sách dạng liệt kê và hình ảnh trong văn bản §2 (Pictures in a text document — track a) | Vietnam Grade 8 Tin học 8, printed p. 36 |
+| Chuyên đề 1, Bài 3 Trình bày văn bản với hình khối và hộp văn bản (Presenting a text with shapes and text boxes) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 16 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia).**
+**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece, Moldova, Armenia, Vietnam).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -103,4 +109,8 @@ Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Wor
 
 Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, armenia, grade 5
+Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
+
+Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
+
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, armenia, grade 5, vietnam, grade 8 tin học 8, grade 10 chuyên đề tin học 10 ứng dụng

@@ -1,6 +1,6 @@
 # Sources — Twisted-pair cable — twisting cancels interference
 
-countries: Ethiopia, Libya, Rwanda, Greece, Bangladesh, Indonesia
+countries: Ethiopia, Libya, Rwanda, Greece, Bangladesh, Indonesia, Vietnam
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Libya, Rwanda, Greece, Bangladesh, Indonesia
 
 **Book 7:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 8:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Guided media carry the signal inside a conduit | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 39–40 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Libya, Rwanda, Greece, Bangladesh, Indonesia
 | Unit 2 Passive network equipment | Greece Grade 8 Pliroforiki B, printed p. 24 |
 | Chapter 2, 2.2.1: twisted pair cable — pairs, colours, distance and rates | Bangladesh HSC ICT, printed p. 51 |
 | Bab V A.3a (media transmisi kabel twisted pair) | Indonesia Grade 11 G11 Informatika student, printed p. 220 |
+| Bài 23 Đường truyền mạng và ứng dụng §2 (Cables in practice) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 123 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Libya, Rwanda, Greece, Bangladesh, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Libya, Rwanda, Greece, Bangladesh, Indonesia, Vietnam).**
 
 No book error touches this lesson. The teacher guide's choosing-a-medium key (distance, environment, amount and speed of data, cost — guide printed pp. 24–27, guide placement item 9) is filed in Transmission media — wired and wireless pathways, the grown lesson this one stands on.
 
@@ -46,4 +49,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
 
-Searchable tags: twisted pair, guided media, crosstalk, interference, copper, ground reference, Grade 10 ICT Ethiopia, libya, grade 9 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 11
+Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
+
+Searchable tags: twisted pair, guided media, crosstalk, interference, copper, ground reference, Grade 10 ICT Ethiopia, libya, grade 9 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 11, vietnam, grade 12 tin học 12 khoa học máy tính
