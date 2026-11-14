@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria, Eritrea
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria, Eritrea, Zimbabwe (teacher-guide evidence only)
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -174,3 +174,17 @@ Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LE
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, habitats and animal adaptations
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — ECD A):** Title as printed: Science and Technology, ECD A, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-138-1. PDF 53 pages, 2,459,762 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD A. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animal habitats and shelter, guide evidence (Zimbabwe, ECD A) (placement filed as NEW LESSON NEEDED — where-animals-live-habitats; stocked into this lesson, which already covers that thing, and the original slug is recorded here) | Zimbabwe, *Science and Technology, ECD A, Teacher's Guide*, printed p. 21 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

@@ -1,6 +1,6 @@
 # Sources — Immunisation and immunity
 
-countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia, Mauritania, Angola, Dominican Republic, Kuwait, Syria
+countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Zimbabwe (teacher-guide evidence only)
 
 **Book 1:** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
 
@@ -151,3 +151,17 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — immuni
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, immunisation and immunity
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — Grade 4):** Title as printed: Science and Technology, Teacher's Guide, Grade 4 (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77928-496-9. PDF 104 pages, 4,366,357 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–39, printed pp. 1–103). Short name: ZW G4 TG. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5: Immunisation, guide evidence (Zimbabwe, Grade 4) (placement filed as NEW LESSON NEEDED — vaccination-protecting-against-disease; stocked into this lesson, which already covers that thing, and the original slug is recorded here) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 4*, printed p. 9 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

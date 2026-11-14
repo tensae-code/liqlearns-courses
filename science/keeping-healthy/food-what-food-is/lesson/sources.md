@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only)
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -267,3 +267,29 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, food w
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, food what food is
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — ECD B):** Title as printed: Science and Technology, ECD B, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-137-4. PDF 53 pages, 2,546,243 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD B. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food demonstrations: seeing and handling real food, guide evidence (Zimbabwe, ECD B) | Zimbabwe, *Science and Technology, ECD B, Teacher's Guide*, printed p. 14 |
+
+**Book (Zimbabwe — Grade 3):** Title as printed: Science and Technology, Teacher's Guide, Grade 3 (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77928-504-1. PDF 105 pages, 3,424,904 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–32, printed pp. 1–104). Short name: ZW G3 TG. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: Importance of food, guide evidence (Zimbabwe, Grade 3) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 3*, printed p. 16 |
+
+**Book (Zimbabwe — Grade 2):** Title as printed: Science and Technology, Teacher's Guide, Grade 2 (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77928-509-6. PDF 132 pages, 6,328,443 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–36, printed pp. 1–131; printed folios run 9 pages behind the PDF pages — verified at Unit 1, PDF p. 10 = printed p. 1 — and unit pages below are the printed folios). Short name: ZW G2 TG. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: Food demonstrations, guide evidence (Zimbabwe, Grade 2) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 2*, printed p. 19 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -388,3 +388,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, skills
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 2
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — ECD B):** Title as printed: Science and Technology, ECD B, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-137-4. PDF 53 pages, 2,546,243 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD B. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| observation tools: looking closely like a scientist, guide evidence (Zimbabwe, ECD B) | Zimbabwe, *Science and Technology, ECD B, Teacher's Guide*, printed p. 31 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

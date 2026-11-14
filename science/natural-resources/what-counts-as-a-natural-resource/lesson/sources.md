@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia, Afghanistan, Kuwait, China, Syria, Eritrea, Sri Lanka
+countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia, Afghanistan, Kuwait, China, Syria, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -228,3 +228,17 @@ The teacher-guide rows above are guide evidence, carried as filed; the count ris
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, what counts as a natural resource
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — Grade 6):** Title as printed: Science and Technology, Teacher's Guide, Grade 6 (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77928-501-0. PDF 103 pages, 4,432,043 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–30, printed pp. 1–102). Short name: ZW G6 TG. All placements are guide evidence. Contents anomaly noted: Topic 7 (Hazards preparedness) lists its Unit 27 with the same title as Unit 26 (Sustainable use of fuels) — a contents misprint in the book itself; the unit is filed here under its topic, hazards preparedness. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 17: Natural resources, guide evidence (Zimbabwe, Grade 6) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 6*, printed p. 48 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

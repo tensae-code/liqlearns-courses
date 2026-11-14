@@ -1,6 +1,6 @@
 # Sources — Groundwater and springs
 
-countries: Armenia, Cuba, Mauritania
+countries: Armenia, Cuba, Mauritania, Zimbabwe (teacher-guide evidence only)
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -45,3 +45,17 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, svt
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — Grade 6):** Title as printed: Science and Technology, Teacher's Guide, Grade 6 (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77928-501-0. PDF 103 pages, 4,432,043 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–30, printed pp. 1–102). Short name: ZW G6 TG. All placements are guide evidence. Contents anomaly noted: Topic 7 (Hazards preparedness) lists its Unit 27 with the same title as Unit 26 (Sustainable use of fuels) — a contents misprint in the book itself; the unit is filed here under its topic, hazards preparedness. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 15: Ground water extraction, guide evidence (Zimbabwe, Grade 6) (placement filed as NEW LESSON NEEDED — groundwater-and-wells; stocked into this lesson, which already covers that thing, and the original slug is recorded here) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 6*, printed p. 43 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

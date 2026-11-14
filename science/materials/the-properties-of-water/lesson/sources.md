@@ -1,6 +1,6 @@
 # Sources — The properties of water
 
-countries: Angola, Rwanda
+countries: Angola, Rwanda, Zimbabwe (teacher-guide evidence only)
 
 **Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -33,3 +33,17 @@ Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NE
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, materials, the-properties-of-water
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — ECD A):** Title as printed: Science and Technology, ECD A, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-138-1. PDF 53 pages, 2,459,762 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD A. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| properties of water, guide evidence (Zimbabwe, ECD A) (placement filed as NEW LESSON NEEDED — properties-of-water; stocked into this lesson, which already covers that thing, and the original slug is recorded here) | Zimbabwe, *Science and Technology, ECD A, Teacher's Guide*, printed p. 28 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

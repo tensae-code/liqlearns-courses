@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -406,3 +406,35 @@ Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NE
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, soil-and-water, water-why-every-living-thing-needs-it
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — ECD A):** Title as printed: Science and Technology, ECD A, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-138-1. PDF 53 pages, 2,459,762 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD A. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| uses of water, guide evidence (Zimbabwe, ECD A) | Zimbabwe, *Science and Technology, ECD A, Teacher's Guide*, printed p. 29 |
+
+**Book (Zimbabwe — ECD B):** Title as printed: Science and Technology, ECD B, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-137-4. PDF 53 pages, 2,546,243 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD B. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water, guide evidence (Zimbabwe, ECD B) | Zimbabwe, *Science and Technology, ECD B, Teacher's Guide*, printed p. 25 |
+
+**Book (Zimbabwe — Grade 1):** Title as printed: Science and Technology, Teacher's Guide, Grade 1 (PlusOne series). Author: Boniface N. Nyamai (title page). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77934-509-7. PDF 112 pages, 8,934,407 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–36, printed pp. 1–111). Short name: ZW G1 TG. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 15: Water, guide evidence (Zimbabwe, Grade 1) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 1*, printed p. 42 |
+
+**Book (Zimbabwe — Grade 2):** Title as printed: Science and Technology, Teacher's Guide, Grade 2 (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77928-509-6. PDF 132 pages, 6,328,443 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, Units 1–36, printed pp. 1–131; printed folios run 9 pages behind the PDF pages — verified at Unit 1, PDF p. 10 = printed p. 1 — and unit pages below are the printed folios). Short name: ZW G2 TG. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 15: Water, guide evidence (Zimbabwe, Grade 2) | Zimbabwe, *Science and Technology, Teacher's Guide, Grade 2*, printed p. 46 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press

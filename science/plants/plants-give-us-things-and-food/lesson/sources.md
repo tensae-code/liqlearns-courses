@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -303,3 +303,17 @@ Searchable tags: laos, lao pdr, science and environment grade 1, science and env
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, plants, plants-give-us-things-and-food
+
+## Zimbabwe growth (2026-11-14, General Science expansion)
+
+**Book (Zimbabwe — ECD A):** Title as printed: Science and Technology, ECD A, Teacher's Guide (PlusOne series). Publisher: Secondary Book Press Private Limited, Harare; first published 2025; ISBN 978-1-77932-138-1. PDF 53 pages, 2,459,762 bytes (matches record exactly). Verdict: COMPLETE (Topics 1–8, printed pp. 1–52). Short name: ZW ECD A. All placements are guide evidence. Records: this book is cited once here from its two records (TSV record + books.json record — the same PlusOne teacher's guide, verified by byte size and page count and by cover, as filed at the head of the placements file). All placements from this book are guide evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/zimbabwe-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| edible fruits and plants, guide evidence (Zimbabwe, ECD A) | Zimbabwe, *Science and Technology, ECD A, Teacher's Guide*, printed p. 17 |
+
+**Acceptance count: unchanged — Zimbabwe is not added to the count above, because every Zimbabwe book stocked here is a teacher's guide (guide evidence only, outside the acceptance count).**
+
+Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
