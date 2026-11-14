@@ -94,3 +94,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, motion-force-and-energy/force-and-motion-newtons-first-law
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Newton's laws of motion (Unit 5 L3; the three laws are taught together here, filed under the first-law lesson) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 136 |
+
+**Acceptance count unchanged: taught in 8 countries.** Jordan was already counted in this lesson through earlier waves; the Jordan books above are its General Science expansion books, stocked here without double-counting the country.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, motion-force-and-energy force-and-motion-newtons-first-law

@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq, Colombia, Nepal
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq, Colombia, Nepal, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -484,3 +484,29 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, light/dispersion-splitting-and-remixing-white-light
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 1):** Records: books.json only — grade-05/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 3,350,048 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–5 to printed p.48). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 332, 409); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Analysing (splitting) white light (Jordan, Science, Grade 5, Workbook, Term 1) (the duplicate filing assigned the same item to light/dispersion-splitting-and-remixing-white-light — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 44 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 2):** Records: TSV grade-07 term-2-workbook (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,048,725 bytes). Grabbed file is exactly 7,048,725 bytes — verified match. PDF pages: 60. Verdict: COMPLETE (contents PDF p.3, experiments for units 6–10 to printed p.59). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 706, 770); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: How light waves differ in energy (Jordan, Science, Grade 7, Workbook, Term 2) (the duplicate filing assigned the same item to light/dispersion-splitting-and-remixing-white-light — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 17 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Colours (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to light/dispersion-splitting-and-remixing-white-light — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 52 |
+
+**Acceptance count: taught in 36 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light dispersion-splitting-and-remixing-white-light

@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea, Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -887,3 +887,42 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, electricity-and-magnetism circuits-source-load-wires-open-and-closed
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple electric circuits (Unit 9 L1) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 62 |
+| Conducting and insulating materials (Unit 9 L2) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 66 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: What makes the electric lamp light up? (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 27 |
+| Activity: Making my own switch (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 29 |
+| Activity: Conducting and insulating materials (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 31 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 2):** Records: TSV grade-07 term-2-workbook (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,048,725 bytes). Grabbed file is exactly 7,048,725 bytes — verified match. PDF pages: 60. Verdict: COMPLETE (contents PDF p.3, experiments for units 6–10 to printed p.59). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 706, 770); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Electric attraction and repulsion (static charge) (Jordan, Science, Grade 7, Workbook, Term 2) (the duplicate filing assigned the same item to static-electricity-charge-attraction-and-repulsion — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 29 |
+| Experiment: Charging by induction (Jordan, Science, Grade 7, Workbook, Term 2) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 31 |
+| Scientific inquiry: The lemon battery (Jordan, Science, Grade 7, Workbook, Term 2) (the duplicate filing assigned the same item to electricity-and-magnetism/circuits-source-load-wires-open-and-closed — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 36 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Static electricity (Unit 8 L1) (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to static-electricity-charge-attraction-and-repulsion — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 62 |
+| Enrichment: The Baghdad battery (an ancient cell) (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to science-skills/science-and-technology — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 80 |
+| Scientific inquiry: The lemon battery (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to electricity-and-magnetism/circuits-source-load-wires-open-and-closed — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 81 |
+
+**Acceptance count: taught in 38 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, electricity-and-magnetism circuits-source-load-wires-open-and-closed

@@ -1,6 +1,6 @@
 # Sources — Traffic accidents and the rules of the road
 
-countries: Ethiopia, Turkey, Suriname, Angola, Eritrea, Vietnam, Nicaragua
+countries: Ethiopia, Turkey, Suriname, Angola, Eritrea, Vietnam, Nicaragua, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -99,3 +99,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keepi
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy traffic-accidents-and-the-rules-of-the-road
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 2):** Records: TSV grade-03 term-2-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,642,181 bytes). Grabbed file is exactly 7,642,181 bytes — verified match. PDF pages: 30. Verdict: COMPLETE (contents PDF p.3, activities for units 4–6 to printed p.27). Unit 4 activities serve the repeated matter unit (see Grade 3 Student Term 2 note) but are this workbook's own activities, placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: The safety train (قطار السلامة, road/rail safety) (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 25 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Vehicle speed and traffic accidents in Jordan — Jordan's own road-safety case (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 141 |
+
+**Acceptance count: taught in 8 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy traffic-accidents-and-the-rules-of-the-road

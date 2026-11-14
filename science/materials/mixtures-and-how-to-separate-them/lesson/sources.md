@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -550,3 +550,41 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, materials/mixtures-and-how-to-separate-them
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 1):** Records: TSV grade-03 term-1-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 11,391,247 bytes). Grabbed file is exactly 11,391,247 bytes — verified match. PDF pages: 32. Verdict: COMPLETE (contents PDF p.3, activities for units 1–3 to printed p.30). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Separating the components of a mixture (Jordan, Science, Grade 3, Workbook, Term 1) | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 17 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 2):** Records: TSV grade-03 term-2-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,642,181 bytes). Grabbed file is exactly 7,642,181 bytes — verified match. PDF pages: 30. Verdict: COMPLETE (contents PDF p.3, activities for units 4–6 to printed p.27). Unit 4 activities serve the repeated matter unit (see Grade 3 Student Term 2 note) but are this workbook's own activities, placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Separating the components of a non-homogeneous mixture (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 8 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 2):** Records: books.json only — grade-06/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 5,034,852 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 5–9 to printed p.45). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 381, 651); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Separating a mixture made of more than two substances (Jordan, Science, Grade 6, Workbook, Term 2) (the duplicate filing assigned the same item to materials/separating-settling-pouring-and-filtering — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 16 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 2):** Records: TSV grade-06-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-2.pdf (in_pushed, 67,512,641 bytes). Grabbed file is exactly 67,512,641 bytes — verified match. Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2021, ISBN 978-9923-41-278-7, ministry approval 2021/163, school year 2021/2022. PDF pages: 120. Verdict: COMPLETE (contents PDF pp. 3–4, units 5–9 continuing Term 1 numbering, glossary printed p. 117). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 566, 586); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Separating mixtures (Unit 6 L2) (Jordan, Science, Grade 6, Student Book, Term 2) (the duplicate filing assigned the same item to materials/mixtures-and-how-to-separate-them — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 2*, printed p. 38 |
+
+**Book (Jordan — Science, Grade 6, Teacher's Guide, Term 2):** Records: TSV grade-06-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/teacher/term-2.pdf (in_pushed, 62,010,020 bytes). Grabbed file is exactly 62,010,020 bytes — verified match. Cover/title page verified: دليل المعلم — العلوم — الصف السادس — الفصل الدراسي الثاني, publisher NCCD, ISBN 978-9923-41-513-9, ministry approvals 2024/2 and 2024/75. PDF pages: 176. Verdict: COMPLETE. The guide mirrors Grade 6 Student Term 2 unit-for-unit (Ecosystems and biological communities; Pure substances and mixtures; Waves and sound; Heat; Galaxies and the universe) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 6 Student T2 and Workbook T2 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on table salt — seawater salt is collected in ponds and left under the Sun's rays to evaporate; the raw salt must be purified from other impurities such as soil and marine plankton before human use; only about 6% of the world's annual salt production is eaten as food, salting is a main way of preserving food, and the rest is used in industry, water treatment and de-icing roads (Jordan, Science, Grade 6, Teacher's Guide, Term 2) | Jordan, *Science, Grade 6, Teacher's Guide, Term 2*, guide PDF p. 47 |
+
+**Acceptance count: taught in 25 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials mixtures-and-how-to-separate-them

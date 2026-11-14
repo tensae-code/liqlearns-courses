@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -748,3 +748,29 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, soil-and-water water-why-every-living-thing-needs-it
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Comparing the amount of salt water and fresh water in nature (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 39 |
+
+**Book (Jordan — Earth and Environment Sciences, Grade 9, Student Book, Term 1):** Records: the TSV record titled "Science — Grade 9 Term 1 (Student Book)", file grade-09-gov-jordan-earth-science-student-term-1.pdf (mid-size-books-2) — 19,348,259 bytes grabbed. This is a DIFFERENT book from the books.json Grade 9 Term 1 record (term-1.pdf, 90,976,860 bytes), which is the Grade 9 Life Science student book (see its own record-only entry below): at Grade 9 Jordan splits science into separate subject books. Cover verified: علوم الأرض والبيئة — Earth and Environment Sciences. Publisher NCCD. PDF pages: 68. Verdict: COMPLETE (contents PDF p.4, units 1–2, glossary printed p.61, references p.64). Placed in this wave because Earth/environment is the general course's earth strand and was not covered by the Physics/Chemistry/Biology waves. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 757, 882); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Surface water (Unit 2 L1) (Jordan, Earth and Environment Sciences, Grade 9, Student Book, Term 1) (the duplicate filing assigned the same item to soil-and-water/water-why-every-living-thing-needs-it — taught once, here) | Jordan, *Earth and Environment Sciences, Grade 9, Student Book, Term 1*, printed p. 42 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water in our life (Unit 4 L1) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 94 |
+
+**Acceptance count: taught in 38 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, soil-and-water water-why-every-living-thing-needs-it

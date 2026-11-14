@@ -1,6 +1,6 @@
 # Sources — Cloning and plant tissue culture
 
-countries: Morocco, Brazil, Azerbaijan, Bolivia, Bhutan, Indonesia, North Macedonia, Vietnam, China, Greece
+countries: Morocco, Brazil, Azerbaijan, Bolivia, Bhutan, Indonesia, North Macedonia, Vietnam, China, Greece, Jordan (teacher-guide evidence only)
 
 **Book 1:** Guide Almoufid SVT — 2e année collégiale (Al Moufid in Life and Earth Sciences, Teacher's Guide) — Morocco. “Al Moufid en Sciences de la Vie et de la Terre — Guide du professeur”, Deuxième Année de l'enseignement collégial (2AC = Grade 8), the French-language teacher guide for the parascolaire manual. Grade: 8 — Kind: teacher as verified — Repo path (release mid-size-books-3): grade-08-gov-morocco-svt-teacher-full-year.pdf. Byte size: 6,082,584 — PDF pages: 90 — Printed-page offset: printed p. = PDF page − 1 (Sommaire at printed p. 88). Verdict: COMPLETE as a guide — methodology part plus both programme units worked as sequences with tasks; the guide ends with its Sommaire. TEACHER'S GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/morocco-placements.md.
 
@@ -74,3 +74,19 @@ Placement choice, on the record (Greece): the Greece placement(s) filed as "NEW 
 Honesty (Greece): Book 12 (*Βιολογία Γ΄ Λυκείου — Εργαστηριακός Οδηγός, Τεύχος Β΄ (Laboratory Guide B), Grade 12*) is a student laboratory guide (exercises with worksheets for pupils) as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. The library record calls it a student book; it is verified as the student laboratory guide and is cited as that here, exactly as the placements file files it. Its text layer uses a legacy font encoding, so its exercise titles were read from the printed pages, exactly as the placements file files it. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
 
 Searchable tags: biology, azerbaijan, morocco, cloning, plant tissue culture, somatic cell, egg, reproduction, brazil, bolivia, bhutan, indonesia, north, macedonia, vietnam, china, greece
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 1):** Records: TSV grade-04-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-1.pdf (in_pushed, 53,874,620 bytes). Grabbed file is exactly 53,874,620 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الأول, publisher NCCD (National Center for Curriculum Development), © HarperCollins 2020, ministry approval 2020/120. PDF pages: 178. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 1 unit-for-unit (Classification of living things; Life cycles and relationships between living things; The human body and its health; Matter) with outcomes matrices, lesson steps, answers and formative checks; its pedagogy front matter is teaching method, not new science content. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T1 and Workbook T1 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on plant tissue culture — the techniques for keeping plant cells and tissues growing in a sterile nutrient medium, using the ability of many plant cells to form a whole plant, and its role in producing crops on a large scale (Jordan, Science, Grade 4, Teacher's Guide, Term 1) — placement filed as NEW LESSON NEEDED — plant-tissue-culture-growing-plants-from-cells | Jordan, *Science, Grade 4, Teacher's Guide, Term 1*, guide PDF p. 57 |
+
+**Acceptance count unchanged: taught in 9 countries.**
+
+Jordan is named as teacher-guide evidence only (its Grade 4 Science Teacher's Guide — teacher guide), not added to this count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, biology cloning-and-plant-tissue-culture

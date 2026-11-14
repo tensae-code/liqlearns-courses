@@ -1,6 +1,6 @@
 # Sources — Geological time and dating the Earth
 
-countries: Mexico, Italy, Egypt, Malaysia
+countries: Mexico, Italy, Egypt, Malaysia, Jordan
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -51,3 +51,27 @@ Searchable tags: egypt, earth-and-space geological-time-and-dating-the-earth
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space geological-time-and-dating-the-earth
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 1):** Records: books.json only — grade-07/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,380,795 bytes; grabbed via tree, exact match). No TSV record. ISBN 978-9923-41-249-7, © HarperCollins 2022, NCCD. PDF pages: 58 (56 printed). Verdict: COMPLETE (contents PDF p.4, experiments for units 1–5 to printed p.55). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 285, 675); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: Converting the relative ages of sedimentary rocks into absolute ages (Jordan, Science, Grade 7, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record (the duplicate filing assigned the same item to sedimentary-rocks-layers-and-fossils — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 1*, printed p. 5 |
+| Scientific inquiry: A model of the geological time scale (Jordan, Science, Grade 7, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record (the duplicate filing assigned the same item to geological-time-and-earths-history — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 1*, printed p. 8 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Relative age and absolute age of rocks (Unit 1 L1) (Jordan, Science, Grade 7, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 10 |
+| The geological time scale (Unit 1 L2) (Jordan, Science, Grade 7, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 15 |
+| Enrichment: The scholar Ibn Sina (Avicenna) and the earth sciences (Jordan, Science, Grade 7, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 25 |
+| Scientific inquiry: A model of the geological time scale (Jordan, Science, Grade 7, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 26 |
+
+**Acceptance count: taught in 5 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space geological-time-and-dating-the-earth

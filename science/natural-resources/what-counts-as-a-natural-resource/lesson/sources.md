@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia, Afghanistan, Kuwait, China, Syria, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Saudi Arabia, Nicaragua, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
+countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia, Afghanistan, Kuwait, China, Syria, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Saudi Arabia, Nicaragua, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya, Jordan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -468,3 +468,41 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, natural-resources what-counts-as-a-natural-resource
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Non-living natural resources (Unit 10 L2) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 85 |
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 1):** Records: TSV grade-05-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-1.pdf (in_pushed, 37,358,064 bytes). Grabbed file is exactly 37,358,064 bytes — verified match. PDF pages: 104. Verdict: COMPLETE (contents PDF pp.3–4, units 1–5, glossary printed p.102). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Natural resources (Unit 3 L1) (Jordan, Science, Grade 5, Student Book, Term 1) | Jordan, *Science, Grade 5, Student Book, Term 1*, printed p. 52 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Natural resources in the environment (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 37 |
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 1):** Records: books.json only — grade-05/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 3,350,048 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–5 to printed p.48). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 332, 409); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Playing with natural resources (sorting resources) (Jordan, Science, Grade 5, Workbook, Term 1) (the duplicate filing assigned the same item to natural-resources/what-counts-as-a-natural-resource — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 24 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's resources (Unit 1 L3) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 18 |
+
+**Acceptance count: taught in 24 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, natural-resources what-counts-as-a-natural-resource

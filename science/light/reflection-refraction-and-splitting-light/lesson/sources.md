@@ -1,6 +1,6 @@
 # Sources — Reflection, refraction and splitting light
 
-countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only), Angola, Dominican Republic, Syria, Sri Lanka (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Nicaragua, Malaysia, South Sudan (teacher-guide evidence only), El Salvador
+countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only), Angola, Dominican Republic, Syria, Sri Lanka (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Nicaragua, Malaysia, South Sudan (teacher-guide evidence only), El Salvador, Jordan
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -236,3 +236,23 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/reflection-refraction-and-splitting-light
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 1):** Records: TSV grade-05-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-1.pdf (in_pushed, 37,358,064 bytes). Grabbed file is exactly 37,358,064 bytes — verified match. PDF pages: 104. Verdict: COMPLETE (contents PDF pp.3–4, units 1–5, glossary printed p.102). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Light and its properties (Unit 5 L1) (Jordan, Science, Grade 5, Student Book, Term 1) | Jordan, *Science, Grade 5, Student Book, Term 1*, printed p. 84 |
+
+**Book (Jordan — Science, Grade 5, Teacher's Guide, Term 1):** Records: TSV grade-05-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-05/gov/jordan/science/teacher/term-1.pdf (in_pushed, 68,562,407 bytes). File in scratch is exactly 68,562,407 bytes — verified match (grabbed by an earlier reader; read and finished by this finisher reader). Cover/title page verified: العلوم — الصف الخامس — دليل المعلم — الفصل الدراسي الأول, publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-110-0, ministry approval 2020/121. PDF pages: 189. Verdict: COMPLETE. The guide mirrors Grade 5 Student Term 1 unit-for-unit (Ecosystems; The kingdoms of living things; Natural resources and energy; Chemical elements and compounds; Light and sound) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 5 Student T1 and Workbook T1 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on the convex lens — rays gather at the lens's focal point (strong enough to ignite dry grass); images formed are real and inverted unless the object lies between the lens and its focus, when the image is virtual, upright and magnified, and the image is smaller when the object is far from the lens (Jordan, Science, Grade 5, Teacher's Guide, Term 1) | Jordan, *Science, Grade 5, Teacher's Guide, Term 1*, guide PDF p. 127 |
+
+**Acceptance count: taught in 17 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light reflection-refraction-and-splitting-light

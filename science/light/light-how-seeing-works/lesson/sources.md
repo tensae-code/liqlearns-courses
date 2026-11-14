@@ -1,6 +1,6 @@
 # Sources — Light — how seeing works
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States, Cuba, Egypt, Seychelles, Bhutan, Kuwait, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Saudi Arabia, Nicaragua, South Sudan, Colombia, Papua New Guinea
+countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States, Cuba, Egypt, Seychelles, Bhutan, Kuwait, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Saudi Arabia, Nicaragua, South Sudan, Colombia, Papua New Guinea, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -357,3 +357,23 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 20 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Smart glasses (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 21 |
+
+**Book (Jordan — Science, Grade 8, Workbook, Term 2):** Records: TSV titled "Science — Grade 8 Term 2 (Student Book)", file grade-08-gov-jordan-science-student-term-2.pdf (mid-size-books-2), and books.json grade-08/gov/jordan/science/student/term-2.pdf (in_pushed, 19,266,417 bytes). Grabbed file is exactly 19,266,417 bytes — verified match. RECORD TITLE MISMATCH: the cover shows this is the Activities and Exercises (workbook) book, not the student book; the books.json source URL likewise points to the activities book. No Grade 8 student book record exists in the targets; the Grade 8 student text itself is a library debt (see log). Title as printed: العلوم — الصف الثامن — كتاب الأنشطة والتمارين — الفصل الدراسي الثاني. Publisher NCCD. PDF pages: 64. Verdict: COMPLETE (contents PDF p.3, experiments for units 5–9 to printed p.63). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 730, 831); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: Optical illusions (الخداع البصري) (Jordan, Science, Grade 8, Workbook, Term 2) (the duplicate filing assigned the same item to the-human-body/parts-of-the-body-and-the-five-senses — taught once, here) | Jordan, *Science, Grade 8, Workbook, Term 2*, printed p. 6 |
+
+**Acceptance count: taught in 21 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light light-how-seeing-works

@@ -1,6 +1,6 @@
 # Sources — Preventing infectious diseases
 
-countries: Bangladesh
+countries: Bangladesh, Jordan (teacher-guide evidence only)
 
 **Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -15,3 +15,19 @@ Placement choice, on the record: this NEW LESSON was built for the Bangladesh pl
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy preventing-infectious-diseases
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Teacher's Guide, Term 2):** Records: TSV grade-03-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-03/gov/jordan/science/teacher/term-2.pdf (in_pushed, 46,682,354 bytes). Grabbed file is exactly 46,682,354 bytes — verified match. PDF pages: 116. Verdict: COMPLETE. Mirrors Grade 3 Student Term 2 (Earth and the universe; Matter and energy — repeated unit; Health and safety) with answers and checks; guide evidence also covers the Term 2 workbook items placed above. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guided picture discussion of washed vs unwashed fruit and vegetables (Jordan, Science, Grade 3, Teacher's Guide, Term 2) — placement filed as keeping-healthy/protecting-ourselves-from-illness | Jordan, *Science, Grade 3, Teacher's Guide, Term 2*, guide PDF p. 62 |
+
+**Acceptance count unchanged: taught in 1 countries.**
+
+Jordan is named as teacher-guide evidence only (its Grade 3 Science Teacher's Guide — teacher guide), not added to this count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy preventing-infectious-diseases

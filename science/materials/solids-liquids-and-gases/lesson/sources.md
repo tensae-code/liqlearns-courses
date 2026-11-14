@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -1278,3 +1278,48 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, materials solids-liquids-and-gases
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Student Book, Term 2):** Records: TSV grade-02-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-2.pdf (on_disk=true, 22,130,320 bytes — verified exact on disk). Same printed book, two files. Title as printed: العلوم — الصف الثاني — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-268-8, 70 printed pages. PDF pages: 72. Verdict: COMPLETE (contents PDF p.4, units 4–6, glossary printed p.69–70). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter and its properties (Unit 6 L1) (Jordan, Science, Grade 2, Student Book, Term 2) | Jordan, *Science, Grade 2, Student Book, Term 2*, printed p. 46 |
+| States of matter and how they change (Unit 6 L2) (Jordan, Science, Grade 2, Student Book, Term 2) | Jordan, *Science, Grade 2, Student Book, Term 2*, printed p. 52 |
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 2):** Records: TSV grade-01-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-2.pdf (in_pushed, 20,241,736 bytes). Grabbed file is exactly 20,241,736 bytes — verified match. ISBN 978-9923-41-276-3, © HarperCollins 2020, NCCD. PDF pages: 74 (72 printed). Verdict: COMPLETE (contents PDF p.4, units 4–6, glossary printed p.69). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| States of matter (Unit 6 L3) (Jordan, Science, Grade 1, Student Book, Term 2) | Jordan, *Science, Grade 1, Student Book, Term 2*, printed p. 62 |
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 2):** Records: books.json only — grade-02/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 3,543,694 bytes; grabbed via tree, exact size match). No TSV record. ISBN 978-9923-41-269-5, © HarperCollins 2020, NCCD. PDF pages: 30 (28 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: How does matter change from one state to another? (Jordan, Science, Grade 2, Workbook, Term 2) | Jordan, *Science, Grade 2, Workbook, Term 2*, printed p. 22 |
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 1):** Records: TSV grade-03-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-1.pdf (in_pushed, 43,781,437 bytes). Grabbed file is exactly 43,781,437 bytes — verified match. PDF pages: 76. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.73). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter and its states (Unit 2 L1) (Jordan, Science, Grade 3, Student Book, Term 1) | Jordan, *Science, Grade 3, Student Book, Term 1*, printed p. 36 |
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 2):** Records: TSV grade-01 term-2-workbook (mid-size-books-5) and books.json grade-01/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 6,264,394 bytes; grabbed file exact match) plus books.json NCCD variant term-2-workbook-nccd.pdf (8,302,461 bytes, parallel file of same printed workbook — duplicate, see log). ISBN 978-9923-41-267-1, © HarperCollins 2020, NCCD. PDF pages: 42 (40 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: How do I recognise matter in the gas state? (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 33 |
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 2):** Records: books.json only — grade-05/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 2,752,038 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 46. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 6–10 to printed p.45). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 356, 541); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Melting ice cubes (Jordan, Science, Grade 5, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/experiment-1-melting-ice-and-boiling-water — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 2*, printed p. 25 |
+
+**Acceptance count: taught in 52 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials solids-liquids-and-gases

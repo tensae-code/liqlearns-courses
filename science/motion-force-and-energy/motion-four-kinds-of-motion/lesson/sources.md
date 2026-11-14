@@ -1,6 +1,6 @@
 # Sources — Motion — four kinds of motion
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia, Papua New Guinea
+countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia, Papua New Guinea, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -266,3 +266,23 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 17 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 2):** Records: TSV grade-01 term-2-workbook (mid-size-books-5) and books.json grade-01/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 6,264,394 bytes; grabbed file exact match) plus books.json NCCD variant term-2-workbook-nccd.pdf (8,302,461 bytes, parallel file of same printed workbook — duplicate, see log). ISBN 978-9923-41-267-1, © HarperCollins 2020, NCCD. PDF pages: 42 (40 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: How do things move? (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 4 |
+
+**Book (Jordan — Science, Grade 1, Teacher's Guide, Term 2):** Records: TSV grade-01-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-01/gov/jordan/science/teacher/term-2.pdf (in_pushed, 29,075,103 bytes). Grabbed file is exactly 29,075,103 bytes — verified match. A third record, books.json term-2-nccd.pdf (40,788,124 bytes), is the same guide from the NCCD site (parallel file; see log). PDF pages: 116. Verdict: COMPLETE. Mirrors Grade 1 Student Term 2 (Movement and force; Earth and space; Matter in our world) with outcomes, answers and checks; guide also carries answers for the Term 2 workbook items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guide explanation that things move in different patterns (straight line, circular, back-and-forth) with picture discussion (Jordan, Science, Grade 1, Teacher's Guide, Term 2) | Jordan, *Science, Grade 1, Teacher's Guide, Term 2*, guide PDF p. 12 |
+
+**Acceptance count: taught in 18 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, motion-force-and-energy motion-four-kinds-of-motion

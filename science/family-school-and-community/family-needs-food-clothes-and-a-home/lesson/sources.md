@@ -1,6 +1,6 @@
 # Sources — Family Needs — Food, Clothes and a Home
 
-countries: Ethiopia, Moldova, Angola, Nicaragua, South Sudan
+countries: Ethiopia, Moldova, Angola, Nicaragua, South Sudan, Jordan
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -97,3 +97,17 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 5 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Basic human needs (food, water, shelter, Unit 1 L2) (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 14 |
+
+**Acceptance count: taught in 6 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, family-school-and-community family-needs-food-clothes-and-a-home

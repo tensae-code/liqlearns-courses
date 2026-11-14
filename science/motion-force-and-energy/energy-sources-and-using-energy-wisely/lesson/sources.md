@@ -911,3 +911,30 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, motion-force-and-energy energy-sources-and-using-energy-wisely
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Water energy (hydropower) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 55 |
+| Enrichment: Saving electricity (rationalising consumption) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 71 |
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 1):** Records: books.json only — grade-05/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 3,350,048 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–5 to printed p.48). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 332, 409); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Water energy (Jordan, Science, Grade 5, Workbook, Term 1) (the duplicate filing assigned the same item to motion-force-and-energy/energy-forms-and-conversions — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 22 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 2):** Records: TSV grade-06-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-2.pdf (in_pushed, 67,512,641 bytes). Grabbed file is exactly 67,512,641 bytes — verified match. Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2021, ISBN 978-9923-41-278-7, ministry approval 2021/163, school year 2021/2022. PDF pages: 120. Verdict: COMPLETE (contents PDF pp. 3–4, units 5–9 continuing Term 1 numbering, glossary printed p. 117). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 566, 586); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: The solar heater (السخان الشمسي) (Jordan, Science, Grade 6, Student Book, Term 2) (the duplicate filing assigned the same item to heat/heat-radiation-and-the-black-white-test — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 2*, printed p. 92 |
+
+**Acceptance count unchanged: taught in 43 countries.** Jordan was already counted in this lesson through earlier waves; the Jordan books above are its General Science expansion books, stocked here without double-counting the country.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, motion-force-and-energy energy-sources-and-using-energy-wisely

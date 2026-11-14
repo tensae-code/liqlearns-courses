@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Papua New Guinea
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Papua New Guinea, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -395,3 +395,17 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 20 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 2):** Records: TSV grade-01 term-2-workbook (mid-size-books-5) and books.json grade-01/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 6,264,394 bytes; grabbed file exact match) plus books.json NCCD variant term-2-workbook-nccd.pdf (8,302,461 bytes, parallel file of same printed workbook — duplicate, see log). ISBN 978-9923-41-267-1, © HarperCollins 2020, NCCD. PDF pages: 42 (40 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Summer clothes and winter clothes (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 21 |
+
+**Acceptance count: taught in 21 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, weather-and-seasons seasons-and-climate-zones-of-our-country

@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Nepal, Papua New Guinea, Libya
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -446,3 +446,45 @@ Placement choice, on the record: the Libya placement(s) above filed as life-cycl
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, animals life-cycles-of-plants-and-animals
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 1):** Records: TSV grade-03-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-1.pdf (in_pushed, 43,781,437 bytes). Grabbed file is exactly 43,781,437 bytes — verified match. PDF pages: 76. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.73). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Reproduction of living organisms and their life cycles (Unit 1 L1) (Jordan, Science, Grade 3, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 3, Student Book, Term 1*, printed p. 10 |
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 1):** Records: TSV grade-04-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-1.pdf (in_pushed, 24,724,101 bytes). Grabbed file is exactly 24,724,101 bytes — verified match. PDF pages: 88. Verdict: COMPLETE (contents PDF pp.3–4, units 1–4, glossary printed p.85). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Plant reproduction and their life cycles (Unit 2 L1) (Jordan, Science, Grade 4, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 4, Student Book, Term 1*, printed p. 28 |
+| Animal reproduction and their life cycles (Unit 2 L2) (Jordan, Science, Grade 4, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 4, Student Book, Term 1*, printed p. 35 |
+| Scientific reading enrichment: Reproduction by cuttings (التكاثر بالعقل, vegetative propagation) (Jordan, Science, Grade 4, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 4, Student Book, Term 1*, printed p. 47 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 1):** Records: TSV grade-03 term-1-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 11,391,247 bytes). Grabbed file is exactly 11,391,247 bytes — verified match. PDF pages: 32. Verdict: COMPLETE (contents PDF p.3, activities for units 1–3 to printed p.30). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: The life cycle of the chicken (Jordan, Science, Grade 3, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 4 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 1):** Records (THREE records, one workbook, two editions): (a) TSV grade-04 term-1-workbook-nccd and books.json grade-04/gov/jordan/science/student/term-1-workbook-nccd.pdf (in_pushed, 7,095,725 bytes; grabbed exact) — revised edition, ISBN 978-9923-41-243-5, 42 printed pages, PDF 44 pp; (b) books.json grade-04/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,829,883 bytes; grabbed via tree, exact) — earlier edition, PDF 36 pp. Both editions' contents lists were read and compared: same units, same activities in the same order (pagination differs). Content placed ONCE, from the earlier edition's contents (printed pages below); the revised NCCD edition carries the same items at different pages. Verdict: COMPLETE in both editions (contents cover units 1–4; earlier edition to printed p.33, revised edition to printed p.42). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 310, 518); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Reproduction of the chickpea plant (Jordan, Science, Grade 4, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 12 |
+| Activity: Vegetative reproduction by bulbs (التكاثر الخضري بالأبصال) (Jordan, Science, Grade 4, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages (the duplicate filing assigned the same item to reproduction-and-life-cycles-of-plants-and-animals — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 13 |
+| Activity: The life cycle of the rabbit (Jordan, Science, Grade 4, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages (the duplicate filing assigned the same item to baby-animals-and-life-cycles — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 15 |
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 1):** Records: TSV grade-04-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-1.pdf (in_pushed, 53,874,620 bytes). Grabbed file is exactly 53,874,620 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الأول, publisher NCCD (National Center for Curriculum Development), © HarperCollins 2020, ministry approval 2020/120. PDF pages: 178. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 1 unit-for-unit (Classification of living things; Life cycles and relationships between living things; The human body and its health; Matter) with outcomes matrices, lesson steps, answers and formative checks; its pedagogy front matter is teaching method, not new science content. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T1 and Workbook T1 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on incomplete metamorphosis — the insect resembles the adult during its growth and passes through three stages (egg, nymph, adult insect), e.g. grasshopper, dragonfly and cockroaches, in contrast to complete metamorphosis (Jordan, Science, Grade 4, Teacher's Guide, Term 1) — placement filed as NEW LESSON NEEDED — life-cycles-reproduction-and-growth-stages | Jordan, *Science, Grade 4, Teacher's Guide, Term 1*, guide PDF p. 70 |
+
+**Acceptance count: taught in 18 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals life-cycles-of-plants-and-animals

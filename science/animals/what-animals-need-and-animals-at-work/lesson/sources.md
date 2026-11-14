@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea, Jordan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -562,3 +562,29 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 27 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Student Book, Term 1):** Records: TSV release grade-02 student term-1 is NOT in TSV list; books.json grade-02/gov/jordan/science/student/term-1.pdf, on_disk=true, in_pushed=true, size 21,556,599 bytes — verified: on-disk file is exactly 21,556,599 bytes. Same logical book as the minhaji source record. Title as printed: العلوم — الصف الثاني — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-238-1. PDF pages: 60. Verdict: COMPLETE (contents p.3, three units, glossary at printed p.59 = last content). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Needs of living organisms (food, water, air, shelter for animals and plants) (Jordan, Science, Grade 2, Student Book, Term 1) | Jordan, *Science, Grade 2, Student Book, Term 1*, printed p. 28 |
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 1):** Records: TWO records of the same workbook — TSV grade-01 term-1-workbook and books.json grade-01/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 8,196,713 bytes — verified exact on disk) plus a books.json NCCD-file variant term-1-workbook-nccd.pdf (9,485,167 bytes, different file, same printed book — see its own header below). Workbook mirrors Grade 1 Student Term 1 unit-for-unit; activities are the teaching items here. Title as printed: العلوم — الصف الأول — كتاب الأنشطة والتمارين — الفصل الدراسي الأول. Publisher NCCD. PDF pages: 36. Verdict: COMPLETE (contents p.3 lists all activities through printed p.34). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: What does a chick need in order to live? (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 20 |
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animal needs (Unit 2 L4) (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 41 |
+
+**Acceptance count: taught in 28 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals what-animals-need-and-animals-at-work

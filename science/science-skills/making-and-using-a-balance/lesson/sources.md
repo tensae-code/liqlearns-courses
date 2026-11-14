@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -329,3 +329,29 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, science-skills making-and-using-a-balance
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 2):** Records: books.json only — grade-02/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 3,543,694 bytes; grabbed via tree, exact size match). No TSV record. ISBN 978-9923-41-269-5, © HarperCollins 2020, NCCD. PDF pages: 30 (28 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Comparing the masses of different materials (Jordan, Science, Grade 2, Workbook, Term 2) | Jordan, *Science, Grade 2, Workbook, Term 2*, printed p. 21 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 1):** Records: TSV grade-03 term-1-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 11,391,247 bytes). Grabbed file is exactly 11,391,247 bytes — verified match. PDF pages: 32. Verdict: COMPLETE (contents PDF p.3, activities for units 1–3 to printed p.30). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Measuring the mass of bodies with a two-pan balance (Jordan, Science, Grade 3, Workbook, Term 1) | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 15 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 2):** Records: TSV grade-03 term-2-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,642,181 bytes). Grabbed file is exactly 7,642,181 bytes — verified match. PDF pages: 30. Verdict: COMPLETE (contents PDF p.3, activities for units 4–6 to printed p.27). Unit 4 activities serve the repeated matter unit (see Grade 3 Student Term 2 note) but are this workbook's own activities, placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Measuring the mass of bodies with a two-pan balance (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 6 |
+
+**Acceptance count: taught in 19 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, science-skills making-and-using-a-balance

@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -865,3 +865,41 @@ Searchable tags: nepal, curriculum development centre, our-environment/caring-fo
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, our-environment caring-for-our-environment-soil-water-and-air
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nature reserves (المحميات الطبيعية, Unit 3 L3; Jordan's own protected areas as the teaching frame) (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 64 |
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 1):** Records: TSV grade-03-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-1.pdf (in_pushed, 43,781,437 bytes). Grabbed file is exactly 43,781,437 bytes — verified match. PDF pages: 76. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.73). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Monitoring from space — ocean guards (satellites watching the environment) (Jordan, Science, Grade 3, Student Book, Term 1) | Jordan, *Science, Grade 3, Student Book, Term 1*, printed p. 29 |
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 1):** Records: TSV grade-05-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-1.pdf (in_pushed, 37,358,064 bytes). Grabbed file is exactly 37,358,064 bytes — verified match. PDF pages: 104. Verdict: COMPLETE (contents PDF pp.3–4, units 1–5, glossary printed p.102). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: The Royal Department for Environmental Protection (Jordan's environmental police) — Jordan's own institution as the teaching example (Jordan, Science, Grade 5, Student Book, Term 1) | Jordan, *Science, Grade 5, Student Book, Term 1*, printed p. 24 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 2):** Records: TSV grade-06-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-2.pdf (in_pushed, 67,512,641 bytes). Grabbed file is exactly 67,512,641 bytes — verified match. Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2021, ISBN 978-9923-41-278-7, ministry approval 2021/163, school year 2021/2022. PDF pages: 120. Verdict: COMPLETE (contents PDF pp. 3–4, units 5–9 continuing Term 1 numbering, glossary printed p. 117). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 566, 586); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: The health of ecosystems in my homeland (Jordan's own ecosystems as the teaching frame) (Jordan, Science, Grade 6, Student Book, Term 2) (the duplicate filing assigned the same item to our-environment/caring-for-our-environment-soil-water-and-air — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 2*, printed p. 22 |
+
+**Book (Jordan — Science, Grade 5, Teacher's Guide, Term 1):** Records: TSV grade-05-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-05/gov/jordan/science/teacher/term-1.pdf (in_pushed, 68,562,407 bytes). File in scratch is exactly 68,562,407 bytes — verified match (grabbed by an earlier reader; read and finished by this finisher reader). Cover/title page verified: العلوم — الصف الخامس — دليل المعلم — الفصل الدراسي الأول, publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-110-0, ministry approval 2020/121. PDF pages: 189. Verdict: COMPLETE. The guide mirrors Grade 5 Student Term 1 unit-for-unit (Ecosystems; The kingdoms of living things; Natural resources and energy; Chemical elements and compounds; Light and sound) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 5 Student T1 and Workbook T1 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on Jordan's nature reserves — protection initiatives began in 1965, the first reserve (Shaumari) was established in 1975, and there are now 10 wild nature reserves, 9 of them managed by the Royal Society for the Conservation of Nature, protecting all of Jordan's environments and its 13 vegetation patterns (Jordan, Science, Grade 5, Teacher's Guide, Term 1) | Jordan, *Science, Grade 5, Teacher's Guide, Term 1*, guide PDF p. 47 |
+
+**Acceptance count: taught in 42 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, our-environment caring-for-our-environment-soil-water-and-air

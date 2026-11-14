@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia, El Salvador, Libya
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia, El Salvador, Libya, Jordan
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -290,3 +290,35 @@ Placement choice, on the record: the Libya placement(s) above filed as earth-and
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space motions-of-the-earth-moon-and-sun
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 2):** Records: TSV grade-01 term-2-workbook (mid-size-books-5) and books.json grade-01/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 6,264,394 bytes; grabbed file exact match) plus books.json NCCD variant term-2-workbook-nccd.pdf (8,302,461 bytes, parallel file of same printed workbook — duplicate, see log). ISBN 978-9923-41-267-1, © HarperCollins 2020, NCCD. PDF pages: 42 (40 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: The Earth and the Sun (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 19 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: The movement of the Earth (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 10 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 1):** Records: books.json only — grade-07/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,380,795 bytes; grabbed via tree, exact match). No TSV record. ISBN 978-9923-41-249-7, © HarperCollins 2022, NCCD. PDF pages: 58 (56 printed). Verdict: COMPLETE (contents PDF p.4, experiments for units 1–5 to printed p.55). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 285, 675); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: Modelling the Earth's movement around the Sun (Jordan, Science, Grade 7, Workbook, Term 1) (the duplicate filing assigned the same item to earth-and-space/rotation-revolution-day-night-and-seasons — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 1*, printed p. 14 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Periodicity in the solar system (Unit 2 L2) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 40 |
+
+**Acceptance count: taught in 19 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space motions-of-the-earth-moon-and-sun

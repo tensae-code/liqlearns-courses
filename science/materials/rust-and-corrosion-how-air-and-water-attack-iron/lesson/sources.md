@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea, Jordan
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -261,3 +261,17 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 14 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 8, Workbook, Term 2):** Records: TSV titled "Science — Grade 8 Term 2 (Student Book)", file grade-08-gov-jordan-science-student-term-2.pdf (mid-size-books-2), and books.json grade-08/gov/jordan/science/student/term-2.pdf (in_pushed, 19,266,417 bytes). Grabbed file is exactly 19,266,417 bytes — verified match. RECORD TITLE MISMATCH: the cover shows this is the Activities and Exercises (workbook) book, not the student book; the books.json source URL likewise points to the activities book. No Grade 8 student book record exists in the targets; the Grade 8 student text itself is a library debt (see log). Title as printed: العلوم — الصف الثامن — كتاب الأنشطة والتمارين — الفصل الدراسي الثاني. Publisher NCCD. PDF pages: 64. Verdict: COMPLETE (contents PDF p.3, experiments for units 5–9 to printed p.63). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 730, 831); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scientific inquiry: Factors in the rusting of iron (Jordan, Science, Grade 8, Workbook, Term 2) | Jordan, *Science, Grade 8, Workbook, Term 2*, printed p. 37 |
+
+**Acceptance count: taught in 15 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials rust-and-corrosion-how-air-and-water-attack-iron

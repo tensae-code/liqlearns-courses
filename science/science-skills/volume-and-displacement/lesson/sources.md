@@ -1,6 +1,6 @@
 # Sources — Measuring: volume and displacement
 
-countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, China, Indonesia, Bangladesh, Yemen, Vietnam, Papua New Guinea, Libya
+countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, China, Indonesia, Bangladesh, Yemen, Vietnam, Papua New Guinea, Libya, Jordan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -191,3 +191,17 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, science-skills volume-and-displacement
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 1):** Records (THREE records, one workbook, two editions): (a) TSV grade-04 term-1-workbook-nccd and books.json grade-04/gov/jordan/science/student/term-1-workbook-nccd.pdf (in_pushed, 7,095,725 bytes; grabbed exact) — revised edition, ISBN 978-9923-41-243-5, 42 printed pages, PDF 44 pp; (b) books.json grade-04/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,829,883 bytes; grabbed via tree, exact) — earlier edition, PDF 36 pp. Both editions' contents lists were read and compared: same units, same activities in the same order (pagination differs). Content placed ONCE, from the earlier edition's contents (printed pages below); the revised NCCD edition carries the same items at different pages. Verdict: COMPLETE in both editions (contents cover units 1–4; earlier edition to printed p.33, revised edition to printed p.42). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 310, 518); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Measuring the volume of a body (Jordan, Science, Grade 4, Workbook, Term 1) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 30 |
+
+**Acceptance count: taught in 15 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, science-skills volume-and-displacement

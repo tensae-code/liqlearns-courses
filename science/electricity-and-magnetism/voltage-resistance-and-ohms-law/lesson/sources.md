@@ -1,6 +1,6 @@
 # Sources — Voltage, resistance and Ohm's law — V = IR
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka, El Salvador, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka, El Salvador, Papua New Guinea (teacher-guide evidence only), Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -110,3 +110,17 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 9 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moving electricity (electric current) (Unit 8 L2) (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to electricity-and-magnetism/circuits-source-load-wires-open-and-closed — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 69 |
+
+**Acceptance count: taught in 10 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, electricity-and-magnetism voltage-resistance-and-ohms-law

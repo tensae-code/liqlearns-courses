@@ -1,6 +1,6 @@
 # Sources — Sedimentary rocks and how they form
 
-countries: Haiti, Mauritania, Papua New Guinea
+countries: Haiti, Mauritania, Papua New Guinea, Jordan
 
 **Book 1:** *Géologie — La formation des roches sédimentaires (8e, séquence)* (teaching sequence) — Haiti, Canoprof/Nectar sequence, Creative Commons. PDF 14 pages. Verdict: COMPLETE. Earth-science content of the SVT strand — placed here. Page numbers are the document's own printed pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/haiti-placements.md.
 
@@ -71,3 +71,17 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 Placement choice, on the record: the Papua New Guinea placements filed 7 of these rows as "NEW LESSON NEEDED — strata-and-sedimentary-rock" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 1):** Records: books.json only — grade-07/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,380,795 bytes; grabbed via tree, exact match). No TSV record. ISBN 978-9923-41-249-7, © HarperCollins 2022, NCCD. PDF pages: 58 (56 printed). Verdict: COMPLETE (contents PDF p.4, experiments for units 1–5 to printed p.55). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 285, 675); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Modelling sedimentary layers in nature (Jordan, Science, Grade 7, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — rocks-and-the-rock-record (the duplicate filing assigned the same item to sedimentary-rocks-layers-and-fossils — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 1*, printed p. 4 |
+
+**Acceptance count: taught in 4 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space sedimentary-rocks-and-how-they-form

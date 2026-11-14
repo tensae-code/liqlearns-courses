@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Vietnam, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Vietnam, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -408,3 +408,17 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space the-sun-scale-layers-spots-and-storms
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Student Book, Term 1):** Records: TSV release grade-02 student term-1 is NOT in TSV list; books.json grade-02/gov/jordan/science/student/term-1.pdf, on_disk=true, in_pushed=true, size 21,556,599 bytes — verified: on-disk file is exactly 21,556,599 bytes. Same logical book as the minhaji source record. Title as printed: العلوم — الصف الثاني — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-238-1. PDF pages: 60. Verdict: COMPLETE (contents p.3, three units, glossary at printed p.59 = last content). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Sun is a nearby star (sun as a star, its light and heat) (Jordan, Science, Grade 2, Student Book, Term 1) | Jordan, *Science, Grade 2, Student Book, Term 1*, printed p. 52 |
+
+**Acceptance count: taught in 26 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space the-sun-scale-layers-spots-and-storms

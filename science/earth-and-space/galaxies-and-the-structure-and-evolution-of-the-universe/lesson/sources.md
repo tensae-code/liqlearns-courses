@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Jordan
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -284,3 +284,24 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 15 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 2):** Records: books.json only — grade-06/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 5,034,852 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 5–9 to printed p.45). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 381, 651); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Modelling galaxies (Jordan, Science, Grade 6, Workbook, Term 2) (the duplicate filing assigned the same item to earth-and-space/galaxies-and-the-structure-and-evolution-of-the-universe — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 39 |
+| Activity: The position of the solar system in the Milky Way galaxy (Jordan, Science, Grade 6, Workbook, Term 2) (the duplicate filing assigned the same item to earth-and-space/galaxies-and-the-structure-and-evolution-of-the-universe — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 41 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 2):** Records: TSV grade-06-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-2.pdf (in_pushed, 67,512,641 bytes). Grabbed file is exactly 67,512,641 bytes — verified match. Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2021, ISBN 978-9923-41-278-7, ministry approval 2021/163, school year 2021/2022. PDF pages: 120. Verdict: COMPLETE (contents PDF pp. 3–4, units 5–9 continuing Term 1 numbering, glossary printed p. 117). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 566, 586); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Galaxies (Unit 9 L1) (Jordan, Science, Grade 6, Student Book, Term 2) (the duplicate filing assigned the same item to earth-and-space/galaxies-and-the-structure-and-evolution-of-the-universe — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 2*, printed p. 100 |
+
+**Acceptance count: taught in 16 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe

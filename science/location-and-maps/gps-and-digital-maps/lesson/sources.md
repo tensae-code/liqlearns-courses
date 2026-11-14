@@ -1,6 +1,6 @@
 # Sources — GPS and Digital Maps
 
-countries: Ethiopia, Sudan, Indonesia, Malaysia, El Salvador, Nepal
+countries: Ethiopia, Sudan, Indonesia, Malaysia, El Salvador, Nepal, Jordan
 
 **Book 1:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል — Environmental Science Student Textbook, Grade 5* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md
 
@@ -96,3 +96,17 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, location-a
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, location-and-maps/gps-and-digital-maps
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 2):** Records: TSV grade-03-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-2.pdf (in_pushed, 52,698,916 bytes). Grabbed file is exactly 52,698,916 bytes — verified match. PDF pages: 78. Verdict: COMPLETE (contents PDF p.3, units 4–6, glossary printed p.76). NOTE: Unit 4 of this book repeats Grade 3 Term 1 Unit 2 lesson-for-lesson (Matter and its states, printed p. 10; Pure substances and mixtures, printed p. 18; smart air-purification enrichment, printed p. 23 — same titles, same order); per the dedupe rule its content is placed ONCE, from Term 1 above, and is not re-placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: The Global Positioning System (GPS) (Jordan, Science, Grade 3, Student Book, Term 2) | Jordan, *Science, Grade 3, Student Book, Term 2*, printed p. 46 |
+
+**Acceptance count: taught in 7 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, location-and-maps gps-and-digital-maps

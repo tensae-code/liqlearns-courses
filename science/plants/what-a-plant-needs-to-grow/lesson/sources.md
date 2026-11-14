@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -838,3 +838,48 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, plants what-a-plant-needs-to-grow
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 1):** Records: TWO records of the same workbook — TSV grade-01 term-1-workbook and books.json grade-01/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 8,196,713 bytes — verified exact on disk) plus a books.json NCCD-file variant term-1-workbook-nccd.pdf (9,485,167 bytes, different file, same printed book — see its own header below). Workbook mirrors Grade 1 Student Term 1 unit-for-unit; activities are the teaching items here. Title as printed: العلوم — الصف الأول — كتاب الأنشطة والتمارين — الفصل الدراسي الأول. Publisher NCCD. PDF pages: 36. Verdict: COMPLETE (contents p.3 lists all activities through printed p.34). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Does a plant need light? (fair-test style plant/light activity) (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 18 |
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 1):** Records: TSV grade-02 term-1-workbook (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 4,364,289 bytes — verified exact on disk). Same printed workbook. PDF pages: 28. Verdict: COMPLETE (contents PDF p.3, activities for all three Term-1 units, exercises to printed p.25+). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Plants grow and change (Jordan, Science, Grade 2, Workbook, Term 1) | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 4 |
+| Activity: The effect of different environments on plant growth (Jordan, Science, Grade 2, Workbook, Term 1) | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 13 |
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Plant needs (Unit 2 L2) (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 33 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 2):** Records: TSV grade-07 term-2-workbook (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,048,725 bytes). Grabbed file is exactly 7,048,725 bytes — verified match. PDF pages: 60. Verdict: COMPLETE (contents PDF p.3, experiments for units 6–10 to printed p.59). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 706, 770); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scientific inquiry: The effect of light on the size of plant leaves (Jordan, Science, Grade 7, Workbook, Term 2) (the duplicate filing assigned the same item to plants/what-a-plant-needs-to-grow — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 48 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scientific inquiry: The effect of light on the size of plant leaves (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to plants/what-a-plant-needs-to-grow — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 107 |
+
+**Book (Jordan — Science, Grade 1, Teacher's Guide, Term 1):** Records: TSV grade-01-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-01/gov/jordan/science/teacher/term-1.pdf (in_pushed, 39,881,162 bytes). Grabbed file is exactly 39,881,162 bytes — verified match. A third record, books.json term-1-nccd.pdf (43,765,498 bytes), is the same guide from the NCCD site (parallel file; see log). PDF pages: 116. Verdict: COMPLETE. The guide mirrors Grade 1 Student Term 1 unit-for-unit (Humans and health; Plants and animals; Habitats) with outcomes matrices, lesson steps, answers and formative checks; its pedagogy front matter (assessment, skills, differentiation, technology, STEAM links) is teaching method, not new science content. Guide-evidence placements below are the guide's own added explanations; the guide also carries answers/explanations for every Grade 1 Student T1 and Workbook T1 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guided discussion of why a plant needs water (expected answers supplied) (Jordan, Science, Grade 1, Teacher's Guide, Term 1) | Jordan, *Science, Grade 1, Teacher's Guide, Term 1*, guide PDF p. 54 |
+
+**Acceptance count: taught in 37 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, plants what-a-plant-needs-to-grow

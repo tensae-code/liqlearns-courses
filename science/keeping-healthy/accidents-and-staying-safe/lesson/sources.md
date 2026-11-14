@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -774,3 +774,31 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/accidents-and-staying-safe
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 2):** Records: TSV grade-03-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-2.pdf (in_pushed, 52,698,916 bytes). Grabbed file is exactly 52,698,916 bytes — verified match. PDF pages: 78. Verdict: COMPLETE (contents PDF p.3, units 4–6, glossary printed p.76). NOTE: Unit 4 of this book repeats Grade 3 Term 1 Unit 2 lesson-for-lesson (Matter and its states, printed p. 10; Pure substances and mixtures, printed p. 18; smart air-purification enrichment, printed p. 23 — same titles, same order); per the dedupe rule its content is placed ONCE, from Term 1 above, and is not re-placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Dangers around us (Unit 6 L1) (Jordan, Science, Grade 3, Student Book, Term 2) | Jordan, *Science, Grade 3, Student Book, Term 2*, printed p. 52 |
+| How do I avoid dangers? (Unit 6 L2) (Jordan, Science, Grade 3, Student Book, Term 2) | Jordan, *Science, Grade 3, Student Book, Term 2*, printed p. 63 |
+| Enrichment: An invention that saves deaf people from fire (safety technology) (Jordan, Science, Grade 3, Student Book, Term 2) | Jordan, *Science, Grade 3, Student Book, Term 2*, printed p. 71 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 2):** Records: TSV grade-03 term-2-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,642,181 bytes). Grabbed file is exactly 7,642,181 bytes — verified match. PDF pages: 30. Verdict: COMPLETE (contents PDF p.3, activities for units 4–6 to printed p.27). Unit 4 activities serve the repeated matter unit (see Grade 3 Student Term 2 note) but are this workbook's own activities, placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Sources of danger (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 24 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 1):** Records: TSV grade-06-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1.pdf (in_pushed, 52,865,907 bytes). File in scratch is exactly 52,865,907 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-247-3, ministry approval 2021/105, school year 2021/2022. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 1–4, glossary printed p. 104). Unit 2 (Matter: atoms and molecules, ions and compounds) — pure Chemistry chapter, already covered by the Chemistry wave — not placed here. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 459, 498); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Ways of transporting the injured (Jordan, Science, Grade 6, Student Book, Term 1) | Jordan, *Science, Grade 6, Student Book, Term 1*, printed p. 74 |
+
+**Acceptance count: taught in 30 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy accidents-and-staying-safe

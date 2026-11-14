@@ -1,6 +1,6 @@
 # Sources — Plants and wild animals as resources
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Jordan
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -149,3 +149,17 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 7 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living natural resources (Unit 10 L1) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 78 |
+
+**Acceptance count: taught in 8 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, natural-resources plants-and-wild-animals-as-resources

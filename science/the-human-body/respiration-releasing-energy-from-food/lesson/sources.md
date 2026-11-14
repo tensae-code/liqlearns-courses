@@ -1,6 +1,6 @@
 # Sources — Cells — respiration: releasing energy from food
 
-countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka, Indonesia, Yemen, Nicaragua, South Sudan, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Libya
+countries: Ethiopia, Afghanistan, Venezuela, Kuwait, Syria, Sri Lanka, Indonesia, Yemen, Nicaragua, South Sudan, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -236,3 +236,17 @@ Placement choice, on the record: the Libya placement(s) above filed as how-livin
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body respiration-releasing-energy-from-food
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 2):** Records: TSV grade-05-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-2.pdf (in_pushed, 95,904,273 bytes). File in scratch is exactly 95,904,273 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف الخامس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-272-5, ministry approval 2020/163, school year 2020/2021. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 6–10 continuing Term 1 numbering, glossary printed p. 103). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 438, 477); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Obtaining energy from food (Jordan, Science, Grade 5, Student Book, Term 2) (the duplicate filing assigned the same item to the-human-body/respiration-releasing-energy-from-food — taught once, here) | Jordan, *Science, Grade 5, Student Book, Term 2*, printed p. 20 |
+
+**Acceptance count: taught in 14 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body respiration-releasing-energy-from-food

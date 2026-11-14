@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia, Malaysia, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -502,3 +502,50 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 25 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 2):** Records: TSV grade-01-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-2.pdf (in_pushed, 20,241,736 bytes). Grabbed file is exactly 20,241,736 bytes — verified match. ISBN 978-9923-41-276-3, © HarperCollins 2020, NCCD. PDF pages: 74 (72 printed). Verdict: COMPLETE (contents PDF p.4, units 4–6, glossary printed p.69). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rocks in our life (uses of rocks, Unit 5 L3) (Jordan, Science, Grade 1, Student Book, Term 2) | Jordan, *Science, Grade 1, Student Book, Term 2*, printed p. 38 |
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Buried treasures in computer devices (metals recovered from e-waste) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 93 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Distinguishing the minerals that rocks are made of (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 40 |
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 2):** Records: TSV grade-05-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-2.pdf (in_pushed, 95,904,273 bytes). File in scratch is exactly 95,904,273 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف الخامس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-272-5, ministry approval 2020/163, school year 2020/2021. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 6–10 continuing Term 1 numbering, glossary printed p. 103). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 438, 477); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Natron salts (أملاح النطرون, a natural salt resource) (Jordan, Science, Grade 5, Student Book, Term 2) | Jordan, *Science, Grade 5, Student Book, Term 2*, printed p. 62 |
+
+**Book (Jordan — Earth and Environment Sciences, Grade 9, Student Book, Term 1):** Records: the TSV record titled "Science — Grade 9 Term 1 (Student Book)", file grade-09-gov-jordan-earth-science-student-term-1.pdf (mid-size-books-2) — 19,348,259 bytes grabbed. This is a DIFFERENT book from the books.json Grade 9 Term 1 record (term-1.pdf, 90,976,860 bytes), which is the Grade 9 Life Science student book (see its own record-only entry below): at Grade 9 Jordan splits science into separate subject books. Cover verified: علوم الأرض والبيئة — Earth and Environment Sciences. Publisher NCCD. PDF pages: 68. Verdict: COMPLETE (contents PDF p.4, units 1–2, glossary printed p.61, references p.64). Placed in this wave because Earth/environment is the general course's earth strand and was not covered by the Physics/Chemistry/Biology waves. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 757, 882); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introductory experiment: Properties of minerals (Jordan, Earth and Environment Sciences, Grade 9, Student Book, Term 1) (the duplicate filing assigned the same item to natural-resources/minerals-from-the-ground — taught once, here) | Jordan, *Earth and Environment Sciences, Grade 9, Student Book, Term 1*, printed p. 9 |
+| Minerals and their crystal systems (Unit 1 L1) (Jordan, Earth and Environment Sciences, Grade 9, Student Book, Term 1) (the duplicate filing assigned the same item to minerals-and-their-crystal-systems — taught once, here) | Jordan, *Earth and Environment Sciences, Grade 9, Student Book, Term 1*, printed p. 10 |
+| Mineral groups (Unit 1 L2) (Jordan, Earth and Environment Sciences, Grade 9, Student Book, Term 1) (the duplicate filing assigned the same item to natural-resources/minerals-from-the-ground — taught once, here) | Jordan, *Earth and Environment Sciences, Grade 9, Student Book, Term 1*, printed p. 25 |
+| Enrichment: Gemstones (الأحجار الكريمة) (Jordan, Earth and Environment Sciences, Grade 9, Student Book, Term 1) (the duplicate filing assigned the same item to natural-resources/minerals-from-the-ground — taught once, here) | Jordan, *Earth and Environment Sciences, Grade 9, Student Book, Term 1*, printed p. 36 |
+
+**Book (Jordan — Science, Grade 1, Teacher's Guide, Term 2):** Records: TSV grade-01-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-01/gov/jordan/science/teacher/term-2.pdf (in_pushed, 29,075,103 bytes). Grabbed file is exactly 29,075,103 bytes — verified match. A third record, books.json term-2-nccd.pdf (40,788,124 bytes), is the same guide from the NCCD site (parallel file; see log). PDF pages: 116. Verdict: COMPLETE. Mirrors Grade 1 Student Term 2 (Movement and force; Earth and space; Matter in our world) with outcomes, answers and checks; guide also carries answers for the Term 2 workbook items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guided discussion "What are rocks and sand used for?" with expected answers (Jordan, Science, Grade 1, Teacher's Guide, Term 2) | Jordan, *Science, Grade 1, Teacher's Guide, Term 2*, guide PDF p. 42 |
+
+**Acceptance count: taught in 26 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, natural-resources minerals-from-the-ground

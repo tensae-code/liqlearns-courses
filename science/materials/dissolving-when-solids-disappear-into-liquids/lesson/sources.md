@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, China, Syria, North Macedonia, Saudi Arabia
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, China, Syria, North Macedonia, Saudi Arabia, Jordan
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -199,3 +199,17 @@ Placement choice, on the record: the Saudi Arabia placement(s) above filed as "N
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials dissolving-when-solids-disappear-into-liquids
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 1):** Records: books.json only — grade-07/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,380,795 bytes; grabbed via tree, exact match). No TSV record. ISBN 978-9923-41-249-7, © HarperCollins 2022, NCCD. PDF pages: 58 (56 printed). Verdict: COMPLETE (contents PDF p.4, experiments for units 1–5 to printed p.55). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 285, 675); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: The concept of dissolving (Jordan, Science, Grade 7, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — solutions-and-saturation | Jordan, *Science, Grade 7, Workbook, Term 1*, printed p. 37 |
+
+**Acceptance count: taught in 12 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials dissolving-when-solids-disappear-into-liquids

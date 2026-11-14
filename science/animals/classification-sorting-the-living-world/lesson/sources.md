@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania, Dominican Republic, Kuwait, China, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -590,3 +590,49 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, animals classification-sorting-the-living-world
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 1):** Records: TSV grade-04-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-1.pdf (in_pushed, 24,724,101 bytes). Grabbed file is exactly 24,724,101 bytes — verified match. PDF pages: 88. Verdict: COMPLETE (contents PDF pp.3–4, units 1–4, glossary printed p.85). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classification (Unit 1 L1) (Jordan, Science, Grade 4, Student Book, Term 1) | Jordan, *Science, Grade 4, Student Book, Term 1*, printed p. 10 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 1):** Records: books.json only — grade-07/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,380,795 bytes; grabbed via tree, exact match). No TSV record. ISBN 978-9923-41-249-7, © HarperCollins 2022, NCCD. PDF pages: 58 (56 printed). Verdict: COMPLETE (contents PDF p.4, experiments for units 1–5 to printed p.55). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 285, 675); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: A classification key for living organisms (Jordan, Science, Grade 7, Workbook, Term 1) (the duplicate filing assigned the same item to animals/classification-sorting-the-living-world — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 1*, printed p. 20 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 1):** Records (THREE records, one workbook, two editions): (a) TSV grade-04 term-1-workbook-nccd and books.json grade-04/gov/jordan/science/student/term-1-workbook-nccd.pdf (in_pushed, 7,095,725 bytes; grabbed exact) — revised edition, ISBN 978-9923-41-243-5, 42 printed pages, PDF 44 pp; (b) books.json grade-04/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,829,883 bytes; grabbed via tree, exact) — earlier edition, PDF 36 pp. Both editions' contents lists were read and compared: same units, same activities in the same order (pagination differs). Content placed ONCE, from the earlier edition's contents (printed pages below); the revised NCCD edition carries the same items at different pages. Verdict: COMPLETE in both editions (contents cover units 1–4; earlier edition to printed p.33, revised edition to printed p.42). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 310, 518); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Classifying buttons (modelling how living things are classified) (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to animals/classification-sorting-the-living-world — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 4 |
+| Activity: The puzzle animal (identifying an animal from its features) (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to animals/animals-what-makes-an-animal — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 5 |
+| Activity: Classifying living organisms (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to animals/classification-sorting-the-living-world — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 6 |
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 1):** Records: books.json only — grade-05/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 3,350,048 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–5 to printed p.48). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 332, 409); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Modelling animals (grouping by features) (Jordan, Science, Grade 5, Workbook, Term 1) (the duplicate filing assigned the same item to animals/classification-sorting-the-living-world — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 16 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The science of classification (Unit 3 L1) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 56 |
+
+**Book (Jordan — Science, Grade 5, Teacher's Guide, Term 1):** Records: TSV grade-05-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-05/gov/jordan/science/teacher/term-1.pdf (in_pushed, 68,562,407 bytes). File in scratch is exactly 68,562,407 bytes — verified match (grabbed by an earlier reader; read and finished by this finisher reader). Cover/title page verified: العلوم — الصف الخامس — دليل المعلم — الفصل الدراسي الأول, publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-110-0, ministry approval 2020/121. PDF pages: 189. Verdict: COMPLETE. The guide mirrors Grade 5 Student Term 1 unit-for-unit (Ecosystems; The kingdoms of living things; Natural resources and energy; Chemical elements and compounds; Light and sound) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 5 Student T1 and Workbook T1 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight that the animal kingdom is classified into 16 phyla, 15 of them invertebrate phyla, while the vertebrates belong to the sixteenth phylum, the chordates (Jordan, Science, Grade 5, Teacher's Guide, Term 1) | Jordan, *Science, Grade 5, Teacher's Guide, Term 1*, guide PDF p. 66 |
+
+**Acceptance count: taught in 28 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals classification-sorting-the-living-world

@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, South Sudan, Nepal, Papua New Guinea
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, South Sudan, Nepal, Papua New Guinea, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -575,3 +575,17 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 27 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 2):** Records: TSV grade-05-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-2.pdf (in_pushed, 95,904,273 bytes). File in scratch is exactly 95,904,273 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف الخامس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-272-5, ministry approval 2020/163, school year 2020/2021. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 6–10 continuing Term 1 numbering, glossary printed p. 103). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 438, 477); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Weather forecasting (التنبؤات الجوية) (Jordan, Science, Grade 5, Student Book, Term 2) (the duplicate filing assigned the same item to weather-and-seasons/weather-and-climate, weather-and-seasons/todays-weather — taught once, here) | Jordan, *Science, Grade 5, Student Book, Term 2*, printed p. 100 |
+
+**Acceptance count: taught in 28 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, weather-and-seasons todays-weather

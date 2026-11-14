@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Libya
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Libya, Jordan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -526,3 +526,23 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body the-brain
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 2):** Records: TSV grade-05-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-2.pdf (in_pushed, 95,904,273 bytes). File in scratch is exactly 95,904,273 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف الخامس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-272-5, ministry approval 2020/163, school year 2020/2021. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 6–10 continuing Term 1 numbering, glossary printed p. 103). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 438, 477); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The nervous system and the sense organs (Unit 7 L1) (Jordan, Science, Grade 5, Student Book, Term 2) | Jordan, *Science, Grade 5, Student Book, Term 2*, printed p. 26 |
+
+**Book (Jordan — Science, Grade 2, Teacher's Guide, Term 2):** Records: TSV grade-02-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-02/gov/jordan/science/teacher/term-2.pdf (in_pushed, 10,567,009 bytes). Grabbed file is exactly 10,567,009 bytes — verified match, so the library copy itself is this short file. PDF pages: 34. Verdict: PARTIAL — the file contains ONLY Unit 4 (The human body and its health) of the Term 2 guide: outcomes matrix, the unit's lessons, unit review, a worksheet appendix and workbook answers for Unit 4 only. Units 5 (Sound and light) and 6 (Matter) are missing. The title page also misprints the term as "Term 1" while all content is the Term 2 Unit 4. Guide evidence below covers the unit that is present. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 934, 964); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: common-error note separating mind (non-material, thinking) from brain (the material structure inside the skull that organises the body's processes and activities) (Jordan, Science, Grade 2, Teacher's Guide, Term 2) | Jordan, *Science, Grade 2, Teacher's Guide, Term 2*, guide PDF p. 11 |
+
+**Acceptance count: taught in 31 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body the-brain

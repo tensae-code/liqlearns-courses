@@ -1,6 +1,6 @@
 # Sources — Measuring the too-big and the too-small
 
-countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan, Samoa, Indonesia, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan, Samoa, Indonesia, Papua New Guinea (teacher-guide evidence only), Jordan
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -67,3 +67,17 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 4 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 1):** Records: TSV grade-02 term-1-workbook (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 4,364,289 bytes — verified exact on disk). Same printed workbook. PDF pages: 28. Verdict: COMPLETE (contents PDF p.3, activities for all three Term-1 units, exercises to printed p.25+). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: The effect of distance on the apparent size of things (Jordan, Science, Grade 2, Workbook, Term 1) | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 22 |
+
+**Acceptance count: taught in 5 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space measuring-the-too-big-and-the-too-small

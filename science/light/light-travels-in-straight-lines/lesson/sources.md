@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia, Saudi Arabia, Vietnam, Malaysia, Colombia, Nepal, Papua New Guinea, Libya
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab), Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia, Saudi Arabia, Vietnam, Malaysia, Colombia, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -530,3 +530,41 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, light light-travels-in-straight-lines
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 2):** Records: TSV grade-04-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2.pdf (in_pushed, 51,216,775 bytes). Grabbed file is exactly 51,216,775 bytes — verified match. PDF pages: 102. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10 as printed — the book's own numbering continues from Term 1, glossary printed p.98). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Properties of light (Unit 6 L1) (Jordan, Science, Grade 4, Student Book, Term 2) | Jordan, *Science, Grade 4, Student Book, Term 2*, printed p. 10 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Light travels in straight lines (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 4 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 2):** Records: TSV grade-07 term-2-workbook (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,048,725 bytes). Grabbed file is exactly 7,048,725 bytes — verified match. PDF pages: 60. Verdict: COMPLETE (contents PDF p.3, experiments for units 6–10 to printed p.59). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 706, 770); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scientific inquiry: Controlling the path of light (Jordan, Science, Grade 7, Workbook, Term 2) (the duplicate filing assigned the same item to light/light-travels-in-straight-lines — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 23 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scientific inquiry: Controlling the path of light (Jordan, Science, Grade 7, Student Book, Term 2) (the duplicate filing assigned the same item to light/light-travels-in-straight-lines — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 53 |
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 2):** Records: TSV grade-04-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-2.pdf (in_pushed, 43,009,628 bytes). Grabbed file is exactly 43,009,628 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الثاني, publisher NCCD, © HarperCollins 2020. PDF pages: 164. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 2 unit-for-unit (Light; Earth and space; Force and energy; Electric circuits; Natural resources) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T2 and Workbook T2 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight that light is a form of energy spreading from its source in all directions in straight lines, travelling in vacuum/air at 300,000 km per second — covering the Sun–Earth distance in about 8 minutes — and slower in transparent material media such as glass (Jordan, Science, Grade 4, Teacher's Guide, Term 2) | Jordan, *Science, Grade 4, Teacher's Guide, Term 2*, guide PDF p. 10 |
+
+**Acceptance count: taught in 39 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light light-travels-in-straight-lines

@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia (teacher-guide evidence only), Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Nepal, Libya
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia (teacher-guide evidence only), Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -741,3 +741,115 @@ Searchable tags: nepal, curriculum development centre, science-skills/skills-of-
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 1):** Records: TWO records of the same workbook — TSV grade-01 term-1-workbook and books.json grade-01/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 8,196,713 bytes — verified exact on disk) plus a books.json NCCD-file variant term-1-workbook-nccd.pdf (9,485,167 bytes, different file, same printed book — see its own header below). Workbook mirrors Grade 1 Student Term 1 unit-for-unit; activities are the teaching items here. Title as printed: العلوم — الصف الأول — كتاب الأنشطة والتمارين — الفصل الدراسي الأول. Publisher NCCD. PDF pages: 36. Verdict: COMPLETE (contents p.3 lists all activities through printed p.34). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: classification (sorting similar things into groups) (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 10 |
+| Science skill: comparison (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 22 |
+| Science skill: observation (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 33 |
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 1):** Records: TSV grade-02 term-1-workbook (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 4,364,289 bytes — verified exact on disk). Same printed workbook. PDF pages: 28. Verdict: COMPLETE (contents PDF p.3, activities for all three Term-1 units, exercises to printed p.25+). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: communication (Jordan, Science, Grade 2, Workbook, Term 1) | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 8 |
+| Science skill: interpreting data (Jordan, Science, Grade 2, Workbook, Term 1) | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 15 |
+| Science skill: observation (Jordan, Science, Grade 2, Workbook, Term 1) | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 23 |
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 2):** Records: books.json only — grade-02/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 3,543,694 bytes; grabbed via tree, exact size match). No TSV record. ISBN 978-9923-41-269-5, © HarperCollins 2020, NCCD. PDF pages: 30 (28 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: prediction (Jordan, Science, Grade 2, Workbook, Term 2) | Jordan, *Science, Grade 2, Workbook, Term 2*, printed p. 7 |
+| Science skill: drawing conclusions (Jordan, Science, Grade 2, Workbook, Term 2) | Jordan, *Science, Grade 2, Workbook, Term 2*, printed p. 16 |
+| Science skill: classification (Jordan, Science, Grade 2, Workbook, Term 2) | Jordan, *Science, Grade 2, Workbook, Term 2*, printed p. 23 |
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 2):** Records: TSV grade-01 term-2-workbook (mid-size-books-5) and books.json grade-01/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 6,264,394 bytes; grabbed file exact match) plus books.json NCCD variant term-2-workbook-nccd.pdf (8,302,461 bytes, parallel file of same printed workbook — duplicate, see log). ISBN 978-9923-41-267-1, © HarperCollins 2020, NCCD. PDF pages: 42 (40 printed). Verdict: COMPLETE (contents PDF p.4, activities for units 4–6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: comparison (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 11 |
+| Science skill: interpreting data (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 25 |
+| Science skill: prediction (Jordan, Science, Grade 1, Workbook, Term 2) | Jordan, *Science, Grade 1, Workbook, Term 2*, printed p. 34 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 1):** Records: TSV grade-03 term-1-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 11,391,247 bytes). Grabbed file is exactly 11,391,247 bytes — verified match. PDF pages: 32. Verdict: COMPLETE (contents PDF p.3, activities for units 1–3 to printed p.30). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Classification (Jordan, Science, Grade 3, Workbook, Term 1) | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 7 |
+| Science skill: Measurement (Jordan, Science, Grade 3, Workbook, Term 1) | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 19 |
+| Science skill: Observation (Jordan, Science, Grade 3, Workbook, Term 1) | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 29 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 2):** Records: TSV grade-03 term-2-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,642,181 bytes). Grabbed file is exactly 7,642,181 bytes — verified match. PDF pages: 30. Verdict: COMPLETE (contents PDF p.3, activities for units 4–6 to printed p.27). Unit 4 activities serve the repeated matter unit (see Grade 3 Student Term 2 note) but are this workbook's own activities, placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Measurement (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 10 |
+| Science skill: Designing a model (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 19 |
+| Science skill: Communication (Jordan, Science, Grade 3, Workbook, Term 2) | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 26 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 2):** Records: TSV grade-04 term-2-workbook (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 8,697,243 bytes). Grabbed file is exactly 8,697,243 bytes — verified match. PDF pages: 42. Verdict: COMPLETE (contents PDF p.3, activities for units 6–10 to printed p.42). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Classification (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 7 |
+| Science skill: Making models (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 15 |
+| Science skill: Communication (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 23 |
+| Science skill: Analysing data (Jordan, Science, Grade 4, Workbook, Term 2) | Jordan, *Science, Grade 4, Workbook, Term 2*, printed p. 41 |
+
+**Book (Jordan — Science, Grade 4, Workbook, Term 1):** Records (THREE records, one workbook, two editions): (a) TSV grade-04 term-1-workbook-nccd and books.json grade-04/gov/jordan/science/student/term-1-workbook-nccd.pdf (in_pushed, 7,095,725 bytes; grabbed exact) — revised edition, ISBN 978-9923-41-243-5, 42 printed pages, PDF 44 pp; (b) books.json grade-04/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 4,829,883 bytes; grabbed via tree, exact) — earlier edition, PDF 36 pp. Both editions' contents lists were read and compared: same units, same activities in the same order (pagination differs). Content placed ONCE, from the earlier edition's contents (printed pages below); the revised NCCD edition carries the same items at different pages. Verdict: COMPLETE in both editions (contents cover units 1–4; earlier edition to printed p.33, revised edition to printed p.42). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 310, 518); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Classification (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 8 |
+| Science skill: Making models (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 19 |
+| Science skill: Collecting data (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 27 |
+| Science skill: Prediction (Jordan, Science, Grade 4, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 4, Workbook, Term 1*, printed p. 32 |
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 1):** Records: books.json only — grade-05/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 3,350,048 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–5 to printed p.48). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 332, 409); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill page, Unit 1 (skill name not printed in the contents list) (Jordan, Science, Grade 5, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 10 |
+| Science skill page, Unit 2 (Jordan, Science, Grade 5, Workbook, Term 1) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 19 |
+| Science skill page, Unit 3 (Jordan, Science, Grade 5, Workbook, Term 1) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 29 |
+| Science skill page, Unit 4 (Jordan, Science, Grade 5, Workbook, Term 1) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 37 |
+| Science skill page, Unit 5 (Jordan, Science, Grade 5, Workbook, Term 1) | Jordan, *Science, Grade 5, Workbook, Term 1*, printed p. 46 |
+
+**Book (Jordan — Science, Grade 5, Workbook, Term 2):** Records: books.json only — grade-05/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 2,752,038 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 46. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 6–10 to printed p.45). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 356, 541); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Classification (Jordan, Science, Grade 5, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 2*, printed p. 10 |
+| Science skill: Observation (Jordan, Science, Grade 5, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 2*, printed p. 18 |
+| Science skill: Inference (Jordan, Science, Grade 5, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 2*, printed p. 27 |
+| Science skill: Analysing data (Jordan, Science, Grade 5, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 5, Workbook, Term 2*, printed p. 36 |
+| Science skill: Inference (Jordan, Science, Grade 5, Workbook, Term 2) | Jordan, *Science, Grade 5, Workbook, Term 2*, printed p. 43 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 2):** Records: books.json only — grade-06/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 5,034,852 bytes; grabbed via tree, exact match). No TSV record. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 5–9 to printed p.45). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 381, 651); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Drawing conclusions (Jordan, Science, Grade 6, Workbook, Term 2) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 8 |
+| Science skill: Observation (Jordan, Science, Grade 6, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude, science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude, science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 18 |
+| Science skill: Prediction (Jordan, Science, Grade 6, Workbook, Term 2) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 29 |
+| Science skill: Communication (Jordan, Science, Grade 6, Workbook, Term 2) | Jordan, *Science, Grade 6, Workbook, Term 2*, printed p. 44 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 1):** Records: TSV grade-06 term-1-workbook (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 12,979,432 bytes). Grabbed file is exactly 12,979,432 bytes — verified match. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–4 to printed p.47). Note: the printed contents list misprints the Unit 1 Explore title (it repeats the Unit 3 kinetic-energy activity title); the actual Explore on printed p.5 is the cheek-cells activity below, verified from the page itself. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 606, 628); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science skill: Inference (Jordan, Science, Grade 6, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 13 |
+| Science skill: Classification (Jordan, Science, Grade 6, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 22 |
+| Science skill: Data analysis (Jordan, Science, Grade 6, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 33 |
+| Science skill: Formulating a hypothesis (Jordan, Science, Grade 6, Workbook, Term 1) (the duplicate filing assigned the same item to science-skills/skills-of-practical-study-observe-predict-hypothesise-record-conclude — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 46 |
+
+**Acceptance count: taught in 30 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude

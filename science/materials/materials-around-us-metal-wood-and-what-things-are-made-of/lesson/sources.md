@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Fiji, Saudi Arabia, Malaysia, Iraq, Colombia, Nepal, Papua New Guinea, Libya
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Fiji, Saudi Arabia, Malaysia, Iraq, Colombia, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -474,3 +474,29 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, materials materials-around-us-metal-wood-and-what-things-are-made-of
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 2):** Records: TSV grade-01-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-2.pdf (in_pushed, 20,241,736 bytes). Grabbed file is exactly 20,241,736 bytes — verified match. ISBN 978-9923-41-276-3, © HarperCollins 2020, NCCD. PDF pages: 74 (72 printed). Verdict: COMPLETE (contents PDF p.4, units 4–6, glossary printed p.69). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Materials and their uses (Unit 6 L1) (Jordan, Science, Grade 1, Student Book, Term 2) | Jordan, *Science, Grade 1, Student Book, Term 2*, printed p. 54 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 1):** Records: TSV grade-06-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1.pdf (in_pushed, 52,865,907 bytes). File in scratch is exactly 52,865,907 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-247-3, ministry approval 2021/105, school year 2021/2022. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 1–4, glossary printed p. 104). Unit 2 (Matter: atoms and molecules, ions and compounds) — pure Chemistry chapter, already covered by the Chemistry wave — not placed here. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 459, 498); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Metals and non-metals (Unit 2 L2) (Jordan, Science, Grade 6, Student Book, Term 1) | Jordan, *Science, Grade 6, Student Book, Term 1*, printed p. 42 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 1):** Records: TSV grade-06 term-1-workbook (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 12,979,432 bytes). Grabbed file is exactly 12,979,432 bytes — verified match. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–4 to printed p.47). Note: the printed contents list misprints the Unit 1 Explore title (it repeats the Unit 3 kinetic-energy activity title); the actual Explore on printed p.5 is the cheek-cells activity below, verified from the page itself. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 606, 628); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore: Metals and non-metals (Jordan, Science, Grade 6, Workbook, Term 1) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 17 |
+
+**Acceptance count: taught in 24 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials materials-around-us-metal-wood-and-what-things-are-made-of

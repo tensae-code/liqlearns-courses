@@ -1,6 +1,6 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea, Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa, Egypt, Seychelles, Ecuador, Sudan, China, Eritrea, Bangladesh, Fiji (teacher-guide evidence only), Vietnam, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Libya
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea, Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa, Egypt, Seychelles, Ecuador, Sudan, China, Eritrea, Bangladesh, Fiji (teacher-guide evidence only), Vietnam, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -679,3 +679,23 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, heat heat-conduction-conductors-and-insulators
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 2):** Records: TSV grade-06-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-2.pdf (in_pushed, 67,512,641 bytes). Grabbed file is exactly 67,512,641 bytes — verified match. Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2021, ISBN 978-9923-41-278-7, ministry approval 2021/163, school year 2021/2022. PDF pages: 120. Verdict: COMPLETE (contents PDF pp. 3–4, units 5–9 continuing Term 1 numbering, glossary printed p. 117). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 566, 586); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Heat in our life (Unit 8 L2) (Jordan, Science, Grade 6, Student Book, Term 2) (the duplicate filing assigned the same item to heat/insulation-slowing-heat-down — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 2*, printed p. 87 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 1):** Records: TSV grade-06 term-1-workbook (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 12,979,432 bytes). Grabbed file is exactly 12,979,432 bytes — verified match. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–4 to printed p.47). Note: the printed contents list misprints the Unit 1 Explore title (it repeats the Unit 3 kinetic-energy activity title); the actual Explore on printed p.5 is the cheek-cells activity below, verified from the page itself. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 606, 628); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Thermal conduction (Jordan, Science, Grade 6, Workbook, Term 1) (the duplicate filing assigned the same item to heat/heat-conduction-conductors-and-insulators — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 20 |
+
+**Acceptance count: taught in 41 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, heat heat-conduction-conductors-and-insulators

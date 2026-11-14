@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only), Libya
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only), Libya, Jordan
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -318,3 +318,30 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space exploring-space-how-technology-extends-what-we-know
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 2):** Records: TSV grade-06-gov-jordan-science-student-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-2.pdf (in_pushed, 67,512,641 bytes). Grabbed file is exactly 67,512,641 bytes — verified match. Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2021, ISBN 978-9923-41-278-7, ministry approval 2021/163, school year 2021/2022. PDF pages: 120. Verdict: COMPLETE (contents PDF pp. 3–4, units 5–9 continuing Term 1 numbering, glossary printed p. 117). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 566, 586); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Travelling into space (ارتياد الفضاء) (Jordan, Science, Grade 6, Student Book, Term 2) (the duplicate filing assigned the same item to earth-and-space/exploring-space-how-technology-extends-what-we-know — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 2*, printed p. 112 |
+
+**Book (Jordan — Science, Grade 8, Workbook, Term 2):** Records: TSV titled "Science — Grade 8 Term 2 (Student Book)", file grade-08-gov-jordan-science-student-term-2.pdf (mid-size-books-2), and books.json grade-08/gov/jordan/science/student/term-2.pdf (in_pushed, 19,266,417 bytes). Grabbed file is exactly 19,266,417 bytes — verified match. RECORD TITLE MISMATCH: the cover shows this is the Activities and Exercises (workbook) book, not the student book; the books.json source URL likewise points to the activities book. No Grade 8 student book record exists in the targets; the Grade 8 student text itself is a library debt (see log). Title as printed: العلوم — الصف الثامن — كتاب الأنشطة والتمارين — الفصل الدراسي الثاني. Publisher NCCD. PDF pages: 64. Verdict: COMPLETE (contents PDF p.3, experiments for units 5–9 to printed p.63). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 730, 831); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: Designing a model of a Moon-landing vehicle (Jordan, Science, Grade 8, Workbook, Term 2) (the duplicate filing assigned the same item to earth-and-space/exploring-space-how-technology-extends-what-we-know — taught once, here) | Jordan, *Science, Grade 8, Workbook, Term 2*, printed p. 58 |
+| Scientific inquiry: Orbits of artificial satellites around the Earth (Jordan, Science, Grade 8, Workbook, Term 2) (the duplicate filing assigned the same item to earth-and-space/exploring-space-how-technology-extends-what-we-know — taught once, here) | Jordan, *Science, Grade 8, Workbook, Term 2*, printed p. 60 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: The spacesuit (بذلة رائد الفضاء) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 46 |
+
+**Acceptance count: taught in 20 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space exploring-space-how-technology-extends-what-we-know

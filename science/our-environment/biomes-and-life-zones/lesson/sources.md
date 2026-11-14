@@ -1,6 +1,6 @@
 # Sources — Biomes and life zones
 
-countries: El Salvador
+countries: El Salvador, Jordan
 
 **Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
 
@@ -16,3 +16,17 @@ countries: El Salvador
 Placement choice, on the record: this NEW LESSON was built for the El Salvador placement(s) "NEW LESSON NEEDED — biomes-and-life-zones" — el-salvador-placements.md (2 placement bullet(s)). No existing general-science lesson covers this thing as its own lesson — the near lessons `our-environment/biomes-of-the-world` and `our-environment/natural-zones-of-the-earth` sort the world's regions; biomes together with life zones, biogeography and how ecosystems change over time are this lesson's thing — so it gets its own lesson. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment). El Salvador's own way — teaching this from its own MINED *Ciencia y Tecnología* books, in the order and with the examples named in the rows above — IS part of this lesson's content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/biomes-and-life-zones
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Environmental regions / biomes (Unit 10 L1) (Jordan, Science, Grade 7, Student Book, Term 2) — placement filed as NEW LESSON NEEDED — biomes-the-worlds-great-environment-regions (the duplicate filing assigned the same item to biomes-the-worlds-great-environmental-regions — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 116 |
+
+**Acceptance count: taught in 2 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, our-environment biomes-and-life-zones

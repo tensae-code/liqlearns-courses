@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan, Kuwait, China, Syria, North Macedonia, Bangladesh, Morocco (teacher-guide evidence only), South Sudan, Iraq, Nepal, Papua New Guinea, Libya
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan, Kuwait, China, Syria, North Macedonia, Bangladesh, Morocco (teacher-guide evidence only), South Sudan, Iraq, Nepal, Papua New Guinea, Libya, Jordan
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -397,3 +397,43 @@ Placement choice, on the record: the Libya placement(s) above filed as our-envir
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, our-environment adaptation-how-living-things-fit-where-they-live
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Student Book, Term 1):** Records: TSV release grade-02 student term-1 is NOT in TSV list; books.json grade-02/gov/jordan/science/student/term-1.pdf, on_disk=true, in_pushed=true, size 21,556,599 bytes — verified: on-disk file is exactly 21,556,599 bytes. Same logical book as the minhaji source record. Title as printed: العلوم — الصف الثاني — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-238-1. PDF pages: 60. Verdict: COMPLETE (contents p.3, three units, glossary at printed p.59 = last content). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adaptation of living organisms to their environment (Jordan, Science, Grade 2, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live | Jordan, *Science, Grade 2, Student Book, Term 1*, printed p. 34 |
+| Enrichment: the Arabian oryx (المها العربي), Jordan's desert antelope, as the local adaptation/conservation example (Jordan, Science, Grade 2, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live | Jordan, *Science, Grade 2, Student Book, Term 1*, printed p. 41 |
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 1):** Records: TSV grade-02 term-1-workbook (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 4,364,289 bytes — verified exact on disk). Same printed workbook. PDF pages: 28. Verdict: COMPLETE (contents PDF p.3, activities for all three Term-1 units, exercises to printed p.25+). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: How do body structures help animals? (Jordan, Science, Grade 2, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 12 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 2):** Records: TSV grade-07 term-2-workbook (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,048,725 bytes). Grabbed file is exactly 7,048,725 bytes — verified match. PDF pages: 60. Verdict: COMPLETE (contents PDF p.3, experiments for units 6–10 to printed p.59). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 706, 770); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: How do some animals adapt? (Jordan, Science, Grade 7, Workbook, Term 2) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live (the duplicate filing assigned the same item to adaptation-how-living-things-fit-where-they-live — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 45 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adaptation and extinction (Unit 9 L2) (Jordan, Science, Grade 7, Student Book, Term 2) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live (the duplicate filing assigned the same item to adaptation-how-living-things-fit-where-they-live — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 95 |
+
+**Book (Jordan — Science, Grade 2, Teacher's Guide, Term 1):** Records: TSV grade-02-gov-jordan-science-teacher-term-1 (mid-size-books-5), books.json grade-02/gov/jordan/science/teacher/term-1.pdf (in_pushed, 39,821,854 bytes; grabbed exact), TSV grade-02 teacher term-1-nccd and books.json term-1-nccd.pdf (46,039,848 bytes) — the NCCD-site parallel file of the same guide (see log). PDF pages: 119 (text layer partial — some pages are scanned images; identity and unit mirror verified from the text-bearing pages and the outcomes content). Verdict: COMPLETE as a guide. Mirrors Grade 2 Student Term 1 (Characteristics of living things; Interaction in the environment; Earth and Sun) with a teacher spotlight on the shared characteristics of living things, answers and checks; guide evidence also covers the Term 1 workbook items placed above. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guided discussion of the body structures that help birds fly (Jordan, Science, Grade 2, Teacher's Guide, Term 1) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live | Jordan, *Science, Grade 2, Teacher's Guide, Term 1*, guide PDF p. 61 |
+| (guide evidence) Guide evidence: guide background note that plants adapt in many ways (Jordan, Science, Grade 2, Teacher's Guide, Term 1) — placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live | Jordan, *Science, Grade 2, Teacher's Guide, Term 1*, guide PDF p. 63 |
+
+**Acceptance count: taught in 16 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, our-environment adaptation-how-living-things-fit-where-they-live

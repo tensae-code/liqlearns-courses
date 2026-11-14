@@ -1,6 +1,6 @@
 # Sources — Kingdoms — the five kingdoms of living things
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba, Angola, Kuwait, Indonesia, Yemen, Nicaragua, El Salvador, Colombia, Nepal, Libya
+countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba, Angola, Kuwait, Indonesia, Yemen, Nicaragua, El Salvador, Colombia, Nepal, Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -265,3 +265,35 @@ Placement choice, on the record: the Libya placement(s) above filed as animals/t
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, animals the-five-kingdoms-of-living-things
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 1):** Records: TSV grade-04-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-1.pdf (in_pushed, 24,724,101 bytes). Grabbed file is exactly 24,724,101 bytes — verified match. PDF pages: 88. Verdict: COMPLETE (contents PDF pp.3–4, units 1–4, glossary printed p.85). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kingdoms of living organisms (Unit 1 L2) (Jordan, Science, Grade 4, Student Book, Term 1) | Jordan, *Science, Grade 4, Student Book, Term 1*, printed p. 15 |
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 1):** Records: TSV grade-05-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-1.pdf (in_pushed, 37,358,064 bytes). Grabbed file is exactly 37,358,064 bytes — verified match. PDF pages: 104. Verdict: COMPLETE (contents PDF pp.3–4, units 1–5, glossary printed p.102). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The animal kingdom (Unit 2 L2) (Jordan, Science, Grade 5, Student Book, Term 1) | Jordan, *Science, Grade 5, Student Book, Term 1*, printed p. 35 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The animal kingdom (Unit 3 L2) (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 62 |
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 1):** Records: TSV grade-04-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-1.pdf (in_pushed, 53,874,620 bytes). Grabbed file is exactly 53,874,620 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الأول, publisher NCCD (National Center for Curriculum Development), © HarperCollins 2020, ministry approval 2020/120. PDF pages: 178. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 1 unit-for-unit (Classification of living things; Life cycles and relationships between living things; The human body and its health; Matter) with outcomes matrices, lesson steps, answers and formative checks; its pedagogy front matter is teaching method, not new science content. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T1 and Workbook T1 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight explaining that the five-kingdom classification was later reorganised, after genetic-analysis developments, into three domains (archaeal domain, bacterial domain and eukaryote domain) (Jordan, Science, Grade 4, Teacher's Guide, Term 1) | Jordan, *Science, Grade 4, Teacher's Guide, Term 1*, guide PDF p. 33 |
+
+**Acceptance count: taught in 16 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals the-five-kingdoms-of-living-things

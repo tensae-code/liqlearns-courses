@@ -1,6 +1,6 @@
 # Sources — Plants — seedless plants: mosses, liverworts and ferns
 
-countries: Ethiopia, Pakistan (Punjab), Ecuador, North Macedonia, Yemen, Nicaragua, Iraq, El Salvador, Nepal, Papua New Guinea (teacher-guide evidence only), Libya
+countries: Ethiopia, Pakistan (Punjab), Ecuador, North Macedonia, Yemen, Nicaragua, Iraq, El Salvador, Nepal, Papua New Guinea (teacher-guide evidence only), Libya, Jordan (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -193,3 +193,25 @@ Placement choice, on the record: the Libya placement(s) above filed as plants/pl
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, plants seedless-plants-mosses-and-ferns
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 1):** Records: TSV grade-04-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-1.pdf (in_pushed, 53,874,620 bytes). Grabbed file is exactly 53,874,620 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الأول, publisher NCCD (National Center for Curriculum Development), © HarperCollins 2020, ministry approval 2020/120. PDF pages: 178. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 1 unit-for-unit (Classification of living things; Life cycles and relationships between living things; The human body and its health; Matter) with outcomes matrices, lesson steps, answers and formative checks; its pedagogy front matter is teaching method, not new science content. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T1 and Workbook T1 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight dividing the plant kingdom into non-vascular plants without conducting vessels (e.g. mosses such as Funaria) and vascular plants, and the seed plants into spore-reproducing seedless plants (ferns), gymnosperms with seeds uncovered inside cones (pine, cycads) and angiosperms (Jordan, Science, Grade 4, Teacher's Guide, Term 1) | Jordan, *Science, Grade 4, Teacher's Guide, Term 1*, guide PDF p. 38 |
+
+**Book (Jordan — Science, Grade 5, Teacher's Guide, Term 1):** Records: TSV grade-05-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-05/gov/jordan/science/teacher/term-1.pdf (in_pushed, 68,562,407 bytes). File in scratch is exactly 68,562,407 bytes — verified match (grabbed by an earlier reader; read and finished by this finisher reader). Cover/title page verified: العلوم — الصف الخامس — دليل المعلم — الفصل الدراسي الأول, publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-110-0, ministry approval 2020/121. PDF pages: 189. Verdict: COMPLETE. The guide mirrors Grade 5 Student Term 1 unit-for-unit (Ecosystems; The kingdoms of living things; Natural resources and energy; Chemical elements and compounds; Light and sound) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 5 Student T1 and Workbook T1 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight classifying plants by their transport (vascular) tissues into non-vascular plants — small, living mostly in moist places, with root-like, stem-like and leaf-like parts instead of true organs — and vascular plants; with the common-error note that not all plants have stems, roots, leaves, flowers and fruits (mosses and ferns do not, and gymnosperms bear no flowers or fruits) (Jordan, Science, Grade 5, Teacher's Guide, Term 1) | Jordan, *Science, Grade 5, Teacher's Guide, Term 1*, guide PDF p. 60 |
+
+**Acceptance count unchanged: taught in 10 countries.**
+
+Jordan is named as teacher-guide evidence only (its Grade 4 Science Teacher's Guide — teacher guide), not added to this count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, plants seedless-plants-mosses-and-ferns

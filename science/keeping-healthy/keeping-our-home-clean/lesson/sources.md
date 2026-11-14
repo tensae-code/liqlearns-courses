@@ -1,6 +1,6 @@
 # Sources — Keeping our home clean
 
-countries: Ethiopia, Uganda, Afghanistan, Venezuela, Angola, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Yemen, Vietnam, Nepal
+countries: Ethiopia, Uganda, Afghanistan, Venezuela, Angola, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Yemen, Vietnam, Nepal, Jordan
 
 **Book 1:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -210,3 +210,17 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keepi
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/keeping-our-home-clean
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 1):** Records: TWO records of the same workbook — TSV grade-01 term-1-workbook and books.json grade-01/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 8,196,713 bytes — verified exact on disk) plus a books.json NCCD-file variant term-1-workbook-nccd.pdf (9,485,167 bytes, different file, same printed book — see its own header below). Workbook mirrors Grade 1 Student Term 1 unit-for-unit; activities are the teaching items here. Title as printed: العلوم — الصف الأول — كتاب الأنشطة والتمارين — الفصل الدراسي الأول. Publisher NCCD. PDF pages: 36. Verdict: COMPLETE (contents p.3 lists all activities through printed p.34). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: The healthy home (designing a model of a healthy dwelling) (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 7 |
+
+**Acceptance count: taught in 11 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy keeping-our-home-clean

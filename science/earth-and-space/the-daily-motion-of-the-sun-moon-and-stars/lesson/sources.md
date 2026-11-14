@@ -1,6 +1,6 @@
 # Sources — The daily motion of the Sun, Moon and stars
 
-countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China, Laos, Sri Lanka, Bangladesh, Yemen, Papua New Guinea, Libya
+countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China, Laos, Sri Lanka, Bangladesh, Yemen, Papua New Guinea, Libya, Jordan
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -218,3 +218,29 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, earth-and-space the-daily-motion-of-the-sun-moon-and-stars
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 2):** Records: TSV grade-01-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-2.pdf (in_pushed, 20,241,736 bytes). Grabbed file is exactly 20,241,736 bytes — verified match. ISBN 978-9923-41-276-3, © HarperCollins 2020, NCCD. PDF pages: 74 (72 printed). Verdict: COMPLETE (contents PDF p.4, units 4–6, glossary printed p.69). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth and the sky (Unit 5 L1) (Jordan, Science, Grade 1, Student Book, Term 2) | Jordan, *Science, Grade 1, Student Book, Term 2*, printed p. 28 |
+
+**Book (Jordan — Science, Grade 1, Teacher's Guide, Term 2):** Records: TSV grade-01-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-01/gov/jordan/science/teacher/term-2.pdf (in_pushed, 29,075,103 bytes). Grabbed file is exactly 29,075,103 bytes — verified match. A third record, books.json term-2-nccd.pdf (40,788,124 bytes), is the same guide from the NCCD site (parallel file; see log). PDF pages: 116. Verdict: COMPLETE. Mirrors Grade 1 Student Term 2 (Movement and force; Earth and space; Matter in our world) with outcomes, answers and checks; guide also carries answers for the Term 2 workbook items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guided sky discussion (what is in the sky? the Sun picture) (Jordan, Science, Grade 1, Teacher's Guide, Term 2) | Jordan, *Science, Grade 1, Teacher's Guide, Term 2*, guide PDF p. 31 |
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 2):** Records: TSV grade-04-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-2.pdf (in_pushed, 43,009,628 bytes). Grabbed file is exactly 43,009,628 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الثاني, publisher NCCD, © HarperCollins 2020. PDF pages: 164. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 2 unit-for-unit (Light; Earth and space; Force and energy; Electric circuits; Natural resources) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T2 and Workbook T2 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on the Sun's apparent movement — people once thought the Sun moves round the Earth because we watch it from the rotating Earth, as roadside trees seem to move to a car passenger (Jordan, Science, Grade 4, Teacher's Guide, Term 2) | Jordan, *Science, Grade 4, Teacher's Guide, Term 2*, guide PDF p. 32 |
+
+**Acceptance count: taught in 11 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space the-daily-motion-of-the-sun-moon-and-stars

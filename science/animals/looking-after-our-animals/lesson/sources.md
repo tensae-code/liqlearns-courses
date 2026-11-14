@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -399,3 +399,23 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, animals/looking-after-our-animals
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: The veterinarian (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 68 |
+
+**Book (Jordan — Science, Grade 1, Teacher's Guide, Term 1):** Records: TSV grade-01-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-01/gov/jordan/science/teacher/term-1.pdf (in_pushed, 39,881,162 bytes). Grabbed file is exactly 39,881,162 bytes — verified match. A third record, books.json term-1-nccd.pdf (43,765,498 bytes), is the same guide from the NCCD site (parallel file; see log). PDF pages: 116. Verdict: COMPLETE. The guide mirrors Grade 1 Student Term 1 unit-for-unit (Humans and health; Plants and animals; Habitats) with outcomes matrices, lesson steps, answers and formative checks; its pedagogy front matter (assessment, skills, differentiation, technology, STEAM links) is teaching method, not new science content. Guide-evidence placements below are the guide's own added explanations; the guide also carries answers/explanations for every Grade 1 Student T1 and Workbook T1 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: discussion guide on caring for pet animals (Jordan, Science, Grade 1, Teacher's Guide, Term 1) | Jordan, *Science, Grade 1, Teacher's Guide, Term 1*, guide PDF p. 65 |
+
+**Acceptance count: taught in 20 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals looking-after-our-animals

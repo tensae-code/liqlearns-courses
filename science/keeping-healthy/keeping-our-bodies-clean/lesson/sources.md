@@ -1,6 +1,6 @@
 # Sources — Keeping our bodies clean
 
-countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
+countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -967,3 +967,42 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/keeping-our-bodies-clean
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Workbook, Term 1):** Records: TWO records of the same workbook — TSV grade-01 term-1-workbook and books.json grade-01/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 8,196,713 bytes — verified exact on disk) plus a books.json NCCD-file variant term-1-workbook-nccd.pdf (9,485,167 bytes, different file, same printed book — see its own header below). Workbook mirrors Grade 1 Student Term 1 unit-for-unit; activities are the teaching items here. Title as printed: العلوم — الصف الأول — كتاب الأنشطة والتمارين — الفصل الدراسي الأول. Publisher NCCD. PDF pages: 36. Verdict: COMPLETE (contents p.3 lists all activities through printed p.34). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Explore activity: the importance of washing hands with water and soap (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 4 |
+| Activity: Healthy habits practised to keep the body healthy (Jordan, Science, Grade 1, Workbook, Term 1) | Jordan, *Science, Grade 1, Workbook, Term 1*, printed p. 9 |
+
+**Book (Jordan — Science, Grade 2, Student Book, Term 2):** Records: TSV grade-02-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-2.pdf (on_disk=true, 22,130,320 bytes — verified exact on disk). Same printed book, two files. Title as printed: العلوم — الصف الثاني — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-268-8, 70 printed pages. PDF pages: 72. Verdict: COMPLETE (contents PDF p.4, units 4–6, glossary printed p.69–70). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Healthy habits (Unit 4 L2) (Jordan, Science, Grade 2, Student Book, Term 2) | Jordan, *Science, Grade 2, Student Book, Term 2*, printed p. 15 |
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Health of the human body (healthy habits, Unit 1 L3) (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 18 |
+
+**Book (Jordan — Science, Grade 4, Student Book, Term 1):** Records: TSV grade-04-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-04/gov/jordan/science/student/term-1.pdf (in_pushed, 24,724,101 bytes). Grabbed file is exactly 24,724,101 bytes — verified match. PDF pages: 88. Verdict: COMPLETE (contents PDF pp.3–4, units 1–4, glossary printed p.85). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Physical, mental/psychological and emotional health (Unit 3 L2) (Jordan, Science, Grade 4, Student Book, Term 1) | Jordan, *Science, Grade 4, Student Book, Term 1*, printed p. 58 |
+
+**Book (Jordan — Science, Grade 2, Teacher's Guide, Term 2):** Records: TSV grade-02-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-02/gov/jordan/science/teacher/term-2.pdf (in_pushed, 10,567,009 bytes). Grabbed file is exactly 10,567,009 bytes — verified match, so the library copy itself is this short file. PDF pages: 34. Verdict: PARTIAL — the file contains ONLY Unit 4 (The human body and its health) of the Term 2 guide: outcomes matrix, the unit's lessons, unit review, a worksheet appendix and workbook answers for Unit 4 only. Units 5 (Sound and light) and 6 (Matter) are missing. The title page also misprints the term as "Term 1" while all content is the Term 2 Unit 4. Guide evidence below covers the unit that is present. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 934, 964); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: cross-cutting health note that smoking harms all body organs and the lungs most, and that passive smoking also harms people around the smoker, including children and pregnant women (Jordan, Science, Grade 2, Teacher's Guide, Term 2) | Jordan, *Science, Grade 2, Teacher's Guide, Term 2*, guide PDF p. 12 |
+
+**Acceptance count: taught in 35 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy keeping-our-bodies-clean

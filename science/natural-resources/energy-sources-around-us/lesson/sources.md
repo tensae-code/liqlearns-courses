@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Jordan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -467,3 +467,30 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 **Acceptance count: taught in 21 countries — unchanged: Papua New Guinea's rows above are guide evidence only, named here, counted nowhere.**
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 1):** Records: TSV grade-05-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-1.pdf (in_pushed, 37,358,064 bytes). Grabbed file is exactly 37,358,064 bytes — verified match. PDF pages: 104. Verdict: COMPLETE (contents PDF pp.3–4, units 1–5, glossary printed p.102). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy sources (Unit 3 L2) (Jordan, Science, Grade 5, Student Book, Term 1) | Jordan, *Science, Grade 5, Student Book, Term 1*, printed p. 56 |
+
+**Book (Jordan — Science, Grade 4, Teacher's Guide, Term 2):** Records: TSV grade-04-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-04/gov/jordan/science/teacher/term-2.pdf (in_pushed, 43,009,628 bytes). Grabbed file is exactly 43,009,628 bytes — verified match (file was grabbed by an earlier reader; read and finished by this reader). Cover/title page verified: العلوم — الصف الرابع — دليل المعلم — الفصل الدراسي الثاني, publisher NCCD, © HarperCollins 2020. PDF pages: 164. Verdict: COMPLETE. The guide mirrors Grade 4 Student Term 2 unit-for-unit (Light; Earth and space; Force and energy; Electric circuits; Natural resources) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for every Grade 4 Student T2 and Workbook T2 item placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on the origin of coal — plants that lived millions of years ago in warm wet swamps were buried under thick sedimentary layers, decomposed by bacteria and, with continuing burial, pressure and heat across millions of years, turned into coal (Jordan, Science, Grade 4, Teacher's Guide, Term 2) | Jordan, *Science, Grade 4, Teacher's Guide, Term 2*, guide PDF p. 94 |
+
+**Book (Jordan — Science, Grade 5, Teacher's Guide, Term 1):** Records: TSV grade-05-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-05/gov/jordan/science/teacher/term-1.pdf (in_pushed, 68,562,407 bytes). File in scratch is exactly 68,562,407 bytes — verified match (grabbed by an earlier reader; read and finished by this finisher reader). Cover/title page verified: العلوم — الصف الخامس — دليل المعلم — الفصل الدراسي الأول, publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-110-0, ministry approval 2020/121. PDF pages: 189. Verdict: COMPLETE. The guide mirrors Grade 5 Student Term 1 unit-for-unit (Ecosystems; The kingdoms of living things; Natural resources and energy; Chemical elements and compounds; Light and sound) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 5 Student T1 and Workbook T1 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on the Sun as Earth's energy source — a ball of flaming gases whose core reaches about 14 million degrees Celsius, its energy produced by nuclear fusion reactions (Jordan, Science, Grade 5, Teacher's Guide, Term 1) | Jordan, *Science, Grade 5, Teacher's Guide, Term 1*, guide PDF p. 83 |
+| (guide evidence) Guide evidence: teacher spotlight on using solar energy — solar cells converting it to electricity, greenhouses, solar water heaters and seawater desalination; and the solar-energy budget: about half of the sunlight reaching Earth warms water and land, a quarter evaporates sea and ocean water, a quarter is reflected back to space, and a small part drives air currents and photosynthesis (Jordan, Science, Grade 5, Teacher's Guide, Term 1) | Jordan, *Science, Grade 5, Teacher's Guide, Term 1*, guide PDF p. 92 |
+
+**Acceptance count: taught in 22 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, natural-resources energy-sources-around-us

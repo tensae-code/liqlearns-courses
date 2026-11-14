@@ -1,6 +1,6 @@
 # Sources — Molecules — atoms joined
 
-countries: Ethiopia, United States, Seychelles, El Salvador, Colombia
+countries: Ethiopia, United States, Seychelles, El Salvador, Colombia, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -65,3 +65,23 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/molecules-atoms-joined
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 1):** Records: TSV grade-06-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1.pdf (in_pushed, 52,865,907 bytes). File in scratch is exactly 52,865,907 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-247-3, ministry approval 2021/105, school year 2021/2022. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 1–4, glossary printed p. 104). Unit 2 (Matter: atoms and molecules, ions and compounds) — pure Chemistry chapter, already covered by the Chemistry wave — not placed here. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 459, 498); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Atoms and molecules (Unit 2 L1, general-science level) (Jordan, Science, Grade 6, Student Book, Term 1) | Jordan, *Science, Grade 6, Student Book, Term 1*, printed p. 36 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 1):** Records: TSV grade-06 term-1-workbook (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 12,979,432 bytes). Grabbed file is exactly 12,979,432 bytes — verified match. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–4 to printed p.47). Note: the printed contents list misprints the Unit 1 Explore title (it repeats the Unit 3 kinetic-energy activity title); the actual Explore on printed p.5 is the cheek-cells activity below, verified from the page itself. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 606, 628); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Arranging the atoms (Jordan, Science, Grade 6, Workbook, Term 1) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 19 |
+
+**Acceptance count: taught in 5 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials molecules-atoms-joined

@@ -1,6 +1,6 @@
 # Sources — Using electricity safely at home
 
-countries: Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Samoa, China, Rwanda
+countries: Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Samoa, China, Rwanda, Jordan (teacher-guide evidence only)
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -84,3 +84,19 @@ Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NE
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, electricity-and-magnetism, using-electricity-safely-at-home
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Teacher's Guide, Term 2):** Records: TSV grade-03-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-03/gov/jordan/science/teacher/term-2.pdf (in_pushed, 46,682,354 bytes). Grabbed file is exactly 46,682,354 bytes — verified match. PDF pages: 116. Verdict: COMPLETE. Mirrors Grade 3 Student Term 2 (Earth and the universe; Matter and energy — repeated unit; Health and safety) with answers and checks; guide evidence also covers the Term 2 workbook items placed above. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guided picture discussion that electricity sockets and wires are sources of danger (Jordan, Science, Grade 3, Teacher's Guide, Term 2) — placement filed as electricity-and-magnetism/safety-around-circuits | Jordan, *Science, Grade 3, Teacher's Guide, Term 2*, guide PDF p. 63 |
+
+**Acceptance count unchanged: taught in 3 countries.**
+
+Jordan is named as teacher-guide evidence only (its Grade 3 Science Teacher's Guide — teacher guide), not added to this count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, electricity-and-magnetism using-electricity-safely-at-home

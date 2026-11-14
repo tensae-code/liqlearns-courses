@@ -1,6 +1,6 @@
 # Sources — Insulation — slowing heat down
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only), United States, Seychelles, Kuwait, China, Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only), United States, Seychelles, Kuwait, China, Yemen, Saudi Arabia, Vietnam, Jordan (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -211,3 +211,19 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, heat 
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, heat insulation-slowing-heat-down
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 6, Teacher's Guide, Term 2):** Records: TSV grade-06-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-06/gov/jordan/science/teacher/term-2.pdf (in_pushed, 62,010,020 bytes). Grabbed file is exactly 62,010,020 bytes — verified match. Cover/title page verified: دليل المعلم — العلوم — الصف السادس — الفصل الدراسي الثاني, publisher NCCD, ISBN 978-9923-41-513-9, ministry approvals 2024/2 and 2024/75. PDF pages: 176. Verdict: COMPLETE. The guide mirrors Grade 6 Student Term 2 unit-for-unit (Ecosystems and biological communities; Pure substances and mixtures; Waves and sound; Heat; Galaxies and the universe) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 6 Student T2 and Workbook T2 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on the best-known kinds of home thermal insulation by their source: materials of animal origin, made from animals' wool and hair, whose use is limited; and materials of mineral or rock origin, among them fibreglass, among the best kinds of insulation (Jordan, Science, Grade 6, Teacher's Guide, Term 2) | Jordan, *Science, Grade 6, Teacher's Guide, Term 2*, guide PDF p. 102 |
+
+**Acceptance count unchanged: taught in 14 countries.**
+
+Jordan is named as teacher-guide evidence only (its Grade 6 Science Teacher's Guide — teacher guide), not added to this count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, heat insulation-slowing-heat-down

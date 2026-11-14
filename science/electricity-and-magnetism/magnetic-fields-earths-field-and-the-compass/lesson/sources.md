@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka, Rwanda, North Macedonia, Indonesia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), Iraq, El Salvador, Papua New Guinea, Libya
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka, Rwanda, North Macedonia, Indonesia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), Iraq, El Salvador, Papua New Guinea, Libya, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -417,3 +417,17 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, electricity-and-magnetism magnetic-fields-earths-field-and-the-compass
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 8, Workbook, Term 2):** Records: TSV titled "Science — Grade 8 Term 2 (Student Book)", file grade-08-gov-jordan-science-student-term-2.pdf (mid-size-books-2), and books.json grade-08/gov/jordan/science/student/term-2.pdf (in_pushed, 19,266,417 bytes). Grabbed file is exactly 19,266,417 bytes — verified match. RECORD TITLE MISMATCH: the cover shows this is the Activities and Exercises (workbook) book, not the student book; the books.json source URL likewise points to the activities book. No Grade 8 student book record exists in the targets; the Grade 8 student text itself is a library debt (see log). Title as printed: العلوم — الصف الثامن — كتاب الأنشطة والتمارين — الفصل الدراسي الثاني. Publisher NCCD. PDF pages: 64. Verdict: COMPLETE (contents PDF p.3, experiments for units 5–9 to printed p.63). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 730, 831); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: Mapping the magnetic field (Jordan, Science, Grade 8, Workbook, Term 2) (the duplicate filing assigned the same item to electricity-and-magnetism/magnetic-fields-earths-field-and-the-compass — taught once, here) | Jordan, *Science, Grade 8, Workbook, Term 2*, printed p. 45 |
+
+**Acceptance count: taught in 25 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, electricity-and-magnetism magnetic-fields-earths-field-and-the-compass

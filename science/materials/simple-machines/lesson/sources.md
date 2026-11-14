@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -881,3 +881,48 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, materials simple-machines
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 1):** Records: TSV grade-03-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-1.pdf (in_pushed, 43,781,437 bytes). Grabbed file is exactly 43,781,437 bytes — verified match. PDF pages: 76. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.73). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple machines (Unit 3 L2) (Jordan, Science, Grade 3, Student Book, Term 1) | Jordan, *Science, Grade 3, Student Book, Term 1*, printed p. 60 |
+| Enrichment: Wheelchairs (الكراسي المتحركة) as simple machines that help people move (Jordan, Science, Grade 3, Student Book, Term 1) | Jordan, *Science, Grade 3, Student Book, Term 1*, printed p. 67 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 1):** Records: TSV grade-03 term-1-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 11,391,247 bytes). Grabbed file is exactly 11,391,247 bytes — verified match. PDF pages: 32. Verdict: COMPLETE (contents PDF p.3, activities for units 1–3 to printed p.30). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Making my own simple machine (Jordan, Science, Grade 3, Workbook, Term 1) | Jordan, *Science, Grade 3, Workbook, Term 1*, printed p. 27 |
+
+**Book (Jordan — Science, Grade 6, Student Book, Term 1):** Records: TSV grade-06-gov-jordan-science-student-term-1 (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1.pdf (in_pushed, 52,865,907 bytes). File in scratch is exactly 52,865,907 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف السادس — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-247-3, ministry approval 2021/105, school year 2021/2022. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 1–4, glossary printed p. 104). Unit 2 (Matter: atoms and molecules, ions and compounds) — pure Chemistry chapter, already covered by the Chemistry wave — not placed here. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 459, 498); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Simple machines (Unit 3 L2) (Jordan, Science, Grade 6, Student Book, Term 1) (the duplicate filing assigned the same item to materials/simple-machines — taught once, here) | Jordan, *Science, Grade 6, Student Book, Term 1*, printed p. 66 |
+
+**Book (Jordan — Science, Grade 6, Workbook, Term 1):** Records: TSV grade-06 term-1-workbook (mid-size-books-5) and books.json grade-06/gov/jordan/science/student/term-1-workbook.pdf (in_pushed, 12,979,432 bytes). Grabbed file is exactly 12,979,432 bytes — verified match. PDF pages: 48. Verdict: COMPLETE (contents PDF pp.3–4, activities for units 1–4 to printed p.47). Note: the printed contents list misprints the Unit 1 Explore title (it repeats the Unit 3 kinetic-energy activity title); the actual Explore on printed p.5 is the cheek-cells activity below, verified from the page itself. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 606, 628); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Movement of gears (حركة التروس) (Jordan, Science, Grade 6, Workbook, Term 1) (the duplicate filing assigned the same item to motion-force-and-energy/energy-kinetic-and-potential-energy — taught once, here) | Jordan, *Science, Grade 6, Workbook, Term 1*, printed p. 31 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 1):** Records: TSV grade-07-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-1.pdf (in_pushed, 65,634,493 bytes). Grabbed file is exactly 65,634,493 bytes — verified match. ISBN 978-9923-41-248-0, © HarperCollins 2022, NCCD. PDF pages: 156 (154 printed). Verdict: COMPLETE (contents PDF pp.4–5, units 1–5, glossary printed p.146, references p.153). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Scientific inquiry: Designing a model car (Jordan, Science, Grade 7, Student Book, Term 1) | Jordan, *Science, Grade 7, Student Book, Term 1*, printed p. 142 |
+
+**Book (Jordan — Science, Grade 6, Teacher's Guide, Term 1):** Records: TSV grade-06-gov-jordan-science-teacher-term-1 (mid-size-books-5) and books.json grade-06/gov/jordan/science/teacher/term-1.pdf (in_pushed, 67,854,103 bytes). Grabbed file is exactly 67,854,103 bytes — verified match. Cover/title page verified: العلوم — الصف السادس — دليل المعلم — الفصل الدراسي الأول, publisher NCCD, ISBN 978-9923-41-494-1, ministry approval 2023/249. PDF pages: 206. Verdict: COMPLETE. The guide mirrors Grade 6 Student Term 1 unit-for-unit (The cell and levels of organisation; Matter — the Chemistry unit; Energy and simple machines; Geological processes and pollution) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 6 Student T1 and Workbook T1 items placed above (guide evidence). The Unit 2 (Matter) spotlights — natural diamond as pure carbon formed 150 km underground (guide PDF p. 71), copper cooking pots and their health risk (p. 77), iron's high electrical resistance and rusting versus copper wiring (p. 79), and the hazards and uses of bromine (p. 80) — are pure Chemistry-wave content and are not placed here, per the split-subject scope rule. A shorter version of the weathering spotlight also appears as the worked example in the guide's front matter (guide PDF p. 14); it is placed once, from the lesson itself (p. 128). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight classifying levers into three types according to the positions of the force, the resistance and the fulcrum; first-class levers, with the fulcrum between the force and the resistance, are the most common in daily life (Jordan, Science, Grade 6, Teacher's Guide, Term 1) | Jordan, *Science, Grade 6, Teacher's Guide, Term 1*, guide PDF p. 106 |
+
+**Acceptance count: taught in 30 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials simple-machines

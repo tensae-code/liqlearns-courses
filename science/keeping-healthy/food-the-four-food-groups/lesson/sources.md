@@ -1,6 +1,6 @@
 # Sources — Food — the four food groups
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia, South Sudan, Iraq, Colombia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia, South Sudan, Iraq, Colombia, Jordan
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -291,3 +291,23 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, keeping-healthy/food-the-four-food-groups
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 5, Student Book, Term 2):** Records: TSV grade-05-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-05/gov/jordan/science/student/term-2.pdf (in_pushed, 95,904,273 bytes). File in scratch is exactly 95,904,273 bytes — verified match (grab completed by the first reader, finished by this reader). Title as printed: العلوم — الصف الخامس — كتاب الطالب — الفصل الدراسي الثاني. Publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-272-5, ministry approval 2020/163, school year 2020/2021. PDF pages: 108. Printed page = PDF page in this book (footer-checked, PDF p. 12 = printed p. 12). Verdict: COMPLETE (contents PDF pp. 3–4, units 6–10 continuing Term 1 numbering, glossary printed p. 103). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 438, 477); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food groups (Unit 6 L1) (Jordan, Science, Grade 5, Student Book, Term 2) (the duplicate filing assigned the same item to keeping-healthy/food-the-four-food-groups — taught once, here) | Jordan, *Science, Grade 5, Student Book, Term 2*, printed p. 10 |
+
+**Book (Jordan — Science, Grade 5, Teacher's Guide, Term 2):** Records: TSV grade-05-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-05/gov/jordan/science/teacher/term-2.pdf (in_pushed, 88,884,137 bytes). File in scratch is exactly 88,884,137 bytes — verified match (grabbed by an earlier reader; read and finished by this finisher reader). Cover/title page verified: العلوم — الصف الخامس — دليل المعلم — الفصل الدراسي الثاني, publisher NCCD, © HarperCollins 2020, ISBN 978-9923-41-109-4, ministry approval 2022/82. PDF pages: 156. Verdict: COMPLETE. The guide mirrors Grade 5 Student Term 2 unit-for-unit (Food and health; The human body systems; Properties and transformations of matter; Motion and energy; The Earth and weather) with outcomes matrices, lesson steps, answers and formative checks. Guide-evidence placements below are the guide's own added teacher-spotlight (إضاءة للمعلم) explanations; the guide also carries answers/explanations for the Grade 5 Student T2 and Workbook T2 items placed above (guide evidence). Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: teacher spotlight on the food groups — each group is richest in one nutrient (proteins in meat, milk and beans; the fats group supplies energy, in fish, nuts and olives), foods of similar content and importance are grouped together so people eat from all groups and avoid nutrition-related diseases, and the classification itself is not fixed (Jordan, Science, Grade 5, Teacher's Guide, Term 2) | Jordan, *Science, Grade 5, Teacher's Guide, Term 2*, guide PDF p. 12 |
+
+**Acceptance count: taught in 14 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy food-the-four-food-groups

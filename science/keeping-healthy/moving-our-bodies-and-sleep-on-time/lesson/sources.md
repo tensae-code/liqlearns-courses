@@ -1,6 +1,6 @@
 # Sources — Moving our bodies and sleep on time
 
-countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, South Sudan, Colombia, Nepal
+countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, South Sudan, Colombia, Nepal, Jordan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -385,3 +385,23 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/moving-our-bodies-and-sleep-on-time
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 1, Student Book, Term 1):** Records: TSV grade-01-gov-jordan-science-student-term-1 (mid-size-books-2) and books.json grade-01/gov/jordan/science/student/term-1.pdf (in_pushed, 19,301,668 bytes) and books.json NCCD variant term-1-nccd.pdf (20,657,074 bytes). The TSV grab produced a file of exactly 19,301,668 bytes, byte-size-identical to the books.json record — same book; read from that file. The NCCD variant is a parallel file of the same printed book (see duplicate note in the log). PDF pages: 74. Verdict: COMPLETE (contents PDF p.3, units 1–3, glossary printed p.72). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Enrichment: Sport and exercise (Jordan, Science, Grade 1, Student Book, Term 1) | Jordan, *Science, Grade 1, Student Book, Term 1*, printed p. 21 |
+
+**Book (Jordan — Science, Grade 2, Teacher's Guide, Term 2):** Records: TSV grade-02-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-02/gov/jordan/science/teacher/term-2.pdf (in_pushed, 10,567,009 bytes). Grabbed file is exactly 10,567,009 bytes — verified match, so the library copy itself is this short file. PDF pages: 34. Verdict: PARTIAL — the file contains ONLY Unit 4 (The human body and its health) of the Term 2 guide: outcomes matrix, the unit's lessons, unit review, a worksheet appendix and workbook answers for Unit 4 only. Units 5 (Sound and light) and 6 (Matter) are missing. The title page also misprints the term as "Term 1" while all content is the Term 2 Unit 4. Guide evidence below covers the unit that is present. Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 934, 964); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: expected-answer explanation that sleeping early rests the body and makes it more active, while too little sleep causes loss of concentration, inattention and general weakness (Jordan, Science, Grade 2, Teacher's Guide, Term 2) | Jordan, *Science, Grade 2, Teacher's Guide, Term 2*, guide PDF p. 16 |
+
+**Acceptance count: taught in 18 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy moving-our-bodies-and-sleep-on-time

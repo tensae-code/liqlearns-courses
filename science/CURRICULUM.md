@@ -463,6 +463,7 @@ solar-system comparison lessons.
 53. **Neurons and nerves** (`the-human-body/neurons-and-nerves`) — investigating neuron types, comparing them with each other and with electric circuits.
 54. **X-rays and radiographs** (`the-human-body/x-rays-and-radiographs`) — X-rays as a form of energy used to detect bone fractures with a radiograph, and a community survey of fractures and X-rays.
 55. **Blood — and what it carries** (`the-human-body/blood-and-what-it-carries`) — blood's solid and liquid parts together in one stream, and its carrying jobs — oxygen to the body and carbon dioxide back, nutrients out and wastes away (Papua New Guinea, Grade 6 — *National Science Textbook, Grade 6*, printed p. 149; built for the Papua New Guinea placements, expansion-science-2026-11-13/papua-new-guinea-placements.md)
+56. **Smart prosthetic limbs — technology that helps the body** (`the-human-body/smart-prosthetic-limbs-technology-that-helps-the-body`) — a made limb stands in for a missing limb, and smart prosthetics add technology so the made limb helps the body do the limb's work — appreciating the role of science and technology (Jordan, Grade 2 — *Science, Grade 2, Student Book, Term 2*, printed p. 21; built for the Jordan placements, expansion-science-2026-11-13/jordan-placements.md)
 
 ## Unit 4 — Materials
 
@@ -656,6 +657,8 @@ solar-system comparison lessons.
 26. **The electromagnetic spectrum beyond visible light** (`light/the-electromagnetic-spectrum-beyond-visible-light`) — Ch. (Saudi Arabia, First Intermediate, Part 2 — *Science, First Intermediate, Part 2*, printed p. 56; built for the Saudi Arabia placements, expansion-science-2026-11-13/saudi-arabia-placements.md)
 27. **Gathering and focusing light** (`light/gathering-and-focusing-light`) — what happens when light is gathered — spread light brought together to one place, falling brighter there (Papua New Guinea, Grade 3 — *National Science Textbook, Grade 3*, printed p. 149; built for the Papua New Guinea placements, expansion-science-2026-11-13/papua-new-guinea-placements.md)
 28. **Lenses — and the pinhole camera** (`light/lenses-and-the-pinhole-camera`) — the convex lens by its properties and function, the pinhole camera beside it — a picture with no lens at all — and applications of convex lenses — teacher-guide evidence only, acceptance 0 (Papua New Guinea, Grade 7 — *Science Teacher Guide, Grade 7, Standards Based*, printed p. 41; built for the Papua New Guinea placements, expansion-science-2026-11-13/papua-new-guinea-placements.md)
+
+29. **Bioluminescence — living things that glow** (`light/bioluminescence-living-things-that-glow`) — some living things make their own light — a natural light source that is alive, taught as an enrichment inside the light unit (Jordan, Grade 2 — *Science, Grade 2, Student Book, Term 2*, printed p. 39; built for the Jordan placements, expansion-science-2026-11-13/jordan-placements.md)
 
 ## Unit 6 — Weather and Seasons
 

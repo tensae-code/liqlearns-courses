@@ -1,6 +1,6 @@
 # Sources — Young are like, but not exactly like, their parents
 
-countries: United States, Bhutan, Vietnam, Morocco (teacher-guide evidence only)
+countries: United States, Bhutan, Vietnam, Morocco (teacher-guide evidence only), Jordan
 
 **Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -71,3 +71,24 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, anima
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, animals young-are-like-but-not-exactly-like-their-parents
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 2, Student Book, Term 1):** Records: TSV release grade-02 student term-1 is NOT in TSV list; books.json grade-02/gov/jordan/science/student/term-1.pdf, on_disk=true, in_pushed=true, size 21,556,599 bytes — verified: on-disk file is exactly 21,556,599 bytes. Same logical book as the minhaji source record. Title as printed: العلوم — الصف الثاني — كتاب الطالب — الفصل الدراسي الأول. Publisher NCCD, © HarperCollins 2022, ISBN 978-9923-41-238-1. PDF pages: 60. Verdict: COMPLETE (contents p.3, three units, glossary at printed p.59 = last content). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living organisms inherit their traits (offspring resemble parents, e.g. horse and foal) (Jordan, Science, Grade 2, Student Book, Term 1) — placement filed as NEW LESSON NEEDED — inherited-traits-how-the-young-resemble-their-parents | Jordan, *Science, Grade 2, Student Book, Term 1*, printed p. 16 |
+
+**Book (Jordan — Science, Grade 2, Workbook, Term 1):** Records: TSV grade-02 term-1-workbook (mid-size-books-2) and books.json grade-02/gov/jordan/science/student/term-1-workbook.pdf (on_disk=true, 4,364,289 bytes — verified exact on disk). Same printed workbook. PDF pages: 28. Verdict: COMPLETE (contents PDF p.3, activities for all three Term-1 units, exercises to printed p.25+). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: How do young birds change? (growth and resemblance) (Jordan, Science, Grade 2, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — inherited-traits-how-the-young-resemble-their-parents | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 5 |
+| Activity: Rabbits and their young (Jordan, Science, Grade 2, Workbook, Term 1) — placement filed as NEW LESSON NEEDED — inherited-traits-how-the-young-resemble-their-parents | Jordan, *Science, Grade 2, Workbook, Term 1*, printed p. 6 |
+
+**Acceptance count: taught in 4 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals young-are-like-but-not-exactly-like-their-parents

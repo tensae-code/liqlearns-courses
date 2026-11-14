@@ -1,6 +1,6 @@
 # Sources — Fossils — evidence of life and environments long ago
 
-countries: United States, Cuba, Egypt, Afghanistan, Nicaragua, El Salvador
+countries: United States, Cuba, Egypt, Afghanistan, Nicaragua, El Salvador, Jordan
 
 **Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -97,3 +97,42 @@ Placement choice, on the record: the El Salvador placement(s) above filed as NEW
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/fossils-evidence-of-life-and-environments-long-ago
+
+## Jordan growth (2026-11-14, General Science expansion)
+
+**Book (Jordan — Science, Grade 3, Student Book, Term 2):** Records: TSV grade-03-gov-jordan-science-student-term-2 (mid-size-books-2) and books.json grade-03/gov/jordan/science/student/term-2.pdf (in_pushed, 52,698,916 bytes). Grabbed file is exactly 52,698,916 bytes — verified match. PDF pages: 78. Verdict: COMPLETE (contents PDF p.3, units 4–6, glossary printed p.76). NOTE: Unit 4 of this book repeats Grade 3 Term 1 Unit 2 lesson-for-lesson (Matter and its states, printed p. 10; Pure substances and mixtures, printed p. 18; smart air-purification enrichment, printed p. 23 — same titles, same order); per the dedupe rule its content is placed ONCE, from Term 1 above, and is not re-placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fossils (الأحافير, Unit 5 L2) (Jordan, Science, Grade 3, Student Book, Term 2) — placement filed as NEW LESSON NEEDED — fossils-traces-of-ancient-living-things | Jordan, *Science, Grade 3, Student Book, Term 2*, printed p. 39 |
+
+**Book (Jordan — Science, Grade 3, Workbook, Term 2):** Records: TSV grade-03 term-2-workbook (mid-size-books-5) and books.json grade-03/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,642,181 bytes). Grabbed file is exactly 7,642,181 bytes — verified match. PDF pages: 30. Verdict: COMPLETE (contents PDF p.3, activities for units 4–6 to printed p.27). Unit 4 activities serve the repeated matter unit (see Grade 3 Student Term 2 note) but are this workbook's own activities, placed here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Activity: Fossil traces (الآثار الأحفورية) (Jordan, Science, Grade 3, Workbook, Term 2) — placement filed as NEW LESSON NEEDED — fossils-traces-of-ancient-living-things | Jordan, *Science, Grade 3, Workbook, Term 2*, printed p. 18 |
+
+**Book (Jordan — Science, Grade 7, Workbook, Term 2):** Records: TSV grade-07 term-2-workbook (mid-size-books-2) and books.json grade-07/gov/jordan/science/student/term-2-workbook.pdf (in_pushed, 7,048,725 bytes). Grabbed file is exactly 7,048,725 bytes — verified match. PDF pages: 60. Verdict: COMPLETE (contents PDF p.3, experiments for units 6–10 to printed p.59). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 706, 770); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment: We are fossil scientists (Jordan, Science, Grade 7, Workbook, Term 2) — placement filed as NEW LESSON NEEDED — fossils-traces-of-ancient-living-things (the duplicate filing assigned the same item to fossils-traces-of-ancient-living-things — taught once, here) | Jordan, *Science, Grade 7, Workbook, Term 2*, printed p. 46 |
+
+**Book (Jordan — Science, Grade 7, Student Book, Term 2):** Records: TSV grade-07-gov-jordan-science-student-term-2 (full-quality-oversized-books release) and books.json grade-07/gov/jordan/science/student/term-2.pdf (in_pushed, 191,429,111 bytes). Grabbed file is exactly 191,429,111 bytes — verified match. PDF pages: 146. Verdict: COMPLETE (contents PDF pp.3–4, units 6–10, glossary printed p.138). Filed 2 times in the placements file (the book was read by successive readers — successive filings at sections beginning lines 858, 908); its content is stocked ONCE here, from the fuller filing, with the other filing's differing assignments recorded in the rows. The duplicate filings were verified the same book (same records/size) in the reading log. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fossils (Unit 9 L3) (Jordan, Science, Grade 7, Student Book, Term 2) — placement filed as NEW LESSON NEEDED — fossils-traces-of-ancient-living-things (the duplicate filing assigned the same item to fossils-traces-of-ancient-living-things — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 101 |
+| Enrichment: How technology helps identify extinct living things (Jordan, Science, Grade 7, Student Book, Term 2) — placement filed as NEW LESSON NEEDED — fossils-traces-of-ancient-living-things (the duplicate filing assigned the same item to science-skills/science-and-technology — taught once, here) | Jordan, *Science, Grade 7, Student Book, Term 2*, printed p. 106 |
+
+**Book (Jordan — Science, Grade 3, Teacher's Guide, Term 2):** Records: TSV grade-03-gov-jordan-science-teacher-term-2 (mid-size-books-5) and books.json grade-03/gov/jordan/science/teacher/term-2.pdf (in_pushed, 46,682,354 bytes). Grabbed file is exactly 46,682,354 bytes — verified match. PDF pages: 116. Verdict: COMPLETE. Mirrors Grade 3 Student Term 2 (Earth and the universe; Matter and energy — repeated unit; Health and safety) with answers and checks; guide evidence also covers the Term 2 workbook items placed above. Every placement from this book is guide evidence — extra teaching content the guide adds — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jordan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| (guide evidence) Guide evidence: guide discussion of fossils of living bodies and the importance of studying fossils (Jordan, Science, Grade 3, Teacher's Guide, Term 2) — placement filed as NEW LESSON NEEDED — fossils-traces-of-ancient-living-things | Jordan, *Science, Grade 3, Teacher's Guide, Term 2*, guide PDF pp. 46–47 |
+
+**Acceptance count: taught in 7 countries — Jordan added.** Jordan counts through its student books/workbooks above; its teacher-guide rows in this section are guide evidence only, counted nowhere beyond that one count.
+
+Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
+
+Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space fossils-evidence-of-life-and-environments-long-ago
