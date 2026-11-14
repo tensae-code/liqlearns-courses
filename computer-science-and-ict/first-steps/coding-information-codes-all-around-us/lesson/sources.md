@@ -6,10 +6,13 @@ countries: Mongolia, Moldova
 
 **Book 2:** *EDUCAȚIE DIGITALĂ — Clasa a II-a (Educație digitală. Clasa II: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2019; ISBN: no ISBN printed (multimedia edition, 72 p.; the Digital Education module sits inside the Technological Education curriculum). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 73 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave (the complete copy was obtained by git sparse-checkout after two truncated grabs, hash-verified by git). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 3:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | 1.1.4 Coding information (alphabet-position codes, Morse code, music notation, road signs and pictograms) | Mongolia Grade 7 IT VII, printed p. 10 |
 | Lecția 2 Codificăm și decodificăm informația (traffic-light codes, Morse code, binary codes) (filed as NEW LESSON NEEDED — first-steps/coding-and-decoding-information-codes-around-us; stocked in this lesson because this lesson teaches codes all around us — Morse code, road-sign codes and agreed sign systems — the codes Moldova's lesson names) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 13 |
+| Scénario 1 Mission 1: communication — code Morse simplifié et sens de lecture (filed as NEW LESSON NEEDED — programming/morse-code-signalling-with-a-robot; stocked in this lesson because this lesson teaches Morse code — letters as short and long signals, dots and dashes, that can travel by light, sound or wire — the Morse signalling Switzerland's Thymio mission performs) | Switzerland Grade 7 Décodage 7e–8e, printed p. 19 (Scénario 1) (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Mongolia, Moldova).**
 
@@ -19,4 +22,6 @@ Mongolia's own way (Grade 7): the whole applications half is one long project �
 
 Moldova's own way (Grade 2, Educație Digitală): Grade 2 builds the idea of information quantity (bit, byte, binary drawing) before any office software, teaches the keyboard including touch-typing posture, and keeps programming unplugged-but-precise: loops, jump (pen-up) instructions and multi-loop programs for the mouse, the painter and the hedgehog. The Digital Education module sits inside Technological Education.
 
-Searchable tags: coding information, codes, morse code, alphabet code, music notation, road signs, pictograms, first steps, mongolia, grade 7 it vii, moldova, grade 2 educatie digitala
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: coding information, codes, morse code, alphabet code, music notation, road signs, pictograms, first steps, mongolia, grade 7 it vii, moldova, grade 2 educatie digitala, switzerland, decodage, grades 78

@@ -22,6 +22,9 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 
 **Book 10:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 11:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+**Book 12:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Password defined — verifies identity; first line of defence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.68 |
@@ -35,6 +38,8 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 | Ch.2 Use passwords to protect computers | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 24 |
 | Ch.6 E-mail account password safety: strong passwords, changing them, different passwords for different services (filed as safety-security-and-care/keeping-your-password-private; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 241 |
 | Passwords | Rwanda Grade 8 S2 ICT Student Book, printed p. 6 |
+| Activité 5 Séance 1: le mot de passe (afficher/masquer avec l'œil) | Switzerland Grade 6 Décodage 5e–6e, printed p. 5 (Activité 5) (teacher guide — evidence) |
+| Activité 4 Séance 1: Sécurité des accès — pourquoi et comment protéger les accès aux données sur un ordinateur | Switzerland Grade 7 Décodage 7e–8e, printed p. 3 (Activité 4) (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda).**
 
@@ -52,4 +57,8 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78

@@ -39,6 +39,8 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Gree
 **Book 19:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 **Book 20:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 21:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -63,6 +65,9 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Gree
 | 1.6 Cuantizarea imaginilor (sampling/quantising an image) | Moldova Grade 7 Informatică, printed p. 18 |
 | 4.2 Modul la alegere: Grafica pe calculator | Moldova Grade 10 Informatică, printed p. 179 |
 | 2.5 Cuantizarea imaginilor | Moldova Grade 11 Informatică, printed p. 106 |
+| Scénario 4 Séance 1: définition d'une image (nombre de pixels par ligne et par colonne) | Switzerland Grade 5 Décodage 5e–6e, printed p. 5 (Scénario 4) (teacher guide — evidence) |
+| Scénario 4 Séance 3: Créer une image, la coder, la décoder (filed as NEW LESSON NEEDED — multimedia/coding-and-decoding-a-picture-pixel-by-pixel; stocked in this lesson because this lesson teaches the digital image as pixels of bits — one tiny square of one colour, digitised and read back — the pixel-by-pixel coding and decoding of Switzerland's scenario, whose definition séances the reader filed to this same lesson directly) | Switzerland Grade 5 Décodage 5e–6e, printed p. 11 (Scénario 4) (teacher guide — evidence) |
+| Scénario 6 Séance 2: une image numérique est constituée de pixels | Switzerland Grade 6 Décodage 5e–6e, printed p. 8 (Scénario 6) (teacher guide — evidence) |
 
 **Acceptance count: taught in 9 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova).**
 
@@ -101,4 +106,6 @@ Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ si
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 10 informatica, moldova, grade 11 informatica
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 10 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56

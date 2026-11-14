@@ -8,11 +8,14 @@ countries: Palestine, Bhutan
 
 **Book 3:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 4:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Lesson 2: The stage and movement on it (the stage as a grid: x from −240 to 240, y from −180 to 180, the origin; go-to position, glide in seconds — longer glide = slower; drawing shapes from their corner coordinates; x/y sensing blocks) | Palestine, *Programming, Grade 8*, printed p. 7 |
 | 7.1 Position and Direction Blocks (filed as NEW LESSON NEEDED — programming/scratch-position-and-direction-blocks; stocked in this lesson because this lesson teaches positioning a sprite at exact x and y coordinates on the stage and travelling between positions; the direction half of Bhutan's chapter is also taught in Pointing a Sprite in a Direction in Scratch) | Bhutan, *Literacy with ICT, Class IV*, printed p. 58 |
 | 7.3 Coordinates (filed as NEW LESSON NEEDED — programming/scratch-coordinates-x-and-y-on-the-stage; stocked in this lesson because this lesson teaches the Scratch stage as a grid of x and y coordinates, with go-to and glide) | Bhutan, *Literacy with ICT, Class VI*, printed p. 108 |
+| Scénario 2 Séance 2: Se déplacer dans Scratch! déplacer un lutin de droite à gauche (filed as NEW LESSON NEEDED — programming/moving-a-sprite-directions-and-positions-in-scratch; stocked in this lesson because this lesson teaches moving a sprite by directions and positions — the stage as a numbered grid, go to a position, glide there over time — the sprite movement of Switzerland's Scratch discovery) | Switzerland Grade 7 Décodage 7e–8e, printed p. 10 (Scénario 2) (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Palestine, Bhutan).**
 
@@ -24,4 +27,6 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
 
-Searchable tags: coordinates, x, y, origin, go to, glide, speed, sensing, scratch, palestine, grade 8, bhutan, class iv, class vi
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: coordinates, x, y, origin, go to, glide, speed, sensing, scratch, palestine, grade 8, bhutan, class iv, class vi, switzerland, decodage, grades 78

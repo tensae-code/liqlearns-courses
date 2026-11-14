@@ -9,6 +9,8 @@ countries: China, Greece, Moldova
 
 **Book 4:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 5:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | 数据编码 (Data Encoding) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 1 §1.2.3, printed p. 18 |
@@ -16,6 +18,7 @@ countries: China, Greece, Moldova
 | Ch.3 Character encoding (filed as NEW LESSON NEEDED — first-steps/representing-characters-ascii-and-unicode; stocked in this lesson because this lesson teaches character encoding as its first sub lesson — every character a number in the ASCII table, with Unicode extending the same idea to all the world's scripts — the representation of characters Greece's section teaches) | Greece Grade 11 EPAL Basika Themata, printed p. 27 |
 | 1.4 Codificarea textelor (filed as NEW LESSON NEEDED — first-steps/encoding-text-with-character-code-tables; stocked in this lesson because this lesson teaches encoding text with character code tables — ASCII, each character a number — the code tables of Moldova's section) | Moldova Grade 7 Informatică, printed p. 13 |
 | 1.7 Codificarea și decodificarea informației sonore (filed as NEW LESSON NEEDED — multimedia/encoding-and-decoding-sound-analog-to-digital; stocked in this lesson because this lesson teaches encoding sound by sampling — the analogue-to-digital coding of Moldova's section) | Moldova Grade 7 Informatică, printed p. 22 |
+| Activité 2 Séance 2: Conversion d'une lettre en nombre binaire; décoder un message (filed as NEW LESSON NEEDED — first-steps/coding-letters-in-binary-and-decoding-a-message; stocked in this lesson because this lesson teaches encoding text with a code table — every character a number, stored in binary, the same table read backwards to decode — the letter coding of Switzerland's activity) | Switzerland Grade 7 Décodage 7e–8e, printed p. 9 (Activité 2) (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (China, Greece, Moldova).**
 
@@ -31,4 +34,6 @@ Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes):
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: data encoding, ascii, unicode, sampling, pixels, text, sound, images, programming, china, information technology compulsory 1, grade 11 record, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 epal basika themata, moldova, grade 7 informatica
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: data encoding, ascii, unicode, sampling, pixels, text, sound, images, programming, china, information technology compulsory 1, grade 11 record, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 epal basika themata, moldova, grade 7 informatica, switzerland, decodage, grades 78

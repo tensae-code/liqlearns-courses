@@ -28,6 +28,9 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan,
 
 **Book 13:** *EDUCAȚIE DIGITALĂ — Clasa I (Educație digitală. Clasa I: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2018; ISBN: no ISBN printed (multimedia edition, 60 p., produced under the 2018 digital-education memorandum with Tekwill). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 60 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 14:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+**Book 15:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Harms of wrong use to user and device | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.58 |
@@ -44,6 +47,8 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan,
 | Workbook Ch.3 Security of the Computer System exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 12 |
 | Maintaining your computer | Rwanda Grade 7 S1 ICT Student Book, printed p. 99 |
 | Lecția 11 Să avem grijă de prietenii noștri digitali (care rules; battery care) | Moldova Grade 1 Educație Digitală Clasa I, printed p. 37 |
+| Parcours: Prendre soin du matériel numérique de la classe | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 10 (Parcours) (teacher guide — evidence) |
+| Parcours: Prendre soin du matériel numérique | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 10 (Parcours) (teacher guide — evidence) |
 
 **Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda, Moldova).**
 
@@ -61,4 +66,8 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Moldova's own way (Grade 1, Educație Digitală): digital education starts at age 6–7 with no keyboard skills assumed — information, devices and staying safe first, told through two child guides (Ana and Ștefan), and programming introduced unplugged (instructions, algorithm, a first maze program, debugging) before any real software. The Digital Education module sits inside Technological Education in the early grades.
 
-Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala
+Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digital-education curriculum is taught in three axes — Science informatique (SI), Médias (M), Usages (U) — almost entirely UNPLUGGED at this age: algorithms are learned with the body (robot game, crane game, hand-washing, getting dressed, a crêpe recipe), a physical sorting machine, and the Blue-Bot floor robot; the class also builds a collective digital “charter book” of good digital habits across the whole cycle.
+
+Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
+
+Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34

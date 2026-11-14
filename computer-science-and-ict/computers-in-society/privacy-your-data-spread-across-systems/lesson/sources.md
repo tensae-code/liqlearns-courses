@@ -19,6 +19,8 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece
 **Book 8:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 9:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 10:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Data everywhere, behind passwords | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 3) |
@@ -31,6 +33,7 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece
 | Ch.3 §4.6 Privacy law (Privacy Law) | Laos Grade 10 ICT student, printed p. 78 |
 | Unit 6 Privacy policy: how much information do we share | Greece Grade 9 Pliroforiki C, printed p. 75 |
 | Ch.16 Privacy and personal data on the internet (with copyright and software piracy) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 139 |
+| Activité 5: Se connecter à un site protégé — données personnelles et leur confidentialité | Switzerland Grade 6 Décodage 5e–6e, printed p. 3 (Activité 5) (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece).**
 
@@ -50,4 +53,6 @@ Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-l
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 56

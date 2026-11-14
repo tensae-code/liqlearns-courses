@@ -36,6 +36,9 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 
 **Book 17:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 18:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+**Book 19:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The awareness list — the tool, invalid content, predators, footprints, photos, gaming, downloads, adult help | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–208 |
@@ -55,6 +58,9 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 | Ch.6 Use the internet safely: e-mail safety and safe online transactions | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 74 |
 | Ch.7 Use the internet safely (hacking protection) and ethically | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 102 |
 | Ch.2 §II.2 Internet Safety | Laos Grade 12 ICT student, printed p. 51 |
+| Parcours: Sécurité en ligne et droit à l'image | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 4 (Parcours) (teacher guide — evidence) |
+| Parcours: Sécurité en ligne et droit à l'image | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 4 (Parcours) (teacher guide — evidence) |
+| Scénario 6 Parcours du partage: le partage d'images et d'informations sur Internet, le droit à l'image | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Scénario 6) (teacher guide — evidence) |
 
 **Acceptance count: taught in 12 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos).**
 
@@ -84,4 +90,8 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 12 ict student
+Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digital-education curriculum is taught in three axes — Science informatique (SI), Médias (M), Usages (U) — almost entirely UNPLUGGED at this age: algorithms are learned with the body (robot game, crane game, hand-washing, getting dressed, a crêpe recipe), a physical sorting machine, and the Blue-Bot floor robot; the class also builds a collective digital “charter book” of good digital habits across the whole cycle.
+
+Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
+
+Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 12 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34

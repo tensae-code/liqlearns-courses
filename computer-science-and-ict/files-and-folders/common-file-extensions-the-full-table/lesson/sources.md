@@ -8,12 +8,15 @@ countries: Ethiopia
 
 **Book 3:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 4:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The full table — file types, extensions, contents | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed p. 8 |
 | Extension length and requirement rules by system | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed p. 8 |
 | Verified answers (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 1 review key, printed pp. 19–21 (teacher guide — evidence) |
 | Additional content: types of files (application-based and system-based) (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 44 (teacher guide — evidence) |
+| Activité 4 Séance 1: Jeu de tri des types de fichiers et de leurs icônes | Switzerland Grade 6 Décodage 5e–6e, printed p. 5 (Activité 4) (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -21,4 +24,6 @@ No book error touches this lesson's page. One caution is carried from the teache
 
 Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
 
-Searchable tags: extension table, txt, rtf, pdf, ppt, mdb, zip, rar, exe, wav, extension length, DOS, files and folders, grade 10, information technology, ict, ethiopia, rwanda, grade 7 s1 ict teacher guide
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Searchable tags: extension table, txt, rtf, pdf, ppt, mdb, zip, rar, exe, wav, extension length, DOS, files and folders, grade 10, information technology, ict, ethiopia, rwanda, grade 7 s1 ict teacher guide, switzerland, decodage, grades 56

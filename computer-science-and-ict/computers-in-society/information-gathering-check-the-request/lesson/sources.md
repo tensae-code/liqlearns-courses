@@ -8,15 +8,20 @@ countries: Ethiopia, Djibouti, Mozambique
 
 **Book 3:** *Módulo de Tecnologias de Informação e Comunicação (TIC) — Programa do Ensino Secundário à Distância, 1º Ciclo (PESD I)* (student book, Portuguese) — Mozambique, Ministério da Educação e Desenvolvimento Humano, Instituto de Educação Aberta e à Distância (IEDA), 2023. Grade 7 (grades 7–9 distance secondary, first cycle). No ISBN printed. 186 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mozambique-placements.md.
 
+**Book 4:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Gathering is part of how systems work — and it is disputed | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 4 (student placement item 5) |
 | Sub lesson 2 — Consent — examine the intention first | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 4 (student placement item 5) |
 | Chapitre 5 Leçon 3 — La sélection et les sources des documents sur le web — selecting web documents and their sources (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 57 (teacher guide — evidence) |
 | Lição 18, Análise da Informação Disponível na Internet de Forma Crítica | Mozambique, *Módulo de TIC, PESD I*, printed p. 105 |
+| Scénario 11: Médias et information — les jeunes et l'information en contexte numérique | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 3 (Scénario 11) (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Mozambique).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
-Searchable tags: information gathering, consent, credentials, intention, data collection, Ethiopia Grade 12 IT, djibouti, mozambique
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Searchable tags: information gathering, consent, credentials, intention, data collection, Ethiopia Grade 12 IT, djibouti, mozambique, switzerland, decodage, grades 56

@@ -36,6 +36,9 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 
 **Book 17:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 18:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+**Book 19:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The road map of this course, and its brainstorm-first rhythm | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 1–2 (placement item 1: printed pp. II, 1 and unit openings throughout; item 2: printed p. 2) |
@@ -57,6 +60,8 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 | Definition of ICT | Rwanda Grade 7 S1 ICT Student Book, printed p. 8 |
 | Unit 1 guide: ICT foundation, content map and key competency (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 1 (teacher guide — evidence) |
 | Ch.1 §1 The meaning of ICT | Laos Grade 6 ICT student, printed p. 2 |
+| Parcours: Identifier les outils numériques | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 9 (Parcours) (teacher guide — evidence) |
+| Parcours: Identifier les outils numériques | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 9 (Parcours) (teacher guide — evidence) |
 
 **Acceptance count: taught in 13 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos).**
 
@@ -80,4 +85,8 @@ Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student unit
 
 Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
 
-Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 6 ict student
+Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digital-education curriculum is taught in three axes — Science informatique (SI), Médias (M), Usages (U) — almost entirely UNPLUGGED at this age: algorithms are learned with the body (robot game, crane game, hand-washing, getting dressed, a crêpe recipe), a physical sorting machine, and the Blue-Bot floor robot; the class also builds a collective digital “charter book” of good digital habits across the whole cycle.
+
+Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
+
+Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 6 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34

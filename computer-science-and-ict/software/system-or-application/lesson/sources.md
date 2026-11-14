@@ -18,6 +18,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece
 
 **Book 8:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 9:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The comparison — purpose, running time, interaction; Windows vs Word | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.34 |
@@ -28,6 +30,7 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece
 | 1.2.1 The classification of software (system and application software; how the operating system works; drivers) | Mongolia Grade 8 IT VIII, printed p. 13 |
 | Ch.2 §3 Types of software | Laos Grade 7 ICT student, printed p. 49 |
 | Ch.2 System software and application software | Greece Grade 10 Efarmoges Pliroforikis, printed p. 20 |
+| Activité 6 Séance 1: Différencier système d'exploitation, document, site web et logiciel | Switzerland Grade 8 Décodage 7e–8e, printed p. 3 (Activité 6) (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece).**
 
@@ -45,4 +48,6 @@ Laos's own way (Grade 7 ICT student book): the hardware year is taught through t
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78

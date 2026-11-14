@@ -20,6 +20,8 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos
 
 **Book 9:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 10:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Internet Protocol and its address | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 72–73 |
@@ -32,6 +34,7 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos
 | 8-2 IP Addresses and Domain Names | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 99 |
 | Ch 1, Internet addresses: logical node names, logical addresses, physical addresses | Libya Grade 11 IT student Term 2, printed p. 18 |
 | Ch.5 §5.3.1 Internet Protocol address | Laos Grade 8 ICT student, printed p. 92 |
+| Activité 7 Temps 1.1: Démarrage et adresse IP | Switzerland Grade 8 Décodage 7e–8e, printed p. 4 (Activité 7) (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos).**
 
@@ -52,4 +55,6 @@ Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 i
 
 Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
 
-Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78

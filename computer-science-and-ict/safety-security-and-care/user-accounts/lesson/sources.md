@@ -16,6 +16,8 @@ countries: Ethiopia, Bhutan, Libya, Rwanda
 
 **Book 7:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 8:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computer security — definition and three threats; passwords on accounts | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed pp.65–67 |
@@ -26,6 +28,7 @@ countries: Ethiopia, Bhutan, Libya, Rwanda
 | Ch 1, protecting software (user-identity level, usage-permissions level) and the security of databases | Libya Grade 12 IT Science, printed p. 13 |
 | Unit 1 Data Protection: setting passwords and user privileges (administrator and guest) (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 23 (teacher guide — evidence) |
 | Unit 1 Data Protection: user privilege | Rwanda Grade 8 S2 ICT Student Book, printed p. 1 |
+| Activité 5 Séance 1: comptes et connexion à un site protégé | Switzerland Grade 6 Décodage 5e–6e, printed p. 4 (Activité 5) (teacher guide — evidence) |
 
 | User accounts at Grade 10 depth — definition as settings and permissions; the powers table; the checking route (growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 192–194 |
 
@@ -41,4 +44,6 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: user accounts, administrator, standard account, guest account, computer security, password, Grade 7 ICT Ethiopia, bhutan, class v, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Searchable tags: user accounts, administrator, standard account, guest account, computer security, password, Grade 7 ICT Ethiopia, bhutan, class v, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56

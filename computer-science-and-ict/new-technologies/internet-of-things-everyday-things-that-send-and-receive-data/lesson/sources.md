@@ -18,6 +18,8 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece
 
 **Book 8:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 9:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | IoT defined: a network of physical objects or people equipped with software, electronics, networks and sensors to collect and exchange data; connectivity beyond computers and smartphones; remote control; cutting human effort; virtually smart through data, AI and networks | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 48–49 |
@@ -29,6 +31,7 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece
 | Workbook Ch.4 Use of Microcontrollers exercises | Sri Lanka Grade 9 G9 ICT Workbook, printed p. 30 |
 | Unit 2: AI and the Internet of Things — smart systems that sense and decide | Kuwait Grade 10 Term 2 Book L1, printed p. 91 |
 | Unit 5 Internet of Things | Greece Grade 7 Pliroforiki A, printed p. 50 |
+| Activité 7 Fiches: Objets connectés (cas pratiques du réseau domestique) | Switzerland Grade 8 Décodage 7e–8e, printed p. 16 (Activité 7) (teacher guide — evidence) |
 
 **Acceptance count: taught in 8 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece).**
 
@@ -46,4 +49,6 @@ Kuwait's own way (Grade 10 Information Technology Term 2): the Grade 10 year is 
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook, kuwait, grade 10 information technology term 2, greece, grade 7 pliroforiki a gymnasiou
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook, kuwait, grade 10 information technology term 2, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 78

@@ -12,6 +12,8 @@ countries: Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos
 
 **Book 5:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 6:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a digital identity is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 17 (student placement item 22) |
@@ -20,6 +22,7 @@ countries: Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos
 | Урок 2 "Дигитална самоличност" (digital identity, pseudonyms and avatars, never share personal data; code.org accounts and picture passwords) | Bulgaria, *Computer Modelling, Grade 3*, printed p. 6 |
 | "Digital Footprint" | North Macedonia, *Informatics, Year 1*, Тема 2 §2.5, printed p. 79 |
 | Ch.3 §4.1 Your electronic profile (Electronic Profile) | Laos Grade 10 ICT student, printed p. 71 |
+| Scénario 3 Séance 2: L'identité numérique | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 7 (Scénario 3) (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Bulgaria, North Macedonia, Laos).**
 
@@ -29,4 +32,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
 
-Searchable tags: digital identity, digital image, trusted identity, fundamental services, Ethiopia Grade 12 IT, mozambique, bulgaria, north macedonia, grade 10, laos, grade 10 ict student
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: digital identity, digital image, trusted identity, fundamental services, Ethiopia Grade 12 IT, mozambique, bulgaria, north macedonia, grade 10, laos, grade 10 ict student, switzerland, decodage, grades 78

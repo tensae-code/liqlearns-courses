@@ -14,6 +14,8 @@ countries: Ethiopia, Libya, Laos
 
 **Book 6:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 7:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phishing defined; aims — steal data, install malware; recognition as the defence | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 201 |
@@ -22,6 +24,7 @@ countries: Ethiopia, Libya, Laos
 | Ch 1, electronic phishing (within computer crimes) | Libya Grade 12 IT Science, printed p. 11 |
 | Additional content: mobile banking disadvantages and smishing (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 40 (teacher guide — evidence) |
 | Ch.2 §II.4 Email Tips for Scams and Spam | Laos Grade 12 ICT student, printed p. 73 |
+| Activité 4 Temps 2.3: Hameçonnage («phishing») — être méfiant et observateur | Switzerland Grade 7 Décodage 7e–8e, printed p. 11 (Activité 4) (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Libya, Laos).**
 
@@ -35,4 +38,6 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, laos, grade 12 ict student
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, laos, grade 12 ict student, switzerland, decodage, grades 78

@@ -10,6 +10,8 @@ countries: Ethiopia, China, Egypt, Greece
 
 **Book 4:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 5:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Big data defined — too massive and complex for typical software and ordinary database tools; born of the data explosion as computers, the internet and sensors convert the real world into data | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 30–31 |
@@ -18,6 +20,7 @@ countries: Ethiopia, China, Egypt, Greece
 | 大数据及其应用 (Big Data and Its Applications) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 1 §1.3.2, printed p. 27 |
 | Unit 1 Lesson 3 Big Data | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 28 |
 | Unit 6 Big data – open data | Greece Grade 9 Pliroforiki C, printed p. 78 |
+| Introduction §7: l'importance croissante du Big Data | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 13 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, China, Egypt, Greece).**
 
@@ -25,4 +28,6 @@ Egypt's own way (Grade 8, Term 1 student book): Two units — "Artificial Intell
 
 Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
 
-Searchable tags: big data, data sources, pipeline, point of sale, data explosion, Grade 12 ICT Ethiopia, china, egypt, grade 8, greece, grade 9 pliroforiki c gymnasiou
+Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digital-education curriculum is taught in three axes — Science informatique (SI), Médias (M), Usages (U) — almost entirely UNPLUGGED at this age: algorithms are learned with the body (robot game, crane game, hand-washing, getting dressed, a crêpe recipe), a physical sorting machine, and the Blue-Bot floor robot; the class also builds a collective digital “charter book” of good digital habits across the whole cycle.
+
+Searchable tags: big data, data sources, pipeline, point of sale, data explosion, Grade 12 ICT Ethiopia, china, egypt, grade 8, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12

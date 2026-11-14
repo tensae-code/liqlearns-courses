@@ -10,6 +10,9 @@ countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos
 
 **Book 4:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 5:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+**Book 6:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What cyberbullying is — both forms | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 6 (student placement item 9) |
@@ -17,6 +20,9 @@ countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos
 | Cyberbullying — its impact and ways of preventing its occurrence (Sample Lesson Plan Module 6) | Trinidad and Tobago, *Secondary School Teacher's Guide — Information and Communication Technology*, Form 1 Term 2 Teacher's Guide (teacher guide — evidence), printed p. 27 |
 | Unit 1 The Digital World, Lesson 1: with my ethics I am an ambassador of my country — I am against cyberbullying: hurtful electronic messages, forms of online bullying, and what to do if you are bullied | Kuwait Grade 5 Digital Explorer T2, printed p. 25 |
 | Ch.2 §II.8 Cyber harassment, Stalking and Addiction | Laos Grade 12 ICT student, printed p. 111 |
+| Activité 6 Séance 1: Analyse du message médiatique pour aborder l'intimidation entre élèves | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 6 (Activité 6) (teacher guide — evidence) |
+| Scénario 9: Sensibilisation au phénomène de la cyberintimidation | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 4 (Scénario 9) (teacher guide — evidence) |
+| Scénario 5 Séance 1: La cyberintimidation entre élèves | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 4 (Scénario 5) (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Laos).**
 
@@ -26,4 +32,8 @@ Kuwait's own way (Grade 5 Digital Explorer Term 2, printed title — records nam
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: cyberbullying, harassment, private information, online gender-based violence, Ethiopia Grade 12 IT, trinidad and tobago, kuwait, grade 5 digital explorer term 2, laos, grade 12 ict student
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: cyberbullying, harassment, private information, online gender-based violence, Ethiopia Grade 12 IT, trinidad and tobago, kuwait, grade 5 digital explorer term 2, laos, grade 12 ict student, switzerland, decodage, grades 56, switzerland, decodage, grades 78

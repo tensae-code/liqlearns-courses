@@ -12,6 +12,8 @@ countries: Ethiopia, Uganda
 
 **Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — extensions, what they state, the operating system choosing the opening application, the .jpg worked example, first examples, the operating-systems table | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 6–7 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Uganda
 | Chapter 3 ICT File and Folder Management: file extensions and storage media | Uganda, *ICT Textbook Senior One*, printed p. 15 |
 | Unit 1, Lesson 1 (teacher points): File name vs file extension, showing hidden extensions in a folder window, and why an extension must not be deleted when renaming (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 12 (teacher guide — evidence) |
 | Unit 1, Lesson 2: File types and extensions (.jpg, .docx…) and giving a file a name that matches its contents (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 27 (teacher guide — evidence) |
+| Activité 4: Les types de fichiers | Switzerland Grade 6 Décodage 5e–6e, printed p. 3 (Activité 4) (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
 
@@ -28,4 +31,6 @@ Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is tau
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: file extension, jpg, docx, mp3, xlsx, operating system, files and folders, grade 10, information technology, ict, ethiopia, uganda, saudi arabia, grade 8, grade 4
+Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
+
+Searchable tags: file extension, jpg, docx, mp3, xlsx, operating system, files and folders, grade 10, information technology, ict, ethiopia, uganda, saudi arabia, grade 8, grade 4, switzerland, decodage, grades 56

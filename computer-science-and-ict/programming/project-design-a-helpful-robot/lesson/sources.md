@@ -4,9 +4,12 @@ countries: Kuwait
 
 **Book 1:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
 
+**Book 2:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1, Project 1: I Am the Little Programmer — I design a robot that helps me | Kuwait Grade 5 Digital Explorer T1, printed p. 75 |
+| Activité 5 Séance 2: Concevoir son robot — définition de l'environnement et du domaine d'application, situation-problème (filed as NEW LESSON NEEDED — new-technologies/designing-a-robot-for-a-job; stocked in this lesson because this lesson teaches designing a robot for a job — naming the help needed, what the robot must sense and do, and how you would know it had helped — the robot design of Switzerland's activity, which defines the robot's environment and field of use) | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 9 (Activité 5) (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Kuwait).**
 
@@ -14,4 +17,6 @@ Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-
 
 Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
 
-Searchable tags: project, design a robot, helpful robot, four stages, programming, kuwait, grade 5 digital explorer term 1
+Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
+
+Searchable tags: project, design a robot, helpful robot, four stages, programming, kuwait, grade 5 digital explorer term 1, switzerland, decodage, grades 78
