@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -199,3 +199,30 @@ Searchable tags: iceland, halló heimur 3, ecosystems, plants, mms, teacher aims
 **Acceptance count unchanged: taught in 8 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: djibouti, sciences expérimentales, milieux de vie, terrestrial environment, aquatic environment, teacher guide, grade 4
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our High Island Home* (student book) — Micronesia. Title as printed: Our High Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-64-0. PDF 23 pages (17 printed content pages + teaching tips to printed p. 18). Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-03/gov/micronesia/science/student/our-high-island-home.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 2 (Micronesia):** *Our Low Island Home* (student book) — Micronesia. Title as printed: Our Low Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-63-3. PDF 23 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 3 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 4 (Micronesia):** *Pacific Low Island Environments* (student book) — Micronesia. Title as printed: Pacific Low Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013 (companion ISBN sequence to the high-island volume). PDF 24 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| habitat defined: a home with food and water where young are raised; who lives where on the island (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 2 |
+| grassland habitat: sun-loving grasses, ferns, flowers; insects, spiders, lizards, birds (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 5 |
+| lagoon: sheltered sea holding many habitats (seagrass, reef, sand, mud) (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 11 |
+| habitat: where a plant or animal finds food, water and a place to raise young (Micronesia, Grades 3–5) | Micronesia, *Our Low Island Home*, printed p. 2 |
+| lagoon habitats: mud, sand, seagrass and coral patches, each with its own animals (Micronesia, Grades 3–5) | Micronesia, *Our Low Island Home*, printed p. 7 |
+| terrestrial vs aquatic environments; each environment suits different organisms (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 3 |
+| lagoon bottoms of rock, sand or mud (sediment) hold different habitats (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 18 |
+| the atoll lagoon: sediment bottoms (rocky, sandy, muddy), seagrass and coral patches; main seafood source (Micronesia, Grades 6–8) | Micronesia, *Pacific Low Island Environments*, printed p. 11 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, ecosystems populations communities and their surroundings

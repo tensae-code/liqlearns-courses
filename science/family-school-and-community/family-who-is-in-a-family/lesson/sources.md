@@ -1,6 +1,6 @@
 # Sources — Family — Who Is in a Family and What Each One Does
 
-countries: Ethiopia, Turkey
+countries: Ethiopia, Turkey, Micronesia
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -20,3 +20,17 @@ COMPLETE: contents promises 5 chapters ending at printed p.113 and the file's fi
 Publisher figure-number misprint in the Grade 2 student book (activity 4.10 refers to figure 1.12 where 4.12 is meant, printed p.86) is the book's own error, recorded in the placements; no part of this lesson depends on it.
 
 Searchable tags: family, family members, roles, father mother children, turkey, hayat bilgisi, life studies grade 2
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Pacific Low Island Environments* (student book) — Micronesia. Title as printed: Pacific Low Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013 (companion ISBN sequence to the high-island volume). PDF 24 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| village plant life: tended, tolerated and weed plants in villages; invasive weeds (Micronesia's own way: the village as an environment) (Micronesia, Grades 6–8) | Micronesia, *Pacific Low Island Environments*, printed p. 6 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, family who is in a family

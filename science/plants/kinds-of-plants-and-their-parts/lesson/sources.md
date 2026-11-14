@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -115,3 +115,17 @@ Searchable tags: sweden, spsm, vaxter omkring oss, trees, oak, spruce, pine, bir
 **Acceptance count: taught in 3 countries (Ethiopia, Sweden, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our High Island Home* (student book) — Micronesia. Title as printed: Our High Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-64-0. PDF 23 pages (17 printed content pages + teaching tips to printed p. 18). Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-03/gov/micronesia/science/student/our-high-island-home.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teaching tips, guide evidence: parts of a plant and their jobs (roots, trunk/stem, leaves, flower); coloured-water transport test; covered-leaf light test; transpiration bag (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 13 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Sweden, Guyana).** Micronesia is named as teaching-tips guide evidence only — the placements are the readers' teaching-tips pages, cited as guide evidence as filed — not added to this count.
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, kinds of plants and their parts

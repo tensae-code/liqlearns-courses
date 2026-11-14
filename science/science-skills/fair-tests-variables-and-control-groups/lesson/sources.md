@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -43,3 +43,20 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 Student placement: Grade 8 student item 4 (Unit 1 §1.3, printed pp. 12–14), with the variable definitions it stands on at printed pp. 6–8 inside student item 2's section — both ranges are the student book's own Unit 1, cited as printed. The fertiliser-and-bean framing is the student book's own fair-test activity. No book errors inside this item were flagged by the placements.
 
 Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1, uganda, jamaica, jamaica nsc integrated science, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, cook islands, cook islands grade 8, ko au e toku aorangi, australia, pearson science 9
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 2 (Micronesia):** *Pacific Low Island Environments* (student book) — Micronesia. Title as printed: Pacific Low Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013 (companion ISBN sequence to the high-island volume). PDF 24 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teaching tips, guide evidence: island soils and gardens fair test — seeds × soils, same water and light, record height and leaves; then vary one variable at a time (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 21 |
+| teaching tips, guide evidence: island soils and gardens seed × soil experiment (Micronesia, Grades 6–8) | Micronesia, *Pacific Low Island Environments*, printed p. 17 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia).** Micronesia is named as teaching-tips guide evidence only — the placements are the readers' teaching-tips pages, cited as guide evidence as filed — not added to this count.
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, fair tests variables and control groups

@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -101,3 +101,17 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 **Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rivers: streams join into rivers, fast and narrow or slow and wide; drinking-water source — keep rivers clean (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 12 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, water why it is precious and how to save it

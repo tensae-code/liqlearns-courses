@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -49,3 +49,21 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, water and air, sourc
 **Acceptance count: taught in 3 countries (Ethiopia, Mexico, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our High Island Home* (student book) — Micronesia. Title as printed: Our High Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-64-0. PDF 23 pages (17 printed content pages + teaching tips to printed p. 18). Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-03/gov/micronesia/science/student/our-high-island-home.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 2 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| wetland habitat: flooded low land, reeds, freshwater fish, shrimp, crabs; taro grown in wetlands (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 6 |
+| rain runs downhill: streams join to form rivers; freshwater snails, shrimp, fish (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 7 |
+| wetland: flooded ground, adapted grasses and reeds, taro patches, freshwater animals (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 11 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Guyana, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, water why every living thing needs it

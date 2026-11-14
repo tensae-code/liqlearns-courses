@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -107,3 +107,23 @@ Searchable tags: niue, usp readers 2 and 4, pacific voyaging, fish fences, local
 **Acceptance count unchanged: taught in 5 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, þjórsárver, pink-footed goose, ramsar, teacher guide, grade 5
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our Low Island Home* (student book) — Micronesia. Title as printed: Our Low Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-63-3. PDF 23 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 2 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 3 (Micronesia):** *Pacific Low Island Environments* (student book) — Micronesia. Title as printed: Pacific Low Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013 (companion ISBN sequence to the high-island volume). PDF 24 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| islands without people as refuges: coconut crabs, nesting turtles, seabirds; do not disturb (Micronesia, Grades 3–5) | Micronesia, *Our Low Island Home*, printed p. 10 |
+| small uninhabited islands: last safe refuges for seabirds, turtles, coconut crabs (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 19 |
+| islands without people: last safe homes for seabirds, turtles and coconut crabs (Micronesia, Grades 6–8) | Micronesia, *Pacific Low Island Environments*, printed p. 10 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, local knowledge local conservation

@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only)
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -66,3 +66,17 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, ol stamba skil blong
 **Acceptance count unchanged: taught in 4 countries (Kuwait, Finland, Turkey, Australia).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, field trips, observing nature, mind map, identification keys, teacher guide, grade 5
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our High Island Home* (student book) — Micronesia. Title as printed: Our High Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-64-0. PDF 23 pages (17 printed content pages + teaching tips to printed p. 18). Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-03/gov/micronesia/science/student/our-high-island-home.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teaching tips, guide evidence: seed sorting and growing observations; plant-part stations with magnifier (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 13 |
+
+**Acceptance count unchanged: taught in 4 countries (Kuwait, Finland, Turkey, Australia).** Micronesia is named as teaching-tips guide evidence only — the placements are the readers' teaching-tips pages, cited as guide evidence as filed — not added to this count.
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, skills of practical study observe predict hypothesise record conclude

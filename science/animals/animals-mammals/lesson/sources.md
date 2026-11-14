@@ -1,6 +1,6 @@
 # Sources — Animals — mammals
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -112,3 +112,17 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 **Acceptance count unchanged: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, fox, shore, teacher guide, grade 5
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our Low Island Home* (student book) — Micronesia. Title as printed: Our Low Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-63-3. PDF 23 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| open ocean: tuna, sharks, rays; dolphins and whales are mammals, not fish (Micronesia, Grades 3–5) | Micronesia, *Our Low Island Home*, printed p. 11 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, animals mammals

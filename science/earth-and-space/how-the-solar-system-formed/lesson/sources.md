@@ -1,6 +1,6 @@
 # Sources — How the solar system formed — from cloud to Sun
 
-countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia, Armenia
+countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia, Armenia, Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -29,3 +29,17 @@ countries: Ethiopia, Ecuador, Finland (teacher-training evidence only), Slovenia
 No book errors attach to this item. The layered-observation opening activity of the unit (look, look closer, uncover, open) is reflected in this lesson's Do-it-first.
 
 Searchable tags: nebula, solar system formation, gravity collapse, nuclear fusion, hydrogen, helium, 4.5 billion years, Ethiopia Grade 8 General Science Unit 6, ecuador, finland
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how a high island forms: underwater volcano, lava cools to rock, island rises, volcano goes quiet (Micronesia's own way: island-building by lava) (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 2 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Slovenia, Armenia, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, how the solar system formed

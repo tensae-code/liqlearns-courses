@@ -1,6 +1,6 @@
 # Sources — Forests — what they give and what cutting them costs
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -34,3 +34,18 @@ Searchable tags: forests, deforestation, afforestation, reforestation, carbon si
 **Acceptance count unchanged: taught in 1 country (Ethiopia).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, deforestation, grazing, planting forest, treeless, teacher guide, grade 5
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Pacific High Island Environments* (student book) — Micronesia. Title as printed: Pacific High Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-65-7. PDF 28 pages. Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-06/gov/micronesia/science/student/pacific-high-island-environments.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| upland forest: ancient forest survives far from villages; endemic birds and bats; forests cut for farms, building and fuel (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 6 |
+| grassland formed where people burned forest; repeated fire keeps trees out (Micronesia, Grades 6–8) | Micronesia, *Pacific High Island Environments*, printed p. 14 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Micronesia).**
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, forests what they give and what cutting them costs

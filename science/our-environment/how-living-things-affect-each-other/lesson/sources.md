@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -133,3 +133,25 @@ Searchable tags: tuvalu, usp readers 2 and 4, symbiosis, zooxanthellae, camoufla
 Niue’s own way — how living things affect each other taught through coral symbiosis, reef life and camouflage, and what settlement and introduced species did to Pacific islands, in the adopted USP readers — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp readers 2 and 4, symbiosis, zooxanthellae, camouflage, introduced species
+
+## Micronesia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Micronesia):** *Our High Island Home* (student book) — Micronesia. Title as printed: Our High Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-64-0. PDF 23 pages (17 printed content pages + teaching tips to printed p. 18). Verdict: COMPLETE. Twin record: TSV release record and books.json record grade-03/gov/micronesia/science/student/our-high-island-home.pdf are the same book; cited once here. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 2 (Micronesia):** *Our Low Island Home* (student book) — Micronesia. Title as printed: Our Low Island Home. Publisher: Island Research & Education Initiative / PREL, 2013. ISBN 978-982-9123-63-3. PDF 23 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 3–5 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+**Book 3 (Micronesia):** *Pacific Low Island Environments* (student book) — Micronesia. Title as printed: Pacific Low Island Environments. Publisher: Island Research & Education Initiative / PREL, 2013 (companion ISBN sequence to the high-island volume). PDF 24 pages. Verdict: COMPLETE. No twin in this group; books.json record only. A Pacific Islands Climate Education Partnership (PCEP) reader created by Island Research & Education Initiative (IREI) with Pacific Resources for Education and Learning (PREL), Palikir, Pohnpei, 2013, read from the on-disk staging PDF. Grade: Grades 6–8 · Student book. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/micronesia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teaching tips, guide evidence: camouflage and protection/adaptation hide-and-seek activity; mangroves as nurseries; conservation link (Micronesia, Grades 3–5) | Micronesia, *Our High Island Home*, printed p. 15 |
+| reef front: wave-battered wall; only tough algae shallow, sponges and sea fans filter-feed in currents (Micronesia, Grades 3–5) | Micronesia, *Our Low Island Home*, printed p. 9 |
+| ocean-facing reef: wave zone built by rock-like algae, not coral; shields lagoon and islands (Micronesia, Grades 6–8) | Micronesia, *Pacific Low Island Environments*, printed p. 14 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia).**
+
+Note, as filed: the teaching-tips rows above are guide evidence inside the student readers, cited as the evidence they are; Micronesia counts in this lesson through its pupil-facing reader pages, named in the other rows.
+
+Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
+
+Searchable tags: micronesia, pcep, irei, prel, pacific islands, how living things affect each other
