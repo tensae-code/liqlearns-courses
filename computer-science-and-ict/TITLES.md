@@ -777,3 +777,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Hardware** (ICT expansion, from Uganda): Assembling a Desktop Computer
 
 **Word Processing** (ICT expansion, from Uganda): Page Setup — Margins and Orientation · Spell Check and Proofing Tools
+
+**Networks** (ICT expansion, from Nepal): Cable Connectors — RJ45, BNC and Fibre
+
+**Databases** (ICT expansion, from Nepal): Data Types in a Database
+
+**Multimedia** (ICT expansion, from Nepal): What Animation Is — Frames and Motion
+
+**Programming** (ICT expansion, from Nepal): User-Defined Functions in Python · Libraries and Packages in Python
