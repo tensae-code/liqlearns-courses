@@ -753,3 +753,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **First Steps** (ICT expansion, from Cambodia): Codes and Media — How Information Is Represented
 
 **Word Processing** (ICT expansion, from Cambodia): Typing Khmer Script · Writing Personal and Official Letters · Writing a Business Letter
+
+**First Steps** (ICT expansion, from Azerbaijan): Objects and Their Names · Similar Features — Comparing Objects · Grouping Objects by a Feature · Distinguishing Features of Objects · Describing an Object by Its Features — Riddles · Objects — Questions and Tasks Review · Types of Information — We See, Hear and Read · Presenting Information in Different Forms · Storing Information — Memory and Carriers · Information — Questions and Tasks Review
+
+**Programming** (ICT expansion, from Azerbaijan): Actions in Sequence — First, Then, Next · An Algorithm Is a Clear Plan · Following an Algorithm Step by Step · Statements That Might Be True — Uncertain Statements · The Shortest Path — Choosing the Best Route · Algorithms — Questions and Tasks Review · Computer — Questions and Tasks Review
+
+**Software** (ICT expansion, from Azerbaijan): The Desktop and a Program Window · The Calculator Program
+
+**Multimedia** (ICT expansion, from Azerbaijan): Text Inside a Picture in Paint
