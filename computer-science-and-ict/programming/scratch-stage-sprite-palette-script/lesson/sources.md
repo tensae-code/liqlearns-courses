@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria
+countries: Ethiopia, Finland, Bulgaria, Palestine
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,14 @@ countries: Ethiopia, Finland, Bulgaria
 
 **Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 7:** *Programming (البرمجة), Grade 7* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "7" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 8:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 9:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -20,11 +28,26 @@ countries: Ethiopia, Finland, Bulgaria
 | Урок 11 "Среда за програмиране Scratch" (the Scratch programming environment) | Bulgaria, *Computer Modelling, Grade 3*, printed p. 18 |
 | Урок 2–3 "Преговор. Scratch. Футболисти – програмисти" (revision; Scratch — footballer-programmers) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 6 |
 | Unit 3, Lesson 1: Exploring the Scratch environment (stage, code area, block palette, the Code/Costumes/Sounds tabs; the cat sprite acts out the script on the stage) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 78 (teacher guide — evidence) |
+| Unit 1 Lesson 1: the Scratch window (stage, sprite, backgrounds, script area, blocks area, x/y position) | Palestine, *Programming, Grade 6*, printed p. 6 |
+| Unit 1 Lesson 1: The Scratch platform (what Scratch is; the interface and its parts) | Palestine, *Programming, Grade 7*, printed p. 4 |
+| Unit 2 Lesson 1: Sprites and backgrounds on the stage (stage as a theatre; bringing sprites from the library; sprite properties) | Palestine, *Programming, Grade 7*, printed p. 34 |
+| Unit 1 Lesson 1: the Scratch platform and its interface (11 labelled parts) | Palestine, *Programming, Grade 8*, printed p. 5 |
+| Unit 1 Lesson 1: Scratch review (the platform and its 11-part interface) | Palestine, *Programming, Grade 9*, printed p. 4 |
+| Unit 1 Lesson 2: Basics of controlling the sprite (from the stage pane: shrink, enlarge, delete, duplicate; new sprite/background from the library, from a file, or from the camera) | Palestine, *Programming, Grade 9*, printed p. 12 |
+| Unit 1 Lesson 6: Changing a sprite's name (through the sprite's info panel) | Palestine, *Programming, Grade 9*, printed p. 19 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Bulgaria).**
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Bulgaria, Palestine).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4
+Palestine’s own way (Grade 6, Programming): Grade 6 programming is a full Scratch course (MIT, named in the book) in four units — basics, movement and costumes, sprites communicating, projects. Lessons after Unit 1 are deliberately non-cumulative: pupils imagine, program, then share their product in exhibitions and competitions. A local touch is kept: the “say” lesson notes Arabic text appears reversed because Scratch writes left-to-right.
+
+Palestine’s own way (Grade 7, Programming): the Scratch course deepens in three units — programming graphics, sprites and backgrounds, sprite stories and dialogues. Local grounding is explicit: the pen unit opens by asking whether Scratch can draw ornaments like the decorations of Al-Aqsa Mosque; the stage is explained as a theatre whose actors (sprites) follow the director exactly and in order.
+
+Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised around making things — Unit 1 programs drawings and ornaments (the unit opens with the ornaments of Jerusalem’s churches and the Dome of the Rock), Unit 2 weaves interactive stories with sound and dialogue (including a dialogue project on love of the homeland), Unit 3 designs real games with variables, operators and sensing.
+
+Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications course in Scratch — after a basics unit it builds real things: a photo editor, a video player, a phone PIN lock, a bank account, a library sign-up/login, an alarm clock, an elevator, a task list, a wall clock that can ring at prayer times. Its own workarounds are content too: Scratch 2 cannot type Arabic in its paint editor, so Arabic text is written in MS Paint, saved as a picture and uploaded; the news-ticker lesson’s breaking-news example is the Ministry’s own decision to teach programming in Grades 5–9; the letter-counting lesson’s example sentence says the Dome of the Rock stands in Jerusalem.
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine

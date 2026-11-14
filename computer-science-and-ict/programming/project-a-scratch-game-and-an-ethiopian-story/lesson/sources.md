@@ -1,6 +1,6 @@
 # Sources — Project: a Scratch game and an Ethiopian story
 
-countries: Ethiopia, Finland
+countries: Ethiopia, Finland, Palestine
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,12 @@ countries: Ethiopia, Finland
 
 **Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 7:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 8:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The game project — models named; actors, actions, stages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 238-239 |
@@ -21,11 +27,20 @@ countries: Ethiopia, Finland
 | Part 2 Project work: Finish the maze game (minimum: 5 levels of rising difficulty, 2 moving enemies, character animations, a win screen, sounds/music, reset on the green flag, game ends on enemy/wall) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 62 |
 | Final exam Q3 (practical): Program a cat-and-mouse game in Scratch (mouse follows the pointer, cat chases at the same speed, mouse says "Auts!" on capture; then improve the game and have a classmate test it) (final exam — assessment) | Finland, *Ensiaskeleet ohjelmointiin Final Exam*, printed p. 2 |
 | Unit 3 Project: In groups, make a Scratch project of miniature shapes/animation — the cat talks, moves and plays a sound on the stage (farm animals theme) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 86 (teacher guide — evidence) |
+| Unit 4 Lesson 13: General applications (four projects: a dialogue scene, a space-rover game steered by arrow keys, a grandmother's birthday cake, a scout drum for the school radio) | Palestine, *Programming, Grade 6*, printed p. 75 |
+| Unit 3 Lesson 3: building games (arrow-and-ball game developed over two levels, car race steered by keyboard, monkey-and-banana sensing game, the flying carpet, and a final maze game drawn in the paint editor with written rules) | Palestine, *Programming, Grade 8*, printed p. 60 |
+| Unit 3 Lesson 30: The target game (a hunting game: the rifle drawn in the painter from four rectangles, a bullet sprite, a parrot target gliding to random positions, a start-arrow sprite that broadcasts "begin"; a hit adds a point, a shot past the bird takes one away; five hits move to a faster level) | Palestine, *Programming, Grade 9*, printed p. 95 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Finland).**
+**Acceptance count: taught in 3 countries (Ethiopia, Finland, Palestine).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4
+Palestine’s own way (Grade 6, Programming): Grade 6 programming is a full Scratch course (MIT, named in the book) in four units — basics, movement and costumes, sprites communicating, projects. Lessons after Unit 1 are deliberately non-cumulative: pupils imagine, program, then share their product in exhibitions and competitions. A local touch is kept: the “say” lesson notes Arabic text appears reversed because Scratch writes left-to-right.
+
+Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised around making things — Unit 1 programs drawings and ornaments (the unit opens with the ornaments of Jerusalem’s churches and the Dome of the Rock), Unit 2 weaves interactive stories with sound and dialogue (including a dialogue project on love of the homeland), Unit 3 designs real games with variables, operators and sensing.
+
+Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications course in Scratch — after a basics unit it builds real things: a photo editor, a video player, a phone PIN lock, a bank account, a library sign-up/login, an alarm clock, an elevator, a task list, a wall clock that can ring at prayer times. Its own workarounds are content too: Scratch 2 cannot type Arabic in its paint editor, so Arabic text is written in MS Paint, saved as a picture and uploaded; the news-ticker lesson’s breaking-news example is the Ministry’s own decision to teach programming in Grades 5–9; the letter-counting lesson’s example sentence says the Dome of the Rock stands in Jerusalem.
+
+Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine

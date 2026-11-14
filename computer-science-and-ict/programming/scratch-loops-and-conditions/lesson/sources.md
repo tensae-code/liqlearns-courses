@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria
+countries: Ethiopia, Finland, Bulgaria, Palestine
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Finland, Bulgaria
 
 **Book 6:** *Компютърно моделиране, 4. клас* (student book, Bulgarian; title as printed: Компютърно моделиране — общообразователна подготовка, 4. клас; Computer Modelling, Grade 4) — Bulgaria, Изд. „Изкуства", Sofia, 2019. Authors: Румяна Папанчева, Тодорка Глушкова. ISBN not captured from the text layer (imprint page is image-only in the publisher PDF). 29 PDF pages (printed pp. 4–56 in spreads). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bulgaria-placements.md.
 
+**Book 7:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 8:** *Programming (البرمجة), Grade 7* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "7" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 9:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -25,11 +31,20 @@ countries: Ethiopia, Finland, Bulgaria
 | Final exam Q1–Q2: true/false and multiple-choice questions on the green-flag start, commands to sprites, whether a loop always needs a condition, and a condition being only true or false (final exam — assessment) | Finland, *Ensiaskeleet ohjelmointiin Final Exam*, printed p. 1 |
 | Урок 15 "Цикли в Scratch" (loops in Scratch; the labyrinth) | Bulgaria, *Computer Modelling, Grade 3*, printed p. 26 |
 | Урок 7 "Блок за разклонение" (the branching block in Scratch) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 14 |
+| Unit 1 Lesson 5: Drawing geometric shapes with repeat loops (a square from move+turn repeated 4 times) | Palestine, *Programming, Grade 6*, printed p. 30 |
+| Unit 1 Lesson 3: Repetitions (the loop) — drawing a rectangle/chessboard border with a repeat block | Palestine, *Programming, Grade 7*, printed p. 20 |
+| Unit 1 Lesson 4: Repetition and drawing ornaments (repeat block; regular polygons — number of sides = repeat count, sides × turn = 360°) | Palestine, *Programming, Grade 8*, printed p. 19 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Bulgaria).**
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Bulgaria, Palestine).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria
+Palestine’s own way (Grade 6, Programming): Grade 6 programming is a full Scratch course (MIT, named in the book) in four units — basics, movement and costumes, sprites communicating, projects. Lessons after Unit 1 are deliberately non-cumulative: pupils imagine, program, then share their product in exhibitions and competitions. A local touch is kept: the “say” lesson notes Arabic text appears reversed because Scratch writes left-to-right.
+
+Palestine’s own way (Grade 7, Programming): the Scratch course deepens in three units — programming graphics, sprites and backgrounds, sprite stories and dialogues. Local grounding is explicit: the pen unit opens by asking whether Scratch can draw ornaments like the decorations of Al-Aqsa Mosque; the stage is explained as a theatre whose actors (sprites) follow the director exactly and in order.
+
+Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised around making things — Unit 1 programs drawings and ornaments (the unit opens with the ornaments of Jerusalem’s churches and the Dome of the Rock), Unit 2 weaves interactive stories with sound and dialogue (including a dialogue project on love of the homeland), Unit 3 designs real games with variables, operators and sensing.
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine

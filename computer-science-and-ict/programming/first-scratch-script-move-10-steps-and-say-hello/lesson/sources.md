@@ -1,6 +1,6 @@
 # Sources — First Scratch script — move 10 steps and say hello
 
-countries: Ethiopia, Djibouti, Finland, Bulgaria
+countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria
 
 **Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The first script built in the book's order — Events, then Motion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 231–232 |
@@ -20,9 +22,12 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria
 | Part 1, Ohjelmoidaan: Your first Scratch program (starting Scratch, dragging move/say blocks, clicking a script, changing numbers) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 11 |
 | Урок 12 "Движение на героя" (moving the sprite) | Bulgaria, *Computer Modelling, Grade 3*, printed p. 20 |
 | Unit 3, Lesson 2: Using the programming blocks (the Say block; move the cat 30 steps and make it speak; order of blocks runs top to bottom) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 83 (teacher guide — evidence) |
+| Unit 1 Lesson 2: Moving the sprite (move steps, negative values go backwards, adding a sprite from the library, bounce at the edge, turning by degrees, pointing in a direction) | Palestine, *Programming, Grade 6*, printed p. 7 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Finland, Bulgaria).**
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Bulgaria, Palestine).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4
+Palestine’s own way (Grade 6, Programming): Grade 6 programming is a full Scratch course (MIT, named in the book) in four units — basics, movement and costumes, sprites communicating, projects. Lessons after Unit 1 are deliberately non-cumulative: pupils imagine, program, then share their product in exhibitions and competitions. A local touch is kept: the “say” lesson notes Arabic text appears reversed because Scratch writes left-to-right.
+
+Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine

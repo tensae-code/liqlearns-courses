@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland
+countries: Ethiopia, Turkmenistan, Finland, Palestine
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,12 @@ countries: Ethiopia, Turkmenistan, Finland
 
 **Book 5:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Programming (البرمجة), Grade 5* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "5" on cover) — Palestine, State of Palestine, Ministry of Education. Year 2019 (second edition, 1440H/2019; adopted for teaching from 2018/19). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 7:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
+**Book 8:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -21,11 +27,20 @@ countries: Ethiopia, Turkmenistan, Finland
 | Part 2, Luetaan: Conditional statements and truth values (conditions in Scratch, the if form) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 41 |
 | Part 2, Ohjelmoidaan: Using conditionals — the Mr. Nosey challenges (draw inside a circle, stop on a key, follow the mouse pointer, touching-colour condition) | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 46 |
 | Lesson 15 Introduction to the notion of conditions (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 66 (teacher guide — evidence) |
+| Lesson 11: The concept of the conditional statement ("if there is a cat or dog, do…"; yes/no test) | Palestine, *Programming, Grade 5*, printed p. 36 |
+| Unit 3 Lesson 2: choosing the operation with "if" (a calculator that asks for two numbers and an operation sign; if/else pass-or-fail grade checker) | Palestine, *Programming, Grade 8*, printed p. 58 |
+| Unit 3 Lesson 24: Drawing a right-angled triangle (comparing three sides with AND to find the longest; Pythagoras' theorem checked in an if — a² + b² = c² — before drawing) | Palestine, *Programming, Grade 9*, printed p. 71 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Turkmenistan, Finland).**
+**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Finland, Palestine).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9
+Palestine’s own way (Grade 5, Programming): programming is taught entirely through the offline Hour of Code Minecraft adventures (code.org) — block “bricks” snapped together to guide Steve/Alex; every puzzle is first planned on squared paper, run, checked against the success screen, and shortened; the word “algorithm” is introduced through al-Khwarizmi.
+
+Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised around making things — Unit 1 programs drawings and ornaments (the unit opens with the ornaments of Jerusalem’s churches and the Dome of the Rock), Unit 2 weaves interactive stories with sound and dialogue (including a dialogue project on love of the homeland), Unit 3 designs real games with variables, operators and sensing.
+
+Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications course in Scratch — after a basics unit it builds real things: a photo editor, a video player, a phone PIN lock, a bank account, a library sign-up/login, an alarm clock, an elevator, a task list, a wall clock that can ring at prayer times. Its own workarounds are content too: Scratch 2 cannot type Arabic in its paint editor, so Arabic text is written in MS Paint, saved as a picture and uploaded; the news-ticker lesson’s breaking-news example is the Ministry’s own decision to teach programming in Grades 5–9; the letter-counting lesson’s example sentence says the Dome of the Rock stands in Jerusalem.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine

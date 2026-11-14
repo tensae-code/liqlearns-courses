@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — worked problems
 
-countries: Ethiopia
+countries: Ethiopia, Palestine
 
 **Book 1:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia
 
 **Book 4:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Programming (البرمجة), Grade 5* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "5" on cover) — Palestine, State of Palestine, Ministry of Education. Year 2019 (second edition, 1440H/2019; adopted for teaching from 2018/19). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problems 1–5 — the worked algorithm solutions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (§6.8 key), printed pp. 117–122 |
 | The problems as set — triangle, greatest, prime, quadratic, RESULT (student book review set) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 223–227 |
 | Lesson 21 Creating and testing a final algorithm (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 84 (teacher guide — evidence) |
 | Unit 3, Lesson 1: Algorithms from daily life (writing the steps — an algorithm for brushing your teeth, and for the route from the classroom to the school yard — clear enough for anyone to follow) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 78 (teacher guide — evidence) |
+| Lesson 3: Shearing the two sheep (plan the route first, more than one correct program) | Palestine, *Programming, Grade 5*, printed p. 8 |
+| Lesson 4: Preparing the trees to build a house (trace a program on the grid, then shorten a long correct solution) | Palestine, *Programming, Grade 5*, printed p. 9 |
+| Lesson 8: I avoid danger and reach the house (plan the route on graph paper, solve in at most nine commands) | Palestine, *Programming, Grade 5*, printed p. 28 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
 
 Book error taught corrected: the teacher guide's §6.8 key defines an algorithm as a sequence of “ambiguous” step-by-step instructions (printed p. 116) — the opposite of both books' wording everywhere else. The lessons teach **unambiguous**, and the prime check and quadratic solutions above follow the key's worked steps with that word corrected.
 
@@ -25,4 +30,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4
+Palestine’s own way (Grade 5, Programming): programming is taught entirely through the offline Hour of Code Minecraft adventures (code.org) — block “bricks” snapped together to guide Steve/Alex; every puzzle is first planned on squared paper, run, checked against the success screen, and shortened; the word “algorithm” is introduced through al-Khwarizmi.
+
+Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine

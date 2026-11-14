@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia
 
 **Book 5:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Programming (البرمجة), Grade 5* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "5" on cover) — Palestine, State of Palestine, Ministry of Education. Year 2019 (second edition, 1440H/2019; adopted for teaching from 2018/19). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -19,11 +21,14 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia
 | 语句与程序结构 (Statements and Program Structure) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 2 §2.3.3, printed p. 59 |
 | "Sequence of statements [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.12, printed p. 129 |
 | Lesson 19 Using loops in an algorithm (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 78 (teacher guide — evidence) |
+| Lesson 12: Reaching the treasure safely (sequence, loops and conditionals combined in one program) | Palestine, *Programming, Grade 5*, printed p. 40 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, China, North Macedonia).**
+**Acceptance count: taught in 4 countries (Ethiopia, China, North Macedonia, Palestine).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9
+Palestine’s own way (Grade 5, Programming): programming is taught entirely through the offline Hour of Code Minecraft adventures (code.org) — block “bricks” snapped together to guide Steve/Alex; every puzzle is first planned on squared paper, run, checked against the success screen, and shortened; the word “algorithm” is introduced through al-Khwarizmi.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine

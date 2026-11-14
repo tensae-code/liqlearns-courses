@@ -1,0 +1,55 @@
+# Lesson plan — Variables in Scratch — Creating, Setting, Changing and Asking
+
+**Course:** Computer Science and ICT · **Title:** Programming · **Lesson:** Variables in Scratch — Creating, Setting, Changing and Asking
+**Place in the curriculum:** ICT expansion — Palestine (2026-11-14) — in the title Programming on the ICT course ladder (TITLES.md). Built new from Palestine's Grade 8 and Grade 9 Programming student books, because no existing lesson in the course covers this thing as its own lesson.
+**The one thing this lesson teaches:** A variable holds one value — a number or text — until changed: create it and name it, set it, change it by an amount, show or hide it; ask-and-answer takes input from the keyboard into a variable; meaningful names and one variable per price and quantity run the shop’s arithmetic.
+**This lesson's own level:** It stands on the earlier lessons of its title and on the book's own order — it follows the book's lessons in sequence, so its neighbours in the book are its natural companions. It stands alone for a learner landing on it directly.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs come first where a thing must be shown moving — a GIF here is 1–2 seconds.
+
+## Sub lessons
+The parts of this lesson, in order — the list the learner sees from the start, locked ahead, each opening when the one before it is proved:
+
+1. **Creating, setting, changing — and asking the user** — The variable blocks are five in Grade 9’s count: **create** a named variable, **set** it, **change** it by an amount, **show and hide** it — and a variable **keeps the last value** in memory until set again. Values can be **constants, expressions, or other variables**. Grade 8 adds **ask-and-answer**: the program asks, the keyboard’s typed answer becomes the value — the square-area and rectangle-perimeter programs run on it. Variables can be **deleted and renamed**.
+2. **Variables at work — the fruit shop’s arithmetic** — Grade 9’s fruit seller runs its shop on variables: **a variable for each price per kilo and each quantity**, totals **multiplied out and added into one grand total**. The discipline is in the names: variables are given **meaningful names**, so the program can be read like the shop’s own notebook. Seller and buyer sprites greet each other by broadcast while the arithmetic runs.
+
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- Recommended first: the earlier lessons in Programming on the ladder. Recommended, never forced — a learner may land on this lesson directly, and it stands alone.
+- Palestine's own way is kept: see the placement and own-way notes in lesson/sources.md.
+
+## What the learner can do when it ends
+1. One value — a number or text — until changed.
+2. The last value set, until it is set again.
+3. Square area and rectangle perimeter.
+4. Totals multiplied out and added together.
+
+## What you need
+Paper and a pencil, and a computer with the program this lesson uses, if available.
+
+## The run of the lesson (in order)
+1. **Do it first** — The shop needs a price for every kilo and a total at the end. Where does Scratch keep a number while the program runs? In a variable — a named box that holds one value until it is changed. Three Palestine books teach it; the Grade 9 fruit shop spends it. (lesson/lesson.md).
+2. **The explanation** — the lesson text in lesson/lesson.md, in its parts in order.
+   - ADD IMAGE: a picture of creating, setting, changing — and asking the user as the lesson describes it — the student studies the picture and names what each part shows.
+   - ADD GIF: a GIF of variables at work — the fruit shop’s arithmetic in action — the student watches once, then says what changed and why.
+   - ADD AUDIO: a voice reading the lesson's key names and definitions aloud, in the order the lesson gives them — the student listens once through, then reads the same lines aloud along with the voice. (Audio is a described slot in this build; no audio file is made.)
+3. **Say it to your companion** — the companion block in lesson/lesson.md.
+   - ADD VIDEO: the script in video-script.md, filmed — the lesson in the super-simple voice (made later, when videos are made).
+4. **Questions** — from questions/: multiple-choice, true-false, matching, short-answer — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE — a picture of creating, setting, changing — and asking the user → the student studies the picture and names what each part shows
+- GIF — a GIF of variables at work — the fruit shop’s arithmetic in action → the student watches once, then says what changed and why
+- AUDIO — the key names and definitions read aloud (described slot only; no audio file is made in this build) → the student listens, then reads along aloud.
+- VIDEO — the video-script filmed (made later) → the student follows the lesson in the super-simple voice.
+
+A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+## If the learner is stuck
+Returns to the one thing this lesson teaches and works it with a smaller example of their own, then tries the stuck part again. Mixes this lesson's tools or terms with a neighbouring lesson's → place the two side by side and name the difference in one sentence each.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
