@@ -1,6 +1,6 @@
 # Sources — Voltage, resistance and Ohm's law — V = IR
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka
+countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -77,3 +77,20 @@ Searchable tags: samoa, samoa mesc, electricity and magnetism voltage resistance
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, voltage resistance and ohms law
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 6, student book):** Title as printed: Ciencia y Tecnología 6, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 195 pages, 116,912,736 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 2 (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-06/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Units 1–4 are largely the split-subject Physics/Chemistry strand (fluid mechanics, calorimetry, circuit calculations, bonding theory); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–6 (cell, development) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 6, workbook):** Title as printed: Ciencia y tecnología 6: cuaderno de trabajo. Authors: Edwin Adverdi Pérez Ventura, Jessica Vanessa Aguilar Sandoval, Huilhuinic Angel Orantes Ramos, Elizabeth Melany Murillo Torres, Vilma Guadalupe Mártir Ramírez, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022, tercera reimpresión 2025. ISBN 978-99983-56-62-7 (impreso). PDF 82 pages, 31,009,423 bytes — the repo tree file's exact size (fetch log in scratch). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–80, Units 1–6, Weeks 1–32). Twin records: TSV blob record and books.json record grade-06/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook (section 6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| basic electric magnitudes measured with a multimeter: voltage of batteries in arrangements, current through resistors, reading resistor values; direct current from batteries and photovoltaic cells (CyT G6) | El Salvador, *Ciencia y Tecnología 6*, printed pp. 62–68 (Unit 3, Electricity and magnetism — remainder is the Physics wave's strand: equivalent-resistance calculations, chapter-level line, already covered by the earlier Physics wave) |
+| multimeter workbook: reading AA/AAA battery voltages, voltages of battery arrangements in series, voltage and current across 100 Ω and 330 Ω resistors, resistor values from the colour code two ways (CyT G6 WB) | El Salvador, *Ciencia y Tecnología 6 — Cuaderno de trabajo*, workbook printed pp. 28–29 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Fiji, Afghanistan, Uzbekistan, Mozambique, China, Samoa, Sri Lanka, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, electricity-and-magnetism/voltage-resistance-and-ohms-law

@@ -1,6 +1,6 @@
 # Sources — Kingdoms — the five kingdoms of living things
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba, Angola, Kuwait, Indonesia, Yemen, Nicaragua
+countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba, Angola, Kuwait, Indonesia, Yemen, Nicaragua, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -180,3 +180,17 @@ Searchable tags: yemen, yemen science, ministry of education yemen, animals the-
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals the-five-kingdoms-of-living-things
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the domains and kingdoms: bacteria (prokaryotic cells, peptidoglycan walls), archaea (biofuel producers, digestion helpers) and the Eukarya kingdoms; Basidiomycota fungi with their mushroom fruiting bodies; Animalia with about 1,200,000 described species (CyT G7) | El Salvador, *Ciencia y Tecnología 7*, printed pp. 98–102 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Bulgaria, Pakistan (Punjab, Nicaragua, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/the-five-kingdoms-of-living-things

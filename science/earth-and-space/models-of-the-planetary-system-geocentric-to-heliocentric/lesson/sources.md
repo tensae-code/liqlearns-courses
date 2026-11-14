@@ -1,6 +1,6 @@
 # Sources — Models of the planetary system — geocentric to heliocentric
 
-countries: Nicaragua, Costa Rica
+countries: Nicaragua, Costa Rica, El Salvador
 
 **Book 1:** *Física — Módulo Autoformativo, Décimo grado* (student textbook) — Nicaragua, Ministerio de Educación (MINED). Title as printed: Física — Módulo Autoformativo, Décimo grado (Educación Secundaria a Distancia en el Campo); author Profesora Luz Marina Ortiz Narvaez; Ministerio de Educación (MINED), Nicaragua. Grade 10 (Décimo grado). Student book. Repo path: grade-10/gov/nicaragua/physics/student/full-year.pdf. Recorded size: 84,279,222 bytes (books.json). PDF pages: 184. Offset: printed p. = PDF p. − 9. Verdict: COMPLETE — full text read cover to the closing Ecuaciones/Bibliografía. Read in full from the recorded MINED source (https://www.mined.gob.ni/biblioteca/wp-content/uploads/2024/09/LISTO-Fisica-10-Grado.pdf), fetched whole at 84,279,222 bytes — an exact match to the recorded size — in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nicaragua-placements.md.
 
@@ -28,3 +28,17 @@ Searchable tags: models of the planetary system, modelos del sistema planetario,
 **Acceptance count: taught in 2 countries (Nicaragua, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 4, student book):** Title as printed: Ciencia y Tecnología 4, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 196 pages. Printed page = PDF page − 2 throughout (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus unit summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-04/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the earlier reader's retained full-text extraction of that file (PDF deleted by its fetch script after extraction). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Copernicus' heliocentric model (1510–1530): the Sun at the centre and the planets circling it; the geocentric model compared in the unit evaluation (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 106–110 |
+
+**Acceptance count: taught in 3 countries (Nicaragua, Costa Rica, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/models-of-the-planetary-system-geocentric-to-heliocentric

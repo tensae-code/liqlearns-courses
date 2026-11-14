@@ -1,6 +1,6 @@
 # Sources — Compound machines
 
-countries: Afghanistan, Malaysia
+countries: Afghanistan, Malaysia, El Salvador
 
 **Book 1:** *Science, Health and Environment, Grade 4* (student book, in Dari: ساینس، صحت و محیط زیست، صنف چهارم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف چهارم» (Science, Health and Environment, Grade Four). Grade: 4 (student/teacher: STUDENT book). PDF pages: 122 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 114). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
 
@@ -40,3 +40,22 @@ Searchable tags: compound machines, simple machines joined, scissors, bicycle, a
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials compound-machines
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 4, student book):** Title as printed: Ciencia y Tecnología 4, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 196 pages. Printed page = PDF page − 2 throughout (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus unit summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-04/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the earlier reader's retained full-text extraction of that file (PDF deleted by its fetch script after extraction). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 4, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 4to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 32,340,339 bytes (the repo tree file's exact size; a first tree download arrived truncated at 24,274,474 bytes and was discarded, the re-download is byte-complete). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 4 textbook, filed above as section 5). Twin records: TSV blob record and books.json record grade-04/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| complex machines combine two or more simple machines; drawing three complex machines and naming the simple machines inside each; building a Ferris-wheel model — filed as NEW LESSON NEEDED — complex-machines-combining-simple-ones; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 18–22 |
+| identifying the simple machines inside pictured complex machines, and drawing three complex machines naming two simple machines inside each (same proposed slug as the Grade 4 textbook placement) — filed as NEW LESSON NEEDED — complex-machines-combining-simple-ones; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (CyT G4 WB) | El Salvador, *Ciencia y Tecnología 4 — Cuaderno de trabajo*, workbook printed pp. 10–11 |
+
+**Acceptance count: taught in 3 countries (Afghanistan, Malaysia, El Salvador).**
+
+Placement choice, on the record: the El Salvador placement(s) above filed as NEW LESSON NEEDED — "complex-machines-combining-simple-ones" — el-salvador-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/compound-machines

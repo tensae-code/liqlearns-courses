@@ -1,6 +1,6 @@
 # Sources — Seed dispersal — how seeds travel
 
-countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Syria, North Macedonia
+countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Syria, North Macedonia, El Salvador
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -117,3 +117,19 @@ Placement choice, on the record: the North Macedonia placement(s) above filed as
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, plants seed-dispersal-how-seeds-travel
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 8, student book):** Title as printed: Ciencia y Tecnología 8, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 243 pages, 142,482,702 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–242, Units 1–7 plus summaries and evaluations). Note: the earlier reader's retained text extraction of this book stopped at PDF page 194 (mid Unit 6); the book was re-extracted in full by this finisher and read whole. Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-08-full-year.pdf) and books.json record grade-08/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Scope note: Units 1–3 are the split-subject Physics strand (mechanics, mechanical energy, mechanical waves) and Unit 4 is the Chemistry strand (stoichiometry and dispersions); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–7 (minerals, plant anatomy, animal anatomy) are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| seed dispersal: by wind (anemochory — winged samaras, dandelion plumes), by animals (zoochory — the hooks of Xanthium fruit gripping fur), by water (hydrochory — coconut and mangrove) and by the fruit's own explosive opening (autochory) — filed as NEW LESSON NEEDED — seed-dispersal-how-plants-spread; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (CyT G8) | El Salvador, *Ciencia y Tecnología 8*, printed pp. 192–193 |
+
+**Acceptance count: taught in 7 countries (Guyana, United States, Seychelles, Kuwait, Syria, North Macedonia, El Salvador).**
+
+Placement choice, on the record: the El Salvador placement(s) above filed as NEW LESSON NEEDED — "seed-dispersal-how-plants-spread" — el-salvador-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, plants/seed-dispersal-how-seeds-travel

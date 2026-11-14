@@ -1,6 +1,6 @@
 # Sources — Animals — birds
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Saudi Arabia, Nicaragua, Malaysia
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Saudi Arabia, Nicaragua, Malaysia, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -287,3 +287,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals animals-birds
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| birds as a class told apart by feathers and wings (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed pp. 13, 16 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Sweden, Bulgaria, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/animals-birds

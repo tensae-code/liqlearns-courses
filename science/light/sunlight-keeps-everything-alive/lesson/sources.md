@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -178,3 +178,17 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, light
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, light sunlight-keeps-everything-alive
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| without the Sun the Earth would be dark and frozen and nothing could live (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed p. 113 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/sunlight-keeps-everything-alive

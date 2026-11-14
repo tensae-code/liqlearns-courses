@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -209,3 +209,17 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials rust-a
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials rust-and-corrosion-how-air-and-water-attack-iron
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| why some metal structures corrode faster than others, and faster still near the sea (CyT G7) | El Salvador, *Ciencia y Tecnología 7*, printed p. 11 |
+
+**Acceptance count: taught in 12 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/rust-and-corrosion-how-air-and-water-attack-iron

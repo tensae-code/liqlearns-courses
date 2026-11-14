@@ -1,6 +1,6 @@
 # Sources — Resources around us, and why they matter
 
-countries: Ethiopia (teacher-guide evidence only), Cook Islands, Mongolia, Mauritania, Laos, Saudi Arabia, Nicaragua
+countries: Ethiopia (teacher-guide evidence only), Cook Islands, Mongolia, Mauritania, Laos, Saudi Arabia, Nicaragua, El Salvador
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -102,3 +102,17 @@ Searchable tags: saudi arabia, saudi arabia science, national center for curricu
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment resources-around-us-and-why-they-matter
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the natural environment (water, sunlight, air, soil, plants, animals) vs the artificial environment people build (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed pp. 114–117 |
+
+**Acceptance count: taught in 7 countries (Cook Islands, Mongolia, Mauritania, Laos, Saudi Arabia, Nicaragua, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/resources-around-us-and-why-they-matter

@@ -1,0 +1,15 @@
+# Sources — Crystals and how they grow
+
+countries: El Salvador
+
+**Book (El Salvador — Grade 8, student book):** Title as printed: Ciencia y Tecnología 8, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 243 pages, 142,482,702 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–242, Units 1–7 plus summaries and evaluations). Note: the earlier reader's retained text extraction of this book stopped at PDF page 194 (mid Unit 6); the book was re-extracted in full by this finisher and read whole. Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-08-full-year.pdf) and books.json record grade-08/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Scope note: Units 1–3 are the split-subject Physics strand (mechanics, mechanical energy, mechanical waves) and Unit 4 is the Chemistry strand (stoichiometry and dispersions); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–7 (minerals, plant anatomy, animal anatomy) are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| crystallogenesis: a crystal is born by nucleation and grows by steady addition of particles while matter and space allow; growing salt (halite) and blue copper-sulfate crystals on seed crystals hung in supersaturated solution; crystal habit (prismatic, columnar, acicular...); the unit cell, the seven crystal systems and the 14 Bravais lattices modelled in clay and sticks; glass is not a crystal but an amorphous solid (CyT G8) | El Salvador, *Ciencia y Tecnología 8*, printed pp. 160–165 |
+
+**Acceptance count: taught in 1 country (El Salvador).**
+
+Placement choice, on the record: this NEW LESSON was built for the El Salvador placement(s) "NEW LESSON NEEDED — crystals-and-how-they-grow" — el-salvador-placements.md (1 placement bullet(s)). No existing general-science lesson covers this thing as its own lesson — the near lesson `materials/growing-crystals` grows crystals as a primary activity; it does not teach crystallogenesis — nucleation, crystal habit, the unit cell, the seven crystal systems and the 14 Bravais lattices — which is this lesson's thing — so it gets its own lesson. It sits in materials/ and is registered in CURRICULUM.md Unit 4 (Materials). El Salvador's own way — teaching this from its own MINED *Ciencia y Tecnología* books, in the order and with the examples named in the rows above — IS part of this lesson's content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/crystals-and-how-they-grow

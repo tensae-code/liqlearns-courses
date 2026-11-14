@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — settling, pouring off and filtering
 
-countries: Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan, Bhutan, China, North Macedonia, Bangladesh, Saudi Arabia, Morocco (teacher-guide evidence only), Iraq
+countries: Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan, Bhutan, China, North Macedonia, Bangladesh, Saudi Arabia, Morocco (teacher-guide evidence only), Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -165,3 +165,17 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials 
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials separating-settling-pouring-and-filtering
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 3, student book):** Title as printed: Ciencia y tecnología 3: Libro de texto. Authors: Xochilt María Pocasangre Orellana, Jorge Alfredo Ávila Moreno, Flor de María López Hernández, Huilhuinic Angel Orantes Ramos, Omar Antonio Rodríguez Alas, Vilma Guadalupe Mártir Ramírez, Katherine Michelle Hernández Vásquez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022. ISBN 978-99983-56-55-9 (impreso). 192 printed pages. Route and verdict: the record's own file could not be fetched — the GitHub tree route returns 404 (the grade-03 science folder is not in the repo tree, verified by a Contents API listing), no release asset carries this book (full release index checked), the MINED source_url returns 403 to every request shape tried, and the phase3-staging folder holds no file. The book was therefore read in full through a mirror of the same printed edition (SlideShare, "Ciencia3_LT_E.pdf", 196 slides including covers), transcript extracted and read slide by slide; printed page numbers below are the book's own, from its index (printed p. 6) and page footers. Verdict: COMPLETE as an edition (Units 1–6, printed pp. 7–191 plus unit summaries and evaluations); the records' 79,525,198-byte MINED PDF itself remains UNVERIFIED — see the group log's library debts. Twin records: the books.json record grade-03/gov/el-salvador/science-and-technology/student/full-year.pdf is the only record for this book (no TSV twin); cited once here. Companion workbook filed above as section 2. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| one mixture, four separations: sand with metal clips, wood shavings and water sieved, rested, decanted, filtered through coffee-filter paper and finished with a magnet; separating an egg's yolk from its white as decantation at home (CyT G3) | El Salvador, *Ciencia y Tecnología 3*, printed pp. 46–47 |
+
+**Acceptance count: taught in 12 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/separating-settling-pouring-and-filtering

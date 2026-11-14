@@ -1,6 +1,6 @@
 # Sources — Energy — kinetic and potential energy
 
-countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia, Fiji, Nicaragua
+countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia, Fiji, Nicaragua, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -255,3 +255,17 @@ Searchable tags: fiji, fiji science, ministry of education fiji, motion-force-an
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, motion-force-and-energy energy-kinetic-and-potential-energy
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 2, student book, Tomo 1):** Title as printed: Ciencia y tecnología 2: libro de texto, tomo 1. Authors: Jorge Alfredo Ávila Moreno, Martha Alicia Artiga Hernández, Orlando Leonel Castillo Henríquez, Carlos Josué Quintanilla Yanes, Edwin Adverdi Pérez Ventura, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador, segunda edición 2022, segunda reimpresión 2024, ISBN 978-99983-56-53-5. Printed book 128 pp, Units 1–3, Weeks 1–16 (printed pp. 7–127). Verdict: COMPLETE as an edition read — full text read via the Scribd mirror "Ciencia y Tecnología 2° Grado Tomo 1" (es.scribd.com/document/820424542), whose credits page matches the record's edition exactly. Records: books.json record grade-02/gov/el-salvador/science-and-technology/student/volume-1.pdf (57,223,061 bytes); Tomo 2 filed as section 17. Route and verdict: the record's own PDF could not be fetched by this reader — grab.py tree returns 404 (the grade-02 science-and-technology folder is absent from the repo tree, verified by GitHub Contents API listing), no release asset for this book exists in any release (full release index scanned), the publisher's MINED 2026-materials URL returns 403 to every request shape tried, and the phase3-staging folder grade-02/gov/el-salvador/science-and-technology/ exists but is empty. The same printed edition was therefore read in full from the mirror above; the record's 57,223,061-byte PDF itself remains byte-unverified — a library debt, not a read failure. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mechanical energy: experiments with moving and raised bodies (CyT G2 T1) | El Salvador, *Ciencia y Tecnología 2, Tomo 1*, printed pp. 52–58 (Unit 2, Week 7) |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Argentina, Iraq, Costa Rica, India, United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia, Fiji, Nicaragua, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, motion-force-and-energy/energy-kinetic-and-potential-energy

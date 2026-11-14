@@ -1,6 +1,6 @@
 # Sources — Acids and bases — definitions and naming
 
-countries: Ethiopia, Samoa, Bhutan, Laos, Fiji
+countries: Ethiopia, Samoa, Bhutan, Laos, Fiji, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed. PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -74,3 +74,20 @@ Searchable tags: laos, lao pdr, natural sciences grade 6
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, materials acids-and-bases-definitions-and-naming
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 9, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de Trabajo, 9no grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 130 pages, 54,415,087 bytes. Verdict: COMPLETE (workbook printed pp. 5–129, Units 1–7; companion to the Grade 9 textbook, filed separately below). Twin records: books.json record grade-09/gov/el-salvador/science-and-technology/workbook/full-year.pdf (delivered via the mid-size-books-6 release asset of the same name) is this book; cited once here. Workbook evidence. Scope note: Units 1–3, 6 and 7 are the split-subject Physics/Chemistry strand (fluid mechanics, thermodynamics, chemical equilibrium, electricity, applied magnetism) and receive chapter-level lines; Units 4–5 are general Earth science and are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 9, student book):** Title as printed: Ciencia y Tecnología 9, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 243 pages, 193,937,097 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–242, Units 1–7 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-09-full-year.pdf) and books.json record grade-09/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Companion workbook filed above as section 4. Scope note: Units 1–3, 6 and 7 are the split-subject Physics/Chemistry strand (fluid mechanics, thermodynamics, chemical equilibrium, electricity and electronics, applied magnetism) and receive chapter-level lines plus placements only where a general-science target slug exists. Units 4–5 (oceanography, geology of El Salvador) are general Earth science and are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| classifying everyday substances as acid, base or neutral (green mango, acetone, coffee, vinegar); Arrhenius dissociation equations (CyT G9 WB) | El Salvador, *Ciencia y Tecnología 9 — Cuaderno de trabajo*, workbook printed pp. 48–50 (Unit 3, Chemical equilibrium — remainder is the Chemistry wave's strand: equilibrium constants, Le Châtelier practice, pH and pKa calculations, buffer solutions and titrations, chapter-level line, already covered by the earlier Chemistry wave) |
+| sour and bitter substances: citric acid in lemon and orange, ascorbic acid in medicines; the three theories in sequence — Arrhenius, Brønsted–Lowry (proton donors and acceptors) and Lewis (electron-pair donors and acceptors) (Unit 3, Chemical equilibrium — remainder is the Chemistry wave's strand: equilibrium constants and Le Châtelier practice, Ka/Kb determinations, buffer calculations and titrations, chapter-level line, already covered by the earlier Chemistry wave) (CyT G9) | El Salvador, *Ciencia y Tecnología 9*, printed pp. 89–95 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Samoa, Bhutan, Laos, Fiji, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/acids-and-bases-definitions-and-naming

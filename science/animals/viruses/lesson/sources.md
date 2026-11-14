@@ -1,6 +1,6 @@
 # Sources — Viruses
 
-countries: Kuwait, Syria, Nicaragua, Malaysia
+countries: Kuwait, Syria, Nicaragua, Malaysia, El Salvador
 
 **Book (Kuwait — Grade 5, Term 1):** Title as printed: العلوم — الصف الخامس — الفصل الدراسي الأول. The PDF binds Section 1 and Section 2, each with its own contents and pagination (Section 2 pages are cited as "Section 2 printed p."). Grade 5, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 192. Bytes: 15,705,753 — exactly the books.json `size_bytes`. This book is NOT in the GitHub tree or any release route tried (Contents API 404; asset absent from releases mid-size-books, -1, -3 to -7): it was read from the record's own Drive download link in the staging books.json and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-05/gov/kuwait/science/student/term-1.pdf`. Verdict: COMPLETE. Structure: Unit 1 Life Sciences — Ch.1 A Journey into the Depths of Life (viruses, the five kingdoms), Ch.2 A Journey in the Plant Kingdom, Ch.3 A Journey to the Heart of Nature (adaptation, ecosystems); Unit 2 The Human Body — Ch.1 A Journey to the Wonders of the Human Body; then the Science Inquiry Project. Tally: 13 to existing lessons, 4 NEW LESSON NEEDED (17 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
 
@@ -76,3 +76,19 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals viruses
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 3, student book):** Title as printed: Ciencia y tecnología 3: Libro de texto. Authors: Xochilt María Pocasangre Orellana, Jorge Alfredo Ávila Moreno, Flor de María López Hernández, Huilhuinic Angel Orantes Ramos, Omar Antonio Rodríguez Alas, Vilma Guadalupe Mártir Ramírez, Katherine Michelle Hernández Vásquez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022. ISBN 978-99983-56-55-9 (impreso). 192 printed pages. Route and verdict: the record's own file could not be fetched — the GitHub tree route returns 404 (the grade-03 science folder is not in the repo tree, verified by a Contents API listing), no release asset carries this book (full release index checked), the MINED source_url returns 403 to every request shape tried, and the phase3-staging folder holds no file. The book was therefore read in full through a mirror of the same printed edition (SlideShare, "Ciencia3_LT_E.pdf", 196 slides including covers), transcript extracted and read slide by slide; printed page numbers below are the book's own, from its index (printed p. 6) and page footers. Verdict: COMPLETE as an edition (Units 1–6, printed pp. 7–191 plus unit summaries and evaluations); the records' 79,525,198-byte MINED PDF itself remains UNVERIFIED — see the group log's library debts. Twin records: the books.json record grade-03/gov/el-salvador/science-and-technology/student/full-year.pdf is the only record for this book (no TSV twin); cited once here. Companion workbook filed above as section 2. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| viruses are not considered living beings: they have no cells and no metabolism and can only reproduce at the expense of other living beings; a protein capsid around their material (same proposed slug as the Nicaragua placements) — filed as NEW LESSON NEEDED — viruses-not-cells; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (CyT G3) | El Salvador, *Ciencia y Tecnología 3*, printed p. 169 |
+
+**Acceptance count: taught in 5 countries (Kuwait, Syria, Nicaragua, Malaysia, El Salvador).**
+
+Placement choice, on the record: the El Salvador placement(s) above filed as NEW LESSON NEEDED — "viruses-not-cells" — el-salvador-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/viruses

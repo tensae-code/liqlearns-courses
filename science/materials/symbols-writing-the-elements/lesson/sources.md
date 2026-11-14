@@ -1,6 +1,6 @@
 # Sources — Symbols — writing the elements
 
-countries: Ethiopia, Sudan, Bhutan, Nicaragua
+countries: Ethiopia, Sudan, Bhutan, Nicaragua, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -57,3 +57,17 @@ Searchable tags: bhutan, bhutan science, science class vi, science class vii
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, materials symbols-writing-the-elements
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 5, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 5to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 22,173,864 bytes. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 5 textbook, filed separately below). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence. Scope note: Units 2–4 of this grade are the split-subject Physics/Chemistry strand (mechanics, atomic structure, periodic table); they receive chapter-level lines plus placements only where a general-science target slug exists. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the periodic table's own history built by hand: Chancourtois' telluric helix, Newlands' octaves, Mendeleev's table by atomic masses; predicting gallium, scandium, holmium (CyT G5 WB) | El Salvador, *Ciencia y Tecnología 5 — Cuaderno de trabajo*, workbook printed pp. 44–49 (Unit 4, Periodic table — remainder is the Chemistry wave's strand: periodic properties, ionic radius, ionisation energy and formula writing, chapter-level line, already covered by the earlier Chemistry wave) |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Bhutan, Nicaragua, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/symbols-writing-the-elements

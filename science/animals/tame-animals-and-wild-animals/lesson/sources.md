@@ -1,6 +1,6 @@
 # Sources — Tame animals and wild animals
 
-countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Yemen, Nicaragua
+countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Yemen, Nicaragua, El Salvador
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -204,3 +204,20 @@ Searchable tags: yemen, yemen science, ministry of education yemen, animals tame
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals tame-animals-and-wild-animals
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 2, student book, Tomo 2):** Title as printed: Ciencia y tecnología 2: libro de texto, tomo II. Authors: Carolina Ruíz de Escobar, Flor de María López Hernández, Carlos Josué Quintanilla Yanes, Alejandra Ileana Delgado Menjívar. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador, primera edición 2022, ISBN en trámite. Printed book 144 pp, Units 4–6, Weeks 17–32 (printed pp. 5–143). Verdict: COMPLETE as an edition read — full text read via the Scribd mirror "Ciencia y Tecnología 2° Grado Tomo II" (es.scribd.com/document/698476789), whose credits page matches the record's edition exactly. Records: books.json record grade-02/gov/el-salvador/science-and-technology/student/volume-2.pdf (71,952,103 bytes); Tomo 1 filed as section 16. Route and verdict: the record's own PDF could not be fetched by this reader — grab.py tree returns 404 (the grade-02 science-and-technology folder is absent from the repo tree, verified by GitHub Contents API listing), no release asset for this book exists in any release (full release index scanned), the publisher's MINED 2026-materials URL returns 403 to every request shape tried, and the phase3-staging folder grade-02/gov/el-salvador/science-and-technology/ exists but is empty. The same printed edition was therefore read in full from the mirror above; the record's 71,952,103-byte PDF itself remains byte-unverified — a library debt, not a read failure. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants and animals that live in and around the home vs in forests and rivers (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed pp. 118–122 |
+| the importance of animals: domesticated animals serve people; wild animals live freely and increasingly need protection; animals keep ecosystems clean and in ecological balance and help plants reproduce (CyT G2 T2) | El Salvador, *Ciencia y Tecnología 2, Tomo 2*, printed pp. 36–45 and 54 (Unit 4, Week 21) |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos, North Macedonia, Yemen, Nicaragua, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/tame-animals-and-wild-animals

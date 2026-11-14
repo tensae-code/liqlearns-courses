@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua, Malaysia, Iraq
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -265,3 +265,20 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space 
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, earth-and-space small-bodies-asteroids-comets-and-shooting-stars
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 4, student book):** Title as printed: Ciencia y Tecnología 4, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 196 pages. Printed page = PDF page − 2 throughout (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus unit summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-04/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the earlier reader's retained full-text extraction of that file (PDF deleted by its fetch script after extraction). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 4, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 4to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 32,340,339 bytes (the repo tree file's exact size; a first tree download arrived truncated at 24,274,474 bytes and was discarded, the re-download is byte-complete). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 4 textbook, filed above as section 5). Twin records: TSV blob record and books.json record grade-04/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the solar system beyond the planets: modelling asteroids; the Rosetta/Philae mission to study a comet; meteor showers from particles sharing one orbit (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 126–130 |
+| satellites and asteroids: which planets have natural satellites; Halley's comet; the relation between meteor showers and comets' orbits; modelling asteroids and describing the solar system's celestial bodies (CyT G4 WB) | El Salvador, *Ciencia y Tecnología 4 — Cuaderno de trabajo*, workbook printed pp. 54–56 |
+
+**Acceptance count: taught in 18 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/small-bodies-asteroids-comets-and-shooting-stars

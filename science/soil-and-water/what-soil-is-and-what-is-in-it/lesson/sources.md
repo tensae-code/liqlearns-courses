@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -640,3 +640,17 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, soil-and-water what-soil-is-and-what-is-in-it
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soil is the Earth's layer where plants are born and grow; it holds earthworms, worms, ants and other organisms (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed pp. 123–127 |
+
+**Acceptance count: taught in 34 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, soil-and-water/what-soil-is-and-what-is-in-it

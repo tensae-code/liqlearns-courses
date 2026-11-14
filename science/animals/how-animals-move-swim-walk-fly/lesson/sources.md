@@ -1,6 +1,6 @@
 # Sources — How animals move — swim, walk, fly
 
-countries: Sudan, Mauritania, Kuwait, Syria, Morocco (teacher-guide evidence only)
+countries: Sudan, Mauritania, Kuwait, Syria, Morocco (teacher-guide evidence only), El Salvador
 
 **Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
 
@@ -80,3 +80,19 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, how an
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, animals how-animals-move-swim-walk-fly
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fish swim, mammals walk or jump, birds walk, run or fly — filed as NEW LESSON NEEDED — how-animals-move-swim-walk-fly; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed p. 24 |
+
+**Acceptance count: taught in 5 countries (Sudan, Mauritania, Kuwait, Syria, El Salvador).**
+
+Placement choice, on the record: the El Salvador placement(s) above filed as NEW LESSON NEEDED — "how-animals-move-swim-walk-fly" — el-salvador-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/how-animals-move-swim-walk-fly

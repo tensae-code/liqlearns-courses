@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Vietnam, Morocco (teacher-guide evidence only), South Sudan
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -448,3 +448,17 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 20 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 5, student book):** Title as printed: Ciencia y tecnología 5: Libro de texto. Authors: Oscar Armando Aguilar Ayala, Nathalie Carmelina Galicia Shul, Adela Melissa Martínez de Guirola, Katherine Michelle Hernández Vásquez, Óscar Mauricio Olmedo Martínez, William Alexander Larín Escobar. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador, segunda edición 2022, ISBN 978-99983-56-57-3. Printed book 192 pp, Units 1–6, Weeks 1–32 (printed pp. 7–191). Verdict: COMPLETE as an edition read — full text read via the FlipHTML5 mirror "5to Gr Ciencias y Tecnología" (uploader Joce Cubías Elías, fliphtml5.com/vemdy/rhnm), whose credits page matches the record's edition exactly. Records: TSV release record and books.json record grade-05/gov/el-salvador/science-and-technology/student/full-year.pdf (92,882,286 bytes) are the same book; cited once here. Route and verdict: the records' own PDF could not be fetched by this reader — grab.py tree returns 404 (the grade-05 science-and-technology folder is absent from the repo tree, verified by GitHub Contents API listing: only CURRICULUM.md, books.json and mathematics are present), no release asset for this book exists in any release (full release index scanned), the publisher's MINED 2026-materials URL returns 403 to every request shape tried, and the phase3-staging folder grade-05/gov/el-salvador/science-and-technology/ exists but is empty. The same printed edition was therefore read in full from the mirror above; the records' 92,882,286-byte PDF itself remains byte-unverified — a library debt, not a read failure. Scope note: Units 2–4 are the split-subject Physics/Chemistry strand (mechanics, atomic structure, periodic table) and receive chapter-level lines; Units 1, 5 and 6 are general science and are placed in full. Companion workbook filed as section 3. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soil erosion, including human-caused (anthropic) erosion modelled with talc and a water dropper on tilted card: loss of plant cover makes soils infertile and costs biodiversity and food (CyT G5) | El Salvador, *Ciencia y Tecnología 5*, printed pp. 179–183 and 191 (Unit 6, Week 31) |
+
+**Acceptance count: taught in 21 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, soil-and-water/soil-fertility-erosion-and-why-soil-matters

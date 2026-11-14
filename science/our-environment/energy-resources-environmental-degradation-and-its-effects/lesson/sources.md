@@ -1,6 +1,6 @@
 # Sources — Energy resources — environmental degradation and its effects
 
-countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji, Nicaragua, Iraq
+countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji, Nicaragua, Iraq, El Salvador
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -133,3 +133,20 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, our-environment energy-resources-environmental-degradation-and-its-effects
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 7, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 7 (Grade 7 workbook). Authors include Nathalie Carmelina Galicia Shul, Adela Melissa Martínez de Guirola, Vilma Guadalupe Mártir Ramírez, Osvaldo Efraín Hernández Alas, Huilhuinic Ángel Orantes Ramos, Xochilt María Pocasangre Orellana, Cesiah Rebeca Quintanilla García, Dennis Ulises Lemus Flores, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; primera edición 2024, segunda reimpresión 2025; ISBN in process (en trámite) as printed. PDF 130 pages, 20,923,842 bytes — the repo tree file's exact size (fetch log in scratch). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–128, Units 1–6, Weeks 1–32). Twin records: TSV blob record and books.json record grade-07/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook (section 7). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| environmental impact: daily actions (a fashion purchase, a long shower) disturb ecosystems; dams change river flows and forests are transformed; impact grows with the intensity of exploitation and the loss of ecosystem services; comparing a glass bottle's and a can's impact (CyT G7) | El Salvador, *Ciencia y Tecnología 7*, printed pp. 198–204 |
+| the impact workbook: biomass vs hydroelectric impacts compared, air pollution bottled, land-use-change trays (what vegetation holds back when water runs off, what plastic or cement cover does instead), and an environmental-impact matrix for a turbine installation with mitigation and compensation measures; the unit evaluation's mining case (landscape transformation, contaminated mine water) and soy-expansion deforestation case (same proposed slug family as the textbook's impact placements) (CyT G7 WB) | El Salvador, *Ciencia y Tecnología 7 — Cuaderno de trabajo*, workbook printed pp. 113–115, 126–128 |
+
+**Acceptance count: taught in 10 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/energy-resources-environmental-degradation-and-its-effects

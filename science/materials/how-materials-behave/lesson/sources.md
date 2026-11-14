@@ -1,6 +1,6 @@
 # Sources — How materials behave: stretchy, breakable, shapable
 
-countries: Ethiopia, North Macedonia, Mauritania, United States, Samoa, Laos, Eritrea, Fiji, Saudi Arabia, Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, North Macedonia, Mauritania, United States, Samoa, Laos, Eritrea, Fiji, Saudi Arabia, Malaysia, Morocco (teacher-guide evidence only), El Salvador
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -169,3 +169,20 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials how-ma
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials how-materials-behave
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 6, student book):** Title as printed: Ciencia y Tecnología 6, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 195 pages, 116,912,736 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 2 (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-06/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Units 1–4 are largely the split-subject Physics/Chemistry strand (fluid mechanics, calorimetry, circuit calculations, bonding theory); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–6 (cell, development) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 6, workbook):** Title as printed: Ciencia y tecnología 6: cuaderno de trabajo. Authors: Edwin Adverdi Pérez Ventura, Jessica Vanessa Aguilar Sandoval, Huilhuinic Angel Orantes Ramos, Elizabeth Melany Murillo Torres, Vilma Guadalupe Mártir Ramírez, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022, tercera reimpresión 2025. ISBN 978-99983-56-62-7 (impreso). PDF 82 pages, 31,009,423 bytes — the repo tree file's exact size (fetch log in scratch). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–80, Units 1–6, Weeks 1–32). Twin records: TSV blob record and books.json record grade-06/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook (section 6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| surface tension and capillarity: water-strider insects standing on water; cohesion vs adhesion forces; soap changing surface tension; water and alcohol climbing on a coin (CyT G6) | El Salvador, *Ciencia y Tecnología 6*, printed pp. 18–24 |
+| surface tension and adhesion at the bench: a clip resting on water and what changes when the surface is touched; counting drops of water vs alcohol that fit on a coin; water climbing paper napkins between vessels (CyT G6 WB) | El Salvador, *Ciencia y Tecnología 6 — Cuaderno de trabajo*, workbook printed pp. 10–11 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Mauritania, United States, Samoa, Laos, Eritrea, Fiji, Saudi Arabia, Malaysia, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/how-materials-behave

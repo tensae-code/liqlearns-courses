@@ -1,6 +1,6 @@
 # Sources — Measuring: traditional and modern measures
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bahamas (curriculum evidence only), Cambodia, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Saudi Arabia, South Sudan, Iraq
+countries: Ethiopia, Zambia (teacher-module evidence only), Bahamas (curriculum evidence only), Cambodia, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Saudi Arabia, South Sudan, Iraq, El Salvador
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -241,3 +241,17 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills measuring-traditional-and-modern-measures
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 2, student book, Tomo 1):** Title as printed: Ciencia y tecnología 2: libro de texto, tomo 1. Authors: Jorge Alfredo Ávila Moreno, Martha Alicia Artiga Hernández, Orlando Leonel Castillo Henríquez, Carlos Josué Quintanilla Yanes, Edwin Adverdi Pérez Ventura, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador, segunda edición 2022, segunda reimpresión 2024, ISBN 978-99983-56-53-5. Printed book 128 pp, Units 1–3, Weeks 1–16 (printed pp. 7–127). Verdict: COMPLETE as an edition read — full text read via the Scribd mirror "Ciencia y Tecnología 2° Grado Tomo 1" (es.scribd.com/document/820424542), whose credits page matches the record's edition exactly. Records: books.json record grade-02/gov/el-salvador/science-and-technology/student/volume-1.pdf (57,223,061 bytes); Tomo 2 filed as section 17. Route and verdict: the record's own PDF could not be fetched by this reader — grab.py tree returns 404 (the grade-02 science-and-technology folder is absent from the repo tree, verified by GitHub Contents API listing), no release asset for this book exists in any release (full release index scanned), the publisher's MINED 2026-materials URL returns 403 to every request shape tried, and the phase3-staging folder grade-02/gov/el-salvador/science-and-technology/ exists but is empty. The same printed edition was therefore read in full from the mirror above; the record's 57,223,061-byte PDF itself remains byte-unverified — a library debt, not a read failure. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| beginning to measure: why steps are not a unit (the penalty spot is "12 pasos" but steps differ); length with a ruler in centimetres and metres, mass with a clothes-hanger balance then a real balance in kilograms and grams, temperature with a thermometer in degrees Celsius (CyT G2 T1) | El Salvador, *Ciencia y Tecnología 2, Tomo 1*, printed pp. 8–14 (Unit 1, Week 1) |
+
+**Acceptance count: taught in 9 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, science-skills/measuring-traditional-and-modern-measures

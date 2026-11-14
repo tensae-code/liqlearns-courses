@@ -1,6 +1,6 @@
 # Sources — Drought: what it is and how we hold it back
 
-countries: Ethiopia, Sudan, Angola, Sri Lanka, Indonesia, South Sudan
+countries: Ethiopia, Sudan, Angola, Sri Lanka, Indonesia, South Sudan, El Salvador
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -114,3 +114,17 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 6 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| climate change's local effects: heavier rainfall bringing floods and landslides in vulnerable zones, and droughts as precipitation is redistributed (CyT G7) | El Salvador, *Ciencia y Tecnología 7*, printed pp. 209–210 |
+
+**Acceptance count: taught in 7 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, soil-and-water/drought-what-it-is-and-how-we-hold-it-back

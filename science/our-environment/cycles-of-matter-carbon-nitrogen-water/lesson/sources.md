@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -318,3 +318,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment cycles-of-matter-carbon-nitrogen-water
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ecosystem dynamics are two fundamental processes: the flow of energy and the cycles of matter, both transformed through photosynthesis and the food relations (CyT G7) | El Salvador, *Ciencia y Tecnología 7*, printed pp. 124–127 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/cycles-of-matter-carbon-nitrogen-water

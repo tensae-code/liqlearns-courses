@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -671,3 +671,23 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials simple-machines
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 4, student book):** Title as printed: Ciencia y Tecnología 4, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 196 pages. Printed page = PDF page − 2 throughout (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus unit summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-04/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the earlier reader's retained full-text extraction of that file (PDF deleted by its fetch script after extraction). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 4, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 4to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 32,340,339 bytes (the repo tree file's exact size; a first tree download arrived truncated at 24,274,474 bytes and was discarded, the re-download is byte-complete). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 4 textbook, filed above as section 5). Twin records: TSV blob record and books.json record grade-04/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple machines defined: one step to do their work, made to save effort moving loads; lever, inclined plane, winch (torno), wedge, screw and pulley (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 8–12 |
+| the lever in use: fulcrum, power and resistance; building a lever; the catapult as a lever that launches rocks (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 13–17 |
+| the three classes of lever by where fulcrum, power and resistance sit, and the lever law: less power when the power arm is longer; levers in sport and daily life (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 17–22 |
+| timing the paper-cutting race, with scissors and without; balancing a seesaw with three coins at each end; rolling a cart with 2, 3, 4 and 6 books up an inclined plane and judging when it costs most and least effort (CyT G4 WB) | El Salvador, *Ciencia y Tecnología 4 — Cuaderno de trabajo*, workbook printed pp. 6–7 |
+| levers in our own body: locating fulcrum, power and resistance in the head; the catapult's lever parts and how moving the paddle in or out changes how far the balls fly (CyT G4 WB) | El Salvador, *Ciencia y Tecnología 4 — Cuaderno de trabajo*, workbook printed pp. 8–9 |
+
+**Acceptance count: taught in 26 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/simple-machines

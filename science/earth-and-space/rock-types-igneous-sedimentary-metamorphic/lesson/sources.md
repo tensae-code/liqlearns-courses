@@ -1,6 +1,6 @@
 # Sources — Rock types — igneous, sedimentary, metamorphic
 
-countries: Costa Rica, Cuba, Samoa, Cambodia, Sudan, Dominican Republic, Kuwait, China, North Macedonia, Bangladesh
+countries: Costa Rica, Cuba, Samoa, Cambodia, Sudan, Dominican Republic, Kuwait, China, North Macedonia, Bangladesh, El Salvador
 
 **Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
 
@@ -153,3 +153,19 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space rock-types-igneous-sedimentary-metamorphic
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 3, student book):** Title as printed: Ciencia y tecnología 3: Libro de texto. Authors: Xochilt María Pocasangre Orellana, Jorge Alfredo Ávila Moreno, Flor de María López Hernández, Huilhuinic Angel Orantes Ramos, Omar Antonio Rodríguez Alas, Vilma Guadalupe Mártir Ramírez, Katherine Michelle Hernández Vásquez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022. ISBN 978-99983-56-55-9 (impreso). 192 printed pages. Route and verdict: the record's own file could not be fetched — the GitHub tree route returns 404 (the grade-03 science folder is not in the repo tree, verified by a Contents API listing), no release asset carries this book (full release index checked), the MINED source_url returns 403 to every request shape tried, and the phase3-staging folder holds no file. The book was therefore read in full through a mirror of the same printed edition (SlideShare, "Ciencia3_LT_E.pdf", 196 slides including covers), transcript extracted and read slide by slide; printed page numbers below are the book's own, from its index (printed p. 6) and page footers. Verdict: COMPLETE as an edition (Units 1–6, printed pp. 7–191 plus unit summaries and evaluations); the records' 79,525,198-byte MINED PDF itself remains UNVERIFIED — see the group log's library debts. Twin records: the books.json record grade-03/gov/el-salvador/science-and-technology/student/full-year.pdf is the only record for this book (no TSV twin); cited once here. Companion workbook filed above as section 2. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rocks classified by origin at their outcrops: igneous, sedimentary and metamorphic, read from their characteristics and matched to their formation environments; uses follow properties — marble for a statue, clay for a city, coal for a power plant — filed as NEW LESSON NEEDED — rock-types-igneous-sedimentary-and-metamorphic; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (CyT G3) | El Salvador, *Ciencia y Tecnología 3*, printed pp. 49–51 |
+
+**Acceptance count: taught in 11 countries (Costa Rica, Cuba, Samoa, Cambodia, Sudan, Dominican Republic, Kuwait, China, North Macedonia, Bangladesh, El Salvador).**
+
+Placement choice, on the record: the El Salvador placement(s) above filed as NEW LESSON NEEDED — "rock-types-igneous-sedimentary-and-metamorphic" — el-salvador-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/rock-types-igneous-sedimentary-metamorphic

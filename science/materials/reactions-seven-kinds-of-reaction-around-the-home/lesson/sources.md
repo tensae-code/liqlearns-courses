@@ -1,6 +1,6 @@
 # Sources — Reactions — seven kinds of reaction around the home
 
-countries: Ethiopia
+countries: Ethiopia, El Salvador
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -16,3 +16,17 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa bureau book (2023),
 Placement: Teacher item 9 — g07-student-placements.md / g07-teacher-placements.md (Unit 3, printed pp. 66–95 of the student book). PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.). Guide material is filed as syllabus-level teacher evidence only, never as a page-key to the student book. Chemistry verification: all formulas, valences and equations in this lesson were checked as written — criss-cross results, subscripts, and atom counts on both sides of every equation. Cross-reference: the Chemistry title treats this ground at secondary depth; this lesson is a NEW first-depth lesson in Materials, not a copy or growth of any Chemistry file.
 
 Searchable tags: reactions — seven kinds of reaction around the home, grade 7 general science unit 3, elements compounds reactions ethiopia
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 6, student book):** Title as printed: Ciencia y Tecnología 6, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 195 pages, 116,912,736 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 2 (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-06/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Units 1–4 are largely the split-subject Physics/Chemistry strand (fluid mechanics, calorimetry, circuit calculations, bonding theory); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–6 (cell, development) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of reaction: decomposition (AB → A + B, electrolysis of water), displacement/substitution and the rest, with corrosion of metals and decomposition of organic matter as everyday examples; the breath test reaction (CyT G6) | El Salvador, *Ciencia y Tecnología 6*, printed pp. 117–123 |
+
+**Acceptance count: taught in 1 country (El Salvador).** El Salvador's student books/workbooks above are this lesson's first counted country; the earlier evidence-only sources named in this file remain evidence only, counted nowhere.
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/reactions-seven-kinds-of-reaction-around-the-home

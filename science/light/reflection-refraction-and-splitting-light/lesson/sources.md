@@ -1,6 +1,6 @@
 # Sources — Reflection, refraction and splitting light
 
-countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only), Angola, Dominican Republic, Syria, Sri Lanka (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Nicaragua, Malaysia, South Sudan (teacher-guide evidence only)
+countries: Ethiopia, Iran, China, Cuba, Australia, Pakistan (Punjab), Samoa, Cabo Verde (teacher-guide evidence only), Angola, Dominican Republic, Syria, Sri Lanka (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Nicaragua, Malaysia, South Sudan (teacher-guide evidence only), El Salvador
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -221,3 +221,18 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count unchanged: taught in 15 countries.** South Sudan is named as teacher-guide evidence only in this section (its Primary pupil's books do not place here), not added to this count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 10 (1.er año de Bachillerato), student book):** Title as printed: Ciencia y Tecnología, 1.er año de Bachillerato, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 259 pages, 141,159,866 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 11). Verdict: COMPLETE (printed pp. 11–258, Units 1–8 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-10-full-year.pdf) and books.json record grade-10/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Scope note: Units 1, 4 and 5 are the Chemistry wave's strand (electrochemistry, organic chemistry), Units 2–3 the Physics wave's strand (electromagnetism, optics — except the light phenomena that have general-science slugs, placed below) and Unit 7 is largely the Biology wave's strand (cell energetics); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 6 (biomolecules) and 8 (human anatomy and physiology) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| dispersion: white light splitting into colours as it passes between media or reflects; diffraction patterns used to calculate a wavelength (CyT G10) | El Salvador, *Ciencia y Tecnología, 1.er año de Bachillerato*, printed pp. 63–67 |
+| geometrical optics: light treated as rays; the laws of reflection and refraction measured directly with a laser and mirror, and a laboratory determination of a transparent block's refractive index by Snell's law (CyT G10) | El Salvador, *Ciencia y Tecnología, 1.er año de Bachillerato*, printed pp. 68–74 |
+
+**Acceptance count: taught in 16 countries (its Primary pupil's books do not place here, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/reflection-refraction-and-splitting-light

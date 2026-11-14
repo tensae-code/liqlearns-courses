@@ -1,0 +1,11 @@
+# Video script — Food security and climate change
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Today: **Food security and climate change** — as El Salvador's MINED *Ciencia y Tecnología* books teach it.
+
+food and nutritional security under climate change.
+
+Now you. Say it back — in your own words.

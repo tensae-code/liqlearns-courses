@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles, Cabo Verde, Venezuela, Angola, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka (teacher-guide evidence only), Rwanda, Zimbabwe (teacher-guide evidence only), Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia, Seychelles, Cabo Verde, Venezuela, Angola, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka (teacher-guide evidence only), Rwanda, Zimbabwe (teacher-guide evidence only), Vietnam, Nicaragua, Morocco (teacher-guide evidence only), El Salvador
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -391,3 +391,20 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, the-human-body the-human-reproductive-system
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 4, student book):** Title as printed: Ciencia y Tecnología 4, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 196 pages. Printed page = PDF page − 2 throughout (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus unit summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-04/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the earlier reader's retained full-text extraction of that file (PDF deleted by its fetch script after extraction). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 4, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 4to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 32,340,339 bytes (the repo tree file's exact size; a first tree download arrived truncated at 24,274,474 bytes and was discarded, the re-download is byte-complete). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 4 textbook, filed above as section 5). Twin records: TSV blob record and books.json record grade-04/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the female and male reproductive systems: their structures (testicles, epididymis and the rest) and each system's functions compared (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 186–188 |
+| the male reproductive system as a word search (vas deferens, prostate...) and a function-matching table: which structure receives and lets a new being develop (CyT G4 WB) | El Salvador, *Ciencia y Tecnología 4 — Cuaderno de trabajo*, workbook printed pp. 79–80 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Guyana, Mongolia, India, Cuba, Samoa, Cambodia, Seychelles, Cabo Verde, Venezuela, Angola, Dominican Republic, Kuwait, Syria, Eritrea, Rwanda, Vietnam, Nicaragua, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/the-human-reproductive-system

@@ -1,6 +1,6 @@
 # Sources — Reflection — laws, mirror images and the periscope
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -414,3 +414,17 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, light reflection-laws-mirror-images-and-the-periscope
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 10 (1.er año de Bachillerato), student book):** Title as printed: Ciencia y Tecnología, 1.er año de Bachillerato, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 259 pages, 141,159,866 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 11). Verdict: COMPLETE (printed pp. 11–258, Units 1–8 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-10-full-year.pdf) and books.json record grade-10/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Scope note: Units 1, 4 and 5 are the Chemistry wave's strand (electrochemistry, organic chemistry), Units 2–3 the Physics wave's strand (electromagnetism, optics — except the light phenomena that have general-science slugs, placed below) and Unit 7 is largely the Biology wave's strand (cell energetics); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 6 (biomolecules) and 8 (human anatomy and physiology) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mirrors and lenses: a plane mirror's virtual image, as far behind the mirror and the same way up as the object; thin lenses forming images by refraction from their two curved surfaces and two foci; mirror-and-lens combinations in microscopes, telescopes and cameras (CyT G10) | El Salvador, *Ciencia y Tecnología, 1.er año de Bachillerato*, printed pp. 75–82 |
+
+**Acceptance count: taught in 30 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/reflection-laws-mirror-images-and-the-periscope

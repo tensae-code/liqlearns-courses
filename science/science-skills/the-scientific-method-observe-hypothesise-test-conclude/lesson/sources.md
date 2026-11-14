@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only), Egypt, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -502,3 +502,17 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills t
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills the-scientific-method-observe-hypothesise-test-conclude
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 6, workbook):** Title as printed: Ciencia y tecnología 6: cuaderno de trabajo. Authors: Edwin Adverdi Pérez Ventura, Jessica Vanessa Aguilar Sandoval, Huilhuinic Angel Orantes Ramos, Elizabeth Melany Murillo Torres, Vilma Guadalupe Mártir Ramírez, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022, tercera reimpresión 2025. ISBN 978-99983-56-62-7 (impreso). PDF 82 pages, 31,009,423 bytes — the repo tree file's exact size (fetch log in scratch). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–80, Units 1–6, Weeks 1–32). Twin records: TSV blob record and books.json record grade-06/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook (section 6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| spontaneous generation put to the test: a flow diagram of the experimental design and a timeline of the theory's history; culturing microorganisms from the school's water in light and dark treatments with controls, results recorded as a binary matrix over three days (CyT G6 WB) | El Salvador, *Ciencia y Tecnología 6 — Cuaderno de trabajo*, workbook printed pp. 57–58 |
+
+**Acceptance count: taught in 24 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, science-skills/the-scientific-method-observe-hypothesise-test-conclude

@@ -1,6 +1,6 @@
 # Sources — Food — where our food comes from
 
-countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only)
+countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -248,3 +248,23 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count unchanged: taught in 9 countries.** South Sudan is named as teacher-guide evidence only in this section (its Primary pupil's books do not place here), not added to this count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 4, student book):** Title as printed: Ciencia y Tecnología 4, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 196 pages. Printed page = PDF page − 2 throughout (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus unit summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-04/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the earlier reader's retained full-text extraction of that file (PDF deleted by its fetch script after extraction). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 4, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 4to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 32,340,339 bytes (the repo tree file's exact size; a first tree download arrived truncated at 24,274,474 bytes and was discarded, the re-download is byte-complete). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 4 textbook, filed above as section 5). Twin records: TSV blob record and books.json record grade-04/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| foods of animal origin (meat, milk, eggs) and of plant origin (fruits, vegetables, maize, rice) (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed pp. 66–70 |
+| where food comes from: farmers produce it; touring home, school and community to ask what each plant is for (CyT G4) | El Salvador, *Ciencia y Tecnología 4*, printed pp. 58–62 |
+| yesterday's breakfast and dinner listed and classified by origin, animal or plant; where the foods eaten at home are bought (CyT G4 WB) | El Salvador, *Ciencia y Tecnología 4 — Cuaderno de trabajo*, workbook printed pp. 27, 29 |
+
+**Acceptance count: taught in 10 countries (its Primary pupil's books do not place here, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, keeping-healthy/food-where-our-food-comes-from

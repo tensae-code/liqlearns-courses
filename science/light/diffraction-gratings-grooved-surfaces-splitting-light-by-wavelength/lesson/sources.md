@@ -1,6 +1,6 @@
 # Sources — Diffraction gratings — grooved surfaces splitting light by wavelength
 
-countries: Finland, Bhutan, Cuba
+countries: Finland, Bhutan, Cuba, El Salvador
 
 **Book 1:** *Oppilastyö — Valon aaltoluonne (Pupil practical: The nature of light; printed title "Oppilastyö: Valon luonne")* (student practical with teacher/model-answer sections) — Finland, Grade 7 (level given in the document as yläkoulu, lower secondary), authors Ilona Savolainen & Tomi Koivisto, University of Jyväskylä students. Repo path: grade-07/gov/finland/physics/student/finland-g07-aoe3803-oppilastyo-valo.pdf. Bytes: 545,144 (exact match). PDF pages: 8. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 8 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -23,3 +23,17 @@ countries: Finland, Bhutan, Cuba
 Placement choice, on the record: this NEW LESSON was built for the Finland placement "Diffraction gratings — grooved surfaces splitting light by wavelength" — finland-placements.md, Book 3, PDF p. 4 — which goes beyond the existing dispersion lesson's prism/rainbow treatment. It sits in light/ beside that dispersion lesson and is registered in CURRICULUM.md Unit 5 (Light). The source is a pupil practical (student material with model answers), so Finland counts for this lesson.
 
 Searchable tags: diffraction grating, CD grating, grooves, wavelength, spectrum, interference, dispersion, finland
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 10 (1.er año de Bachillerato), student book):** Title as printed: Ciencia y Tecnología, 1.er año de Bachillerato, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 259 pages, 141,159,866 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 11). Verdict: COMPLETE (printed pp. 11–258, Units 1–8 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-10-full-year.pdf) and books.json record grade-10/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Scope note: Units 1, 4 and 5 are the Chemistry wave's strand (electrochemistry, organic chemistry), Units 2–3 the Physics wave's strand (electromagnetism, optics — except the light phenomena that have general-science slugs, placed below) and Unit 7 is largely the Biology wave's strand (cell energetics); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 6 (biomolecules) and 8 (human anatomy and physiology) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the wave nature of light: colours on soap bubbles; laser light through slits cut in aluminium foil giving rows of points — interference and diffraction, two related phenomena that depend on the wavelength (CyT G10) | El Salvador, *Ciencia y Tecnología, 1.er año de Bachillerato*, printed pp. 56–62 |
+
+**Acceptance count: taught in 4 countries (Finland, Bhutan, Cuba, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/diffraction-gratings-grooved-surfaces-splitting-light-by-wavelength

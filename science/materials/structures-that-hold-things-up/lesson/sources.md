@@ -1,0 +1,15 @@
+# Sources — Structures that hold things up
+
+countries: El Salvador
+
+**Book (El Salvador — Grade 2, student book, Tomo 2):** Title as printed: Ciencia y tecnología 2: libro de texto, tomo II. Authors: Carolina Ruíz de Escobar, Flor de María López Hernández, Carlos Josué Quintanilla Yanes, Alejandra Ileana Delgado Menjívar. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador, primera edición 2022, ISBN en trámite. Printed book 144 pp, Units 4–6, Weeks 17–32 (printed pp. 5–143). Verdict: COMPLETE as an edition read — full text read via the Scribd mirror "Ciencia y Tecnología 2° Grado Tomo II" (es.scribd.com/document/698476789), whose credits page matches the record's edition exactly. Records: books.json record grade-02/gov/el-salvador/science-and-technology/student/volume-2.pdf (71,952,103 bytes); Tomo 1 filed as section 16. Route and verdict: the record's own PDF could not be fetched by this reader — grab.py tree returns 404 (the grade-02 science-and-technology folder is absent from the repo tree, verified by GitHub Contents API listing), no release asset for this book exists in any release (full release index scanned), the publisher's MINED 2026-materials URL returns 403 to every request shape tried, and the phase3-staging folder grade-02/gov/el-salvador/science-and-technology/ exists but is empty. The same printed edition was therefore read in full from the mirror above; the record's 71,952,103-byte PDF itself remains byte-unverified — a library debt, not a read failure. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| structures: building a rigid structure of one's own and recording the maximum resistance it can hold (CyT G2 T2) | El Salvador, *Ciencia y Tecnología 2, Tomo 2*, printed pp. 68–74 (Unit 5, Week 24) |
+
+**Acceptance count: taught in 1 country (El Salvador).**
+
+Placement choice, on the record: this NEW LESSON was built for the El Salvador placement(s) "NEW LESSON NEEDED — structures-that-hold-things-up" — el-salvador-placements.md (1 placement bullet(s)). No existing general-science lesson covers this thing as its own lesson — the near lessons `materials/strong-shapes-triangles-arches-and-columns` and `science-skills/engineering-design-bridges-and-loads` teach strong shapes and a bridge project; building a rigid structure of your own and recording the maximum load it holds is this lesson's thing — so it gets its own lesson. It sits in materials/ and is registered in CURRICULUM.md Unit 4 (Materials). El Salvador's own way — teaching this from its own MINED *Ciencia y Tecnología* books, in the order and with the examples named in the rows above — IS part of this lesson's content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/structures-that-hold-things-up

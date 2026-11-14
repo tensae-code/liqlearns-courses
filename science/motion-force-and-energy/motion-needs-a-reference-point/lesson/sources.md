@@ -1,6 +1,6 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia, Saudi Arabia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia, Saudi Arabia, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -249,3 +249,17 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, motion-for
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, motion-force-and-energy motion-needs-a-reference-point
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 5, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 5to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 22,173,864 bytes. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 5 textbook, filed separately below). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence. Scope note: Units 2–4 of this grade are the split-subject Physics/Chemistry strand (mechanics, atomic structure, periodic table); they receive chapter-level lines plus placements only where a general-science target slug exists. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| saying where a hidden object is three ways; coordinates of my school and another place on the map of El Salvador (CyT G5 WB) | El Salvador, *Ciencia y Tecnología 5 — Cuaderno de trabajo*, workbook printed pp. 19–20 (Unit 2, Mechanics — remainder of the unit is the Physics wave's strand: MRU/MCU, Newton's laws, torque, spring and mechanical-energy calculations, chapter-level line, already covered by the earlier Physics wave) |
+
+**Acceptance count: taught in 20 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, motion-force-and-energy/motion-needs-a-reference-point

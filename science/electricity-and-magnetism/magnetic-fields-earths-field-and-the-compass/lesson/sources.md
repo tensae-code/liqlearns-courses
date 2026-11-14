@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka, Rwanda, North Macedonia, Indonesia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), Iraq
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka, Rwanda, North Macedonia, Indonesia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -350,3 +350,17 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, electricity-and-magnetism magnetic-fields-earths-field-and-the-compass
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 9, student book):** Title as printed: Ciencia y Tecnología 9, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 243 pages, 193,937,097 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–242, Units 1–7 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-09-full-year.pdf) and books.json record grade-09/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Companion workbook filed above as section 4. Scope note: Units 1–3, 6 and 7 are the split-subject Physics/Chemistry strand (fluid mechanics, thermodynamics, chemical equilibrium, electricity and electronics, applied magnetism) and receive chapter-level lines plus placements only where a general-science target slug exists. Units 4–5 (oceanography, geology of El Salvador) are general Earth science and are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| magnetism in the Earth: the solar wind meeting the Earth's magnetic field, auroras; the magnetic field lines shown by iron filings, used the same way for the planet's field (Unit 7, Applied magnetism — the magnetic-force calculations on charges and current-carrying wires are the Physics wave's strand, chapter-level line, already covered by the earlier Physics wave) (CyT G9) | El Salvador, *Ciencia y Tecnología 9*, printed pp. 218–224 |
+
+**Acceptance count: taught in 22 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, electricity-and-magnetism/magnetic-fields-earths-field-and-the-compass

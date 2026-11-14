@@ -1,6 +1,6 @@
 # Sources — Motors and generators — electricity to motion, motion to electricity
 
-countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania, Kazakhstan, Venezuela, Dominican Republic, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania, Kazakhstan, Venezuela, Dominican Republic, Morocco (teacher-guide evidence only), El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -102,3 +102,17 @@ Searchable tags: china, china science, pep, people's education press, motors and
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, electricity-and-magnetism motors-and-generators-electricity-to-motion-motion-to-electricity
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 9, student book):** Title as printed: Ciencia y Tecnología 9, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 243 pages, 193,937,097 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–242, Units 1–7 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-09-full-year.pdf) and books.json record grade-09/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Companion workbook filed above as section 4. Scope note: Units 1–3, 6 and 7 are the split-subject Physics/Chemistry strand (fluid mechanics, thermodynamics, chemical equilibrium, electricity and electronics, applied magnetism) and receive chapter-level lines plus placements only where a general-science target slug exists. Units 4–5 (oceanography, geology of El Salvador) are general Earth science and are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the principle of the motor and building your own simple DC motor (two variants); electric vehicles' advantages and disadvantages weighed — fewer emissions against the rest (CyT G9) | El Salvador, *Ciencia y Tecnología 9*, printed pp. 230–235 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania, Kazakhstan, Venezuela, Dominican Republic).** China was already counted in this lesson through its Physics textbooks (named in the sections above, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, electricity-and-magnetism/motors-and-generators-electricity-to-motion-motion-to-electricity

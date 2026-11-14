@@ -1,6 +1,6 @@
 # Sources — Animals — mammals
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia, India, Bulgaria, Bahamas (curriculum evidence only), Egypt, Sudan, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, South Sudan, Iraq
+countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia, India, Bulgaria, Bahamas (curriculum evidence only), Egypt, Sudan, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -469,3 +469,17 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, animals animals-mammals
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 1, student book):** Title as printed: Ciencia, salud y medio ambiente 1. Authors: Maritza Lisbet Erazo Sosa, Claudia Lucely Ascencio Cuéllar, José Elías Martínez Echegoyén et al. Publisher: Ministerio de Educación (MINED), El Salvador; printed with Government of El Salvador education trust funds (PDF produced 2009). PDF 128 pages, 10,624,399 bytes — matches the books.json size_bytes exactly. Verdict: COMPLETE (printed pp. 5–127, Units 1–6, all lessons present). Twin records: TSV release record (mid-size-books-8) and books.json record grade-01/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; the tree route returned 404, the release route delivered the byte-exact file; cited once here. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mammals: hair-covered bodies, four limbs (CyT G1) | El Salvador, *Ciencia, Salud y Medio Ambiente 1*, printed pp. 13, 16 |
+
+**Acceptance count: taught in 29 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/animals-mammals

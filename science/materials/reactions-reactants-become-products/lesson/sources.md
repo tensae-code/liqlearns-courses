@@ -1,6 +1,6 @@
 # Sources — Reactions — reactants become products
 
-countries: Ethiopia, Samoa, Fiji, Iraq
+countries: Ethiopia, Samoa, Fiji, Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -70,3 +70,20 @@ Searchable tags: fiji, fiji science, ministry of education fiji, materials react
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials reactions-reactants-become-products
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 6, student book):** Title as printed: Ciencia y Tecnología 6, Libro de texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 195 pages, 116,912,736 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 2 (Unit 1 opens printed p. 7). Verdict: COMPLETE (printed pp. 7–192, Units 1–6 plus summaries and evaluations). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-06/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Units 1–4 are largely the split-subject Physics/Chemistry strand (fluid mechanics, calorimetry, circuit calculations, bonding theory); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–6 (cell, development) are placed in full where general slugs exist. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 6, workbook):** Title as printed: Ciencia y tecnología 6: cuaderno de trabajo. Authors: Edwin Adverdi Pérez Ventura, Jessica Vanessa Aguilar Sandoval, Huilhuinic Angel Orantes Ramos, Elizabeth Melany Murillo Torres, Vilma Guadalupe Mártir Ramírez, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; segunda edición 2022, tercera reimpresión 2025. ISBN 978-99983-56-62-7 (impreso). PDF 82 pages, 31,009,423 bytes — the repo tree file's exact size (fetch log in scratch). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–80, Units 1–6, Weeks 1–32). Twin records: TSV blob record and books.json record grade-06/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook (section 6). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| writing chemical equations: reactants on the left, products on the right; reversible vs irreversible reactions and the conditions they need (heat, catalyst) (CyT G6) | El Salvador, *Ciencia y Tecnología 6*, printed pp. 112–116 |
+| writing and classifying equations from word descriptions; breathing into limewater until calcium carbonate forms; building an alcohol stove and naming the reaction inside it and its safety precautions (CyT G6 WB) | El Salvador, *Ciencia y Tecnología 6 — Cuaderno de trabajo*, workbook printed pp. 50–52 |
+
+**Acceptance count: taught in 5 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/reactions-reactants-become-products

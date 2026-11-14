@@ -1,6 +1,6 @@
 # Sources — Classification — scientific names and the seven ranks
 
-countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only), Malaysia
+countries: Ethiopia, Ecuador, Indonesia (teacher-guide evidence only), Malaysia, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -59,3 +59,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, anim
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals scientific-names-and-the-seven-ranks
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+**Book (El Salvador — Grade 7, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 7 (Grade 7 workbook). Authors include Nathalie Carmelina Galicia Shul, Adela Melissa Martínez de Guirola, Vilma Guadalupe Mártir Ramírez, Osvaldo Efraín Hernández Alas, Huilhuinic Ángel Orantes Ramos, Xochilt María Pocasangre Orellana, Cesiah Rebeca Quintanilla García, Dennis Ulises Lemus Flores, Néstor Josué Ramírez Martínez. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador; primera edición 2024, segunda reimpresión 2025; ISBN in process (en trámite) as printed. PDF 130 pages, 20,923,842 bytes — the repo tree file's exact size (fetch log in scratch). Printed page = PDF page − 1. Verdict: COMPLETE (workbook printed pp. 5–128, Units 1–6, Weeks 1–32). Twin records: TSV blob record and books.json record grade-07/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Workbook evidence: only the workbook's own activities and exercises are placed below — the shared substance is filed once under the textbook (section 7). It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| taxonomy: more than 1.8 million species, all related by common origin; taxonomic categories as a stepped order from the most general; the Latin words inside scientific names (salvadorensis among them) (CyT G7) | El Salvador, *Ciencia y Tecnología 7*, printed pp. 89–93 |
+| the Latin-word detective: rebuilding scientific names from meaning clues (Anadara grandis, Tamarindus indica, Geococcyx velox, Cedrela salvadorensis), and taxon listings pulled from biodiversity platforms for a reef coral, a conch, a rhinoceros beetle, a caecilian, a toad and an iguana (CyT G7 WB) | El Salvador, *Ciencia y Tecnología 7 — Cuaderno de trabajo*, workbook printed pp. 54–55 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Malaysia, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/scientific-names-and-the-seven-ranks

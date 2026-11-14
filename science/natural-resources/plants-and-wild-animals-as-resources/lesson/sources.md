@@ -1,6 +1,6 @@
 # Sources — Plants and wild animals as resources
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -105,3 +105,17 @@ Searchable tags: yemen, yemen science, ministry of education yemen, natural-reso
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, natural-resources plants-and-wild-animals-as-resources
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 2, student book, Tomo 2):** Title as printed: Ciencia y tecnología 2: libro de texto, tomo II. Authors: Carolina Ruíz de Escobar, Flor de María López Hernández, Carlos Josué Quintanilla Yanes, Alejandra Ileana Delgado Menjívar. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador, primera edición 2022, ISBN en trámite. Printed book 144 pp, Units 4–6, Weeks 17–32 (printed pp. 5–143). Verdict: COMPLETE as an edition read — full text read via the Scribd mirror "Ciencia y Tecnología 2° Grado Tomo II" (es.scribd.com/document/698476789), whose credits page matches the record's edition exactly. Records: books.json record grade-02/gov/el-salvador/science-and-technology/student/volume-2.pdf (71,952,103 bytes); Tomo 1 filed as section 16. Route and verdict: the record's own PDF could not be fetched by this reader — grab.py tree returns 404 (the grade-02 science-and-technology folder is absent from the repo tree, verified by GitHub Contents API listing), no release asset for this book exists in any release (full release index scanned), the publisher's MINED 2026-materials URL returns 403 to every request shape tried, and the phase3-staging folder grade-02/gov/el-salvador/science-and-technology/ exists but is empty. The same printed edition was therefore read in full from the mirror above; the record's 71,952,103-byte PDF itself remains byte-unverified — a library debt, not a read failure. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the importance of plants: they produce oxygen and give food, medicine, raw materials and ornament (CyT G2 T2) | El Salvador, *Ciencia y Tecnología 2, Tomo 2*, printed pp. 20–28 and 54 (Unit 4, Week 19) |
+
+**Acceptance count: taught in 6 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, natural-resources/plants-and-wild-animals-as-resources

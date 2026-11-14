@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka, Bangladesh, Yemen, Nicaragua, Iraq
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka, Bangladesh, Yemen, Nicaragua, Iraq, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -242,3 +242,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, the-human-body skin-the-integumentary-system
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 8, student book):** Title as printed: Ciencia y Tecnología 8, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 243 pages, 142,482,702 bytes — matches the books.json size_bytes and the release asset size exactly. Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–242, Units 1–7 plus summaries and evaluations). Note: the earlier reader's retained text extraction of this book stopped at PDF page 194 (mid Unit 6); the book was re-extracted in full by this finisher and read whole. Twin records: TSV release record (full-quality-oversized-books, el-salvador-grade-08-full-year.pdf) and books.json record grade-08/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Scope note: Units 1–3 are the split-subject Physics strand (mechanics, mechanical energy, mechanical waves) and Unit 4 is the Chemistry strand (stoichiometry and dispersions); they receive chapter-level lines plus placements only where a general-science target slug exists. Units 5–7 (minerals, plant anatomy, animal anatomy) are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| keratin: the resistant, flexible, waterproof protein the epidermal cells produce, the main component of hair, nails, feathers, scales, hooves and horns in vertebrates (CyT G8) | El Salvador, *Ciencia y Tecnología 8*, printed p. 208 |
+
+**Acceptance count: taught in 16 countries — El Salvador added.**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-body/skin-the-integumentary-system

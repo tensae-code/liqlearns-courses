@@ -1,6 +1,6 @@
 # Sources — Isotopes — and why atomic masses are not whole numbers
 
-countries: Ethiopia, Bhutan
+countries: Ethiopia, Bhutan, El Salvador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia, Federal Ministry of Education new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C.; no bureau, publisher or publication year is printed anywhere in the file. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. PDF 141 pp. Printed page = PDF page (1:1). COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
@@ -31,3 +31,17 @@ Searchable tags: isotopes, average atomic mass, protium, deuterium, tritium, wei
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class viii
+
+## El Salvador growth (2026-11-14, General Science expansion)
+
+**Book (El Salvador — Grade 5, workbook):** Title as printed: Ciencia y Tecnología, Cuaderno de trabajo, 5to grado. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 82 pages, 22,173,864 bytes. Verdict: COMPLETE (workbook printed pp. 5–81, Units 1–6; companion to the Grade 5 textbook, filed separately below). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/el-salvador/science-and-technology/workbook/full-year.pdf are the same book; cited once here. Workbook evidence. Scope note: Units 2–4 of this grade are the split-subject Physics/Chemistry strand (mechanics, atomic structure, periodic table); they receive chapter-level lines plus placements only where a general-science target slug exists. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the three hydrogens ¹H, ²H, ³H drawn side by side: which subatomic particle changes (CyT G5 WB) | El Salvador, *Ciencia y Tecnología 5 — Cuaderno de trabajo*, workbook printed p. 39 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, El Salvador).**
+
+El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/isotopes-and-why-atomic-masses-are-not-whole-numbers
