@@ -761,3 +761,5 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Software** (ICT expansion, from Azerbaijan): The Desktop and a Program Window · The Calculator Program
 
 **Multimedia** (ICT expansion, from Azerbaijan): Text Inside a Picture in Paint
+
+**Computers in Society** (ICT expansion, from Mozambique): ICT in STEM Learning and Careers · Language and Netiquette in Digital Environments · ICT in Agriculture
