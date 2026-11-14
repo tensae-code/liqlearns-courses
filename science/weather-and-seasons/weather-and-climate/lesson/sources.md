@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -52,7 +52,7 @@ countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (te
 
 | Chapter 3 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 3 summary + review, printed pp. 96–99 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Italy).**
 
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 
@@ -85,3 +85,14 @@ Searchable tags: weather, climate, elements of weather, temperature, rain, 30 ye
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Atmospheric pressure and winds; how pressure varies; sea and land breezes (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 319 |
+| Unit 8, Climate and the biosphere: from weather to climate (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 352 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Italy).**
+
+Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9

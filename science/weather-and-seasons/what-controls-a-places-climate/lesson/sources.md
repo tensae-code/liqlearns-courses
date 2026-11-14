@@ -1,6 +1,6 @@
 # Sources — What controls a place's climate
 
-countries: Ethiopia
+countries: Ethiopia, Italy
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -14,17 +14,20 @@ countries: Ethiopia
 
 **Book 11:** *Grade 5 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አምስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–75 (Units 1–3 complete); Units 4–5 are NOT in the file (the contents page promises 5 units running to printed p. 106). Printed page = PDF page − 7. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-teacher-placements.md.
 
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three controllers | Ethiopia, *Grade 4 Student Textbook*, §3.2, printed p. 72 |
 | The three controllers (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §3.1.3, printed pp. 66–71 |
 | The three controllers (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — Oromia edition*, §3.4, printed pp. 35–44 |
+| General circulation of the atmosphere; jet streams and the polar front (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 322 |
 
 | Grade 5 — the three controllers, Ethiopia's case; Grade 6 — five controllers | Ethiopia, *Grade 5 Student Textbook*, printed p. 98 |
 | Grade 5 — the three controllers, Ethiopia's case; Grade 6 — five controllers | Ethiopia, *Grade 6 Student Textbook*, printed p. 109 |
 | Grade 5 — the three controllers, Ethiopia's case; Grade 6 — five controllers (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §3.1, printed pp. 38–48 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Italy).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies. Teacher-guide rows are evidence and never count as pupil-taught.
 

@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only)
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -16,7 +16,7 @@ countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teache
 
 | Ch.9 Physics of the atmosphere §§9-1–9-2 (Earth's air and the atmosphere's layers) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.9 Physics of the atmosphere §§9-1–9-2 (Earth's air and the atmosphere's layers) — printed p. 161 |
 
-**Acceptance count: taught in 2 countries (Iraq, Cuba).** Ethiopia is named as teacher-guide evidence only (*General Science Teacher's Guide, Grade 7* — teacher guide), not added to this count.
+**Acceptance count: taught in 3 countries (Iraq, Cuba, Italy).**
 
 PAIRING WARNING, carried exactly: this Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.). Every guide row below is syllabus-level teacher evidence only, never a page-key to the student book, and teacher evidence never counts as pupil-taught.
 
@@ -46,3 +46,13 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, atmosphere, altitude and cold, ozone layer, chlorofluorocarbons
+
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7, The atmosphere and weather phenomena: why the air envelope matters; composition, division and limit of the atmosphere; from the primordial to today's atmosphere (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed pp. 304–310 |
+
+**Acceptance count: taught in 3 countries (Iraq, Cuba, Italy).**
+
+Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9

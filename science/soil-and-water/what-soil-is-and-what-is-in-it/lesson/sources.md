@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only)
 | Grade 6 — soil and its five ingredients | Ethiopia, *Grade 6 Student Textbook*, printed p. 110 |
 | Grade 6 — soil and its five ingredients (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §3.3, printed pp. 49–51 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Suriname).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Suriname, Italy).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. This lesson opens the Soil and Water title, which Band A left unbuilt (no directly named Soil/Water placements exist in Grades 1–3); the Grade 4 book names them directly.
 
@@ -58,3 +58,13 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, soil, earths crust surface layer
+
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Climate and soil formation; the soil profile (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 354 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Suriname, Italy).**
+
+Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9

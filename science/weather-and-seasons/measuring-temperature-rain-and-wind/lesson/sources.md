@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia
+countries: Ethiopia, Italy
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia
 
 **Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The elements, and their instruments | Ethiopia, *Grade 4 Student Textbook*, §3.2, printed pp. 70–72 |
 | The elements, and their instruments (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §3.1.2, printed pp. 66–71 |
 | The elements, and their instruments (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — Oromia edition*, §3.3, printed pp. 35–44 |
+| Air temperature and the geographic factors that influence it (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 314 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Italy).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148). Both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies. Teacher-guide rows are evidence and never count as pupil-taught.
 

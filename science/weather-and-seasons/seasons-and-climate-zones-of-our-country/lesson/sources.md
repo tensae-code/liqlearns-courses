@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only)
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Mexico, Zambia (teacher-module evidence only)
 
 | Grade 5 — Ethiopia's five climate zones, and why high air is cold | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 100 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Italy).**
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE. The eight climate types are named in the placement only as a keyed map (figure 4.1); their individual names are not carried in the placements, so none is invented here.
 
@@ -48,3 +48,13 @@ Searchable tags: seasons, bega, kiremt, climate zones, berha qolla weyna dega de
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The climates of the Earth; the climate map; the climates of Italy — Italy's own way: its own territory's climates (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed pp. 360–374 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Italy).**
+
+Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9

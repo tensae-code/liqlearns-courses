@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -15,7 +15,7 @@ countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada 
 | Natural and human impacts on ecosystems (9.3) (Australia, Grade 9) | Australia, *Pearson Science 9*, 9.3 Natural and human impacts on ecosystems — printed p. 375 |
 | Life in the mangroves: permanent residents and visitors that come to feed, and each visitor's role — with the forest's residents and visitors (teacher's edition — evidence) (Palau, Grade 5) | Palau, *Ridge to Reef Education — Teacher's Edition* (teacher's edition — evidence), printed pp. 16 (forests) and 29 (mangroves) |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Australia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Australia, Italy).**
 
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 
@@ -53,3 +53,13 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, intraspecific, interspecific, predation parasitism competition amensalism mutualism
+
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Climate conditions and the presence of plants and animals; climate and vegetation (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 357 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Australia, Italy).**
+
+Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9

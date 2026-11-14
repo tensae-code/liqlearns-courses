@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -23,7 +23,7 @@ countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence
 | Theme 5 §5.3: global climate changes — the layers of the atmosphere, natural and anthropogenic causes, the greenhouse effect, aerosols and acid rain, the 1880–2000 temperature record (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §5.3: global climate changes — the layers of the atmosphere, natural and anthropogenic causes, the greenhouse effect, aerosols and acid rain, the 1880–2000 temperature record — printed pp. 204–207 |
 | Climate Change: global warming and the burning of fossil fuels (curriculum-guide evidence) (Jamaica, Grade 7) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Climate Change — printed p. 73 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Uganda, North Macedonia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, North Macedonia, Italy).**
 
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 
@@ -67,3 +67,14 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, global warming, greenhouse effect, calentamiento global
+
+**Book (Italy):** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Scope note, carried as filed: only general/integrated science parts are placed; Italy's other four held books are pure Biology volumes, filed record-only with no placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Solar radiation and the heat balance of the Earth system; the greenhouse effect in the Earth–atmosphere radiation balance (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 311 |
+| Weather, climate, humans and the risk of global atmospheric warming; sea-level variations (Italy, Grade 9) | Italy, *Il globo terrestre e la sua evoluzione, Edizione blu*, printed p. 383 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, North Macedonia, Italy).**
+
+Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9
