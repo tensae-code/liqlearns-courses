@@ -1,6 +1,6 @@
 # Sources — Inheritance — genes and traits
 
-countries: India, Kuwait
+countries: India, Kuwait, Eritrea
 
 **Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
 
@@ -36,3 +36,24 @@ Searchable tags: india, ncert, class x, inheritance-genes-and-traits, heredity, 
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, inheritance genes and traits
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 8):** *Science for Grade 8 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 8 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 224 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,898,268 bytes, 224 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| inheritance: genes and traits (placement filed as NEW LESSON NEEDED — inheritance-genes-and-traits; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 210 |
+| dominant and recessive genes; genetic crosses (placement filed as NEW LESSON NEEDED — inheritance-genes-and-traits; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 214 |
+| genes and chromosomes (Unit: Inheritance) (placement filed as NEW LESSON NEEDED — inheritance-genes-and-traits; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 8) | Eritrea, *Science for Grade 8 Textbook*, printed p. 133 |
+| genetic crosses; sources of variation; inherited and acquired traits (placement filed as NEW LESSON NEEDED — inheritance-genes-and-traits; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 8) | Eritrea, *Science for Grade 8 Textbook*, printed p. 135 |
+
+**Acceptance count: taught in 3 countries (India, Kuwait, Eritrea).**
+
+Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LESSON NEEDED — inheritance-genes-and-traits" stock into this existing lesson rather than building a second lesson on the same thing; the original slug is recorded in each row above.
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, inheritance genes and traits

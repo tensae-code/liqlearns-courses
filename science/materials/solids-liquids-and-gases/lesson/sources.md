@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -651,3 +651,25 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, solids
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6, natural sciences grade 8, science and environment grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 3):** *Science for Grade 3 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 3, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2016. PDF 127 pages. Verdict: COMPLETE (7 chapters). Size/pages as verified in the placements file: 4,228,649 bytes, 127 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| change brought by heat: water evaporating, an egg frying (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 23 |
+| liquids pour and flow: naming liquids (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 45 |
+| water is the liquid we need most at home (Ch. 7: Water in the home) (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 58 |
+| the different states of things (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 57 |
+| differences between solids, liquids and gases (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 63 |
+
+**Acceptance count: taught in 35 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, solids liquids and gases

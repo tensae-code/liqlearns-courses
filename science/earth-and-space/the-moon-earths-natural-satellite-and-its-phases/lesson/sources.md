@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -386,3 +386,17 @@ Searchable tags: china, china science, pep, people's education press, the moon e
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 8, science and environment grade 1 teacher guide
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| revolution of the Moon round the Earth (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 153 |
+
+**Acceptance count: taught in 22 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab, Dominican Republic, China, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, the moon earths natural satellite and its phases

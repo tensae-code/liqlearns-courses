@@ -1,6 +1,6 @@
 # Sources — Dirty water and what it brings
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -228,3 +228,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, dirty 
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water gets dirty: a pond shared with cattle, washing and swimming; diseases from dirty water (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 61 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, dirty water and what it brings

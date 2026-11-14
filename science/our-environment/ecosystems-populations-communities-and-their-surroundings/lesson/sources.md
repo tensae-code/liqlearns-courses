@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -649,3 +649,21 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, ecosys
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 7
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 3):** *Science for Grade 3 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 3, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2016. PDF 127 pages. Verdict: COMPLETE (7 chapters). Size/pages as verified in the placements file: 4,228,649 bytes, 127 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the environment (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 106 |
+| the ecosystem (Unit: Introduction to Ecology) (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 121 |
+| factors affecting an ecosystem (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 124 |
+
+**Acceptance count: taught in 32 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, India, Bulgaria, Greece, United States, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, ecosystems populations communities and their surroundings

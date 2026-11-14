@@ -1,6 +1,6 @@
 # Sources — Air pressure and what it does
 
-countries: Armenia, Seychelles, Angola, Kuwait
+countries: Armenia, Seychelles, Angola, Kuwait, Eritrea
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -57,3 +57,19 @@ Searchable tags: angola, ciências da natureza 5, grade 5
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, air pressure and what it does
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 6):** *Science for Grade Six (Science 6 Textbook)* (student book) — Eritrea. Title as printed: Science for Grade Six (Science 6 Textbook). Publisher: Ministry of Education, State of Eritrea; © 2015; ISBN 99948-1-452-4. PDF 145 pages. Verdict: COMPLETE (8 units). Size/pages as verified in the placements file: 3,536,854 bytes, 145 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| atmosphere and air pressure (placement filed as NEW LESSON NEEDED — air-pressure-and-the-atmosphere; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Eritrea, Grade 6) | Eritrea, *Science for Grade Six (Science 6 Textbook)*, printed p. 90 |
+
+**Acceptance count: taught in 5 countries (Armenia, Seychelles, Angola, Kuwait, Eritrea).**
+
+Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LESSON NEEDED — air-pressure-and-the-atmosphere" stock into this existing lesson rather than building a second lesson on the same thing; the original slug is recorded in each row above.
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, air pressure and what it does

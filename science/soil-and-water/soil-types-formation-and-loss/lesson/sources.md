@@ -1,6 +1,6 @@
 # Sources — Soil — types, formation and loss
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos
+countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -86,3 +86,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 6af, svt
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 7, science and environment grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| uses of soil (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 13 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Sudan, Mauritania, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, soil types formation and loss

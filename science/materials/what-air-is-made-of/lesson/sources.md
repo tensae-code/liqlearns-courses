@@ -1,6 +1,6 @@
 # Sources — What air is made of
 
-countries: Angola, China
+countries: Angola, China, Eritrea
 
 **Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -32,3 +32,19 @@ Placement choice, on the record: the China placement(s) above filed as NEW LESSO
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, what air is made of
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 6):** *Science for Grade Six (Science 6 Textbook)* (student book) — Eritrea. Title as printed: Science for Grade Six (Science 6 Textbook). Publisher: Ministry of Education, State of Eritrea; © 2015; ISBN 99948-1-452-4. PDF 145 pages. Verdict: COMPLETE (8 units). Size/pages as verified in the placements file: 3,536,854 bytes, 145 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| composition of air (placement filed as NEW LESSON NEEDED — air-is-a-mixture-of-gases; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Eritrea, Grade 6) | Eritrea, *Science for Grade Six (Science 6 Textbook)*, printed p. 85 |
+
+**Acceptance count: taught in 3 countries (Angola, China, Eritrea).**
+
+Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LESSON NEEDED — air-is-a-mixture-of-gases" stock into this existing lesson rather than building a second lesson on the same thing; the original slug is recorded in each row above.
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, what air is made of

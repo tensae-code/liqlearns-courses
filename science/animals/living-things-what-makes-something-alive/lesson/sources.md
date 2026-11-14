@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -457,3 +457,25 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, living
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycle: stages of growth of a chicken (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 24 |
+| living things divide into animals and plants (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 6 |
+| living things grow: baby to woman, chick to hen, seedling to tree (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 22 |
+| living things need water and food (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 23 |
+| living things move by themselves: bird, dog, snake, children, fish (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 25 |
+| living things reproduce (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 26 |
+| living things feel and respond: a touch, a thorn, a hot pan (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 27 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, living things what makes something alive

@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -644,3 +644,32 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, kinds 
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2, science and environment grade 2 teacher guide, science and environment grade 3
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 3):** *Science for Grade 3 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 3, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2016. PDF 127 pages. Verdict: COMPLETE (7 chapters). Size/pages as verified in the placements file: 4,228,649 bytes, 127 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 6):** *Science for Grade Six (Science 6 Textbook)* (student book) — Eritrea. Title as printed: Science for Grade Six (Science 6 Textbook). Publisher: Ministry of Education, State of Eritrea; © 2015; ISBN 99948-1-452-4. PDF 145 pages. Verdict: COMPLETE (8 units). Size/pages as verified in the placements file: 3,536,854 bytes, 145 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| name the parts of a plant (Unit 5: Parts of things) (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 37 |
+| trees: many kinds of tree around us (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 13 |
+| shrubs: plants that are not trees and grow to medium height (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 14 |
+| climbers and creepers: plants that spread and need support (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 15 |
+| the root (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 92 |
+| the stem (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 95 |
+| the leaf (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 98 |
+| the flower (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 101 |
+| the leaf: structure and function (Eritrea, Grade 6) | Eritrea, *Science for Grade Six (Science 6 Textbook)*, printed p. 117 |
+| the flower: structure and function (Eritrea, Grade 6) | Eritrea, *Science for Grade Six (Science 6 Textbook)*, printed p. 121 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, kinds of plants and their parts

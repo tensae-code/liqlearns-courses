@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria, Eritrea
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -193,3 +193,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, solar eclipses lunar eclipses and tides
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 6):** *Science for Grade Six (Science 6 Textbook)* (student book) — Eritrea. Title as printed: Science for Grade Six (Science 6 Textbook). Publisher: Ministry of Education, State of Eritrea; © 2015; ISBN 99948-1-452-4. PDF 145 pages. Verdict: COMPLETE (8 units). Size/pages as verified in the placements file: 3,536,854 bytes, 145 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| eclipses (Eritrea, Grade 6) | Eritrea, *Science for Grade Six (Science 6 Textbook)*, printed p. 66 |
+
+**Acceptance count: taught in 13 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, solar eclipses lunar eclipses and tides

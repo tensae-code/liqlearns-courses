@@ -1,6 +1,6 @@
 # Sources — HIV and AIDS: how it spreads and how it does not
 
-countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola, Dominican Republic, Syria
+countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola, Dominican Republic, Syria, Eritrea
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -134,3 +134,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, hiv and aids
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sexually transmitted diseases (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 193 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Guyana, Samoa, Afghanistan, Angola, Dominican Republic, Syria, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, hiv and aids

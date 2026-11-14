@@ -446,6 +446,8 @@ solar-system comparison lessons.
 
 41. **Stimulus and response — how the body reacts** (`the-human-body/stimulus-and-response-how-the-body-reacts`) — a stimulus is a change the body can sense, a response is the body's reaction to it — sense, then answer, one event in two halves (China, Grade 5 (Hebei) — *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 15; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
+42. **Homeostasis — keeping the body in balance** (`the-human-body/homeostasis-keeping-the-body-in-balance`) — the body's inside conditions — temperature, water, the things dissolved in its blood — held steady while the outside changes, by the sense–answer–return pattern (Eritrea, Grade 8 — *Science for Grade 8 Textbook*, printed p. 34; built for the Eritrea placements, expansion-science-2026-11-13/eritrea-placements.md)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -580,6 +582,8 @@ solar-system comparison lessons.
 20. **Seeing colours — why things look the colour they do** (`light/seeing-colours-why-things-look-the-colour-they-do`) — the spinning colour disc gathers the seven colours back into white; see-through coloured bodies look the colour of the light they let pass; solid bodies look the colour they reflect — a yellow ball reflects yellow, white bodies reflect all colours, black bodies take all in and reflect none; and the red ball through red, green and blue glass in turn (Sudan, Grade 6 — *العلوم (Science), Grade 6*, Unit 7, Lesson 4, printed pp. 70–72)
 
 21. **Vision defects and correcting them** (`light/vision-defects-and-correcting-them`) — short sight and long sight — where the eye's image misses the retina — and the concave and convex lenses that put it back (Kuwait, Grade 9, Term 1 — *Science, Grade 9, Term 1 (Student Book)*, printed p. 169; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+22. **The pinhole camera** (`light/the-pinhole-camera`) — a dark box, a tiny hole and a screen: light travelling straight through the hole paints the scene upside down on the screen, no lens at all (Eritrea, Grade 6 — *Science for Grade Six (Science 6 Textbook)*, printed p. 68; built for the Eritrea placements, expansion-science-2026-11-13/eritrea-placements.md)
 
 ## Unit 6 — Weather and Seasons
 
@@ -2905,6 +2909,8 @@ solar-system comparison lessons.
 
 88. **Make and launch a model rocket** (`earth-and-space/make-and-launch-a-model-rocket`) — making a model rocket part by part (nose, body, fins) and launching it: the flight as the test of the build, closing the space unit (China, Grade 6 — *科学六年级下册 (Science, Grade 6, second volume)*, printed p. 53; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
+89. **Rockets — and how they fly** (`earth-and-space/rockets-and-how-they-fly`) — the machine that carries its push with it: burning gases thrown down at great speed thrust the rocket up, by Newton's third law, even in empty space (Eritrea, Grade 8 — *Science for Grade 8 Textbook*, printed p. 151; built for the Eritrea placements, expansion-science-2026-11-13/eritrea-placements.md)
+
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -2940,6 +2946,8 @@ solar-system comparison lessons.
 
 28. **Work in science — when a force moves a thing** (`motion-force-and-energy/work-in-science-when-a-force-moves-a-thing`) — work as a science idea, opened with Syria's own question: who does the moving of the farmer's cart — the farmer or the horse? A force does work when it moves a thing; a push that moves nothing does no work in the science sense (Syria, Grade 6, Semester 1 — *Science Book (كتاب العلوم), Sixth Basic Grade, First Semester*, printed pp. 49–52; built for the Syria placements, expansion-science-2026-11-13/syria-placements.md)
 
+29. **Power — work done per unit time** (`motion-force-and-energy/power-work-done-per-unit-time`) — not how much work, but how fast: power = work ÷ time, counted in watts — closing Eritrea's work, energy, power run (Eritrea, Grade 7 — *Science for Grade 7 Textbook*, printed p. 71; built for the Eritrea placements, expansion-science-2026-11-13/eritrea-placements.md)
+
 ## Unit 21 — Sound
 
 1. **Sound — vibration, volume and pitch** (`sound/sound-vibration-volume-and-pitch`) — every sound is a vibrating object setting the surrounding medium vibrating in turn; volume and pitch are two independent qualities — loudness from amplitude, pitch from frequency (Grade 8 General Science)
@@ -2961,6 +2969,8 @@ solar-system comparison lessons.
 5. **Designing shade to reduce warming** (`heat/designing-shade-to-reduce-warming`) — designing, sketching/modelling and testing a shade solution that reduces sunlight warming of an area — eating tables, a dog, a toy (United States, Kindergarten — *Kindergarten — for Utah SEEd Standards, Revised 2025*, K.1.4, printed p. 39)
 
 6. **Expansion and contraction — when things heat and cool** (`heat/expansion-and-contraction-when-things-heat-and-cool`) — metals and liquids expand when heated and contract when cooled (the bar-breaking apparatus; how a thermometer works) (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Heat and Molecules*, Unit 10, Topic 2, printed p. 4; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+7. **Specific heat capacity** (`heat/specific-heat-capacity`) — equal heat warms equal masses unequally: the heat one kilogram of a material needs to rise one degree — water's high value against a metal pan's low one (Eritrea, Grade 8 — *Science for Grade 8 Textbook*, printed p. 125; built for the Eritrea placements, expansion-science-2026-11-13/eritrea-placements.md)
 
 ## Unit 23 — Electricity and Magnetism
 

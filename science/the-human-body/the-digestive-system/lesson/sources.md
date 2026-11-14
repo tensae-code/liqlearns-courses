@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -441,3 +441,20 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, the di
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 8
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 8):** *Science for Grade 8 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 8 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 224 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,898,268 bytes, 224 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the digestive system (ch. "Systems") (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 100 |
+| the digestive system (Unit: Human Systems) (Eritrea, Grade 8) | Eritrea, *Science for Grade 8 Textbook*, printed p. 2 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Guyana, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, the digestive system

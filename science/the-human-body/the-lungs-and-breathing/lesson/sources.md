@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Kuwait, China, Syria, Laos
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -359,3 +359,20 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, the lu
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 8
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 8):** *Science for Grade 8 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 8 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 224 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,898,268 bytes, 224 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| breathing: air enters through the nose (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 30 |
+| the respiratory system (Eritrea, Grade 8) | Eritrea, *Science for Grade 8 Textbook*, printed p. 10 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, the lungs and breathing

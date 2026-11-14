@@ -1,6 +1,6 @@
 # Sources — Chemicals in the house and the six safety rules
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Samoa, Laos
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Samoa, Laos, Eritrea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -62,3 +62,20 @@ Searchable tags: samoa, samoa mesc, keeping healthy chemicals in the house and t
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6, natural sciences grade 9, science and environment grade 1
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| beware of poisons: unknown plants, medicines, detergents (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 52 |
+| safety from dangerous chemicals (ch. "Safety") (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 120 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, chemicals in the house and the six safety rules

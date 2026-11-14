@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -294,3 +294,29 @@ Searchable tags: china, china science, pep, people's education press, accidents 
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2, science and environment grade 2 teacher guide
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| be careful of these at home: knife, scissors, broken glass, razor, needle (Unit 7: Bodily safety) (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 48 |
+| be careful of hot things: do not play with fire and matches (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 49 |
+| beware of stinging and biting animals: dog, bee, mosquito, scorpion, snake (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 51 |
+| poisonous and dangerous animals: scorpion, rabid dog, kicking donkey; do not tease animals (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 50 |
+| dangers from water: is it safe to play near deep water, floods and open wells? (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 51 |
+| the story of Hamed and Berhe at the river: what to do when a friend is in danger in water (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 52 |
+| dangers from fire: do not play with fire or matches; call adults when fire breaks out (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 54 |
+| safety from electrical hazards (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 123 |
+| safety from sharp/dangerous objects (8.4, title partly garbled in the text layer) (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 128 |
+
+**Acceptance count: taught in 12 countries (Turkey, Suriname, Uganda, Bulgaria, Cuba, Afghanistan, Angola, China, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, accidents and staying safe

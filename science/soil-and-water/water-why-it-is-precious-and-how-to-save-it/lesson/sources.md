@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -297,3 +297,24 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, water 
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 3):** *Science for Grade 3 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 3, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2016. PDF 127 pages. Verdict: COMPLETE (7 chapters). Size/pages as verified in the placements file: 4,228,649 bytes, 127 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 8):** *Science for Grade 8 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 8 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 224 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,898,268 bytes, 224 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| most of the Earth is covered with water, but rain is scarce: save water, collect rainwater, do not waste it (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 59 |
+| storing water at home: pot, waterskin, bucket, barrel, jerrycan — keep containers clean and covered (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 60 |
+| caring for water / water precautions (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 84 |
+| conservation of water (Eritrea, Grade 8) | Eritrea, *Science for Grade 8 Textbook*, printed p. 172 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, water why it is precious and how to save it

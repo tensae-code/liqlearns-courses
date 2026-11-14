@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -361,3 +361,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, the hu
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| responses to internal stimuli (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 87 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Guyana, Costa Rica, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, the human body systems working together

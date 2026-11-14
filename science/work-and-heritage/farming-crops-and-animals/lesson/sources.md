@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -289,3 +289,19 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| importance of agriculture (Unit: Introduction to Agriculture) (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 94 |
+| farm tools and cultivation (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 107 |
+| livestock production and mixed farming (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 113 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, India, Uganda, Pakistan (Punjab, Dominican Republic, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, farming crops and animals

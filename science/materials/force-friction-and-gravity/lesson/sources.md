@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -223,3 +223,20 @@ Searchable tags: china, china science, pep, people's education press, force fric
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, force friction and gravity
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 6):** *Science for Grade Six (Science 6 Textbook)* (student book) — Eritrea. Title as printed: Science for Grade Six (Science 6 Textbook). Publisher: Ministry of Education, State of Eritrea; © 2015; ISBN 99948-1-452-4. PDF 145 pages. Verdict: COMPLETE (8 units). Size/pages as verified in the placements file: 3,536,854 bytes, 145 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what is friction? (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 26 |
+| friction and kinds of friction; reducing friction (Eritrea, Grade 6) | Eritrea, *Science for Grade Six (Science 6 Textbook)*, printed p. 27 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Serbia, India, United States, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, force friction and gravity

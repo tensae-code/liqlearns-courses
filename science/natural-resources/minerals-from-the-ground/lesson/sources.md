@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -261,3 +261,18 @@ Searchable tags: china, china science, pep, people's education press, minerals f
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 7
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stone is a natural thing: what stone is used for (houses, walls) (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 39 |
+| iron: what iron is used for (key, tin can, roofing sheet, watch) (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 41 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Italy, Costa Rica, Greece, United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Angola, China, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, minerals from the ground

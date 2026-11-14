@@ -1,6 +1,6 @@
 # Sources — Our School — A Clean School and Safe Latrine Use
 
-countries: Ethiopia, Cambodia (guide evidence only), Angola, Laos
+countries: Ethiopia, Cambodia (guide evidence only), Angola, Laos, Eritrea
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -68,3 +68,19 @@ Searchable tags: angola, estudo do meio 1, estudo do meio 2, grade 1, grade 2
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| clean room vs dirty room: what is the difference? (Unit 2: Cleanliness and health) (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 14 |
+| a clean school vs a dirty school; a day spent cleaning the school (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 15 |
+| using the latrine properly and washing hands afterwards (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 17 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, a clean school and safe latrine use

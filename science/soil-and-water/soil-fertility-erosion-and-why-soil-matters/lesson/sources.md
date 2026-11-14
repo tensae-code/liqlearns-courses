@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -255,3 +255,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, soil fertility erosion and why soil matters
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 7):** *Science for Grade 7 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 7 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 229 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,566,906 bytes, 229 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fertilizers (Eritrea, Grade 7) | Eritrea, *Science for Grade 7 Textbook*, printed p. 106 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mexico, Suriname, Nauru, Tuvalu, Niue, Serbia, Uganda, Bulgaria, Cuba, Venezuela, Angola, Dominican Republic, China, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, soil fertility erosion and why soil matters

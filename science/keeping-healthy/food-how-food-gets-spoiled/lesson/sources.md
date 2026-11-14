@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -257,3 +257,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, food h
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 3, science and environment grade 3 teacher guide
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 3):** *Science for Grade 3 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 3, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2016. PDF 127 pages. Verdict: COMPLETE (7 chapters). Size/pages as verified in the placements file: 4,228,649 bytes, 127 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| care of food: keeping food safe (Eritrea, Grade 3) | Eritrea, *Science for Grade 3 (Student's Book)*, printed p. 13 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Pakistan (Punjab, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, food how food gets spoiled

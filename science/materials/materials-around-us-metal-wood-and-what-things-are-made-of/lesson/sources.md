@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -231,3 +231,23 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, materi
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, natural sciences grade 6, science and environment grade 1, science and environment grade 1 teacher guide
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 1):** *Science for Grade 1 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 1, Student's Book. Publisher: Ministry of Education, State of Eritrea, Curriculum Planning and Development Division; © 2015, reprinted 2015 by Sabur Printing Services, Asmara; ISBN 99948-1-035-9. PDF 55 pages. Verdict: COMPLETE (7 units per the contents page). Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 1,210,344 bytes, 55 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| name the parts of a house (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 39 |
+| things made of wood: door, chair, ladder, table (Unit 6: Things) (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 40 |
+| what is each thing made from? metal key, wooden table, plastic jerrycan, glass bottle, stone wall (Eritrea, Grade 1) | Eritrea, *Science for Grade 1 (Student's Book)*, printed p. 41 |
+| everything around us is made from something: wood, glass, iron, plastic, stone (Ch. 5: Things) (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 38 |
+| wood comes from trees and is used for many made things (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 40 |
+
+**Acceptance count: taught in 12 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, materials around us metal wood and what things are made of

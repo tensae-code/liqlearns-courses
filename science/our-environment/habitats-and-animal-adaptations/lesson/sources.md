@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria, Eritrea
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -156,3 +156,21 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — land-a
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, habitats and animal adaptations
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| adaptation: what it is (placement filed as NEW LESSON NEEDED — habitats-and-animal-adaptations; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 116 |
+| adaptations that help plants survive (placement filed as NEW LESSON NEEDED — habitats-and-animal-adaptations; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 117 |
+| adaptations that help animals survive (placement filed as NEW LESSON NEEDED — habitats-and-animal-adaptations; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 121 |
+
+**Acceptance count: taught in 9 countries (Guyana, Mongolia, India, Seychelles, Angola, Bhutan, Dominican Republic, Syria, Eritrea).**
+
+Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LESSON NEEDED — habitats-and-animal-adaptations" stock into this existing lesson rather than building a second lesson on the same thing; the original slug is recorded in each row above.
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, habitats and animal adaptations

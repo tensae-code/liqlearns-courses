@@ -1,6 +1,6 @@
 # Sources — Signs, lights and crossing rules
 
-countries: Ethiopia, Turkey, Serbia, Angola
+countries: Ethiopia, Turkey, Serbia, Angola, Eritrea
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -49,3 +49,17 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 1, estudo do meio 2, grade 1, grade 2
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 4):** *Science for Grade 4 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 4, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009. PDF 143 pages. Verdict: COMPLETE (8 chapters). Same book as the TSV Grade 4 record, cited once. Size/pages as verified in the placements file: 16,093,383 bytes, 143 PDF pages (identical byte size and page count to the TSV Grade 4 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safety on the road (Eritrea, Grade 4) | Eritrea, *Science for Grade 4 (Student's Book)*, printed p. 125 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Turkey, Serbia, Angola, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, signs lights and crossing rules

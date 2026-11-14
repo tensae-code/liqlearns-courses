@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -297,3 +297,20 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, what a
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2, science and environment grade 2 teacher guide, science and environment grade 3
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 2):** *Science for Grade 2 (Student's Book)* (student book) — Eritrea. Title as printed (cover, Tigrinya): Science for Grade 2, Student's Book. Publisher: Ministry of Education, State of Eritrea; © 2009, reprinted 2009 by Sabur Printing Services, Asmara; ISBN 99948-1-109-6. PDF 64 pages. Verdict: COMPLETE. Same book as the TSV Grade 2 record, cited once. Read visually from page renders because the legacy font's text layer does not extract. Size/pages as verified in the placements file: 7,505,549 bytes, 64 PDF pages (identical byte size and page count to the TSV Grade 2 record — the same book, cited once). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals take in water, air and light in their own ways (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 32 |
+| animals get their food in different ways 1: plant-eaters (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 33 |
+| animals get their food in different ways 2: flesh-eaters (lion, crocodile, kingfisher) (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 34 |
+| animals get their food in different ways 3: eaters of both plants and flesh (fox, humans) (Eritrea, Grade 2) | Eritrea, *Science for Grade 2 (Student's Book)*, printed p. 35 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, what animals need and animals at work

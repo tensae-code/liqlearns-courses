@@ -1,6 +1,6 @@
 # Sources — Motion — displacement and velocity
 
-countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), United States, Cambodia, Yemen, Afghanistan, Bhutan, Mozambique, Mauritania, Ghana (curriculum evidence only), India
+countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), United States, Cambodia, Yemen, Afghanistan, Bhutan, Mozambique, Mauritania, Ghana (curriculum evidence only), India, Eritrea
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -83,3 +83,17 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class ix, motion-displacement-and-velocity
+
+## Eritrea growth (2026-11-14, General Science expansion)
+
+**Book (Eritrea — Grade 8):** *Science for Grade 8 Textbook* (student book) — Eritrea. Title as printed: Science for Grade 8 Textbook. Publisher: Ministry of Education, State of Eritrea. PDF 224 pages. Verdict: COMPLETE (10 units). Size/pages as verified in the placements file: 4,898,268 bytes, 224 PDF pages. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/eritrea-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| displacement and velocity (Eritrea, Grade 8) | Eritrea, *Science for Grade 8 Textbook*, printed p. 53 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Ecuador, United States, Cambodia, Yemen, Afghanistan, Bhutan, Mozambique, Mauritania, India, Eritrea).**
+
+Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: eritrea, eritrea science, ministry of education eritrea, motion displacement and velocity
