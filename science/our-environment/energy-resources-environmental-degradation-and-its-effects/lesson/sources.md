@@ -1,6 +1,6 @@
 # Sources — Energy resources — environmental degradation and its effects
 
-countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh
+countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -76,3 +76,26 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, our-environment energy-resources-environmental-degradation-and-its-effects
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 5):** *Year 5 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 5 ELEMENTARY SCIENCE, Ministry of Education, Fiji; textbook produced by the Elementary Science Curriculum Unit (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama). Student textbook. Twin records (TSV release copy and books.json copy) are the same book — verified same title/contents; cited once here. PDF pages: 103; bytes 6,656,931. Verdict: COMPLETE (Introduction p.4 through References p.103, Glossary p.100 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 7):** *Year 7 Basic Science* (student book) — Fiji. Identity as printed: YEAR 7 BASIC SCIENCE, Ministry of Education, Fiji (writers Sainiana Satala, Sarote Raboiliku, Kelera Waiwalu, Newa Cabealawa). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 179; bytes 14,377,856. Verdict: COMPLETE (Introduction p.4 through References p.179 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| human activities that change ecosystems (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed pp. 66-67 |
+| human activities (forest burning, logging) causing decline of Fiji plants and animals (Fiji, Year 5) | Fiji, *Year 5 Elementary Science*, printed pp. 34-43 |
+| human activity on the ecosystem and its effects (Fiji, Year 7) | Fiji, *Year 7 Basic Science*, printed pp. 46-59 |
+| human activity and its impact on species distribution (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 33-51 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, our-environment energy-resources-environmental-degradation-and-its-effects

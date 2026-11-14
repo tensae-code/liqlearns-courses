@@ -1,6 +1,6 @@
 # Sources — Dirty water and what it brings
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -316,3 +316,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, our-environment dirty-water-and-what-it-brings
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| river water is dirty and unsafe; drinking dirty water makes us sick; filtered water is still not safe until boiled (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed pp. 51-52 |
+
+**Acceptance count unchanged: taught in 16 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Eritrea, Rwanda, Indonesia, Bangladesh).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, our-environment dirty-water-and-what-it-brings

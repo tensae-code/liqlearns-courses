@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -427,3 +427,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, the-human-body the-human-body-systems-working-together
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapter 1: Living Things and the Environment* (student chapter) — Fiji. Identity as printed: CHAPTER 1: LIVING THINGS AND THE ENVIRONMENT, Fiji Year 10 Basic Science chapter file (Units: 1 Structure and Life Processes, 2 Living Together, 3 Biodiversity, Change and Sustainability). Student textbook chapter. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 63; bytes 8,269,073. Verdict: COMPLETE as a chapter file (sections 1.1.1 through 1.3.5 present, ends with conservation). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| internal structures of animals; human systems for digestion, circulation, respiration, excretion and reproduction (unit survey) (Fiji, Year 10) | Fiji, *Year 10 Basic Science — Chapter 1: Living Things and the Environment*, printed pp. 2-30 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Guyana, Costa Rica, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Angola, Dominican Republic, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body the-human-body-systems-working-together

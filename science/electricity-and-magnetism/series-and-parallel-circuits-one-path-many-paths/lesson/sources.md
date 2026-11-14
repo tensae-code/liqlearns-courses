@@ -1,6 +1,6 @@
 # Sources — Series and parallel circuits — one path, many paths
 
-countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China, Cuba, Mauritania, Ghana (curriculum evidence only), Egypt, Afghanistan, Bhutan, Dominican Republic, Kuwait, Syria, Sri Lanka
+countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China, Cuba, Mauritania, Ghana (curriculum evidence only), Egypt, Afghanistan, Bhutan, Dominican Republic, Kuwait, Syria, Sri Lanka, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -172,3 +172,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, series
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, series and parallel circuits one path many paths
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 6):** *Year 6 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 6 ELEMENTARY SCIENCE, Ministry of Education, Heritage and Arts, Fiji (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama, Luisa Sigawale). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 103; bytes 6,541,865. Verdict: COMPLETE (Strand 1 p.4 through References p.103 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| making a parallel circuit; how a series circuit works (Fiji, Year 6) | Fiji, *Year 6 Elementary Science*, printed pp. 59-62 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Bolivia, China, Cuba, Mauritania, Egypt, Afghanistan, Bhutan, Dominican Republic, Kuwait, Syria, Sri Lanka, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, electricity-and-magnetism series-and-parallel-circuits-one-path-many-paths

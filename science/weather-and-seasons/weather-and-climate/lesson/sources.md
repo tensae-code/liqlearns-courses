@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Egypt, Ecuador, Afghanistan, Cabo Verde, Dominican Republic, Kuwait, China, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Egypt, Ecuador, Afghanistan, Cabo Verde, Dominican Republic, Kuwait, China, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -459,3 +459,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, weat
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons weather-and-climate
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 3):** *Elementary Science Year 3 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised Edition 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal; Year 3 and 4 science workgroup. NOTE: record lists this as a student book — the file is a teacher resource book, not a student textbook. PDF pages: 59; bytes 3,271,877. Verdict: COMPLETE (contents pp.5–59 all present, ends with pollution-square activity p.59). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reading and judging weather forecasts, weather scrapbook, Fiji's two seasons (Fiji, Year 3) (guide evidence) | Fiji, *Elementary Science Year 3 — Teacher Resource Material*, printed pp. 56-57 |
+| weather and Fiji's two seasons; Fiji Weather Office; coastal weather problems (Fiji, Year 4) (guide evidence) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 70 |
+
+**Acceptance count unchanged: taught in 19 countries (Ethiopia, Mexico, Italy, Micronesia, United States, Pakistan (Punjab, Bangladesh).** Fiji is named as Teacher Resource Material (teacher guide) evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-seasons weather-and-climate

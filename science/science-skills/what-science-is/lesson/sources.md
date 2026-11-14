@@ -1,6 +1,6 @@
 # Sources — What science is — evidence, inference and tentative knowledge
 
-countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only), Cabo Verde, Sudan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh
+countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only), Cabo Verde, Sudan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -292,3 +292,23 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, scie
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, science-skills what-science-is
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| introduction: science as finding out by observation, exploration and experiment in primary school (guide evidence) (Fiji, Year 4) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 5 |
+| what science is and starting science at lower-secondary level (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed p. 6 |
+| Introduction: science as learning by exploration of the environment and organising what experiences show; aims of primary science (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed p. 4 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia, Cabo Verde, Sudan, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, science-skills what-science-is

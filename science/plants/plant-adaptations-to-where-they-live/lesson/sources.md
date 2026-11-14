@@ -1,6 +1,6 @@
 # Sources — Plant adaptations — to where they live
 
-countries: Barbados (curriculum evidence only), Bulgaria, Cambodia
+countries: Barbados (curriculum evidence only), Bulgaria, Cambodia, Fiji (teacher-guide evidence only)
 
 **Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
 
@@ -47,3 +47,17 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, plant adaptations to where they live
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plant behaviour for survival: growing to light, roots down, climbers with tendrils/hooks, sensitive plant closing, swamp plants (Fiji, Year 4) (guide evidence) — placement filed as NEW LESSON NEEDED — plants/how-plants-survive-adaptations, stocked into this existing lesson, which already covers that thing | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 9 |
+
+**Acceptance count unchanged: taught in 2 countries (Bulgaria, Cambodia).** Fiji is named as Teacher Resource Material (teacher guide) evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, plants plant-adaptations-to-where-they-live

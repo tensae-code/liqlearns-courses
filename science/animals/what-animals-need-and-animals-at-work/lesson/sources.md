@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -328,3 +328,26 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, what a
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 5):** *Year 5 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 5 ELEMENTARY SCIENCE, Ministry of Education, Fiji; textbook produced by the Elementary Science Curriculum Unit (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama). Student textbook. Twin records (TSV release copy and books.json copy) are the same book — verified same title/contents; cited once here. PDF pages: 103; bytes 6,656,931. Verdict: COMPLETE (Introduction p.4 through References p.103, Glossary p.100 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 7):** *Year 7 Basic Science* (student book) — Fiji. Identity as printed: YEAR 7 BASIC SCIENCE, Ministry of Education, Fiji (writers Sainiana Satala, Sarote Raboiliku, Kelera Waiwalu, Newa Cabealawa). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 179; bytes 14,377,856. Verdict: COMPLETE (Introduction p.4 through References p.179 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| observable features of animals for survival and movement (fish, butterfly, earthworm, turtle, crab table) (Fiji, Year 4) (guide evidence) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 10 |
+| structures animals use to move, respond and feed, and how these help survival (Fiji, Year 5) | Fiji, *Year 5 Elementary Science*, printed pp. 5-15 |
+| links between features and structures: how structures fit animals and plants for survival (Fiji, Year 7) | Fiji, *Year 7 Basic Science*, printed pp. 31-36 |
+| Pets theme, how animals move: ants crawl, birds fly, dogs walk, butterfly flies, lizard and snake crawl, frog jumps, fish swims, snail crawls; earthworms move by expanding and shrinking body segments (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed pp. 12-13 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, animals what-animals-need-and-animals-at-work

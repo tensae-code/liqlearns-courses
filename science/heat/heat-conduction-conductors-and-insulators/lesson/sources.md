@@ -1,6 +1,6 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa, Egypt, Seychelles, Ecuador, Sudan, China, Eritrea, Bangladesh
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa, Egypt, Seychelles, Ecuador, Sudan, China, Eritrea, Bangladesh, Fiji (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -374,3 +374,17 @@ Searchable tags: sri lanka, sri lanka science, heat conduction conductors and in
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, heat heat-conduction-conductors-and-insulators
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 3):** *Elementary Science Year 3 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised Edition 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal; Year 3 and 4 science workgroup. NOTE: record lists this as a student book — the file is a teacher resource book, not a student textbook. PDF pages: 59; bytes 3,271,877. Verdict: COMPLETE (contents pp.5–59 all present, ends with pollution-square activity p.59). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heat conduction through solids; conductors (iron, copper) vs insulators (chalk, cloth, rubber) experiment (Fiji, Year 3) (guide evidence) | Fiji, *Elementary Science Year 3 — Teacher Resource Material*, printed pp. 26-27 |
+
+**Acceptance count unchanged: taught in 32 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba, Samoa, Egypt, Seychelles, Ecuador, Sudan, China, Eritrea, Bangladesh).** Fiji is named as Teacher Resource Material (teacher guide) evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, heat heat-conduction-conductors-and-insulators

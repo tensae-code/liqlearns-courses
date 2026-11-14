@@ -1,6 +1,6 @@
 # Sources — Experiment 2.1: saliva and the starch test
 
-countries: Ethiopia, Cook Islands, Seychelles
+countries: Ethiopia, Cook Islands, Seychelles, Fiji
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -26,3 +26,17 @@ Seychelles' own way — the NIP Integrated Science unit booklets teach this thin
 The Grade 5 student book is COMPLETE (printed pp. 1–178). The experiment is taught as the placements record it — aim, materials and steps as printed; no result is claimed beyond what the placement states (saliva breaking the food down, and the iodine test for starch).
 
 Searchable tags: saliva experiment, Experiment 2.1, starch test iodine, digestion in the mouth, 37 degrees, cook islands, cook islands grade 8, ko au e toku aorangi
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapter 1: Living Things and the Environment* (student chapter) — Fiji. Identity as printed: CHAPTER 1: LIVING THINGS AND THE ENVIRONMENT, Fiji Year 10 Basic Science chapter file (Units: 1 Structure and Life Processes, 2 Living Together, 3 Biodiversity, Change and Sustainability). Student textbook chapter. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 63; bytes 8,269,073. Verdict: COMPLETE as a chapter file (sections 1.1.1 through 1.3.5 present, ends with conservation). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| saliva and starch experiment with control test tube and glucose testing (Fiji, Year 10) | Fiji, *Year 10 Basic Science — Chapter 1: Living Things and the Environment*, printed pp. 10-11 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, Seychelles, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body experiment-saliva-and-the-starch-test

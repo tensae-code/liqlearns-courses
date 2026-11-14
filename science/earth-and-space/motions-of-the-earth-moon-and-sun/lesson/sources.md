@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -207,3 +207,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, eart
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space motions-of-the-earth-moon-and-sun
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| positions of sun, moon and earth cause day/night cycle and low/high tides (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 126-152 |
+
+**Acceptance count: taught in 14 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space motions-of-the-earth-moon-and-sun

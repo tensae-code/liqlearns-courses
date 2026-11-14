@@ -1,6 +1,6 @@
 # Sources — Biodiversity — keeping the variety of life
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Ecuador, Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Ecuador, Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Sri Lanka (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -466,3 +466,32 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, our-environment biodiversity-keeping-the-variety-of-life
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 5):** *Year 5 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 5 ELEMENTARY SCIENCE, Ministry of Education, Fiji; textbook produced by the Elementary Science Curriculum Unit (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama). Student textbook. Twin records (TSV release copy and books.json copy) are the same book — verified same title/contents; cited once here. PDF pages: 103; bytes 6,656,931. Verdict: COMPLETE (Introduction p.4 through References p.103, Glossary p.100 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 6):** *Year 6 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 6 ELEMENTARY SCIENCE, Ministry of Education, Heritage and Arts, Fiji (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama, Luisa Sigawale). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 103; bytes 6,541,865. Verdict: COMPLETE (Strand 1 p.4 through References p.103 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 7):** *Year 7 Basic Science* (student book) — Fiji. Identity as printed: YEAR 7 BASIC SCIENCE, Ministry of Education, Fiji (writers Sainiana Satala, Sarote Raboiliku, Kelera Waiwalu, Newa Cabealawa). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 179; bytes 14,377,856. Verdict: COMPLETE (Introduction p.4 through References p.179 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapter 1: Living Things and the Environment* (student chapter) — Fiji. Identity as printed: CHAPTER 1: LIVING THINGS AND THE ENVIRONMENT, Fiji Year 10 Basic Science chapter file (Units: 1 Structure and Life Processes, 2 Living Together, 3 Biodiversity, Change and Sustainability). Student textbook chapter. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 63; bytes 8,269,073. Verdict: COMPLETE as a chapter file (sections 1.1.1 through 1.3.5 present, ends with conservation). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| biodiversity and its importance (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed p. 64 |
+| biodiversity, relationships and sustainability; endangered and extinct species (Fiji, Year 5) | Fiji, *Year 5 Elementary Science*, printed pp. 34-43 |
+| biodiversity, relationships and sustainability research (Fiji, Year 6) | Fiji, *Year 6 Elementary Science*, printed pp. 34-41 |
+| importance of biodiversity (Fiji, Year 7) | Fiji, *Year 7 Basic Science*, printed p. 46 |
+| biodiversity, change and sustainability (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 33-51 |
+| biodiversity, change and sustainability (Unit 3) (Fiji, Year 10) | Fiji, *Year 10 Basic Science — Chapter 1: Living Things and the Environment*, printed pp. 55-63 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, our-environment biodiversity-keeping-the-variety-of-life

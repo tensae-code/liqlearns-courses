@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -295,3 +295,20 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, materials mixtures-and-how-to-separate-them
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 7):** *Year 7 Basic Science* (student book) — Fiji. Identity as printed: YEAR 7 BASIC SCIENCE, Ministry of Education, Fiji (writers Sainiana Satala, Sarote Raboiliku, Kelera Waiwalu, Newa Cabealawa). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 179; bytes 14,377,856. Verdict: COMPLETE (Introduction p.4 through References p.179 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| testing solubility of liquids: miscible and immiscible liquids (Fiji, Year 7) | Fiji, *Year 7 Basic Science*, printed pp. 64-69 |
+| separating mixtures within Materials unit (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 64-74 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, materials mixtures-and-how-to-separate-them

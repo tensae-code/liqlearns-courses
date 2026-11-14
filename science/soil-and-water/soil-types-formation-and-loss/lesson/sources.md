@@ -1,6 +1,6 @@
 # Sources — Soil — types, formation and loss
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -170,3 +170,20 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 5):** *Year 5 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 5 ELEMENTARY SCIENCE, Ministry of Education, Fiji; textbook produced by the Elementary Science Curriculum Unit (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama). Student textbook. Twin records (TSV release copy and books.json copy) are the same book — verified same title/contents; cited once here. PDF pages: 103; bytes 6,656,931. Verdict: COMPLETE (Introduction p.4 through References p.103, Glossary p.100 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 6):** *Year 6 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 6 ELEMENTARY SCIENCE, Ministry of Education, Heritage and Arts, Fiji (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama, Luisa Sigawale). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 103; bytes 6,541,865. Verdict: COMPLETE (Strand 1 p.4 through References p.103 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weathering as the start of soil formation, Fiji Y5 way (Fiji, Year 5) — placement filed as NEW LESSON NEEDED — soil-and-water/weathering-breaking-down-rocks, stocked into this existing lesson, which already covers that thing | Fiji, *Year 5 Elementary Science*, printed pp. 87-90 |
+| weathering: physical breaking down and dissolving of rocks and minerals on earth's surface (Fiji, Year 6) | Fiji, *Year 6 Elementary Science*, printed pp. 86-90 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka, Rwanda, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, soil-and-water soil-types-formation-and-loss

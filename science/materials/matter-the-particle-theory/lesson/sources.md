@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria, Sri Lanka, Indonesia, Bangladesh
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria, Sri Lanka, Indonesia, Bangladesh, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -377,3 +377,26 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, mate
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, materials matter-the-particle-theory
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 3):** *Elementary Science Year 3 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised Edition 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal; Year 3 and 4 science workgroup. NOTE: record lists this as a student book — the file is a teacher resource book, not a student textbook. PDF pages: 59; bytes 3,271,877. Verdict: COMPLETE (contents pp.5–59 all present, ends with pollution-square activity p.59). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 7):** *Year 7 Basic Science* (student book) — Fiji. Identity as printed: YEAR 7 BASIC SCIENCE, Ministry of Education, Fiji (writers Sainiana Satala, Sarote Raboiliku, Kelera Waiwalu, Newa Cabealawa). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 179; bytes 14,377,856. Verdict: COMPLETE (Introduction p.4 through References p.179 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heated gas particles move faster and further apart, gas expands and rises; balloon-on-bottle experiment (Fiji, Year 3) (guide evidence) | Fiji, *Elementary Science Year 3 — Teacher Resource Material*, printed pp. 24-25 |
+| what matter is: anything taking space and having mass, made of particles (Fiji, Year 4) (guide evidence) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 21 |
+| structure and properties of atoms and of matter (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed pp. 30-33 |
+| structure and properties of matter: all substances are matter (Fiji, Year 7) | Fiji, *Year 7 Basic Science*, printed pp. 62-63 |
+
+**Acceptance count: taught in 29 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, materials matter-the-particle-theory

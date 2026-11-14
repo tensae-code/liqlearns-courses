@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait, Syria, Eritrea, Bangladesh
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait, Syria, Eritrea, Bangladesh, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -406,3 +406,20 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, motion-force-and-energy force-gravity-weight-and-the-newton-meter
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of forces and uses: gravity, muscular force, friction (Fiji, Year 4) (guide evidence) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 51 |
+| strength of gravity at different places; effect of force on weight on different surfaces (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed pp. 106-107 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, India, Pakistan (Punjab, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, motion-force-and-energy force-gravity-weight-and-the-newton-meter

@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -487,3 +487,23 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, soil
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water water-why-every-living-thing-needs-it
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapter 1: Living Things and the Environment* (student chapter) — Fiji. Identity as printed: CHAPTER 1: LIVING THINGS AND THE ENVIRONMENT, Fiji Year 10 Basic Science chapter file (Units: 1 Structure and Life Processes, 2 Living Together, 3 Biodiversity, Change and Sustainability). Student textbook chapter. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 63; bytes 8,269,073. Verdict: COMPLETE as a chapter file (sections 1.1.1 through 1.3.5 present, ends with conservation). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 1):** *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 1, TRIAL VERSION; © Ministry of Education, Fiji, Trial Version 2015; published by Curriculum Development Unit, Ministry of Education, Waisomo House, Suva; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — the file is a teacher-facing notes-and-activities resource book (every theme carries Teachers Notes, Outcomes and Suggested Activities); filed as what it is (guide evidence throughout). PDF pages: 49; bytes 42,404,002. Verdict: COMPLETE (printed pp. 1–48 all present, Contents printed p. 3 through the candle-flame diagram printed p. 48). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| non-living environment gives shelter; temperature, moisture, light and exposure decide shelter (Fiji, Year 4) (guide evidence) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed pp. 15-16 |
+| water and soil in Fiji ecosystems within Biodiversity unit (Fiji, Year 10) | Fiji, *Year 10 Basic Science — Chapter 1: Living Things and the Environment*, printed pp. 44-63 |
+| River theme: a river is a natural source/source of water flowing to sea or lake; naming water sources (guide evidence) (Fiji, Year 1) | Fiji, *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities*, printed pp. 30-31 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, soil-and-water water-why-every-living-thing-needs-it

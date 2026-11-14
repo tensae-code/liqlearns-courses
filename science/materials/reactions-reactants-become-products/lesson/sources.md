@@ -1,6 +1,6 @@
 # Sources — Reactions — reactants become products
 
-countries: Ethiopia, Samoa
+countries: Ethiopia, Samoa, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -33,3 +33,20 @@ Searchable tags: reactions — reactants become products, grade 7 general scienc
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, materials reactions reactants become products
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 6):** *Year 6 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 6 ELEMENTARY SCIENCE, Ministry of Education, Heritage and Arts, Fiji (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama, Luisa Sigawale). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 103; bytes 6,541,865. Verdict: COMPLETE (Strand 1 p.4 through References p.103 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reactions between solids and liquids: reactants and products, new substances form (Fiji, Year 6) | Fiji, *Year 6 Elementary Science*, printed pp. 50-52 |
+| chemical reactions: new substances form (Reactions unit opening) (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 75-79 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, materials reactions-reactants-become-products

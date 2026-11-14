@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -404,3 +404,20 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials simple-machines
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 5):** *Year 5 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 5 ELEMENTARY SCIENCE, Ministry of Education, Fiji; textbook produced by the Elementary Science Curriculum Unit (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama). Student textbook. Twin records (TSV release copy and books.json copy) are the same book — verified same title/contents; cited once here. PDF pages: 103; bytes 6,656,931. Verdict: COMPLETE (Introduction p.4 through References p.103, Glossary p.100 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 6):** *Year 6 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 6 ELEMENTARY SCIENCE, Ministry of Education, Heritage and Arts, Fiji (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama, Luisa Sigawale). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 103; bytes 6,541,865. Verdict: COMPLETE (Strand 1 p.4 through References p.103 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water wheel: water drives the wheels (simple machines in use) (Fiji, Year 5) | Fiji, *Year 5 Elementary Science*, printed pp. 82-84 |
+| machines: levers, pulleys and wheels and their everyday applications (Fiji, Year 6) | Fiji, *Year 6 Elementary Science*, printed pp. 70-76 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, materials simple-machines

@@ -1,6 +1,6 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Venezuela, Mauritania, Syria, Laos, Rwanda, North Macedonia, Bangladesh
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Venezuela, Mauritania, Syria, Laos, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -254,3 +254,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, our-environment what-waste-is-and-its-three-kinds
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 1):** *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 1, TRIAL VERSION; © Ministry of Education, Fiji, Trial Version 2015; published by Curriculum Development Unit, Ministry of Education, Waisomo House, Suva; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — the file is a teacher-facing notes-and-activities resource book (every theme carries Teachers Notes, Outcomes and Suggested Activities); filed as what it is (guide evidence throughout). PDF pages: 49; bytes 42,404,002. Verdict: COMPLETE (printed pp. 1–48 all present, Contents printed p. 3 through the candle-flame diagram printed p. 48). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Environment theme, "what must we do with our litter": litter as improperly disposed waste; classifying collected litter into what can burn and what cannot; burn and bury as disposal (guide evidence) (Fiji, Year 1) | Fiji, *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities*, printed pp. 32-33 |
+
+**Acceptance count unchanged: taught in 14 countries (Ethiopia, Suriname, Costa Rica, Pakistan (Punjab, Bangladesh).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, our-environment what-waste-is-and-its-three-kinds

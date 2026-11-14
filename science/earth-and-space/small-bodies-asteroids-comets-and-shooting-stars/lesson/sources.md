@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -187,3 +187,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space small-bodies-asteroids-comets-and-shooting-stars
 
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapters 3 Energy + 4 Earth & Beyond* (student chapters (PARTIAL)) — Fiji. Identity as printed: CHAPTER 3: ENERGY and CHAPTER 4: EARTH AND BEYOND, Fiji Year 10 Basic Science chapter file. Student textbook chapters. PDF pages: 53; bytes 4,034,940. Verdict: PARTIAL — file ends mid-sentence in the Earthquakes and Tsunamis section (final page breaks off at "the huge wave trave…"); everything before that point is present. PARTIAL as filed: the file ends mid-sentence in the Earthquakes and Tsunamis section (final page breaks off at “the huge wave trave…”); everything before that point is present, and only the present part is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| comets and meteorites in our solar system (Fiji, Year 10) | Fiji, *Year 10 Basic Science — Chapters 3 Energy + 4 Earth & Beyond*, printed pp. 39-41 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space small-bodies-asteroids-comets-and-shooting-stars

@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -277,3 +277,17 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water treating-water-to-make-it-safe-filtering-and-settling
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| River theme, "how can we make dirty water clean": filtering dirty water through filter paper in a funnel (sand and cotton wool as substitutes); the same filtering is used for straining tea, lolo and yaqona in Fiji (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed pp. 51-52 |
+
+**Acceptance count unchanged: taught in 13 countries (India, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Bangladesh).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, soil-and-water treating-water-to-make-it-safe-filtering-and-settling

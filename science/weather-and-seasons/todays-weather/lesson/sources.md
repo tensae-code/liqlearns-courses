@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -371,3 +371,24 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons todays-weather
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 6):** *Year 6 Elementary Science* (student book) — Fiji. Identity as printed: YEAR 6 ELEMENTARY SCIENCE, Ministry of Education, Heritage and Arts, Fiji (writers Kaushila Lal, Belinda Reuben, Roela Koroimarama, Luisa Sigawale). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 103; bytes 6,541,865. Verdict: COMPLETE (Strand 1 p.4 through References p.103 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 1):** *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 1, TRIAL VERSION; © Ministry of Education, Fiji, Trial Version 2015; published by Curriculum Development Unit, Ministry of Education, Waisomo House, Suva; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — the file is a teacher-facing notes-and-activities resource book (every theme carries Teachers Notes, Outcomes and Suggested Activities); filed as what it is (guide evidence throughout). PDF pages: 49; bytes 42,404,002. Verdict: COMPLETE (printed pp. 1–48 all present, Contents printed p. 3 through the candle-flame diagram printed p. 48). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| collecting and analysing daily weather patterns and their effects on human life (Fiji, Year 6) | Fiji, *Year 6 Elementary Science*, printed pp. 78-85 |
+| very strong wind is a cyclone/hurricane; effects and damage of very strong winds (guide evidence) (Fiji, Year 1) | Fiji, *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities*, printed p. 36 |
+| clouds are tiny floating water drops; black clouds hold many drops and mean rain soon, white clouds mean fine weather (guide evidence) (Fiji, Year 1) | Fiji, *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities*, printed pp. 40-41 |
+| Weather theme: wind is moving air; the sun heats the earth's surface unevenly, warm air rises and cold air moves in to replace it, producing wind (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed pp. 61-63 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Eritrea, Sri Lanka, Bangladesh, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-seasons todays-weather

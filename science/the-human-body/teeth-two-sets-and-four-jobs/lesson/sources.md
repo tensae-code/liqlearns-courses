@@ -1,6 +1,6 @@
 # Sources — Teeth: two sets, four jobs
 
-countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia
+countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only)
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -243,3 +243,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-human-body teeth-two-sets-and-four-jobs
 
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Healthy Food theme, our teeth: two sets of teeth, twenty milk teeth first; chisel-shaped front teeth cut and bite, flat back teeth chew and grind (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed pp. 29-31 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body teeth-two-sets-and-four-jobs

@@ -1,6 +1,6 @@
 # Sources — Seasons and the Sun's path — the ecliptic
 
-countries: Palestine, China, Indonesia
+countries: Palestine, China, Indonesia, Fiji
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
@@ -47,3 +47,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space seasons-and-the-suns-path-the-ecliptic
 
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| seasons of the year and their cause (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed pp. 119-120 |
+
+**Acceptance count: taught in 4 countries (Palestine, China, Indonesia, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space seasons-and-the-suns-path-the-ecliptic

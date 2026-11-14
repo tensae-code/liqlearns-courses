@@ -1,6 +1,6 @@
 # Sources — Evidence for the Big Bang — cosmic microwave background and redshift
 
-countries: Bhutan, North Macedonia, Armenia, Ecuador
+countries: Bhutan, North Macedonia, Armenia, Ecuador, Fiji
 
 **Book 1:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -51,3 +51,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 4 countries (Bhutan, North Macedonia, Armenia).** The Armenian teacher-guide rows above are guide evidence only, counted nowhere; Armenia counts here through its student book(s, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, evidence-for-the-big-bang-cosmic-microwave-background-and-redshift
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapters 3 Energy + 4 Earth & Beyond* (student chapters (PARTIAL)) — Fiji. Identity as printed: CHAPTER 3: ENERGY and CHAPTER 4: EARTH AND BEYOND, Fiji Year 10 Basic Science chapter file. Student textbook chapters. PDF pages: 53; bytes 4,034,940. Verdict: PARTIAL — file ends mid-sentence in the Earthquakes and Tsunamis section (final page breaks off at "the huge wave trave…"); everything before that point is present. PARTIAL as filed: the file ends mid-sentence in the Earthquakes and Tsunamis section (final page breaks off at “the huge wave trave…”); everything before that point is present, and only the present part is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| origin of the earth: the Big Bang theory (creation accounts noted alongside) (Fiji, Year 10) | Fiji, *Year 10 Basic Science — Chapters 3 Energy + 4 Earth & Beyond*, printed p. 43 |
+
+**Acceptance count: taught in 5 countries (Bhutan, North Macedonia, Armenia).** The Armenian teacher-guide rows above are guide evidence only, counted nowhere; Armenia counts here through its student book(s, Ecuador, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space evidence-for-the-big-bang-cosmic-microwave-background-and-redshift

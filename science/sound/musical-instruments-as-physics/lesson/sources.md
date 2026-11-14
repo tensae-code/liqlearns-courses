@@ -1,6 +1,6 @@
 # Sources — Musical instruments as physics
 
-countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh
+countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh, Fiji (teacher-guide evidence only)
 
 **Book 1:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press. Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2. Grade: SS2 (Grade 11) · Teacher's guide · Repo path: grade-11/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,350,466 (Contents API meta = downloaded) · PDF pages: 80 · Offset: guide printed p. 1 ≈ PDF p. 11. Verdict: COMPLETE as published — Introduction and scheme of work, then Themes 1, 2, 3, 5 and 6; Theme 4 is expressly not included per the NERDC curriculum for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
@@ -77,3 +77,17 @@ Searchable tags: sri lanka, sri lanka science, musical instruments as physics
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, sound musical-instruments-as-physics
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| musical sounds made by plucking, striking, blowing, rubbing and knocking; making instruments from local materials (bottles, tins, sticks, rubber bands, coconut shells) (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed pp. 35-36 |
+
+**Acceptance count unchanged: taught in 3 countries (China, Sri Lanka, Bangladesh).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, sound musical-instruments-as-physics

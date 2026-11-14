@@ -1,6 +1,6 @@
 # Sources — Earthquakes and tsunamis
 
-countries: Dominican Republic, Sri Lanka (teacher-guide evidence only)
+countries: Dominican Republic, Sri Lanka (teacher-guide evidence only), Fiji
 
 **Book (Dominican Republic — Grade 3):** *Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria* (student book) — Dominican Republic, Ministerio de Educación de la República Dominicana (MINERD), Unidad Editorial, Serie 1 Proyecto Libro Abierto, © 2023, ISBN 978-9945-646-18-4. Title as printed: Ciencias de la Naturaleza, Tercer Grado, Primer Ciclo, Educación Primaria. PDF 176 pages. Verdict: COMPLETE (10 units, bibliography and closing pages present). Printed page numbers follow the page footers, which match the PDF page numbers in this series. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/dominican-republic-placements.md.
 
@@ -33,3 +33,17 @@ Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW L
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, earthquakes and tsunamis
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 10):** *Year 10 Basic Science — Chapters 3 Energy + 4 Earth & Beyond* (student chapters (PARTIAL)) — Fiji. Identity as printed: CHAPTER 3: ENERGY and CHAPTER 4: EARTH AND BEYOND, Fiji Year 10 Basic Science chapter file. Student textbook chapters. PDF pages: 53; bytes 4,034,940. Verdict: PARTIAL — file ends mid-sentence in the Earthquakes and Tsunamis section (final page breaks off at "the huge wave trave…"); everything before that point is present. PARTIAL as filed: the file ends mid-sentence in the Earthquakes and Tsunamis section (final page breaks off at “the huge wave trave…”); everything before that point is present, and only the present part is placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| earthquakes and how tsunamis develop and grow near shore (section cut off at end of file) (Fiji, Year 10) — placement filed as NEW LESSON NEEDED — earth-and-space/earthquakes-and-tsunamis (the book's section is cut off at the end of the file, as filed — PARTIAL book) | Fiji, *Year 10 Basic Science — Chapters 3 Energy + 4 Earth & Beyond*, printed pp. 52-53 |
+
+**Acceptance count: taught in 2 countries (Dominican Republic).** Sri Lanka is named as teacher-guide evidence only in the rows above (its Grade 9 / Grade 10 NIE guides, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space earthquakes-and-tsunamis

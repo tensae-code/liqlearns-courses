@@ -290,3 +290,19 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, light reflection-laws-mirror-images-and-the-periscope
 
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 9):** *Basic Science, Science Book 1 — Lower Secondary* (student book) — Fiji. Identity as printed: BASIC SCIENCE, Science Book 1 — Lower Secondary, Curriculum Development Unit, Ministry of Education, National Heritage, Culture & Arts, Suva, Fiji, 2011 (record year 2014 not printed in file). For Form 3, reference at Form 4. Student textbook. PDF pages: 133; bytes 4,101,695. Verdict: COMPLETE (Introduction printed p.5 through Glossary printed p.127 and final content p.132 all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+**Book (Fiji — Year 1):** *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 1, TRIAL VERSION; © Ministry of Education, Fiji, Trial Version 2015; published by Curriculum Development Unit, Ministry of Education, Waisomo House, Suva; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — the file is a teacher-facing notes-and-activities resource book (every theme carries Teachers Notes, Outcomes and Suggested Activities); filed as what it is (guide evidence throughout). PDF pages: 49; bytes 42,404,002. Verdict: COMPLETE (printed pp. 1–48 all present, Contents printed p. 3 through the candle-flame diagram printed p. 48). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reflection of light (Fiji, Year 9) | Fiji, *Basic Science, Science Book 1 — Lower Secondary*, printed p. 94 |
+| shiny surfaces and mirrors reflect light and let us see objects around corners; mirrors at home, in cars and shops (guide evidence) (Fiji, Year 1) | Fiji, *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities*, printed pp. 28-29 |
+
+**Acceptance count unchanged: taught in 23 countries (Ethiopia, Barbados, Fiji, United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia).** Fiji was already counted in this lesson through the Fiji books named in the sections above; the Fiji General Science rows above are stocked as further Fiji evidence for this thing, without changing the count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, light reflection-laws-mirror-images-and-the-periscope

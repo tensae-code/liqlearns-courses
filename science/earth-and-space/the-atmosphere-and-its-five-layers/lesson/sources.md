@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia, Fiji
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -270,3 +270,17 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, the at
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space the-atmosphere-and-its-five-layers
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| uses of the different layers of the atmosphere (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 153-168 |
+
+**Acceptance count: taught in 16 countries (Iraq, Cuba, Italy, India, Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space the-atmosphere-and-its-five-layers

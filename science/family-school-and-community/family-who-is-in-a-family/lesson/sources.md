@@ -1,6 +1,6 @@
 # Sources — Family — Who Is in a Family and What Each One Does
 
-countries: Ethiopia, Turkey, Micronesia, Mongolia, Moldova, Angola, Laos
+countries: Ethiopia, Turkey, Micronesia, Mongolia, Moldova, Angola, Laos, Fiji (teacher-guide evidence only)
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -98,3 +98,17 @@ Searchable tags: angola, estudo do meio 1, estudo do meio 2, grade 1, grade 2
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 2):** *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 2, TRIAL VERSION; Ministry of Education, Fiji, Trial Version 2015; issued free by the Curriculum Development Unit; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — like the Year 1 file, it is a teacher-facing notes-and-activities resource book (Teachers Notes, Outcomes, Suggested Activities throughout); filed as what it is (guide evidence throughout). PDF pages: 76; bytes 75,059,622. Verdict: COMPLETE (printed pp. 1–75 all present, Contents printed p. 3 through Climate Change activities printed p. 75). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Family theme: who is in a family (father, mother, siblings, grandparents, aunties, uncles) and why we need family (guide evidence) (Fiji, Year 2) | Fiji, *Elementary Science Year 2 — FALD: Learning to Know, Notes and Activities*, printed p. 26 |
+
+**Acceptance count unchanged: taught in 7 countries (Ethiopia, Turkey, Micronesia, Mongolia, Moldova, Angola, Laos).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, family-school-and-community family-who-is-in-a-family

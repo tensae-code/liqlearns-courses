@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -226,3 +226,17 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, lookin
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, animals looking-after-our-animals
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 1):** *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities* (teacher-facing notes-and-activities book) — Fiji. Identity as printed: ELEMENTARY SCIENCE, Year 1, TRIAL VERSION; © Ministry of Education, Fiji, Trial Version 2015; published by Curriculum Development Unit, Ministry of Education, Waisomo House, Suva; compiled by infant teachers Mrs. Camari Lagilagi and Mrs. Urmila Singh. NOTE: the records list this as a student book — the file is a teacher-facing notes-and-activities resource book (every theme carries Teachers Notes, Outcomes and Suggested Activities); filed as what it is (guide evidence throughout). PDF pages: 49; bytes 42,404,002. Verdict: COMPLETE (printed pp. 1–48 all present, Contents printed p. 3 through the candle-flame diagram printed p. 48). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pets: cats and dogs as common pets, how pets move, food pets eat, how pets react (dog barks at strangers, cat jumps at a rat); pets kept for company and protection (guide evidence) (Fiji, Year 1) | Fiji, *Elementary Science Year 1 — FALD: Learning to Know, Notes and Activities*, printed pp. 7-9 |
+
+**Acceptance count unchanged: taught in 13 countries (Ethiopia, Suriname, Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia).** Fiji is named as teacher-facing notes-and-activities book evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, animals looking-after-our-animals

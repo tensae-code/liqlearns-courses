@@ -1,6 +1,6 @@
 # Sources — Motion — distance and speed
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States, Samoa, Afghanistan, Venezuela, Dominican Republic, China, Syria, Eritrea, North Macedonia
+countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States, Samoa, Afghanistan, Venezuela, Dominican Republic, China, Syria, Eritrea, North Macedonia, Fiji (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -238,3 +238,17 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, motion
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, motion-force-and-energy motion-distance-and-speed
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 4):** *Elementary Science Year 4 — Teacher Resource Material* (teacher guide) — Fiji. Identity as printed: TEACHER RESOURCE MATERIAL, Ministry of Education, Heritage & Arts, Fiji; Revised version 2015; issued free by Curriculum Development Unit; compiled by Julekha Yamin and Kaushila Lal. Teacher guide (guide evidence throughout). PDF pages: 77; bytes 4,364,973. Verdict: COMPLETE (contents pp.6–77 all present, ends with wind-vane activity p.77). Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| variables affecting motion: push strength, pull, twist, wind force and direction (Fiji, Year 4) (guide evidence) | Fiji, *Elementary Science Year 4 — Teacher Resource Material*, printed p. 55 |
+
+**Acceptance count unchanged: taught in 18 countries (Ethiopia, Slovenia, Sudan, Iraq, Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States, Samoa, Afghanistan, Venezuela, Dominican Republic, China, Syria, Eritrea, North Macedonia).** Fiji is named as Teacher Resource Material (teacher guide) evidence only, not added to this count.
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, motion-force-and-energy motion-distance-and-speed

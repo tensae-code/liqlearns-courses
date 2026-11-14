@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia, Fiji
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -333,3 +333,17 @@ Searchable tags: sri lanka, sri lanka science, elements compounds and mixtures
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials elements-compounds-and-mixtures
+
+## Fiji growth (2026-11-14, General Science expansion)
+
+**Book (Fiji — Year 8):** *Year 8 Basic Science* (student book) — Fiji. Identity as printed: YEAR 8 BASIC SCIENCE, Curriculum Development Unit, Ministry of Education, Fiji (copyright page: Ministry of Education, Fiji, all rights reserved). Student textbook. Twin records (TSV and books.json) are the same book — cited once here. PDF pages: 185; bytes 11,493,620. Verdict: COMPLETE (Strand 1 p.8 through References p.183 present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mixtures and compounds compared: definitions and joining of substances (Fiji, Year 8) | Fiji, *Year 8 Basic Science*, printed pp. 64-74 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, North Macedonia, Fiji).**
+
+Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: fiji, fiji science, ministry of education fiji, materials elements-compounds-and-mixtures
