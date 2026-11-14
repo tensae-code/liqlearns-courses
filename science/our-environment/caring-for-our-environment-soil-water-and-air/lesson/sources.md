@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -17,3 +17,19 @@ countries: Ethiopia, Mexico, Australia
 **Acceptance count: taught in 3 countries (Ethiopia, Mexico, Australia).**
 
 Searchable tags: caring for the environment, soil erosion, protecting water, clean air, mexico, etica naturaleza y sociedades, australia, pearson science 9
+
+## Canada growth (2026-11-13, General Science expansion)
+
+**Book (Canada):** *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2016 (no ISBN printed). Title as printed: Science First Peoples — Teacher Resource Guide, Grades 5 to 9. Grade: 5–9 (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 231 (verified: byte size 3,028,842 and 231 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: Canada's set holds 3 records for 2 distinct books — this guide is cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adapting to and reducing climate change with resiliency, learning from communities that lived sustainably for generations, through the lens of salmon (guide evidence) (Canada, Grades 5–9) | Canada, *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide — evidence), printed p. 122 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Mexico, Australia).**
+
+Canada is named as teacher-guide evidence only (its two *Science First Peoples* teacher resource guides, FNESC/FNSA, 2016 and 2019 — teacher guides), not added to this count.
+
+Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed.
+
+Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge

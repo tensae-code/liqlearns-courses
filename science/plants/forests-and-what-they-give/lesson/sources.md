@@ -1,6 +1,6 @@
 # Sources — Forests and what they give
 
-countries: Ethiopia, Palau (teacher's-edition evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -27,3 +27,19 @@ The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this less
 Grade 5/6 extension (2026-11-12): both student books are COMPLETE. The Green Legacy recovery figure is carried as the book prints it ("since the Green Legacy programme (2018 report cited) cover has recovered to 11–15%").
 
 Searchable tags: plants definition, forests, building paper furniture, shelter, tourism, walia red fox, forests and what they give, palau, ridge to reef palau, palau grade 5
+
+## Canada growth (2026-11-13, General Science expansion)
+
+**Book (Canada):** *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2019, funded in part by the BC Ministry of Education (no ISBN printed). Title as printed: Secondary Science First Peoples — Teacher Resource Guide. Grade: 10–12 (senior secondary) (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 298 (verified: byte size 6,962,151 and 298 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: this guide appears twice in Canada's set — TSV release record and books.json record — same book, verified same title/publisher/year, cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 8 Forests and First Peoples: recognising BC trees (Tree Book, dichotomous keys); cedar as tree of life; forests and carbon (guide evidence) (Canada, Grades 10–12) | Canada, *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide — evidence), printed p. 211 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Canada is named as teacher-guide evidence only (its two *Science First Peoples* teacher resource guides, FNESC/FNSA, 2016 and 2019 — teacher guides), not added to this count.
+
+Canada's own way — the Secondary guide's foundations: Indigenous Knowledge / Indigenous Science, two-eyed seeing, involving local First Nations communities, land-based activities and narratives in the science classroom — is itself course content, carried exactly as filed.
+
+Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge

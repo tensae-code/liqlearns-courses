@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -21,3 +21,22 @@ countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only)
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 
 Searchable tags: indigenous knowledge, interview, local conservation, evaluation, Ethiopia Grade 8 General Science Unit 5, mexico, etica naturaleza y sociedades, palau, ridge to reef palau, palau grade 5
+
+## Canada growth (2026-11-13, General Science expansion)
+
+**Book (Canada):** *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2016 (no ISBN printed). Title as printed: Science First Peoples — Teacher Resource Guide, Grades 5 to 9. Grade: 5–9 (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 231 (verified: byte size 3,028,842 and 231 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: Canada's set holds 3 records for 2 distinct books — this guide is cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+**Book (Canada):** *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2019, funded in part by the BC Ministry of Education (no ISBN printed). Title as printed: Secondary Science First Peoples — Teacher Resource Guide. Grade: 10–12 (senior secondary) (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 298 (verified: byte size 6,962,151 and 298 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: this guide appears twice in Canada's set — TSV release record and books.json record — same book, verified same title/publisher/year, cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Traditional Ecological Knowledge: multi-generational ecological knowledge passed on orally; land provides food, medicines, tools, clothing, shelter (guide evidence) (Canada, Grades 5–9) | Canada, *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide — evidence), printed p. 27 |
+| Unit 1 Exploring Indigenous Science Perspectives: what Traditional Ecological Knowledge is; reciprocal relationships with the land; circles of life — transformation and renewal; interconnectedness; sense of place (guide evidence) (Canada, Grades 10–12) | Canada, *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide — evidence), printed p. 35 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Mexico).**
+
+Canada is named as teacher-guide evidence only (its two *Science First Peoples* teacher resource guides, FNESC/FNSA, 2016 and 2019 — teacher guides), not added to this count.
+
+Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed. The Secondary guide carries the same way into senior secondary: Indigenous Knowledge / Indigenous Science and two-eyed seeing as its foundations.
+
+Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge

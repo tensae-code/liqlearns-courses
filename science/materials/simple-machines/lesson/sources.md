@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia
+countries: Ethiopia, Canada (teacher-guide evidence only)
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -20,3 +20,19 @@ The Grade 5 student book is COMPLETE (printed pp. 1–178). The teacher-guide ro
 The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) are held; Units 4–5 (printed pp. 64–end, to at least p. 105) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: simple machines, lever መፍንቅል classes, pulley በከራ, inclined plane ዘንባይ ጣውላ, wedge ሽብልቅ, screw ቡለን, wheel and axle, gears ጥርሳ-ጥርሶች
+
+## Canada growth (2026-11-13, General Science expansion)
+
+**Book (Canada):** *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2016 (no ISBN printed). Title as printed: Science First Peoples — Teacher Resource Guide, Grades 5 to 9. Grade: 5–9 (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 231 (verified: byte size 3,028,842 and 231 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: Canada's set holds 3 records for 2 distinct books — this guide is cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 Power from the Land: energy as the ability to do work; force through a distance; the six simple machines — lever, inclined plane, wedge, wheel and axle, pulley, screw (guide evidence) (Canada, Grades 5–9) | Canada, *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide — evidence), printed p. 79 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Canada is named as teacher-guide evidence only (its two *Science First Peoples* teacher resource guides, FNESC/FNSA, 2016 and 2019 — teacher guides), not added to this count.
+
+Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed.
+
+Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge

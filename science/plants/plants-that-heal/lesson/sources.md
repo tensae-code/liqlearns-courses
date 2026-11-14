@@ -1,6 +1,6 @@
 # Sources — Plants that heal
 
-countries: Ethiopia
+countries: Ethiopia, Canada (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -11,3 +11,22 @@ countries: Ethiopia
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Searchable tags: medicinal plants, garlic, ginger, moringa, tena adam, healing plants
+
+## Canada growth (2026-11-13, General Science expansion)
+
+**Book (Canada):** *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2016 (no ISBN printed). Title as printed: Science First Peoples — Teacher Resource Guide, Grades 5 to 9. Grade: 5–9 (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 231 (verified: byte size 3,028,842 and 231 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: Canada's set holds 3 records for 2 distinct books — this guide is cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+**Book (Canada):** *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2019, funded in part by the BC Ministry of Education (no ISBN printed). Title as printed: Secondary Science First Peoples — Teacher Resource Guide. Grade: 10–12 (senior secondary) (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 298 (verified: byte size 6,962,151 and 298 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: this guide appears twice in Canada's set — TSV release record and books.json record — same book, verified same title/publisher/year, cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 Plants and the Connection to Place: traditional plant knowledge — berries, bitterroot, stinging nettle, bark and grasses gathered; plants as intellectual property (guide evidence) (Canada, Grades 5–9) | Canada, *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide — evidence), printed p. 53 |
+| Unit 5 Place-Based Ethnobotany Inquiry: First Peoples knowledge of plant classification and uses; diversity of life studied in the local place (guide evidence) (Canada, Grades 10–12) | Canada, *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide — evidence), printed p. 135 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Canada is named as teacher-guide evidence only (its two *Science First Peoples* teacher resource guides, FNESC/FNSA, 2016 and 2019 — teacher guides), not added to this count.
+
+Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed. The Secondary guide carries the same way into senior secondary: Indigenous Knowledge / Indigenous Science and two-eyed seeing as its foundations.
+
+Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge

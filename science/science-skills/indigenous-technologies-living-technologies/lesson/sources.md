@@ -1,0 +1,16 @@
+# Sources — Indigenous technologies — living technologies
+
+countries: Canada (teacher-guide evidence only)
+
+**Book 1:** *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2019, funded in part by the BC Ministry of Education (no ISBN printed). Title as printed: Secondary Science First Peoples — Teacher Resource Guide. Grade: 10–12 (senior secondary) (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 298 (verified: byte size 6,962,151 and 298 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: this guide appears twice in Canada's set — TSV release record and books.json record — same book, verified same title/publisher/year, cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — fibre, textiles and woodwork; Sub lesson 2 — food preparation and preservation as technology: fibre technology, food preparation and preservation, textiles and woodwork as living science of land, resources and culture (teacher guide — evidence) (Canada, Grades 10–12) | Canada, *Secondary Science First Peoples: Teacher Resource Guide* (teacher guide — evidence), Unit 10 Living Technologies — printed p. 251 |
+| Do it first; key ideas; Do It Yourself | Canada, as cited in the row above |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Canada), named here, counted nowhere.**
+
+Placement choice, on the record: this NEW LESSON was built for the Canada placement "NEW LESSON NEEDED — science-skills/indigenous-technologies-living-technologies" — canada-placements.md, Book 2 Unit 10 (printed p. 251) (one placement, one lesson). No existing general-science lesson covers living technologies as its own thing (checked the live repo at merge time: `science-skills/science-and-technology` teaches how science and technology differ and feed each other in general, and the work-and-heritage lessons cover making things by hand and factory in Ethiopia's frame — none teaches fibre technology, food preparation and preservation, textiles and woodwork as First Peoples living technologies), so it gets its own lesson, under the placement's own slug. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills). Canada's own way — the Secondary guide's foundations: Indigenous Knowledge / Indigenous Science, two-eyed seeing, involving local First Nations communities, land-based activities and narratives in the science classroom — IS part of this lesson's content, carried exactly as the placement describes it. Honesty: the source is a TEACHER GUIDE, not a student textbook — it is cited as teacher-guide evidence only, outside the acceptance count, as filed.
+
+Searchable tags: indigenous technologies, living technologies, fibre technology, textiles, woodwork, food preservation, canada, secondary science first peoples, fnesc
