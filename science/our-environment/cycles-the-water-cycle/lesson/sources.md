@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -268,3 +268,23 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count unchanged: taught in 15 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, cycles the water cycle
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 2 — Egypt):** Title as printed: Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition; the printed footer on the contents pages reads "Science Term 1" in error — the content is Themes 3–4, the Term 2 half) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim6_TR2.pdf, 267,613,042 bytes; also the TSV release copy), English (Science_E_Prim6_TR2.pdf, 14,292,574 bytes, read) — same content, cited once PDF pages: 96 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Integrated Science Secondary 10 Term 1 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, First Semester Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education (book not authorised for circulation outside the ministry); no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR1.pdf, 20,196,474 bytes), English (integratedscience_EN_1_Secondary_TR1.pdf, 28,968,289 bytes, read — byte size verified against size_bytes), French (integratedscience_FR_1_Secondary_TR1.pdf, 21,522,055 bytes) — same content, cited once PDF pages: 114 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 7 Term 2 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – Second Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: Arabic (Science_AR_Prp1_TR2.pdf, 374,200,292 bytes; also the TSV release copy), English (Science_E_Prp1_TR2.pdf, 72,933,866 bytes, read — image-set edition, read from page renders) — same content, cited once PDF pages: 92 (English; printed colophon: 92 pages including the cover). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy transfer through the water cycle: evaporation, condensation and precipitation driven by heat (Egypt, Primary 6 Science T2) | Egypt, *Primary 6 Science T2*, printed p. 5 |
+| The water cycle in nature: evaporation, transpiration, condensation, precipitation and infiltration to groundwater (Topic 1-1) (Egypt, Integrated Science Sec 10 T1) | Egypt, *Integrated Science Sec 10 T1*, printed p. 6 |
+| The water cycle: evaporation, condensation, precipitation, surface runoff and the roles of the sun and gravity (Unit 4 Lesson 1) (Egypt, Prep 7 Science T2) | Egypt, *Prep 7 Science T2*, printed p. 67 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, our-environment cycles-the-water-cycle

@@ -1,6 +1,6 @@
 # Sources — Refraction — why the spoon looks broken
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India, Gabon (teacher-guide evidence only), Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -68,3 +68,17 @@ Searchable tags: india, ncert, class x, refraction-why-the-spoon-looks-broken
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 5, refraction why the spoon looks broken
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science and Life — Second Preparatory, full year (filed in the records as Preparatory 9 Terms 1–2) — Egypt):** IDENTITY MISMATCH (library debt): the files recorded as "Science Preparatory 9 Term 1 (English)" (Science_EN_Prp3_Tr1.pdf, 19,367,087 bytes, read) and "Science Preparatory 9 Term 2 (Arabic)" (Science_AR_Prp3_Tr1_2.pdf, 29,722,420 bytes, contents checked) are NOT Preparatory 9 books. Both are the older ministry "Science and Life" series for the SECOND preparatory grade: the English file is the full-year book (Term 1 + Term 2 in one PDF, printed colophon 152 pages including the cover) and the Arabic file's contents are the same Term 1 units (Forces and Motion; Mirrors and Lenses; The Universe and the Solar System; Reproduction and Species Continuity). The genuine Preparatory 9 books are therefore not among the secured files read here; the Arabic and French Preparatory 9 Term 1 records (81,552,106 and 25,245,156 bytes) were not opened after the English and Arabic Term 2 files both proved to be the old series — they remain unverified and are listed as a debt in the group log. Title as printed: Science and Life, Second Preparatory, First Term + Second Term (one PDF) Grade: Preparatory 8 (as printed; recorded as Grade 9), student book Publisher: Egypt Ministry of Education (elearning.moe.gov.eg) PDF pages: 148 (English full-year copy). Verdict: COMPLETE for the book it actually is It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lenses: refraction through convex and concave lenses (Term 1 Unit 2 Lesson 2) (Egypt, Science and Life Prep 2) | Egypt, *Science and Life Prep 2*, printed p. 32 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, light refraction-why-the-spoon-looks-broken

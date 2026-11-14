@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -104,3 +104,17 @@ Searchable tags: pakistan, punjab, general science, treating-water-to-make-it-sa
 **Acceptance count: taught in 3 countries (India, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, treating water to make it safe filtering and settling
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 2 — Egypt):** Title as printed: Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim5_TR2.pdf, 305,484,116 bytes; also the TSV release copy), English (Science_EN_Prim5_Tr2.pdf, 113,469,581 bytes, read; also the TSV release copy) — same content, cited once PDF pages: 104 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Recycling wastewater (unit anchor) and the We All Live Downstream project: what flows into shared water (Egypt, Primary 5 Science T2) | Egypt, *Primary 5 Science T2*, printed p. 2 |
+
+**Acceptance count: taught in 4 countries (India, Pakistan (Punjab, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, soil-and-water treating-water-to-make-it-safe-filtering-and-settling

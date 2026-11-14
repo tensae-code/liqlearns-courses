@@ -1,6 +1,6 @@
 # Sources — Materials and their properties — hard, strong, flexible
 
-countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab)
+countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -134,3 +134,17 @@ Searchable tags: united states, utah, seed standards, utah oer, materials and th
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, materials-and-their-properties-hard-strong-flexible
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 7 Term 1 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – First Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (cover carries the ministry emblem) Variants in target set: English (Science_E_Prp1_Tr1.pdf, 122,732,582 bytes, read; image-set edition, contents and unit pages read from renders), Arabic (Science_AR_Prp1_Tr1.pdf, 164,089,059 bytes; also the TSV release copy), French (Science_F_Prp1_TR1.pdf, 24,907,049 bytes) — same content, cited once PDF pages: 100 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter and its properties (Unit 1 Lesson 3) (Egypt, Prep 7 Science T1) | Egypt, *Prep 7 Science T1*, printed p. 18 |
+
+**Acceptance count: taught in 8 countries (Finland, Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, materials materials-and-their-properties-hard-strong-flexible

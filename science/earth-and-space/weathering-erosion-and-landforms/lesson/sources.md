@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -64,3 +64,19 @@ Placement choice, on the record: the Cuba placement(s) above were filed as "NEW 
 **Acceptance count: taught in 4 countries (Mexico, Italy, Costa Rica, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, weathering erosion and landforms
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 8 Term 1 — Egypt):** Title as printed: Science, Preparatory 2 (Grade 8), First Term Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: English (Sci_En_PE2_SB_T1.pdf, 28,392,283 bytes, read; also the TSV blob copy), French (Science_FR_prp2_Tr1.pdf.pdf, 61,116,279 bytes; also the TSV blob copy), Arabic (books.json Science_AR)Prp2_Tr1.pdf, 64,020,901 bytes, and the TSV release copy Science_AR.Prp2_Tr1.pdf) — same content, cited once PDF pages: 106 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Changes in Earth's surface: geological processes reshaping the land (Egypt, Prep 8 Science T1) — placement filed as "NEW LESSON NEEDED — weathering-and-erosion-changing-earths-surface", stocked into this existing lesson, which already covers that thing; the original slug is recorded in this row | Egypt, *Prep 8 Science T1*, printed p. 83 |
+
+**Acceptance count: taught in 5 countries (Mexico, Italy, Costa Rica, Cuba, Egypt).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — weathering-and-erosion-changing-earths-surface" — egypt-placements.md; it is stocked into this existing lesson because that lesson already covers the thing as its own lesson, so no second lesson was built for it, and the original slug is recorded in the row above.
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, earth-and-space weathering-erosion-and-landforms

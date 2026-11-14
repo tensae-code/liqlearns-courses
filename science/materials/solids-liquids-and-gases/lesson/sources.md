@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -364,3 +364,20 @@ Searchable tags: pakistan, punjab, general science, solids-liquids-and-gases
 **Acceptance count: taught in 21 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, solids liquids and gases
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 1 — Egypt):** Title as printed: Primary 5 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: English (Science_EN_prim5_TR1.pdf, 59,544,972 bytes, read), Arabic (Science_AR_prim5_TR1.pdf, 30,983,523 bytes), French (Science_FR_prim5_TR1.pdf, 51,374,814 bytes; also the TSV release copy of the French edition) — same content, cited once PDF pages: 129 (English). Verdict: COMPLETE. Note: this edition is largely image-set; the table of contents and sampled body pages were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 8 Term 1 — Egypt):** Title as printed: Science, Preparatory 2 (Grade 8), First Term Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: English (Sci_En_PE2_SB_T1.pdf, 28,392,283 bytes, read; also the TSV blob copy), French (Science_FR_prp2_Tr1.pdf.pdf, 61,116,279 bytes; also the TSV blob copy), Arabic (books.json Science_AR)Prp2_Tr1.pdf, 64,020,901 bytes, and the TSV release copy Science_AR.Prp2_Tr1.pdf) — same content, cited once PDF pages: 106 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Solids, liquids and gases as particle arrangements inside Concept 2.1 (Egypt, Primary 5 Science T1) | Egypt, *Primary 5 Science T1*, printed p. 65 |
+| States of matter: solids, liquids and gases and their properties (Egypt, Prep 8 Science T1) | Egypt, *Prep 8 Science T1*, printed p. 2 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, materials solids-liquids-and-gases

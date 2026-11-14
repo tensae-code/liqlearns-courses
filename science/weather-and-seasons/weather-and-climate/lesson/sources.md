@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Egypt
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -215,3 +215,20 @@ Searchable tags: pakistan, punjab, general science, weather-and-climate
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 2 — Egypt):** Title as printed: Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition; the printed footer on the contents pages reads "Science Term 1" in error — the content is Themes 3–4, the Term 2 half) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim6_TR2.pdf, 267,613,042 bytes; also the TSV release copy), English (Science_E_Prim6_TR2.pdf, 14,292,574 bytes, read) — same content, cited once PDF pages: 96 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 8 Term 2 — Egypt (Arabic)):** Title as printed: علوم الصف الثاني الإعدادي، الفصل الدراسي الثاني (Science, Preparatory 2, Second Term), student book Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: Arabic only (Science_AR_Prp2_Tr2.pdf, 45,302,571 bytes, read; also the TSV blob copy) — cited once PDF pages: 92. Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The difference between weather and climate (unit anchor phenomenon) (Egypt, Primary 6 Science T2) | Egypt, *Primary 6 Science T2*, printed p. 2 |
+| Effect of heat and pressure in forming climate: weather elements versus climate (Unit 4 Lesson 1) (Egypt, Prep 8 Science T2 (Arabic)) | Egypt, *Prep 8 Science T2 (Arabic)*, printed p. 69 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mexico, Italy, Micronesia, United States, Pakistan (Punjab), Armenia, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, weather-and-seasons weather-and-climate

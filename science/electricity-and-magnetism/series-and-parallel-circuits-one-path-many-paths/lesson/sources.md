@@ -1,6 +1,6 @@
 # Sources — Series and parallel circuits — one path, many paths
 
-countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China, Cuba, Mauritania, Ghana (curriculum evidence only)
+countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China, Cuba, Mauritania, Ghana (curriculum evidence only), Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -70,3 +70,17 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, series and parallel circuits one path many paths
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Which lamps light when a switch closes in a branched circuit (Unit 1 assessment) (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 69 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, China, Cuba, Mauritania, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, electricity-and-magnetism series-and-parallel-circuits-one-path-many-paths

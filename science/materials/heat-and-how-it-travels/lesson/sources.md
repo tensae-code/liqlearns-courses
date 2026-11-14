@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -75,3 +75,20 @@ Searchable tags: united states, utah, seed standards, utah oer, heat and how it 
 **Acceptance count: taught in 5 countries (Ethiopia, Australia, India, United States, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, heat and how it travels
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 2 — Egypt):** Title as printed: Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition; the printed footer on the contents pages reads "Science Term 1" in error — the content is Themes 3–4, the Term 2 half) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim6_TR2.pdf, 267,613,042 bytes; also the TSV release copy), English (Science_E_Prim6_TR2.pdf, 14,292,574 bytes, read) — same content, cited once PDF pages: 96 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 8 Term 2 — Egypt (Arabic)):** Title as printed: علوم الصف الثاني الإعدادي، الفصل الدراسي الثاني (Science, Preparatory 2, Second Term), student book Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: Arabic only (Science_AR_Prp2_Tr2.pdf, 45,302,571 bytes, read; also the TSV blob copy) — cited once PDF pages: 92. Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Heat and weather changes: how heating drives air movement and weather (Egypt, Primary 6 Science T2) | Egypt, *Primary 6 Science T2*, printed p. 21 |
+| Thermal changes accompanying physical changes: heating and cooling as matter changes state (Unit 1 Lesson 1) (Egypt, Prep 8 Science T2 (Arabic)) | Egypt, *Prep 8 Science T2 (Arabic)*, printed p. 2 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Australia, India, United States, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, materials heat-and-how-it-travels

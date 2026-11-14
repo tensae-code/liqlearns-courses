@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -72,3 +72,17 @@ Searchable tags: gabon, super efficace, gabon grade 4, motions of the earth moon
 **Acceptance count: taught in 4 countries (Mongolia, Haiti, Costa Rica, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, motions of the earth moon and sun
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 2 — Egypt):** Title as printed: Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim5_TR2.pdf, 305,484,116 bytes; also the TSV release copy), English (Science_EN_Prim5_Tr2.pdf, 113,469,581 bytes, read; also the TSV release copy) — same content, cited once PDF pages: 104 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Patterns of motion in the sky: Sun, Moon and stars appearing to move in regular patterns (Egypt, Primary 5 Science T2) | Egypt, *Primary 5 Science T2*, printed p. 71 |
+
+**Acceptance count: taught in 5 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, earth-and-space motions-of-the-earth-moon-and-sun

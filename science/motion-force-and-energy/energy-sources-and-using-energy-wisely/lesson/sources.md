@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only)
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -304,3 +304,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5
 **Acceptance count unchanged: taught in 25 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, energy sources and using energy wisely
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Integrated Science Secondary 10 Term 2 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, Second Semester, 2025–2026 Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education; no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR2.pdf, 8,236,339 bytes), English (integrated_science_EN_1_Secondary_TR2.pdf, 37,852,850 bytes, read — byte size verified against size_bytes) — same content, cited once PDF pages: 92 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using lithosphere energy resources sustainably (Topic 4-3) (Egypt, Integrated Science Sec 10 T2) | Egypt, *Integrated Science Sec 10 T2*, printed p. 71 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, motion-force-and-energy energy-sources-and-using-energy-wisely

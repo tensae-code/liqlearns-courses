@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -215,3 +215,24 @@ Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with
 Placement choice, on the record: this placement was filed as "materials/particle-theory-why-solids-liquids-and-gases-act-as-they-do" — samoa-placements.md, printed pp. 5–17 — and is stocked here because the existing lesson on matter — the particle theory — teaches why solids, liquids and gases act as they do as its own thing. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, materials matter the particle theory
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 1 — Egypt):** Title as printed: Primary 5 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: English (Science_EN_prim5_TR1.pdf, 59,544,972 bytes, read), Arabic (Science_AR_prim5_TR1.pdf, 30,983,523 bytes), French (Science_FR_prim5_TR1.pdf, 51,374,814 bytes; also the TSV release copy of the French edition) — same content, cited once PDF pages: 129 (English). Verdict: COMPLETE. Note: this edition is largely image-set; the table of contents and sampled body pages were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 8 Term 1 — Egypt):** Title as printed: Science, Preparatory 2 (Grade 8), First Term Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: English (Sci_En_PE2_SB_T1.pdf, 28,392,283 bytes, read; also the TSV blob copy), French (Science_FR_prp2_Tr1.pdf.pdf, 61,116,279 bytes; also the TSV blob copy), Arabic (books.json Science_AR)Prp2_Tr1.pdf, 64,020,901 bytes, and the TSV release copy Science_AR.Prp2_Tr1.pdf) — same content, cited once PDF pages: 106 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter in the world around us: particles in motion (Sands of Time anchor, Slippery Sands project) (Egypt, Primary 5 Science T1) | Egypt, *Primary 5 Science T1*, printed p. 65 |
+| Cohesive forces between particles explaining the properties of each state (Egypt, Prep 8 Science T1) | Egypt, *Prep 8 Science T1*, printed p. 2 |
+| Changes in the states of matter as particles gain or lose thermal energy, with no new substance formed (Egypt, Prep 8 Science T1) | Egypt, *Prep 8 Science T1*, printed p. 10 |
+| Concept 2.1 Thermal Energy and States of Matter: particle movement in solids, liquids and gases and how temperature changes it (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 76 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, materials matter-the-particle-theory

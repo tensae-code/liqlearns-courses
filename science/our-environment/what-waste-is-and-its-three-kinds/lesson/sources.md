@@ -1,6 +1,6 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -111,3 +111,17 @@ Searchable tags: pakistan, punjab, general science, what-waste-is-and-its-three-
 **Acceptance count: taught in 5 countries (Ethiopia, Suriname, Costa Rica, Pakistan (Punjab, Samoa).**
 
 Searchable tags: samoa, samoa mesc, our environment what waste is and its three kinds
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 1 — Egypt):** Title as printed: Primary 5 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: English (Science_EN_prim5_TR1.pdf, 59,544,972 bytes, read), Arabic (Science_AR_prim5_TR1.pdf, 30,983,523 bytes), French (Science_FR_prim5_TR1.pdf, 51,374,814 bytes; also the TSV release copy of the French edition) — same content, cited once PDF pages: 129 (English). Verdict: COMPLETE. Note: this edition is largely image-set; the table of contents and sampled body pages were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Interdisciplinary project Waste Not, Want Not: reducing and reusing waste (Egypt, Primary 5 Science T1) | Egypt, *Primary 5 Science T1*, printed p. 50 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Suriname, Costa Rica, Pakistan (Punjab, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, our-environment what-waste-is-and-its-three-kinds

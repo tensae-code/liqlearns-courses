@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only)
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -63,3 +63,23 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1, grade 3
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 4 Term 1 — Egypt):** Title as printed: Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 4 (Grade 4), student book Publisher: Discovery Education, Inc. for Egypt MOETE, ©2025; ISBN 978-1-61708-645-8 (English edition) Variants in target set: Arabic (Science_AR_prim4_TR1.pdf, 16,830,142 bytes), English (Science_prim4_TR1.pdf, 5,944,542 bytes), French (Science_FR_PRIM4_Tr1_2.pdf, 35,172,505 bytes) — same content, cited once; English read PDF pages: 130 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Primary 6 Term 2 — Egypt):** Title as printed: Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition; the printed footer on the contents pages reads "Science Term 1" in error — the content is Themes 3–4, the Term 2 half) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim6_TR2.pdf, 267,613,042 bytes; also the TSV release copy), English (Science_E_Prim6_TR2.pdf, 14,292,574 bytes, read) — same content, cited once PDF pages: 96 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Integrated Science Secondary 10 Term 1 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, First Semester Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education (book not authorised for circulation outside the ministry); no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR1.pdf, 20,196,474 bytes), English (integratedscience_EN_1_Secondary_TR1.pdf, 28,968,289 bytes, read — byte size verified against size_bytes), French (integratedscience_FR_1_Secondary_TR1.pdf, 21,522,055 bytes) — same content, cited once PDF pages: 114 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Structural and behavioural adaptations of desert animals and plants (fox, camel, palm, desert lizard) for survival in extreme climates (Egypt, Primary 4 Science T1) | Egypt, *Primary 4 Science T1*, printed p. 1 |
+| Adapting to survive: how organisms adapt as environments change (Egypt, Primary 6 Science T2) | Egypt, *Primary 6 Science T2*, printed p. 45 |
+| Biological adaptations of organisms to the aquatic environment (Topic 1-6) (Egypt, Integrated Science Sec 10 T1) | Egypt, *Integrated Science Sec 10 T1*, printed p. 37 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Guyana, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, animals animals-what-makes-an-animal

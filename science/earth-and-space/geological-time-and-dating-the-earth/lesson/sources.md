@@ -1,6 +1,6 @@
 # Sources — Geological time and dating the Earth
 
-countries: Mexico, Italy
+countries: Mexico, Italy, Egypt
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -21,3 +21,19 @@ countries: Mexico, Italy
 Placement choice, on the record: This NEW LESSON was built for the Mexico placement "NEW LESSON NEEDED — geological-time-and-dating-the-earth" — mexico-placements.md, printed pp. 284–291; the placements file notes the geological-time slug is shared with Italy's filing, and Italy stocks into this lesson at its own merge. No existing general-science lesson covers geological time and dating the Earth as its own thing (checked the live repo at merge time: the Biology title's radiometric-dating lesson is a secondary-depth treatment, a different treatment at a different depth, and was not grown; earth-and-space/fossils-and-how-they-form teaches fossilisation, not the dating of the human past), so it gets its own lesson, stocked with Mexico's part exactly as filed — human fossil remains in Mexican territory, the Tepexpan controversy, and Naia. It sits in earth-and-space/ and is registered in CURRICULUM.md Unit 19 (Earth and Space).
 
 Searchable tags: geological time, dating the earth, human fossil remains, man of tepexpan, naia, prehistory, mexico, grade 7, etica naturaleza y sociedades
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 9 Term 1 (Arabic, new edition) — Egypt):** Title as printed: اكتشف وتعلم — العلوم — للصف الثالث الإعدادي، الفصل الدراسي الأول (Discover and Learn — Science — Third Preparatory, First Term) Grade: Preparatory 9 (Third Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE, 2026–2027 edition (taken from the record's ministry source_url; byte size 81,552,106 verified against size_bytes; the books.json tree route does not hold this file) Note on the target set: this record was left unverified by the earlier reader after the English Term 1 and Arabic Term 2 files proved to be the older Second Preparatory series. Opened here, the Arabic Term 1 file is a GENUINE Third Preparatory Term 1 book, in the new GPS Discover and Learn edition — a different book from the one filed above as "Science and Life — Second Preparatory", and it is placed here on its own contents. PDF pages: 114. Verdict: COMPLETE (contents, all four unit openers, lesson assessments and back cover checked from page renders) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Geological time: the geological time scale and relative and radioactive dating of rocks and fossils (Unit 4 Lesson 2) (Egypt, Prep 9 Science T1 (Arabic, new ed.)) — placement filed as "NEW LESSON NEEDED — geological-time-and-earths-history", stocked into this existing lesson, which already covers that thing; the original slug is recorded in this row | Egypt, *Prep 9 Science T1 (Arabic, new ed.)*, printed p. 95 |
+
+**Acceptance count: taught in 3 countries (Mexico, Italy, Egypt).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — geological-time-and-earths-history" — egypt-placements.md; it is stocked into this existing lesson because that lesson already covers the thing as its own lesson, so no second lesson was built for it, and the original slug is recorded in the row above.
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, earth-and-space geological-time-and-dating-the-earth

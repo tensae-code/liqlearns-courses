@@ -1,6 +1,6 @@
 # Sources — Animals — mammals
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia, India, Bulgaria, Bahamas (curriculum evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia, India, Bulgaria, Bahamas (curriculum evidence only), Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -169,3 +169,17 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 3
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 4 Term 1 — Egypt):** Title as printed: Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 4 (Grade 4), student book Publisher: Discovery Education, Inc. for Egypt MOETE, ©2025; ISBN 978-1-61708-645-8 (English edition) Variants in target set: Arabic (Science_AR_prim4_TR1.pdf, 16,830,142 bytes), English (Science_prim4_TR1.pdf, 5,944,542 bytes), French (Science_FR_PRIM4_Tr1_2.pdf, 35,172,505 bytes) — same content, cited once; English read PDF pages: 130 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nocturnal animals and the bat as anchor animal: flight structure, night activity (Egypt, Primary 4 Science T1) | Egypt, *Primary 4 Science T1*, printed p. 2 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Micronesia, India, Bulgaria, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, animals animals-mammals

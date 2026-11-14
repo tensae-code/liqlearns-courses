@@ -1,6 +1,6 @@
 # Sources — What controls a place's climate
 
-countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States, Cuba
+countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States, Cuba, Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -100,3 +100,17 @@ Searchable tags: united states, utah, seed standards, utah oer, what controls a 
 **Acceptance count: taught in 6 countries (Ethiopia, Italy, Micronesia, Mongolia, United States, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, what controls a places climate
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 8 Term 2 — Egypt (Arabic)):** Title as printed: علوم الصف الثاني الإعدادي، الفصل الدراسي الثاني (Science, Preparatory 2, Second Term), student book Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: Arabic only (Science_AR_Prp2_Tr2.pdf, 45,302,571 bytes, read; also the TSV blob copy) — cited once PDF pages: 92. Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Air moving from high to low pressure, latitude, solar heating and the Coriolis effect shaping climate (Egypt, Prep 8 Science T2 (Arabic)) | Egypt, *Prep 8 Science T2 (Arabic)*, printed p. 69 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Italy, Micronesia, Mongolia, United States, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, weather-and-seasons what-controls-a-places-climate

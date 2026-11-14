@@ -1,6 +1,6 @@
 # Sources — The microscope — seeing the unseen
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba
+countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -58,3 +58,17 @@ Searchable tags: pakistan, punjab, general science, the-microscope-seeing-the-un
 **Acceptance count: taught in 3 countries (Ethiopia, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the microscope seeing the unseen
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using the microscope to gather information about the parts of a system (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 1 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Pakistan (Punjab, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, the-human-body the-microscope-seeing-the-unseen

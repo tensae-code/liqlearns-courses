@@ -1,6 +1,6 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -211,3 +211,20 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, heat co
 **Acceptance count: taught in 25 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba, Samoa).**
 
 Searchable tags: samoa, samoa mesc, heat heat conduction conductors and insulators
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 8 Term 1 — Egypt):** Title as printed: Science, Preparatory 2 (Grade 8), First Term Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: English (Sci_En_PE2_SB_T1.pdf, 28,392,283 bytes, read; also the TSV blob copy), French (Science_FR_prp2_Tr1.pdf.pdf, 61,116,279 bytes; also the TSV blob copy), Arabic (books.json Science_AR)Prp2_Tr1.pdf, 64,020,901 bytes, and the TSV release copy Science_AR.Prp2_Tr1.pdf) — same content, cited once PDF pages: 106 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Methods of heat transfer: conduction and its everyday applications (Egypt, Prep 8 Science T1) | Egypt, *Prep 8 Science T1*, printed p. 30 |
+| Concept 2.2 Heat Transfer: mixing hot and cold water investigation — temperature moves toward an average as energy transfers (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 99 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, heat heat-conduction-conductors-and-insulators

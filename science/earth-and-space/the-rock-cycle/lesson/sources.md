@@ -1,6 +1,6 @@
 # Sources — The rock cycle
 
-countries: United States, Samoa
+countries: United States, Samoa, Egypt
 
 **Book (United States — Utah Grade 7):** *Utah OER Science Textbook – Grade 7* (student book) — United States. Title as printed: "7th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 64,618,223 bytes (matches repo size), 202 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -33,3 +33,19 @@ Placement choice, on the record: this placement was filed as "our-environment/cy
 Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — earth-and-space/the-rock-cycle" — samoa-placements.md, printed p. 92 — and is stocked here because the lesson was built earlier in this same expansion (United States filing) for this shared slug — Samoa stocks into it. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, earth and space the rock cycle
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 7 Term 2 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – Second Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: Arabic (Science_AR_Prp1_TR2.pdf, 374,200,292 bytes; also the TSV release copy), English (Science_E_Prp1_TR2.pdf, 72,933,866 bytes, read — image-set edition, read from page renders) — same content, cited once PDF pages: 92 (English; printed colophon: 92 pages including the cover). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The rock cycle: weathering, erosion and the transformation of igneous, sedimentary and metamorphic rocks (Unit 4 Lesson 2) (Egypt, Prep 7 Science T2) — placement filed as "NEW LESSON NEEDED — the-rock-cycle", stocked into this existing lesson, which already covers that thing; the original slug is recorded in this row | Egypt, *Prep 7 Science T2*, printed p. 75 |
+
+**Acceptance count: taught in 3 countries (United States, Samoa, Egypt).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — the-rock-cycle" — egypt-placements.md; it is stocked into this existing lesson because that lesson already covers the thing as its own lesson, so no second lesson was built for it, and the original slug is recorded in the row above.
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, earth-and-space the-rock-cycle

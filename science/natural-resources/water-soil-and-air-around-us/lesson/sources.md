@@ -1,6 +1,6 @@
 # Sources — Water, soil and air around us
 
-countries: Ethiopia, Moldova
+countries: Ethiopia, Moldova, Egypt
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -29,3 +29,17 @@ Searchable tags: natural resources, soil, water, air, pollution, carbon dioxide,
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, water soil and air around us, stiinte, sciences, grade 3
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 2 — Egypt):** Title as printed: Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim5_TR2.pdf, 305,484,116 bytes; also the TSV release copy), English (Science_EN_Prim5_Tr2.pdf, 113,469,581 bytes, read; also the TSV release copy) — same content, cited once PDF pages: 104 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water as a valuable natural resource: sources, uses and why it must be protected (Egypt, Primary 5 Science T2) | Egypt, *Primary 5 Science T2*, printed p. 19 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, natural-resources water-soil-and-air-around-us

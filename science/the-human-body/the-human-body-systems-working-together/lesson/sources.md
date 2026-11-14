@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -202,3 +202,23 @@ Placement choice, on the record: this placement was filed as "the-human-body/int
 Placement choice, on the record: this placement was filed as "the-human-body/internal-organs-of-the-human-body" — samoa-placements.md, printed pp. 58–64 — and is stocked here because the existing lesson on the human body systems working together covers the body's internal systems and organs as its own thing; the two units filed under the original slug are the circulation and respiration systems, stocked by the Biology wave in their own lessons. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, the human body the human body systems working together
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 4 Term 1 — Egypt):** Title as printed: Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 4 (Grade 4), student book Publisher: Discovery Education, Inc. for Egypt MOETE, ©2025; ISBN 978-1-61708-645-8 (English edition) Variants in target set: Arabic (Science_AR_prim4_TR1.pdf, 16,830,142 bytes), English (Science_prim4_TR1.pdf, 5,944,542 bytes), French (Science_FR_PRIM4_Tr1_2.pdf, 35,172,505 bytes) — same content, cited once; English read PDF pages: 130 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Integrated Science Secondary 10 Term 2 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, Second Semester, 2025–2026 Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education; no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR2.pdf, 8,236,339 bytes), English (integrated_science_EN_1_Secondary_TR2.pdf, 37,852,850 bytes, read — byte size verified against size_bytes) — same content, cited once PDF pages: 92 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Organs and body systems (digestive, respiratory) working together to keep an organism alive in its habitat (Egypt, Primary 4 Science T1) | Egypt, *Primary 4 Science T1*, printed p. 4 |
+| Concept 1.2 The Body as a System: digestive, muscular, circulatory and other systems working together (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 1 |
+| Excretion and homeostasis and their role in the stability of the internal environment and the biosphere (Topic 3-3) (Egypt, Integrated Science Sec 10 T2) | Egypt, *Integrated Science Sec 10 T2*, printed p. 29 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guyana, Costa Rica, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, the-human-body the-human-body-systems-working-together

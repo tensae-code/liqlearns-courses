@@ -1,6 +1,6 @@
 # Sources — Cells — inside a cell: organelles and their jobs
 
-countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa
+countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -99,3 +99,20 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, inside 
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, the human body inside a cell organelles and their jobs
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 7 Term 1 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – First Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (cover carries the ministry emblem) Variants in target set: English (Science_E_Prp1_Tr1.pdf, 122,732,582 bytes, read; image-set edition, contents and unit pages read from renders), Arabic (Science_AR_Prp1_Tr1.pdf, 164,089,059 bytes; also the TSV release copy), French (Science_F_Prp1_TR1.pdf, 24,907,049 bytes) — same content, cited once PDF pages: 100 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Concept 1.1 The Cell as a System: the cell's parts working together as a system (unit opens on the cell) (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 1 |
+| Cells and Life: cell structure and organelles (Unit 3 Lesson 1) (Egypt, Prep 7 Science T1) | Egypt, *Prep 7 Science T1*, printed p. 56 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, India, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, the-human-body inside-a-cell-organelles-and-their-jobs

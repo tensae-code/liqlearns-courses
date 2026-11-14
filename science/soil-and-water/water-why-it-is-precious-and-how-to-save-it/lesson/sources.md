@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -166,3 +166,17 @@ Searchable tags: moldova, water why it is precious and how to save it, stiinte, 
 **Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, water why it is precious and how to save it
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 2 — Egypt):** Title as printed: Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim5_TR2.pdf, 305,484,116 bytes; also the TSV release copy), English (Science_EN_Prim5_Tr2.pdf, 113,469,581 bytes, read; also the TSV release copy) — same content, cited once PDF pages: 104 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Saving water and using it wisely inside Concept 3.2 (Egypt, Primary 5 Science T2) | Egypt, *Primary 5 Science T2*, printed p. 19 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, soil-and-water water-why-it-is-precious-and-how-to-save-it

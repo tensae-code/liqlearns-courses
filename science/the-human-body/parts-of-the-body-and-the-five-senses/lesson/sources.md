@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -215,3 +215,17 @@ Searchable tags: pakistan, punjab, general science, parts-of-the-body-and-the-fi
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, astghik gratun, edit print
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 4 Term 1 — Egypt):** Title as printed: Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 4 (Grade 4), student book Publisher: Discovery Education, Inc. for Egypt MOETE, ©2025; ISBN 978-1-61708-645-8 (English edition) Variants in target set: Arabic (Science_AR_prim4_TR1.pdf, 16,830,142 bytes), English (Science_prim4_TR1.pdf, 5,944,542 bytes), French (Science_FR_PRIM4_Tr1_2.pdf, 35,172,505 bytes) — same content, cited once; English read PDF pages: 130 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The five senses, receptors, nerves and the brain receiving, processing and responding to information; reaction time investigation (Egypt, Primary 4 Science T1) | Egypt, *Primary 4 Science T1*, printed p. 26 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, the-human-body parts-of-the-body-and-the-five-senses

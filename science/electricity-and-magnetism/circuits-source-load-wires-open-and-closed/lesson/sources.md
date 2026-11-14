@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -240,3 +240,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, electricity and magnetism circuits source load wires open and closed
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Concept 1.3 Energy as a System: electricity, current and electrons; open and closed circuits with source, wires, switch and load (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 54 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, electricity-and-magnetism circuits-source-load-wires-open-and-closed

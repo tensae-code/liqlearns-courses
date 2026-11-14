@@ -1,6 +1,6 @@
 # Sources — Energy — degradation: why useful energy is lost as heat
 
-countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Greece
+countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Greece, Egypt
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -38,3 +38,17 @@ Searchable tags: energy degradation dissipation heat loss efficiency conservatio
 **Acceptance count unchanged: taught in 2 countries (Argentina, Greece) — Greece was already counted in this lesson (from its Grade 10 General-Education Physics student book, Physics expansion); the primary «Φυσικά» workbook adds a row, not a new country, and the teacher-guide row is guide evidence only, counted nowhere.**
 
 Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 8 Term 2 — Egypt (Arabic)):** Title as printed: علوم الصف الثاني الإعدادي، الفصل الدراسي الثاني (Science, Preparatory 2, Second Term), student book Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: Arabic only (Science_AR_Prp2_Tr2.pdf, 45,302,571 bytes, read; also the TSV blob copy) — cited once PDF pages: 92. Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Conservation of energy (Helmholtz) framing Unit 1: energy changing form in physical and chemical changes (Egypt, Prep 8 Science T2 (Arabic)) | Egypt, *Prep 8 Science T2 (Arabic)*, printed p. 2 |
+
+**Acceptance count: taught in 3 countries (Argentina, Greece, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, motion-force-and-energy energy-degradation-why-useful-energy-turns-to-heat

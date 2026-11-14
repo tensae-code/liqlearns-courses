@@ -1,6 +1,6 @@
 # Sources — Light — how seeing works
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States, Cuba
+countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States, Cuba, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -73,3 +73,17 @@ Searchable tags: united states, utah, seed standards, utah oer, light how seeing
 **Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Moldova, United States, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, light how seeing works
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 4 Term 1 — Egypt):** Title as printed: Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 4 (Grade 4), student book Publisher: Discovery Education, Inc. for Egypt MOETE, ©2025; ISBN 978-1-61708-645-8 (English edition) Variants in target set: Arabic (Science_AR_prim4_TR1.pdf, 16,830,142 bytes), English (Science_prim4_TR1.pdf, 5,944,542 bytes), French (Science_FR_PRIM4_Tr1_2.pdf, 35,172,505 bytes) — same content, cited once; English read PDF pages: 130 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What must happen to see an object; the eye and low light; night-vision structures in nocturnal hunters (fishing cat) (Egypt, Primary 4 Science T1) | Egypt, *Primary 4 Science T1*, printed p. 41 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Moldova, United States, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, light light-how-seeing-works

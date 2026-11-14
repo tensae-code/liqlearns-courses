@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -245,3 +245,23 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, food ch
 **Acceptance count: taught in 10 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab, Cuba, Samoa).**
 
 Searchable tags: samoa, samoa mesc, our environment food chains food webs and energy pyramids
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 1 — Egypt):** Title as printed: Primary 5 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: English (Science_EN_prim5_TR1.pdf, 59,544,972 bytes, read), Arabic (Science_AR_prim5_TR1.pdf, 30,983,523 bytes), French (Science_FR_prim5_TR1.pdf, 51,374,814 bytes; also the TSV release copy of the French edition) — same content, cited once PDF pages: 129 (English). Verdict: COMPLETE. Note: this edition is largely image-set; the table of contents and sampled body pages were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Integrated Science Secondary 10 Term 2 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, Second Semester, 2025–2026 Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education; no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR2.pdf, 8,236,339 bytes), English (integrated_science_EN_1_Secondary_TR2.pdf, 37,852,850 bytes, read — byte size verified against size_bytes) — same content, cited once PDF pages: 92 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 7 Term 2 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – Second Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: Arabic (Science_AR_Prp1_TR2.pdf, 374,200,292 bytes; also the TSV release copy), English (Science_E_Prp1_TR2.pdf, 72,933,866 bytes, read — image-set edition, read from page renders) — same content, cited once PDF pages: 92 (English; printed colophon: 92 pages including the cover). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy flow in ecosystems: food chains and food webs as the unit anchor (Egypt, Primary 5 Science T1) | Egypt, *Primary 5 Science T1*, printed p. 25 |
+| Biological processes and energy flow: photosynthesis as the entry of energy, autotrophs and heterotrophs, kinds of consumers (Topic 3-2) (Egypt, Integrated Science Sec 10 T2) | Egypt, *Integrated Science Sec 10 T2*, printed p. 17 |
+| Nutritional relationships in biological communities: food chains, food webs and the energy pyramid (Unit 3 Lesson 1) (Egypt, Prep 7 Science T2) | Egypt, *Prep 7 Science T2*, printed p. 47 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, our-environment food-chains-food-webs-and-energy-pyramids

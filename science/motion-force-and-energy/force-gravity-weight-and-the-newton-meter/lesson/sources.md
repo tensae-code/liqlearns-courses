@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab)
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -258,3 +258,20 @@ Searchable tags: pakistan, punjab, general science, force-gravity-weight-and-the
 **Acceptance count unchanged: taught in 19 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, India, Pakistan (Punjab).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, force gravity weight and the newton meter
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 2 — Egypt):** Title as printed: Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim5_TR2.pdf, 305,484,116 bytes; also the TSV release copy), English (Science_EN_Prim5_Tr2.pdf, 113,469,581 bytes, read; also the TSV release copy) — same content, cited once PDF pages: 104 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Primary 6 Term 1 — Egypt):** Title as printed: Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: English (Science_E_prim6_TR1.pdf, 31,897,964 bytes, read), Arabic (Science_AR_prim6_TR1.pdf, 26,871,668 bytes), French (Science_FR_prim6_TR1.pdf, 395,736,106 bytes; also the TSV release copy) — same content, cited once PDF pages: 138 (English; printed colophon: 140 pages including the cover — the copy carries front and back covers and the full unit assessments). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Effects of gravity: gravity pulling objects, orbits held by gravity (Egypt, Primary 5 Science T2) | Egypt, *Primary 5 Science T2*, printed p. 55 |
+| Gravity as a non-contact force depending on mass and distance (Egypt, Primary 6 Science T1) | Egypt, *Primary 6 Science T1*, printed p. 49 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, India, Pakistan (Punjab, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, motion-force-and-energy force-gravity-weight-and-the-newton-meter

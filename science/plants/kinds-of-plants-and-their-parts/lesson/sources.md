@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -296,3 +296,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, kinds o
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, plants kinds of plants and their parts
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 1 — Egypt):** Title as printed: Primary 5 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: English (Science_EN_prim5_TR1.pdf, 59,544,972 bytes, read), Arabic (Science_AR_prim5_TR1.pdf, 30,983,523 bytes), French (Science_FR_prim5_TR1.pdf, 51,374,814 bytes; also the TSV release copy of the French edition) — same content, cited once PDF pages: 129 (English). Verdict: COMPLETE. Note: this edition is largely image-set; the table of contents and sampled body pages were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Plant parts and their forms: vessels in stems, woody/climbing stems, tubers and runners, needle and flat leaves (Egypt, Primary 5 Science T1) | Egypt, *Primary 5 Science T1*, printed p. 8 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, plants kinds-of-plants-and-their-parts

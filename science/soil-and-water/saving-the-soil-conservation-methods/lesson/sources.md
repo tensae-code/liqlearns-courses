@@ -1,6 +1,6 @@
 # Sources — Saving the soil — conservation methods
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Uganda, United States, Cuba
+countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Uganda, United States, Cuba, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -109,3 +109,17 @@ Searchable tags: united states, utah, seed standards, utah oer, saving the soil 
 **Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, Uganda, United States, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, saving the soil conservation methods
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 2 — Egypt):** Title as printed: Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition; the printed footer on the contents pages reads "Science Term 1" in error — the content is Themes 3–4, the Term 2 half) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim6_TR2.pdf, 267,613,042 bytes; also the TSV release copy), English (Science_E_Prim6_TR2.pdf, 14,292,574 bytes, read) — same content, cited once PDF pages: 96 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Protecting soil under environmental change inside Concept 4.2 (Egypt, Primary 6 Science T2) | Egypt, *Primary 6 Science T2*, printed p. 61 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nauru, Tuvalu, Niue, Uganda, United States, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, soil-and-water saving-the-soil-conservation-methods

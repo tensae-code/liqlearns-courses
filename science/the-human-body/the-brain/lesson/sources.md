@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -128,3 +128,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the bra
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, the human body the brain
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Integrated Science Secondary 10 Term 2 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, Second Semester, 2025–2026 Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education; no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR2.pdf, 8,236,339 bytes), English (integrated_science_EN_1_Secondary_TR2.pdf, 37,852,850 bytes, read — byte size verified against size_bytes) — same content, cited once PDF pages: 92 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sensation and response: transmission of the nerve impulse and the role of the synapse (Topic 3-4) (Egypt, Integrated Science Sec 10 T2) | Egypt, *Integrated Science Sec 10 T2*, printed p. 38 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, the-human-body the-brain

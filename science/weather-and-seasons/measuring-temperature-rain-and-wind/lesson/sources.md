@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -114,3 +114,20 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 6 Term 2 — Egypt):** Title as printed: Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition; the printed footer on the contents pages reads "Science Term 1" in error — the content is Themes 3–4, the Term 2 half) Grade: Primary 6 (Grade 6), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim6_TR2.pdf, 267,613,042 bytes; also the TSV release copy), English (Science_E_Prim6_TR2.pdf, 14,292,574 bytes, read) — same content, cited once PDF pages: 96 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Science Preparatory 8 Term 2 — Egypt (Arabic)):** Title as printed: علوم الصف الثاني الإعدادي، الفصل الدراسي الثاني (Science, Preparatory 2, Second Term), student book Grade: Preparatory 8, student book Publisher: Egypt Ministry of Education and Technical Education Variants in target set: Arabic only (Science_AR_Prp2_Tr2.pdf, 45,302,571 bytes, read; also the TSV blob copy) — cited once PDF pages: 92. Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Meteorologist Reports unit project: observing, measuring and reporting weather (Egypt, Primary 6 Science T2) | Egypt, *Primary 6 Science T2*, printed p. 35 |
+| Winds and weather forecasts: reading weather maps and why forecasts are probabilities (Unit 4 Lesson 2) (Egypt, Prep 8 Science T2 (Arabic)) | Egypt, *Prep 8 Science T2 (Arabic)*, printed p. 76 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Italy, Mongolia, Uganda, Bulgaria, Armenia, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, weather-and-seasons measuring-temperature-rain-and-wind

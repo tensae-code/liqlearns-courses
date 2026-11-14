@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab)
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab), Egypt
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -139,3 +139,17 @@ Searchable tags: united states, utah, seed standards, utah oer, caring so they l
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, caring-so-they-last
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 7 Term 2 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – Second Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (reviewed by the Central Administration for Curriculum Development) Variants in target set: Arabic (Science_AR_Prp1_TR2.pdf, 374,200,292 bytes; also the TSV release copy), English (Science_E_Prp1_TR2.pdf, 72,933,866 bytes, read — image-set edition, read from page renders) — same content, cited once PDF pages: 92 (English; printed colophon: 92 pages including the cover). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sustainable use of natural resources, discussed through rocks in construction (the Pyramids of Giza) at the close of the rock cycle lesson (Egypt, Prep 7 Science T2) | Egypt, *Prep 7 Science T2*, printed p. 82 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, United States, Pakistan (Punjab, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, natural-resources caring-so-they-last

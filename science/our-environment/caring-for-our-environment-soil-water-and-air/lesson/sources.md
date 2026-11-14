@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -244,3 +244,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 1
 **Acceptance count: taught in 14 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Uganda, Bulgaria, Moldova, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, caring for our environment soil water and air
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Integrated Science Secondary 10 Term 1 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, First Semester Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education (book not authorised for circulation outside the ministry); no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR1.pdf, 20,196,474 bytes), English (integratedscience_EN_1_Secondary_TR1.pdf, 28,968,289 bytes, read — byte size verified against size_bytes), French (integratedscience_FR_1_Secondary_TR1.pdf, 21,522,055 bytes) — same content, cited once PDF pages: 114 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The atmosphere and the role of science in its sustainability (Topic 2-4) (Egypt, Integrated Science Sec 10 T1) | Egypt, *Integrated Science Sec 10 T1*, printed p. 98 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Uganda, Bulgaria, Moldova, Pakistan (Punjab, Cuba, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, our-environment caring-for-our-environment-soil-water-and-air

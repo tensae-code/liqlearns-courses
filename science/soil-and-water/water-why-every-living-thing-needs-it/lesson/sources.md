@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -152,3 +152,20 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, water w
 **Acceptance count: taught in 9 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa).**
 
 Searchable tags: samoa, samoa mesc, soil and water water why every living thing needs it
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 5 Term 2 — Egypt):** Title as printed: Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 5 (Grade 5), student book Publisher: Discovery Education for Egypt MOETE Variants in target set: Arabic (Science_AR_prim5_TR2.pdf, 305,484,116 bytes; also the TSV release copy), English (Science_EN_Prim5_Tr2.pdf, 113,469,581 bytes, read; also the TSV release copy) — same content, cited once PDF pages: 104 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+**Book (Egypt — Integrated Science Secondary 10 Term 1 — Egypt):** Title as printed: INTEGRATED SCIENCE, First Secondary Grade, First Semester Grade: Secondary 10 (First Secondary), student book Publisher: Egypt Ministry of Education and Technical Education (book not authorised for circulation outside the ministry); no ISBN printed Variants in target set: Arabic (integratedscience_ARABIC_1_Secondary_TR1.pdf, 20,196,474 bytes), English (integratedscience_EN_1_Secondary_TR1.pdf, 28,968,289 bytes, read — byte size verified against size_bytes), French (integratedscience_FR_1_Secondary_TR1.pdf, 21,522,055 bytes) — same content, cited once PDF pages: 114 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water moving between living things and water bodies inside Concept 3.1 (Egypt, Primary 5 Science T2) | Egypt, *Primary 5 Science T2*, printed p. 5 |
+| Biological importance of water for living organisms (Topic 1-5) (Egypt, Integrated Science Sec 10 T1) | Egypt, *Integrated Science Sec 10 T1*, printed p. 31 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, soil-and-water water-why-every-living-thing-needs-it

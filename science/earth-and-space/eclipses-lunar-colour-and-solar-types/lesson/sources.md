@@ -1,6 +1,6 @@
 # Sources — Eclipses — lunar colour and solar types
 
-countries: Palestine, Moldova, Mozambique
+countries: Palestine, Moldova, Mozambique, Egypt
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
@@ -22,3 +22,17 @@ countries: Palestine, Moldova, Mozambique
 Placement choice, on the record: this NEW LESSON was built for the Palestine placement "Eclipses — lunar colour and solar types" — palestine-placements.md, Book 1, Unit 4: Astronomy, printed p. 141 — a topic no existing slug covers at this depth. It sits in science/earth-and-space/ and is registered in CURRICULUM.md Unit 19.
 
 Searchable tags: eclipse, lunar eclipse, solar eclipse, total eclipse, annular eclipse, copper-red moon, nodes, ecliptic, palestine, grade 10, astronomy, mozambique
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 7 Term 1 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – First Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (cover carries the ministry emblem) Variants in target set: English (Science_E_Prp1_Tr1.pdf, 122,732,582 bytes, read; image-set edition, contents and unit pages read from renders), Arabic (Science_AR_Prp1_Tr1.pdf, 164,089,059 bytes; also the TSV release copy), French (Science_F_Prp1_TR1.pdf, 24,907,049 bytes) — same content, cited once PDF pages: 100 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lunar eclipse: how and why the Moon darkens (Unit 4 Lesson 2) (Egypt, Prep 7 Science T1) | Egypt, *Prep 7 Science T1*, printed p. 88 |
+
+**Acceptance count: taught in 4 countries (Palestine, Moldova, Mozambique, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, earth-and-space eclipses-lunar-colour-and-solar-types

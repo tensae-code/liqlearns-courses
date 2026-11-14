@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -196,3 +196,17 @@ Searchable tags: pakistan, punjab, general science, grouping-animals
 **Acceptance count: taught in 8 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab, Samoa).**
 
 Searchable tags: samoa, samoa mesc, animals grouping animals
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Primary 4 Term 1 — Egypt):** Title as printed: Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition) Grade: Primary 4 (Grade 4), student book Publisher: Discovery Education, Inc. for Egypt MOETE, ©2025; ISBN 978-1-61708-645-8 (English edition) Variants in target set: Arabic (Science_AR_prim4_TR1.pdf, 16,830,142 bytes), English (Science_prim4_TR1.pdf, 5,944,542 bytes), French (Science_FR_PRIM4_Tr1_2.pdf, 35,172,505 bytes) — same content, cited once; English read PDF pages: 130 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Amphibians as a group that breathes through lungs and skin and depends on clean water (Panamanian golden frog case) (Egypt, Primary 4 Science T1) | Egypt, *Primary 4 Science T1*, printed p. 24 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, animals grouping-animals

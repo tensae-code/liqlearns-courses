@@ -1,6 +1,6 @@
 # Sources — Monera — bacteria: helpful, harmful, everywhere
 
-countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa
+countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -90,3 +90,17 @@ Searchable tags: pakistan, punjab, general science, monera-bacteria-helpful-harm
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, animals monera bacteria helpful harmful everywhere
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 7 Term 1 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – First Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (cover carries the ministry emblem) Variants in target set: English (Science_E_Prp1_Tr1.pdf, 122,732,582 bytes, read; image-set edition, contents and unit pages read from renders), Arabic (Science_AR_Prp1_Tr1.pdf, 164,089,059 bytes; also the TSV release copy), French (Science_F_Prp1_TR1.pdf, 24,907,049 bytes) — same content, cited once PDF pages: 100 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Microbes: bacteria, viruses and fungi, helpful and harmful (Unit 3 Lesson 3) (Egypt, Prep 7 Science T1) | Egypt, *Prep 7 Science T1*, printed p. 72 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Peru, Uganda, Pakistan (Punjab, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, animals monera-bacteria-helpful-harmful-everywhere

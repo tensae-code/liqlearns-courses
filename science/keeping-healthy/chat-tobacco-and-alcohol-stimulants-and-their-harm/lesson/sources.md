@@ -1,6 +1,6 @@
 # Sources — Chat, tobacco and alcohol: stimulants and their harm
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only)
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -54,3 +54,17 @@ Searchable tags: chat, tobacco, alcohol, stimulants, harmful drugs, mental healt
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 5, chat tobacco and alcohol stimulants and their harm
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 9 Term 1 (Arabic, new edition) — Egypt):** Title as printed: اكتشف وتعلم — العلوم — للصف الثالث الإعدادي، الفصل الدراسي الأول (Discover and Learn — Science — Third Preparatory, First Term) Grade: Preparatory 9 (Third Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE, 2026–2027 edition (taken from the record's ministry source_url; byte size 81,552,106 verified against size_bytes; the books.json tree route does not hold this file) Note on the target set: this record was left unverified by the earlier reader after the English Term 1 and Arabic Term 2 files proved to be the older Second Preparatory series. Opened here, the Arabic Term 1 file is a GENUINE Third Preparatory Term 1 book, in the new GPS Discover and Learn edition — a different book from the one filed above as "Science and Life — Second Preparatory", and it is placed here on its own contents. PDF pages: 114. Verdict: COMPLETE (contents, all four unit openers, lesson assessments and back cover checked from page renders) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Smoking and its dangers: the chemicals in tobacco smoke and their harm to the smoker and those around him (Unit 1 Lesson 3) (Egypt, Prep 9 Science T1 (Arabic, new ed.)) | Egypt, *Prep 9 Science T1 (Arabic, new ed.)*, printed p. 25 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, keeping-healthy chat-tobacco-and-alcohol-stimulants-and-their-harm

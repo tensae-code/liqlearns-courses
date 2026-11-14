@@ -1,6 +1,6 @@
 # Sources — Cells — from one cell to a whole organism
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -74,3 +74,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, from on
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, the human body from one cell to a whole organism
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 7 Term 1 — Egypt):** Title as printed: Discover and Learn SCIENCE, First Preparatory – First Term, 2025–2026 Grade: Preparatory 7 (First Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE (cover carries the ministry emblem) Variants in target set: English (Science_E_Prp1_Tr1.pdf, 122,732,582 bytes, read; image-set edition, contents and unit pages read from renders), Arabic (Science_AR_Prp1_Tr1.pdf, 164,089,059 bytes; also the TSV release copy), French (Science_F_Prp1_TR1.pdf, 24,907,049 bytes) — same content, cited once PDF pages: 100 (English). Verdict: COMPLETE It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Levels of organisation from cell to whole organism inside Cells and Life (Egypt, Prep 7 Science T1) | Egypt, *Prep 7 Science T1*, printed p. 56 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, the-human-body from-one-cell-to-a-whole-organism

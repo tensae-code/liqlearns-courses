@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -155,3 +155,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 6 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab, Samoa).**
 
 Searchable tags: samoa, samoa mesc, our environment air pollution what dirties the air
+
+## Egypt growth (2026-11-14, General Science expansion)
+
+**Book (Egypt — Science Preparatory 9 Term 1 (Arabic, new edition) — Egypt):** Title as printed: اكتشف وتعلم — العلوم — للصف الثالث الإعدادي، الفصل الدراسي الأول (Discover and Learn — Science — Third Preparatory, First Term) Grade: Preparatory 9 (Third Preparatory), student book Publisher: GPS for printing, publishing and distribution, for Egypt MOETE, 2026–2027 edition (taken from the record's ministry source_url; byte size 81,552,106 verified against size_bytes; the books.json tree route does not hold this file) Note on the target set: this record was left unverified by the earlier reader after the English Term 1 and Arabic Term 2 files proved to be the older Second Preparatory series. Opened here, the Arabic Term 1 file is a GENUINE Third Preparatory Term 1 book, in the new GPS Discover and Learn edition — a different book from the one filed above as "Science and Life — Second Preparatory", and it is placed here on its own contents. PDF pages: 114. Verdict: COMPLETE (contents, all four unit openers, lesson assessments and back cover checked from page renders) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/egypt-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Combustion reactions and environmental pollution: exhaust gases, black clouds, acid rain and catalytic converters (Unit 1 Lesson 2) (Egypt, Prep 9 Science T1 (Arabic, new ed.)) | Egypt, *Prep 9 Science T1 (Arabic, new ed.)*, printed p. 15 |
+
+**Acceptance count: taught in 7 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab, Samoa, Egypt).**
+
+Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: egypt, our-environment air-pollution-what-dirties-the-air
