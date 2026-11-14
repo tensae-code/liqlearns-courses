@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen
+countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen
 
 **Book 11:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 12:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen
 | Chapter 4, Lesson 9 "The operating system (Windows XP)" | Afghanistan, *Computer, Grade 11*, printed p. 37 |
 | Lesson 5 "System software" | Afghanistan, *Computer, Grade 12*, printed p. 15 |
 | "Computer system software" | Yemen, *Computer, Grade 10*, printed p. 37 |
+| "The Working Environment of the Operating System and Application Software" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.6, printed p. 31 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -51,4 +54,6 @@ The teacher guide's Unit 3 review key contains two items flagged unreliable in t
 
 The Grade 8 teacher guide's Unit 3 answer key (printed pp. 32–33) was used as a verified-answer check for the Grade 8 questions added in Sub lesson 3 (teacher guide — evidence).
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10

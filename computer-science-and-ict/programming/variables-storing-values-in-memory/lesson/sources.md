@@ -1,6 +1,6 @@
 # Sources - Variables - storing values in memory
 
-countries: Ethiopia, Bulgaria, China
+countries: Ethiopia, Bulgaria, China, North Macedonia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bulgaria, China
 
 **Book 4:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
+**Book 5:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -18,9 +20,12 @@ countries: Ethiopia, Bulgaria, China
 | The worked model solutions filed in this lesson (teacher guide - evidence) (the guide's review solutions create integer, float and string variables and print their values and types, and reassign one variable to a new type - used as the verified expected outputs for this lesson's practice) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 6, printed pp. 116-121 |
 | Урок 17 "Работа с променливи. Да спукаме балона!" (working with variables; pop the balloon) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 32 |
 | 常量、变量及表达式 (Constants, Variables and Expressions) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 2 §2.3.2, printed p. 57 |
+| "Variables and Constants; Types of Variables; Assigning a Value" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.13–3.15, printed p. 132 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bulgaria, China).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, China, North Macedonia).**
 
 No book error touches this lesson. The teacher guide's worked model solutions for this section (guide item 25) are filed above as verified expected outputs (teacher guide - evidence); they confirm the practice answers but are not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10

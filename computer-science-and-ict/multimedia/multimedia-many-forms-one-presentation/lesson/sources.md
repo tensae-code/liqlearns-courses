@@ -1,6 +1,6 @@
 # Sources — Multimedia — many forms, one presentation
 
-countries: Ethiopia, Djibouti, Yemen
+countries: Ethiopia, Djibouti, Yemen, North Macedonia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Djibouti, Yemen
 
 **Book 3:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 4:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Many forms, one presentation | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 introduction and §4.2, printed pp. 144, 147 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Djibouti, Yemen
 
 | Going deeper — why the combination matters (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4 overview and opening, printed pp. 139–140 |
 | The unit ahead (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 139–181 |
+| "Multimedia" | North Macedonia, *Informatics, Year 2*, Тема 4, printed p. 247 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Yemen).**
+**Acceptance count: taught in 3 countries (Ethiopia, Yemen, North Macedonia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -27,4 +30,6 @@ Nothing in this lesson claims a page the placements do not give; the lesson's co
 
 Grown 2026-11-12 with the Grade 10 Unit 4 opening (printed pp. 139–140): the Grade 10 book teaches the same combination one level deeper — impact, retention, the human interface — and this lesson grew by those parts rather than being duplicated. Book error taught corrected: the Unit 4 overview (printed p. 139) prints "contract some useful information" for "extract" — the word is taught as **extract** wherever the overview's content is taught (the image-processing meaning: to extract useful information from an image), and the slip is named here, exactly as the placements flag it.
 
-Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11
+North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
+
+Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11

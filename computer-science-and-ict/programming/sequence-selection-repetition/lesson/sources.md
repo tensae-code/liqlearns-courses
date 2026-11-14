@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -8,12 +8,17 @@ countries: Ethiopia, Trinidad and Tobago, China
 
 **Book 3:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
+**Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
 | Sequence of steps to make a paper item, peer-checked (Sample Lesson Plan Module 5, Topic 5.1) | Trinidad and Tobago, *Secondary School Teacher's Guide — Information and Communication Technology*, Form 1 Term 3 Teacher's Guide (teacher guide — evidence), printed p. 25 |
 | 语句与程序结构 (Statements and Program Structure) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 2 §2.3.3, printed p. 59 |
+| "Sequence of statements [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.12, printed p. 129 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, China).**
+**Acceptance count: taught in 3 countries (Ethiopia, China, North Macedonia).**
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10

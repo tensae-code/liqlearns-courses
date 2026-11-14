@@ -833,3 +833,21 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Word Processing** (ICT expansion, from Yemen): Page Setup — Margins and Paper
 
 **Spreadsheets** (ICT expansion, from Yemen): Printing a Worksheet
+
+**Hardware** (ICT expansion, from North Macedonia): Von Neumann Architecture
+
+**New Technologies** (ICT expansion, from North Macedonia): Touch, Holography and 3D Projection · Blockchain — Trusted Digital Records
+
+**Programming** (ICT expansion, from North Macedonia): Binary Numbers — Representation and Use · What Programming Is · Programming Languages Compared · Arithmetic Operations and Expressions in C++ · The do-while Loop · How Computers Represent Data · Integer Representation and Data Range · Algorithm Efficiency and Optimisation · Defining Functions in C++ · Function Parameters and Return Values · Local and Global Variables in Functions · Using the cmath Library · One-Dimensional Arrays · Declaring and Initialising Arrays · Array Indexing and Access · Reading and Printing Array Elements · Working with Array Elements — Operations, Largest, Smallest, Counting · Character Arrays and Searching · Data Structures — First Ideas · Variable Types in C++ · Assigning a Value to a Variable · Output — Displaying a Variable's Value · Reading Input from the User · Nested if-else · switch — Multiple-Way Selection · Solving Problems with Functions · Inserting Elements and Computations in Arrays · Finding the Largest and Smallest in an Array · Counting Elements in an Array · Applying Math Functions to Array Elements · Combining Functions and Arrays
+
+**Safety, Security and Care** (ICT expansion, from North Macedonia): Cryptography — Encoding and Encryption Basics
+
+**Word Processing** (ICT expansion, from North Macedonia): Working with Styles · Table of Contents and Indexes · Templates and Forms · Mail Merge with a Database
+
+**Spreadsheets** (ICT expansion, from North Macedonia): Pivot Tables and Reports · Protecting Worksheet Data
+
+**Databases** (ICT expansion, from North Macedonia): Forms for Entering and Viewing Data · Reports — Presenting and Printing Data
+
+**Multimedia** (ICT expansion, from North Macedonia): Vector and Raster Graphics · Layers in Graphics Editing · Generative AI for Images
+
+**Internet and the Web** (ICT expansion, from North Macedonia): HTML5 Geolocation and Local Storage

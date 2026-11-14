@@ -1,6 +1,6 @@
 # Sources — Input devices — putting data in
 
-countries: Ethiopia, Tanzania, Yemen
+countries: Ethiopia, Tanzania, Yemen, North Macedonia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Tanzania, Yemen
 
 **Book 3:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
 | Computer hardware: input devices | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 39 |
 | "The input unit" | Yemen, *Computer, Grade 10*, printed p. 26 |
+| "Input and Output Devices: Classification and Comparison" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.4, printed p. 21 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Yemen).**
+**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Yemen, North Macedonia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
 No book error touches this lesson's content.
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10

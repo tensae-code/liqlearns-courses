@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal, China
+countries: Ethiopia, Germany, Nepal, China, North Macedonia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Germany, Nepal, China
 
 **Book 5:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
+**Book 6:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -19,12 +21,15 @@ countries: Ethiopia, Germany, Nepal, China
 | Der Mensch als Vorbild: Künstliche Intelligenz — the human as the model: artificial intelligence (Kapitel 4 §4.1) | Germany, *Informatik 5 (Bayern NTG)*, printed p. 122 |
 | Unit 5 §5.1, Artificial Intelligence and Machine Learning | Nepal, *Computer Science, Class 10*, printed p. 230 |
 | 认识人工智能 (Understanding AI: Its Origins and Development) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 4 §4.1, printed p. 133 |
+| "Artificial Intelligence (General and Generative)" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.10, printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Germany, Nepal, China).**
+**Acceptance count: taught in 5 countries (Ethiopia, Germany, Nepal, China, North Macedonia).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
 
 No book error touches this lesson's student content. The teacher-guide material is labelled teacher evidence wherever it appears and is never counted as pupil-taught.
 
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10

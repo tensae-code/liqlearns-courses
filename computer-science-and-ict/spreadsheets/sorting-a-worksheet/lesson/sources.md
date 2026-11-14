@@ -1,6 +1,6 @@
 # Sources — Sorting a worksheet
 
-countries: Ethiopia, Eritrea, Belarus, Yemen
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen
 
 **Book 5:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 6:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — sorting defined: alphabetical, numerical, by date, custom list, by cell/font colour or icon; the scope decision — whole sheet (rows move together) vs only a range | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 110–111 |
@@ -22,11 +24,14 @@ countries: Ethiopia, Eritrea, Belarus, Yemen
 | Unit 5 §5.7 — Analyzing Data | Eritrea, *ICT for Grade 8*, Unit 5 §5.7, printed p. 77 |
 | § 17 "Сартаванне даных у табліцы" (sorting data in the table) | Belarus, *Інфарматыка. 10 клас*, § 17, printed p. 111 |
 | "Search and sort" | Yemen, *Computer, Grade 11*, printed p. 62 |
+| "Sorting" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.4, printed p. 244 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Belarus, Yemen).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
 Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
-Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10

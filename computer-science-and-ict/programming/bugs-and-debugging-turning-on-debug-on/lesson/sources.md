@@ -1,6 +1,6 @@
 # Sources — Bugs and debugging — turning on [DEBUG ON]
 
-countries: Ethiopia, Nepal
+countries: Ethiopia, Nepal, North Macedonia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -8,15 +8,20 @@ countries: Ethiopia, Nepal
 
 **Book 3:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
+**Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Test first — run it and compare with the expected output | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
 | Sub lesson 2 — Turning the debugger on — Debug → Debugger, [DEBUG ON] | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed p. 150 — see the honesty note below for exactly what is filed and where |
 | Unit 4 §4.5, Error Handling: Errors and Exceptions, try-except | Nepal, *Computer Science, Class 10*, printed p. 181 |
+| "Writing, Executing and Debugging a Program" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.9, printed p. 120 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
+**Acceptance count: taught in 3 countries (Ethiopia, Nepal, North Macedonia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 38, in part) is filed in Sub lesson 1: the quality-assurance framing of testing, and the §6.4 teacher tip pointing to what a good Python coding environment requires (guide printed p. 150). The divide-by-zero behaviour in Do it first was run in Python 3: it raises ZeroDivisionError: division by zero. All other code behaviour matches the runs recorded for this band. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
-Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10

@@ -1,6 +1,6 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea, Belarus, Yemen
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen
 
 **Book 7:** *الحاسوب — للصف الثاني من المرحلة الثانوية (Computer, Grade 11)* (student book, Arabic; title as printed: الحاسوب — للصف الثاني من المرحلة الثانوية (Computer — for the second year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team (same authoring team as Grade 10). 1438 AH – 2017. No ISBN printed. 91 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 8:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — functions are predefined formulas: =, function name, opening parenthesis, arguments separated by commas, closing parenthesis; named: sum, average, maximum, minimum | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 55 |
@@ -21,6 +23,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen
 | The unit's practical assessment: demonstrate the sum and average of a named results table in a spreadsheet (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3, printed pp. 32–33 |
 | The teacher must be able to build tables, do addition, subtraction, division and multiplication, and format files in a spreadsheet (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3 skills list, printed pp. 19, 20, 24, 25, 27, 29 |
 | "Functions and mathematical formulas" | Yemen, *Computer, Grade 11*, printed p. 65 |
+| "Advanced Use of Formulas and Functions" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.2, printed p. 228 |
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -36,7 +39,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen
 | Unit 5 §5.9 — Formulas and Functions | Eritrea, *ICT for Grade 8*, Unit 5 §5.9, printed p. 79 |
 | § 15 "Выкарыстанне функцый" (using functions) | Belarus, *Інфарматыка. 10 клас*, § 15, printed p. 96 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Belarus, Yemen).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -46,4 +49,6 @@ Teacher-guide fault noted for the Grade 10 growth: the guide's Unit 3 Practical 
 
 The Grade 8 teacher guide's Unit 3 answer key (printed pp. 32–33) was used as a verified-answer check for this lesson's questions; its two demonstration tasks are filed in this lesson — the sum-and-average demonstration in Sub lesson 2 and the Do It Yourself block.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10

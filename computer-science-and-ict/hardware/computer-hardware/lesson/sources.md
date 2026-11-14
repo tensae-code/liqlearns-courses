@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen
+countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 
 **Book 11:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 12:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 | Lesson 5 "The components that make up a personal computer (PC)" | Afghanistan, *Computer, Grade 11*, printed p. 21 |
 | "Components of the computer" | Yemen, *Computer, Grade 10*, printed p. 10 |
 | Unit 2 activity | Yemen, *Computer, Grade 10*, printed p. 34 |
+| "The Computer System and Its Components" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.2, printed p. 15 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -50,4 +53,6 @@ Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year —
 
 No book error touches this lesson's content.
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10
+North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
+
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10
