@@ -727,3 +727,9 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **First Steps** (ICT expansion, from Djibouti): Typing on the AZERTY Keyboard
 
 **New Technologies** (ICT expansion, from Djibouti): First Steps in Educational Robotics
+
+**First Steps** (ICT expansion, from Turkmenistan): Sources of Information and Who Receives It · Getting Information Through the Senses
+
+**Computers in Society** (ICT expansion, from Turkmenistan): What a Model Is · Building Models from Geometric Shapes
+
+**Programming** (ICT expansion, from Turkmenistan): True and False Judgements · AND, OR, NOT — Joining Statements · Drawing Conclusions — If… Then…
