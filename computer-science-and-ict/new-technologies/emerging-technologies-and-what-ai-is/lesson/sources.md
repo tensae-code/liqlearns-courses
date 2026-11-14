@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal
+countries: Ethiopia, Germany, Nepal, China
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,18 +10,21 @@ countries: Ethiopia, Germany, Nepal
 
 **Book 4:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
+**Book 5:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
 | How technology is changing work — automation first, productivity, internet work and the brain-drain reversal (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 2, printed pp. 26–27 |
 | Der Mensch als Vorbild: Künstliche Intelligenz — the human as the model: artificial intelligence (Kapitel 4 §4.1) | Germany, *Informatik 5 (Bayern NTG)*, printed p. 122 |
 | Unit 5 §5.1, Artificial Intelligence and Machine Learning | Nepal, *Computer Science, Class 10*, printed p. 230 |
+| 认识人工智能 (Understanding AI: Its Origins and Development) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 4 §4.1, printed p. 133 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Germany, Nepal).**
+**Acceptance count: taught in 4 countries (Ethiopia, Germany, Nepal, China).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
 
 No book error touches this lesson's student content. The teacher-guide material is labelled teacher evidence wherever it appears and is never counted as pupil-taught.
 
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china

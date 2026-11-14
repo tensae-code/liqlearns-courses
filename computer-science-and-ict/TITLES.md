@@ -791,3 +791,9 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Multimedia** (ICT expansion, from Bulgaria): The Stage and Backdrops in Scratch · Sprites and Costumes in Scratch · Computer Animation — a Story in Motion · Choosing Sounds and Changing Backdrops · A Sprite's Look and Computer Animation
 
 **New Technologies** (ICT expansion, from Bulgaria): Working with a Programmable Device · Programming the Blue-Bot Robot · My Robot Draws Shapes
+
+**Computers in Society** (ICT expansion, from China): The Information Society — What It Is · Developing an Information System — the Four Stages · Advantages and Limitations of Information Systems · Writing a Data Analysis Report · The Impact of Artificial Intelligence on Society
+
+**Programming** (ICT expansion, from China): Building a Simple Email Client · Building a Network Chat System in Python · Digitisation and Why It Matters · How Data Is Encoded — Text, Sound and Images · Data Compression — Making Files Smaller · Solving Problems with Analytic Algorithms · Solving Problems by Enumeration · The General Process of Data Processing · Collecting Data — Sensors, Crawlers and Surveys · Cleaning and Organising Data · Data Analysis with Python Tools · Calling AI Platform Tools from Python
+
+**Safety, Security and Care** (ICT expansion, from China): Encryption and RSA Public-Key Cryptography

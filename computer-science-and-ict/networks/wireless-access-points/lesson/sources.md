@@ -1,12 +1,15 @@
 # Sources — Wireless access points
 
-countries: Ethiopia
+countries: Ethiopia, China
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
+
+**Book 5:** *信息技术 必修2 — 信息系统与社会 / Information Technology, Compulsory 2: Information Systems and Society* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019 (written to the 2017 senior-high IT curriculum standard, approved 2019). Grade 10 (senior high). ISBN not visible on the pages read. 152 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The bridge between wireless and wired | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 42–43 |
+| Building a Wireless LAN (practical) | China, *IT Compulsory 2*, Chapter 3 §3.2.7, printed p. 84 |
 
 | A wireless LAN — a LAN without wires (Grade 10 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 60–61 |
 | Access points bridge and repeat — and overlap by 10–15% (Grade 10 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 60–61 |
@@ -16,10 +19,10 @@ countries: Ethiopia
 
 **Book 4:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. First Published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). No ISBN or price printed (both blank on the cover). 122 printed pp. Body printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, China).**
 
 Grown 2026-11-12 (Wave 3, band D2): the Grade 10 depth sections add student placement item 32 — the Grade 10 book returns to the access point one level deeper (WLAN, bridging and repeating, 10–15% overlap, IEEE 802.11, up to 11 Mbps as the book gives it), so the lesson grows rather than duplicates. Book error taught corrected: the student book expands IEEE correctly as the Institute of Electrical and Electronics Engineers in its standards teaching, but elsewhere wrongly as 'International Enterprise for Electronics Engineering'; the grown sections teach the correct expansion and flag the wrong one here. The Grade 10 teacher guide's Unit 2 review keys (guide printed p. 47; guide placement item 31) were used as the verified-answer check for the grown questions.
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
-Searchable tags: WAP, wireless access point, Wi-Fi, Bluetooth, intermediary device, Grade 9 ICT Ethiopia
+Searchable tags: WAP, wireless access point, Wi-Fi, Bluetooth, intermediary device, Grade 9 ICT Ethiopia, china
