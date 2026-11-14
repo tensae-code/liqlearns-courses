@@ -1,0 +1,8 @@
+# Video script — Building a Quiz App — Project
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+A **quiz app** needs four working parts: a set of **questions** with their correct answers, a way to **show** one question and take the learner's answer, a **check** that judges the answer the moment it is given, and a **score** that gathers the results and reports them at the end. Egypt's class builds it as a web application — HTML for the page, CSS for its face, JavaScript for the asking, checking and scoring — with **generative AI** helping to draft code and questions, every suggestion tested before it is trusted. The build order matters: one question working end to end first, then the set, then the score; a quiz that asks one question perfectly is a foundation, a quiz that half-asks ten is a ruin.
+Section 13-8 is not a celebration but a **review**: the class runs its own app as its harshest user. Does a wrong answer explain itself? Can the score be tricked — skipped questions, double answers, empty sends? Is every question fair, unambiguous, and actually about what it claims to test? Each fault found is fixed and the fix re-tested, because the review's rule is the course's rule for all AI-assisted work: **you own what you submit**, so the app is not done when it runs — it is done when its makers can explain every part and defend every question. The chapter then carries exactly this build-review rhythm into the larger block-breaker game.

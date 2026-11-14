@@ -1,6 +1,6 @@
 # Sources — IP addresses — IPv4 and IPv6
 
-countries: Ethiopia, Germany, Nepal, Sudan
+countries: Ethiopia, Germany, Nepal, Sudan, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Germany, Nepal, Sudan
 
 **Book 6:** *تكنولوجيا المعلومات والاتصالات — الصف الأول، المرحلة المتوسطة (Information and Communication Technology, First Grade, Middle Stage), Grade 7* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 7:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Internet Protocol and its address | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 72–73 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Germany, Nepal, Sudan
 | Unit 1 §1.8, Concept of IP Addressing | Nepal, *Computer Science, Class 10*, printed p. 27 |
 | Unit 1 Lesson 2: Network addresses — IP protocol and the IP address | Sudan, *ICT, Grade 6*, printed p. 3 |
 | Unit 3 Lesson 1: The internet (IP) address | Sudan, *ICT, Grade 7*, printed p. 54 |
+| 8-2 IP Addresses and Domain Names | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 99 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Germany, Nepal, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Germany, Nepal, Sudan, Egypt).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -37,4 +40,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Sudan's own way (Grade 7): the middle-stage book spends half its length on one database built step by step in Microsoft Access (tables, relationships, forms, queries, reports on a pupils-and-subjects database), then teaches the internet through Sudanese examples — the DNS lesson resolves the Khartoum Ministry of Education site (moekh.gov.sd).
 
-Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10

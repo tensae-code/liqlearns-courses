@@ -1,6 +1,6 @@
 # Sources — Protocols — the rules devices share
 
-countries: Ethiopia, Germany, Sudan
+countries: Ethiopia, Germany, Sudan, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Germany, Sudan
 
 **Book 5:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 6:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Shared rules for talking machines | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 43 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Germany, Sudan
 | Protokolle und das Schichtenmodell der Kommunikation — protocols and the layered model of communication (Kapitel 3, verified in the chapter's solutions pages) | Germany, *Informatik 5 (Bayern NTG)*, printed p. ~100 |
 | Strand 4, Topic OSI Model, Lessons 1-2: Introduction OSI Model; Functions of the OSI Model (yearly overview) (filed as networks/osi-layers; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 122 (teacher guide — evidence, PARTIAL) |
 | Unit 1 Lesson 2: Network protocols | Sudan, *ICT, Grade 6*, printed p. 3 |
+| 8-3 Communication Protocol | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 101 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Germany, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Germany, Sudan, Egypt).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -33,4 +36,6 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
-Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10

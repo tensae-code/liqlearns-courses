@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,14 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba
 
 **Book 9:** *Informática, onceno grado* (student book, Spanish; title as printed: Informática, onceno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4817-3 (print) / 978-959-13-4818-0 (digital). 134 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 10:** *Computer & Information and Communication Technology — First grade preparatory, First Term 2025-2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 107 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 11:** *Activity and Exercises Book — Computer and ICT, First grade preparatory, First Term 2025/2026* (student book, Arabic — the activities / workbook companion to the Grade 7 Term 1 student book) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 38 PDF pages. Verdict: COMPLETE — workbook mirroring student-book Lessons 1-9 (no activity set for Lesson 10 project). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 12:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 13:** *Information and Communication Technology — The Web Site Design Project, Second Year Secondary, First Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education, Centre for Curriculum & Instructional Materials Development, 2025-2026. No ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the database approach: all logically related data in one shared collection (a database) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
@@ -37,8 +45,12 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba
 | Глава II "База данных", Урок 9 "Понятие о базе данных" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 20 |
 | Урок 10 "Система управления базами данных" (the DBMS) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 23 |
 | Урок 16 "Повторение пройденного материала" (review) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 38 |
+| Lesson 8 Database Design | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 75 |
+| Activity set 8 Databases Design | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 33 |
+| 9-1 Database [1] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 111 |
+| Unit 3, Create a Database for the project | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 61 (PDF page) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba).**
+**Acceptance count: taught in 8 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -57,4 +69,12 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Cuba's own way (Grade 11): Databases are taught from the free-software perspective with SQLite (SQLiteAdministrator), explicitly as preparation for LiveCode; programming deepens into object-oriented, event-driven implementation in LiveCode and closes with the software-engineering development process and an integrative project. The book is dedicated to girls in pre-university, invoking Ada Byron against the stereotype that women cannot program.
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11
+Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs and Applications") of 10 self-assessed lessons, each opening with "I can…" objectives and closing with Learn-by-doing; national platforms are the examples throughout — Digital Egypt platform, InstaPay, IDSC — and a separate Arabic activity booklet mirrors every lesson.
+
+Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued alongside the student book; the student book directs pupils to it by activity number after each sub-topic. The workbook is counted as its own book and mirrors the student book lesson by lesson (Lessons 1–9; no activity set for the Lesson 10 project).
+
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whole term is one production project — an "Illustrated Dictionary of Computer Terms" website — built with Expression Web, HTML and PHP pages over a MySQL database, including a working Add_Term.php page.
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7

@@ -1,0 +1,8 @@
+# Video script — Encryption — Keeping Messages Secret
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+**Encryption** turns a readable message — the **plaintext** — into a scrambled **ciphertext** that reveals nothing to a reader without the secret, using a **method** (the scrambling rule) and a **key** (the secret value the rule is worked with). **Decryption** is the journey back, possible only with the key. The separation is the whole idea: the method may be known to the world — published, taught in schoolbooks — while the key stays secret, so one method serves millions of people, each with their own key, and a message's safety rests on the key's secrecy, not on nobody knowing how scrambling works.
+Encryption is what lets messages cross **untrusted ground** — networks anyone can listen to — and stay private: the listener collects ciphertext and learns nothing. Egypt's pupils meet it as makers, writing a first encryption program in Python next lesson, because making a cipher teaches its limits honestly: a weak method or a short, guessable key falls to patient trying; the key must reach the receiver by some safe road of its own (the problem the course's later key lessons take up); and encryption protects the message's **content**, not its existence — watchers may still see who wrote to whom, and when. Taught this way — idea, making, limits — encryption stops being a spy word and becomes what it is: a tool with a shape, a strength and an edge.

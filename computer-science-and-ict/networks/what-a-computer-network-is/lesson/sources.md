@@ -1,6 +1,6 @@
 # Sources — What a computer network is
 
-countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba
+countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, 
 
 **Book 15:** *Informática, duodécimo grado* (student book, Spanish; title as printed: Informática, duodécimo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5096-1 (print) / 978-959-13-5110-4 (digital). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 16:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two or more computers, linked to share | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 37 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Djibouti, Mozambique, Afghanistan, Yemen, North Macedonia, 
 | Unit 5: Computer Networks and the Internet | Sudan, *ICT, Grade 4*, printed p. 21 |
 | Capítulo 1.4 Las redes de computadoras. Internet | Cuba, *Informática, Grade 7*, printed p. 53 |
 | Capítulo 1.1 Las redes informáticas (concepto, componentes, tipología, protocolos) | Cuba, *Informática, Grade 12*, printed p. 3 |
+| 8-1 Computer Networks (packets) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 95 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba).**
+**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -80,4 +83,6 @@ Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietar
 
 Cuba's own way (Grade 12): The final pre-university year is networks in depth (types, topologies, protocols, Internet services, Web 2.0/Web 3.0 and social networks), then teleformación (distance learning) through the Moodle platform, and bibliographic managers for citations in scientific research — a university-preparation finish.
 
-Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10

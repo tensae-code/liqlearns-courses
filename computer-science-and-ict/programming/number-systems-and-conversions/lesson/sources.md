@@ -1,6 +1,6 @@
 # Sources — Number Systems and Conversions
 
-countries: Montenegro, China, North Macedonia
+countries: Montenegro, China, North Macedonia, Egypt
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
@@ -8,14 +8,21 @@ countries: Montenegro, China, North Macedonia
 
 **Book 3:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 4:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 5:** *Information and Communication Technology — Programming Projects, Third Secondary, Unit One 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education, Centre for Curriculum and Educational Materials Development, 2025-2026. No ISBN printed. 51 PDF pages. Verdict: PARTIAL alone / COMPLETE as a pair — this Arabic file is Unit One of the same Programming Projects book whose Unit Two is the English file filed as Book 10; the two records were listed as parallel language editions but are in fact the two halves of one book. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Decimal, binary and hexadecimal — bases and place values | Montenegro, *Digitalna Elektronika*, Poglavlje I §1.1, Brojni sistemi i kodovi: decimal, binary and hexadecimal number systems, printed p. 8 |
 | Converting between the systems | Montenegro, *Digitalna Elektronika*, Poglavlje I §1.1, Brojni sistemi i kodovi: decimal, binary and hexadecimal number systems, printed p. 8 |
 | 二进制与数制转换 (Binary and Number-System Conversion) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 1 §1.2.2, printed p. 17 |
 | "Number Systems and Conversions" | North Macedonia, *Informatics, Year 2*, Тема 2, printed p. 58 |
+| 6-3 Hexadecimal (filed as first-steps/hexadecimal-numbers; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 59 |
+| Subject 1: Number Systems (decimal, binary, hexadecimal) (filed as first-steps/number-systems-decimal-binary-and-hexadecimal; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *ICT — Programming Projects, Unit One: Number-Systems Conversion Project, Grade 12 (Arabic file)*, printed p. 6 (PDF page) |
+| Subject 1, the hexadecimal system (filed as first-steps/hexadecimal-numbers; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *ICT — Programming Projects, Unit One: Number-Systems Conversion Project, Grade 12 (Arabic file)*, printed p. 6 (PDF page) |
 
-**Acceptance count: taught in 3 countries (Montenegro, China, North Macedonia).**
+**Acceptance count: taught in 4 countries (Montenegro, China, North Macedonia, Egypt).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Programming title (programming/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -29,4 +36,8 @@ North Macedonia's own way (Year 2): a strikingly current first theme (cybersecur
 
 Routing note (North Macedonia, 2026-11-14): north-macedonia-placements.md filed this placement as a NEW lesson, but the slug already exists in the live tree — it was built new by Montenegro from its own book in this same expansion (China also stocked into it). North Macedonia's placement was therefore stocked into this existing lesson rather than the lesson being rebuilt.
 
-Searchable tags: number systems, conversions, binary, decimal, hexadecimal, base, radix, bit, place value, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, china, north macedonia, grade 11
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Egypt's own way (Grade 12 Programming Projects student book, Unit One (Arabic file) — PARTIAL alone / COMPLETE as a pair): Number systems are taught as a production project: learn decimal, binary and hexadecimal, then build the same number-converter program twice — in VB.NET and in PHP. Books 10 and 11 are the two halves of ONE Grade 12 Programming Projects book (Book 10 = Unit Two only, PARTIAL alone; Book 11 = Unit One only, PARTIAL alone / COMPLETE as a pair); the records listed them as parallel editions and say Term 1, but Book 10's inner title page says Second Term.
+
+Searchable tags: number systems, conversions, binary, decimal, hexadecimal, base, radix, bit, place value, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, china, north macedonia, grade 11, egypt, grade 10, grade 12

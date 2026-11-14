@@ -1,6 +1,6 @@
 # Sources — Loops — and the for loop over a sequence
 
-countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan
+countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan
 
 **Book 7:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Computer and Information Technology — Second grade preparatory, Second Term 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 80 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why loops exist — 50 students, one grading block | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
@@ -26,8 +28,9 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan
 | Unit 3 Ch.1 Lesson 1 The concept of repetition and its importance in daily life | Iraq, *Computer, Grade 10*, printed p. 74 |
 | Unit 4, 4-12: Branching by counter in BASIC — FOR...NEXT and STEP | Sudan, *Computer Science, Grade 11*, printed p. 58 |
 | Урок 53 "Оператор цикла с параметром" (the counted loop) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 101 |
+| Unit 4 Lesson 3 Loops and Functions | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 56 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 1: counting introduced as the real-world looping problem — start at 1, add 1, repeat until 100 (guide printed pp. 134–139). All code shapes in this lesson were checked in Python 3. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -42,4 +45,6 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9
+Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from the neuron up — artificial neuron, its role in AI — then Python for data analysis and even encryption with XOR, a depth most countries save for secondary school.
+
+Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8

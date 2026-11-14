@@ -1,0 +1,8 @@
+# Video script — Data Structures and Collections in Python
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Python builds its **collections** into the language. A **list** is ordered and changeable — the course's working collection. A **tuple** is ordered but **fixed** once made — for things that must not drift, like a point's coordinates. A **set** holds **each value once**, unordered — for membership questions ('is this pupil on the list?') where duplicates are noise. A **dictionary** holds **pairs** — a key and its value — so data is found by **name**, not position: pupil → mark, word → meaning. Four shapes, four promises; the data's job chooses among them, and Egypt's pupils meet all four in one lesson so the choice itself is the skill.
+Use follows the question the program must answer. 'The marks **in order**, changeable as corrections arrive' — a list. 'Has this name **already** been entered?' — a set, whose membership test is its whole point. 'The meaning **of this word**' — a dictionary, keyed lookup. The operations rhyme across the family — counting with `len`, looping over members, asking whether something is `in` — so one lesson's habits serve all four; what differs is what each **guarantees**: order, uniqueness, fixity, or naming. The book's Grade 8 placement is the point: collections are not an advanced garnish but the shape data takes in every real program these pupils will write next, from analysing an Excel file to encrypting a message.

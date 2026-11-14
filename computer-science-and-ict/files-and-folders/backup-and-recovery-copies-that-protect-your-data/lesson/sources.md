@@ -1,6 +1,6 @@
 # Sources — Backup and recovery — copies that protect your data
 
-countries: Ethiopia, Tanzania, Sudan
+countries: Ethiopia, Tanzania, Sudan, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Tanzania, Sudan
 
 **Book 6:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
 
+**Book 7:** *Information and Communication Technology — Fifth grade primary, Second Term 2025/2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 44 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — backup and recovery defined, what a backup copies, separate system or medium, the four dangers, restoring | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 20, 22 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Tanzania, Sudan
 | Unit 2, Topic File Management, Lesson 3: Importance of Backup (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 73 (teacher guide — evidence, PARTIAL) |
 | Unit 1, 1-7: Security of files in automated systems — backup copies | Sudan, *Computer Science, Grade 11*, printed p. 6 |
 | Unidad 2.8 Conservación en dispositivos de almacenamiento externos (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher programme — evidence) |
+| Unit 4 Lesson 1, recovering and protecting files | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Sudan, Egypt).**
 
 The backup introduction on the student book's printed p. 20 numbers its first practical steps 4 and 5; those steps belong to the next lesson (Backing up files in Windows), where they are taught in their true order from 1 and the misnumbering is flagged in full. This lesson's pages carry no other error.
 
@@ -33,4 +36,6 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
 
-Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5
+Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organised as themed units — "The Digital Citizen in the Internet World" then "My Digital Project" — with every lesson phrased as a journey or a how-to question.
+
+Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5

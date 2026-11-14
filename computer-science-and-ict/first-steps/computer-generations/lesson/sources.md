@@ -1,6 +1,6 @@
 # Sources — Computer generations — five periods of change
 
-countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan
+countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan
 
 **Book 8:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a generation is | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.1, printed p. 2 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan
 | Strand 5 Unit 1, Topic History of Computers, Lesson 2: Generation of Computers (filed as hardware/generations-of-computers-vacuum-tubes-to-ai; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 52 (teacher guide — evidence, PARTIAL) |
 | Глава III "Компьютеры", Урок 11 "Краткая история развития вычислительной техники" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 50 |
 | Unidad 4.1 Reseña histórica de los medios de cómputo (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
+| 4-1 Development of Information Technology | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 42 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -46,4 +49,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
 
-Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10

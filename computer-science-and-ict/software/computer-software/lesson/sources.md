@@ -1,6 +1,6 @@
 # Sources — Computer software — instructions that make hardware work
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 
 **Book 8:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 9:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What software is — instructions; hardware can do nothing without it; interdependence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.31 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 | Lesson 6: Software (what a program is; the two kinds of software) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 36 |
 | Unit 4 Lesson 1: Types of software — what software and a programmer are | Sudan, *ICT, Grade 6*, printed p. 32 |
 | Глава IV "Операционная система", Урок 17 "Программное обеспечение компьютера" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 74 |
+| 7-2 Computer Software | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -46,4 +49,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10

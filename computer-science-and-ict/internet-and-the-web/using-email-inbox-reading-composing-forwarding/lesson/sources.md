@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq
 
 **Book 8:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 9:** *Computer & Information and Communication Technology — First grade preparatory, First Term 2025-2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 107 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 10:** *Activity and Exercises Book — Computer and ICT, First grade preparatory, First Term 2025/2026* (student book, Arabic — the activities / workbook companion to the Grade 7 Term 1 student book) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 38 PDF pages. Verdict: COMPLETE — workbook mirroring student-book Lessons 1-9 (no activity set for Lesson 10 project). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -31,8 +35,10 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq
 | Lesson 30 Writing and sending an email (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 115 (teacher guide — evidence) |
 | Lesson 32 Receiving and managing emails (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 121 (teacher guide — evidence) |
 | Unit 4 Ch.1 Lesson 2 Email | Iraq, *Computer, Grade 11*, printed p. 119 |
+| Lesson 5, composing and using email | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 42 |
+| Activity set 5 E-mail | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 19 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -44,4 +50,8 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11
+Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs and Applications") of 10 self-assessed lessons, each opening with "I can…" objectives and closing with Learn-by-doing; national platforms are the examples throughout — Digital Egypt platform, InstaPay, IDSC — and a separate Arabic activity booklet mirrors every lesson.
+
+Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued alongside the student book; the student book directs pupils to it by activity number after each sub-topic. The workbook is counted as its own book and mirrors the student book lesson by lesson (Lessons 1–9; no activity set for the Lesson 10 project).
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7

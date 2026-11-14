@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba
+countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 
 **Book 20:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 21:** *Computer & Information and Communication Technology — First grade preparatory, First Term 2025-2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 107 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 22:** *Activity and Exercises Book — Computer and ICT, First grade preparatory, First Term 2025/2026* (student book, Arabic — the activities / workbook companion to the Grade 7 Term 1 student book) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 38 PDF pages. Verdict: COMPLETE — workbook mirroring student-book Lessons 1-9 (no activity set for Lesson 10 project). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -66,8 +70,10 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 | Урок 3 "Операционная система Windows" | Uzbekistan, *Informatika, Grade 5*, printed p. 13 |
 | Урок 19 "Понятие «операционная система»" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 81 |
 | Capítulo 2.1 Sistema operativo (Windows propietario frente a Nova libre) | Cuba, *Informática, Grade 7*, printed p. 71 |
+| Lesson 3 Operating Systems (OS by device: PC, mobile, servers, consoles, smart TVs, wearables, cars, ATMs/POS, industrial control) | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 19 |
+| Activity set 3 Operating Systems | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 10 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba).**
+**Acceptance count: taught in 13 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -98,4 +104,8 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7
+Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs and Applications") of 10 self-assessed lessons, each opening with "I can…" objectives and closing with Learn-by-doing; national platforms are the examples throughout — Digital Egypt platform, InstaPay, IDSC — and a separate Arabic activity booklet mirrors every lesson.
+
+Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued alongside the student book; the student book directs pupils to it by activity number after each sub-topic. The workbook is counted as its own book and mirrors the student book lesson by lesson (Lessons 1–9; no activity set for the Lesson 10 project).
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7

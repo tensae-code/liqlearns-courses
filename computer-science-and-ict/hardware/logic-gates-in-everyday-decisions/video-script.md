@@ -1,0 +1,8 @@
+# Video script — Logic Gates in Everyday Decisions
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Many everyday decisions are **logic in disguise**. 'You may enter the lab **if** you have your card **AND** the teacher is present' is an AND gate wearing words: both inputs true, or no entry. 'The alarm sounds if smoke **OR** heat is detected' is an OR: either input fires it. 'No entry while the exam is **NOT** finished' is a NOT. Writing a tangled real rule as gates — inputs named, gate chosen, output stated — exposes what the sentence hides: which conditions are truly required, which are alternatives, and which combinations nobody has thought about. Egypt ends the gates unit here because a pupil who can do this owns the gates; one who can only draw them, rents them.
+Once a decision is written as gates, its **truth table** can be built like any circuit's: every combination of inputs, and the output the rule gives. The table is a **pre-mortem** for the decision — the row nobody considered (card forgotten **and** teacher absent **and** deadline today) shows its output before life does. The book's discipline is the engineer's: state the inputs honestly (a condition that is sometimes true is an input, not a certainty), keep the model small enough to check whole, and remember the model's limit — real life adds inputs the table never listed, so the table guides judgement, it does not replace it. The Grade 12 course closes its projects this way: number systems and gates, built twice in code, finally spent on thinking.

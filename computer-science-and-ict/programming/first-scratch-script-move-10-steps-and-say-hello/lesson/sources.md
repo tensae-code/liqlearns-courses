@@ -1,6 +1,6 @@
 # Sources — First Scratch script — move 10 steps and say hello
 
-countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan
+countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan
 
 **Book 9:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 10:** *Computer & Information and Communication Technology — First grade preparatory, Second Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 76 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The first script built in the book's order — Events, then Motion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 231–232 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan
 | Unit 3 Ch.2 Lesson 5 Worked examples in Scratch | Iraq, *Computer, Grade 7*, printed p. 110 |
 | U.D.1 Séance 1 Faire avancer un sprite (1) (forwards and backwards) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 12 (teacher guide — evidence) |
 | Unit 4 Lesson 1: Introduction to the Scratch language | Sudan, *ICT, Grade 9*, printed p. 56 |
+| Lesson 4 Scratch | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 37 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
@@ -45,4 +48,6 @@ Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the int
 
 Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
 
-Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4, sudan, grade 9
+Egypt's own way (Grade 7, Term 2 student book): Term 2 pivots from applications to computing itself — AI, sensors and robots, then a Scratch-to-Python bridge in the same term.
+
+Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4, sudan, grade 9, egypt, grade 7

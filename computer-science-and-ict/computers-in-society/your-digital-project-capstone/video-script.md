@@ -1,0 +1,8 @@
+# Video script — Your Digital Project — Capstone
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+A **capstone project** proves the whole term in one artefact. Planning starts from a single clear **goal**: what will the finished project show or do, and who is it for? Against that goal the pupil lists what the term has supplied — a database designed and queried, documents and presentations made, material stored and shared through the cloud, a meeting held online — and chooses which of them the project genuinely needs. Egypt's book closes each earlier lesson by pointing into its activity booklet, and the project is where those practised pieces are assembled for real: the plan names the parts, the order of making them, and how the pupil will know each part is finished.
+Building follows the plan part by part, and **checking** is built in, not bolted on: each part is tested as it is finished — the query returns the right records, the shared link opens for a partner, the slides read clearly — because a fault found early is cheap and a fault found at presentation is not. The finished project is then **presented**: the pupil shows what it does, says what each part is for, and answers questions about the choices made. Egypt frames the whole term this way — self-assessed lessons, an activity booklet mirroring them, and a closing project — so the project's real subject is the pupil's own judgement: choosing tools for a purpose and standing behind the result.

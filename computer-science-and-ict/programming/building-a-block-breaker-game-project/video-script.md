@@ -1,0 +1,8 @@
+# Video script — Building a Block Breaker Game — Project
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+A **block breaker** is a small system with named parts: a **paddle** the player moves, a **ball** that flies and bounces, **bricks** that break when the ball strikes them, and **rules** that bind them — bounce angles, a score for bricks, lives lost when the ball passes the paddle. Egypt develops it in **two parts** because a game is built in working slices: first the field, paddle and moving ball — the game exists; then bricks, collisions, score and lives — the game is a game. Each part ends running. Nothing is added to a broken foundation: a fault in the bounce found in part one is a lesson; the same fault found under part two's bricks is an excavation.
+The project's last two sections turn builders into authors. The **summary** requires the makers to say, in order, what was built, how each part works, and what the hard problems were and how they fell — a test no copied code can pass. The **development presentation** then defends the game before an audience: demonstrate it live, explain the choices (why this speed, this scoring, this control), and answer questions. With generative AI woven through the course's projects, this closing ritual is the point of the whole chapter: the game may have had machine help in the making, but its makers leave the course able to explain, summarise and present it as **their own work** — the standard Egypt sets for every project in the book.

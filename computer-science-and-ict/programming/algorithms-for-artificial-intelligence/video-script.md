@@ -1,0 +1,8 @@
+# Video script — Algorithms for Artificial Intelligence
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+An ordinary program's algorithm settles its problem completely: sort this, total that. **AI algorithms** work where the rules cannot all be written down — recognising a face, predicting a mark, choosing a move. Their shared shape is the course's own: **inputs** (the data), **steps** (the procedure), **outputs** (a prediction, a classification, a decision) — but the steps are built to **handle cases nobody enumerated**, by following a pattern extracted from examples rather than a rule for every case. Egypt teaches this inside the Python unit deliberately: the pupil is about to write algorithms, and should know which kind AI's are before writing their own.
+Three families carry the lesson. **Search** algorithms find a path or a best move by trying possibilities in an order — the game's next step, the route through a maze. **Prediction** algorithms apply a fitted pattern to new data — this pupil, on this evidence, is heading for that grade; the course's own Grade 9 prediction lesson uses exactly one. **Learning** algorithms adjust their own pattern from results, improving as examples accumulate — the family the machine-learning lessons open up. Naming the family matters because each fails differently: search explodes when possibilities multiply, prediction inherits its data's blind spots, and learning is only as honest as the results it is fed.

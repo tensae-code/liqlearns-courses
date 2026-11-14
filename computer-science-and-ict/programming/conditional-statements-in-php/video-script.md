@@ -1,0 +1,8 @@
+# Video script — Conditional Statements in PHP
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+A PHP page without conditions does the same thing for every request; most real pages must **decide**. The **if statement** runs its block only when its condition is true, **else** offers the other road, and **elseif** chains further choices — the same add-decide pattern this course teaches in every language, now wearing PHP's clothes and standing in a web page. In the dictionary project the decisions are the site's manners: **if** the submitted term is empty, refuse it with a message; **else if** the term already exists, say so; **else** store it and confirm. Each branch is a promise the site makes about one case — and the cases must cover the world the page will actually meet.
+Web conditions have their own daily family. **Presence**: was this field sent at all, and is it empty? **Equality and comparison**: does this term already exist in the table; is this number in range? **Permission**: is this visitor the authorised user allowed to add — the condition that separates the Add_Term page's public face from its working face. The faults are the family's too: a condition written `=` where `==` was meant (assigning instead of comparing), branches in the wrong order so the general case swallows the specific one, and the case nobody wrote a branch for arriving on the first day. Egypt teaches conditionals inside the project, at the moment the pages first need to judge, because a conditional is only understood when something real depends on the branch taken.

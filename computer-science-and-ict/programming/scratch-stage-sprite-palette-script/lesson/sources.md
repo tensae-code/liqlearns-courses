@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba
 
 **Book 17:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 18:** *Computer & Information and Communication Technology — First grade preparatory, Second Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 76 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -61,8 +63,10 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba
 | Unidad 4.1 Entorno: bandera verde, botón parar, escenario, coordenadas, modo presentación (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 19 (teacher programme — evidence) |
 | Capítulo 3.1 Entorno de la ventana Scratch, partes fundamentales | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 81 |
 | Capítulo 4.1 Ingredientes básicos de un proyecto de Scratch | Cuba, *Informática, Grade 7*, printed p. 136 |
+| Lesson 4, the Scratch stage, sprites and script area | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 37 |
+| Lesson 5 Sprites Area in Scratch | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 50 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba).**
+**Acceptance count: taught in 8 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
@@ -92,4 +96,6 @@ Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; w
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7
+Egypt's own way (Grade 7, Term 2 student book): Term 2 pivots from applications to computing itself — AI, sensors and robots, then a Scratch-to-Python bridge in the same term.
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7

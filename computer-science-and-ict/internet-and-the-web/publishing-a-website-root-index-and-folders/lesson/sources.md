@@ -1,6 +1,6 @@
 # Sources — Publishing a website — root, index and folders
 
-countries: Ethiopia, Belarus, Cuba
+countries: Ethiopia, Belarus, Cuba, Egypt
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Belarus, Cuba
 
 **Book 4:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 5:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
+**Book 6:** *Information and Communication Technology — The Web Site Design Project, Second Year Secondary, First Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education, Centre for Curriculum & Instructional Materials Development, 2025-2026. No ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What publishing is, and the root directory | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 4, printed pp. 125–126 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Belarus, Cuba
 | Publishing keyed on ethiopia.gov.et — address in full and short forms, root directory, sub-directories, media/image directory and home page file identified (Activity 4.9 answers, filed under §4.3) (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 4, printed pp. 93–94 |
 | § 5.5 "Публікацыя сайта" (publishing the site) | Belarus, *Інфарматыка. 11 клас*, § 5.5, printed p. 61 |
 | Capítulo 3.6 Creando páginas web con un procesador de textos (exportar a HTML) | Cuba, *Informática, Grade 7*, printed p. 132 |
+| 13-6 Presenting Your Website | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 192 |
+| Unit 3 Creating Site Pages | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 57 (PDF page) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Cuba).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Cuba, Egypt).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -26,4 +32,8 @@ The ethiopia.gov.et working is teacher evidence (guide, printed pp. 93–94): it
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: publishing a website, root directory, index.html, home page, pages folder, images folder, CSS folder, scripts folder, ethiopia.gov.et, Grade 12 ICT Ethiopia, belarus, cuba, grade 7
+Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
+
+Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whole term is one production project — an "Illustrated Dictionary of Computer Terms" website — built with Expression Web, HTML and PHP pages over a MySQL database, including a working Add_Term.php page.
+
+Searchable tags: publishing a website, root directory, index.html, home page, pages folder, images folder, CSS folder, scripts folder, ethiopia.gov.et, Grade 12 ICT Ethiopia, belarus, cuba, grade 7, egypt, grade 10, grade 11

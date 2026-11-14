@@ -985,3 +985,23 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **New Technologies** (ICT expansion, from Cuba): Web 2.0 and Web 3.0 — Evolution of the Web
 
 **Computers in Society** (ICT expansion, from Cuba): Moodle as a Teleformación Platform · Bibliographic Managers for Citations and References
+
+**Hardware** (ICT expansion, from Egypt): Logic Gates in Everyday Decisions
+
+**Spreadsheets** (ICT expansion, from Egypt): Variance and Standard Deviation · Scatter Plots and Correlation · Regression Analysis and the Regression Line
+
+**Internet and the Web** (ICT expansion, from Egypt): Building My School Website — the Digital Project · Building Pages with Expression Web · Checking Information Is Reliable · JavaScript — Making Pages Interactive · Website Project — Requirements and Production Stages
+
+**Networks** (ICT expansion, from Egypt): Network Transfer Speed and Bandwidth
+
+**Multimedia** (ICT expansion, from Egypt): Information Design — Making Information Clear · Video Digitisation and Compression
+
+**Databases** (ICT expansion, from Egypt): Creating a Database in MySQL · Adding Records Through a Web Form — the Add_Term Page
+
+**Programming** (ICT expansion, from Egypt): Algorithms for Artificial Intelligence · Working with Strings and Lists in Python · Handling Input Errors with Try and Except · Data Structures and Collections in Python · Encrypting Messages with XOR in Python · Queues and Waiting Lines · PHP for Dynamic Web Pages · Conditional Statements in PHP · Building a Quiz App — Project · Building a Block Breaker Game — Project · Simulating Logic Gates in VB.NET · Simulating Logic Gates in PHP · Building a Number Converter in VB.NET · Building a Number Converter in PHP
+
+**Safety, Security and Care** (ICT expansion, from Egypt): Deepfakes — AI-Made Fake Images and Video · Encryption — Keeping Messages Secret
+
+**Computers in Society** (ICT expansion, from Egypt): Media Literacy and Types of Media · Disclosure and Use of Personal Information · Your Digital Project — Capstone · From an Idea to a Digital Project
+
+**New Technologies** (ICT expansion, from Egypt): Sensors in Daily Life · Technology for Safety and Disaster Prevention · Generative AI — What It Is and How to Use It · Creating a Website with AI Help
