@@ -1,6 +1,6 @@
 # Sources — Measuring: volume and displacement
 
-countries: Ethiopia, Slovenia, North Macedonia, Moldova
+countries: Ethiopia, Slovenia, North Macedonia, Moldova, Finland
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Slovenia, North Macedonia, Moldova
 
 **Book 10:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 11:** *Luova LUMA -hankkeen aktiviteettipankki* (early-years activity collection) — Finland, Luova LUMA project, Tampere University of Applied Sciences (TAMK), Finland. Title as printed: Luova LUMA -hankkeen aktiviteettipankki. Publisher: Luova LUMA project, Tampere University of Applied Sciences (TAMK), Finland. PDF 24 pages. Verdict: COMPLETE (15 numbered activities, contents p. 2). Records: the Finland file carries 4 target records (2 TSV + 2 books.json) for 2 distinct books; this activity bank's books.json record is the same book as its TSV record (identical byte size 7,259,705 B / 24 pp, verified through the earlier readers' fetch inventory), cited once here. Hosted on Finland's national AOE learning-materials library, filed under Grade 1 in the records; it is not a school textbook series — it is a bank of hands-on science activities for early-childhood education (roughly ages 1–6), each with materials, a story or procedure and the science idea. Read in full. Page numbers are the PDF page numbers, which match the activity bank's own contents page. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/finland-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The displacement experiment | Ethiopia, *Grade 4 Student Textbook*, printed pp. 50–51 |
@@ -17,9 +19,10 @@ countries: Ethiopia, Slovenia, North Macedonia, Moldova
 | Density, pressure and buoyancy: Ploščina (Area); Prostornina in masa (Volume and mass) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Ploščina (Area) — printed p. 182 (unit folder 158); Prostornina in masa (Volume and mass) — printed p. 188 (unit folder 160) |
 | Theme 1 §1.3: measuring volume (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 1 §1.3: measuring volume — printed p. 20 |
 | Unit II §§2.4–2.6: area and volume; laboratory works measuring the volume of a rectangular block and of an irregular body (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit II §§2.4–2.6: area and volume; laboratory works measuring the volume of a rectangular block and of an irregular body — printed pp. 21, 24, 25 |
+| Activity 7 — measuring task: measuring amounts of liquid and the volumes of vessels (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 7 — LUMA Activities, p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, North Macedonia, Moldova).**
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, North Macedonia, Moldova, Finland).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148), cited exactly as its placements header gives it. Carried item — see the honesty note in Measuring: traditional and modern measures.
 
-Searchable tags: volume ይዘት ምድገት, displacement, graduated cylinder, cubic metre centimetre, litre, north macedonia
+Searchable tags: volume ይዘት ምድገት, displacement, graduated cylinder, cubic metre centimetre, litre, north macedonia, finland, luova luma, measuring amounts of liquid, volumes of vessels

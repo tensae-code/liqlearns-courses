@@ -30,7 +30,17 @@ The titles, in ladder order:
    then the inside systems (breathing, heart, digestion, brain,
    kidneys, liver) as the books climb.
 4. **Materials** — telling things apart by how they look, feel,
-   taste and smell; things that break, things that stretch.
+   taste and smell; things that break, things that stretch. The
+   General Science expansion (2026-11-13) adds Finland's four
+   lessons — the candle trick — air and burning (a flame under a
+   glass goes out when its trapped air is used up), colours
+   dancing in milk — surface tension (soap breaks the milk's
+   surface film and chases the fat), heat paints colours —
+   bilberry indicator (bilberry juice changes colour in warm and
+   cold water — Finland's own way, using a local berry), and sand
+   flowing — and what changes it (dry sand pours grain over grain,
+   and what affects its flowing is found by changing one thing at
+   a time and comparing pours) — 58 lessons in CURRICULUM.md Unit 4.
 5. **Light** — things light passes through, things that block it,
    shadows, and where light comes from.
 6. **Weather and Seasons** — today's weather, the long pattern
