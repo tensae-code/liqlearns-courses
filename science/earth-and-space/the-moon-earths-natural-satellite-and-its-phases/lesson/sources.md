@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -570,3 +570,23 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth-and-space the-moon-earths-natural-satellite-and-its-phases
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon shines by the Sun's light, has no life; Apollo exploration 1969–1972; lunar phases about a week apart and their influence on tides, farming and living things (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed pp. 162–169 |
+
+**Book (Nicaragua — Grade 8):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Octavo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla del Carmen Morales Sandino; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 276 pages, 65,699,125 bytes. Verdict: COMPLETE (printed pp. 2–268, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-08/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 8 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell reproduction: mitosis, meiosis, aneuploidy syndromes, cell cycle and cancer) is the Biology wave's strand — chapter-level line, already covered by the earlier Biology wave; Unit IX (periodic table) is the Chemistry wave's strand and Unit X (uniform rectilinear motion) the Physics wave's strand — chapter-level lines for those two as well, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon: Earth's only natural satellite, orbiting at a mean 384,392 km, rotating and revolving; the four weeks of phases to the last quarter (cuarto menguante) (Nicaragua, Grade 8) | Nicaragua, *Ciencias Naturales, Octavo grado*, printed pp. 156–158 |
+
+**Acceptance count: taught in 31 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space the-moon-earths-natural-satellite-and-its-phases

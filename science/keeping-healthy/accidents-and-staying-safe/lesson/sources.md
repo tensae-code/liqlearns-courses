@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -560,3 +560,29 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keeping-healthy accidents-and-staying-safe
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| prevention measures when using work tools and equipment (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed p. 14 |
+
+**Book (Nicaragua — Grade 7):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Séptimo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla de la Concepción Barbosa Toribio; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 244 pages, 95,562,252 bytes. Verdict: COMPLETE (printed pp. 2–236, Units I–XI plus glossary and bibliography). Records: TSV blob record and books.json record grade-07/gov/nicaragua/natural-sciences/student/full-year.pdf. The file is NOT in the GitHub repo at that path (tree 404; the only Grade 7 oversized release asset is a different, larger file); the byte size matches exactly the pre-existing staging record ("Lcienciasnaturales7mo", size_bytes 95,562,252), and the book was read from the record's MINED source_url and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/lcienciasnaturales7mo-pdf.pdf under the 2026-11-13 rule. See the group log. Not the same as the Grade 7 Módulo Autoformativo, filed separately below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| spinal deviations drawn: scoliosis, lordosis, kyphosis vs correct posture; hygiene measures for the bone-muscle system (Nicaragua, Grade 7) | Nicaragua, *Ciencias Naturales, Séptimo grado*, printed p. 104 |
+
+**Book (Nicaragua — Grade 7 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo, Ciencias Naturales, Séptimo Grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 216 pages, 90,174,474 bytes — exactly the size_bytes of its books.json record. Verdict: COMPLETE (Units I–VII, printed pp. 1–199, plus glossary and bibliography). Records: books.json record grade-07/gov/nicaragua/natural-science/modulo-ciencias-7mo-interno-editado-pdf.pdf (in_pushed: false). The book was downloaded from the record's MINED source_url because it is not in GitHub, read, and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/modulo-ciencias-7mo-interno-editado-pdf.pdf under the 2026-11-13 rule. See the group log. Overlap: the module parallels the Grade 7 textbook (filed above) — scientific thinking and tools, the cell, protégés, invertebrates, environment law, anatomy, sexuality and matter. Only content the module adds, extends or treats in its own way is placed below; the shared substance is filed under the textbook. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| diseases of the bone-muscle system in the module's table: sprain, muscular atrophy and hypertrophy defined (Nicaragua, Grade 7 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, Séptimo grado*, printed p. 141 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Turkey, Suriname, Uganda, Bulgaria, Cuba, Seychelles, Ecuador, Afghanistan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy accidents-and-staying-safe

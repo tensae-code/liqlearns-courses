@@ -1,6 +1,6 @@
 # Sources — Reproduction, puberty and staying safe
 
-countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola, Dominican Republic, Kuwait, Eritrea, Rwanda, Bangladesh, Yemen, Vietnam
+countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola, Dominican Republic, Kuwait, Eritrea, Rwanda, Bangladesh, Yemen, Vietnam, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -213,3 +213,53 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body reproduction-puberty-and-staying-safe
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sex is given by nature (born male or female); gender is learned and can be educated and changed (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed p. 62 |
+
+**Book (Nicaragua — Grade 5):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 5to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Irma de los Ángeles Zapata Aguilar, Brígida del Carmen Urbina Ríos, Yulivia Eunice (et al.). PDF 168 pages, 6,219,480 bytes. Verdict: COMPLETE (printed pp. 7–166, Units 1–10 plus bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-05/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| adolescent pregnancy threatens the health and life of mother and child because the body is not fully developed; most pregnant adolescents drop out (Nicaragua, Grade 5) | Nicaragua, *Ciencias Naturales, 5to grado*, printed pp. 55–56 |
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| causes of adolescent pregnancy named: unprotected sex, early marriage, traditional gender roles (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed p. 64 |
+
+**Book (Nicaragua — Grade 8):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Octavo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla del Carmen Morales Sandino; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 276 pages, 65,699,125 bytes. Verdict: COMPLETE (printed pp. 2–268, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-08/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 8 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell reproduction: mitosis, meiosis, aneuploidy syndromes, cell cycle and cancer) is the Biology wave's strand — chapter-level line, already covered by the earlier Biology wave; Unit IX (periodic table) is the Chemistry wave's strand and Unit X (uniform rectilinear motion) the Physics wave's strand — chapter-level lines for those two as well, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| early pregnancy in a story and its real causes: lack of family affection and communication; school counselling (consejería escolar) in every school; motherhood and fatherhood are adult roles (Nicaragua, Grade 8) | Nicaragua, *Ciencias Naturales, Octavo grado*, printed pp. 144–147 |
+
+**Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the WHO defines adolescence as 10–19 years; adolescent pregnancy risks; sexual and reproductive rights joined to the right to health (Nicaragua, Grade 9) | Nicaragua, *Ciencias Naturales, Noveno grado*, printed pp. 145–147 |
+
+**Book (Nicaragua — Grade 4):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Libro de Texto, 4to grado, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Brígida del Carmen Urbina Ríos and Patricia Isabel Paiz Blanco. PDF 118 pages, 2,907,972 bytes. Verdict: COMPLETE (printed pp. 2–110, Units 1–9 plus bibliography). Record: books.json only (grade-04/gov/nicaragua/natural-sciences/student/full-year.pdf). The file is NOT in the GitHub repo (no tree entry, no release asset — verified by full release census); it was read from the record's MINED source_url and, under the 2026-11-13 rule, staged (not deleted) at ~/workspace/phase3-staging/grade-04/gov/nicaragua/natural-science/ccnn-4to-grado-baja-pdf.pdf, where a matching books.json record already existed ("CCNN 4to grado BAJA", size_bytes 2,907,972 — byte-identical size to the downloaded file). See the group log, "Staged under the new rule". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sex, gender and sexuality are not the same: sex is the biological component, gender and the social component come from culture and socio-economic surroundings (Nicaragua, Grade 4) | Nicaragua, *Ciencias Naturales, 4to grado*, printed pp. 25–26 |
+
+**Book (Nicaragua — Grade 7):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Séptimo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla de la Concepción Barbosa Toribio; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 244 pages, 95,562,252 bytes. Verdict: COMPLETE (printed pp. 2–236, Units I–XI plus glossary and bibliography). Records: TSV blob record and books.json record grade-07/gov/nicaragua/natural-sciences/student/full-year.pdf. The file is NOT in the GitHub repo at that path (tree 404; the only Grade 7 oversized release asset is a different, larger file); the byte size matches exactly the pre-existing staging record ("Lcienciasnaturales7mo", size_bytes 95,562,252), and the book was read from the record's MINED source_url and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/lcienciasnaturales7mo-pdf.pdf under the 2026-11-13 rule. See the group log. Not the same as the Grade 7 Módulo Autoformativo, filed separately below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sexual abuse of children and adolescents is a form of mistreatment affecting their whole present and future life (Nicaragua, Grade 7) | Nicaragua, *Ciencias Naturales, Séptimo grado*, printed p. 131 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola, Dominican Republic, Kuwait, Eritrea, Rwanda, Bangladesh, Yemen, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, the-human-body reproduction-puberty-and-staying-safe

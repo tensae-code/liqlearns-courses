@@ -1,6 +1,6 @@
 # Sources — Planetary motion — ellipses and Kepler's laws
 
-countries: Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica, Bhutan
+countries: Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica, Bhutan, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -87,3 +87,17 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class viii
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 5):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 5to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Irma de los Ángeles Zapata Aguilar, Brígida del Carmen Urbina Ríos, Yulivia Eunice (et al.). PDF 168 pages, 6,219,480 bytes. Verdict: COMPLETE (printed pp. 7–166, Units 1–10 plus bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-05/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| planets' orbits are ellipses, nearly circular except Mercury, lying near one plane, the ecliptic (Nicaragua, Grade 5) | Nicaragua, *Ciencias Naturales, 5to grado*, printed p. 164 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica, Bhutan, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space planetary-motion-ellipses-and-keplers-laws

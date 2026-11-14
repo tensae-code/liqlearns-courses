@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -310,3 +310,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space inside-th
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space inside-the-earth-crust-mantle-core
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 7):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Séptimo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla de la Concepción Barbosa Toribio; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 244 pages, 95,562,252 bytes. Verdict: COMPLETE (printed pp. 2–236, Units I–XI plus glossary and bibliography). Records: TSV blob record and books.json record grade-07/gov/nicaragua/natural-sciences/student/full-year.pdf. The file is NOT in the GitHub repo at that path (tree 404; the only Grade 7 oversized release asset is a different, larger file); the byte size matches exactly the pre-existing staging record ("Lcienciasnaturales7mo", size_bytes 95,562,252), and the book was read from the record's MINED source_url and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/lcienciasnaturales7mo-pdf.pdf under the 2026-11-13 rule. See the group log. Not the same as the Grade 7 Módulo Autoformativo, filed separately below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's inner structure: the nucleus is very dense iron, nickel and sulphur, like the troilite rock found in meteorites (Nicaragua, Grade 7) | Nicaragua, *Ciencias Naturales, Séptimo grado*, printed p. 148 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space inside-the-earth-crust-mantle-core

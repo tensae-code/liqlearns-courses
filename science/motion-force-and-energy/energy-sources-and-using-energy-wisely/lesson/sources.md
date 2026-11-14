@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Saudi Arabia
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Saudi Arabia, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -665,3 +665,29 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, motion-force-and-energy energy-sources-and-using-energy-wisely
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| electricity in the country's development; saving electricity and using appliances safely (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed pp. 139–142 |
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| preventive measures and saving in the use of electric energy (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed p. 168 |
+
+**Book (Nicaragua — Grade 4):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Libro de Texto, 4to grado, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Brígida del Carmen Urbina Ríos and Patricia Isabel Paiz Blanco. PDF 118 pages, 2,907,972 bytes. Verdict: COMPLETE (printed pp. 2–110, Units 1–9 plus bibliography). Record: books.json only (grade-04/gov/nicaragua/natural-sciences/student/full-year.pdf). The file is NOT in the GitHub repo (no tree entry, no release asset — verified by full release census); it was read from the record's MINED source_url and, under the 2026-11-13 rule, staged (not deleted) at ~/workspace/phase3-staging/grade-04/gov/nicaragua/natural-science/ccnn-4to-grado-baja-pdf.pdf, where a matching books.json record already existed ("CCNN 4to grado BAJA", size_bytes 2,907,972 — byte-identical size to the downloaded file). See the group log, "Staged under the new rule". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| saving electricity: low-consumption bulbs, switching off lights, using natural light (Nicaragua, Grade 4) | Nicaragua, *Ciencias Naturales, 4to grado*, printed p. 97 |
+
+**Acceptance count: taught in 38 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab, Bangladesh, Saudi Arabia, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, motion-force-and-energy energy-sources-and-using-energy-wisely

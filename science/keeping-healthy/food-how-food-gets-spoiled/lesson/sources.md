@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen, Vietnam
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -338,3 +338,30 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keeping-healthy food-how-food-gets-spoiled
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food hygiene: hand washing and clean preparation of the food we eat (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed p. 70 |
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food additives: antioxidants such as ascorbic acid and BHA stop fruit darkening and protect fats; not all additives are dangerous — some fight bacteria (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed pp. 75–78 |
+
+**Book (Nicaragua — Grade 4):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Libro de Texto, 4to grado, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Brígida del Carmen Urbina Ríos and Patricia Isabel Paiz Blanco. PDF 118 pages, 2,907,972 bytes. Verdict: COMPLETE (printed pp. 2–110, Units 1–9 plus bibliography). Record: books.json only (grade-04/gov/nicaragua/natural-sciences/student/full-year.pdf). The file is NOT in the GitHub repo (no tree entry, no release asset — verified by full release census); it was read from the record's MINED source_url and, under the 2026-11-13 rule, staged (not deleted) at ~/workspace/phase3-staging/grade-04/gov/nicaragua/natural-science/ccnn-4to-grado-baja-pdf.pdf, where a matching books.json record already existed ("CCNN 4to grado BAJA", size_bytes 2,907,972 — byte-identical size to the downloaded file). See the group log, "Staged under the new rule". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food conservation: pickling (encurtido) in vinegar, curing, smoking and salting (salazón) (Nicaragua, Grade 4) | Nicaragua, *Ciencias Naturales, 4to grado*, printed pp. 33–34 |
+| food storage forms that protect food; food hygiene routines when handling food, since food can transmit disease (Nicaragua, Grade 4) | Nicaragua, *Ciencias Naturales, 4to grado*, printed pp. 35–36 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Pakistan (Punjab, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy food-how-food-gets-spoiled

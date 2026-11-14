@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -216,3 +216,23 @@ Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space small-bodies-asteroids-comets-and-shooting-stars
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| satellites are opaque bodies orbiting a primary planet (Venus and Mercury have none); nebulae: diffuse luminous cosmic clouds, the Orion nebula (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed pp. 180–181 |
+
+**Book (Nicaragua — Grade 8):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Octavo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla del Carmen Morales Sandino; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 276 pages, 65,699,125 bytes. Verdict: COMPLETE (printed pp. 2–268, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-08/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 8 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell reproduction: mitosis, meiosis, aneuploidy syndromes, cell cycle and cancer) is the Biology wave's strand — chapter-level line, already covered by the earlier Biology wave; Unit IX (periodic table) is the Chemistry wave's strand and Unit X (uniform rectilinear motion) the Physics wave's strand — chapter-level lines for those two as well, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| asteroids: smaller than a planet, bigger than a meteorite, most in semi-stable orbits; artificial satellites help navigation, mapping and predicting cyclones (Nicaragua, Grade 8) | Nicaragua, *Ciencias Naturales, Octavo grado*, printed pp. 170–172 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space small-bodies-asteroids-comets-and-shooting-stars

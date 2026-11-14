@@ -1,6 +1,6 @@
 # Sources — Fossils — evidence of life and environments long ago
 
-countries: United States, Cuba, Egypt, Afghanistan
+countries: United States, Cuba, Egypt, Afghanistan, Nicaragua
 
 **Book (United States — Utah Grade 4):** *Utah OER Science Textbook – Grade 4* (student book) — United States. Title as printed: "4th Grade Science for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 47,838,490 bytes (matches repo size), 156 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -62,3 +62,19 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 4 countries (United States, Cuba, Egypt, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, earth-and-space fossils-evidence-of-life-and-environments-long-ago
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fossils as proof of evolution: petrification under earth, sand and marine sediment; fossils also show ancient climates — filed as NEW LESSON NEEDED — fossils-evidence-of-past-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed pp. 195–198 |
+
+Placement choice, on the record: the Nicaragua placement(s) above filed as NEW LESSON NEEDED — "fossils-evidence-of-past-life" — nicaragua-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 5 countries (United States, Cuba, Egypt, Afghanistan, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space fossils-evidence-of-life-and-environments-long-ago

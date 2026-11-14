@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -673,3 +673,31 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body parts-of-the-body-and-the-five-senses
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sight: the eye and its protectors (brows, lashes); myopia corrected with lenses (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed pp. 37–39 |
+| smell, the most sensitive sense; the common cold as its disease (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed pp. 46–48 |
+| taste: taste buds send sweet, acid, salty and bitter to the brain through the gustatory nerves (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed pp. 49–51 |
+
+**Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| taste and smell together: the nose also filters, warms and moistens air as part of the airway; diseases of smell: rhinitis and hay fever (Nicaragua, Grade 9) | Nicaragua, *Ciencias Naturales, Noveno grado*, printed pp. 112–115 |
+
+**Book (Nicaragua — Grade 9 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 9no grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén, Julio César Canelo Castillo and Rosalía Ríos Rivas. PDF 308 pages, 106,451,793 bytes. Verdict: COMPLETE (printed pp. 1–300, Units I–IV plus glossary and bibliography). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-09/gov/nicaragua/natural-science/ccnn-9-grado-editado.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 9 textbook (different authors, self-study format); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. Units IV (chemical bonding, nomenclature and motions) are the Chemistry/Physics waves' strands — chapter-level lines, already covered by the earlier waves. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the tongue's papillae by type, including coroliform papillae covering most of the tongue; the olfactory bulb codes smell information for the brain; a diseases-of-the-senses table (tobacco smoke dulling taste) (Nicaragua, Grade 9 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 9no grado*, printed pp. 105–110 |
+
+**Acceptance count: taught in 30 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, the-human-body parts-of-the-body-and-the-five-senses

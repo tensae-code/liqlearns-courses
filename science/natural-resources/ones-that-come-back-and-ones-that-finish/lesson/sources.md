@@ -1,6 +1,6 @@
 # Sources — Ones that come back and ones that finish
 
-countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia
+countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -382,3 +382,29 @@ Searchable tags: yemen, yemen science, ministry of education yemen, natural-reso
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, natural-resources ones-that-come-back-and-ones-that-finish
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| some natural resources are renewable and some are not (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed p. 111 |
+
+**Book (Nicaragua — Grade 5):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 5to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Irma de los Ángeles Zapata Aguilar, Brígida del Carmen Urbina Ríos, Yulivia Eunice (et al.). PDF 168 pages, 6,219,480 bytes. Verdict: COMPLETE (printed pp. 7–166, Units 1–10 plus bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-05/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| renewable resources regenerate as fast or faster than used; non-renewables: coal, oil (millions of years to form), minerals, metals, natural gas (Nicaragua, Grade 5) | Nicaragua, *Ciencias Naturales, 5to grado*, printed pp. 121–122 |
+
+**Book (Nicaragua — Grade 8 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 8vo grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 248 pages, 52,489,519 bytes. Verdict: COMPLETE (printed pp. 1–242, Units I–VI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2) and books.json record grade-08/gov/nicaragua/natural-science/ccnn-part-8-grado-complete-pdf.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 8 textbook (different authors, self-study format for rural distance secondary); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| renewable energy in Nicaragua: a projected 797.6 MW of new renewable capacity taking installed capacity past 1,000 MW; clean energy as climate adaptation for a country producing only 0.03% of world greenhouse gases; biomass: plants capture solar energy by photosynthesis, released when wood and residues burn (Nicaragua, Grade 8 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 8vo grado*, printed pp. 204–208 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, natural-resources ones-that-come-back-and-ones-that-finish

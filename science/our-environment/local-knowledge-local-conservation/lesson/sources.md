@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia, Vietnam
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia, Vietnam, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -219,3 +219,29 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment local-knowledge-local-conservation
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 9 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 9no grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén, Julio César Canelo Castillo and Rosalía Ríos Rivas. PDF 308 pages, 106,451,793 bytes. Verdict: COMPLETE (printed pp. 1–300, Units I–IV plus glossary and bibliography). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-09/gov/nicaragua/natural-science/ccnn-9-grado-editado.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 9 textbook (different authors, self-study format); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. Units IV (chemical bonding, nomenclature and motions) are the Chemistry/Physics waves' strands — chapter-level lines, already covered by the earlier waves. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| five priority lines for environmental defence: natural resources and protected areas, environmental education, water conservation and harvesting, mitigation, and biodiversity as a common heritage (Nicaragua, Grade 9 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 9no grado*, printed pp. 92–94 |
+
+**Book (Nicaragua — Grade 7):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Séptimo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla de la Concepción Barbosa Toribio; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 244 pages, 95,562,252 bytes. Verdict: COMPLETE (printed pp. 2–236, Units I–XI plus glossary and bibliography). Records: TSV blob record and books.json record grade-07/gov/nicaragua/natural-sciences/student/full-year.pdf. The file is NOT in the GitHub repo at that path (tree 404; the only Grade 7 oversized release asset is a different, larger file); the byte size matches exactly the pre-existing staging record ("Lcienciasnaturales7mo", size_bytes 95,562,252), and the book was read from the record's MINED source_url and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/lcienciasnaturales7mo-pdf.pdf under the 2026-11-13 rule. See the group log. Not the same as the Grade 7 Módulo Autoformativo, filed separately below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Law 217, the General Law of the Environment and Natural Resources, sets nine management categories for protected areas; Nicaragua has 72 protected areas covering ~2.2 million hectares (over 100 counting private wild reserves) (Nicaragua, Grade 7) | Nicaragua, *Ciencias Naturales, Séptimo grado*, printed pp. 80–82 |
+
+**Book (Nicaragua — Grade 7 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo, Ciencias Naturales, Séptimo Grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 216 pages, 90,174,474 bytes — exactly the size_bytes of its books.json record. Verdict: COMPLETE (Units I–VII, printed pp. 1–199, plus glossary and bibliography). Records: books.json record grade-07/gov/nicaragua/natural-science/modulo-ciencias-7mo-interno-editado-pdf.pdf (in_pushed: false). The book was downloaded from the record's MINED source_url because it is not in GitHub, read, and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/modulo-ciencias-7mo-interno-editado-pdf.pdf under the 2026-11-13 rule. See the group log. Overlap: the module parallels the Grade 7 textbook (filed above) — scientific thinking and tools, the cell, protégés, invertebrates, environment law, anatomy, sexuality and matter. Only content the module adds, extends or treats in its own way is placed below; the shared substance is filed under the textbook. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Law 217's own definitions read in the module: contaminant, environmental permit, hazardous waste; the precaution principle — lack of absolute scientific certainty is no excuse not to prevent harm; Bosawás, where North and South American fauna converge and an estimated 10% of the planet's species live (Nicaragua, Grade 7 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, Séptimo grado*, printed pp. 99–109 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment local-knowledge-local-conservation

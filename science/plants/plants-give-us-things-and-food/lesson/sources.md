@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -397,3 +397,41 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, plants plants-give-us-things-and-food
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 3):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 3er grado, Libro de Texto. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Karla Alguera de Hernández and Esperanza Mayorga Pasquier; general coordination María Elsa Guillén Lezama and Rosalía Ríos Rivas. PDF 184 pages, 8,213,198 bytes. Verdict: COMPLETE (printed pp. 4–174, Units 1–10 plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-03/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the importance of plants and trees; the Bosawás reserve in Nicaragua (Nicaragua, Grade 3) | Nicaragua, *Ciencias Naturales, 3er grado*, printed pp. 85, 91 |
+
+**Book (Nicaragua — Grade 5):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 5to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Irma de los Ángeles Zapata Aguilar, Brígida del Carmen Urbina Ríos, Yulivia Eunice (et al.). PDF 168 pages, 6,219,480 bytes. Verdict: COMPLETE (printed pp. 7–166, Units 1–10 plus bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-05/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| importance of plants: forests and gardens enrich the environment; periodic fertilising keeps plants growing (Nicaragua, Grade 5) | Nicaragua, *Ciencias Naturales, 5to grado*, printed pp. 81–84 |
+
+**Book (Nicaragua — Grade 8 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 8vo grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 248 pages, 52,489,519 bytes. Verdict: COMPLETE (printed pp. 1–242, Units I–VI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2) and books.json record grade-08/gov/nicaragua/natural-science/ccnn-part-8-grado-complete-pdf.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 8 textbook (different authors, self-study format for rural distance secondary); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pollination: pollen carried from stamens to the stigma, germinating and fertilising the ovules to make seeds and fruits; in gymnosperms and angiosperms root, stem and leaves feed the plant (Nicaragua, Grade 8 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 8vo grado*, printed pp. 24–25 |
+
+**Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pollination by carrier: hydrophilous by water, anemophilous by wind, by animals; fertilisation in the embryo sac; floriculture thriving in Jinotega, Matagalpa, Estelí and Masaya (Nicaragua, Grade 9) | Nicaragua, *Ciencias Naturales, Noveno grado*, printed pp. 40, 46 |
+
+**Book (Nicaragua — Grade 4):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Libro de Texto, 4to grado, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Brígida del Carmen Urbina Ríos and Patricia Isabel Paiz Blanco. PDF 118 pages, 2,907,972 bytes. Verdict: COMPLETE (printed pp. 2–110, Units 1–9 plus bibliography). Record: books.json only (grade-04/gov/nicaragua/natural-sciences/student/full-year.pdf). The file is NOT in the GitHub repo (no tree entry, no release asset — verified by full release census); it was read from the record's MINED source_url and, under the 2026-11-13 rule, staged (not deleted) at ~/workspace/phase3-staging/grade-04/gov/nicaragua/natural-science/ccnn-4to-grado-baja-pdf.pdf, where a matching books.json record already existed ("CCNN 4to grado BAJA", size_bytes 2,907,972 — byte-identical size to the downloaded file). See the group log, "Staged under the new rule". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants classified by use: food plants (cereals rice and wheat, legumes, vegetables, fruits pineapple and banana), medicinal (oregano, lemongrass), ornamental (roses, sunflowers), industrial (cotton and flax fibres, perfumes, rubber latex) (Nicaragua, Grade 4) | Nicaragua, *Ciencias Naturales, 4to grado*, printed pp. 53–55 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Indonesia, Yemen, Saudi Arabia, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, plants plants-give-us-things-and-food

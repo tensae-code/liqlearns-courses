@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -465,3 +465,29 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment pollution-and-its-four-kinds
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 8 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 8vo grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 248 pages, 52,489,519 bytes. Verdict: COMPLETE (printed pp. 1–242, Units I–VI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2) and books.json record grade-08/gov/nicaragua/natural-science/ccnn-part-8-grado-complete-pdf.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 8 textbook (different authors, self-study format for rural distance secondary); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| contaminants of soil, air and water sorted: inert (glass, plastic, ceramics, demolition waste) and fermentable/biodegradable; the DDT ban and its defenders' quarrel (Nicaragua, Grade 8 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 8vo grado*, printed pp. 82–84 |
+
+**Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua's environmental problems named: deforestation driving soil erosion and lost water sources across Nueva Segovia, Madriz, Estelí, León, Chinandega and more; contaminants sorted into degradable and non-degradable (Nicaragua, Grade 9) | Nicaragua, *Ciencias Naturales, Noveno grado*, printed pp. 78–81 |
+
+**Book (Nicaragua — Grade 4):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Libro de Texto, 4to grado, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Brígida del Carmen Urbina Ríos and Patricia Isabel Paiz Blanco. PDF 118 pages, 2,907,972 bytes. Verdict: COMPLETE (printed pp. 2–110, Units 1–9 plus bibliography). Record: books.json only (grade-04/gov/nicaragua/natural-sciences/student/full-year.pdf). The file is NOT in the GitHub repo (no tree entry, no release asset — verified by full release census); it was read from the record's MINED source_url and, under the 2026-11-13 rule, staged (not deleted) at ~/workspace/phase3-staging/grade-04/gov/nicaragua/natural-science/ccnn-4to-grado-baja-pdf.pdf, where a matching books.json record already existed ("CCNN 4to grado BAJA", size_bytes 2,907,972 — byte-identical size to the downloaded file). See the group log, "Staged under the new rule". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| contaminant types and agrochemicals by job: insecticides against insect pests and the rest; residual waters carry fats, detergents, organic matter, herbicides and pesticides (Nicaragua, Grade 4) | Nicaragua, *Ciencias Naturales, 4to grado*, printed pp. 78–80 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment pollution-and-its-four-kinds

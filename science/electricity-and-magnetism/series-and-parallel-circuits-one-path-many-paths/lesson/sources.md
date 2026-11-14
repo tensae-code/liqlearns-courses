@@ -1,6 +1,6 @@
 # Sources — Series and parallel circuits — one path, many paths
 
-countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China, Cuba, Mauritania, Ghana (curriculum evidence only), Egypt, Afghanistan, Bhutan, Dominican Republic, Kuwait, Syria, Sri Lanka, Fiji
+countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China, Cuba, Mauritania, Ghana (curriculum evidence only), Egypt, Afghanistan, Bhutan, Dominican Republic, Kuwait, Syria, Sri Lanka, Fiji, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -186,3 +186,17 @@ Searchable tags: sri lanka, sri lanka science, series and parallel circuits one 
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, electricity-and-magnetism series-and-parallel-circuits-one-path-many-paths
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 8 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 8vo grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 248 pages, 52,489,519 bytes. Verdict: COMPLETE (printed pp. 1–242, Units I–VI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2) and books.json record grade-08/gov/nicaragua/natural-science/ccnn-part-8-grado-complete-pdf.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 8 textbook (different authors, self-study format for rural distance secondary); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| circuits drawn with international symbols; two bulbs in parallel (5 W and 10 W); the magnetic effect of a current: a magnetic needle near a current-carrying conductor moves (Nicaragua, Grade 8 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 8vo grado*, printed pp. 222–225 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bolivia, China, Cuba, Mauritania, Egypt, Afghanistan, Bhutan, Dominican Republic, Kuwait, Syria, Sri Lanka, Fiji, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, electricity-and-magnetism series-and-parallel-circuits-one-path-many-paths

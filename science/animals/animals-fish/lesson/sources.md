@@ -1,6 +1,6 @@
 # Sources — Animals — fish
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -256,3 +256,24 @@ Searchable tags: yemen, yemen science, ministry of education yemen, animals anim
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, animals animals-fish
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 8):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Octavo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla del Carmen Morales Sandino; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 276 pages, 65,699,125 bytes. Verdict: COMPLETE (printed pp. 2–268, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-08/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 8 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell reproduction: mitosis, meiosis, aneuploidy syndromes, cell cycle and cancer) is the Biology wave's strand — chapter-level line, already covered by the earlier Biology wave; Unit IX (periodic table) is the Chemistry wave's strand and Unit X (uniform rectilinear motion) the Physics wave's strand — chapter-level lines for those two as well, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| jawless fish (agnatha): only the cyclostomes remain, no paired fins; the cazón shark's sandpaper skin of dermal denticles and uncovered gills (Nicaragua, Grade 8) | Nicaragua, *Ciencias Naturales, Octavo grado*, printed pp. 53–54 |
+| fish morphology: scales and viscous secretion help the fish glide and escape; most fish are carnivores; Nicaragua's lakes and lagoons hold many freshwater fish (Nicaragua, Grade 8) | Nicaragua, *Ciencias Naturales, Octavo grado*, printed pp. 55–57 |
+
+**Book (Nicaragua — Grade 8 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 8vo grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 248 pages, 52,489,519 bytes. Verdict: COMPLETE (printed pp. 1–242, Units I–VI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2) and books.json record grade-08/gov/nicaragua/natural-science/ccnn-part-8-grado-complete-pdf.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 8 textbook (different authors, self-study format for rural distance secondary); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| bony fish internal anatomy labelled (brain, spinal cord, kidney, urinary and genital openings); cartilaginous fish (chondrichthyans) with paired fins; a picture key of sábalo, arapaima, seahorse, sturgeon, lionfish, pufferfish, flying fish (Nicaragua, Grade 8 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 8vo grado*, printed pp. 38–40 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Yemen, Saudi Arabia, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals animals-fish

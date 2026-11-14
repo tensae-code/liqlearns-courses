@@ -1,0 +1,12 @@
+# Volcanoes — benefits and harms — fill in the blank
+
+Fill in the missing word or words.
+
+**1.** (Sub lesson 1) Sub lesson 1 of this lesson is titled "_____".
+**Answer: What volcanoes give — ash that fertilises**
+
+**2.** (Sub lesson 2) Sub lesson 2 of this lesson is titled "_____".
+**Answer: What volcanoes harm — fresh ash and health**
+
+**3.** (Whole lesson) This lesson's one thing is _____.
+**Answer: Nicaragua's volcanoes — what they give and what they harm: volcanic ash that can fertilise the soil, set against fresh ash that harms health**

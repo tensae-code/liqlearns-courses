@@ -1,6 +1,6 @@
 # Sources — Energy resources — environmental degradation and its effects
 
-countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji, Nicaragua
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -99,3 +99,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, our-environment energy-re
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, our-environment energy-resources-environmental-degradation-and-its-effects
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 9 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 9no grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén, Julio César Canelo Castillo and Rosalía Ríos Rivas. PDF 308 pages, 106,451,793 bytes. Verdict: COMPLETE (printed pp. 1–300, Units I–IV plus glossary and bibliography). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-09/gov/nicaragua/natural-science/ccnn-9-grado-editado.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 9 textbook (different authors, self-study format); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. Units IV (chemical bonding, nomenclature and motions) are the Chemistry/Physics waves' strands — chapter-level lines, already covered by the earlier waves. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sustainable development: three basic rules from the limits of natural resources; the UN Sustainable Development Goals negotiated by 193 states; Nicaragua's advance in changing its energy matrix (ODS 7) (Nicaragua, Grade 9 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 9no grado*, printed pp. 87–91 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh, Fiji, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment energy-resources-environmental-degradation-and-its-effects

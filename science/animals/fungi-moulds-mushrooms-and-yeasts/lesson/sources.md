@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -173,3 +173,29 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, animals fungi-moulds-mushrooms-and-yeasts
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the fungi kingdom: eukaryotic, mostly land-dwelling, walled cells; decomposers preparing the medium for plants; used to make bread and wine (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed pp. 125–126 |
+
+**Book (Nicaragua — Grade 7):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Séptimo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla de la Concepción Barbosa Toribio; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 244 pages, 95,562,252 bytes. Verdict: COMPLETE (printed pp. 2–236, Units I–XI plus glossary and bibliography). Records: TSV blob record and books.json record grade-07/gov/nicaragua/natural-sciences/student/full-year.pdf. The file is NOT in the GitHub repo at that path (tree 404; the only Grade 7 oversized release asset is a different, larger file); the byte size matches exactly the pre-existing staging record ("Lcienciasnaturales7mo", size_bytes 95,562,252), and the book was read from the record's MINED source_url and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/lcienciasnaturales7mo-pdf.pdf under the 2026-11-13 rule. See the group log. Not the same as the Grade 7 Módulo Autoformativo, filed separately below. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fungi live in damp, shaded places; from the mycelium new hyphae form sporangia, microscopic in moulds and macroscopic in mushrooms; culturing bread mould; why closed sports shoes favour foot fungi (Nicaragua, Grade 7) | Nicaragua, *Ciencias Naturales, Séptimo grado*, printed pp. 42–44 |
+
+**Book (Nicaragua — Grade 7 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo, Ciencias Naturales, Séptimo Grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 216 pages, 90,174,474 bytes — exactly the size_bytes of its books.json record. Verdict: COMPLETE (Units I–VII, printed pp. 1–199, plus glossary and bibliography). Records: books.json record grade-07/gov/nicaragua/natural-science/modulo-ciencias-7mo-interno-editado-pdf.pdf (in_pushed: false). The book was downloaded from the record's MINED source_url because it is not in GitHub, read, and staged (not deleted) at ~/workspace/phase3-staging/grade-07/gov/nicaragua/natural-science/modulo-ciencias-7mo-interno-editado-pdf.pdf under the 2026-11-13 rule. See the group log. Overlap: the module parallels the Grade 7 textbook (filed above) — scientific thinking and tools, the cell, protégés, invertebrates, environment law, anatomy, sexuality and matter. Only content the module adds, extends or treats in its own way is placed below; the shared substance is filed under the textbook. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fungi classified: Myxomycota (slime moulds without cell walls) and Eumycota (true fungi); plant-harming fungi — oreja de palo on tree trunks, corn smut, blue mould of tobacco (Nicaragua, Grade 7 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, Séptimo grado*, printed pp. 54–55 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Sweden, Uganda, Moldova, Pakistan (Punjab, Samoa, Kuwait, Yemen, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals fungi-moulds-mushrooms-and-yeasts

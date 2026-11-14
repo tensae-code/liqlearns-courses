@@ -1,6 +1,6 @@
 # Sources — Measuring distances in astronomy — the parallax method
 
-countries: Kazakhstan, Jamaica (curriculum-guide evidence only)
+countries: Kazakhstan, Jamaica (curriculum-guide evidence only), Nicaragua
 
 **Book 1:** **Title as printed:** ФИЗИКА 9 [Physics 9] — Н. А. Закирова, Р. Р. Аширов — Nur-Sultan: Arman-PV, 2019, ISBN 978-601-318-208-7 · **Grade:** Grade 9 · **Type:** student textbook (Kazakh edition) · **Repo path:** grade-09-gov-kazakhstan-fizika-student-405.pdf (mid-size-books-5) · **Bytes:** 9,164,630 (verified exact against the release-asset index and the okulyk.kz original) · **PDF pages:** 272 (imprint 272 pp.) · **Offset:** printed page = PDF page (0 offset; contents at the back, printed pp. 270–271) · **Verdict:** COMPLETE (born-digital; read from the full text layer, contents recovered in full — the contents spread's hyphenated text layer was reassembled line by line) Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kazakhstan-placements.md (record 405).
 
@@ -39,3 +39,17 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 Placement choice, on the record: this NEW LESSON was built for the Kazakhstan placement(s) tagged "NEW LESSON NEEDED" in kazakhstan-placements.md that name this topic. No existing lesson in the course taught this as its own topic when the Kazakhstan set was merged, so it is built new here in the standard shape, rather than force-fitted into a neighbour.
 
 Searchable tags: parallax, astronomical distances, parsec, triangulation, kazakhstan, grade 9, jamaica, jamaica nsc integrated science
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| astronomical measures are tied to light, not to earthly metric measures; the telescope's importance in establishing them (Nicaragua, Grade 9) | Nicaragua, *Ciencias Naturales, Noveno grado*, printed pp. 174–175 |
+
+**Acceptance count: taught in 2 countries (Kazakhstan, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space measuring-distances-in-astronomy-the-parallax-method

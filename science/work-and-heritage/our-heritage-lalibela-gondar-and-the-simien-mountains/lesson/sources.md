@@ -1,6 +1,6 @@
 # Sources — Our Heritage — Lalibela, Gondar and the Simien Mountains
 
-countries: Ethiopia
+countries: Ethiopia, Nicaragua
 
 **Book 1:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል — Environmental Science Student Textbook, Grade 4* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md
 
@@ -32,3 +32,17 @@ COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printe
 COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Chapter 6 review) and the file's last printed page is 178. Book misprint, noted and not taught: the running heads inside Chapter 6 are misprinted "ምዕራፍ 5" (Chapter 5) although the chapter itself is Chapter 6.
 
 Searchable tags: heritage, ቅርስ, Lalibela, Gondar, Simien, UNESCO, tourism, እሳቤዎች, Afewerk Tekle, Haddis Alemayehu, UNESCO, tangible heritage, intangible heritage, Harar Jugol, Konso, heritage institution, UNESCO, tangible heritage, intangible heritage, Harar Jugol, Konso, heritage institutionsn
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 6):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, 6to Grado, Libro de Texto, Primaria Regular. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Coordination: Martha Catalina Acevedo; authors Msc. Néstor E. et al. PDF 222 pages, 11,500,635 bytes. Verdict: COMPLETE (printed pp. 9–221, Units 1–12 plus an annex of 15 experimental activities and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-06/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nicaragua's own heritage evidence: the Acahualinca footprints, among the oldest signs of prehistoric humans in Nicaragua, preserved under blackish ash layers; fossil remains at El Bosque, Estelí (Nicaragua, Grade 6) | Nicaragua, *Ciencias Naturales, 6to grado*, printed pp. 199–204 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, work-and-heritage our-heritage-lalibela-gondar-and-the-simien-mountains

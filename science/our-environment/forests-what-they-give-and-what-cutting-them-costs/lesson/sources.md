@@ -1,6 +1,6 @@
 # Sources — Forests — what they give and what cutting them costs
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia, Sudan, Angola, Bhutan, Laos, Sri Lanka, Rwanda, Vietnam
+countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia, Sudan, Angola, Bhutan, Laos, Sri Lanka, Rwanda, Vietnam, Nicaragua
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -217,3 +217,23 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment forests-what-they-give-and-what-cutting-them-costs
 
+
+## Nicaragua growth (2026-11-14, General Science expansion)
+
+**Book (Nicaragua — Grade 8):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Octavo Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Leyla del Carmen Morales Sandino; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 276 pages, 65,699,125 bytes. Verdict: COMPLETE (printed pp. 2–268, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-08/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 8 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell reproduction: mitosis, meiosis, aneuploidy syndromes, cell cycle and cancer) is the Biology wave's strand — chapter-level line, already covered by the earlier Biology wave; Unit IX (periodic table) is the Chemistry wave's strand and Unit X (uniform rectilinear motion) the Physics wave's strand — chapter-level lines for those two as well, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| conifer forests hold rainwater in the soil for plants and animals; drought and migration degrade the ecosystem; replacing extracted trees with new plantations (Nicaragua, Grade 8) | Nicaragua, *Ciencias Naturales, Octavo grado*, printed pp. 47–49 |
+
+**Book (Nicaragua — Grade 9 Módulo):** (student book) — Nicaragua. Title as printed: Módulo Autoformativo de Ciencias Naturales, 9no grado, Educación Secundaria a Distancia en el Campo. Publisher: Ministerio de Educación (MINED), República de Nicaragua. Authors: Walter Antonio López Pavón and Amada Urbina; general coordination María Elsa Guillén, Julio César Canelo Castillo and Rosalía Ríos Rivas. PDF 308 pages, 106,451,793 bytes. Verdict: COMPLETE (printed pp. 1–300, Units I–IV plus glossary and bibliography). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-09/gov/nicaragua/natural-science/ccnn-9-grado-editado.pdf are the same book; cited once here. It is NOT a duplicate of the Grade 9 textbook (different authors, self-study format); it parallels the textbook's units, so only its distinct content is placed here — shared substance is filed once under the textbook above. Units IV (chemical bonding, nomenclature and motions) are the Chemistry/Physics waves' strands — chapter-level lines, already covered by the earlier waves. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reforestation: the 2015 Chichigalpa and Posoltega campaign, 600 students from 24 schools aiming to plant 20,000 plants; well-planted trees cut traffic noise pollution and feed underground water currents (Nicaragua, Grade 9 Módulo) | Nicaragua, *Módulo Autoformativo de Ciencias Naturales, 9no grado*, printed pp. 83–85 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Micronesia, India, Cambodia, Sudan, Angola, Bhutan, Laos, Sri Lanka, Rwanda, Vietnam, Nicaragua).**
+
+Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, our-environment forests-what-they-give-and-what-cutting-them-costs
