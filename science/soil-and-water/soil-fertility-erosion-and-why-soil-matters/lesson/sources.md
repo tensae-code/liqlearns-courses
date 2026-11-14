@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico
+countries: Ethiopia, Mexico, Suriname
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia, Mexico
 | Grade 6 — why soil washes away: four causes; holding it: six methods | Ethiopia, *Grade 6 Student Textbook*, printed pp. 111–113 |
 | Grade 6 — why soil washes away: four causes; holding it: six methods (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §3.3, printed pp. 49–51 and p. 63 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Suriname).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides.
 
@@ -33,3 +33,18 @@ Grade 5/6 extension (2026-11-12): both student books are COMPLETE. Both teacher-
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: fertility, erosion, parent rock, chemical content, food chain, soil fertility erosion and why soil matters, mexico, etica naturaleza y sociedades
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 17 Goede bodems om te planten: good soils for planting (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 48 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Suriname).**
+
+Suriname's own way — Suriname judges soil by planting — a good soil is a soil good to plant in, *Goede bodems om te planten* — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, goede bodems om te planten, good soils for planting, natuuronderwijs

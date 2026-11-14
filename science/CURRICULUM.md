@@ -628,6 +628,7 @@ solar-system comparison lessons.
 
 13. **Planning my time** (`family-school-and-community/planning-my-time`) — being planned (Planlı Olmak): listing and ordering what we do in a day, keeping a daily plan for a week and reviewing it (Turkey, Grade 2 — *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, Planlı Olmak, printed p. 14)
 14. **Communicating — listening and expressing feelings** (`family-school-and-community/communicating-listening-and-expressing-feelings`) — communicating at school (İletişim Var, Sorun Yok): listening carefully without interrupting, expressing feelings and thoughts, and non-verbal messages (Turkey, Grade 2 — *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, printed p. 22)
+15. **Knowing myself: what I like and do well** (`family-school-and-community/knowing-myself-what-i-like-and-do-well`) — I am unique (Ik ben uniek): each child lists what they like, what they dislike and what they are proud of being good at — the social-skills opening of the book, starting the year with the self before the body (Suriname, Grade 6 — *Leerlingenboek Natuuronderwijs, Leerjaar 6*, Les 1, printed p. 4)
 
 ## Unit 13 — Work and Heritage
 

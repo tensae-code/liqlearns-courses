@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -61,6 +61,21 @@ countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietn
 | §10 Apparent motion of celestial bodies at different latitudes. Local, zone and universal time | Kazakhstan, *Zakirova & Ashirov (Arman-PV), Uyghur edition, 2019*, §10 Apparent motion of celestial bodies at different latitudes. Local, zone and universal time — printed p. 64 — The sky's turning and the world's clocks in one section (Uyghur edition, 2019) |
 | Module 3: Longitude and Time Zones | Kazakhstan, *Tierney (Express Publishing), English edition, 2018*, Module 3: Longitude and Time Zones — printed p. 45 — Time zones from Earth's turning — with Kazakhstan's own UTC offsets as the exercise (English edition, Express Publishing, 2018) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
 
 Searchable tags: rotation, revolution, day and night, seasons, axis tilt 23.5 degrees, 365¼ days, hemispheres, Ethiopia Grade 7 General Science Unit 6, finland
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 20 De aarde staat niet stil: the Earth does not stand still (its turning and travel) (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 52 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
+
+Suriname's own way — Suriname titles the Earth's motion as a denial of stillness — *De aarde staat niet stil*, the Earth does not stand still: its turning and its travel — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, de aarde staat niet stil, earth does not stand still, natuuronderwijs

@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -18,10 +18,25 @@ countries: Ethiopia, Cuba, Finland, Mexico
 | Activity 15 — the water cycle: droplets form under the lid (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 15 — LUMA Activities, p. 23 |
 | Distribution of continental waters in Mexico and the world: the water cycle and the world's water percentages (Mexico, Grade 7) | Mexico, *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed p. 47 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Finland, Mexico).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cuba, Finland, Mexico, Suriname).**
 
 Placement decision, stated for the record: no water-cycle lesson exists in the Our Environment or Soil and Water titles (checked both trees at build time; Soil and Water teaches water's uses, drought and water bodies, not the cycle), so this is a NEW lesson in Our Environment, as the brief directs. A secondary-depth Biology lesson on the water cycle exists under the Biology title; it is a different treatment at a different depth and was not grown.
 
 The video script for this lesson is FULL, as the placement requires: it walks through the pan-and-ice condensation experiment step by step.
 
 Searchable tags: water cycle, evaporation, transpiration, condensation, precipitation, pan and ice experiment, Ethiopia Grade 7 General Science Unit 6, finland, luova luma, droplets under the lid, mexico, etica naturaleza y sociedades
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 15 Waterdamp en waterkringloop: water vapour and the water cycle (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 43 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cuba, Finland, Mexico, Suriname).**
+
+Suriname's own way — Suriname starts the water cycle from water vapour — *Waterdamp en waterkringloop* names the vapour before the cycle — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, waterdamp, waterkringloop, water vapour, water cycle, natuuronderwijs

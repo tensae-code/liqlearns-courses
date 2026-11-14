@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico
+countries: Ethiopia, Mexico, Suriname
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -18,7 +18,7 @@ countries: Ethiopia, Mexico
 | Grade 6 — soil and its five ingredients | Ethiopia, *Grade 6 Student Textbook*, printed p. 110 |
 | Grade 6 — soil and its five ingredients (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §3.3, printed pp. 49–51 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Suriname).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. This lesson opens the Soil and Water title, which Band A left unbuilt (no directly named Soil/Water placements exist in Grades 1–3); the Grade 4 book names them directly.
 
@@ -27,3 +27,18 @@ Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE. The teache
 The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) are held; Units 4–5 (printed pp. 64–end, to at least p. 105) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: soil, root depth, minerals, tiny living things, remains, soil colour, what soil is and what is in it, mexico, etica naturaleza y sociedades
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 16 Water en lucht in de bodem: water and air in the soil (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 46 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Suriname).**
+
+Suriname's own way — Suriname teaches what is in the soil through the two things hidden inside it — the water and the air in the ground, *Water en lucht in de bodem* — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, water en lucht in de bodem, water and air in soil, natuuronderwijs

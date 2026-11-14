@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands
+countries: Ethiopia, Cook Islands, Suriname
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -15,8 +15,24 @@ countries: Ethiopia, Cook Islands
 
 | What's In the Food We Eat: the nutrients inside foods, found by sorting and testing (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 52 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cook Islands).**
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Suriname).**
 
 COMPLETE: contents promises 148 printed pp. and the book is held complete.
 
 Searchable tags: nutrients, carbohydrates, protein, fats, minerals, vitamins, water, 67 percent, cook islands, cook islands grade 8, ko au e toku aorangi
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 5 Brandstof en bouwstof: food as fuel and building material (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 11 |
+| Les 6 Beschermende stof: protective food substances (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 16 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Suriname).**
+
+Suriname's own way — Suriname sorts food by the job it does in the body — fuel and building material in one lesson, protective substances in the next — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, brandstof en bouwstof, beschermende stof, fuel building protective food, natuuronderwijs

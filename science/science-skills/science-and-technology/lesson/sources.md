@@ -1,6 +1,6 @@
 # Sources — Science and technology — how they differ and feed each other
 
-countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only)
+countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -19,10 +19,25 @@ countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only)
 
 | Kimi Manako mei te Taunga Taieni / Think Like A Scientist: what scientists do, Cook Islands and world health researchers, and the Cook Islands STEPS survey of non-communicable disease risk factors (diabetes, blood pressure, activity) as real local data (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 26 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cook Islands).**
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Suriname).**
 
 Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
 Searchable tags: science and technology, reciprocal, light bulb Edison 1879, discovery invention, prediction, home survey, Grade 7 Unit 1, jamaica, jamaica nsc integrated science, cook islands, cook islands grade 8, ko au e toku aorangi
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 22 Mijn computer: my computer (the book's one technology lesson) (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 58 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Suriname).**
+
+Suriname's own way — Suriname's one technology lesson in the book is the learner's own machine — *Mijn computer*, my computer — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, mijn computer, my computer, technology, natuuronderwijs

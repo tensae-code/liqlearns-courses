@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -31,7 +31,7 @@ countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad an
 
 | Communicable Diseases of the Reproductive System (curriculum-guide evidence) (Trinidad and Tobago, Form 3) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Communicable Diseases of the Reproductive System (framework, printed p. 33; Form 3 content from printed p. 90) — printed p. 33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Peru, Australia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Peru, Australia, Suriname).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 
@@ -42,3 +42,19 @@ Honesty: Grade 1 has NO student book in the library — the file held as the stu
 Honesty: the Peru workbook is PARTIAL — the held PDF is a single ficha (Ficha 4, printed pp. 21–27) only, not the whole workbook; the rest of the workbook is not held. Only that ficha is placed here.
 
 Searchable tags: disease, germs, flies, mosquitoes, trachoma, hygiene diseases, never share, peru, grade 1, microbes, dirty hands, flour experiment, chickenpox, flu, tooth decay, jamaica, jamaica nsc integrated science, trinidad and tobago, trinidad and tobago ncse integrated science, australia, pearson science 9
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 11 Malaria, wat een ziekte: malaria and how it is carried (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 32 |
+| Les 12 Dengue: dengue, taught right after malaria as the second mosquito-carried disease (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 35 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Peru, Australia, Suriname).**
+
+Suriname's own way — Suriname teaches disease through its own two mosquito-carried diseases in a row — malaria first, then dengue as the second mosquito-carried disease — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, malaria, dengue, mosquito-carried disease, natuuronderwijs

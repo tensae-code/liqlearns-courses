@@ -1,6 +1,6 @@
 # Sources — Traffic accidents and the rules of the road
 
-countries: Ethiopia, Turkey
+countries: Ethiopia, Turkey, Suriname
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -15,6 +15,21 @@ countries: Ethiopia, Turkey
 | The road rules behind the signs, practised by making a pictured traffic-sign album (performance task) (Turkey, Grade 2) | Turkey, *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, Dikkat, Levha Çıkabilir!: attention, a sign may appear! — printed p. 60 |
 
 
-**Acceptance count: taught in 2 countries (Ethiopia, Turkey).**
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Suriname).**
 
 Searchable tags: road safety, traffic accidents, zebra crossing, pedestrian, traffic laws, turkey, hayat bilgisi, life studies grade 2
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 9 Brand- en verkeersveiligheid: fire and traffic safety (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 26 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Suriname).**
+
+Suriname's own way — Suriname teaches fire safety and traffic safety together in one lesson, *Brand- en verkeersveiligheid* — the traffic-safety half is placed here and the fire-safety half belongs with it as filed — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, verkeersveiligheid, brandveiligheid, fire and traffic safety, natuuronderwijs

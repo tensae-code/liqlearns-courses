@@ -1,6 +1,6 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -16,7 +16,7 @@ countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's
 | Chapter 3 review — folded into questions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, Chapter 3 summary + review, printed pp. 96–99 — the chapter review is folded into this lesson's questions as prove-it items (review items); it is not built as a separate lesson |
 | Starting from a mind-map of what the class already knows about waste, and sorting the waste of their own living place (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Lixu / Waste (Lessons 55–60), unit summary — printed p. 601 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Suriname).**
 
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 
@@ -42,3 +42,18 @@ Searchable tags: waste, solid waste, liquid waste, polluted air, leftover, what 
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 18 Waar komt die Rommel toch vandaan: where rubbish comes from (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 50 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Suriname).**
+
+Suriname's own way — Suriname opens its rubbish lessons with the question *Waar komt die Rommel toch vandaan* — where does that rubbish come from at all — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, rommel, where rubbish comes from, natuuronderwijs

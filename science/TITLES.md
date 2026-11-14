@@ -99,8 +99,12 @@ The titles, in ladder order:
     ordering the day's work, keeping a daily plan for a week and
     reviewing it) and communicating — listening and expressing
     feelings (listening without interrupting, expressing feelings
-    and thoughts, and non-verbal messages) — 14 lessons in
-    CURRICULUM.md Unit 12.
+    and thoughts, and non-verbal messages) — and Suriname's
+    lesson — knowing myself: what I like and do well (I am
+    unique — Ik ben uniek: each child lists what they like, what
+    they dislike and what they are proud of being good at, the
+    book's social-skills opening, starting the year with the self
+    before the body) — 15 lessons in CURRICULUM.md Unit 12.
 13. **Work and Heritage** — farming and making things, markets,
     the country's heritage and culture, the great river.
 14. **Keeping Healthy** — cleanliness and the hygiene song,

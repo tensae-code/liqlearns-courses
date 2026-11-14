@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -27,8 +27,23 @@ countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan
 | 12.3 The Moon | Kazakhstan, *NIS Physics, Russian edition*, 12.3 The Moon — printed p. 120 — Moon as Earth's satellite, 29.5-day cycle and phases; solar/lunar eclipses and tides follow on printed p.121 (Russian edition) |
 | 12.3 The Moon | Kazakhstan, *NIS Physics, English edition*, 12.3 The Moon — printed p. 116 — Moon as Earth's satellite, 29.5-day cycle and phases; solar/lunar eclipses and tides follow on printed p.121 (English edition) |
 
-**Acceptance count: taught in 3 countries (Palestine, Armenia, Kazakhstan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 4e année — teacher guide), not added to this count.
+**Acceptance count: taught in 4 countries (Palestine, Armenia, Kazakhstan, Suriname).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 4e année — teacher guide), not added to this count.
 
 Placement choice, on the record: this NEW LESSON was built for the Gabon placement "The Moon — Earth's natural satellite and its phases" — gabon-placements.md, Book 2, Palier 4: L'importance du Soleil; la Lune satellite naturel de la Terre; les phases lunaires, printed p. 40 — a topic no existing slug covers at this primary depth. It sits in earth-and-space/ and is registered in CURRICULUM.md Unit 19 (Earth and Space). The source is an integrated Sciences TEACHER GUIDE (Super Efficace, EDIG/EDICEF), so the lesson was built on teacher-guide evidence only; Palestine's Grade 10 student book (Unit 4: Astronomy, printed p. 139) now stocks it as counted content, making Palestine this lesson's first counted country. Only the guide's Sciences physiques thread is placed; its biology/technology/TIC lessons are not physics placements and are excluded by scope.
 
 Searchable tags: moon, natural satellite, phases of the moon, new moon, full moon, reflected sunlight, gabon, grade 4, palestine
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 21 Maanstanden: the Moon's stands/phases; the Moon named Earth's companion/satellite (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 55 |
+
+**Acceptance count: taught in 4 countries (Palestine, Armenia, Kazakhstan, Suriname).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 4e année — teacher guide), not added to this count.
+
+Suriname's own way — Suriname calls the Moon's phases its *Maanstanden* — the Moon's stands — and names the Moon Earth's companion/satellite — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, maanstanden, moon phases, natuuronderwijs

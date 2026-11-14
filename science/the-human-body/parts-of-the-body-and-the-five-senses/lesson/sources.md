@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -21,7 +21,7 @@ countries: Ethiopia, Zambia (teacher-module evidence only)
 | The five senses and what they do | Ethiopia, *Grade 2 Student Textbook*, Chapter 2, what body parts and sense organs do, printed pp. 14–17 |
 | The five senses and what they do (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide (Addis Ababa Bureau)*, §2.1, the sense organs and their functions, printed pp. 17–25 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Suriname).**
 
 Honesty: Grade 1 has NO student book in the library — the file held as the student textbook is this teacher's guide, and it is damaged/truncated (printed pp. i–v and 1–27 held, of 85+). Everything from this book is teacher-guide evidence, labelled as such, and never counts as pupil-taught.
 
@@ -46,3 +46,19 @@ Searchable tags: human body, body parts, sense organs, five senses, eyes ears no
 Zambia is named as teacher-module evidence only (its ECE and Grade 1–2 *Pre-Mathematics and Science* / *Mathematics and Science* teaching modules, Ministry of Education, Curriculum Development Centre, 2025–2026 — teacher modules), not added to this count. Zambia's own way — teaching this thing inside its early-years and Grade 1–2 modules, at the places and in the topic order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: zambia, zambia teacher module, curriculum development centre zambia
+
+
+## Suriname growth (2026-11-13, General Science expansion)
+
+**Book (Suriname):** *Leerlingenboek Natuuronderwijs, Leerjaar 6* (2016 version) (student book) — Suriname. Grade 6, student book, in Dutch. As printed: *Leerlingenboek Natuuronderwijs, Leerjaar 6*. Record: TSV blob record. Fetched copy: 7,817,425 bytes, 72 PDF pages, full text layer; read in full (printed contents on PDF p. 3; printed p. = PDF p. + 1 in the pages checked). Verdict: COMPLETE — all 25 lessons read. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/suriname-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Les 3 Het oog: the eye (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 8 |
+| Les 4 Het oor: the ear (Suriname, Grade 6) | Suriname, *Leerlingenboek Natuuronderwijs, Leerjaar 6* — printed p. 9 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Suriname).**
+
+Suriname's own way — Suriname teaches the senses one organ at a time — the eye as its own lesson, then the ear as its own lesson — is itself course content, carried exactly as filed.
+
+Searchable tags: suriname, het oog, het oor, the eye, the ear, natuuronderwijs
