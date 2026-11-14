@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -961,3 +961,71 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials solids
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials solids-liquids-and-gases
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 4, student book):** Title as printed: Primary Science, Pupil's Book 4, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword signed by the Minister, Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 147 pages, 12,462,598 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–141, ending with the Unit 8 Check your progress).
+
+Twin records: this one file is held under FOUR records — TSV "South Sudan Primary 4 Science Pupil's Book" (grade-04/gov/south-sudan/science/full-year-student.pdf), TSV "South Sudan Primary 3 Science Pupil's Book" (grade-03/gov/south-sudan/science/student/full-year.pdf), books.json grade-04 student entry, and books.json grade-03 student entry whose own source_url names a "Pupil's Book 4" file. All four routes return the identical file (same byte size; the grade-03 and grade-04 downloads are MD5-identical) and the cover/title page is Primary 4. Cited once here as the Primary 4 book. The Primary 3 records are a mislabel: the real Primary 3 Pupil's Book is NOT held (see reading log, library debts).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.1 Water in different states: liquid, steam and ice, and melting, evaporation, condensation and freezing (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 53 |
+| 5.2 Physical properties of solids, liquids and gases: fixed shape and volume, flowing, and gases spreading and squeezing (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 69 |
+| 5.3 How some matter exists in all three states: water as ice, liquid and steam, set by temperature (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 73 |
+
+**Book 2 (South Sudan — Primary 4, teacher's guide):** Title as printed: Primary Science 4, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; funded by the Global Partnership for Education). No ISBN printed. PDF 112 pages, 7,461,273 bytes. Verdict: COMPLETE (printed pp. 1–106: a general pedagogy introduction, then unit-by-unit guidance and answers for the Pupil's Book Units 1–8).
+
+Guide evidence: facilitation notes, expected outcomes and the model answers to every Check your progress; one placement per topic below, marked guide evidence.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 4.1 Water in different states, with answers naming melting, evaporation, condensation and freezing (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 54 |
+| guide evidence: 5.1 and 5.2 the guide's sorting answer table (book, desk, chalk, ice as solids; water, juice, kerosene, milk, glue, porridge as liquids; air and water vapour as gases) (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 62 |
+| guide evidence: 5.3 How some matter exists in all three states, with answers (the state depends on temperature; liquid to solid is freezing) (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 63 |
+
+**Book 3 (South Sudan — Primary 5, student book):** Title as printed: Primary Science, Pupil's Book 5, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 112 pages, 12,196,438 bytes. Verdict: COMPLETE (Units 1–4, printed pp. 1–106, ending with Check your progress 4.2).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.2 Behaviour of materials under different temperatures: changes of state laid out as one flow chart — melting, freezing, evaporation, condensation, sublimation and deposition (South Sudan, Primary 5) | South Sudan, *Primary Science, Pupil's Book 5*, SS P5 SB, printed p. 98 |
+
+**Book 4 (South Sudan — Primary 5, teacher's guide):** Title as printed: Primary Science 5, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 52 pages, 2,697,878 bytes. Verdict: COMPLETE (printed pp. 1–46: an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–4).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 4.2 Behaviour of materials under different temperatures, with the guide's naphthalene and iodine heating demonstration (sublimation) and the answer that melting and boiling points identify a substance and show its purity (South Sudan, Primary 5) | South Sudan, *Primary Science 5, Teacher's Guide*, SS P5 TG, printed p. 43 |
+
+**Book 5 (South Sudan — Primary 6, student book):** Title as printed: Primary Science, Pupil's Book 6, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 125 pages, 10,201,133 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–118, followed by one blank page). Note: the printed table of contents omits section 5.2 Heat, which is present in the body at printed p. 107.
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.3 the characteristics of solids, liquids and gases (mass, volume and shape table) and the changes of state by heating and cooling, including sublimation (South Sudan, Primary 6) | South Sudan, *Primary Science, Pupil's Book 6*, SS P6 SB, printed p. 61 |
+
+**Book 6 (South Sudan — Primary 6, teacher's guide):** Title as printed: Primary Science 6, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 70 pages, 3,552,325 bytes. Verdict: COMPLETE (printed pp. 1–64: an introduction, then guidance and answers for the Pupil's Book Units 1–5). Note: the guide's printed contents list skips the number 3.3, but the States of matter guidance is present in the body at printed p. 41 — a numbering slip in the book, not missing content.
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 3.3 States of matter (guidance present in the body although the contents list skips the number): comparing the three states by mass, volume and shape, with answers to Check your progress 3.3 (South Sudan, Primary 6) | South Sudan, *Primary Science 6, Teacher's Guide*, SS P6 TG, printed p. 41 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 46 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

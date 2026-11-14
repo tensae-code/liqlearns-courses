@@ -1,6 +1,6 @@
 # Sources — Our School — A Clean School and Safe Latrine Use
 
-countries: Ethiopia, Cambodia (guide evidence only), Angola, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Yemen, Nicaragua
+countries: Ethiopia, Cambodia (guide evidence only), Angola, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Yemen, Nicaragua, South Sudan
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -160,3 +160,49 @@ Searchable tags: yemen, yemen science, ministry of education yemen, family-schoo
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, family-school-and-community a-clean-school-and-safe-latrine-use
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 1, student book):** Title as printed: Primary Science 1, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 107 pages, 15,915,571 bytes; picture-heavy, read from page renders. Verdict: COMPLETE (Units 1–6, printed pp. 1–101, ending with Check your progress 6c).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.3 Using toilets and latrines: the three types — pit latrines, flush toilets (water closet) and urinals — proper use, good and bad habits, and cleaning them to keep off dirt and germs (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 14 |
+
+**Book 2 (South Sudan — Primary 1, teacher's guide):** Title as printed: South Sudan Primary Science, Teacher's Guide 1. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 79 pages, 2,405,942 bytes. Verdict: COMPLETE (an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–6, printed pp. 1–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 1.3 Using toilets and latrines (South Sudan, Primary 1) | South Sudan, *South Sudan Primary Science, Teacher's Guide 1*, SS P1 TG, printed p. 22 |
+
+**Book 3 (South Sudan — Primary 4, student book):** Title as printed: Primary Science, Pupil's Book 4, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword signed by the Minister, Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 147 pages, 12,462,598 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–141, ending with the Unit 8 Check your progress).
+
+Twin records: this one file is held under FOUR records — TSV "South Sudan Primary 4 Science Pupil's Book" (grade-04/gov/south-sudan/science/full-year-student.pdf), TSV "South Sudan Primary 3 Science Pupil's Book" (grade-03/gov/south-sudan/science/student/full-year.pdf), books.json grade-04 student entry, and books.json grade-03 student entry whose own source_url names a "Pupil's Book 4" file. All four routes return the identical file (same byte size; the grade-03 and grade-04 downloads are MD5-identical) and the cover/title page is Primary 4. Cited once here as the Primary 4 book. The Primary 3 records are a mislabel: the real Primary 3 Pupil's Book is NOT held (see reading log, library debts).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.3 How to clean our environment: choosing tools and cleaning classroom, compound and surroundings in steps (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 4 |
+
+**Book 4 (South Sudan — Primary 4, teacher's guide):** Title as printed: Primary Science 4, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; funded by the Global Partnership for Education). No ISBN printed. PDF 112 pages, 7,461,273 bytes. Verdict: COMPLETE (printed pp. 1–106: a general pedagogy introduction, then unit-by-unit guidance and answers for the Pupil's Book Units 1–8).
+
+Guide evidence: facilitation notes, expected outcomes and the model answers to every Check your progress; one placement per topic below, marked guide evidence.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 1.3 How to clean our environment, with answers listing the tools for classroom, compound and surroundings (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 20 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 7 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

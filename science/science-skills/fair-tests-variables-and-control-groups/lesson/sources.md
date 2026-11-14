@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia
+countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, South Sudan (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -292,3 +292,21 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills fair-tests-variables-and-control-groups
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 2, teacher's guide):** Title as printed: Primary Science 2, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018), published 2018 by Longhorn Publishers (K) Ltd., Nairobi, Kenya; funded by the Global Partnership for Education. No ISBN printed. PDF 79 pages, 4,084,789 bytes; image-only file, read from page renders. Verdict: COMPLETE (an introduction on the competence-based curriculum, printed pp. 1–12, then guidance and answers for the Pupil's Book Units 1–7, printed pp. 13–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 1's own way in: wash oiled or dirty hands with and without soap and discuss how to make the test fair (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Teacher's Guide*, SS P2 TG, printed p. 13 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count unchanged: taught in 16 countries.** South Sudan is named as teacher-guide evidence only in this section (its Primary pupil's books do not place here), not added to this count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

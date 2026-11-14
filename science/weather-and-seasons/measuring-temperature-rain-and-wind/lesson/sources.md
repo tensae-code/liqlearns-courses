@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, South Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -334,3 +334,57 @@ Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, weather-and-seasons measuring-temperature-rain-and-wind
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 1, student book):** Title as printed: Primary Science 1, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 107 pages, 15,915,571 bytes; picture-heavy, read from page renders. Verdict: COMPLETE (Units 1–6, printed pp. 1–101, ending with Check your progress 6c).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.2 Recording of weather changes: filling a daily table is recording; more than one week of it is a weather chart (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 66 |
+
+**Book 2 (South Sudan — Primary 1, teacher's guide):** Title as printed: South Sudan Primary Science, Teacher's Guide 1. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 79 pages, 2,405,942 bytes. Verdict: COMPLETE (an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–6, printed pp. 1–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 4.2 Recording weather changes (South Sudan, Primary 1) | South Sudan, *South Sudan Primary Science, Teacher's Guide 1*, SS P1 TG, printed p. 54 |
+
+**Book 3 (South Sudan — Primary 3, teacher's guide):** Title as printed: South Sudan Primary Science 3, Teacher's Guide. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 70 pages, 7,806,070 bytes. Verdict: COMPLETE (a general introduction, then guidance and answers for Units 1–6, printed pp. 1–52). Note: this guide's Pupil's Book is NOT held — see the library debt in the reading log.
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 5: recording weather changes (South Sudan, Primary 3) | South Sudan, *South Sudan Primary Science 3, Teacher's Guide*, SS P3 TG, printed p. 44 |
+
+**Book 4 (South Sudan — Primary 5, student book):** Title as printed: Primary Science, Pupil's Book 5, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 112 pages, 12,196,438 bytes. Verdict: COMPLETE (Units 1–4, printed pp. 1–106, ending with Check your progress 4.2).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.4 Using weather instruments to measure weather conditions (South Sudan, Primary 5) | South Sudan, *Primary Science, Pupil's Book 5*, SS P5 SB, printed p. 67 |
+
+**Book 5 (South Sudan — Primary 5, teacher's guide):** Title as printed: Primary Science 5, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 52 pages, 2,697,878 bytes. Verdict: COMPLETE (printed pp. 1–46: an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–4).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 3.4 Using weather instruments to measure weather (South Sudan, Primary 5) | South Sudan, *Primary Science 5, Teacher's Guide*, SS P5 TG, printed p. 35 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 19 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

@@ -1,6 +1,6 @@
 # Sources — Measuring: temperature, thermometers and the Celsius scale
 
-countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -418,3 +418,19 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, science-skills t
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, science-skills temperature-thermometers-and-the-celsius-scale
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 6, student book):** Title as printed: Primary Science, Pupil's Book 6, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 125 pages, 10,201,133 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–118, followed by one blank page). Note: the printed table of contents omits section 5.2 Heat, which is present in the body at printed p. 107.
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.2 Heat: heat as the energy that raises temperature, temperature as the degree of hotness measured in degrees Celsius (South Sudan, Primary 6) | South Sudan, *Primary Science, Pupil's Book 6*, SS P6 SB, printed p. 107 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 27 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

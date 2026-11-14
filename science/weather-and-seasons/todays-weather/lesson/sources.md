@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, South Sudan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -445,3 +445,61 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, weather-and-seasons todays-weather
 
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 1, student book):** Title as printed: Primary Science 1, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 107 pages, 15,915,571 bytes; picture-heavy, read from page renders. Verdict: COMPLETE (Units 1–6, printed pp. 1–101, ending with Check your progress 6c).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.1 Weather changes: weather can change within a short time — windy, cloudy, rainy, sunny or calm — and we use weather symbols to record the weather of a day (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 64 |
+| 4.3 How to tell weather conditions: we can tell the weather by looking at how things behave (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 68 |
+
+**Book 2 (South Sudan — Primary 1, teacher's guide):** Title as printed: South Sudan Primary Science, Teacher's Guide 1. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 79 pages, 2,405,942 bytes. Verdict: COMPLETE (an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–6, printed pp. 1–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 4.1 Weather changes (South Sudan, Primary 1) | South Sudan, *South Sudan Primary Science, Teacher's Guide 1*, SS P1 TG, printed p. 53 |
+| guide evidence: 4.3 How to tell weather conditions (South Sudan, Primary 1) | South Sudan, *South Sudan Primary Science, Teacher's Guide 1*, SS P1 TG, printed p. 55 |
+
+**Book 3 (South Sudan — Primary 2, student book):** Title as printed: Primary Science 2, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; published with Longhorn Publishers, Kenya). No ISBN printed. PDF 123 pages, 9,477,126 bytes; image-only file, read from page renders. Verdict: COMPLETE (Units 1–7, printed pp. 1–117, ending with Check your progress 7(b)).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.1 Weather symbols and instruments: the picture symbols for sunny, cloudy, rainy, windy and calm, a week's weather journal kept in symbols, and the instruments of a weather station (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 70 |
+| 4.2 Weather changes: what we wear and do on hot, cold, rainy and calm days (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 74 |
+
+**Book 4 (South Sudan — Primary 2, teacher's guide):** Title as printed: Primary Science 2, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018), published 2018 by Longhorn Publishers (K) Ltd., Nairobi, Kenya; funded by the Global Partnership for Education. No ISBN printed. PDF 79 pages, 4,084,789 bytes; image-only file, read from page renders. Verdict: COMPLETE (an introduction on the competence-based curriculum, printed pp. 1–12, then guidance and answers for the Pupil's Book Units 1–7, printed pp. 13–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 4.1 Weather symbols: the icons that show the state of the weather, weather charts and the instruments for measuring weather (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Teacher's Guide*, SS P2 TG, printed p. 51 |
+| guide evidence: 4.2 Weather changes: what we do and wear in rainy, cold, hot and calm weather (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Teacher's Guide*, SS P2 TG, printed p. 52 |
+
+**Book 5 (South Sudan — Primary 3, teacher's guide):** Title as printed: South Sudan Primary Science 3, Teacher's Guide. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 70 pages, 7,806,070 bytes. Verdict: COMPLETE (a general introduction, then guidance and answers for Units 1–6, printed pp. 1–52). Note: this guide's Pupil's Book is NOT held — see the library debt in the reading log.
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 5: weather changes (South Sudan, Primary 3) | South Sudan, *South Sudan Primary Science 3, Teacher's Guide*, SS P3 TG, printed p. 43 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 25 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

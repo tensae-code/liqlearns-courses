@@ -1,6 +1,6 @@
 # Sources — Loam, clay and sand — the squeeze test
 
-countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam
+countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -188,3 +188,48 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, soil-and-water loam-clay-and-sand-the-squeeze-test
 
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 1, student book):** Title as printed: Primary Science 1, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 107 pages, 15,915,571 bytes; picture-heavy, read from page renders. Verdict: COMPLETE (Units 1–6, printed pp. 1–101, ending with Check your progress 6c).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.1 feeling soils from garden, roadside, river and river bank and grouping them into clay, sand and loam — large particles feel rough, small particles smooth (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 77 |
+| 5.2 Mixing soils with water: which soil lets water pass fastest; clay is smooth and sticky when wet, sand less sticky, gravel not sticky and rough (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 80 |
+
+**Book 2 (South Sudan — Primary 1, teacher's guide):** Title as printed: South Sudan Primary Science, Teacher's Guide 1. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 79 pages, 2,405,942 bytes. Verdict: COMPLETE (an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–6, printed pp. 1–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 5.2 Mixing soils with water: what sand, gravel and clay each do when water is added (South Sudan, Primary 1) | South Sudan, *South Sudan Primary Science, Teacher's Guide 1*, SS P1 TG, printed p. 62 |
+
+**Book 3 (South Sudan — Primary 2, student book):** Title as printed: Primary Science 2, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; published with Longhorn Publishers, Kenya). No ISBN printed. PDF 123 pages, 9,477,126 bytes; image-only file, read from page renders. Verdict: COMPLETE (Units 1–7, printed pp. 1–117, ending with Check your progress 7(b)).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6.1 Types of soil: collecting soils from garden, river bank and roadside and knowing loam, clay and sand by colour, feel and particle size — taught through the "Mr Soil" poem: clay grey with small particles by the river banks, loam in the garden, sand with large particles along the roads (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 98 |
+
+**Book 4 (South Sudan — Primary 2, teacher's guide):** Title as printed: Primary Science 2, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018), published 2018 by Longhorn Publishers (K) Ltd., Nairobi, Kenya; funded by the Global Partnership for Education. No ISBN printed. PDF 79 pages, 4,084,789 bytes; image-only file, read from page renders. Verdict: COMPLETE (an introduction on the competence-based curriculum, printed pp. 1–12, then guidance and answers for the Pupil's Book Units 1–7, printed pp. 13–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 6.1 Types of soil: collecting soils and knowing them by touch, look and smell (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Teacher's Guide*, SS P2 TG, printed p. 66 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 11 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

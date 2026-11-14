@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -704,3 +704,49 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, our-environment 
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, our-environment how-living-things-affect-each-other
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 4, student book):** Title as printed: Primary Science, Pupil's Book 4, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword signed by the Minister, Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 147 pages, 12,462,598 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–141, ending with the Unit 8 Check your progress).
+
+Twin records: this one file is held under FOUR records — TSV "South Sudan Primary 4 Science Pupil's Book" (grade-04/gov/south-sudan/science/full-year-student.pdf), TSV "South Sudan Primary 3 Science Pupil's Book" (grade-03/gov/south-sudan/science/student/full-year.pdf), books.json grade-04 student entry, and books.json grade-03 student entry whose own source_url names a "Pupil's Book 4" file. All four routes return the identical file (same byte size; the grade-03 and grade-04 downloads are MD5-identical) and the cover/title page is Primary 4. Cited once here as the Primary 4 book. The Primary 3 records are a mislabel: the real Primary 3 Pupil's Book is NOT held (see reading log, library debts).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.2 Interdependence of living things: food chains, plants depending on plants, and plants and animals depending on each other (food, shade, nutrients, medicine, pollination, seed dispersal) (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 26 |
+
+**Book 2 (South Sudan — Primary 4, teacher's guide):** Title as printed: Primary Science 4, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; funded by the Global Partnership for Education). No ISBN printed. PDF 112 pages, 7,461,273 bytes. Verdict: COMPLETE (printed pp. 1–106: a general pedagogy introduction, then unit-by-unit guidance and answers for the Pupil's Book Units 1–8).
+
+Guide evidence: facilitation notes, expected outcomes and the model answers to every Check your progress; one placement per topic below, marked guide evidence.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 2.2 Interdependence of living things, with the guide's expected food chains (grass to grasshopper to chicken to hawk; algae to small fish to big fish to kingfisher; plants to antelope to lion) (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 34 |
+
+**Book 3 (South Sudan — Primary 8, student book):** Title as printed: South Sudan Primary Science, Pupil's Book 8. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 131 pages, 16,150,714 bytes. Verdict: COMPLETE (Units 1–7, printed pp. 1–125, ending with the electromagnetism exercises of Unit 7).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3.5 Interdependence between plants and animals (South Sudan, Primary 8) | South Sudan, *South Sudan Primary Science, Pupil's Book 8*, SS P8 SB, printed p. 58 |
+
+**Book 4 (South Sudan — Primary 8, teacher's guide):** Title as printed: Primary Science 8, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018); funded by the Global Partnership for Education. No ISBN printed. PDF 95 pages, 4,049,111 bytes; image-only file, read from page renders. Verdict: COMPLETE (an introduction on the competence-based curriculum, printed pp. 1–13, then guidance and answers for the Pupil's Book Units 1–7, printed pp. 14–89).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 3.5 Interdependence between plants and animals, studied from a food pyramid and a visit to a farm where bees are kept — the answers give pollination and manure, food and shade (South Sudan, Primary 8) | South Sudan, *Primary Science 8, Teacher's Guide*, SS P8 TG, printed p. 50 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 36 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

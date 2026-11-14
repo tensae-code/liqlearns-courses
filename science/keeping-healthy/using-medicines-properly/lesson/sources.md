@@ -1,6 +1,6 @@
 # Sources — Using medicines properly
 
-countries: Ethiopia, Samoa, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Samoa, Yemen, Vietnam, Nicaragua, South Sudan
 
 **Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -92,3 +92,29 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keepi
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy using-medicines-properly
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 6, student book):** Title as printed: Primary Science, Pupil's Book 6, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 125 pages, 10,201,133 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–118, followed by one blank page). Note: the printed table of contents omits section 5.2 Heat, which is present in the body at printed p. 107.
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.1 the medicine side of the same lesson: medicines only on prescription, their types (antibiotics, vaccines, sedatives, pain killers) and checking the expiry date (South Sudan, Primary 6) | South Sudan, *Primary Science, Pupil's Book 6*, SS P6 SB, printed p. 1 |
+
+**Book 2 (South Sudan — Primary 6, teacher's guide):** Title as printed: Primary Science 6, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 70 pages, 3,552,325 bytes. Verdict: COMPLETE (printed pp. 1–64: an introduction, then guidance and answers for the Pupil's Book Units 1–5). Note: the guide's printed contents list skips the number 3.3, but the States of matter guidance is present in the body at printed p. 41 — a numbering slip in the book, not missing content.
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 1.1 the guide's medicine teaching points (prescription, expiry dates, overdose) (South Sudan, Primary 6) | South Sudan, *Primary Science 6, Teacher's Guide*, SS P6 TG, printed p. 17 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 5 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

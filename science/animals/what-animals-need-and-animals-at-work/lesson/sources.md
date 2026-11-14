@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -436,3 +436,38 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, anima
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals what-animals-need-and-animals-at-work
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 1, student book):** Title as printed: Primary Science 1, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 107 pages, 15,915,571 bytes; picture-heavy, read from page renders. Verdict: COMPLETE (Units 1–6, printed pp. 1–101, ending with Check your progress 6c).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.3 Reasons why animals feed on some plants and not others: animals do not eat some plants because they are poisonous to them; animals have different feeding habits (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 35 |
+| 2.5 Importance of plants and animals: the donkey carrying loads and the dog that provides security at home (South Sudan, Primary 1) | South Sudan, *Primary Science 1, Pupil's Book*, SS P1 SB, printed p. 40 |
+
+**Book 2 (South Sudan — Primary 1, teacher's guide):** Title as printed: South Sudan Primary Science, Teacher's Guide 1. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 79 pages, 2,405,942 bytes. Verdict: COMPLETE (an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–6, printed pp. 1–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 2.3 Reasons why animals feed on some plants and not others (South Sudan, Primary 1) | South Sudan, *South Sudan Primary Science, Teacher's Guide 1*, SS P1 TG, printed p. 33 |
+
+**Book 3 (South Sudan — Primary 2, student book):** Title as printed: Primary Science 2, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; published with Longhorn Publishers, Kenya). No ISBN printed. PDF 123 pages, 9,477,126 bytes; image-only file, read from page renders. Verdict: COMPLETE (Units 1–7, printed pp. 1–117, ending with Check your progress 7(b)).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.2 domestic animals and their uses at home: the dog for security, the donkey for carrying, hens and ducks for meat and eggs (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 49 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 23 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

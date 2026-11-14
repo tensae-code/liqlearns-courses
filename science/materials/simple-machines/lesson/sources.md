@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -534,3 +534,107 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials simple
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials simple-machines
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 2, student book):** Title as printed: Primary Science 2, Pupil's Book, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; published with Longhorn Publishers, Kenya). No ISBN printed. PDF 123 pages, 9,477,126 bytes; image-only file, read from page renders. Verdict: COMPLETE (Units 1–7, printed pp. 1–117, ending with Check your progress 7(b)).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 7.1 Rollers: rollers make it easier to push or pull things (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 109 |
+| 7.2 Making and using rollers: building a toy cart three ways — bottle-top wheels, wheels cut from a maize cob, and wire wheels with a steering wheel (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 110 |
+| 7.3 Other things used to make rollers: shoe polish tins, old slippers, wood or a round stick (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 114 |
+| 7.4 Things that use wheels: cars, trucks, wheelbarrows, motorcycles, trains and planes counted by wheels and use (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Pupil's Book*, SS P2 SB, printed p. 115 |
+
+**Book 2 (South Sudan — Primary 2, teacher's guide):** Title as printed: Primary Science 2, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018), published 2018 by Longhorn Publishers (K) Ltd., Nairobi, Kenya; funded by the Global Partnership for Education. No ISBN printed. PDF 79 pages, 4,084,789 bytes; image-only file, read from page renders. Verdict: COMPLETE (an introduction on the competence-based curriculum, printed pp. 1–12, then guidance and answers for the Pupil's Book Units 1–7, printed pp. 13–73).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 7.1 and 7.2 Making and using rollers: overcoming gravity and friction, wheels cut from old slippers and made from wires and maize cobs, and the unit's list of the six simple machines (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Teacher's Guide*, SS P2 TG, printed p. 72 |
+| guide evidence: 7.3 Things that use wheels — the answers name wheelbarrows, handcarts and toy carts (South Sudan, Primary 2) | South Sudan, *Primary Science 2, Teacher's Guide*, SS P2 TG, printed p. 73 |
+
+**Book 3 (South Sudan — Primary 3, teacher's guide):** Title as printed: South Sudan Primary Science 3, Teacher's Guide. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 70 pages, 7,806,070 bytes. Verdict: COMPLETE (a general introduction, then guidance and answers for Units 1–6, printed pp. 1–52). Note: this guide's Pupil's Book is NOT held — see the library debt in the reading log.
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 6: introduction to simple machines (South Sudan, Primary 3) | South Sudan, *South Sudan Primary Science 3, Teacher's Guide*, SS P3 TG, printed p. 49 |
+| guide evidence: Unit 6: constructing simple levers (South Sudan, Primary 3) | South Sudan, *South Sudan Primary Science 3, Teacher's Guide*, SS P3 TG, printed p. 50 |
+| guide evidence: Unit 6: application of simple machines (South Sudan, Primary 3) | South Sudan, *South Sudan Primary Science 3, Teacher's Guide*, SS P3 TG, printed p. 50 |
+
+**Book 4 (South Sudan — Primary 4, student book):** Title as printed: Primary Science, Pupil's Book 4, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword signed by the Minister, Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 147 pages, 12,462,598 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–141, ending with the Unit 8 Check your progress).
+
+Twin records: this one file is held under FOUR records — TSV "South Sudan Primary 4 Science Pupil's Book" (grade-04/gov/south-sudan/science/full-year-student.pdf), TSV "South Sudan Primary 3 Science Pupil's Book" (grade-03/gov/south-sudan/science/student/full-year.pdf), books.json grade-04 student entry, and books.json grade-03 student entry whose own source_url names a "Pupil's Book 4" file. All four routes return the identical file (same byte size; the grade-03 and grade-04 downloads are MD5-identical) and the cover/title page is Primary 4. Cited once here as the Primary 4 book. The Primary 3 records are a mislabel: the real Primary 3 Pupil's Book is NOT held (see reading log, library debts).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 8.5 Constructing a simple pulley: building a pulley from spool, rope and timber (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 134 |
+| 8.6 How to use a pulley: lifting loads and raising the flag; pulleys reduce gravity and friction (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 136 |
+| 8.7 Making an inclined plane: the ramp built from a plank (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 137 |
+| 8.8 How to use a simple inclined plane: ladders, staircases, slides, screws and winding roads (South Sudan, Primary 4) | South Sudan, *Primary Science, Pupil's Book 4*, SS P4 SB, printed p. 139 |
+
+**Book 5 (South Sudan — Primary 4, teacher's guide):** Title as printed: Primary Science 4, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019; funded by the Global Partnership for Education). No ISBN printed. PDF 112 pages, 7,461,273 bytes. Verdict: COMPLETE (printed pp. 1–106: a general pedagogy introduction, then unit-by-unit guidance and answers for the Pupil's Book Units 1–8).
+
+Guide evidence: facilitation notes, expected outcomes and the model answers to every Check your progress; one placement per topic below, marked guide evidence.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 8.5 How to construct a pulley, with answers (pulleys overcome the force of gravity and friction; the groove is the part that reduces friction) (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 103 |
+| guide evidence: 8.6 How to use a pulley: the guide's finding that the load feels lighter on the pulley than lifted by hand (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 104 |
+| guide evidence: 8.7 Making an inclined plane, with the guide's ladder and ramp comparisons (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 105 |
+| guide evidence: 8.8 How to use a simple inclined plane, with answers (a flat surface raised at an angle; a clothes line is not an inclined plane; a slide is the playground one; machines do not reduce the amount of work, they make work easier) (South Sudan, Primary 4) | South Sudan, *Primary Science 4, Teacher's Guide*, SS P4 TG, printed p. 105 |
+
+**Book 6 (South Sudan — Primary 5, student book):** Title as printed: Primary Science, Pupil's Book 5, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 112 pages, 12,196,438 bytes. Verdict: COMPLETE (Units 1–4, printed pp. 1–106, ending with Check your progress 4.2).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4.1 Common simple tools and their classification: the tools of home and farm sorted by the job they do (South Sudan, Primary 5) | South Sudan, *Primary Science, Pupil's Book 5*, SS P5 SB, printed p. 85 |
+
+**Book 7 (South Sudan — Primary 5, teacher's guide):** Title as printed: Primary Science 5, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 52 pages, 2,697,878 bytes. Verdict: COMPLETE (printed pp. 1–46: an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–4).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 4.1 Common simple tools and their classification (South Sudan, Primary 5) | South Sudan, *Primary Science 5, Teacher's Guide*, SS P5 TG, printed p. 41 |
+
+**Book 8 (South Sudan — Primary 7, student book):** Title as printed: South Sudan Primary Science, Pupil's Book 7. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 135 pages, 17,977,998 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–131, ending with the gears and pulleys questions of 5.5).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.5 Gears and pulleys (South Sudan, Primary 7) | South Sudan, *South Sudan Primary Science, Pupil's Book 7*, SS P7 SB, printed p. 125 |
+
+**Book 9 (South Sudan — Primary 7, teacher's guide):** Title as printed: South Sudan Primary Science 7, Teacher's Guide. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 76 pages, 2,937,708 bytes. Verdict: COMPLETE (an introduction, then guidance and answers for the Pupil's Book Units 1–5, ending with the pulley answers).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 5.5 Gears and pulleys, with the guide's worked rule — divide the load by the number of rope sections supporting it to get the force needed (a 300 kg load on 6 sections needs 50 kg of force) (South Sudan, Primary 7) | South Sudan, *South Sudan Primary Science 7, Teacher's Guide*, SS P7 TG, printed p. 68 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count: taught in 24 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

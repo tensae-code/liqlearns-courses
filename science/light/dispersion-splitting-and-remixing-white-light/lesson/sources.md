@@ -419,3 +419,19 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, light dispersion
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, light dispersion-splitting-and-remixing-white-light
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 6, student book):** Title as printed: Primary Science, Pupil's Book 6, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 125 pages, 10,201,133 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–118, followed by one blank page). Note: the printed table of contents omits section 5.2 Heat, which is present in the body at printed p. 107.
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.1 forming a rainbow: white light split into the ROYGBIV colours by raindrops, spray, oil films and a mirror in a basin of water (South Sudan, Primary 6) | South Sudan, *Primary Science, Pupil's Book 6*, SS P6 SB, printed p. 93 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count unchanged: taught in 32 countries.** South Sudan was already counted in this lesson through its earlier-wave books; the Primary books above add South Sudan's primary teaching of this thing, counted once, not twice.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

@@ -949,3 +949,31 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, motion-force-and-energy energy-forms-and-conversions
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 7, student book):** Title as printed: South Sudan Primary Science, Pupil's Book 7. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 135 pages, 17,977,998 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–131, ending with the gears and pulleys questions of 5.5).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.2 Forms of energy (South Sudan, Primary 7) | South Sudan, *South Sudan Primary Science, Pupil's Book 7*, SS P7 SB, printed p. 100 |
+| 5.3 Energy transformation (South Sudan, Primary 7) | South Sudan, *South Sudan Primary Science, Pupil's Book 7*, SS P7 SB, printed p. 110 |
+
+**Book 2 (South Sudan — Primary 7, teacher's guide):** Title as printed: South Sudan Primary Science 7, Teacher's Guide. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 76 pages, 2,937,708 bytes. Verdict: COMPLETE (an introduction, then guidance and answers for the Pupil's Book Units 1–5, ending with the pulley answers).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 5.2 Forms of energy (South Sudan, Primary 7) | South Sudan, *South Sudan Primary Science 7, Teacher's Guide*, SS P7 TG, printed p. 60 |
+| guide evidence: 5.3 Energy transformation (South Sudan, Primary 7) | South Sudan, *South Sudan Primary Science 7, Teacher's Guide*, SS P7 TG, printed p. 63 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count unchanged: taught in 43 countries.** South Sudan was already counted in this lesson through its earlier-wave books; the Primary books above add South Sudan's primary teaching of this thing, counted once, not twice.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

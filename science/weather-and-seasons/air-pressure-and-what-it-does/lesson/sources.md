@@ -1,6 +1,6 @@
 # Sources — Air pressure and what it does
 
-countries: Armenia, Seychelles, Angola, Kuwait, Eritrea, Sri Lanka
+countries: Armenia, Seychelles, Angola, Kuwait, Eritrea, Sri Lanka, South Sudan (teacher-guide evidence only)
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -89,3 +89,23 @@ Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW L
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, air pressure and what it does
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 3, teacher's guide):** Title as printed: South Sudan Primary Science 3, Teacher's Guide. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 70 pages, 7,806,070 bytes. Verdict: COMPLETE (a general introduction, then guidance and answers for Units 1–6, printed pp. 1–52). Note: this guide's Pupil's Book is NOT held — see the library debt in the reading log.
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: Unit 5: air pressure (South Sudan, Primary 3) | South Sudan, *South Sudan Primary Science 3, Teacher's Guide*, SS P3 TG, printed p. 44 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count unchanged: taught in 6 countries.** South Sudan is named as teacher-guide evidence only in this section (its Primary pupil's books do not place here), not added to this count.
+
+Placement choice, on the record: the South Sudan placements filed these as "NEW LESSON NEEDED — air-pressure-and-how-it-pushes" — south-sudan-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so South Sudan stocks into it here, with the original slug recorded in this note, instead of a duplicate lesson being built.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.

@@ -245,3 +245,37 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, sound sound-medi
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, sound sound-media-and-speed-solid-beats-liquid-beats-gas
+
+## South Sudan growth (2026-11-14, General Science expansion)
+
+**Book 1 (South Sudan — Primary 5, student book):** Title as printed: Primary Science, Pupil's Book 5, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 112 pages, 12,196,438 bytes. Verdict: COMPLETE (Units 1–4, printed pp. 1–106, ending with Check your progress 4.2).
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.9 Nature of sound and how sound travels (South Sudan, Primary 5) | South Sudan, *Primary Science, Pupil's Book 5*, SS P5 SB, printed p. 39 |
+
+**Book 2 (South Sudan — Primary 5, teacher's guide):** Title as printed: Primary Science 5, Teacher's Guide, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018). No ISBN printed. PDF 52 pages, 2,697,878 bytes. Verdict: COMPLETE (printed pp. 1–46: an introduction on the competence-based curriculum, then guidance and answers for the Pupil's Book Units 1–4).
+
+Guide evidence: facilitation notes and model answers; one placement per topic below, marked guide evidence. TG printed pages are the guide's own.
+
+Teacher's guide — evidence only: cited as the evidence it is, outside the acceptance count, except where South Sudan is counted in this lesson through its Primary pupil's books above/below. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: 2.9 Nature of sound and how sound travels (South Sudan, Primary 5) | South Sudan, *Primary Science 5, Teacher's Guide*, SS P5 TG, printed p. 27 |
+
+**Book 3 (South Sudan — Primary 6, student book):** Title as printed: Primary Science, Pupil's Book 6, South Sudan. Publisher: Ministry of General Education and Instruction, Republic of South Sudan (©2018; foreword by the Minister, Deng Deng Hoc Yai, effect from 4th February 2019). No ISBN printed. PDF 125 pages, 10,201,133 bytes. Verdict: COMPLETE (Units 1–5, printed pp. 1–118, followed by one blank page). Note: the printed table of contents omits section 5.2 Heat, which is present in the body at printed p. 107.
+
+It counts in the acceptance count (student book, not evidence-only), except where South Sudan was already counted in this lesson through its earlier-wave books — then it is counted once. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.3 how sound travels through solids, liquids and air (the string-and-tin telephone, ear in water), fastest in solids, and no sound in a vacuum (South Sudan, Primary 6) | South Sudan, *Primary Science, Pupil's Book 6*, SS P6 SB, printed p. 115 |
+
+| Do it first; key ideas; Do It Yourself | South Sudan, as cited in the rows above |
+
+**Acceptance count unchanged: taught in 20 countries.** South Sudan was already counted in this lesson through its earlier-wave books; the Primary books above add South Sudan's primary teaching of this thing, counted once, not twice.
+
+South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
