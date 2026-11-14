@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -128,3 +128,21 @@ Searchable tags: pakistan, punjab, general science, pollution-and-its-four-kinds
 **Acceptance count: taught in 5 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Samoa).**
 
 Searchable tags: samoa, samoa mesc, our environment pollution and its four kinds
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Grade 9, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩* (Science, Grade 9) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004309); preface works from the 2006 curriculum. Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9). PDF 320 pages, 67,998,724 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–158), Biology (pp. 159–260), Earth Science (pp. 261–319). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-09/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reducing waste and polluting substances in the environment (Ch. 2, Lesson 2) (Cambodia, Grade 5) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, printed p. 36 |
+| environmental pollution (Biology Ch. 5, Lesson 2) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 248 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Samoa, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, pollution and its four kinds

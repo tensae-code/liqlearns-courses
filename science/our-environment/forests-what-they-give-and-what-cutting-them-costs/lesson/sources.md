@@ -1,6 +1,6 @@
 # Sources — Forests — what they give and what cutting them costs
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Micronesia, India, Gabon (teacher-guide evidence only), Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -80,3 +80,19 @@ Searchable tags: india, ncert, class viii, forests-what-they-give-and-what-cutti
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, forests what they give and what cutting them costs
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| using land and forest (Earth Ch. 4, Lesson 1) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 294 |
+| benefits and drawbacks of using land and forest (Earth Ch. 4, Lesson 2) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 296 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Micronesia, India, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, forests what they give and what cutting them costs

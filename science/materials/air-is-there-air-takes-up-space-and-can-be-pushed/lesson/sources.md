@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -122,3 +122,18 @@ Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, air is the
 **Acceptance count: taught in 5 countries (India, Uganda, Bulgaria, Moldova, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, air is there air takes up space and can be pushed
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Kindergarten core book, guide evidence):** *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ* (Core Study Book for Kindergarten Education — Science) (teacher/core book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Phnom Penh, 2022 (Buddhist year 2566 on cover) (Sala 00001440). Title as printed: សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Study Book for Kindergarten Education — Science). PDF 130 pages, 9,931,230 bytes (matches record). Verdict: COMPLETE. It is the official core reference book for teaching science at kindergarten level (all three KG levels): pedagogy chapters plus a bank of classroom science activities; filed as guide evidence. Twin record: TSV release record (Sala 00001440) and books.json record kg1/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. GUIDE EVIDENCE — cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: water and air — first encounters with air (activity 2.14), guide evidence (Cambodia, Kindergarten) | Cambodia, *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, printed p. 112 |
+
+**Acceptance count unchanged: taught in 5 countries (India, Uganda, Bulgaria, Moldova, Cuba).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count.
+
+Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, air is there air takes up space and can be pushed

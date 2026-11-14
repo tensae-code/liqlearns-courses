@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -87,3 +87,21 @@ Searchable tags: gabon, super efficace, gabon grade 4, the sun scale layers spot
 **Acceptance count unchanged: taught in 5 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the sun scale layers spots and storms
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Grade 7, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧* (Science, Grade 7) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004320). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7). PDF 304 pages, 70,701,849 bytes (matches record). Verdict: COMPLETE — a combined book in four named parts: Physics (printed pp. 1–94), Chemistry (pp. 95–150), Biology (pp. 151–244), Earth Science (pp. 245–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves — the Biology part's environment/health chapters and the whole Earth-science part are general science and are placed item by item. Twin record: TSV release record and books.json record grade-07/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun (Ch. 5, Lesson 1) (Cambodia, Grade 5) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, printed p. 116 |
+| the Sun as a special star (Earth Ch. 1, Lesson 2) (Cambodia, Grade 7) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, printed p. 250 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, Grade 7, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, the sun scale layers spots and storms

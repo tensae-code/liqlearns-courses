@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -132,3 +132,18 @@ Searchable tags: samoa, samoa mesc, materials force friction and gravity
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, materials force-friction-and-gravity
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| frictional force: where it helps and where it hinders (Ch. 4, Lesson 2) (Cambodia, Grade 5) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, printed p. 94 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Serbia, India, United States, Pakistan (Punjab, Samoa, Egypt, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, force friction and gravity

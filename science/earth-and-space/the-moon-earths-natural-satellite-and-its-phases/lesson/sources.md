@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -241,3 +241,18 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the moo
 Placement choice, on the record: this placement was filed as "earth-and-space/the-moon-and-its-phases" — samoa-placements.md, printed pp. 36-41 — and is stocked here because the existing lesson on the Moon as Earth's natural satellite teaches the Moon and its phases as its own thing. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, earth and space the moon earths natural satellite and its phases
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon's cycle and phases (Earth Ch. 3, Lesson 2) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 280 |
+
+**Acceptance count: taught in 13 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab, Cuba, Samoa, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, the moon earths natural satellite and its phases

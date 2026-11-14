@@ -1,6 +1,6 @@
 # Sources — What science is — evidence, inference and tentative knowledge
 
-countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only)
+countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only), Cambodia (guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -124,3 +124,18 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 1
 **Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia) — unchanged.** Samoa is named as curriculum evidence only (Primary Curriculum Statement, Years 1–8), not added to this count.
 
 Searchable tags: samoa, samoa mesc, science skills what science is
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Kindergarten core book, guide evidence):** *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ* (Core Study Book for Kindergarten Education — Science) (teacher/core book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Phnom Penh, 2022 (Buddhist year 2566 on cover) (Sala 00001440). Title as printed: សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Study Book for Kindergarten Education — Science). PDF 130 pages, 9,931,230 bytes (matches record). Verdict: COMPLETE. It is the official core reference book for teaching science at kindergarten level (all three KG levels): pedagogy chapters plus a bank of classroom science activities; filed as guide evidence. Twin record: TSV release record (Sala 00001440) and books.json record kg1/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. GUIDE EVIDENCE — cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what science means at kindergarten level: concepts of science for young children (Ch. 3.1), guide evidence (Cambodia, Kindergarten) | Cambodia, *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, printed p. 43 |
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count.
+
+Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, what science is

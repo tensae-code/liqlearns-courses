@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa, Cambodia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -106,3 +106,18 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the hum
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, the human body the human reproductive system
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the human reproductive organs (Lesson 6) (Cambodia, Grade 6) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, printed p. 34 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Guyana, Mongolia, India, Cuba, Samoa, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, the human reproductive system

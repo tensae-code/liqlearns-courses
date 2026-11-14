@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -86,3 +86,21 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, motions
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, earth-and-space motions-of-the-earth-moon-and-sun
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 7, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧* (Science, Grade 7) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004320). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7). PDF 304 pages, 70,701,849 bytes (matches record). Verdict: COMPLETE — a combined book in four named parts: Physics (printed pp. 1–94), Chemistry (pp. 95–150), Biology (pp. 151–244), Earth Science (pp. 245–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves — the Biology part's environment/health chapters and the whole Earth-science part are general science and are placed item by item. Twin record: TSV release record and books.json record grade-07/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the motion of the planets (Earth Ch. 1, Lesson 3) (Cambodia, Grade 7) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, printed p. 254 |
+| movements of the Earth and the Moon (Earth Ch. 3, Lesson 1) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 276 |
+
+**Acceptance count: taught in 6 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 7, Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, motions of the earth moon and sun

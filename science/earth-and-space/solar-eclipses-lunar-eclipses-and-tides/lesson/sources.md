@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -105,3 +105,19 @@ Placement choice, on the record: this placement was filed as "earth-and-space/ti
 Placement choice, on the record: this placement was filed as "earth-and-space/eclipses-lunar-and-solar" — samoa-placements.md, printed pp. 44-46 — and is stocked here because the existing lesson on solar eclipses, lunar eclipses and tides teaches both eclipses as its own thing. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, earth and space solar eclipses lunar eclipses and tides
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lunar and solar eclipses (Earth Ch. 3, Lesson 3) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 284 |
+| the sea's movement: tides (Earth Ch. 3, Lesson 4) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 288 |
+
+**Acceptance count: taught in 7 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab, Cuba, Samoa, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, solar eclipses lunar eclipses and tides

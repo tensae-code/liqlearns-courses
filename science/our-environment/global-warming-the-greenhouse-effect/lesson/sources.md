@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -239,3 +239,18 @@ Searchable tags: samoa, samoa mesc, our environment global warming the greenhous
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, our-environment global-warming-the-greenhouse-effect
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 9, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩* (Science, Grade 9) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004309); preface works from the 2006 curriculum. Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9). PDF 320 pages, 67,998,724 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–158), Biology (pp. 159–260), Earth Science (pp. 261–319). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-09/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Earth warming up: greenhouse gases CO2, CH4, NO and CFCs (Earth Ch. 3, Lesson 3; summary page verified visually) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 308 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab, Samoa, Egypt, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, global warming the greenhouse effect

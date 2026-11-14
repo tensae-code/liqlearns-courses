@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab)
+countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -119,3 +119,18 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, what-counts-as-a-natural-resource
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural resources (Lesson 5) (Cambodia, Grade 6) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, printed p. 28 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, India, Pakistan (Punjab), Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, what counts as a natural resource

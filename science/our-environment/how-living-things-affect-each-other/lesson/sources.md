@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -310,3 +310,18 @@ Searchable tags: samoa, samoa mesc, our environment how living things affect eac
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, our-environment how-living-things-affect-each-other
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 7, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧* (Science, Grade 7) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004320). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7). PDF 304 pages, 70,701,849 bytes (matches record). Verdict: COMPLETE — a combined book in four named parts: Physics (printed pp. 1–94), Chemistry (pp. 95–150), Biology (pp. 151–244), Earth Science (pp. 245–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves — the Biology part's environment/health chapters and the whole Earth-science part are general science and are placed item by item. Twin record: TSV release record and books.json record grade-07/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| relationships between living things in a community (Biology Ch. 1, Lesson 3) (Cambodia, Grade 7) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, printed p. 164 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States, Pakistan (Punjab, Cuba, Samoa, Egypt, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 7, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, how living things affect each other

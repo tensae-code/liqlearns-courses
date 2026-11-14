@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -67,3 +67,18 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 7 countries (Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab, Samoa).**
 
 Searchable tags: samoa, samoa mesc, earth and space small bodies asteroids comets and shooting stars
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 7, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧* (Science, Grade 7) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004320). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7). PDF 304 pages, 70,701,849 bytes (matches record). Verdict: COMPLETE — a combined book in four named parts: Physics (printed pp. 1–94), Chemistry (pp. 95–150), Biology (pp. 151–244), Earth Science (pp. 245–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves — the Biology part's environment/health chapters and the whole Earth-science part are general science and are placed item by item. Twin record: TSV release record and books.json record grade-07/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| asteroids, comets and meteors (Earth Ch. 1, Lesson 5) (Cambodia, Grade 7) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, printed p. 262 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab, Samoa, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 7, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, small bodies asteroids comets and shooting stars

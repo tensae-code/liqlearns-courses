@@ -1,6 +1,6 @@
 # Sources — Astronomical observation — looking at the sky
 
-countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Armenia
+countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Armenia, Cambodia
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -76,3 +76,18 @@ Searchable tags: pakistan, punjab, general science, astronomical-observation-loo
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| groups of stars in the night sky (Lesson 17) (Cambodia, Grade 6) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, printed p. 119 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Pakistan (Punjab), Armenia, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, astronomical observation looking at the sky

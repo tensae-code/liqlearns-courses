@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -210,3 +210,18 @@ Searchable tags: samoa, samoa mesc, animals grouping animals
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, animals grouping-animals
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 4, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤* (Science, Grade 4) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004334). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4). PDF 113 pages, 32,744,456 bytes (matches books.json size_bytes and pages). Verdict: COMPLETE (Chapters 1–4, printed pp. 1–112). Twin record: TSV release record (mid-size-books-7) and books.json record grade-04/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. All books in Cambodia's set are official MoEYS publications — no private exam-prep booklet was found in the set. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| grouping/classifying animals (Ch. 1, Lesson 4) (Cambodia, Grade 4) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, printed p. 28 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab, Samoa, Egypt, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, grouping animals

@@ -1,6 +1,6 @@
 # Sources — Writing a laboratory report
 
-countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia
+countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only)
 
 **Book 1:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp. Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -32,3 +32,18 @@ Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bure
 On the Ethiopia side this lesson stands on teacher-guide evidence only: the Ethiopian student book never prints the report format. Bhutan's Class IX student book, stocked above, prints the project-report requirement in its own front matter. Its deeper partner at secondary depth is Chemistry — Writing a laboratory report (Grade 9) — named here as the deeper partner; that file is not edited by this build.
 
 Searchable tags: laboratory report, seven parts, title aim theory materials data result discussion conclusion, experiment observation hypothesis, research ethics, Grade 7 Unit 1, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, cook islands, cook islands grade 8, ko au e toku aorangi, australia, pearson science 9
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — teacher-training manual, Part 1, guide evidence):** *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី ១* (Teaching Science the Student-Centred Way, Part 1) (teacher guide, cross-grade) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Department of Teacher Training, 2012; 2nd printing 2013, with VVOB/DGD support; Creative Commons BY-NC-SA 3.0. PDF 112 pages, 6,137,081 bytes. Verdict: COMPLETE (Ch. 1 Reading and writing skills in science; Ch. 2 Scientific explanation skills; Ch. 3 The scientific method). Official government teacher-training manual — not a private exam-prep booklet. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reading and writing in science lessons: note-cards, 3-2-1 sheets, Cornell notes, group-checked notes (Ch. 1, Activities 1–10), guide evidence (Cambodia, cross-grade teacher guide) | Cambodia, *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី 1 (Student-Centred Science Teaching, Part 1)*, printed pp. 3–33 |
+
+**Acceptance count unchanged: taught in 3 countries (Bhutan, Cook Islands, Australia).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count.
+
+Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, writing a laboratory report

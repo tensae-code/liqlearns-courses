@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -169,3 +169,21 @@ Searchable tags: samoa, samoa mesc, soil and water water why every living thing 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, soil-and-water water-why-every-living-thing-needs-it
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 4, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤* (Science, Grade 4) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004334). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4). PDF 113 pages, 32,744,456 bytes (matches books.json size_bytes and pages). Verdict: COMPLETE (Chapters 1–4, printed pp. 1–112). Twin record: TSV release record (mid-size-books-7) and books.json record grade-04/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. All books in Cambodia's set are official MoEYS publications — no private exam-prep booklet was found in the set. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Grade 9, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩* (Science, Grade 9) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004309); preface works from the 2006 curriculum. Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9). PDF 320 pages, 67,998,724 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–158), Biology (pp. 159–260), Earth Science (pp. 261–319). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-09/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water: how much of the Earth it covers (70%), fresh vs salt water, and what living things use it for (Ch. 4, Lesson 1; opening page verified visually) (Cambodia, Grade 4) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, printed p. 92 |
+| water on the Earth (Earth Ch. 1, Lesson 1) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 262 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, water why every living thing needs it

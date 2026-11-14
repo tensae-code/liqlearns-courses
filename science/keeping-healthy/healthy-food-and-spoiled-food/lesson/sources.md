@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey, Uganda
+countries: Ethiopia, Turkey, Uganda, Cambodia
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -42,3 +42,18 @@ Searchable tags: healthy food, unhealthy food, spoiled food, contaminated food, 
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safe food (Biology Ch. 5, Lesson 3) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 232 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Uganda, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, healthy food and spoiled food

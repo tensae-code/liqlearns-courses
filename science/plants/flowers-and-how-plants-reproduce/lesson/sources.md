@@ -1,6 +1,6 @@
 # Sources — Flowers — and how plants reproduce
 
-countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia
+countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -99,3 +99,20 @@ Placement choice, on the record: the placement filed as NEW LESSON NEEDED — pl
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, astghik gratun, edit print
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reproduction of plants (Ch. 1, Lesson 1) (Cambodia, Grade 5) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, printed p. 2 |
+
+**Acceptance count: taught in 5 countries (Guyana, India, Bulgaria, Armenia, Cambodia).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — how-plants-reproduce" — cambodia-placements.md, Grade 5, printed p. 2 — and is stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for it; the original slug is recorded here.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, flowers and how plants reproduce

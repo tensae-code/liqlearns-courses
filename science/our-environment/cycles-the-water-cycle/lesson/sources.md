@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -288,3 +288,21 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, cycles 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, our-environment cycles-the-water-cycle
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — teacher-training manual, Part 2, guide evidence):** *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី ២* (Teaching Science the Student-Centred Way, Part 2) (teacher guide, cross-grade) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Department of Teacher Training, 2012; 2nd printing 2013, VVOB/DGD support. PDF 144 pages, 6,465,155 bytes. Verdict: COMPLETE (Ch. 4 only: Reflecting on misconceptions — individual thinking, group discussion, experiment observation, and discussion combined with experiment; followed by 18 worked misconception examples, printed pp. 99–105). Official government teacher-training manual — not a private exam-prep booklet. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — teacher-training manual, Part 3, guide evidence):** *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី ៣* (Teaching Science the Student-Centred Way, Part 3) (teacher guide, cross-grade) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Department of Teacher Training, 2012; 2nd printing 2013, VVOB/DGD support. PDF 126 pages, 6,148,262 bytes. Verdict: COMPLETE (Ch. 5 Analogy and models; Ch. 6 Learning games). Official government teacher-training manual — not a private exam-prep booklet. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| worked misconception example: the water cycle and evaporation (Example 4), guide evidence (Cambodia, cross-grade teacher guide) | Cambodia, *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី 2 (Student-Centred Science Teaching, Part 2)*, printed p. 100 |
+| the water-cycle learning game (Biology/Earth) (Ch. 6, Activity 5), guide evidence (Cambodia, cross-grade teacher guide) | Cambodia, *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី 3 (Student-Centred Science Teaching, Part 3)*, printed p. 76 |
+
+**Acceptance count unchanged: taught in 16 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab, Egypt).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count.
+
+Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, cycles the water cycle

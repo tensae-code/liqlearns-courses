@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -245,3 +245,19 @@ Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with
 Placement choice, on the record: this placement was filed as "keeping-healthy/what-disease-is" — samoa-placements.md, printed pp. 65–76 — and is stocked here because the existing lesson on what disease is and how it spreads covers this thing. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, keeping healthy what disease is and how it spreads
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 9, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩* (Science, Grade 9) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004309); preface works from the 2006 curriculum. Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9). PDF 320 pages, 67,998,724 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–158), Biology (pp. 159–260), Earth Science (pp. 261–319). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-09/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| disease-causing agents: what pathogens are (Biology Ch. 4, Lesson 1) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 212 |
+| infectious diseases (Biology Ch. 4, Lesson 2) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 222 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab, Samoa, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, what disease is and how it spreads

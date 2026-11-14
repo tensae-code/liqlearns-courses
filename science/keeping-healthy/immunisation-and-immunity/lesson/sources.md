@@ -1,6 +1,6 @@
 # Sources — Immunisation and immunity
 
-countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only)
+countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia
 
 **Book 1:** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
 
@@ -48,3 +48,20 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 4, gabon grade 5, immunisation and immunity
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vaccination: protecting children against disease (Ch. 3, Lesson 3) (Cambodia, Grade 5) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, printed p. 72 |
+
+**Acceptance count: taught in 3 countries (Uganda, Bulgaria, Cambodia).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — vaccination-protecting-against-disease" — cambodia-placements.md, Grade 5, printed p. 72 — and is stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for it; the original slug is recorded here.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, immunisation and immunity

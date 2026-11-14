@@ -1,0 +1,29 @@
+# The flooded forest and its problems
+
+## Do it first
+Before you read: say out loud what you already think this lesson's one thing is — the environmental problems of cambodia's flooded forest. Then read on: this is Cambodia's way in — វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7) (Grade 7).
+
+## Sub lesson 1 — The flooded forest — a forest that lives with the flood
+
+Where Cambodia's waterways spread, a forest stands that is **flooded** for part of the year: the water rises into the trees, and the forest lives with the flood as part of its life. Fish, birds and trees belong to this drowned-and-dry rhythm. Cambodia's Grade 7 book teaches the forest straight after the waterway system it stands on (Earth Ch. 3, Lesson 2).
+
+[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+
+[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+
+## Sub lesson 2 — Its problems — an environment under pressure
+
+The lesson's second half is the forest's **environmental problems**: what happens when the flood rhythm, the trees or the creatures are harmed — the forest that shelters fish and feeds people is weakened, and the harm travels through the whole system the chapter has built: waterways, forest, and the life that depends on both.
+
+## The key ideas
+
+- **The flooded forest — a forest that lives with the flood** — as taught above, in the lesson's own order.
+- **Its problems — an environment under pressure** — as taught above, in the lesson's own order.
+
+## Say it to your companion
+Explain this lesson to your companion in your own words, in the lesson's own order. Your companion may stop you once and ask: "Why does the book teach the flooded forest straight after the waterway system?" Answer: Because the forest lives on that system — its flood is the waterways rising — so its problems are read on the system the first lesson built.
+
+## Do It Yourself
+1. Write this lesson's key ideas from memory, then check them against the lesson and fix any miss.
+2. Retell the lesson in its own order — The flooded forest — a forest that lives with the flood → Its problems — an environment under pressure — in one sentence per sub lesson.
+3. Teach the hardest part of this lesson to someone at home in five sentences.

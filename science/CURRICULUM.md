@@ -427,6 +427,8 @@ solar-system comparison lessons.
 29. **The social self** (`the-human-body/the-social-self`) — the self as it exists among other people, formed, shown and changed in our relations with others — the closing section of the Step-up chapter (Australia, Grade 9 — *Pearson Science 9*, 11.3, printed p. 451)
 30. **Human growth and development stages** (`the-human-body/human-growth-and-development-stages`) — the stages of human development — infant, young child, teenager, adult — and the physical changes and abilities at each stage — curriculum evidence only, acceptance 0 (Bahamas, Grade 1 — *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 66)
 
+31. **Reproductive health and hygiene** (`the-human-body/reproductive-health-and-hygiene`) — keeping the reproductive system healthy by daily hygiene, cleanliness and staying safe — closing the Grade 6 book's run on the reproductive organs, puberty and preventing pregnancy (Cambodia, Grade 6 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, Lesson 9, printed p. 52; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -497,6 +499,8 @@ solar-system comparison lessons.
 65. **Water expands when it freezes** (`materials/water-expands-when-it-freezes`) — water breaks the usual rule: as it freezes it expands, taking more room as ice than it did as water — its dilatation — so ice floats and a full closed bottle can crack (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed p. 100)
 66. **Water droplets — adhesion and cohesion** (`materials/water-droplets-adhesion-and-cohesion`) — why a water drop is round on one surface and flat on another: cohesion, water holding to itself, against adhesion, water holding to the surface — drops on foil and on a coin, drops joining, the detergent test, and glass plates stuck together by a water film (Samoa, Year 10 — *Science — Year 10, Book 2 (MESC Samoa)*, printed pp. 51–52)
 
+67. **Physical changes of matter** (`materials/physical-changes-of-matter`) — changes of state that can be reversed — melting, freezing, evaporating, condensing — where the substance stays itself (Cambodia, Grade 6 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, Lesson 12, printed p. 74; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -538,6 +542,8 @@ solar-system comparison lessons.
 14. **How winds form** (`weather-and-seasons/how-winds-form`) — winds form where the Sun heats neighbouring places unequally: warm air rises, cooler air moves in underneath, and those movements join into the circulation of the winds (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed pp. 69, 73)
 
 
+15. **Climate and daily life in Cambodia** (`weather-and-seasons/climate-and-daily-life-in-cambodia`) — how Cambodia's climate affects people's activities — work follows the water and the heat — taught straight after the book's seasons-and-climate-in-Cambodia lesson, its seasons learned from its own weather; Cambodia's own way (Cambodia, Grade 7 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, Earth Ch. 2, Lesson 4, printed p. 280; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
 ## Unit 7 — Soil and Water
 
 1. **Drought: what it is and how we hold it back** (`soil-and-water/drought-what-it-is-and-how-we-hold-it-back`) — drought is when rain fails for a long time and water sources dry up — caused chiefly by an irregular climate, and also following deforestation — an…
@@ -562,6 +568,8 @@ solar-system comparison lessons.
 20. **The saltiness and temperature of the sea** (`soil-and-water/the-saltiness-and-temperature-of-the-sea`) — salinity: the ocean as 96.5% water and 3.5% dissolved solids, in parts per thousand, changed by rainfall and evaporation; and ocean temperature: 26–28°C around Samoa, sunlight to about 60 metres, mixing and evaporation (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed p. 114, with the lagoon graph printed p. 94)
 21. **Desalination — making seawater drinkable** (`soil-and-water/desalination-making-seawater-drinkable`) — getting fresh water from seawater: separating the water from its dissolved salt so it can be drunk — set as the interdisciplinary project Water by the Sea (Egypt, Primary 5 — *Primary 5 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition)*, printed p. 39)
 22. **Modern irrigation — saving water in farming** (`soil-and-water/modern-irrigation-saving-water-in-farming`) — designing a new modern irrigation system, judged by how much of its water reaches the plants' roots instead of being lost to sun, wind and runoff (Egypt, Primary 6 — *Primary 6 Science, Science Term 2 (Discovery Education Science Techbook, Egypt edition)*, interdisciplinary project, printed p. 80)
+
+23. **Cambodia's rivers, lakes and waterways** (`soil-and-water/cambodias-rivers-lakes-and-waterways`) — the country's waterway system — its rivers and lakes read as one joined whole — country-specific content (Cambodia, Grade 7 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, Earth Ch. 3, Lesson 1, printed p. 286; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
 ## Unit 8 — Plants
 
@@ -589,6 +597,8 @@ solar-system comparison lessons.
 22. **Life cycle of a flowering plant** (`plants/life-cycle-of-a-flowering-plant`) — an annual plant's circle on the bean: the seed's embryo, coat and stored food; germination needing warmth, moisture and air; growth, flowering and new seeds (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 39, printed p. 78)
 23. **Seed germination and growth patterns** (`plants/seed-germination-and-growth-patterns`) — germination by experiment (root first, then shoot), the functions of the plant parts found by testing them, growth patterns read off ruler measurements, and the two-seed race: predicting which seed germinates first and comparing growth rates — curriculum evidence only, acceptance 0 (Bahamas, Grade 3 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 76; Grade 4 return, printed p. 112)
 24. **Indigenous plants of The Bahamas** (`plants/indigenous-plants-of-the-bahamas`) — identifying and describing the indigenous flowering plants of The Bahamas — plants that belong to the islands by nature, named and described from flower, leaf, stem, fruit and place — the country's own flora as content — curriculum evidence only, acceptance 0 (Bahamas, Grade 4 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 112)
+
+25. **Sorting fruits and vegetables** (`plants/sorting-fruits-and-vegetables`) — classifying vegetables and fruits: grouping by kind and saying the rule — a kindergarten activity-bank lesson — guide evidence only, acceptance 0 (Cambodia, Kindergarten — *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, activity 2.7, printed p. 110; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
 ## Unit 9 — Animals
 
@@ -628,6 +638,8 @@ solar-system comparison lessons.
 33. **How the environment can change traits** (`animals/how-the-environment-can-change-traits`) — the environment can affect the traits of living things — the explanation built from evidence, not guessed (United States, Grade 3 — *3rd Grade Science for Utah SEEd Standards, Revised 2025*, 3.2.3, printed p. 62)
 34. **Copying nature to solve problems — biomimicry** (`animals/copying-nature-to-solve-problems-biomimicry`) — designing a solution to a human problem by mimicking how plants and animals use their external parts to survive and grow (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.2.4, printed p. 68)
 35. **Making food and drink with micro-organisms — fermentation** (`animals/making-food-and-drink-with-micro-organisms-fermentation`) — yoghurt making in full: lactic-acid bacteria turn lactose into lactic acid; heating, pasteurising, homogenising, inoculating with the starter, incubating at about 43°C, coagulation — and yeast in beer making (with the Vailima factory visit) and bread making (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 69–73)
+
+36. **How animals reproduce** (`animals/how-animals-reproduce`) — reproduction: new animals of the parents' kind — many animals lay eggs and the young hatch, while mammals are born live — taught straight after the reproduction of plants (Cambodia, Grade 5 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, Ch. 1, Lesson 3, printed p. 22; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
 ## Unit 10 — Natural Resources
 
@@ -714,6 +726,9 @@ solar-system comparison lessons.
 62. **Water pressure and depth adaptation** (`our-environment/water-pressure-and-depth-adaptation`) — water pressure grows with depth, and an organism's body is fitted to the pressure of the depth it lives at (Egypt, Secondary 10 — *Integrated Science, First Secondary Grade, First Semester*, Topic 1-9, printed p. 56)
 63. **Nanotechnology and the environment** (`our-environment/nanotechnology-and-the-environment`) — nanomaterials in energy efficiency and drug delivery, weighed with their environmental dimensions for the biosphere's sustainability (Egypt, Secondary 10 — *Integrated Science, First Secondary Grade, Second Semester*, Topic 3-5, printed p. 45)
 
+64. **The flooded forest and its problems** (`our-environment/the-flooded-forest-and-its-problems`) — Cambodia's flooded forest, living with the yearly flood on its waterway system, and the forest's environmental problems (Cambodia, Grade 7 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, Earth Ch. 3, Lesson 2, printed p. 294; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+65. **How people change the environment** (`our-environment/how-people-change-the-environment`) — human actions and their effect on the environment — the general lesson that opens its chapter, before environmental pollution in detail (Cambodia, Grade 9 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, Biology Ch. 5, Lesson 1, printed p. 244; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -799,6 +814,10 @@ solar-system comparison lessons.
 31. **Public health care in our country** (`keeping-healthy/public-health-care-in-our-country`) — in our country the people's health is cared for: health care as a shared public task for the whole people, closing the Grade 6 human-body unit (Cuba, Grade 6 — *Ciencias Naturales, Sexto grado*, printed p. 162)
 
 
+32. **Dengue and malaria — mosquito diseases** (`keeping-healthy/dengue-and-malaria-mosquito-diseases`) — two diseases carried by mosquitoes, taught together and stopped by breaking the mosquito's road — clearing the standing water it breeds in and protecting people from bites (Cambodia, Grade 4 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, Ch. 2, Lesson 3, printed p. 54; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+33. **Drugs and their effects** (`keeping-healthy/drugs-and-their-effects`) — what drugs are, then their effects on the body and on life — a two-lesson chapter closing the Grade 8 Biology health run after food and diet (Cambodia, Grade 8 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, Biology Ch. 6, Lessons 1–2, printed pp. 238, 242; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+34. **Diseases that do not spread** (`keeping-healthy/diseases-that-do-not-spread`) — non-infectious diseases, taught straight after pathogens and infectious diseases so the difference between the two kinds is learned whole (Cambodia, Grade 9 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, Biology Ch. 4, Lesson 3, printed p. 236; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
 ## Unit 15 — Science Skills
 
 1. **Debating change: new foods or old ways?** (`science-skills/debating-change-new-foods-or-old-ways`) — the book prints a debate — 'The New One and the Old One' — over whether food culture must change: new productive crops against slow-changing habits…
@@ -847,6 +866,10 @@ solar-system comparison lessons.
 41. **Engineering design — bridges and loads** (`science-skills/engineering-design-bridges-and-loads`) — the interdisciplinary project: design a bridge to get to the other side, then build it and test it under load, step by step (Egypt, Primary 4 — *Primary 4 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition)*, printed p. 56)
 42. **Robots and artificial intelligence — an introduction** (`science-skills/robots-and-artificial-intelligence-introduction`) — a project story: children design a homework robot, then debate what computers and AI can and cannot do (Egypt, Primary 6 — *Primary 6 Science, Science Term 1 (Discovery Education Science Techbook, Egypt edition)*, printed p. 116)
 
+
+43. **Explaining and arguing in science** (`science-skills/explaining-and-arguing-in-science`) — scientific explanation skills: agree/disagree circles, discussion formats, odd-one-out, thought experiments — teacher-guide evidence only, acceptance 0 (Cambodia — *Student-Centred Science Teaching, Part 1*, Ch. 2, printed pp. 34–56; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+44. **Learning with analogies and models** (`science-skills/learning-with-analogies-and-models`) — teaching science with analogies and models: Focus-Action-Reflection, Synectics, role play, and learner-made analogies and models — teacher-guide evidence only, acceptance 0 (Cambodia — *Student-Centred Science Teaching, Part 3*, Ch. 5, printed pp. 3–20; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+45. **Science learning games** (`science-skills/science-learning-games`) — learning games for science: memory game, Jeopardy, last-winner, loop and domino games — a loop that will not close names the missing link — teacher-guide evidence only, acceptance 0 (Cambodia — *Student-Centred Science Teaching, Part 3*, Ch. 6, printed pp. 67–81; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
 ## Unit 16 — Biology
 
@@ -2697,6 +2720,8 @@ solar-system comparison lessons.
 76. **Movements of sea water — waves, currents and tides** (`earth-and-space/movements-of-sea-water-waves-currents-and-tides`) — sea water is never still: it moves in waves on its surface, in currents through its body, and in tides rising and falling at the shore (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed p. 106)
 77. **Continents and oceans of the Earth** (`earth-and-space/continents-and-oceans-of-the-earth`) — the Earth's surface sorted into its great lands — the continents — and its great waters — the oceans — with islands and seas between them (Cuba, Grade 6 — *Ciencias Naturales, Sexto grado*, printed pp. 27, 28, 34)
 78. **Landscape features — and how they formed** (`earth-and-space/landscape-features-and-how-they-formed`) — mapping Samoa's special landscape features (waterfalls, cliffs, caves, lava flows, the chain of volcanoes, blowholes, Sliding Rock, bays, lakes, pools, rivers), its special environments and its people-made features, then a field trip hunting evidence of how the landscape formed and is changing — volcanic ash and lava, water erosion, plants splitting rock, wind-bent trees, and people's changes for better and worse (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 89–92)
+
+79. **Faults and folds in the Earth's crust** (`earth-and-space/faults-and-folds-in-the-earths-crust`) — rock layers bent into folds or cracked into faults by the plates' pressure — taught between plate tectonics and the chapter's volcanoes and earthquakes (Cambodia, Grade 9 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, Earth Ch. 2, Lesson 2, printed p. 282; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
 ## Unit 20 — Motion, Force and Energy
 

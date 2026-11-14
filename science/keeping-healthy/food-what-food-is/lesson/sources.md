@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -77,3 +77,23 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, food what food is
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Kindergarten core book, guide evidence):** *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ* (Core Study Book for Kindergarten Education — Science) (teacher/core book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Phnom Penh, 2022 (Buddhist year 2566 on cover) (Sala 00001440). Title as printed: សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Study Book for Kindergarten Education — Science). PDF 130 pages, 9,931,230 bytes (matches record). Verdict: COMPLETE. It is the official core reference book for teaching science at kindergarten level (all three KG levels): pedagogy chapters plus a bank of classroom science activities; filed as guide evidence. Twin record: TSV release record (Sala 00001440) and books.json record kg1/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. GUIDE EVIDENCE — cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food: what it is (Biology Ch. 5, Lesson 1) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 220 |
+| theme: nutrition — food for young children (Ch. 2.3), guide evidence (Cambodia, Kindergarten) | Cambodia, *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, printed p. 36 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, India, Cambodia).**
+
+The Cambodia guide-evidence rows above add provenance from the same country, counted once.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books and its Kindergarten core book / Student-Centred Science Teaching manuals teach this thing in the chapters, lessons and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, food what food is

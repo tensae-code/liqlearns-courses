@@ -1,6 +1,6 @@
 # Sources — Muscles — how movement happens
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -112,3 +112,18 @@ Searchable tags: gabon, super efficace, gabon grade 3, muscles how movement happ
 **Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Bulgaria, Moldova, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, muscles how movement happens
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 4, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤* (Science, Grade 4) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004334). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4). PDF 113 pages, 32,744,456 bytes (matches books.json size_bytes and pages). Verdict: COMPLETE (Chapters 1–4, printed pp. 1–112). Twin record: TSV release record (mid-size-books-7) and books.json record grade-04/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. All books in Cambodia's set are official MoEYS publications — no private exam-prep booklet was found in the set. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| muscles and movement (Ch. 2, Lesson 1, second part) (Cambodia, Grade 4) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, printed p. 36 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Bulgaria, Moldova, Cuba, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, muscles how movement happens

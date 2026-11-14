@@ -1,6 +1,6 @@
 # Sources — Living and non-living things
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -75,3 +75,18 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Kindergarten core book, guide evidence):** *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ* (Core Study Book for Kindergarten Education — Science) (teacher/core book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Phnom Penh, 2022 (Buddhist year 2566 on cover) (Sala 00001440). Title as printed: សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Study Book for Kindergarten Education — Science). PDF 130 pages, 9,931,230 bytes (matches record). Verdict: COMPLETE. It is the official core reference book for teaching science at kindergarten level (all three KG levels): pedagogy chapters plus a bank of classroom science activities; filed as guide evidence. Twin record: TSV release record (Sala 00001440) and books.json record kg1/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. GUIDE EVIDENCE — cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: things that are alive and things that are not (activity 2.9), guide evidence (Cambodia, Kindergarten) | Cambodia, *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, printed p. 110 |
+
+**Acceptance count unchanged: taught in 1 country (Guyana).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count.
+
+Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, living and non living things

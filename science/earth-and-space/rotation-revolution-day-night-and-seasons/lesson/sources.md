@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -267,3 +267,26 @@ Searchable tags: samoa, samoa mesc, earth and space rotation revolution day nigh
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, earth-and-space rotation-revolution-day-night-and-seasons
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 4, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤* (Science, Grade 4) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004334). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4). PDF 113 pages, 32,744,456 bytes (matches books.json size_bytes and pages). Verdict: COMPLETE (Chapters 1–4, printed pp. 1–112). Twin record: TSV release record (mid-size-books-7) and books.json record grade-04/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. All books in Cambodia's set are official MoEYS publications — no private exam-prep booklet was found in the set. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Grade 7, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧* (Science, Grade 7) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004320). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7). PDF 304 pages, 70,701,849 bytes (matches record). Verdict: COMPLETE — a combined book in four named parts: Physics (printed pp. 1–94), Chemistry (pp. 95–150), Biology (pp. 151–244), Earth Science (pp. 245–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves — the Biology part's environment/health chapters and the whole Earth-science part are general science and are placed item by item. Twin record: TSV release record and books.json record grade-07/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — teacher-training manual, Part 2, guide evidence):** *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី ២* (Teaching Science the Student-Centred Way, Part 2) (teacher guide, cross-grade) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Department of Teacher Training, 2012; 2nd printing 2013, VVOB/DGD support. PDF 144 pages, 6,465,155 bytes. Verdict: COMPLETE (Ch. 4 only: Reflecting on misconceptions — individual thinking, group discussion, experiment observation, and discussion combined with experiment; followed by 18 worked misconception examples, printed pp. 99–105). Official government teacher-training manual — not a private exam-prep booklet. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the seasons of the Earth (Ch. 4, Lesson 2) (Cambodia, Grade 4) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, printed p. 102 |
+| the movements of the Earth (Earth Ch. 2, Lesson 1) (Cambodia, Grade 7) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, printed p. 268 |
+| worked misconception example: seasons on Earth; also why the night is dark and solar eclipses (Examples 1–3), guide evidence (Cambodia, cross-grade teacher guide) | Cambodia, *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី 2 (Student-Centred Science Teaching, Part 2)*, printed p. 99 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab, Samoa, Egypt, Cambodia).**
+
+The Cambodia guide-evidence rows above add provenance from the same country, counted once.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books and its Kindergarten core book / Student-Centred Science Teaching manuals teach this thing in the chapters, lessons and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, rotation revolution day night and seasons

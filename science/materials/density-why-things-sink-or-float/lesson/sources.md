@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -106,3 +106,18 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, density why things sink or float, stiinte, sciences, grade 5
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — teacher-training manual, Part 2, guide evidence):** *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី ២* (Teaching Science the Student-Centred Way, Part 2) (teacher guide, cross-grade) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Department of Teacher Training, 2012; 2nd printing 2013, VVOB/DGD support. PDF 144 pages, 6,465,155 bytes. Verdict: COMPLETE (Ch. 4 only: Reflecting on misconceptions — individual thinking, group discussion, experiment observation, and discussion combined with experiment; followed by 18 worked misconception examples, printed pp. 99–105). Official government teacher-training manual — not a private exam-prep booklet. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| worked misconception examples: floating and dissolving (Examples 9–10), guide evidence (Cambodia, cross-grade teacher guide) | Cambodia, *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី 2 (Student-Centred Science Teaching, Part 2)*, printed pp. 101–102 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Uganda, Finland, Bulgaria, Moldova).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count.
+
+Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, density why things sink or float

@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -288,3 +288,20 @@ Searchable tags: samoa, samoa mesc, motion force and energy force what force is 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, motion-force-and-energy force-what-force-is-and-what-it-does
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 4, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤* (Science, Grade 4) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004334). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4). PDF 113 pages, 32,744,456 bytes (matches books.json size_bytes and pages). Verdict: COMPLETE (Chapters 1–4, printed pp. 1–112). Twin record: TSV release record (mid-size-books-7) and books.json record grade-04/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. All books in Cambodia's set are official MoEYS publications — no private exam-prep booklet was found in the set. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| force and motion (Ch. 3, Lesson 2) (Cambodia, Grade 4) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, printed p. 70 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria, United States, Pakistan (Punjab, Samoa, Egypt, Cambodia).**
+
+Cambodia's earlier rows in this lesson are PRIVATE booklet evidence only (the Preah Sisowath High School, New Generation School PISA sample-test booklets stocked by the Physics wave) and remain evidence only, counted nowhere; Cambodia is counted here through the MoEYS Grade 4 student book above — the first MoEYS textbook row for Cambodia in this lesson.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, force what force is and what it does

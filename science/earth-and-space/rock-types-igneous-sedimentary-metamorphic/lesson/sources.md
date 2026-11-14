@@ -1,6 +1,6 @@
 # Sources — Rock types — igneous, sedimentary, metamorphic
 
-countries: Costa Rica, Cuba, Samoa
+countries: Costa Rica, Cuba, Samoa, Cambodia
 
 **Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
 
@@ -44,3 +44,20 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, rock ty
 Placement choice, on the record: this placement was filed as "rocks-and-earth/rocks-the-three-kinds-and-the-rock-cycle" — samoa-placements.md, printed pp. 15-16 — and is stocked here because there is no rocks-and-earth title in the course; the existing Earth and Space lesson on the three rock types — igneous, sedimentary, metamorphic — teaches the three kinds as its own thing (the cycle itself is stocked into the rock-cycle lesson from the placement filed for it). The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, earth and space rock types igneous sedimentary metamorphic
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of rock (Earth Ch. 2, Lesson 4) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 270 |
+
+**Acceptance count: taught in 4 countries (Costa Rica, Cuba, Samoa, Cambodia).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — three-kinds-of-rock" — cambodia-placements.md, Grade 8, printed p. 270 — and is stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for it; the original slug is recorded here.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, rock types igneous sedimentary metamorphic

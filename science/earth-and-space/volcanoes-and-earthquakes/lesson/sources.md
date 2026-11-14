@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only)
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -31,3 +31,23 @@ Searchable tags: volcanoes, earthquakes, eruptions, lava, ground shaking, plate 
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 5, volcanoes and earthquakes
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 9, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩* (Science, Grade 9) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004309); preface works from the 2006 curriculum. Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9). PDF 320 pages, 67,998,724 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–158), Biology (pp. 159–260), Earth Science (pp. 261–319). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-09/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| volcanoes (Earth Ch. 2, Lesson 3) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 286 |
+| earthquakes (Earth Ch. 2, Lesson 4) (Cambodia, Grade 9) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, printed p. 290 |
+
+**Acceptance count: taught in 2 countries (Australia, Cambodia).**
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — volcanoes" — cambodia-placements.md, Grade 9, printed p. 286 — and is stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for it; the original slug is recorded here.
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — earthquakes" — cambodia-placements.md, Grade 9, printed p. 290 — and is stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for it; the original slug is recorded here.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, volcanoes and earthquakes

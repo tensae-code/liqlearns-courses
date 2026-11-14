@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -206,3 +206,23 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, todays 
 **Acceptance count: taught in 11 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Cuba, Samoa).**
 
 Searchable tags: samoa, samoa mesc, weather and seasons todays weather
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — Kindergarten core book, guide evidence):** *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ* (Core Study Book for Kindergarten Education — Science) (teacher/core book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Phnom Penh, 2022 (Buddhist year 2566 on cover) (Sala 00001440). Title as printed: សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Study Book for Kindergarten Education — Science). PDF 130 pages, 9,931,230 bytes (matches record). Verdict: COMPLETE. It is the official core reference book for teaching science at kindergarten level (all three KG levels): pedagogy chapters plus a bank of classroom science activities; filed as guide evidence. Twin record: TSV release record (Sala 00001440) and books.json record kg1/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. GUIDE EVIDENCE — cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather phenomena: the kinds of weather we meet (Lesson 16; opening page verified visually — sunny, windy and rainy weather) (Cambodia, Grade 6) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6)*, printed p. 112 |
+| activity: falling rain — watching and talking about rain (activity 2.10), guide evidence (Cambodia, Kindergarten) | Cambodia, *សៀវភៅសិក្សាគោលសម្រាប់មត្តេយ្យសិក្សា — វិទ្យាសាស្ត្រ (Core Book for Kindergarten Education: Science)*, printed p. 111 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Cuba, Samoa, Cambodia).**
+
+The Cambodia guide-evidence rows above add provenance from the same country, counted once.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books and its Kindergarten core book / Student-Centred Science Teaching manuals teach this thing in the chapters, lessons and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, todays weather

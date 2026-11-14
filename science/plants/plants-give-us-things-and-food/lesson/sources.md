@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -146,3 +146,18 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5
 **Acceptance count: taught in 10 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, plants give us things and food
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 4, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤* (Science, Grade 4) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004334). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4). PDF 113 pages, 32,744,456 bytes (matches books.json size_bytes and pages). Verdict: COMPLETE (Chapters 1–4, printed pp. 1–112). Twin record: TSV release record (mid-size-books-7) and books.json record grade-04/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. All books in Cambodia's set are official MoEYS publications — no private exam-prep booklet was found in the set. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| benefits and uses of plants (Ch. 1, Lesson 2) (Cambodia, Grade 4) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៤ (Science, Grade 4)*, printed p. 12 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia).**
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, plants give us things and food

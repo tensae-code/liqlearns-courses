@@ -1,6 +1,6 @@
 # Sources — The rock cycle
 
-countries: United States, Samoa, Egypt
+countries: United States, Samoa, Egypt, Cambodia
 
 **Book (United States — Utah Grade 7):** *Utah OER Science Textbook – Grade 7* (student book) — United States. Title as printed: "7th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 64,618,223 bytes (matches repo size), 202 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -49,3 +49,25 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, earth-and-space the-rock-cycle
+
+
+## Cambodia growth (2026-11-14, General Science expansion)
+
+**Book (Cambodia — Grade 8, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨* (Science, Grade 8) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004312). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8). PDF 305 pages, 68,446,866 bytes (matches record). Verdict: COMPLETE — combined book in four named parts: Physics (printed pp. 1–102), Chemistry (pp. 103–152), Biology (pp. 153–246), Earth Science (pp. 247–303). Scope rule applied, as filed: only general/integrated science parts are placed here; the pure Physics/Chemistry/Biology chapters carry chapter-level lines in the placements file noting coverage by the earlier Physics/Chemistry/Biology waves. Twin record: TSV release record and books.json record grade-08/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+**Book (Cambodia — teacher-training manual, Part 3, guide evidence):** *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី ៣* (Teaching Science the Student-Centred Way, Part 3) (teacher guide, cross-grade) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), Department of Teacher Training, 2012; 2nd printing 2013, VVOB/DGD support. PDF 126 pages, 6,148,262 bytes. Verdict: COMPLETE (Ch. 5 Analogy and models; Ch. 6 Learning games). Official government teacher-training manual — not a private exam-prep booklet. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the rock cycle (Earth Ch. 2, Lesson 3) (Cambodia, Grade 8) | Cambodia, *វិទ្យាសាស្ត្រ ថ្នាក់ទី៨ (Science, Grade 8)*, printed p. 268 |
+| the rock-cycle learning game (Earth/environment science) (Ch. 6, Activity 4), guide evidence (Cambodia, cross-grade teacher guide) | Cambodia, *ការបង្រៀនមុខវិជ្ជាវិទ្យាសាស្ត្រតាមបែបគោលវិធីសិស្សមជ្ឈមណ្ឌល, ផ្នែកទី 3 (Student-Centred Science Teaching, Part 3)*, printed p. 73 |
+
+**Acceptance count: taught in 4 countries (United States, Samoa, Egypt, Cambodia).**
+
+The Cambodia guide-evidence rows above add provenance from the same country, counted once.
+
+Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED — the-rock-cycle" — cambodia-placements.md, Grade 8, printed p. 268 — and is stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for it; the original slug is recorded here.
+
+Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books and its Kindergarten core book / Student-Centred Science Teaching manuals teach this thing in the chapters, lessons and activities named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: cambodia, moeys, the rock cycle
