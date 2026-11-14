@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -62,3 +62,20 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — looking after local bush materials, storing materials for future use and preserving local food, taught in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, bush materials, storing materials, preserving food
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 file was byte-compared against the Tuvalu record's file — same size, 14,826,178 bytes). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+**Book (Nauru):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson’s acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unsustainable fishing: overfishing, nets and anchors damaging coral, illegal killing of giant clams, sharks and turtles, explosive fishing, commercial depletion (Nauru, Years 5–6) | Nauru, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 18 |
+| Over-harvesting the uga (coconut) crab: about 10,000 exported in bags in 2014, decline, and Niue’s 2015 export ban — a Pacific conservation decision (Nauru, Years 7–8) | Nauru, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 13 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Turkey, Nauru).**
+
+Nauru’s own way — caring taught through Pacific fishing practice and Niue’s uga export ban — a real conservation decision — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp readers 2 and 4, overfishing, uga crab, export ban, conservation

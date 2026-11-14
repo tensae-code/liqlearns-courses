@@ -126,7 +126,11 @@ The titles, in ladder order:
     place (declaring a place tabu so its plants and animals
     recover — a traditional conservation practice taught as
     science — teacher-guide evidence only, acceptance 0) —
-    33 lessons
+    and Nauru's lesson — plankton, the ocean's tiniest life
+    (phytoplankton — tiny plants seen only with microscopes —
+    drift on the currents, produce over half the world's
+    oxygen by photosynthesis, and anchor the ocean food webs) —
+    34 lessons
     in CURRICULUM.md Unit 11.
 12. **Family, School and Community** — who is in a family, the
     people of a school, the people of a community and their work.

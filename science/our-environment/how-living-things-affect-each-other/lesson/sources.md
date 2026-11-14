@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -79,3 +79,21 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — why we need trees and the work animals do, taught in Bislama in the guide's Term 1 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, why we need trees, work animals do
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 file was byte-compared against the Tuvalu record's file — same size, 14,826,178 bytes). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+**Book (Nauru):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson’s acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Zooxanthellae algae living inside coral for 60 million years: shelter traded for food — a symbiotic relationship (Nauru, Years 5–6) | Nauru, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 12 |
+| Life on a reef: a noisy world of snapping shrimps, grunting fish and singing whales; camouflage — the glass shrimp hides by being invisible (Nauru, Years 5–6) | Nauru, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 14 |
+| Settlement changes islands: hunting, clearing forest for crops, and introduced pigs, rats, dogs and exotic plants drive Pacific bird extinctions (Nauru, Years 7–8) | Nauru, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 8 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Australia, Italy, Nauru).**
+
+Nauru’s own way — relationships taught through coral and its algae, reef camouflage, and what settlement did to island birds — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp readers 2 and 4, symbiosis, zooxanthellae, camouflage, introduced species

@@ -1,6 +1,6 @@
 # Sources — Saving the soil — conservation methods
 
-countries: Ethiopia, Palau (teacher's-edition evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Nauru
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -17,3 +17,17 @@ countries: Ethiopia, Palau (teacher's-edition evidence only)
 Palau is named as teacher's-edition evidence only (*Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* — teacher's edition), not added to this count.
 
 Searchable tags: soil conservation, terracing, contour ploughing, check dam, afforestation, shelter belt, crop residue, Ethiopia Grade 8 General Science Unit 5, palau, ridge to reef palau, palau grade 5
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson’s acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Soil fertility in Tonga: intercropping under coconuts shelters soil and storm-protects plants; export cropping leaves no fallow rest, so soil cannot restore its nutrients (Nauru, Years 7–8) | Nauru, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 17 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Nauru).**
+
+Nauru’s own way — saving soil taught through Tonga’s intercropping under coconuts and the cost of no fallow — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp reader 4, tonga soil fertility, intercropping, fallow

@@ -1,6 +1,6 @@
 # Sources — Forests and what they give
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -43,3 +43,17 @@ Canada is named as teacher-guide evidence only (its two *Science First Peoples* 
 Canada's own way — the Secondary guide's foundations: Indigenous Knowledge / Indigenous Science, two-eyed seeing, involving local First Nations communities, land-based activities and narratives in the science classroom — is itself course content, carried exactly as filed.
 
 Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson’s acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What forests give: clean air (carbon dioxide to oxygen), animal habitat, cooler air, recycled water and nutrients, stable soil, storm protection, food (Nauru, Years 7–8) | Nauru, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 5 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Nauru).**
+
+Nauru’s own way — forests taught by what they give Pacific island homes — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp reader 4, what forests give, clean air, storm protection

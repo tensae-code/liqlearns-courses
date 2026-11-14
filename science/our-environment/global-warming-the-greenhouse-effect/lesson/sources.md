@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -78,3 +78,17 @@ Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de o
 **Acceptance count: taught in 4 countries (Ethiopia, Uganda, North Macedonia, Italy).**
 
 Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 file was byte-compared against the Tuvalu record's file — same size, 14,826,178 bytes). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Climate-change effects on reefs: coral bleaching when warming seas stress coral into expelling its zooxanthellae; stronger cyclones (Nauru, Years 5–6) | Nauru, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 18 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru).**
+
+Nauru’s own way — warming taught through coral bleaching and stronger cyclones in the Pacific — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp reader 2, coral bleaching, cyclones, climate change reefs

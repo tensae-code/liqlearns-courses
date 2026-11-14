@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -84,3 +84,17 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — people and the ground, people and the air, and a good way to make a garden, taught in Bislama in the guide's Term 1 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, people and the ground, garden
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson’s acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Soil and nutrient cycles: soil alive with microbes — bacteria, fungi, algae; more microbes in a teaspoon of soil than people on Earth (Nauru, Years 7–8) | Nauru, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 3 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mexico, Suriname, Italy, Nauru).**
+
+Nauru’s own way — soil taught as a living thing, crowded with microbes, in the Pacific land reader — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp reader 4, living soil, microbes, nutrient cycles

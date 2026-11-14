@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden
+countries: Ethiopia, Sweden, Nauru
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -50,3 +50,17 @@ Searchable tags: grouping animals, classification, mammals birds reptiles amphib
 Sweden's own way — animals are taught first as big watercolour portraits to name and talk about, with no text at all, and grouping is done by sorting and discussing the portraits and by finding each animal in the habitat scene where it belongs — is itself course content, carried exactly as filed. Honesty: *Djur omkring oss B — kopieringsunderlag* is PARTIAL (only the book's copy pages, printed pp. 84–86, 89, 97, are held); its main pages are the samtliga picture set, so no content is unaccounted for between the two files.
 
 Searchable tags: sweden, spsm, djur omkring oss, samtliga djur, mala djuren, grouping animals, portraits, habitat scene, verklighetsuppfattning
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson’s acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Niue’s reptiles and birds: the rare olive small-scaled skink (found only in Niue and American Samoa); 32 recorded bird species — seabirds, shorebirds, land birds (Nauru, Years 7–8) | Nauru, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 13 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Sweden, Nauru).**
+
+Nauru’s own way — grouping taught through Niue’s reptiles and its 32 recorded bird species — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp reader 4, niue reptiles and birds, skink, grouping animals

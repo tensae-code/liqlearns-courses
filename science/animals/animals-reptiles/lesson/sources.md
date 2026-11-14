@@ -1,6 +1,6 @@
 # Sources — Animals — reptiles
 
-countries: Ethiopia, Sweden
+countries: Ethiopia, Sweden, Nauru
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -30,3 +30,17 @@ Searchable tags: reptiles, scales, basking, lizards, snakes, crocodiles, tortois
 Sweden's own way — the adder, the one local snake, is met as a single full-page watercolour portrait in the animals-around-us set, to name and talk about — is itself course content, carried exactly as filed.
 
 Searchable tags: sweden, spsm, djur omkring oss, snake, adder, reptile, portrait
+
+## Nauru growth (2026-11-13, General Science expansion)
+
+**Book (Nauru):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Nauru (regional USP reader adopted by Nauru). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Nauru; cited under Nauru as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 file was byte-compared against the Tuvalu record's file — same size, 14,826,178 bytes). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nauru-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ocean reptiles: egg-laying, cold-blooded, scales or scutes; Pacific turtles and sea snakes; Niue’s endemic katuali sea snake with a paddle tail (Nauru, Years 5–6) | Nauru, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 9 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Sweden, Nauru).**
+
+Nauru’s own way — ocean reptiles taught through Pacific turtles and sea snakes, Niue’s katuali among them — is itself course content, carried exactly as filed.
+
+Searchable tags: nauru, usp reader 2, ocean reptiles, turtles, sea snakes, katuali
