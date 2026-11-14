@@ -1,6 +1,6 @@
 # Sources — Switches — sending packets only where they belong
 
-countries: Ethiopia, Nepal, China, Libya, Rwanda, Greece
+countries: Ethiopia, Nepal, China, Libya, Rwanda, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Nepal, China, Libya, Rwanda, Greece
 
 **Book 7:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 8:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The switch learns the layout | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 41 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Nepal, China, Libya, Rwanda, Greece
 | Unit 8 Network Components: network devices (switch, hub, access point, router) and peripherals (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 133 (teacher guide — evidence) |
 | Computer network devices: hub, switch, router; network peripherals | Rwanda Grade 8 S2 ICT Student Book, printed p. 244 |
 | Unit 2 Active network equipment – devices | Greece Grade 8 Pliroforiki B, printed p. 22 |
+| Chapter 2, 2.5.4: hubs and switches, and how a switch uses MAC addresses | Bangladesh HSC ICT, printed p. 67 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, China, Libya, Rwanda, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, China, Libya, Rwanda, Greece, Bangladesh).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -39,4 +42,6 @@ Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 gui
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: switch, hub, packet, physical address, port, broadcast, Grade 9 ICT Ethiopia, nepal, china, libya, grade 9 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: switch, hub, packet, physical address, port, broadcast, Grade 9 ICT Ethiopia, nepal, china, libya, grade 9 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, bangladesh, hsc ict classes xi xii and alim

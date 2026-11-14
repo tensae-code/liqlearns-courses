@@ -1,6 +1,6 @@
 # Sources — Cyber security — defending everything connected
 
-countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece
+countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 
 **Book 15:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 16:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 17:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What cyber security is; its aim and five categories | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 197–198 |
@@ -50,8 +54,10 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 | Unit 1 Cyber Security, Theme 1: concepts of cyber security and information security, and why they matter | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 | Ch.2 §II.3 Protecting yourself from dangers through the internet | Laos Grade 12 ICT student, printed p. 63 |
 | Ch.16 Security and protection issues on the internet | Greece Grade 10 Efarmoges Pliroforikis, printed p. 135 |
+| Learning Experience 4 "Cyber Intelligence", Session 3: We will Prevent Cybercrimes Now | Bangladesh Grade 7 Digital Technology, printed p. 51 |
+| Learning Experience 2 "Let us Know about Cyber Threats, and Ensure Information Security", Session 1: Cyber Risks and Crimes Committed in Digital Media | Bangladesh Grade 9 Digital Technology, printed p. 28 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh).**
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
@@ -79,4 +85,8 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 9 digital technology

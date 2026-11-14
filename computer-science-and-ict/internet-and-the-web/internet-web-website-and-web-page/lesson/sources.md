@@ -1,6 +1,6 @@
 # Sources — Internet, Web, website and web page
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 
 **Book 13:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 14:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Internet vs Web — network vs means of access | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed pp.47–48 |
@@ -33,6 +35,7 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 | Capítulo 3.1 La web como servicio fundamental de internet | Cuba, *Informática, Grade 8*, printed p. 85 |
 | 1.1 The Internet and WWW (telling them apart) | Fiji, *Computer Studies, Year 12*, printed p. 7 |
 | 5.1 Web page, website and World Wide Web | Bhutan, *Literacy with ICT, Class IV*, printed p. 38 |
+| Chapter 4, 4.1: Introduction to web design — web, website and the World Wide Web; client, server, browser and the user | Bangladesh HSC ICT, printed p. 115 |
 
 | Sub lesson 3 — The Web in depth — server, hyperlink, URL (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | "The Concept of a Web Page" | North Macedonia, *Informatics, Year 2*, Тема 5, printed p. 281 |
@@ -47,7 +50,7 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 | Unit 4 Ch.1 Lesson 2 The internet and the World Wide Web | Iraq, *Computer, Grade 8*, printed p. 119 |
 | Unit 3 Lesson 1: The World Wide Web | Sudan, *ICT, Grade 7*, printed p. 54 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -69,6 +72,8 @@ Fiji's own way (Year 12 Computer Studies student book): Written locally by the s
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv, bangladesh, hsc ict classes xi xii and alim
 
 Growth note (Wave 3, band E4): Sub lessons 1–3 are the original Grade 7/8 lesson, unchanged in content; Sub lesson 4 is the Grade 11 depth added from the Grade 11 book (printed pp. 76–77) — the same Web, with its inventor, place, year and four foundations made explicit. Note the Grade 8 part of this lesson gives the Web's invention as 1991 (Grade 8 book, printed p. 64) while the Grade 11 book gives 1989 at CERN — both are taught as their own books state them, in their own sub lessons, and the Grade 11 date is the one the Grade 11 sub lesson and its questions use. Unit 4 figure references and captions repeatedly disagree in the Grade 11 book and table numbers are reused; this growth cites no figure or table number.

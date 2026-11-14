@@ -1,6 +1,6 @@
 # Sources — SaaS — software you subscribe to, not install
 
-countries: Ethiopia, Iraq, Greece
+countries: Ethiopia, Iraq, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 **Book 2:** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 Ministry of Education, GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md.
@@ -9,6 +9,8 @@ countries: Ethiopia, Iraq, Greece
 
 **Book 4:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SaaS defined: vendor hosts applications, available over a network/internet; monthly or yearly subscription instead of buying and installing; any internet-enabled device; tasks (accounting, sales, invoicing, planning); examples (Google Workspace, Dropbox, Office 365, Slack, Cisco WebEx, Concur, GoToMeeting) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 44–45 |
@@ -16,8 +18,9 @@ countries: Ethiopia, Iraq, Greece
 | Cloud services pupils already use: mail, social media, file storage, Google Classroom, Microsoft's education centre, virtual-meeting applications (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 2 (teacher guide — evidence), printed pp. 37–38 |
 | Unit 4 Ch.2 Lesson 2 Cloud applications and services | Iraq, *Computer, Grade 11*, printed p. 134 |
 | Ch.13 Cloud service models (SaaS/PaaS/IaaS set) / applications of cloud services | Greece Grade 10 Efarmoges Pliroforikis, printed p. 111 |
+| Chapter 2, 2.5.8: SaaS and NaaS — Google Apps, Drive and Dropbox | Bangladesh HSC ICT, printed p. 75 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Greece).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Greece, Bangladesh).**
 
 The student book's Figure 2.24, printed under this lesson's SaaS discussion on printed p. 45, is captioned “Hybrid cloud”. The caption belongs to the hybrid-cloud lesson's topic, not to SaaS; this lesson teaches SaaS from the §2.2 text and flags the misplaced caption here, as the placements record it.
 
@@ -25,4 +28,6 @@ Iraq's own way (Grade 11): the final preparatory year is the most forward-lookin
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: SaaS, software as a service, subscription software, Google Workspace, service models compared, Grade 12 ICT Ethiopia, iraq, grade 11, greece, grade 10 efarmoges pliroforikis lykeiou
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: SaaS, software as a service, subscription software, Google Workspace, service models compared, Grade 12 ICT Ethiopia, iraq, grade 11, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, hsc ict classes xi xii and alim

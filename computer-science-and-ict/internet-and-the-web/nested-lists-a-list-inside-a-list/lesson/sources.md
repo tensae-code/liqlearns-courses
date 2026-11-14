@@ -1,19 +1,24 @@
 # Sources — Nested lists — a list inside a list
 
-countries: Ethiopia
+countries: Ethiopia, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
 **Book 2:** *Information Technology, Teacher Guide, Grade 11* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA, Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc, Content Editor), Temesgen Debelo Ayana (MA, Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First published August 2023, under GEQIP-E. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-teacher-placements.md (teacher evidence).
+
+**Book 3:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | How nesting works | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed p. 101 |
 | The worked shapes — the book's example and practice | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed p. 101 |
 | Indentation for readability; the nested athlete review model (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 4, printed pp. 80–82, 83–88 |
+| Chapter 4, 4.2: nested lists — the divisions of Bangladesh example | Bangladesh HSC ICT, printed p. 127 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bangladesh).**
 
 Unit 4 figure references and captions repeatedly disagree in the student book (the elements text cites Figure 4.3 where the caption is 4.2; the document-structure text cites Figure 4.2 where the caption is 4.4; the align-attribute text cites Figure 4.4 where the caption is 4.5; the table example text cites Figure 4.5 where the caption is 4.11) and table numbers are reused (two different tables are each numbered 4.4/4.5). This lesson teaches from the pictured content and cites no figure or table number. "statment" is misspelled in review headings throughout the book; the correct spelling is taught. Guide-side faults: the guide prints "HMTL" for HTML in its §4.6 heading and Unit 4 topic lists; the correct HTML is taught.
 
-Searchable tags: nested lists, list inside a list, Ethiopian runners, Grade 11 ICT Ethiopia
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: nested lists, list inside a list, Ethiopian runners, Grade 11 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim

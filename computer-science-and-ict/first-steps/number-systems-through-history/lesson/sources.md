@@ -1,17 +1,22 @@
 # Sources — Number Systems Through History
 
-countries: Libya
+countries: Libya, Bangladesh
 
 **Book 1:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
+
+**Book 2:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Ch 1.2, number systems: historical background, counting among ancient nations, the discovery of zero | Libya Grade 8 Computer, printed p. 23 |
+| Chapter 3, 3.1: History of inventing numbers — Babylonian, Egyptian, Mayan, Roman and Indian systems, and the invention of zero (filed as NEW LESSON NEEDED — programming/a-short-history-of-inventing-numbers; stocked in this lesson because this lesson teaches the history of counting among the ancient nations and the discovery of zero — the history Bangladesh's chapter tells through the Babylonian, Egyptian, Mayan, Roman and Indian systems) | Bangladesh HSC ICT, printed p. 80 |
 
-**Acceptance count: taught in 1 country (Libya).**
+**Acceptance count: taught in 2 countries (Libya, Bangladesh).**
 
 Placement choice: this lesson was built new for the ICT expansion (Libya, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — first-steps/number-systems-through-history). It sits in the First Steps title (first-steps/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Libya student book; teacher-guide placements are cited as (teacher guide — evidence) and counted nowhere on their own — each new lesson here also carries student-book placements, so Libya is counted once. Duplicate catalogue records of the same book (5 of the 15 records duplicate books) are cited once: 10 distinct books in this expansion. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: number systems, history of counting, ancient nations, zero, place value, first steps, libya, grade 8 computer
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: number systems, history of counting, ancient nations, zero, place value, first steps, libya, grade 8 computer, bangladesh, hsc ict classes xi xii and alim

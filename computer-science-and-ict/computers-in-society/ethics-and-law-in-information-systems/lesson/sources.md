@@ -1,6 +1,6 @@
 # Sources — Ethics and law in information systems
 
-countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Moldova
+countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Moldova, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri L
 
 **Book 14:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 15:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
+**Book 16:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ethics, and why information systems raise questions | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 2 (student placement item 2) |
@@ -47,8 +51,10 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri L
 | Unit 1, Theme 6: the main ethical aspects of cyber security — using technology responsibly and not harming others | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 | Ch.5 §3 Computer ethics (Computer Ethnics, as printed) | Laos Grade 6 ICT student, printed p. 89 |
 | 4.3 Drept informatic (IT law) | Moldova Grade 7 Informatică, printed p. 87 |
+| Learning Experience 6 "Digital Technology and Diversity", Sessions 3-4: Ethics in the Use of Digital Technology; Responsible Use of Digital Technology | Bangladesh Grade 9 Digital Technology, printed p. 169 |
+| Chapter 1, 1.4: Ethics of ICT usage — the Ten Commandments of Computer Ethics | Bangladesh HSC ICT, printed p. 29 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Moldova).**
+**Acceptance count: taught in 13 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Moldova, Bangladesh).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -72,4 +78,8 @@ Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no 
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5, mongolia, grade 10 it x, sri lanka, grade 6 reading book, kuwait, grade 10 information technology term 1, laos, grade 6 ict student, moldova, grade 7 informatica
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5, mongolia, grade 10 it x, sri lanka, grade 6 reading book, kuwait, grade 10 information technology term 1, laos, grade 6 ict student, moldova, grade 7 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim

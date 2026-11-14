@@ -1,6 +1,6 @@
 # Sources — E-commerce — buying and selling online
 
-countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece
+countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -23,6 +23,12 @@ countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, L
 **Book 10:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 11:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 12:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 13:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 14:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How a transaction flows | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 16–18 (student placement item 13) |
@@ -37,8 +43,11 @@ countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, L
 | Ch.3 §3.3 Security in electronic commerce | Laos Grade 10 ICT student, printed p. 70 |
 | Unit 8 E-commerce and services | Greece Grade 8 Pliroforiki B, printed p. 79 |
 | Ch.3 Electronic commerce | Greece Grade 10 Efarmoges Pliroforikis, printed p. 28 |
+| Learning Experience 7, Sessions 2 and 4: Citizen Services and Benefits of e-Commerce; steps and factors in getting e-Commerce | Bangladesh Grade 7 Digital Technology, printed p. 101 |
+| Learning Experience 3, Session 2: Classification of E-commerce | Bangladesh Grade 8 Digital Technology, printed p. 57 |
+| Chapter 1, 1.1.8: Business — e-commerce and how it changed buying and selling | Bangladesh HSC ICT, printed p. 9 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -58,4 +67,10 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim

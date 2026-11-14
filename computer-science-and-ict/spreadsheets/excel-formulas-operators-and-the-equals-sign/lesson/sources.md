@@ -1,6 +1,6 @@
 # Sources — Excel formulas — operators and the equals sign
 
-countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece
+countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 
 **Book 15:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 16:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Spreadsheet software and formulas; the six operators; every formula begins with =; the worked entry =5+3*3/2-4 in A1 | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 109–111 |
@@ -47,6 +49,7 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 | Unit 2, Lesson 4 My Special Table (4): arithmetic operations — writing a formula that starts with = | Kuwait Grade 5 Digital Explorer T2, printed p. 73 |
 | Ch.7 §7.2 Writing your own formula | Laos Grade 9 ICT student, printed p. 83 |
 | Unit 3 Calculations in spreadsheet software | Greece Grade 8 Pliroforiki B, printed p. 37 |
+| Learning Experience 1, Session 4: Coordination of Information (formulas doing hundreds of calculations at once) | Bangladesh Grade 8 Digital Technology, printed p. 12 |
 
 **Book (Grade 10 growth):** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -59,7 +62,7 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 | Lesson 19 "Formulas" | Afghanistan, *Computer, Grade 12*, printed p. 75 |
 | Урок 20 "Работа с математическими формулами" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 47 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -90,4 +93,6 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou
+Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 8 digital technology

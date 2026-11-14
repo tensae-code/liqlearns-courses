@@ -1,6 +1,6 @@
 # Sources — Queries across multiple tables
 
-countries: Ethiopia, Kuwait
+countries: Ethiopia, Kuwait, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,18 +10,21 @@ countries: Ethiopia, Kuwait
 
 **Book 4:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — retrieving across tables: open Query Design; add each table with Show Table and the Add button | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 69–71 |
 | Sub lesson 2 — establish the relationship by dragging the primary-key field of the parent table onto the matching field of the child table | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 69–71 |
 | Sub lesson 3 — select the display fields from each table (student name from Student, subject and grade from Grade, teacher name from Teacher); save the query with a name; view the combined results; practice selects across Student and Grade, including students scoring above 85 in all subjects | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 69–71 |
 | Unit 1, Lesson 4 Querying Data from Related Tables: asking questions across the linked tables with conditions | Kuwait Grade 11 Information Technology T2, printed p. 57 |
+| Chapter 6, 6.3.1: joining tables to search across them | Bangladesh HSC ICT, printed p. 203 |
 
 | Sub lesson 4 — a SELECT drawing on two linked tables (unlinked results are meaningless); columns qualified as table.column; both tables in FROM; WHERE equates the first table's primary key with the second's foreign key | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 92–94 |
 | Sub lesson 4 — the worked join: COURSE with CourseOffering listing courses offered, then a second criterion Semester = 'I' filtering to first-semester courses | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 92–94 |
 | Sub lesson 4 (teacher guide — evidence) — the six-step Unit 3 project rubric, filed as the project checklist in this lesson's hands-on | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed p. 74 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Kuwait).**
+**Acceptance count: taught in 3 countries (Ethiopia, Kuwait, Bangladesh).**
 
 Honesty: all parts are pupil-taught from the student book, in Access 2010 exactly as the book teaches. Unit-level book errors closing this title, named here and in the lessons they touch: the Unit Summary (printed p.71) opens with the stray bullet “what is meant by Emerging Technologies” — a copy-over from Unit 2, not taught in this title; and the guide-side Unit 3 review answer prints “Micrsosoft” — a misprint of Microsoft in the teacher guide, flagged here so the guide is not quoted with it; the lessons teach the correct spelling throughout.
 
@@ -29,4 +32,6 @@ Grade 12 growth (2026-11-12, Wave F3): sub lesson 4's join teaching is pupil-tau
 
 Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
 
-Searchable tags: multi-table query, join, drag primary key, Show Table, combined results, above 85, Access, Ethiopia Grade 11, kuwait, grade 11 information technology term 2
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: multi-table query, join, drag primary key, Show Table, combined results, above 85, Access, Ethiopia Grade 11, kuwait, grade 11 information technology term 2, bangladesh, hsc ict classes xi xii and alim

@@ -1,6 +1,6 @@
 # Sources — Drawing a first flowchart
 
-countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -31,6 +31,10 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait
 **Book 15:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 16:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 17:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 18:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The garden-policy worked example — terminators, diamond, Yes and No paths | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 225–226 |
@@ -48,12 +52,14 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait
 | Enquête 1 Étape 2: Mise en forme à l'aide d'un logigramme | Switzerland Grade 5 Décodage 5e–6e, printed p. 6 (Enquête 1) (teacher guide — evidence) |
 | Scénario 5 Séance 2: Le logigramme | Switzerland Grade 6 Décodage 5e–6e, printed p. 14 (Scénario 5) (teacher guide — evidence) |
 | Activité 10 Temps 1.2: Écriture des étapes du tour dans un logigramme | Switzerland Grade 8 Décodage 7e–8e, printed p. 8 (Activité 10) (teacher guide — evidence) |
+| Learning Experience 5 "Planning a Trip with Friend", Session 2: tasks step by step, flowchart of steps to come to school | Bangladesh Grade 6 Digital Technology, printed p. 61 |
+| Learning Experience 5, Sessions 4-5: Let's Make a Flowchart; Converting Self-Developed Algorithms into Flowcharts | Bangladesh Grade 7 Digital Technology, printed p. 68 |
 
 | Drawing flowcharts — add two numbers; positive or negative (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 213–214 |
 | Unit 3, 3-2: Drawing flowcharts — a simple program and a complex program | Sudan, *Computer Science, Grade 11*, printed p. 28 |
 | Unit 3 Lesson 3: Drawing flowcharts for problems | Sudan, *ICT, Grade 9*, printed p. 42 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh).**
 
 Book error, taught corrected: the teacher guide's worked speed-limit flowchart answer tangles its own FALSE branch in words ('if the S is less than or equal to 40, it is FALSE'); the lesson teaches the student book's three speed bands as printed, and the guide's sentence is not followed.
 
@@ -85,4 +91,8 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78
+Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology

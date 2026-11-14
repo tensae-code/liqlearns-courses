@@ -1,6 +1,6 @@
 # Sources — Static and dynamic web pages
 
-countries: Ethiopia, Egypt, Malaysia, Kuwait
+countries: Ethiopia, Egypt, Malaysia, Kuwait, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Egypt, Malaysia, Kuwait
 
 **Book 5:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 6:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Static pages — read, but do not change | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 65 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Egypt, Malaysia, Kuwait
 | Unit 3, The PHP & HTML Languages and Applications of Designing Web Sites (static pages become dynamic) | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 84 (PDF page) |
 | Bab 3 Pengaturcaraan Berasaskan Web, 3.1 Keperluan Bahasa Penskripan Klien, Pelanggan/Pelayan, Laman Statik dan Dinamik | Malaysia Grade 11 SK Tingkatan 5, printed p. 124 |
 | Unit 1: Introduction to Web Pages Development — static and dynamic web pages, and the structural parts of a website | Kuwait Grade 9 Digital Intelligence T1, printed p. 21 |
+| Chapter 4, 4.1: static and dynamic websites | Bangladesh HSC ICT, printed p. 115 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Malaysia, Kuwait).**
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Malaysia, Kuwait, Bangladesh).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -34,4 +37,6 @@ Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-l
 
 Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
 
-Searchable tags: static web page, dynamic web page, web pages, Ethiopia Grade 8 ICT, egypt, grade 10, grade 11, malaysia, grade 11 sk tingkatan 5, kuwait, grade 9 digital intelligence term 1
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: static web page, dynamic web page, web pages, Ethiopia Grade 8 ICT, egypt, grade 10, grade 11, malaysia, grade 11 sk tingkatan 5, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim

@@ -1,18 +1,21 @@
 # Sources — Flip-Flops — RS, JK, D and T
 
-countries: Montenegro, Moldova
+countries: Montenegro, Moldova, Bangladesh
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
 **Book 2:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
+**Book 3:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | What a flip-flop is — and the RS flip-flop | Montenegro, *Digitalna Elektronika*, Poglavlje III §3.1, Bistabilni multivibratori: types of flip-flops (RS, JK, D, T), printed p. 74 |
 | JK, D and T flip-flops | Montenegro, *Digitalna Elektronika*, Poglavlje III §3.1, Bistabilni multivibratori: types of flip-flops (RS, JK, D, T), printed p. 74 |
 | 5.5 Bistabilul RS (filed as NEW LESSON NEEDED — hardware/the-rs-flip-flop-a-circuit-that-remembers-one-bit; stocked in this lesson because this lesson teaches flip-flops — RS, JK, D and T — the RS bistable that remembers one bit, of Moldova's section) | Moldova Grade 11 Informatică, printed p. 154 |
+| Chapter 3, 3.7.8: flip-flops — a memory element with two stable states, clock pulses and its uses (filed as NEW LESSON NEEDED — hardware/flip-flops-a-circuit-that-remembers-one-bit; stocked in this lesson because this lesson teaches the flip-flop as the circuit that remembers one bit — two stable states, clock pulses, and its uses — Bangladesh's memory element) | Bangladesh HSC ICT, printed p. 109 |
 
-**Acceptance count: taught in 2 countries (Montenegro, Moldova).**
+**Acceptance count: taught in 3 countries (Montenegro, Moldova, Bangladesh).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Hardware title (hardware/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -20,4 +23,6 @@ Montenegro's own way: computing is reached from the electronics side — a compu
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: flip-flops, rs, jk, d flip-flop, t flip-flop, bistable, memory cell, clock, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, moldova, grade 11 informatica
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: flip-flops, rs, jk, d flip-flop, t flip-flop, bistable, memory cell, clock, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim

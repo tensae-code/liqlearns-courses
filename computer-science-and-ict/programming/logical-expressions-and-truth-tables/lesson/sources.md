@@ -1,6 +1,6 @@
 # Sources — Logical Expressions and Truth Tables
 
-countries: Iraq, Uzbekistan, Malaysia, Moldova
+countries: Iraq, Uzbekistan, Malaysia, Moldova, Bangladesh
 
 **Book 1:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
@@ -10,14 +10,17 @@ countries: Iraq, Uzbekistan, Malaysia, Moldova
 
 **Book 4:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Ch.1 Lesson 3 Logical expressions and truth tables | Iraq, *Computer, Grade 8*, printed p. 85 |
 | Урок 15 "Логические операции" (filed as programming/logical-operations-and-or-not; stocked into this lesson as the closest existing lesson covering this thing) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 65 |
 | 1.3 Jadual Kebenaran dan Ungkapan Boolean bagi Litar Get Logik (filed as hardware/truth-tables-and-boolean-expressions; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 11 SK Tingkatan 5, printed p. 42 |
 | 4.2 Funcții logice (filed as NEW LESSON NEEDED — programming/logical-functions-and-truth-tables; stocked in this lesson because this lesson teaches logical expressions and their truth tables — every combination listed and proved — the logical functions of Moldova's section) | Moldova Grade 11 Informatică, printed p. 137 |
+| Chapter 3, 3.7.3: truth tables — 2^n rows for n variables (filed as NEW LESSON NEEDED — programming/truth-tables-showing-every-input-and-output; stocked in this lesson because this lesson teaches truth tables listing every possible combination of input values and the result for each row — the 2^n-row tables Bangladesh's chapter builds) | Bangladesh HSC ICT, printed p. 99 |
 
-**Acceptance count: taught in 4 countries (Iraq, Uzbekistan, Malaysia, Moldova).**
+**Acceptance count: taught in 5 countries (Iraq, Uzbekistan, Malaysia, Moldova, Bangladesh).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/logical-expressions-and-truth-tables). It sits in the Programming title (programming/), following the book's own order.
 
@@ -30,4 +33,6 @@ Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-l
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: logical expressions, truth tables, and or not, conditions, programming, iraq, grade 8, uzbekistan, grade 8, malaysia, grade 11 sk tingkatan 5, moldova, grade 11 informatica
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: logical expressions, truth tables, and or not, conditions, programming, iraq, grade 8, uzbekistan, grade 8, malaysia, grade 11 sk tingkatan 5, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim

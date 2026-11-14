@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -54,6 +54,10 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 27:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 28:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 29:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -87,8 +91,10 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 | Appendix ກ: Searching for information from the internet (browser icons, Google search, image search, Save Image As) (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 83 (teacher guide — evidence) |
 | Unit 5 Searching the World Wide Web | Greece Grade 7 Pliroforiki A, printed p. 46 |
 | 8.2 Căutarea informațiilor | Moldova Grade 7 Informatică, printed p. 147 |
+| Learning Experience 1, Session 4: Playing with Key-Word (keyword searching) | Bangladesh Grade 6 Digital Technology, printed p. 7 |
+| Learning Experience 1, Session 4: Information Search | Bangladesh Grade 7 Digital Technology, printed p. 10 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova).**
+**Acceptance count: taught in 18 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -141,4 +147,8 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica
+Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology

@@ -1,6 +1,6 @@
 # Sources — Securing your computer — the checklist
 
-countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece
+countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece
 
 **Book 15:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 16:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The securing steps — software, firewall, updates, attachments, passwords, caution, scans and backups | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 208–209 |
@@ -47,12 +49,13 @@ countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece
 | Security procedures and basic security precautions (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 167 (teacher guide — evidence) |
 | Unit 1, Theme 4: cyber-security practices — the protective measures you can take | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 | Ch.16 Security of a computing system | Greece Grade 10 Efarmoges Pliroforikis, printed p. 133 |
+| Learning Experience 2, Sessions 4-6: Let the Cyber World Be Secure; Practising Security Methods in Internet Use; awareness of cyber crimes and information security | Bangladesh Grade 9 Digital Technology, printed p. 45 |
 
 | The two families; the technical table of seven measures (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 188–189 |
 | Copy protection's components; seven ways to protect programs and data; non-technical prevention keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 5 (Activity 5.7 key), printed pp. 96–97 |
 | Unit 4 Ch.2 Lesson 2 Protection measures against cyber attacks | Iraq, *Computer, Grade 10*, printed p. 134 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece).**
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bangladesh).**
 
 Book error, taught corrected: the student book numbers two different activities 5.4 in this unit; both are taught in this build, in the book's order, and the duplicate number is flagged here rather than silently renumbered. The teacher guide prints "treats" for threats throughout its Unit 5; the build teaches 'threats'.
 
@@ -78,4 +81,6 @@ Kuwait's own way (Grade 10 Information Technology Term 1): secondary school swit
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology

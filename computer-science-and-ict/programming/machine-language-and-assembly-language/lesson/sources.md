@@ -1,6 +1,6 @@
 # Sources - Machine language and assembly language
 
-countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova
+countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova
 
 **Book 8:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 9:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
+**Book 10:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Machine language (program; binary; direct understanding; fast, memory-efficient, very hard to write) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 132-133 |
@@ -28,8 +32,10 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova
 | Ch.1 Evolution of computer languages: machine, assembly, high-level, natural/artificial generations | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 1 |
 | Ch.6 The concept of a program / historical review: machine languages, symbolic languages | Greece Grade 12 Anaptyxi Efarmogon, printed p. 105 |
 | 6.4 Limbajul cod-calculator și limbajul de asamblare | Moldova Grade 11 Informatică, printed p. 170 |
+| Learning Experience 4 "Programming for Problem Solving", Session 1: Introduction to Programme Design — machine code (0 and 1), programming languages C/C++/Python/Java | Bangladesh Grade 9 Digital Technology, printed p. 102 |
+| Chapter 5, 5.1.1–5.1.2: machine language and assembly language — binary programs, mnemonics and the assembler | Bangladesh HSC ICT, printed p. 146 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -45,4 +51,8 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim

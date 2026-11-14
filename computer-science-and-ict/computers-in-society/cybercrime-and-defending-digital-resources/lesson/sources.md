@@ -1,6 +1,6 @@
 # Sources — Cybercrime — and defending your country's digital resources
 
-countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji
+countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji
 
 **Book 6:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 8:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
+**Book 9:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What cybercrime is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 8 (student placement item 12) |
@@ -23,8 +29,11 @@ countries: Ethiopia, Eritrea, Mozambique, Sudan, Fiji
 | Lição 25, Crime Informático | Mozambique, *Módulo de TIC, PESD I*, printed p. 139 |
 | Unit 2 Lesson 1: Electronic crimes and hackers | Sudan, *ICT, Grade 6*, printed p. 12 |
 | 3.4 The Computer Crime | Fiji, *Computer Studies, Year 12*, printed p. 33 |
+| Learning Experience 4, Session 1: Different Types of Cyber Crimes | Bangladesh Grade 7 Digital Technology, printed p. 51 |
+| Learning Experience 2, Sessions 2-3: Investigating Cybercrime; Cybercrime and Its Impact on People's Lives | Bangladesh Grade 9 Digital Technology, printed p. 35 |
+| Chapter 1, 1.4: hacking as an unethical and criminal activity | Bangladesh HSC ICT, printed p. 30 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Mozambique, Sudan, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Mozambique, Sudan, Fiji, Bangladesh).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -32,4 +41,10 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: cybercrime, INSA, cyber warrior, fraud, identity theft, national defence, Ethiopia Grade 12 IT, eritrea, mozambique, sudan, grade 6, fiji, year 12
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: cybercrime, INSA, cyber warrior, fraud, identity theft, national defence, Ethiopia Grade 12 IT, eritrea, mozambique, sudan, grade 6, fiji, year 12, bangladesh, grade 7 digital technology, grade 9 digital technology, hsc ict classes xi xii and alim

@@ -1,6 +1,6 @@
 # Sources — ICT in daily life — communication
 
-countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba
+countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba
 
 **Book 11:** *Mi Mundo Digital, quinto grado* (student book, Spanish; title as printed: Mi Mundo Digital, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4709-1 (print) / 978-959-13-4710-7 (digital). 129 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 12:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | From letters to SMS, email and social media | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 6–7 (teacher evidence: guide printed pp. 14–15) |
@@ -38,8 +40,9 @@ countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba
 | Unidad 1.2 Usos de la informática en la vida social (comunicaciones, trabajo, educación, recreación) (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 11 (teacher programme — evidence) |
 | Unidad 1 Usos de la informática en la vida social (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 12 (teacher guide — evidence) |
 | Capítulo 1.2 Usos de la computadora | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 10 |
+| Chapter 1, 1.1.1: Communication in the global village | Bangladesh HSC ICT, printed p. 2 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba).**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, Bangladesh).**
 
 The student book's printed p. 7 — inside this lesson's page range — carries a garbled sidebar block ending in nonsense characters ("dddddd dsdfffdf"), a typesetting fault; it is not reproduced and nothing here rests on it.
 
@@ -57,4 +60,6 @@ Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-un
 
 Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; word-processing is taught as a research workflow (synonyms, symbols, searching, copying texts and images from sources), and Scratch is introduced through its paint editor before movement/appearance/control blocks.
 
-Searchable tags: ict in daily life — communication, first steps, grade 7, information technology, ict, ethiopia, from letters to sms, email and social media, ict in health, agriculture and transport (teacher guide — evidence), turkmenistan, uganda, north macedonia, grade 10, iraq, grade 8, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: ict in daily life — communication, first steps, grade 7, information technology, ict, ethiopia, from letters to sms, email and social media, ict in health, agriculture and transport (teacher guide — evidence), turkmenistan, uganda, north macedonia, grade 10, iraq, grade 8, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, bangladesh, hsc ict classes xi xii and alim

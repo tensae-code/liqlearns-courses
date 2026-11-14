@@ -1,6 +1,6 @@
 # Sources — SELECT * — getting a whole table
 
-countries: Ethiopia, Malaysia, Kuwait
+countries: Ethiopia, Malaysia, Kuwait, Bangladesh
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Malaysia, Kuwait
 
 **Book 4:** *تقنية المعلومات (Information Technology), Grade 11, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: second edition 2026/2027 (first edition 2025/2026); ISBN: no ISBN printed. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 5:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — SELECT * FROM a table retrieves all its records and columns; the asterisk means all columns, the same as listing every field; * recommended when all fields are wanted (worked on COURSE) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 85–86 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Malaysia, Kuwait
 | Sub lesson 2 (teacher guide — evidence) — why the asterisk is good practice on a many-column table: listing every field invites naming errors | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 69–73 |
 | 2.1 SQL: Mendapatkan Semula Data | Malaysia Grade 11 SK Tingkatan 5, printed p. 96 |
 | Unit 1, Lesson 5 Querying Data: SELECT * — retrieving every column | Kuwait Grade 11 Information Technology T1, printed p. 67 |
+| Chapter 6, 6.3.1: SELECT | Bangladesh HSC ICT, printed p. 200 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Kuwait).**
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Kuwait, Bangladesh).**
 
 Honesty: the asterisk teaching is pupil-taught from the student book; the many-column good-practice argument is teacher-guide evidence, labelled as such. No book error touches this lesson. The student book's printed “SELECET” spelling (in its review section) is a print typo — the lesson teaches SELECT, spelled correctly.
 
@@ -26,4 +29,6 @@ Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-l
 
 Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databases the programmer's way — not Access, but SQLite driven from Python (sqlite3), with every operation practised on one running example, a Kuwait_landmarks.db database of Kuwait's landmarks; the term ends by integrating AI with the database in a face-recognition attendance project (OpenCV Haar cascades + SQLite logging).
 
-Searchable tags: SELECT *, asterisk, whole table, exact field names, DQL, Ethiopia Grade 12, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: SELECT *, asterisk, whole table, exact field names, DQL, Ethiopia Grade 12, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, bangladesh, hsc ict classes xi xii and alim

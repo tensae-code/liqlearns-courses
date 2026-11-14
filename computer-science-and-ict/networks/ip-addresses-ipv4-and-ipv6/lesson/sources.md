@@ -1,6 +1,6 @@
 # Sources — IP addresses — IPv4 and IPv6
 
-countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos
+countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos
 
 **Book 10:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 11:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Internet Protocol and its address | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 72–73 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos
 | Ch 1, Internet addresses: logical node names, logical addresses, physical addresses | Libya Grade 11 IT student Term 2, printed p. 18 |
 | Ch.5 §5.3.1 Internet Protocol address | Laos Grade 8 ICT student, printed p. 92 |
 | Activité 7 Temps 1.1: Démarrage et adresse IP | Switzerland Grade 8 Décodage 7e–8e, printed p. 4 (Activité 7) (teacher guide — evidence) |
+| Learning Experience 5, Session 5: Let Us Find the IP Address | Bangladesh Grade 9 Digital Technology, printed p. 160 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -57,4 +60,6 @@ Laos's own way (Grade 8 ICT student book): a full PC-technician year in full col
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78, bangladesh, grade 9 digital technology

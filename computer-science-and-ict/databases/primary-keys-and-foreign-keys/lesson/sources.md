@@ -1,6 +1,6 @@
 # Sources — Primary keys and foreign keys
 
-countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova
+countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwai
 
 **Book 12:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 13:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a relational database is a set of logically related tables, built with relational DBMS software; every table shown has a primary key — a field whose value is unique for each record, such as a student ID no two students can share | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 60–61 |
@@ -35,6 +37,7 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwai
 | Ch 6, setting the primary key | Libya Grade 10 IT student, printed p. 68 |
 | Unit 1, Lesson 3: table constraints — the primary key and NOT NULL in the books table | Kuwait Grade 11 Information Technology T1, printed p. 41 |
 | 4.6 Stabilirea relațiilor dintre tabele | Moldova Grade 12 Informatică, printed p. 141 |
+| Chapter 6, 6.2.2: primary key and foreign key — Bangladesh's National ID card as the primary key example | Bangladesh HSC ICT, printed p. 194 |
 
 | Sub lesson 4 — the five-table school database (Students, MarkList, Subject, SubjectAssigned, Teachers); Sid primary key of Students (unique, never duplicated, identifying each record), the same Sid a foreign key in MarkList (not unique — one student, many mark records), linking the tables | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 63–64 |
 | Sub lesson 4 — popular RDBMSs named: Microsoft Access, Oracle, Microsoft SQL Server, MySQL, SQLite, IBM DB2, PostgreSQL | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 63–64 |
@@ -45,7 +48,7 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwai
 | 4.1.3 Kekunci Primer dan Kekunci Asing | Malaysia Grade 9 ASK Tingkatan 3, printed p. 121 |
 | 2.2.1 Kunci Primer dan Kunci Asing | Malaysia Grade 10 SK Tingkatan 4, printed p. 219 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova, Bangladesh).**
 
 Honesty: all parts are pupil-taught from the student book. Book errors taught corrected, named here: the student book spells the relational DBMS software “RDMS” — the lesson teaches the correct **RDBMS** (relational database management system). The same stretch of the book prints “Figure 314” for Figure 3.14, and varies “Kebel/Kebele” inside one table; neither touches the key definitions taught here, and both are named so a reader meeting them in the book is not confused.
 
@@ -67,4 +70,6 @@ Kuwait's own way (Grade 11 Information Technology Term 1): Grade 11 does databas
 
 Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
 
-Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13, libya, grade 10 it student, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13, libya, grade 10 it student, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim

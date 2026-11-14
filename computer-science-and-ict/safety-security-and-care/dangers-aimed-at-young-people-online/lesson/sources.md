@@ -1,6 +1,6 @@
 # Sources — Dangers aimed at young people online
 
-countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova
+countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova
 **Book 7:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 8:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cyberbullying and cyber predators defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 202–203 |
@@ -31,8 +33,9 @@ countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova
 | Parcours: Contenus choquants | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 6 (Parcours) (teacher guide — evidence) |
 | Référence: droit à l'image, contenus choquants | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Référence) (teacher guide — evidence) |
 | Scénario 5: comportements à adopter face à des contenus choquants | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Scénario 5) (teacher guide — evidence) |
+| Learning Experience 4, Session 2: When we are Cyber Detectives | Bangladesh Grade 7 Digital Technology, printed p. 55 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Egypt, Fiji, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -48,4 +51,6 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
 
-Searchable tags: cyberbullying, cyber predators, private information, youth safety, Grade 9 ICT Ethiopia Unit 5, north macedonia, grade 10, mauritania, grade 7, egypt, grade 9, fiji, years 7-8, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: cyberbullying, cyber predators, private information, youth safety, Grade 9 ICT Ethiopia Unit 5, north macedonia, grade 10, mauritania, grade 7, egypt, grade 9, fiji, years 7-8, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, grade 7 digital technology

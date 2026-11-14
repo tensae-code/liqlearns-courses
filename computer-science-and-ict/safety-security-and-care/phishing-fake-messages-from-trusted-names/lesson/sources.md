@@ -1,6 +1,6 @@
 # Sources — Phishing — fake messages from trusted names
 
-countries: Ethiopia, Libya, Laos
+countries: Ethiopia, Libya, Laos, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Libya, Laos
 
 **Book 7:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 8:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phishing defined; aims — steal data, install malware; recognition as the defence | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 201 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Libya, Laos
 | Additional content: mobile banking disadvantages and smishing (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 40 (teacher guide — evidence) |
 | Ch.2 §II.4 Email Tips for Scams and Spam | Laos Grade 12 ICT student, printed p. 73 |
 | Activité 4 Temps 2.3: Hameçonnage («phishing») — être méfiant et observateur | Switzerland Grade 7 Décodage 7e–8e, printed p. 11 (Activité 4) (teacher guide — evidence) |
+| Chapter 1, 1.4: phishing and spamming | Bangladesh HSC ICT, printed p. 30 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Libya, Laos).**
+**Acceptance count: taught in 4 countries (Ethiopia, Libya, Laos, Bangladesh).**
 
 Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
 
@@ -40,4 +43,6 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, laos, grade 12 ict student, switzerland, decodage, grades 78
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, laos, grade 12 ict student, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim

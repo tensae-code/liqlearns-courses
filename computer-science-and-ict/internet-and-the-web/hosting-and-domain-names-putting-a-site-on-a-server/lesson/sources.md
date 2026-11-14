@@ -1,6 +1,6 @@
 # Sources — Hosting and domain names — putting a site on a server
 
-countries: Ethiopia, Fiji, Libya, Kuwait
+countries: Ethiopia, Fiji, Libya, Kuwait, Bangladesh
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Fiji, Libya, Kuwait
 
 **Book 5:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 6:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hosting — uploading to the host's server | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 4, printed p. 126 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Fiji, Libya, Kuwait
 | Ch 6, publishing the site on the information network: getting and registering a domain name, choosing the host, working out the site's space | Libya Grade 11 IT student Term 2, printed p. 67 |
 | Guide Ch 6, publishing the site on the information network (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 33 (teacher guide — evidence) |
 | Unit 2: Projects Unit — putting the finished website on the internet: web hosting | Kuwait Grade 9 Digital Intelligence T1, printed p. 149 |
+| Chapter 4, 4.4: Publishing a website — web hosting, domain name registration and IP addresses | Bangladesh HSC ICT, printed p. 141 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Libya, Kuwait).**
+**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Libya, Kuwait, Bangladesh).**
 
 No book error is flagged for this part in the placements. The domain name in the book's ministry address example is printed as "moe.gov" (the part of the address after "www") — the lesson teaches the domain name as the part after www, as printed, without extending the example beyond the placements. This lesson makes no statement about the Web's invention date.
 
@@ -33,4 +36,6 @@ Libya's own way (Grade 11 Term 2, Information Technology teacher guide): each we
 
 Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
 
-Searchable tags: web hosting, hosting company, web host, web server, upload, domain name, registration, unique name, Grade 12 ICT Ethiopia, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: web hosting, hosting company, web host, web server, upload, domain name, registration, unique name, Grade 12 ICT Ethiopia, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim

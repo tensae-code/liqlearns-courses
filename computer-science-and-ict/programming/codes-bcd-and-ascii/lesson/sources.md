@@ -1,12 +1,14 @@
 # Sources — Codes — BCD and ASCII
 
-countries: Montenegro, Malaysia
+countries: Montenegro, Malaysia, Bangladesh
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
 **Book 2:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 **Book 3:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 4:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +17,9 @@ countries: Montenegro, Malaysia
 | 2.1.6 Penambahan dan Penolakan Nombor Perduaan dalam Menterjemah Aksara Pengekodan ASCII (filed as first-steps/ascii-encoding-and-binary-arithmetic; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 7 ASK Tingkatan 1, printed p. 33 |
 | 1.2.3 Penukaran Pengekodan ASCII kepada Nombor Perenambelasan (filed as first-steps/ascii-encoding-in-hexadecimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 28 |
 | 1.2.4 Hubung Kait Nombor Perenambelasan dengan Kod ASCII dalam Bahasa Mesin (filed as first-steps/hexadecimal-ascii-and-machine-language; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 30 |
+| Chapter 3, 3.6.2: BCD code — each decimal digit as four bits (filed as NEW LESSON NEEDED — programming/bcd-binary-coded-decimal; stocked in this lesson because this lesson teaches BCD — each decimal digit coded in four bits, with the six unused patterns named — the code Bangladesh's chapter teaches) | Bangladesh HSC ICT, printed p. 93 |
 
-**Acceptance count: taught in 2 countries (Montenegro, Malaysia).**
+**Acceptance count: taught in 3 countries (Montenegro, Malaysia, Bangladesh).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Programming title (programming/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -26,4 +29,6 @@ Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK
 
 Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
 
-Searchable tags: codes, bcd, ascii, binary-coded decimal, character codes, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: codes, bcd, ascii, binary-coded decimal, character codes, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, bangladesh, hsc ict classes xi xii and alim

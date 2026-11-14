@@ -1,6 +1,6 @@
 # Sources — Communication in an ICT system
 
-countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova
+countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova
 
 **Book 7:** *EDUCAȚIE DIGITALĂ — Clasa I (Educație digitală. Clasa I: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2018; ISBN: no ISBN printed (multimedia edition, 60 p., produced under the 2018 digital-education memorandum with Tekwill). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 60 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 8:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 9:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 10:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Communication in an ICT system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 4–5 |
@@ -25,8 +31,11 @@ countries: Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova
 | 5-1 Development of Communication Methods | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 46 |
 | Elements of Communication / Ways of Communicating | Rwanda Grade 7 S1 ICT Student Book, printed p. 4 |
 | Lecția 6 Comunicăm digital | Moldova Grade 1 Educație Digitală Clasa I, printed p. 21 |
+| Learning Experience 8 "Open Discussion on Inner Thoughts": verbal/written/nonverbal communication, sender-receiver-medium-noise process, digital communication | Bangladesh Grade 6 Digital Technology, printed p. 115 |
+| Learning Experience 8 "Let's Maintain the Rules of Communication", Sessions 1-3: types of communication, medium or channel, communication and language | Bangladesh Grade 7 Digital Technology, printed p. 113 |
+| Chapter 2, 2.1.1: Concept of a communication system | Bangladesh HSC ICT, printed p. 44 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova).**
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Azerbaijan, Afghanistan, Egypt, Rwanda, Moldova, Bangladesh).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -38,4 +47,10 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Moldova's own way (Grade 1, Educație Digitală): digital education starts at age 6–7 with no keyboard skills assumed — information, devices and staying safe first, told through two child guides (Ana and Ștefan), and programming introduced unplugged (instructions, algorithm, a first maze program, debugging) before any real software. The Digital Education module sits inside Technological Education in the early grades.
 
-Searchable tags: communication in an ict system, first steps, grade 7, information technology, ict, ethiopia, cambodia, azerbaijan, afghanistan, egypt, grade 10, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala
+Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: communication in an ict system, first steps, grade 7, information technology, ict, ethiopia, cambodia, azerbaijan, afghanistan, egypt, grade 10, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala, bangladesh, grade 6 digital technology, grade 7 digital technology, hsc ict classes xi xii and alim

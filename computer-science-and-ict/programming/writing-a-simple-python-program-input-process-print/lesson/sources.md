@@ -1,6 +1,6 @@
 # Sources - Writing a simple Python program - input, process, print
 
-countries: Ethiopia, Malaysia, Kuwait, Greece
+countries: Ethiopia, Malaysia, Kuwait, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Malaysia, Kuwait, Greece
 
 **Book 6:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 7:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
+**Book 8:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Functions, input() and print() (function definition; print() any expression, comma-separated values on one line; input() prompt, wait, Enter, always a string; numbers must be converted) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 151-155 |
@@ -24,8 +28,10 @@ countries: Ethiopia, Malaysia, Kuwait, Greece
 | 3.1.3(i) Segmen Kod Fungsi Input dan Fungsi Output | Malaysia Grade 8 ASK Tingkatan 2, printed p. 95 |
 | Unit 2, Lesson 2: reading input with input() and building working programs (the speed-law program; the Kuwait Towers trip) | Kuwait Grade 10 Information Technology T1, printed p. 59 |
 | Unit 2 Data input – results output commands | Greece Grade 9 Pliroforiki C, printed p. 19 |
+| Learning Experience 4, Session 4: Let us Start Taking Input | Bangladesh Grade 9 Digital Technology, printed p. 118 |
+| Learning Experience 4, Session 6: Let's Start Taking Input | Bangladesh Grade 8 Digital Technology, printed p. 90 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Kuwait, Greece).**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Kuwait, Greece, Bangladesh).**
 
 Guide-side numbering fault noted where this evidence is filed: the teacher guide's contents misnumbers Writing a Simple Program as "6.4" a second time - it is section 6.5 - flagged here, in the lesson whose guide evidence it labels. The lesson's programs were run in Python 3 exactly as printed: radius 3 gives area 28.26 and circumference 18.84; radius 2 gives 12.56 and 12.56. The guide's worked model solutions (guide item 25) are filed above as verified expected outputs (teacher guide - evidence), not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -37,4 +43,8 @@ Kuwait's own way (Grade 10 Information Technology Term 1): secondary school swit
 
 Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
 
-Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 11, malaysia, grade 8 ask tingkatan 2, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, grade 8 digital technology

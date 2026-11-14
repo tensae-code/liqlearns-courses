@@ -1,6 +1,6 @@
 # Sources — Creating and styling Excel charts
 
-countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece
+countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 
 **Book 22:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 23:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -77,8 +79,9 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 | Ch.8 §8.2 Moving a chart and formatting the chart area (filed as NEW LESSON NEEDED — spreadsheets/moving-and-formatting-a-chart; stocked in this lesson because this lesson teaches styling/formatting a chart and its area after creating it (with Resizing a Chart as its moving-and-sizing sibling) — the same chart handling Laos's section teaches) | Laos Grade 9 ICT student, printed p. 96 |
 | Ch.3 §II.1 Making tables and charts from summarised data to support decisions | Laos Grade 12 ICT student, printed p. 152 |
 | Unit 3 Diagrams/charts | Greece Grade 8 Pliroforiki B, printed p. 42 |
+| Learning Experience 1, Session 6: Creating Graphs for My Assignment (Insert > Recommended Chart, data visualisation) | Bangladesh Grade 9 Digital Technology, printed p. 18 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -115,4 +118,6 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology

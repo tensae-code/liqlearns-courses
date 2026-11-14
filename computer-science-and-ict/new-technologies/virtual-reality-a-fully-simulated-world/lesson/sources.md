@@ -1,6 +1,6 @@
 # Sources — Virtual Reality — a fully simulated world
 
-countries: Ethiopia, Nepal, Laos, Greece
+countries: Ethiopia, Nepal, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal, Laos, Greece
 
 **Book 5:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 6:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | VR defined; entry kit — goggles, headsets, gloves, bodysuits; sensors tracking movement in real time; force-feedback data gloves; fully immersive | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 39–40 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Nepal, Laos, Greece
 | Unit 5 §5.8, Virtual and Extended Reality (XR) | Nepal, *Computer Science, Class 10*, printed p. 241 |
 | Ch.4 §6.8 Virtual reality systems (Virtual Reality System) | Laos Grade 10 ICT student, printed p. 101 |
 | Ch.8 Virtual and augmented reality environments: VR/AR systems | Greece Grade 11 EPAL Basika Themata, printed p. 94 |
+| Chapter 1, 1.2: Virtual Reality — head-mounted displays and telepresence | Bangladesh HSC ICT, printed p. 12 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Laos, Greece).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Laos, Greece, Bangladesh).**
 
 No book error touches this lesson. The training examples are teacher evidence, labelled as such.
 
@@ -28,4 +31,6 @@ Laos's own way (Grade 10 ICT student book): the upper-secondary course turns con
 
 Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
 
-Searchable tags: virtual reality, VR, immersive, headset, data gloves, force feedback, flight simulator, Grade 11 ICT Ethiopia, nepal, laos, grade 10 ict student, greece, grade 11 epal basika themata
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: virtual reality, VR, immersive, headset, data gloves, force feedback, flight simulator, Grade 11 ICT Ethiopia, nepal, laos, grade 10 ict student, greece, grade 11 epal basika themata, bangladesh, hsc ict classes xi xii and alim

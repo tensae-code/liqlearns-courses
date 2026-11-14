@@ -1,6 +1,6 @@
 # Sources — Risks of social networks — and using them properly
 
-countries: Ethiopia, Cuba, Laos, Greece
+countries: Ethiopia, Cuba, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cuba, Laos, Greece
 
 **Book 6:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight risks, named; the closing question | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 76–77 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Cuba, Laos, Greece
 | Ch.2 §II.7 Smart Social Networking and Communication Tips | Laos Grade 12 ICT student, printed p. 100 |
 | Ch.15 Advantages and disadvantages of using social networks | Greece Grade 10 Efarmoges Pliroforikis, printed p. 129 |
 | Scénario 3 Séance 3: Chatter, publier, acheter en ligne (prolongement) | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 12 (Scénario 3) (teacher guide — evidence) |
+| Learning Experience 2, Session 4: Social Media Watchdogs | Bangladesh Grade 8 Digital Technology, printed p. 42 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Laos, Greece).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh).**
 
 Nothing in this lesson claims a page the placements do not give; the one Tip box is LiqLearns' own, marked as such in the lesson and in the table above.
 
@@ -36,4 +39,6 @@ Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78
+Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology

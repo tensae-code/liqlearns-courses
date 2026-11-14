@@ -1,6 +1,6 @@
 # Sources — E-government — public services online
 
-countries: Ethiopia, Iraq, Sudan, Egypt, Libya, Greece
+countries: Ethiopia, Iraq, Sudan, Egypt, Libya, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,14 @@ countries: Ethiopia, Iraq, Sudan, Egypt, Libya, Greece
 
 **Book 9:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 10:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 11:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
+**Book 12:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 13:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-government and portals | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 11–13 (student placement item 10) |
@@ -33,8 +41,12 @@ countries: Ethiopia, Iraq, Sudan, Egypt, Libya, Greece
 | Ch 2, electronic government: the concept of government, the definition of e-government, communication channels, interactions, electronic services and their advantages | Libya Grade 12 IT Science, printed p. 23 |
 | Ch 2, examples of e-government services and transactions; the importance of e-government for developing countries; stages of transformation; challenges of applying it | Libya Grade 12 IT Science, printed p. 26 |
 | Unit 10 E-government | Greece Grade 7 Pliroforiki A, printed p. 125 |
+| Learning Experience 7 "Use of Digital Technology in Customer Service", Sessions 1, 3 and 6: civic/citizen services table, steps of getting citizen services, availing citizen services | Bangladesh Grade 7 Digital Technology, printed p. 97 |
+| Learning Experience 3 "Transparency and Accountability in Civic Service", Sessions 1-2: Use of Digital Technology in Public Services; transparency and accountability in citizen services | Bangladesh Grade 9 Digital Technology, printed p. 71 |
+| Learning Experience 3 "Let's Take the Advantages of Civic Services and E-commerce", Session 1: Classification of Civic Services | Bangladesh Grade 8 Digital Technology, printed p. 53 |
+| Chapter 1, 1.6.2: E-services in economic development — e-banking, e-commerce, e-agriculture, e-governance and e-paper land records | Bangladesh HSC ICT, printed p. 38 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Egypt, Libya, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Sudan, Egypt, Libya, Greece, Bangladesh).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them.
 
@@ -52,4 +64,12 @@ Libya's own way (Grade 12 Science, Information Technology student book): the Sci
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: e-government, e-services, portal, Ministry of Health, electricity bill, Ethiopia Grade 11 IT, iraq, grade 11, sudan, grade 7, egypt, grade 7, libya, grade 12 it humanities, grade 12 it science, greece, grade 7 pliroforiki a gymnasiou
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: e-government, e-services, portal, Ministry of Health, electricity bill, Ethiopia Grade 11 IT, iraq, grade 11, sudan, grade 7, egypt, grade 7, libya, grade 12 it humanities, grade 12 it science, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim

@@ -1,6 +1,6 @@
 # Sources — Social networks — connecting in virtual communities
 
-countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece
+countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 
 **Book 14:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 15:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a social network is; the named platforms; the warning held for later | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 | Unit 10 Communication possibilities / social networking media | Greece Grade 7 Pliroforiki A, printed p. 130 |
 | Ch.15 Social networks in general / categories of social networks | Greece Grade 10 Efarmoges Pliroforikis, printed p. 124 |
 | Scénario 3 Séance 1: Réseaux sociaux et identité numérique — les réseaux sociaux, qu'est-ce que c'est? | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 6 (Scénario 3) (teacher guide — evidence) |
+| Chapter 1, 1.1.10: Social communication through social media | Bangladesh HSC ICT, printed p. 11 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece).**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh).**
 
 Belarus's own way (Grade 10): social networks are taught inside one chapter-section with blogs, forums and chats (§ 20) — the virtual-community forms are compared together, not taken one tool at a time.
 
@@ -73,4 +76,6 @@ Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim

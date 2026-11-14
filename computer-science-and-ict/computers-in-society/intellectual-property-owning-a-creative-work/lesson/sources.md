@@ -1,6 +1,6 @@
 # Sources — Intellectual property — owning a creative work
 
-countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece
+countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece
 
 **Book 10:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 11:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 12:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What intellectual property is — in Ethiopian law | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 14 (student placement item 17) |
@@ -35,8 +39,10 @@ countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece
 | 1.2.1 Intellectual property and copyright (patents, trademarks) | Mongolia Grade 10 IT X, printed p. 26 |
 | Ch.4 §I Understanding published works and the systems that protect them (meaning and forms) | Laos Grade 12 ICT student, printed p. 179 |
 | Ch.4 Copyright and licences of use | Greece Grade 10 Efarmoges Pliroforikis, printed p. 36 |
+| Learning Experience 3 "Our school magazine", Session 2: others' property / intellectual property | Bangladesh Grade 6 Digital Technology, printed p. 27 |
+| Learning Experience 2 "Use of Intellectual Property", Session 1: intellectual property for personal and commercial use | Bangladesh Grade 7 Digital Technology, printed p. 20 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -56,4 +62,8 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
 
-Searchable tags: intellectual property, Proclamation 320/2003, trade secrets, patents, copyright, trademarks, Ethiopia Grade 12 IT, north macedonia, grade 10, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou
+Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: intellectual property, Proclamation 320/2003, trade secrets, patents, copyright, trademarks, Ethiopia Grade 12 IT, north macedonia, grade 10, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 6 digital technology, grade 7 digital technology

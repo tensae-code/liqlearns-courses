@@ -1,6 +1,6 @@
 # Sources — Copyright — automatic protection for original works
 
-countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece
+countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece
 
 **Book 7:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 8:** *Digital Technology, Class Six (Experimental Version)* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024; published Dec 2022, reprint 2023); ISBN: no ISBN printed. Grade 6 (student book). 156 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 9:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 10:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What copyright protects | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 16 (student placement item 20) |
@@ -26,8 +32,11 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece
 | 2.4.1 The Internet and copyright (Mongolia's 2006 copyright law; which works are protected and which are not; always naming your source) | Mongolia Grade 9 IT IX, printed p. 63 |
 | Ch.4 §I.3 Copyright protection for original work | Laos Grade 12 ICT student, printed p. 183 |
 | Unit 5 Copyright | Greece Grade 7 Pliroforiki A, printed p. 53 |
+| Learning Experience 3, Session 2: copyright explained | Bangladesh Grade 6 Digital Technology, printed p. 27 |
+| Learning Experience 2, Session 2: Protecting the Rights of the Copyright Owner | Bangladesh Grade 7 Digital Technology, printed p. 24 |
+| Learning Experience 1, Session 7: Ensuring Copyright for Our Writing | Bangladesh Grade 9 Digital Technology, printed p. 21 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece).**
+**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -39,4 +48,10 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
 
-Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou
+Bangladesh's own way (Grade 6, Digital Technology): the Competency-based National Curriculum 2022 book is organised as nine project "Learning Experiences" done in groups through stories, games and fieldwork — no conventional chapters; even learners without a computer at home learn technology through experience around school and home. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
+
+Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology

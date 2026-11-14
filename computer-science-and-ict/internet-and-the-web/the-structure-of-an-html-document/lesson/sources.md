@@ -1,6 +1,6 @@
 # Sources — The structure of an HTML document
 
-countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Kuwait
+countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongoli
 
 **Book 11:** *الذكاء الرقمي (Digital Intelligence), Grade 9, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 243 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 12:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The four parts of the skeleton | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 83–84 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongoli
 | Ch.7 Develop webpages using HTML; create a simple web page | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 96 |
 | Ch.6 Creating a web page / developing websites | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 66 |
 | Unit 1 HTML Fundamentals: Structure of an HTML Page — head, body and title; the dir attribute and page language; the pre tag | Kuwait Grade 9 Digital Intelligence T1, printed p. 39 |
+| Chapter 4, 4.2: structure of an HTML document — DOCTYPE, head, body | Bangladesh HSC ICT, printed p. 118 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Kuwait).**
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, North Macedonia, Iraq, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Bangladesh).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -63,4 +66,6 @@ Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion
 
 Kuwait's own way (Grade 9 Digital Intelligence Term 1): Grade 9 builds a real website by hand — HTML then CSS in VS Code, developed page by page as a 'Kuwait Future' site and finished as a seven-file project site about AI applications that is actually uploaded (hosting and FTP with FileZilla); the robotics unit reaches PID control theory, a sumo-wrestling robot, and a guard robot programmed with lists and timers.
 
-Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 8 reading book, kuwait, grade 9 digital intelligence term 1
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: HTML document structure, doctype, html root, head, body, Grade 11 ICT Ethiopia, belarus, north macedonia, grade 11, iraq, grade 10, egypt, grade 8, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 8 reading book, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim

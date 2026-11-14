@@ -1,6 +1,6 @@
 # Sources — E-banking — services, benefits and challenges
 
-countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda
+countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda
 
 **Book 7:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 8:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-banking and its services | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 13–15 (student placement item 11) |
@@ -26,8 +28,9 @@ countries: Ethiopia, Mozambique, Sudan, Egypt, Rwanda
 | Lesson 2, electronic payment / InstaPay | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 13 |
 | Unit 2 ICT in Financial Transactions: role of computers, impact of financial technologies (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 37 (teacher guide — evidence) |
 | Unit 2: the role of computers in financial transactions (automated operations, record keeping, stock exchange) | Rwanda Grade 8 S2 ICT Student Book, printed p. 23 |
+| Chapter 1, 1.1.8: Electronic Fund Transfer and internet banking | Bangladesh HSC ICT, printed p. 10 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Sudan, Egypt, Rwanda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Sudan, Egypt, Rwanda, Bangladesh).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. The e-banking figure is Figure 1.10; the next numbered figure in the book is 1.13 — see the figure-numbering note above.
 
@@ -39,4 +42,6 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: e-banking, internet banking, ATM, mobile banking, electronic funds transfer, digital theft, Ethiopia Grade 11 IT, mozambique, sudan, grade 6, egypt, grade 7, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
+Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
+
+Searchable tags: e-banking, internet banking, ATM, mobile banking, electronic funds transfer, digital theft, Ethiopia Grade 11 IT, mozambique, sudan, grade 6, egypt, grade 7, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, bangladesh, hsc ict classes xi xii and alim
