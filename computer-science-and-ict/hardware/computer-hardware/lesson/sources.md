@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos
+countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -58,6 +58,10 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 
 **Book 28:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 29:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 30:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 31:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -91,8 +95,11 @@ countries: Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Ug
 | Computer components: hardware | Rwanda Grade 7 S1 ICT Student Book, printed p. 24 |
 | Unit 2 guide: computer systems (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 17 (teacher guide — evidence) |
 | Ch.1 §2 Components of a computer (von Neumann model, five basic parts) | Laos Grade 7 ICT student, printed p. 2 |
+| Unit 2 The hardware part of the computer | Greece Grade 7 Pliroforiki A, printed p. 22 |
+| Ch.1 The computing system (von Neumann architecture, motherboard, embedded systems — Antikythera mechanism as opening example) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 8 |
+| Ch.10 Computer hardware from macrocosm to microcosm: structure of computers and movement of information | Greece Grade 11 EPAL Basika Themata, printed p. 108 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos).**
+**Acceptance count: taught in 19 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -137,4 +144,10 @@ Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student unit
 
 Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
+
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata

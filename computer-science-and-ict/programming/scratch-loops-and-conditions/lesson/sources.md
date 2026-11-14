@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -62,6 +62,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sr
 
 **Book 30:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 31:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -103,8 +105,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sr
 | Commands for sprite manipulations and sample controls (colour touching, repeat until, switch costume/backdrop, loops and conditionals) | Rwanda Grade 9 S3 ICT Student Book, printed p. 348 |
 | Commands for sprite manipulations; sample game controls (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 191 (teacher guide — evidence) |
 | Commands to set game rules: Looks, Control, Sensing, Events, Motion and Operators block palettes; game projects | Rwanda Grade 8 S2 ICT Student Book, printed p. 268 |
+| Unit 9 Repetition, variables and decisions in Scratch | Greece Grade 7 Pliroforiki A, printed p. 109 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 11 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Greece).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
@@ -158,4 +161,6 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou

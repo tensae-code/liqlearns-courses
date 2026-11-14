@@ -1173,3 +1173,25 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Laos): Access Control · Security When the System Fails · Server Security · Computer Security in the Public Sector · Spam · Browsing the Web Safely · Protecting Your Work and Business Online · Wireless and Mobile Device Security
 
 **New Technologies** (ICT expansion, from Laos): Fuzzy Logic · Intelligent Agents
+
+**First Steps** (ICT expansion, from Greece): Computer Science — Theoretical and Applied
+
+**Hardware** (ICT expansion, from Greece): Input-Output Devices — Devices That Do Both · Combinational and Sequential Logic Circuits · Integrated Circuits and the CPU
+
+**Spreadsheets** (ICT expansion, from Greece): Automatic Recalculation — When Data Changes, Results Change
+
+**Presentations** (ICT expansion, from Greece): Collaborative Presentations Online
+
+**Networks** (ICT expansion, from Greece): Modern Network Services
+
+**Multimedia** (ICT expansion, from Greece): Creating and Editing Vector and Raster Graphics · Sound — File Types, Editing, MIDI, and Speech · 2D and 3D Animation · Video — File Types, Codecs, Editing and Streaming
+
+**Databases** (ICT expansion, from Greece): Storage Architectures
+
+**Programming** (ICT expansion, from Greece): The ΓΛΩΣΣΑ Pseudocode Language — Alphabet, Data Types, Constants · ΓΛΩΣΣΑ — Operators, Functions, Expressions and Assignment · ΓΛΩΣΣΑ Multiple Selection — the ΕΠΙΛΕΞΕ Command · One-Dimensional Arrays in ΓΛΩΣΣΑ · Recursion in ΓΛΩΣΣΑ · Data Structures — Arrays, Stack and Queue · Other Data Structures — Lists, Trees and Graphs · Implementing a Stack and a Queue with a One-Dimensional Array · Algorithm Design Methods — Divide-and-Conquer, Dynamic Programming, Greedy · Correctness and Complexity of Algorithms · Algorithm Performance — Worst Case, Input Size and Run Time · Algorithm Analysis — Complexity and Computability · Basic Types of Algorithms · Basic Algorithmic Operations on Data Structures · Programming Paradigms and Structured Programming · Designing and Writing Code · Program Documentation and the Software Life Cycle · Evaluating a Program — Simplicity, Flexibility, Reliability, Speed · Handling Runtime Errors · Debugging Logic Errors by Structure — and Black-Box Testing · Subprograms — Characteristics, Advantages and Parameters · Procedures and Functions — Actual and Formal Parameters · Nested Loops — and Converting Between Loop Structures · Typical Array Processing — Sorting, Searching, Merging, Parallel Arrays · Classes — Abstraction, Encapsulation, Inheritance, Polymorphism · Object-Oriented and Parallel Programming — Introduction · Object-Oriented Programming in a 3D Environment · Programming Applications for Mobile Devices · Natural and Artificial Languages · Python with EduBlocks and Thonny · Randomness — and a Rock-Paper-Scissors Game in Python · Scientific Programming — Solving Equations Algorithmically · Modelling Exponential Spread · Scratch — Digital Storytelling and Designing a Chatbot · Realistic Character Motion in Scratch · List Operations · Graphical Programming Elements — Menus and Dialog Boxes
+
+**Safety, Security and Care** (ICT expansion, from Greece): Security Levels — Computer, Network and Information Systems
+
+**Computers in Society** (ICT expansion, from Greece): Fair Use, Public Domain and Creative Commons Licences · Copyright and Artificial Intelligence · Ethical Dilemmas from Using AI · Telework and Remote Collaboration · User Interface Design — Visual and Sound
+
+**New Technologies** (ICT expansion, from Greece): Physical Computing — Coding for the International Space Station · The Arduino Microcontroller and the Breadboard · First Arduino Applications — and the Tinkercad Simulator · Building a Mobile App with App Inventor · Image Recognition with AI in App Inventor · Multi-User Virtual Environments · 3D Printing and 3D Scanning · Open Data · Programming Languages Used in AI

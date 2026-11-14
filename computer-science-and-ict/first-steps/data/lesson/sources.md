@@ -1,6 +1,6 @@
 # Sources — Data — raw facts with no meaning yet
 
-countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos
+countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -21,6 +21,9 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos
 **Book 9:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 **Book 10:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Textbook, ICT, Secondary Year 6)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2015; ISBN: no ISBN printed. 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 11:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 12:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Data — raw facts with no meaning yet | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 3 |
@@ -33,8 +36,10 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos
 | Definition of Data / Types of data | Rwanda Grade 7 S1 ICT Student Book, printed p. 1 |
 | Ch.2 §1 Data | Laos Grade 6 ICT student, printed p. 21 |
 | Ch.1 §1 Data (meaning, and the data hierarchy bit → byte/character → field → record → file → database) | Laos Grade 11 ICT student, printed p. 1 |
+| Ch.2.2 Data and their representation | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 29 |
+| Ch.3 Data | Greece Grade 12 Anaptyxi Efarmogon, printed p. 55 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -52,4 +57,8 @@ Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no 
 
 Laos's own way (Grade 11 ICT student book): a single-topic year — databases from first principles (the data hierarchy is taught as a Lao glossary table: Bit, Byte/Character, Field, Record, Files, Database) into a complete MS Access 2007 build: tables, relationships, forms, queries, reports.
 
-Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa

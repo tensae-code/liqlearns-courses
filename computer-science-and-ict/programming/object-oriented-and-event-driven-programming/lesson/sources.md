@@ -1,17 +1,27 @@
 # Sources — Object-Oriented and Event-Driven Programming
 
-countries: Cuba
+countries: Cuba, Greece
 
 **Book 1:** *Informática, onceno grado* (student book, Spanish; title as printed: Informática, onceno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4817-3 (print) / 978-959-13-4818-0 (digital). 134 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
+**Book 2:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 3:** *Πληροφορική — Βιβλίο Μαθητή, Συμπληρωματικό Εκπαιδευτικό Υλικό, Γ΄ Γενικού Λυκείου (Pliroforiki, Student Book — Supplementary Educational Material)* (supplementary student material, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2019-2020; ISBN 978-960-06-5997-9, book code 0-22-0279. 146 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Capítulo 2.3 La programación orientada a objetos y conducida por eventos | Cuba, *Informática, Grade 11*, printed p. 45 |
+| Ch.11 Object-oriented programming: objects, classes, properties, methods (filed as NEW LESSON NEEDED — programming/object-oriented-programming-objects-classes-properties-methods; stocked in this lesson because this lesson teaches object-oriented programming in its first sub lesson — an object holding properties (its data) and methods (its actions), classes as the design objects are made from — the objects/classes/properties/methods Greece's section names) | Greece Grade 12 Anaptyxi Efarmogon, printed p. 193 |
+| Ch.11 Event-driven programming: procedures, execution flow of an application (filed as NEW LESSON NEEDED — programming/event-driven-programming-and-execution-flow; stocked in this lesson because this lesson teaches event-driven programming in its second sub lesson — a program that waits, runs the handler when an event happens, then waits again, so the user decides the order of happenings — the execution flow Greece's section describes) | Greece Grade 12 Anaptyxi Efarmogon, printed p. 198 |
+| Unit 4 Modern programming environments: OOP as a natural way of solving problems / building object-oriented programs (methodology, diagrammatic representation) (filed as NEW LESSON NEEDED — programming/object-oriented-programming-objects-classes-properties-methods; stocked in this lesson because this lesson teaches object-oriented programming in its first sub lesson — an object holding properties (its data) and methods (its actions), classes as the design objects are made from — the objects/classes/properties/methods Greece's section names) | Greece Grade 12 Pliroforiki Supplementary, printed p. 85 |
 
-**Acceptance count: taught in 1 country (Cuba).**
+**Acceptance count: taught in 2 countries (Cuba, Greece).**
 
 Placement choice: this lesson was built new for the ICT expansion (Cuba, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/object-oriented-and-event-driven-programming). It sits in the Programming title (programming/), following the book's own order.
 
 Cuba's own way (Grade 11): Databases are taught from the free-software perspective with SQLite (SQLiteAdministrator), explicitly as preparation for LiveCode; programming deepens into object-oriented, event-driven implementation in LiveCode and closes with the software-engineering development process and an integrative project. The book is dedicated to girls in pre-university, invoking Ada Byron against the stereotype that women cannot program.
 
-Searchable tags: object-oriented, event-driven, objects, events, handlers, programming, cuba, grade 11
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Greece's own way (Grade 12, Pliroforiki Supplementary Material): the official supplementary volume expands exactly five AEPP areas with worked implementations — stack and queue implemented on a one-dimensional array, lists/trees/graphs at abstract level with diagrams, divide-and-conquer through binary search and its variants, the ΕΠΙΛΕΞΕ command, a full object-oriented unit (methodology, class diagrams, abstraction/encapsulation, inheritance, polymorphism), and a debugging unit organised by where logic errors hide (selection, repetition, arrays, subprograms) plus black-box testing; its own mapping table ties every unit back to the main book's chapters.
+
+Searchable tags: object-oriented, event-driven, objects, events, handlers, programming, cuba, grade 11, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 pliroforiki supplementary material

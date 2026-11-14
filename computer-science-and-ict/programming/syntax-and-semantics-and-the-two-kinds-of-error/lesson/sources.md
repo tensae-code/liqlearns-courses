@@ -1,6 +1,6 @@
 # Sources - Syntax and semantics - and the two kinds of error
 
-countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait
+countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait
 
 **Book 7:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 8:** *Πληροφορική — Βιβλίο Μαθητή, Συμπληρωματικό Εκπαιδευτικό Υλικό, Γ΄ Γενικού Λυκείου (Pliroforiki, Student Book — Supplementary Educational Material)* (supplementary student material, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2019-2020; ISBN 978-960-06-5997-9, book code 0-22-0279. 146 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Syntax (rules, structure/grammar, strictly followed) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed p. 134 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait
 | Guide Ch 5, running the Visual Basic environment; programming errors (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 1, printed p. 27 (teacher guide — evidence) |
 | 1.5.1 Jenis Ralat dalam Atur Cara (sintaks, masa larian, logik) | Malaysia Grade 10 SK Tingkatan 4, printed p. 113 |
 | Unit 2, Lesson 6 Debugging and Exceptions: syntax errors and runtime errors | Kuwait Grade 10 Information Technology T1, printed p. 131 |
+| Unit 5 Program debugging: categories of errors — syntactic errors, errors causing abnormal termination, logic errors | Greece Grade 12 Pliroforiki Supplementary, printed p. 115 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Libya, Malaysia, Kuwait).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece).**
 
 No book error touches this lesson. One spelling note carried for the whole unit: the student book misspells "statement" as "statment" in its review headings throughout; this course teaches and writes "statement", and the misspelling is named here rather than copied. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -44,4 +47,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: syntax, semantics, syntax error, logic error, Grade 11 ICT Ethiopia, Unit 6 programming, sudan, grade 9, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1
+Greece's own way (Grade 12, Pliroforiki Supplementary Material): the official supplementary volume expands exactly five AEPP areas with worked implementations — stack and queue implemented on a one-dimensional array, lists/trees/graphs at abstract level with diagrams, divide-and-conquer through binary search and its variants, the ΕΠΙΛΕΞΕ command, a full object-oriented unit (methodology, class diagrams, abstraction/encapsulation, inheritance, polymorphism), and a debugging unit organised by where logic errors hide (selection, repetition, arrays, subprograms) plus black-box testing; its own mapping table ties every unit back to the main book's chapters.
+
+Searchable tags: syntax, semantics, syntax error, logic error, Grade 11 ICT Ethiopia, Unit 6 programming, sudan, grade 9, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, greece, grade 12 pliroforiki supplementary material

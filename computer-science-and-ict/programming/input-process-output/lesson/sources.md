@@ -1,6 +1,6 @@
 # Sources — Input, process, output
 
-countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos
+countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,9 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 
 **Book 12:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 13:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 14:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The input–process–output model; its sources of input and forms of output | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 222 |
@@ -35,6 +38,8 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 | 1.2 Information Processing by a Computer (IPO model) | Bhutan, *Literacy with ICT, Class V*, printed p. 6 |
 | 3.1.1 The system and the "Input–Process–Output" model (open and closed systems; the information life cycle — collect, organise and check, store, process, analyse, transmit, present; Mongolia's labour-force survey worked through every stage) | Mongolia Grade 12 IT XII, printed p. 73 |
 | Ch.1 §I The data-handling system (input, processing, storage, presenting data and information) (filed as first-steps/input-process-output; stocked in this lesson because this lesson teaches the input–process–output model as its whole thing — data in, processing, results out, with storage in the journey — the same data-handling system Laos's section teaches; the placements file filed it under First Steps, and the live lesson of this exact name sits in Programming) | Laos Grade 12 ICT student, printed p. 1 |
+| Ch.2.2 Assignment, input and output of values | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 32 |
+| Ch.7 Input-output commands / structure of a program in ΓΛΩΣΣΑ | Greece Grade 12 Anaptyxi Efarmogon, printed p. 133 |
 
 | Solving problems with a computer — the seven steps; A + B = C; the everyday-algorithm activity (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 204–205 |
 | The five problem-solving steps; the input–process–output skeleton; the 15-period budget (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6, printed pp. 103–104, 107 |
@@ -43,7 +48,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, M
 | Strand 5 Unit 1 Computer Architecture, Topic Computer System, Lesson 1: Information Processing Cycle (filed as first-steps/the-information-processing-cycle-cake; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Unit 4, 4-6: Input and output in BASIC — INPUT, PRINT and LPRINT, READ and DATA | Sudan, *Computer Science, Grade 11*, printed p. 41 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos).**
+**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia, Laos, Greece).**
 
 Book errors taught corrected, flagged here as this growth teaches the unit's opening outcomes: the Grade 10 student book's Unit 6 outcomes header spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint) — the lessons use the correct spelling, Fundamentals of Programming. In the teacher guide, the §6.8 answer key defines an algorithm as a sequence of “ambiguous” step-by-step instructions — the opposite of both books' wording everywhere else (unambiguous); the worked-problems lesson teaches the corrected word and flags the slip there too. The guide's keys for every unit's objective items (Unit 5 printed p. 101; Unit 6 printed p. 116) were used as the verified answer source for this build's Grade 10 question files.
 
@@ -65,4 +70,8 @@ Mongolia's own way (Grade 12): the final book measures everything against Mongol
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii, laos, grade 12 ict student
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii, laos, grade 12 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa

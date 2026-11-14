@@ -1,6 +1,6 @@
 # Sources — From Polya to programs — the algorithm
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait
+countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait
 
 **Book 11:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
 
+**Book 12:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 13:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 14:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The computing adjustment of Polya's steps | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 220–221 |
@@ -32,6 +36,9 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait
 | Capítulo 1.1 Algoritmos | Cuba, *Informática, Grade 9*, printed p. 1 |
 | Ch 1, the algorithm | Libya Grade 11 IT student Term 1, printed p. 12 |
 | Unit 1, The Little Programmer (2): the stages of building a program — set the goal, the smart plan (the algorithm), the flowchart, then the code instructions (filed as NEW LESSON NEEDED — programming/the-stages-of-writing-a-program; stocked in this lesson because this lesson teaches the stages of building a program — define the problem, plan the logical steps (the algorithm) and write the program — the same four-stage craft Kuwait's book teaches (goal, smart plan, flowchart, code), and Sudan's identical slug was stocked here before) | Kuwait Grade 5 Digital Explorer T1, printed p. 61 |
+| Unit 8 Introduction to the concept of the algorithm | Greece Grade 7 Pliroforiki A, printed p. 94 |
+| Ch.2.2 Definition of an algorithm | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 19 |
+| Ch.2 What an algorithm is / importance of algorithms | Greece Grade 12 Anaptyxi Efarmogon, printed p. 33 |
 
 | What an algorithm is — the three definitions; algorithm vs program; language-independence; the doro wot analogy (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 206–207 |
 | Unit 3 Ch.1 Lesson 1 The concept of algorithms | Iraq, *Computer, Grade 7*, printed p. 83 |
@@ -41,7 +48,7 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait
 | Unit 3: Steps of building a program — define the problem, then the logical steps (the algorithm, named for al-Khwarizmi) | Sudan, *Computer Science, Grade 11*, printed p. 32 |
 | Unit 1 Lesson 3: Stages of programming (filed as programming/the-stages-of-writing-a-program; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *ICT, Grade 9*, printed p. 14 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -61,4 +68,10 @@ Libya's own way (Grade 11 Term 1, Information Technology student book): a progra
 
 Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
 
-Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa

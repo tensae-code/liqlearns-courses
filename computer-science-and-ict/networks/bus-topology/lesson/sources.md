@@ -1,6 +1,6 @@
 # Sources — Bus topology
 
-countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos
+countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos
 
 **Book 7:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 8:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | One backbone, every node tapped in | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 54–55 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos
 | 4.5 Network Architecture (topologies: bus) | Fiji, *Computer Studies, Year 12*, printed p. 57 |
 | Unit 1 Ch 3, network topology: the linear (bus) form, its advantages and faults | Libya Grade 9 Computer, printed p. 40 |
 | Ch.4 §4.5.1 Bus topology | Laos Grade 8 ICT student, printed p. 84 |
+| Ch.3.3 Network topologies (bus/ring/star/mesh set) | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -37,4 +40,6 @@ Libya's own way (Grade 9, Computer student book): the whole year is networks and
 
 Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
 
-Searchable tags: bus topology, backbone, topology, Grade 9 ICT Ethiopia, mozambique, nepal, china, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Searchable tags: bus topology, backbone, topology, Grade 9 ICT Ethiopia, mozambique, nepal, china, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 11 eisagogi epistimis hy lykeiou

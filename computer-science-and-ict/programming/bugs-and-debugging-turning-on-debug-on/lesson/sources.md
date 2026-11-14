@@ -1,6 +1,6 @@
 # Sources — Bugs and debugging — turning on [DEBUG ON]
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -28,6 +28,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, K
 
 **Book 13:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 14:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 15:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Test first — run it and compare with the expected output | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
@@ -45,8 +48,10 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, K
 | 1.5.2 Pengesanan, Pengenalpastian dan Penterjemahan Mesej Ralat serta Pembaikan Ralat | Malaysia Grade 10 SK Tingkatan 4, printed p. 119 |
 | Ch.5 Bugs and debugging (programme with/without bugs compared) | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 62 |
 | Unit 2, Lesson 6: debugging — tracing the code step by step with the debugger tools | Kuwait Grade 10 Information Technology T1, printed p. 131 |
+| Ch.2.2 Debugging logic errors | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 48 |
+| Ch.13 Categories of errors / debugging / debugging tools | Greece Grade 12 Anaptyxi Efarmogon, printed p. 233 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece).**
 
 No book error touches this lesson. Teacher-guide evidence (item 38, in part) is filed in Sub lesson 1: the quality-assurance framing of testing, and the §6.4 teacher tip pointing to what a good Python coding environment requires (guide printed p. 150). The divide-by-zero behaviour in Do it first was run in Python 3: it raises ZeroDivisionError: division by zero. All other code behaviour matches the runs recorded for this band. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -70,4 +75,8 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book, kuwait, grade 10 information technology term 1
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book, kuwait, grade 10 information technology term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa

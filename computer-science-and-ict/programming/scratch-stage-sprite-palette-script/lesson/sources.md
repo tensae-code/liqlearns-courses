@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhu
 
 **Book 22:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. This record was books.json-only (in_pushed, not on disk) and its tree route 404s; the file was found as the release asset grade-05-gov-kuwait-digital-explorer-student-term-1.pdf in release mid-size-books-8, byte size exactly 87,921,309 as recorded, and read from there. This section supersedes both L2 drafts of the same book in the placements file. The front 'Digital Classroom' section repeats Book 1's front section and is placed there, not double-counted here.
 
+**Book 23:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -79,8 +81,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhu
 | Unit 9 guide: music sprite programming (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 133 (teacher guide — evidence) |
 | Additional content: stage backdrop in Scratch (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 136 (teacher guide — evidence) |
 | Unit 2 Digital Tools, Scratch (1): the Scratch language — running Scratch offline and online, its interface, its concepts (backdrops, costumes), the block families, the script and saving the project | Kuwait Grade 5 Digital Explorer T1, printed p. 87 |
+| Unit 9 The Scratch programming environment | Greece Grade 7 Pliroforiki A, printed p. 105 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait).**
+**Acceptance count: taught in 12 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan, Rwanda, Kuwait, Greece).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
@@ -120,4 +123,6 @@ Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student unit
 
 Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for full Scratch (installed and online), but first comes a values-and-AI unit — citizenship, smart vs non-smart devices, what AI is, robots and their parts — and programming itself is taught as a four-stage craft (set the goal, the smart plan, the flowchart, then the code) before a single block is dragged.
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, kuwait, grade 5 digital explorer term 1
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou

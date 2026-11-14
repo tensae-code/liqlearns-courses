@@ -1,6 +1,6 @@
 # Sources — The four PowerPoint views
 
-countries: Ethiopia, Sri Lanka, Rwanda
+countries: Ethiopia, Sri Lanka, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sri Lanka, Rwanda
 
 **Book 5:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Normal view — one slide, thumbnails, outline, notes; the creating/editing view | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 133 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Sri Lanka, Rwanda
 | Ch.5 Presentation views: Normal, Outline, Notes, Handout, Slide Sorter; task pane, zoom control, status bar, workspace, drawing toolbar (filed as presentations/slide-views; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 197 |
 | Presentation views (Normal, Slide Sorter, Notes Page, Reading and Master views; slide show) | Rwanda Grade 9 S3 ICT Student Book, printed p. 187 |
 | Presentation views (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
+| Unit 4 Slide-sorter, presentation and notes views | Greece Grade 8 Pliroforiki B, printed p. 53 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Rwanda, Greece).**
 
 Book errors taught corrected: the teacher guide's Unit 3 review answer prints "Slide shorter view" — its misprint for Slide Sorter view; the lesson teaches Slide Sorter view and flags the slip where the views are taught.
 
@@ -32,4 +35,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: Normal view, Slide Sorter, Notes Page, Reading view, Slide Show view, status bar, View tab, Ethiopia Grade 9, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
+
+Searchable tags: Normal view, Slide Sorter, Notes Page, Reading view, Slide Show view, status bar, View tab, Ethiopia Grade 9, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou

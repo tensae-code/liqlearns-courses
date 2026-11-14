@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 
 **Book 17:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 18:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -55,8 +57,9 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 | Ch.3 Programming with problem analysis | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 44 |
 | Competency 3.5: evaluates the solution; proper decomposition of the problem (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 62 (teacher guide — evidence) |
 | Ch.1 §II.2 Methods of problem-solving | Laos Grade 12 ICT student, printed p. 15 |
+| Ch.4 Analysis of problems | Greece Grade 12 Anaptyxi Efarmogon, printed p. 77 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -88,4 +91,6 @@ Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 c
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa

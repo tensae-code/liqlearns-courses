@@ -1,6 +1,6 @@
 # Sources — Top-down — modules and modularisation
 
-countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia
+countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia
 
 **Book 6:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 7:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Top-down approach and modularisation defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
@@ -23,8 +25,9 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia
 | Unit 4, 4-14: Subroutines (procedures) in BASIC — GOSUB and RETURN | Sudan, *Computer Science, Grade 11*, printed p. 61 |
 | Ch 6, sub-programs and functions: subroutines | Libya Grade 12 IT Science, printed p. 91 |
 | 4.3 Subprograms (Sub…EndSub; passing values in and out through variables, and the side-effect trap; a prime-number subprogram; a digit-counting subprogram; drawing the alkhan khee meander k times with a Turtle subprogram) | Mongolia Grade 12 IT XII, printed p. 118 |
+| Ch.6 Program design techniques: hierarchical design, modular programming, structured programming | Greece Grade 12 Anaptyxi Efarmogon, printed p. 116 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece).**
 
 Book error, taught corrected: the student book's later exercises cross-refer to practical-exercise numbers that do not match the numbers printed on those exercises (the single-wage and ten-labourer flowcharts); each flowchart is taught here under its own printed exercise, and the mismatched cross-references are flagged rather than followed. The teacher guide's Practical Exercise 6.5 answer 1 likewise calls itself an extension of its own question — a self-reference; the exercise it extends is the earlier single-labourer wage exercise.
 
@@ -38,4 +41,6 @@ Libya's own way (Grade 12 Science, Information Technology student book): the Sci
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa

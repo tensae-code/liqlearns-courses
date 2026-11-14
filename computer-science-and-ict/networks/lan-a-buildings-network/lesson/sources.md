@@ -1,6 +1,6 @@
 # Sources — LAN — a building's network
 
-countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji, Rwanda
+countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji, Rwa
 
 **Book 9:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 10:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | One building, privately owned | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 51–52 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji, Rwa
 | Unit 1 Lesson 3: Types of networks — local area network and file sharing | Sudan, *ICT, Grade 6*, printed p. 5 |
 | Unit 5.2 Types of networks (LAN and WAN) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 147 |
 | Classification of networks by geographical area (LAN/MAN/WAN) | Rwanda Grade 7 S1 ICT Student Book, printed p. 181 |
+| Unit 2 Categories of data networks by geographic range (LAN/MAN/WAN/PAN set) | Greece Grade 8 Pliroforiki B, printed p. 24 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji, Rwanda).**
+**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Nepal, China, North Macedonia, Sudan, Fiji, Rwanda, Greece).**
 
 Book error taught corrected: the student book's text calls the LAN picture “Figure 2.3” when the picture is Figure 2.13. This lesson teaches the LAN from the pictured network itself and names the figure correctly here; the wrong in-text number is flagged, not taught.
 
@@ -49,4 +52,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
 
-Searchable tags: LAN, local area network, WLAN, building network, Figure 2.13, Grade 9 ICT Ethiopia, mozambique, nepal, china, north macedonia, grade 10, mauritania, grade 9, sudan, grade 6, fiji, years 7-8, rwanda, grade 7 s1 ict student book
+Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
+
+Searchable tags: LAN, local area network, WLAN, building network, Figure 2.13, Grade 9 ICT Ethiopia, mozambique, nepal, china, north macedonia, grade 10, mauritania, grade 9, sudan, grade 6, fiji, years 7-8, rwanda, grade 7 s1 ict student book, greece, grade 8 pliroforiki b gymnasiou

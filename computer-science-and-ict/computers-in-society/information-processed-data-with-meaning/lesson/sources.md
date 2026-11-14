@@ -1,6 +1,6 @@
 # Sources — From data to information — processed data with meaning
 
-countries: Ethiopia, China, Yemen, Laos
+countries: Ethiopia, China, Yemen, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, China, Yemen, Laos
 **Book 5:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 **Book 6:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 7:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Information — data made meaningful | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 2–3 (student placement item 3) |
@@ -21,8 +23,9 @@ countries: Ethiopia, China, Yemen, Laos
 | "Processing data and information" | Yemen, *Computer, Grade 11*, printed p. 11 |
 | Ch.2 §2 Information | Laos Grade 6 ICT student, printed p. 22 |
 | Ch.1 §4 Information (its characteristics and types) | Laos Grade 10 ICT student, printed p. 4 |
+| Unit 1 Data – information | Greece Grade 7 Pliroforiki A, printed p. 10 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Yemen, Laos).**
+**Acceptance count: taught in 5 countries (Ethiopia, China, Yemen, Laos, Greece).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -32,4 +35,6 @@ Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no 
 
 Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
 
-Searchable tags: information, processed data, sales trend, who what when where, processing ladder, Davenport and Prusak, Ethiopia Grade 11 IT, china, yemen, laos, grade 6 ict student, grade 10 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: information, processed data, sales trend, who what when where, processing ladder, Davenport and Prusak, Ethiopia Grade 11 IT, china, yemen, laos, grade 6 ict student, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou

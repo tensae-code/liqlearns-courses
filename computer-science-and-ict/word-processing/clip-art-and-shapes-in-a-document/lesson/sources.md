@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos
+countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, 
 
 **Book 16:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 17:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -58,8 +60,9 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, 
 | Formatting an object and chart; add objects from file (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 43 (teacher guide — evidence) |
 | Unit 3 Objects in a Document: text boxes, shapes, pictures and WordArt | Rwanda Grade 8 S2 ICT Student Book, printed p. 43 |
 | Ch.4 §4.7 Inserting a picture from Clip Art | Laos Grade 9 ICT student, printed p. 48 |
+| Unit 7 Images and automatic shapes | Greece Grade 7 Pliroforiki A, printed p. 81 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -88,4 +91,6 @@ Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 gui
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou

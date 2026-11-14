@@ -1,6 +1,6 @@
 # Sources — What a computer network is
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -56,6 +56,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Suda
 
 **Book 27:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 28:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 29:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two or more computers, linked to share | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 37 |
@@ -87,8 +90,10 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Suda
 | Computer network concepts | Rwanda Grade 7 S1 ICT Student Book, printed p. 179 |
 | Unit 8 guide: network and Internet fundamentals (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 113 (teacher guide — evidence) |
 | Unit 8 Network Components: network definitions, devices that connect, network resources | Rwanda Grade 8 S2 ICT Student Book, printed p. 230 |
+| Ch.8 Communication and computer networks | Greece Grade 10 Efarmoges Pliroforikis, printed p. 74 |
+| Ch.3.3 What a computer network is / elements of networks | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 87 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 16 countries (Ethiopia, Mozambique, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Greece).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -140,4 +145,8 @@ Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student unit
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, rwanda, grade 8 s2 ict student book
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Searchable tags: computer network, sharing resources, Bluetooth, Internet, ISP, Ethio-telecom, Grade 9 ICT Ethiopia, djibouti, mozambique, afghanistan, yemen, grade 11, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 9, sudan, grade 4, grade 6, cuba, grade 7, cuba, grade 12, egypt, grade 10, fiji, years 7-8, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou

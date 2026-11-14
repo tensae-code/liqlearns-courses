@@ -1,10 +1,14 @@
 # Sources — Recursive procedures — a procedure that calls itself
 
-countries: Ethiopia
+countries: Ethiopia, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
 **Book 2:** *Information Technology, Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 61 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-teacher-placements.md.
+
+**Book 3:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 4:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 5:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +16,18 @@ countries: Ethiopia
 | Everyday procedures — the waking-up steps | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 6 §6.3, printed p. 96 |
 | The star procedure — to star / repeat 100 [fd 100 rt 144] / end — and its star output | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 6 §6.3, printed pp. 96–97 |
 | Picture/GIF — the star drawing itself | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 6 §6.3, printed pp. 96–97 |
+| Unit 1 Recursive algorithms | Greece Grade 9 Pliroforiki C, printed p. 7 |
+| Ch.2.2 Calling an algorithm from an algorithm / recursion | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 41 |
+| Ch.3 Recursion: factorial, greatest common divisor, Fibonacci numbers | Greece Grade 12 Anaptyxi Efarmogon, printed p. 67 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
 
 Book error taught corrected, as the placements flag it: the "star" procedure in §6.3 is presented as recursive but never calls itself — it only uses REPEAT (printed pp. 96–97). The lesson teaches the book's definition of recursion, draws the book's star, and teaches plainly what the code actually does; the label is flagged here rather than taught as settled. The same section misspells SQUARE as "SQAURE" (printed p. 94) — flagged here, spelled correctly in the lessons. The teacher guide prints the same recursive-procedure definition twice in consecutive sentences in its Unit 6 overview (guide printed p. 50) — a guide duplication, noted here. The guide's Unit 6 answer key (printed p. 55) keys "recursive procedure" as a fill-in answer and was used as the verified-answer check for this lesson's question files.
 
-Searchable tags: recursive procedures, LOGO recursion, self-call, star procedure, REPEAT 100, fd 100 rt 144, Grade 8 ICT Ethiopia
+Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
+
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: recursive procedures, LOGO recursion, self-call, star procedure, REPEAT 100, fd 100 rt 144, Grade 8 ICT Ethiopia, greece, grade 9 pliroforiki c gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa

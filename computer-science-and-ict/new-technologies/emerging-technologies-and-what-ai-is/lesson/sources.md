@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
+countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,9 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 
 **Book 13:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 14:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 15:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -41,8 +44,10 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 | Unit 2: Introduction to Artificial Intelligence — development, types and functions of AI (مدخل إلى الذكاء الاصطناعي) | Kuwait Grade 10 Term 2 Book L1, printed p. 91 |
 | Unit 1, Artificial Intelligence (2): what artificial intelligence is and where it sits inside our devices | Kuwait Grade 5 Digital Explorer T1, printed p. 43 |
 | Ch.4 §1–5 Artificial intelligence (concept, characteristics, benefits, limits, AI compared with human intelligence) | Laos Grade 10 ICT student, printed p. 83 |
+| Unit 7 Artificial Intelligence | Greece Grade 8 Pliroforiki B, printed p. 69 |
+| Ch.3.4 What artificial intelligence is / evolution of AI | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 93 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos).**
+**Acceptance count: taught in 9 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -65,4 +70,8 @@ Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for
 
 Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
 
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student
+Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
+
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou

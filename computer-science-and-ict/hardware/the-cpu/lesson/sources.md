@@ -1,6 +1,6 @@
 # Sources — The CPU — the brain of the computer
 
-countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos
+countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos
 
 **Book 8:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 9:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CPU — the brain of the computer | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 20 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos
 | Ch.1 Central Processing Unit: identify CPU, kitchen/chef analogy | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 1 |
 | Workbook Ch.1 Central Processing Unit exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 1 |
 | Ch.1 §3 The central processing unit | Laos Grade 7 ICT student, printed p. 4 |
+| Ch.1 Central Processing Unit | Greece Grade 10 Efarmoges Pliroforikis, printed p. 11 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -47,4 +50,6 @@ Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Readi
 
 Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
 
-Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou

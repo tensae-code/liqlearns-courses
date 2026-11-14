@@ -1,6 +1,6 @@
 # Sources — Robotics — machines that do people's tasks
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -19,6 +19,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos
 
 **Book 9:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 10:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 11:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Robotics defined; factory routine work, dangerous work, underwater and space work; home work and the robot vacuum | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 30 |
@@ -31,8 +34,10 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos
 | Unit 2 (MakeCode for micro:bit), Lesson 6 The Robot: robots in our lives — what a robot is, how it works, its parts (programming, electronics, mechanics) | Kuwait Grade 5 Digital Explorer T2, printed p. 91 |
 | Unit 1, Artificial Intelligence (2): let's meet the robot — its components, and robots all around us | Kuwait Grade 5 Digital Explorer T1, printed p. 43 |
 | Ch.4 §6.1 Robotics | Laos Grade 10 ICT student, printed p. 88 |
+| Unit 10 Robot vacuum, autonomous car and drones | Greece Grade 7 Pliroforiki A, printed p. 122 |
+| Ch.3 Robotics applications | Greece Grade 10 Efarmoges Pliroforikis, printed p. 33 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece).**
 
 No book error touches this lesson.
 
@@ -50,4 +55,8 @@ Kuwait's own way (Grade 5 Digital Explorer Term 1): Grade 5 leaves ScratchJr for
 
 Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
 
-Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou

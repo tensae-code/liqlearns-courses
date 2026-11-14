@@ -1,11 +1,13 @@
 # Sources — SaaS — software you subscribe to, not install
 
-countries: Ethiopia, Iraq
+countries: Ethiopia, Iraq, Greece
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 **Book 2:** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 Ministry of Education, GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md.
 
 **Book 3:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
+**Book 4:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,11 +15,14 @@ countries: Ethiopia, Iraq
 | Three models compared by benefit; SaaS most popular (browser + connection, provider manages all, automatic updates); PaaS developer productivity; IaaS flexibility and pay-as-you-go (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 2 (teacher guide — evidence), printed pp. 37–38 |
 | Cloud services pupils already use: mail, social media, file storage, Google Classroom, Microsoft's education centre, virtual-meeting applications (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 2 (teacher guide — evidence), printed pp. 37–38 |
 | Unit 4 Ch.2 Lesson 2 Cloud applications and services | Iraq, *Computer, Grade 11*, printed p. 134 |
+| Ch.13 Cloud service models (SaaS/PaaS/IaaS set) / applications of cloud services | Greece Grade 10 Efarmoges Pliroforikis, printed p. 111 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iraq).**
+**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Greece).**
 
 The student book's Figure 2.24, printed under this lesson's SaaS discussion on printed p. 45, is captioned “Hybrid cloud”. The caption belongs to the hybrid-cloud lesson's topic, not to SaaS; this lesson teaches SaaS from the §2.2 text and flags the misplaced caption here, as the placements record it.
 
 Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
 
-Searchable tags: SaaS, software as a service, subscription software, Google Workspace, service models compared, Grade 12 ICT Ethiopia, iraq, grade 11
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: SaaS, software as a service, subscription software, Google Workspace, service models compared, Grade 12 ICT Ethiopia, iraq, grade 11, greece, grade 10 efarmoges pliroforikis lykeiou

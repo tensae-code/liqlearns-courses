@@ -1,6 +1,6 @@
 # Sources — E-government — public services online
 
-countries: Ethiopia, Iraq, Sudan, Egypt, Libya
+countries: Ethiopia, Iraq, Sudan, Egypt, Libya, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Iraq, Sudan, Egypt, Libya
 
 **Book 8:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
 
+**Book 9:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-government and portals | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 11–13 (student placement item 10) |
@@ -30,8 +32,9 @@ countries: Ethiopia, Iraq, Sudan, Egypt, Libya
 | Ch 2, examples of e-government services and transactions; the importance of e-government for developing countries; the four stages of transformation; challenges of applying it | Libya Grade 12 IT Humanities, printed p. 26 |
 | Ch 2, electronic government: the concept of government, the definition of e-government, communication channels, interactions, electronic services and their advantages | Libya Grade 12 IT Science, printed p. 23 |
 | Ch 2, examples of e-government services and transactions; the importance of e-government for developing countries; stages of transformation; challenges of applying it | Libya Grade 12 IT Science, printed p. 26 |
+| Unit 10 E-government | Greece Grade 7 Pliroforiki A, printed p. 125 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Sudan, Egypt, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Egypt, Libya, Greece).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them.
 
@@ -47,4 +50,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
 
-Searchable tags: e-government, e-services, portal, Ministry of Health, electricity bill, Ethiopia Grade 11 IT, iraq, grade 11, sudan, grade 7, egypt, grade 7, libya, grade 12 it humanities, grade 12 it science
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: e-government, e-services, portal, Ministry of Health, electricity bill, Ethiopia Grade 11 IT, iraq, grade 11, sudan, grade 7, egypt, grade 7, libya, grade 12 it humanities, grade 12 it science, greece, grade 7 pliroforiki a gymnasiou

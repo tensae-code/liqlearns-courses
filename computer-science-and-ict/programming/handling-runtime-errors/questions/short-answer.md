@@ -1,0 +1,33 @@
+# Handling Runtime Errors — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is a runtime error?**
+**Answer: A fault that appears while the program executes, when the data breaks an operation**
+
+**2. (Sub lesson 1) Name two runtime errors.**
+**Answer: Division by zero; a file that is not there (also root of a negative, value too large for its type)**
+
+**3. (Sub lesson 1) How does it differ from a syntax error?**
+**Answer: Syntax is caught by the translator before the run; runtime appears in the run**
+
+**4. (Sub lesson 1) How does it differ from a logic error?**
+**Answer: A logic error runs quietly to a wrong answer; a runtime error stops the run**
+
+**5. (Sub lesson 1) What is the stop called?**
+**Answer: Abnormal termination**
+
+**6. (Sub lesson 2) What does handling mean?**
+**Answer: Building the program's answer before the blow lands — check the dangerous data first**
+
+**7. (Sub lesson 2) Name the three checks.**
+**Answer: Divisor not zero; file exists; value in range**
+
+**8. (Sub lesson 2) What roads may the program take when a check fails?**
+**Answer: A message naming the trouble, a fresh chance to input, a safe ending**
+
+**9. (Sub lesson 2) What is the chapter's design rule?**
+**Answer: Every operation that can break on data must be met by its check**
+
+**10. (Sub lesson 2) Which chapter teaches it?**
+**Answer: Greece Grade 12 Anaptyxi Efarmogon, Chapter 13**

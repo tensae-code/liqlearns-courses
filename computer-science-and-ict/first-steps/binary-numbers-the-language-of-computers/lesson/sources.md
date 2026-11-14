@@ -1,17 +1,22 @@
 # Sources — Binary Numbers — the Language of Computers
 
-countries: Iraq
+countries: Iraq, Greece
 
 **Book 1:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
 **Book 2:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
 
+**Book 3:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 4:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Ch.2 Lesson 2 Data as two-state electrical signals / bits | Iraq, *Computer, Grade 7*, printed p. 24 |
 | Strand 5 Unit 1, Topic Binary, Lesson 1: Introduction to Binary Numbers (filed as hardware/why-binary-inside-the-computer; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 64 (teacher guide — evidence, PARTIAL) |
+| Unit 1 Binary numbers – the language of computers (filed as NEW LESSON NEEDED — first-steps/binary-numbers-the-language-of-computers; stocked here as existing because this lesson of the exact slug is already live — it is Iraq's lesson, built in this expansion) | Greece Grade 7 Pliroforiki A, printed p. 13 |
+| Ch.2 Representation of data in digital form: number systems / converting a number's base (filed as NEW LESSON NEEDED — first-steps/binary-numbers-the-language-of-computers; stocked here as existing because this lesson of the exact slug is already live — it is Iraq's lesson, built in this expansion) | Greece Grade 11 EPAL Basika Themata, printed p. 16 |
 
-**Acceptance count: taught in 1 country (Iraq).**
+**Acceptance count: taught in 2 countries (Iraq, Greece).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — first-steps/binary-numbers-the-language-of-computers). It sits in the First Steps title (first-steps/), following the book's own order.
 
@@ -19,4 +24,8 @@ Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — compute
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: binary numbers, bits, 0 and 1, electrical signals, first steps, iraq, grade 7, papua new guinea, grade 9
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
+
+Searchable tags: binary numbers, bits, 0 and 1, electrical signals, first steps, iraq, grade 7, papua new guinea, grade 9, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 epal basika themata

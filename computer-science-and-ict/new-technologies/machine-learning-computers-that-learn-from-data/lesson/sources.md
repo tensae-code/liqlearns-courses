@@ -1,6 +1,6 @@
 # Sources — Machine Learning — computers that learn from data
 
-countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait
+countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait
 **Book 9:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
 **Book 10:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
+**Book 11:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Machine Learning defined; train on sample data, build a model, predict for decisions; the four applications | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 29 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait
 | Unit 3 Lesson 2 How Do Machines Think and Change Our World? | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 13 |
 | Unit 1, Lesson 5 Artificial Intelligence (2): I train the machine — machine learning, and training a chatbot to know Kuwait's landmarks | Kuwait Grade 4 Digital Explorer T2, printed p. 65 |
 | Unit 2: Machine learning, deep learning and generative AI | Kuwait Grade 10 Term 2 Book L1, printed p. 91 |
+| Unit 4 Machine learning with neural networks | Greece Grade 9 Pliroforiki C, printed p. 43 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait).**
+**Acceptance count: taught in 7 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -55,4 +58,6 @@ Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records nam
 
 Kuwait's own way (Grade 10 Information Technology Term 2): the Grade 10 year is a Python-to-AI arc — Term 2 moves from Python data structures and functions straight into AI concepts and a hands-on OpenCV face-recognition project, with the ministry's Hamad AI assistant threaded through the front matter.
 
-Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2
+Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
+
+Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou

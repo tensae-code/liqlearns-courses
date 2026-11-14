@@ -1,6 +1,6 @@
 # Sources — What makes an algorithm good — six characteristics
 
-countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia
+countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia
 **Book 6:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 **Book 7:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 8:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six characteristics | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 207–209 |
@@ -25,8 +27,9 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia
 | 1.1.2 Ciri-ciri Penyelesaian Masalah Berkesan (filed as programming/characteristics-of-an-effective-solution; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 10 |
 | 3.1 The informatics problem and the qualities of an algorithm (discreteness, effectiveness, generality, determinacy, clarity) | Mongolia Grade 11 IT XI, printed p. 94 |
 | 4.2 Algorithms and the Small Basic language (a recap through a worked program: the sum of an arithmetic progression, with a step-by-step trace table) | Mongolia Grade 12 IT XII, printed p. 115 |
+| Ch.2.2 Characteristics of an algorithm | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 22 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia).**
+**Acceptance count: taught in 7 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece).**
 
 Book error taught corrected: the student book prints “fineness” for this characteristic (printed p. 210, in the worked-algorithms summary of the same list) — the word meant is **finiteness**, and the lesson teaches finiteness. The unit's outcomes header also spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint); the lessons use the correct spelling, Fundamentals of Programming.
 
@@ -41,4 +44,6 @@ Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU regis
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou

@@ -1,6 +1,6 @@
 # Sources — System or application? Telling software apart
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos
 
 **Book 7:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 8:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The comparison — purpose, running time, interaction; Windows vs Word | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.34 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos
 | 1.1 Types of Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 2 |
 | 1.2.1 The classification of software (system and application software; how the operating system works; drivers) | Mongolia Grade 8 IT VIII, printed p. 13 |
 | Ch.2 §3 Types of software | Laos Grade 7 ICT student, printed p. 49 |
+| Ch.2 System software and application software | Greece Grade 10 Efarmoges Pliroforikis, printed p. 20 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -40,4 +43,6 @@ Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a fo
 
 Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
 
-Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou

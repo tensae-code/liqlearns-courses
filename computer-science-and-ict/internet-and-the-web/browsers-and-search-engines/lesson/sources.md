@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 **Book 24:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 **Book 25:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Teacher's handbook, ICT, Secondary Year 5)* (teacher guide, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2014; ISBN: no ISBN printed. 125 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 
+**Book 26:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -81,8 +83,9 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 | Activities 26–27: Communication software and information-search software (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 106 (teacher guide — evidence) |
 | Ch.5 §5.4.6–5.4.8 The World Wide Web, web browsers and search engines | Laos Grade 8 ICT student, printed p. 96 |
 | Appendix ກ: Searching for information from the internet (browser icons, Google search, image search, Save Image As) (teacher guide — evidence) | Laos Grade 10 ICT teacher guide, printed p. 83 (teacher guide — evidence) |
+| Unit 5 Searching the World Wide Web | Greece Grade 7 Pliroforiki A, printed p. 46 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 16 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -131,4 +134,6 @@ Laos's own way (Grade 8 ICT student book): a full PC-technician year in full col
 
 Laos's own way (Grade 10 ICT teacher guide): the guide quietly carries the year's only practical work as a supplementary appendix (ແນະນໍາເພີ່ມ, printed pp. 82–118) the student book does not contain — Google searching with Internet Explorer/Firefox, hand-coding a web page in Notepad (with w3schools named as the reference), a full PowerPoint 2007 course, and a DOS command-prompt practical. (teacher guide — evidence)
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou

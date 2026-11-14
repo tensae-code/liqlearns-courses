@@ -1,6 +1,6 @@
 # Sources — Health effects of information systems — benefits and harms
 
-countries: Ethiopia, Iraq, Bhutan
+countries: Ethiopia, Iraq, Bhutan, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Iraq, Bhutan
 
 **Book 4:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 5:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What health information systems give | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 12–13 (student placement item 16) |
@@ -17,8 +19,9 @@ countries: Ethiopia, Iraq, Bhutan
 | Sub lesson 2 — Fuller list + the arousal chain (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 12*, Unit 1, printed pp. 12–13 (teacher placement item 8) |
 | Unit 1 Ch.1 Lesson 1 Harms of computer use (isolation, health damage from long wrong use) | Iraq, *Computer, Grade 7*, printed p. 10 |
 | 5.1 Computer Use and Health Issues | Bhutan, *Literacy with ICT, Class VI*, printed p. 86 |
+| Unit 10 Internet addiction / isolation and health problems (filed as NEW LESSON NEEDED — computers-in-society/internet-addiction-and-health-problems-of-long-computer-use; stocked in this lesson because this lesson teaches the health problems of long computer use in its second sub lesson — musculoskeletal pain, vision problems, headaches, obesity from long sitting — and the internet-addiction chain (excessive use, arousal, lost sleep, depression, anxiety) — Greece's section's own two harms) | Greece Grade 7 Pliroforiki A, printed p. 137 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Bhutan, Greece).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -26,4 +29,6 @@ Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — compute
 
 Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
 
-Searchable tags: health information systems, eye strain, musculoskeletal pain, sleep disorders, addiction chain, Ethiopia Grade 12 IT, iraq, grade 7, bhutan, class vi
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: health information systems, eye strain, musculoskeletal pain, sleep disorders, addiction chain, Ethiopia Grade 12 IT, iraq, grade 7, bhutan, class vi, greece, grade 7 pliroforiki a gymnasiou

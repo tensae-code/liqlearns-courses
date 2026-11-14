@@ -1,6 +1,6 @@
 # Sources — Computer software — instructions that make hardware work
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 
 **Book 12:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 13:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What software is — instructions; hardware can do nothing without it; interdependence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.31 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 | 3.1 Programs and software defined | Bhutan, *Literacy with ICT, Class IV*, printed p. 20 |
 | Computer components: software | Rwanda Grade 7 S1 ICT Student Book, printed p. 50 |
 | Ch.2 §1 The meaning and importance of software | Laos Grade 7 ICT student, printed p. 46 |
+| Unit 4 What is software / kinds of software | Greece Grade 7 Pliroforiki A, printed p. 37 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos).**
+**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -66,4 +69,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
 
-Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou

@@ -1,6 +1,6 @@
 # Sources — What a problem is — and what computers cannot settle
 
-countries: Ethiopia, Libya, Malaysia, Sri Lanka
+countries: Ethiopia, Libya, Malaysia, Sri Lanka, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Libya, Malaysia, Sri Lanka
 
 **Book 6:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 7:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 8:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 9:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 10:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 11:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problem defined; the three Ethiopian problems set as the group activity; the people-first conclusion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 217–218 |
@@ -23,8 +29,13 @@ countries: Ethiopia, Libya, Malaysia, Sri Lanka
 | Guide Ch 1, problem solving and the algorithm (target outcomes, worked exercise solutions) (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 1, printed p. 9 (teacher guide — evidence) |
 | Bab 1 Pengaturcaraan, 1.1.1 Keperluan Penyelesaian Masalah Berstrategi | Malaysia Grade 10 SK Tingkatan 4, printed p. 3 |
 | Ch.5 Problem solving process | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 55 |
+| Unit 8 Problem analysis | Greece Grade 7 Pliroforiki A, printed p. 90 |
+| Ch.5 Problem and computer | Greece Grade 10 Efarmoges Pliroforikis, printed p. 44 |
+| Ch.2.1 The concept of the problem / categories of problems | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 13 |
+| Ch.1 Problem analysis: the concept / understanding / structure / requirements / categories of problems / problem and computer | Greece Grade 12 Anaptyxi Efarmogon, printed p. 13 |
+| Workbook Ch.1 Problem analysis (worked examples and activities) | Greece Grade 12 Anaptyxi Workbook, printed p. 9 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Libya, Malaysia, Sri Lanka).**
+**Acceptance count: taught in 5 countries (Ethiopia, Libya, Malaysia, Sri Lanka, Greece).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -36,4 +47,14 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
 
-Searchable tags: problem, climate change, road traffic, walking safety, conflict, Grade 9 ICT Ethiopia Unit 6, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 6 reading book
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
+
+Searchable tags: problem, climate change, road traffic, walking safety, conflict, Grade 9 ICT Ethiopia Unit 6, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 6 reading book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa

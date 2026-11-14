@@ -1,6 +1,6 @@
 # Sources — The IDE — one home for editing, compiling, debugging
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 
 **Book 9:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 10:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an IDE is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 218–220 |
@@ -32,8 +34,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 | Ch 4, the Visual Basic interface: the toolbox and its tools on a form, the project explorer window, the form-layout window, the menu bar, the toolbar, the properties window, the form window | Libya Grade 12 IT Science, printed p. 47 |
 | Ch.1 Preparing programs in Visual Basic: the VB IDE (Form Design, Project Explorer, Properties, Tool Box, Form Layout, Main Menu) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 12 |
 | Unit 2, Lesson 1: writing programs in Python — the PyCharm IDE window, creating a Python file and running it | Kuwait Grade 10 Information Technology T1, printed p. 39 |
+| Ch.6 Modern programming environments | Greece Grade 10 Efarmoges Pliroforikis, printed p. 51 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -52,4 +55,6 @@ Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming cours
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou

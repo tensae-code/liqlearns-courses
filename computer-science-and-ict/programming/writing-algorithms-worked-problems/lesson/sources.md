@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — worked problems
 
-countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia
+countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece
 
 **Book 1:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia
 
 **Book 9:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 10:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problems 1–5 — the worked algorithm solutions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (§6.8 key), printed pp. 117–122 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia
 | Unit 3 Lesson 4: Operations on algorithms | Sudan, *ICT, Grade 9*, printed p. 48 |
 | 7.6 Writing Algorithm | Bhutan, *Literacy with ICT, Class VI*, printed p. 116 |
 | 1.2.1 Penggunaan Algoritma untuk Menyelesaikan Masalah | Malaysia Grade 10 SK Tingkatan 4, printed p. 22 |
+| Workbook Ch.2 Basic concepts of algorithms (worked examples and activities) | Greece Grade 12 Anaptyxi Workbook, printed p. 15 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Sudan, Bhutan, Malaysia).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
 
 Book error taught corrected: the teacher guide's §6.8 key defines an algorithm as a sequence of “ambiguous” step-by-step instructions (printed p. 116) — the opposite of both books' wording everywhere else. The lessons teach **unambiguous**, and the prime check and quadratic solutions above follow the key's worked steps with that word corrected.
 
@@ -52,4 +55,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11, bhutan, class vi, malaysia, grade 10 sk tingkatan 4
+Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
+
+Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11, bhutan, class vi, malaysia, grade 10 sk tingkatan 4, greece, grade 12 anaptyxi workbook glossa

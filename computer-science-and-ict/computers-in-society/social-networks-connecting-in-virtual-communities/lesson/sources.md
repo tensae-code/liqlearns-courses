@@ -1,6 +1,6 @@
 # Sources — Social networks — connecting in virtual communities
 
-countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda
+countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -24,6 +24,9 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 
 **Book 11:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
 
+**Book 12:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 13:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a social network is; the named platforms; the warning held for later | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
@@ -38,8 +41,10 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 | 2.5.2 Social networks, their use and ethics (registering on Facebook, groups and privacy settings, blocking; Twitter; care with personal photos and information) | Mongolia Grade 8 IT VIII, printed p. 68 |
 | Social media applications: value, best practice, Facebook/Twitter/LinkedIn/YouTube (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 133 (teacher guide — evidence) |
 | Social media: value, best practices, examples | Rwanda Grade 8 S2 ICT Student Book, printed p. 249 |
+| Unit 10 Communication possibilities / social networking media | Greece Grade 7 Pliroforiki A, printed p. 130 |
+| Ch.15 Social networks in general / categories of social networks | Greece Grade 10 Efarmoges Pliroforikis, printed p. 124 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda).**
+**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece).**
 
 Belarus's own way (Grade 10): social networks are taught inside one chapter-section with blogs, forums and chats (§ 20) — the virtual-community forms are compared together, not taken one tool at a time.
 
@@ -59,4 +64,8 @@ Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT i
 
 Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
 
-Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou

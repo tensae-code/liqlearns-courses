@@ -1,6 +1,6 @@
 # Sources — Privacy — your data spread across systems
 
-countries: Ethiopia, China, Egypt, Fiji, Libya, Laos
+countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,9 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos
 
 **Book 7:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 8:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 9:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Data everywhere, behind passwords | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 3) |
@@ -26,8 +29,10 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos
 | Ch 3, personal information and privacy; freedom of access to information | Libya Grade 12 IT Humanities, printed p. 37 |
 | Ch 3, personal information and privacy; freedom of access to information | Libya Grade 12 IT Science, printed p. 37 |
 | Ch.3 §4.6 Privacy law (Privacy Law) | Laos Grade 10 ICT student, printed p. 78 |
+| Unit 6 Privacy policy: how much information do we share | Greece Grade 9 Pliroforiki C, printed p. 75 |
+| Ch.16 Privacy and personal data on the internet (with copyright and software piracy) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 139 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos).**
+**Acceptance count: taught in 7 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -41,4 +46,8 @@ Libya's own way (Grade 12 Science, Information Technology student book): the Sci
 
 Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
 
-Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student
+Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou

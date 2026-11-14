@@ -1,6 +1,6 @@
 # Sources — Making a bulleted list
 
-countries: Ethiopia
+countries: Ethiopia, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -8,15 +8,20 @@ countries: Ethiopia
 
 **Book 3:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 4:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bulleted lists: select the text, Home → the drop-down beside Bullets, hover for live preview, click the style; the worked list is the "12 Principles of Business Ethics"; removal by clicking the command again; Enter and Enter-twice behaviour; ruler markers adjust list indentation and the bullet-text gap | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 87-89 |
 | Sub lesson 2 — customising bullets: Define New Bullet; Symbol with Wingdings/Symbol fonts; Font → Font Color for a coloured bullet; a picture uploaded as a bullet (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 44-46 |
 | Unit 3 answer key used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
 | Unit 2, Lesson 3: Bulleted lists (making a bulleted list of the months; changing the bullet symbol) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 60 (teacher guide — evidence) |
+| Unit 7 Creating a list | Greece Grade 7 Pliroforiki A, printed p. 79 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: bulleted list, Bullets drop-down, live preview, 12 Principles of Business Ethics, Define New Bullet, Wingdings, Symbol font, Font Color, Grade 9 ICT Ethiopia, saudi arabia, grade 4
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: bulleted list, Bullets drop-down, live preview, 12 Principles of Business Ethics, Define New Bullet, Wingdings, Symbol font, Font Color, Grade 9 ICT Ethiopia, saudi arabia, grade 4, greece, grade 7 pliroforiki a gymnasiou

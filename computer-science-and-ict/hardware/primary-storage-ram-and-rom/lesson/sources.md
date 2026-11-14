@@ -1,6 +1,6 @@
 # Sources — Primary storage — RAM and ROM
 
-countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos
+countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -18,6 +18,9 @@ countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos
 
 **Book 8:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 9:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 10:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — RAM (and the primary-storage frame) | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.3, printed pp. 28–29 |
@@ -29,8 +32,10 @@ countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos
 | 1.1 Computer Memory and 1.2 Types of Memory | Bhutan, *Literacy with ICT, Class VIII*, printed p. 2 |
 | Ch.1 Components: main memory / RAM | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 6 |
 | Ch.1 §4 Main memory (RAM and ROM) | Laos Grade 7 ICT student, printed p. 10 |
+| Unit 2 Computer memory and storage media | Greece Grade 7 Pliroforiki A, printed p. 25 |
+| Ch.1 Memory (memory hierarchy) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 14 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -48,4 +53,8 @@ Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" 
 
 Laos's own way (Grade 7 ICT student book): the hardware year is taught through the von Neumann model (the book pictures John von Neumann beside an early machine) and the software chapter ends with a full comparison table of real compilers (Visual Basic, Turbo Pascal, C++, Fortran…) by platform and licence.
 
-Searchable tags: primary storage, main memory, RAM, ROM, volatile, non-volatile, startup instructions, Ethiopia Grade 8, yemen, grade 10, iraq, grade 8, fiji, year 11, bhutan, class vi, class viii, sri lanka, grade 6 reading book, laos, grade 7 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: primary storage, main memory, RAM, ROM, volatile, non-volatile, startup instructions, Ethiopia Grade 8, yemen, grade 10, iraq, grade 8, fiji, year 11, bhutan, class vi, class viii, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou

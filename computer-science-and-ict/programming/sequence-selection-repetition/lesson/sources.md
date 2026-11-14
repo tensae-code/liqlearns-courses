@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 
 **Book 16:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 200 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 17:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 18:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 19:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -53,8 +57,11 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 | 1.3.1 The linear sequence of actions (algorithms in words and as Turtle Art blocks; an algorithm for the area of a fenced plot) | Mongolia Grade 8 IT VIII, printed p. 21 |
 | Ch.4 Control structures: sequence and selection | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 42 |
 | Unit 1, Lesson 3 The Little Programmer (2): sequence — arrange the steps in order to reach your goal | Kuwait Grade 4 Digital Explorer T1, printed p. 39 |
+| Ch.2.2 Sequence, selection and repetition structures | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 33 |
+| Ch.2 Basic components/commands: sequence, selection, multiple selection, nested procedures, repetition structures | Greece Grade 12 Anaptyxi Efarmogon, printed p. 35 |
+| Workbook Ch.8 Selection and repetition (worked examples and activities) | Greece Grade 12 Anaptyxi Workbook, printed p. 67 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait).**
+**Acceptance count: taught in 13 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Greece).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -83,4 +90,10 @@ Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion
 
 Kuwait's own way (Grade 4 Digital Explorer Term 1): every lesson runs استكشف–تعلم–طبق (explore–learn–apply) around a story with Hamad, an AI robot assistant mascot; digital citizenship is framed as 'with my ethics I am an ambassador of my country'; block coding starts with ScratchJr, and using the national MS Teams platform (moe.edu.kw accounts) is taught as core curriculum in the front 'Digital Classroom' section.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii, sri lanka, grade 8 reading book, kuwait, grade 4 digital explorer term 1
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii, sri lanka, grade 8 reading book, kuwait, grade 4 digital explorer term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa

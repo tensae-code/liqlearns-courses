@@ -1,6 +1,6 @@
 # Sources - High-level languages - compilers and interpreters
 
-countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos
+countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -37,6 +37,8 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 **Book 17:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (ICT, Secondary Year 2)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2011; ISBN: no ISBN printed. 107 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 **Book 18:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 
+**Book 19:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - High-level languages (close to human language; concentrate on the problem; C, C++, Java, C#, Python, Perl, Ruby) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 133-134 |
@@ -58,8 +60,9 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 | Unit 2, Lesson 1: the Python language, and compiler vs interpreter | Kuwait Grade 10 Information Technology T1, printed p. 39 |
 | Ch.2 §2 Software and computer language (machine language, compiler, interpreter, compiler comparison table) | Laos Grade 7 ICT student, printed p. 47 |
 | Activity 17: Translator software and programming languages (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 78 (teacher guide — evidence) |
+| Ch.6 High-level languages / 4th-generation languages | Greece Grade 12 Anaptyxi Efarmogon, printed p. 107 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos).**
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Laos, Greece).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -96,4 +99,6 @@ Laos's own way (Grade 7 ICT student book): the hardware year is taught through t
 
 Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the student book — carries the real software syllabus: separate activities for DOS, Windows/Linux, Unix/Mac, translators, BASIC and C, Logo, Java, and one activity per application family — a teacher-only expanded software syllabus. (teacher guide — evidence)
 
-Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, laos, grade 7 ict student, grade 7 ict teacher guide
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, laos, grade 7 ict student, grade 7 ict teacher guide, greece, grade 12 anaptyxi efarmogon aepp glossa

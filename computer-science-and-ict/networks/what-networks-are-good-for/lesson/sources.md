@@ -1,6 +1,6 @@
 # Sources — What networks are good for
 
-countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka
+countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka
 
 **Book 6:** *Information and Communication Technology — Teachers' Guide, Grade 9 (Effective from 2018)* (teacher guide, English; parallel Sinhala and Tamil editions spot-checked) — Sri Lanka, National Institute of Education (Department of Information Technology); year 2018 (first print); no ISBN printed (blank on copyright page). 95 PDF pages (English edition; the parallel Sinhala edition has 112 and the Tamil edition 116 PDF pages). Verdict: COMPLETE (English read fully; Sinhala and Tamil are parallel editions of the same guide, spot-checked). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Five families of benefit | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 61–62 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka
 | Unit 1 Ch 1, the basic purposes of a computer network | Libya Grade 9 Computer, printed p. 15 |
 | Ch.5 Use of a network to share resources and communicate | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 70 |
 | Competency 5.2: network resource sharing and communication (folders, files, printer, messages) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 76 (teacher guide — evidence) |
+| Unit 2 Usefulness of networks | Greece Grade 8 Pliroforiki B, printed p. 20 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -37,4 +40,6 @@ Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer s
 
 Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 competencies, 30 periods) that unpacks the student book with CPU internal detail (input unit, ALU, memory unit, control unit, output unit), spreadsheet charts and sorting, and a named careers list (Software QA Engineer, Database Administrator, Software Architect, System Analyst, Web Application Developer, Graphic Designer). (teacher guide — evidence)
 
-Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide
+Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
+
+Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou

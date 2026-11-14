@@ -1,6 +1,6 @@
 # Sources — Digital images — made of pixels
 
-countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda
+countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda
 
 **Book 15:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 16:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -51,8 +53,9 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda
 | Ch.4 Multimedia for communicating ideas: pictures vs graphics, black/white, grey shades and colour images, scanning images in | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 121 |
 | Unit 7: introduction to computer graphics (definitions; bitmap/raster vs vector graphics; resolution; 2D and 3D graphics; core elements) | Rwanda Grade 9 S3 ICT Student Book, printed p. 199 |
 | Unit 7: introduction to computer graphics — definitions (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 127 (teacher guide — evidence) |
+| Ch.4 Representation of image: categories of graphics (vector, raster) | Greece Grade 11 EPAL Basika Themata, printed p. 44 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 8 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
@@ -79,4 +82,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata

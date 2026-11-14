@@ -1,6 +1,6 @@
 # Sources — Formatting — bold, italic, underline, font and colour
 
-countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos
+countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 
 **Book 24:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 25:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -82,8 +84,9 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 | Ch.3 Text formatting tools | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 35 |
 | Basic text formatting | Rwanda Grade 7 S1 ICT Student Book, printed p. 111 |
 | Ch.2 §2.3.4 Formatting text with the Font command | Laos Grade 9 ICT student, printed p. 27 |
+| Unit 7 Character and paragraph formatting | Greece Grade 7 Pliroforiki A, printed p. 75 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 18 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -122,4 +125,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 6 it vi, sri lanka, grade 8 reading book, rwanda, grade 7 s1 ict student book, laos, grade 9 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 6 it vi, sri lanka, grade 8 reading book, rwanda, grade 7 s1 ict student book, laos, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou

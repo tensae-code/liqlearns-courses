@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 **Book 24:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 **Book 25:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 26:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -84,8 +86,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 | Unit 2, Lesson 2 My Special Table (2): working with data — rows, columns and cells, the kinds of data you enter, moving between cells | Kuwait Grade 5 Digital Explorer T2, printed p. 55 |
 | Activity 23: Spreadsheet software (Spread Sheet) (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 96 (teacher guide — evidence) |
 | Ch.5 §5.1–5.2 Getting started with Microsoft Excel; the Excel workbook | Laos Grade 9 ICT student, printed p. 51 |
+| Unit 3 Spreadsheet software / managing cells in the grid | Greece Grade 8 Pliroforiki B, printed p. 31 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos).**
+**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -134,4 +137,6 @@ Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the stu
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student
+Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou

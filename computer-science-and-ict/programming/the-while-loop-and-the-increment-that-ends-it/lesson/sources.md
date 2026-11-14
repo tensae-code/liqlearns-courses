@@ -1,6 +1,6 @@
 # Sources — The while loop — and the increment that ends it
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -22,6 +22,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 
 **Book 10:** *تقنية المعلومات (Information Technology), Grade 10, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: third edition 2026/2027 (first edition 2024/2025); ISBN: no ISBN printed. 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 11:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 12:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Παράρτημα Α, Οδηγίες Μελέτης Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Appendix A — Student Study Guide)* (study guide, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2020-2021 (2nd edition); ISBN 978-960-06-5996-2, book code 0-22-0278. 126 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The while shape — test first, every time | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 184–185 (student placement item 128) |
@@ -36,8 +39,10 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongoli
 | 1.4.4 Struktur Kawalan Ulangan (Java) | Malaysia Grade 10 SK Tingkatan 4, printed p. 102 |
 | 3.5.2 The conditional loop (While–EndWhile; digit-sum problems with Math.Remainder and Math.Floor) | Mongolia Grade 11 IT XI, printed p. 121 |
 | Unit 2, Lesson 5 Loops: the while loop and the increment that ends it | Kuwait Grade 10 Information Technology T1, printed p. 111 |
+| Ch.8 Repetition commands: ΟΣΟ…ΕΠΑΝΑΛΑΒΕ (while) / ΜΕΧΡΙΣ_ΟΤΟΥ (repeat-until) / ΓΙΑ…ΑΠΟ…ΜΕΧΡΙ (for) | Greece Grade 12 Anaptyxi Efarmogon, printed p. 145 |
+| Ch.3 Repetition structure: ΟΣΟ…ΕΠΑΝΑΛΑΒΕ, ΑΡΧΗ_ΕΠΑΝΑΛΗΨΗΣ…ΜΕΧΡΙΣ_ΟΤΟΥ, ΓΙΑ…ΑΠΟ…ΜΕΧΡΙ | Greece Grade 12 Anaptyxi Study Guide, printed p. 38 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait).**
+**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Greece).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 2: the keyed point that the while-loop activity and the for-loop activity solve the same problem with the same output — two roads to one output (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -58,4 +63,8 @@ Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU regis
 
 Kuwait's own way (Grade 10 Information Technology Term 1): secondary school switches to the subject name Information Technology and a more academic register: a full cyber-security unit built on the CIA triad (with hands-on two-factor authentication in Google Authenticator and the Ministry app), then a complete first Python course in PyCharm — variables, strings, conditions, loops, debugging and exceptions — and a team-built digital product.
 
-Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1
+Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon Study Guide — Odigies Meletis Mathiti): the official study guide (Appendix A) companions the main AEPP book's ΓΛΩΣΣΑ chapters only — it re-teaches each structure with fully solved examples plus unsolved exercises: program structure and data types in ΓΛΩΣΣΑ, selection, repetition (including loop conversions and min/max patterns), arrays (sorting, searching, merging, parallel arrays), and subprograms (procedures vs functions worked side by side).
+
+Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, kuwait, grade 10 information technology term 1, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi study guide glossa

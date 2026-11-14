@@ -1,6 +1,6 @@
 # Sources — Presentation software — slides that show your ideas
 
-countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda
+countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lank
 
 **Book 19:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 
+**Book 20:** *Πληροφορική Β΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki B' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6486-7, book code 0-21-0226. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -63,8 +65,9 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lank
 | Components of the presentation environment (the PowerPoint window) | Rwanda Grade 9 S3 ICT Student Book, printed p. 156 |
 | Unit 6: presentation and components of the presentation environment (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 103 (teacher guide — evidence) |
 | Activity 25: Presentation software (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 103 (teacher guide — evidence) |
+| Unit 4 What a presentation is / creating a presentation | Greece Grade 8 Pliroforiki B, printed p. 45 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 11 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -102,4 +105,6 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the student book — carries the real software syllabus: separate activities for DOS, Windows/Linux, Unix/Mac, translators, BASIC and C, Logo, Java, and one activity per application family — a teacher-only expanded software syllabus. (teacher guide — evidence)
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict teacher guide
+Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from bits/bytes and data rates into networks, then data analysis in spreadsheets and presentations, then modular Scratch programming (own blocks with parameters, realistic character motion), list data structures, a full AI unit training a neural network, and ICT's changes to the economy (e-commerce, Industry 4.0, new jobs, sustainability).
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou

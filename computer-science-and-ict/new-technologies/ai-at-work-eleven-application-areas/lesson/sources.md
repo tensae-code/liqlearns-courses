@@ -1,6 +1,6 @@
 # Sources — AI at work — eleven application areas
 
-countries: Ethiopia, Germany, Nepal, China, Egypt, Laos
+countries: Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Germany, Nepal, China, Egypt, Laos
 
 **Book 10:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Textbook, ICT, Secondary Year 5)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 11:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eleven application fields with their named examples — Tesla autopilot, RankBrain, Robonaut | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 32–38 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Germany, Nepal, China, Egypt, Laos
 | Unit 1 Lesson 1, intelligent systems against air pollution and drought | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 6 |
 | Unit 3 Lesson 3 AI Around Us Everywhere | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 20 |
 | Ch.4 §6.7 Using AI and expert systems in business | Laos Grade 10 ICT student, printed p. 99 |
+| Ch.3.4 Fields of application of AI | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 95 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Germany, Nepal, China, Egypt, Laos).**
+**Acceptance count: taught in 7 countries (Ethiopia, Germany, Nepal, China, Egypt, Laos, Greece).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -52,4 +55,6 @@ Egypt's own way (Grade 8, Term 2 student book (Arabic)): Term 2 teaches AI from 
 
 Laos's own way (Grade 10 ICT student book): the upper-secondary course turns conceptual — a full information-systems syllabus (organisations, TPS/MIS/DSS/EIS/expert/office systems, the development life cycle), then the series' deepest security chapter (firewalls, cookies, spyware, spam, employee monitoring, privacy law), closing with artificial intelligence, with DOS and Unix taught alongside Windows in the senior years' background.
 
-Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10, egypt, grade 7, grade 8, laos, grade 10 ict student
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Searchable tags: AI applications, Tesla autopilot, RankBrain, Robonaut, chatbots, precision farming, smart homes, Grade 11 ICT Ethiopia, germany, nepal, china, papua new guinea, grade 10, egypt, grade 7, grade 8, laos, grade 10 ict student, greece, grade 11 eisagogi epistimis hy lykeiou

@@ -1,6 +1,6 @@
 # Sources — Multimedia — many forms, one presentation
 
-countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos
+countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 
 **Book 14:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 15:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Many forms, one presentation | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 introduction and §4.2, printed pp. 144, 147 |
@@ -45,6 +47,7 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 | Unit 8: introduction to multimedia (definition; linear and non-linear categories; live and recorded; features; types — text, graphics, animation, audio, video) | Rwanda Grade 9 S3 ICT Student Book, printed p. 267 |
 | Unit 8: introduction to multimedia — definition, categories, features, types (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 145 (teacher guide — evidence) |
 | Ch.3 §7 Multimedia technology | Laos Grade 6 ICT student, printed p. 57 |
+| Ch.3 Managing digital material and multimedia applications | Greece Grade 10 Efarmoges Pliroforikis, printed p. 26 |
 
 | Going deeper — why the combination matters (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4 overview and opening, printed pp. 139–140 |
 | The unit ahead (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 139–181 |
@@ -52,7 +55,7 @@ countries: Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lank
 | Strand 4, Topic Authoring Software / Multimedia, Lessons 1-3: Introduction to Multimedia Authoring Software; Categories of Authoring Software; Features of Multimedia Authoring Software (yearly overview) (filed as multimedia/multimedia-and-its-many-forms; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 123 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Multimedia and Graphics, Lesson 1: Introduction to Multimedia (multimedia in business, hospitals and more) (filed as multimedia/multimedia-and-its-many-forms; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 74 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 11 countries (Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan, Libya, Sri Lanka, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -82,4 +85,6 @@ Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different pub
 
 Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
 
-Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 6 ict student
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii, libya, grade 12 it humanities, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou

@@ -1,6 +1,6 @@
 # Sources — Programming languages — and why LOGO
 
-countries: Ethiopia, Libya
+countries: Ethiopia, Libya, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Libya
 
 **Book 5:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 7:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 8:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Programming languages defined; C++, Python, Java, LOGO named | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed p.73 |
@@ -20,8 +24,11 @@ countries: Ethiopia, Libya
 | Introduction à la programmation visuelle §1 (what programming/coding is; kinds of programming language and method) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 7 (teacher guide — evidence) |
 | Ch 3, programming basics: the concept of programming, a programming language, the program, algorithm vs program | Libya Grade 11 IT student Term 1, printed p. 23 |
 | Activities 19–20: The Logo language (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 85 (teacher guide — evidence) |
+| Ch.6 Programming languages and tools | Greece Grade 10 Efarmoges Pliroforikis, printed p. 49 |
+| Ch.2.3 Program and programming languages | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 55 |
+| Workbook Ch.6 Introduction to programming (worked examples in ΓΛΩΣΣΑ and real lab languages) | Greece Grade 12 Anaptyxi Workbook, printed p. 53 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
+**Acceptance count: taught in 3 countries (Ethiopia, Libya, Greece).**
 
 Unit 6's expansion of LOGO as 'Logic Oriented Graphics Oriented' is the book's own (non-standard) expansion — the placements direct that it is preserved as Ethiopia's wording, and the lesson does so, saying so openly.
 
@@ -31,4 +38,10 @@ Libya's own way (Grade 11 Term 1, Information Technology student book): a progra
 
 Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the student book — carries the real software syllabus: separate activities for DOS, Windows/Linux, Unix/Mac, translators, BASIC and C, Logo, Java, and one activity per application family — a teacher-only expanded software syllabus. (teacher guide — evidence)
 
-Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
+
+Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
+
+Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi workbook glossa

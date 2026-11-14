@@ -1,6 +1,6 @@
 # Sources — Types of computer by size — microcomputers and desktops
 
-countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos
+countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 
 **Book 16:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 17:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed pp. 7–8 |
@@ -52,8 +54,9 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 | Unit 1 Ch 1.3, types of computers | Libya Grade 8 Computer, printed p. 35 |
 | Ch.1 Classification of computers: super, mainframe, mini, micro; personal, laptop, palmtop (PDA), tablet (filed as first-steps/computer-kinds-by-size-desktop-laptop-tablet-phone; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 27 |
 | Ch.4 §1 Types of computers (supercomputer, mainframe, minicomputer, microcomputer/PC) | Laos Grade 6 ICT student, printed p. 59 |
+| Unit 2 Types of computers | Greece Grade 7 Pliroforiki A, printed p. 27 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos).**
+**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq, Fiji, Libya, Sri Lanka, Laos, Greece).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -81,4 +84,6 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
 
-Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11, libya, grade 8 computer, sri lanka, grade 12 science for technology tamil, laos, grade 6 ict student
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, year 11, libya, grade 8 computer, sri lanka, grade 12 science for technology tamil, laos, grade 6 ict student, greece, grade 7 pliroforiki a gymnasiou

@@ -1,6 +1,6 @@
 # Sources — From data to information
 
-countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait
+countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 
 **Book 14:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records (the TSV release asset and the books.json record) name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page of the file itself print المستكشف الرقمي (Digital Explorer) — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the Term 1 book's front section and is placed there, not double-counted here.
 
+**Book 15:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Processed data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 3–4 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 | 1.1.1 What is information? | Mongolia Grade 6 IT VI, printed p. 5 |
 | Information and quality of information | Rwanda Grade 7 S1 ICT Student Book, printed p. 3 |
 | Unit 1, Lesson 4 Artificial Intelligence (1): data — what data is, its types, and the difference between data and information | Kuwait Grade 4 Digital Explorer T2, printed p. 53 |
+| Ch.1 Data and information | Greece Grade 11 EPAL Basika Themata, printed p. 11 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait).**
+**Acceptance count: taught in 13 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece).**
 
 No book error touches this lesson's content.
 
@@ -70,4 +73,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Kuwait's own way (Grade 4 Digital Explorer Term 2, printed title — records name it 'Our Digital World'): the Digital World unit mixes identity (pride in Arabic language and identity online), cloud storage on the national platform (OneDrive inside Teams), and a three-lesson AI arc (data → training a machine → AI decisions) before the tool unit; PowerPoint is taught as a five-step 'Exciting Presentation' journey ending in presentations about Kuwait itself.
 
-Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2
+Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
+
+Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata

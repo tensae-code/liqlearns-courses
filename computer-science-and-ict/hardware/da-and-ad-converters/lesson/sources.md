@@ -1,18 +1,23 @@
 # Sources — DA and AD Converters
 
-countries: Montenegro
+countries: Montenegro, Greece
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
+
+**Book 2:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | DA converters — numbers into voltage | Montenegro, *Digitalna Elektronika*, Poglavlje VII §7.3–7.4, Digital-to-analogue and analogue-to-digital converters, printed p. 203 |
 | AD converters — voltage into numbers | Montenegro, *Digitalna Elektronika*, Poglavlje VII §7.3–7.4, Digital-to-analogue and analogue-to-digital converters, printed p. 203 |
+| Ch.12 Devices for processing and transmitting digital data: signal digitisation, D/A and A/D converters and their errors, the sound card and the modem (filed as NEW LESSON NEEDED — hardware/analogue-digital-converters-sound-card-and-modem; stocked in this lesson because this lesson teaches the analogue/digital converters — the DA converter walking numbers out into voltage and the AD converter walking analogue signals in — the converters Greece's chapter teaches, with the sound card and the modem as its own named devices that carry them) | Greece Grade 11 EPAL Basika Themata, printed p. 140 |
 
-**Acceptance count: taught in 1 country (Montenegro).**
+**Acceptance count: taught in 2 countries (Montenegro, Greece).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Hardware title (hardware/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
 Montenegro's own way: computing is reached from the electronics side — a computer-systems-and-networks technician first masters the binary logic a computer is built from, with a full laboratory practicum and circuit-simulation software (TINA, Circuit Wizard) alongside the theory. This lesson keeps that order: the theory is taught whole, and the hands-on work points the learner at building and simulating the same circuits the book's practicum builds on the bench.
 
-Searchable tags: da converter, dac, ad converter, adc, r-2r ladder, resolution, flash adc, comparators, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school
+Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
+
+Searchable tags: da converter, dac, ad converter, adc, r-2r ladder, resolution, flash adc, comparators, hardware, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, greece, grade 11 epal basika themata

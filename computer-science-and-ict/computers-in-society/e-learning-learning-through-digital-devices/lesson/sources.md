@@ -1,6 +1,6 @@
 # Sources — E-learning — learning through digital devices
 
-countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba
+countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,9 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba
 
 **Book 9:** *Informática, duodécimo grado* (student book, Spanish; title as printed: Informática, duodécimo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5096-1 (print) / 978-959-13-5110-4 (digital). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 10:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+**Book 11:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-learning and its components | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 15–16 (student placement item 12) |
@@ -32,8 +35,10 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba
 | Unidad 2.5 Utilización del software educativo (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 16 (teacher guide — evidence) |
 | Capítulo 1.3 Software educativo | Cuba, *Informática, Grade 7*, printed p. 46 |
 | Capítulo 2.1 Introducción a la teleformación | Cuba, *Informática, Grade 12*, printed p. 92 |
+| Unit 10 Education / e-learning / AI and education | Greece Grade 7 Pliroforiki A, printed p. 126 |
+| Ch.12 Learning on the internet / software platforms for online learning | Greece Grade 10 Efarmoges Pliroforikis, printed p. 103 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba).**
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. The e-learning figure in the student book is numbered 1.13, straight after Figure 1.10 — Figures 1.11 and 1.12 never appear; the lesson teaches the content, not the numbering.
 
@@ -47,4 +52,8 @@ Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietar
 
 Cuba's own way (Grade 12): The final pre-university year is networks in depth (types, topologies, protocols, Internet services, Web 2.0/Web 3.0 and social networks), then teleformación (distance learning) through the Moodle platform, and bibliographic managers for citations in scientific research — a university-preparation finish.
 
-Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou

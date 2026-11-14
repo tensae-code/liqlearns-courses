@@ -1,6 +1,6 @@
 # Sources — Word processing — writing on a computer
 
-countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda
+countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 
 **Book 20:** *ຄູ່ມືຄູ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 2 (Teacher's handbook, ICT, Secondary Year 2)* (teacher guide, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2012; ISBN: no ISBN printed. 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md. (teacher guide — evidence)
 
+**Book 21:** *Πληροφορική Α΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki A' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (July 2024, V2); ISBN 978-960-06-6485-0, book code 0-21-0225. 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Word processing — create, edit, format, save; images, tables, charts; advantages over pen and paper | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.35 |
@@ -53,6 +55,7 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 | Word processing: introduction, definition, role, starting | Rwanda Grade 7 S1 ICT Student Book, printed p. 102 |
 | Unit 5 guide: word processing basics I (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 64 (teacher guide — evidence) |
 | Activity 22: Application software — word-processing software (teacher guide — evidence) | Laos Grade 7 ICT teacher guide, printed p. 92 (teacher guide — evidence) |
+| Unit 7 Creating with the word processor / why a word processor is needed | Greece Grade 7 Pliroforiki A, printed p. 69 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -68,7 +71,7 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 | Глава V "Технология обработки документов", Урок 24 "Текстовые редакторы и текстовые процессоры" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 100 |
 | Урок 34 "Упражнения для повторения" (review exercises) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 135 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -99,4 +102,6 @@ Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student unit
 
 Laos's own way (Grade 7 ICT teacher guide): uniquely, this guide — not the student book — carries the real software syllabus: separate activities for DOS, Windows/Linux, Unix/Mac, translators, BASIC and C, Logo, Java, and one activity per application family — a teacher-only expanded software syllabus. (teacher guide — evidence)
 
-Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict teacher guide
+Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium informatics course is built around algorithms from the first page (a Python binary example in Unit 1), then hardware/software, the internet with a full copyright/Creative Commons/AI-copyright sequence, cybersecurity with cryptography, word processing, algorithmics, Scratch storytelling/chatbot projects, and a long society unit (robots, drones, autonomous cars, e-government, AI in education/medicine).
+
+Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou

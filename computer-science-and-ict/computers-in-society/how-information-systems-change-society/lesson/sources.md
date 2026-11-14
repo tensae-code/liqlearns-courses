@@ -1,6 +1,6 @@
 # Sources — How information systems change society — gains and problems
 
-countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos
+countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 
 **Book 23:** *ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 1 (Information and Communication Technology, Secondary Year 1)* (student book, Lao) — Laos, Ministry of Education, Research Institute of Educational Sciences (ສ.ວ.ສ); year 2010; ISBN: no ISBN printed. 102 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 24:** *Εφαρμογές Πληροφορικής Α΄ Γενικού Λυκείου (Efarmoges Pliroforikis A' Lykeiou, Applications of Informatics)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 imprint, V3; ISBN 978-960-06-4894-2, book code 0-22-0226. 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The good side first | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 5–6 (student placement item 7) |
@@ -74,8 +76,9 @@ countries: Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan,
 | Ch.6 ICT and society: internet in commerce, government, home service, mobile communication, information, health care, education (sector diagram) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 232 |
 | Importance of ICT / General use of ICT | Rwanda Grade 7 S1 ICT Student Book, printed p. 14 |
 | Ch.1 §4 The impact of ICT (on daily life, society and the economy) | Laos Grade 6 ICT student, printed p. 14 |
+| Ch.4 Social impacts of developments in informatics | Greece Grade 10 Efarmoges Pliroforikis, printed p. 38 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Bulgaria, Afghanistan, Yemen, Iraq, Uzbekistan, Fiji, Malaysia, Sri Lanka, Rwanda, Laos, Greece).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -118,4 +121,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Laos's own way (Grade 6 ICT student book): a theory-only foundation year — no hands-on computer practicals at all; ICT is introduced through Lao daily-life examples (TV remote, household appliances) and every chapter opens with objectives, guiding questions and a discussion activity (ກິດຈະກໍາ) before the exposition. The RIES ICT line runs ມ.1–ມ.7 (Grades 6–12).
 
-Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student
+Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio applications book in four thematic units — hardware/software and applications, programming environments and creating applications (life cycle, modern IDEs, mobile-app and 3D object-oriented programming), communication and the internet (HTML5/CSS, learning online), and collaboration and safety online (cloud applications, telework, social networks, privacy).
+
+Searchable tags: social issues, digital divide, social gains, unmanaged time, anonymity, Ethiopia Grade 12 IT, mozambique, bulgaria, afghanistan, yemen, grade 10, grade 11, iraq, grade 7, papua new guinea, grade 9, papua new guinea, grade 12, uzbekistan, grade 8, fiji, years 7-8, year 12, malaysia, grade 11 sk tingkatan 5, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, greece, grade 10 efarmoges pliroforikis lykeiou
