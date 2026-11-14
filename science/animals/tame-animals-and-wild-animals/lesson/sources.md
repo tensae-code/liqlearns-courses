@@ -1,6 +1,6 @@
 # Sources — Tame animals and wild animals
 
-countries: Ethiopia, Sweden, Ecuador, Afghanistan
+countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -73,3 +73,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 4 countries (Ethiopia, Sweden, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, animals tame-animals-and-wild-animals
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 3, student book):** *Sciences Naturelles — 3e année fondamentale, Manuel de l'élève* (SN 3AF) (student book) — Mauritania, Institut Pédagogique National (IPN), Ministry of Education and Reform of the Teaching System, 2025. Title as printed (Arabic): Natural Sciences, third year of primary education, pupil's book. In Arabic. PDF 50 pages, 7,442,496 bytes. Verdict: COMPLETE (lessons at printed pp. 7–47, contents at printed p. 49). Twin records: TSV blob record and books.json record grade-03/gov/mauritania/sn-3af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The dog as a domestic animal living with people (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 25 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, svt

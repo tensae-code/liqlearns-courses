@@ -1,6 +1,6 @@
 # Sources — Flowers — and how plants reproduce
 
-countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only)
+countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Mauritania
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -144,3 +144,19 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 5 countries (Guyana, India, Bulgaria, Armenia, Cambodia).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, plants flowers-and-how-plants-reproduce
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 3, student book):** *Sciences Naturelles — 3e année fondamentale, Manuel de l'élève* (SN 3AF) (student book) — Mauritania, Institut Pédagogique National (IPN), Ministry of Education and Reform of the Teaching System, 2025. Title as printed (Arabic): Natural Sciences, third year of primary education, pupil's book. In Arabic. PDF 50 pages, 7,442,496 bytes. Verdict: COMPLETE (lessons at printed pp. 7–47, contents at printed p. 49). Twin records: TSV blob record and books.json record grade-03/gov/mauritania/sn-3af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How plants multiply (Mauritania, Grade 3) — filed as NEW LESSON NEEDED — how-plants-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Mauritania, *SN 3AF*, printed p. 41 |
+
+**Acceptance count: taught in 6 countries (Guyana, India, Bulgaria, Armenia, Cambodia, Mauritania).**
+
+Placement choice, on the record: the placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in the provenance row.
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, svt

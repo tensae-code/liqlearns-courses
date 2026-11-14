@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -137,3 +137,17 @@ Searchable tags: sudan, sudan grade 8, our-environment/cycles-of-matter-carbon-n
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment cycles-of-matter-carbon-nitrogen-water
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 10, student book):** *Sciences Naturelles — 4ème AS, Manuel de l'élève* (SN 4AS) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences Naturelles, 4ème AS. In French. PDF 130 pages, 14,886,038 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 9–126, bibliography pp. 127–128). Twin records: TSV blob record and books.json record grade-10/gov/mauritania/sn-4as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The cycles of matter (Mauritania, Grade 10) | Mauritania, *SN 4AS*, printed p. 116 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 4as, svt

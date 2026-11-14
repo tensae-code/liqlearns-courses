@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -258,3 +258,17 @@ Searchable tags: sudan, sudan grade 5, soil-and-water/water-why-every-living-thi
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, soil-and-water water-why-every-living-thing-needs-it
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 3, student book):** *Sciences Naturelles — 3e année fondamentale, Manuel de l'élève* (SN 3AF) (student book) — Mauritania, Institut Pédagogique National (IPN), Ministry of Education and Reform of the Teaching System, 2025. Title as printed (Arabic): Natural Sciences, third year of primary education, pupil's book. In Arabic. PDF 50 pages, 7,442,496 bytes. Verdict: COMPLETE (lessons at printed pp. 7–47, contents at printed p. 49). Twin records: TSV blob record and books.json record grade-03/gov/mauritania/sn-3af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water in nature and why living things need it (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 45 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, svt

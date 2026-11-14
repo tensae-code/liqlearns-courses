@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -189,3 +189,21 @@ Searchable tags: sudan, sudan grade 3, grade 4, animals/what-animals-need-and-an
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, animals what-animals-need-and-animals-at-work
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 3, student book):** *Sciences Naturelles — 3e année fondamentale, Manuel de l'élève* (SN 3AF) (student book) — Mauritania, Institut Pédagogique National (IPN), Ministry of Education and Reform of the Teaching System, 2025. Title as printed (Arabic): Natural Sciences, third year of primary education, pupil's book. In Arabic. PDF 50 pages, 7,442,496 bytes. Verdict: COMPLETE (lessons at printed pp. 7–47, contents at printed p. 49). Twin records: TSV blob record and books.json record grade-03/gov/mauritania/sn-3af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 4, student book):** *Sciences Naturelles — 4e année fondamentale, Manuel de l'élève* (SN 4AF) (student book) — Mauritania, Institut Pédagogique National (IPN), 2025. Title as printed (Arabic): Natural Sciences, fourth year of primary education, pupil's book. In Arabic. PDF 76 pages, 23,089,062 bytes. Verdict: COMPLETE (lessons at printed pp. 7–74, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/mauritania/sn-4af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What the cow and the camel give people (milk, meat, transport, wool) (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 31 |
+| What the goat and the hen give people (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 33 |
+| Feeding in animals: what different animals eat (Mauritania, Grade 4) | Mauritania, *SN 4AF*, printed p. 29 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, sn 4af, svt

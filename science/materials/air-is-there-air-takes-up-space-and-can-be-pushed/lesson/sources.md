@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -168,3 +168,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 6 countries (India, Uganda, Bulgaria, Moldova, Cuba, Sudan).**
 Searchable tags: sudan, sudan grade 4, materials/air-is-there-air-takes-up-space-and-can-be-pushed
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 3, student book):** *Sciences Naturelles — 3e année fondamentale, Manuel de l'élève* (SN 3AF) (student book) — Mauritania, Institut Pédagogique National (IPN), Ministry of Education and Reform of the Teaching System, 2025. Title as printed (Arabic): Natural Sciences, third year of primary education, pupil's book. In Arabic. PDF 50 pages, 7,442,496 bytes. Verdict: COMPLETE (lessons at printed pp. 7–47, contents at printed p. 49). Twin records: TSV blob record and books.json record grade-03/gov/mauritania/sn-3af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Showing that air is present everywhere (tyre-inflation investigation) (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 47 |
+| Air, in the environment field (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 61 |
+
+**Acceptance count: taught in 7 countries (India, Uganda, Bulgaria, Moldova, Cuba, Sudan, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, sn 5af, svt

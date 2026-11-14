@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -193,3 +193,18 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body the-brain
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The central nervous system (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 55 |
+| The peripheral nervous system (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 57 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Afghanistan, Cabo Verde, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, svt

@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -140,3 +140,17 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 
 **Acceptance count: taught in 7 countries (Ethiopia, Cook Islands, India, Cambodia, Ecuador, Afghanistan, Sudan).**
 Searchable tags: sudan, sudan grade 12, keeping-healthy/food-what-food-is
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 4, student book):** *Sciences Naturelles — 4e année fondamentale, Manuel de l'élève* (SN 4AF) (student book) — Mauritania, Institut Pédagogique National (IPN), 2025. Title as printed (Arabic): Natural Sciences, fourth year of primary education, pupil's book. In Arabic. PDF 76 pages, 23,089,062 bytes. Verdict: COMPLETE (lessons at printed pp. 7–74, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/mauritania/sn-4af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nutrition: what food is and why the body needs it (Mauritania, Grade 4) | Mauritania, *SN 4AF*, printed p. 7 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cook Islands, India, Cambodia, Ecuador, Afghanistan, Sudan, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt

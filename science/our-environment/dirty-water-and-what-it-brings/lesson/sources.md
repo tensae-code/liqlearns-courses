@@ -1,6 +1,6 @@
 # Sources — Dirty water and what it brings
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -148,3 +148,21 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment dirty-water-and-what-it-brings
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 4, student book):** *Sciences Naturelles — 4e année fondamentale, Manuel de l'élève* (SN 4AF) (student book) — Mauritania, Institut Pédagogique National (IPN), 2025. Title as printed (Arabic): Natural Sciences, fourth year of primary education, pupil's book. In Arabic. PDF 76 pages, 23,089,062 bytes. Verdict: COMPLETE (lessons at printed pp. 7–74, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/mauritania/sn-4af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 6, student book):** *Sciences Naturelles — 6e année fondamentale, Manuel de l'élève* (SN 6AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: primary-education inspectors). Title as printed (Arabic): Natural Sciences book, sixth year of primary education. PDF 88 pages, 5,751,680 bytes. Verdict: COMPLETE (three units — health and nutrition, environment, experimentation — closing with review exercises at printed pp. 85–88; the experimentation unit was verified visually page by page because this book's text layer is scrambled). Record: books.json record grade-06/gov/mauritania/sn-6af-m.pdf and its TSV twin are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water pollution and what it causes (Mauritania, Grade 4) | Mauritania, *SN 4AF*, printed p. 52 |
+| Malaria, spread where dirty water and mosquitoes meet (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 19–22 |
+| Bilharzia, the water parasite disease (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 23–24 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Cuba, Cambodia, Afghanistan, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, sn 6af, svt

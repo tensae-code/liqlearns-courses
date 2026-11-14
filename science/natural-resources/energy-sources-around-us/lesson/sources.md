@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -149,3 +149,20 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, natural-resources energy-sources-around-us
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, série D, Manuel de l'élève* (SN 5AS-D) (student book) — Mauritania, Institut Pédagogique National (IPN), 2026 collection. Title as printed: Sciences Naturelles, 5ème AS, série D. In French. PDF 152 pages, 11,406,110 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 12–151). Twin records: TSV blob record (404, doubled path), TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-d.pdf are the same book; the release copy was read; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Charcoal: made by burning wood away from air in special ovens, used for heating and cooking (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 95 |
+| Oil and gas in Mauritania (Mauritania, Grade 11) | Mauritania, *SN 5AS-D*, printed p. 137 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa, Ecuador, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, sn 5as-d, svt

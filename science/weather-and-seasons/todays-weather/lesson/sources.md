@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -240,3 +240,20 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 13 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, todays-weather
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 6, student book):** *Sciences Naturelles — 6e année fondamentale, Manuel de l'élève* (SN 6AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: primary-education inspectors). Title as printed (Arabic): Natural Sciences book, sixth year of primary education. PDF 88 pages, 5,751,680 bytes. Verdict: COMPLETE (three units — health and nutrition, environment, experimentation — closing with review exercises at printed pp. 85–88; the experimentation unit was verified visually page by page because this book's text layer is scrambled). Record: books.json record grade-06/gov/mauritania/sn-6af-m.pdf and its TSV twin are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The wind (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 87 |
+| The winds, including the seasonal winds (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 65–66 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, sn 6af, svt

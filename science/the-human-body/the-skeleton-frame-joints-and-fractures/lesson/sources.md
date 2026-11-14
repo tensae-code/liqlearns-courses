@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan
+countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -248,3 +248,23 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 14 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan).**
 Searchable tags: sudan, sudan grade 4, the-human-body/the-skeleton-frame-joints-and-fractures
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 5, teacher guide):** *Sciences Naturelles — 5e année fondamentale, Guide de l'enseignant* (SN 5AF Guide) (teacher guide) — Mauritania, Institut Pédagogique National (IPN). Title as printed (Arabic): Natural Sciences, teacher's guide, fifth year of primary education. PDF 114 pages, 5,287,921 bytes. Verdict: COMPLETE (theoretical part plus a lesson-by-lesson guide mirroring the pupil's book, with answers to every pupil question and application). Twin records: TSV release record (mid-size-books-5) and books.json record grade-05/gov/mauritania/guide-sc-5af.pdf are the same book; cited once here. All placements from this guide are guide evidence for the Grade 5 pupil's book — cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The skeleton as the body's frame (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 13 |
+| The long bone and what it is made of (calcium on a protein frame) (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 15 |
+| Fractures: what a break is and its causes (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 17 |
+| The joints where bones meet (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 25 |
+| Worked answers on skeleton, long bone and fractures (guide evidence) (Mauritania, Grade 5) | Mauritania, *SN 5AF Guide*, health-and-nutrition section |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, sn 5af guide, svt

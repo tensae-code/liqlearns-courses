@@ -1,6 +1,6 @@
 # Sources — Cells — shape, size and function
 
-countries: Ethiopia, India, Ecuador
+countries: Ethiopia, India, Ecuador, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -45,3 +45,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 3 countries (Ethiopia, India, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, cell-shape-size-and-function
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 7, student book):** *Sciences de la Vie et de la Terre — 1ère AS, Manuel de l'élève* (SVT 1AS) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: ministry inspectors and teachers). Title as printed: Manuel de la 1ère AS, SVT. In French. PDF 136 pages, 8,479,194 bytes. Verdict: COMPLETE (Units I–VI, printed pp. 9–128, bibliography p. 129). Twin records: TSV blob record and books.json record grade-07/gov/mauritania/sn-1as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The notion of the cell, first pass (Mauritania, Grade 7) | Mauritania, *SVT 1AS*, printed p. 13 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, India, Ecuador, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, svt, svt 1as

@@ -1,6 +1,6 @@
 # Sources — Plate tectonics
 
-countries: Mexico, Australia, Italy, Cambodia, Ecuador
+countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -59,3 +59,24 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 5 countries (Mexico, Australia, Italy, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, plate-tectonics
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, série D, Manuel de l'élève* (SN 5AS-D) (student book) — Mauritania, Institut Pédagogique National (IPN), 2026 collection. Title as printed: Sciences Naturelles, 5ème AS, série D. In French. PDF 152 pages, 11,406,110 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 12–151). Twin records: TSV blob record (404, doubled path), TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-d.pdf are the same book; the release copy was read; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 12, student book):** *Sciences Naturelles — 6ème AS, Manuel de l'élève* (SN 6AS-M) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences Naturelles, 6ème AS. In French. PDF 153 pages, 9,617,433 bytes (content ends at printed p. 141; PDF pages 142–153 are blank watermark pages). Verdict: COMPLETE (Units I–III, printed pp. 7–141 including the lexicon). Twin records: TSV release record (mid-size-books-2) and books.json record grade-12/gov/mauritania/sn-6as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lithospheric (tectonic) plates (Mauritania, Grade 11) — filed as NEW LESSON NEEDED — plate-tectonics-how-the-plates-move; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Mauritania, *SN 5AS-D*, printed p. 97 |
+| Plate tectonics: the lithospheric plates and their movements (Mauritania, Grade 12) — filed as NEW LESSON NEEDED — plate-tectonics-how-the-plates-move; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Mauritania, *SN 6AS-M*, printed p. 96 |
+| Divergence movements and the ocean floor spreading from the ridges (Mauritania, Grade 12) — filed as NEW LESSON NEEDED — plate-tectonics-how-the-plates-move; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Mauritania, *SN 6AS-M*, printed p. 100 |
+| Convergence: subduction and obduction (Mauritania, Grade 12) — filed as NEW LESSON NEEDED — plate-tectonics-how-the-plates-move; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Mauritania, *SN 6AS-M*, printed p. 101 |
+
+**Acceptance count: taught in 6 countries (Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania).**
+
+Placement choice, on the record: the placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in the provenance row.
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, sn 6as-m, svt

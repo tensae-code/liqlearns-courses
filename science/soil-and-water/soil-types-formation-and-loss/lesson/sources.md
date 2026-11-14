@@ -1,6 +1,6 @@
 # Sources — Soil — types, formation and loss
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan
+countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -55,3 +55,17 @@ Searchable tags: egypt, soil-and-water soil-types-formation-and-loss
 
 **Acceptance count: taught in 3 countries (Ethiopia, Egypt, Sudan).**
 Searchable tags: sudan, sudan grade 9, soil-and-water/soil-types-formation-and-loss
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 6, student book):** *Sciences Naturelles — 6e année fondamentale, Manuel de l'élève* (SN 6AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: primary-education inspectors). Title as printed (Arabic): Natural Sciences book, sixth year of primary education. PDF 88 pages, 5,751,680 bytes. Verdict: COMPLETE (three units — health and nutrition, environment, experimentation — closing with review exercises at printed pp. 85–88; the experimentation unit was verified visually page by page because this book's text layer is scrambled). Record: books.json record grade-06/gov/mauritania/sn-6af-m.pdf and its TSV twin are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Erosion: wind and water wearing the soil away (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 67–70 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Sudan, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 6af, svt

@@ -1,6 +1,6 @@
 # Sources — Immunisation and immunity
 
-countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia
+countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cambodia, Mauritania
 
 **Book 1:** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
 
@@ -65,3 +65,19 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, immunisation and immunity
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 6, student book):** *Sciences Naturelles — 6e année fondamentale, Manuel de l'élève* (SN 6AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: primary-education inspectors). Title as printed (Arabic): Natural Sciences book, sixth year of primary education. PDF 88 pages, 5,751,680 bytes. Verdict: COMPLETE (three units — health and nutrition, environment, experimentation — closing with review exercises at printed pp. 85–88; the experimentation unit was verified visually page by page because this book's text layer is scrambled). Record: books.json record grade-06/gov/mauritania/sn-6af-m.pdf and its TSV twin are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vaccination of children and cleaning and sterilising wounds (Mauritania, Grade 6) — filed as NEW LESSON NEEDED — vaccination-how-it-protects; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Mauritania, *SN 6AF*, printed pp. 52–54 |
+
+**Acceptance count: taught in 4 countries (Uganda, Bulgaria, Cambodia, Mauritania).**
+
+Placement choice, on the record: the placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in the provenance row.
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 6af, svt

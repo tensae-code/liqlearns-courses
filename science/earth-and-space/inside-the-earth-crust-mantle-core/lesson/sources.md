@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -155,3 +155,20 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 12 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space inside-the-earth-crust-mantle-core
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, série D, Manuel de l'élève* (SN 5AS-D) (student book) — Mauritania, Institut Pédagogique National (IPN), 2026 collection. Title as printed: Sciences Naturelles, 5ème AS, série D. In French. PDF 152 pages, 11,406,110 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 12–151). Twin records: TSV blob record (404, doubled path), TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-d.pdf are the same book; the release copy was read; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, Manuel de l'élève* (SN 5AS-M) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences Naturelles, 5ème AS. In French. PDF 96 pages, 9,548,654 bytes. Verdict: COMPLETE (Units I–III). Twin records: TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The structure of the terrestrial globe (Mauritania, Grade 11) | Mauritania, *SN 5AS-D*, printed p. 114 |
+| Structure of the terrestrial globe (Mauritania, Grade 11) | Mauritania, *SN 5AS-M*, Unit III |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, sn 5as-m, svt

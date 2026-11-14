@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -360,3 +360,26 @@ Searchable tags: sudan, sudan grade 6, grade 7, our-environment/food-chains-food
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment food-chains-food-webs-and-energy-pyramids
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 5, teacher guide):** *Sciences Naturelles — 5e année fondamentale, Guide de l'enseignant* (SN 5AF Guide) (teacher guide) — Mauritania, Institut Pédagogique National (IPN). Title as printed (Arabic): Natural Sciences, teacher's guide, fifth year of primary education. PDF 114 pages, 5,287,921 bytes. Verdict: COMPLETE (theoretical part plus a lesson-by-lesson guide mirroring the pupil's book, with answers to every pupil question and application). Twin records: TSV release record (mid-size-books-5) and books.json record grade-05/gov/mauritania/guide-sc-5af.pdf are the same book; cited once here. All placements from this guide are guide evidence for the Grade 5 pupil's book — cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 8, student book):** *Sciences de la Vie et de la Terre — 2ème AS, Manuel de l'élève* (SVT 2AS) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences de la Vie et de la Terre, 2ème AS. In French. PDF 165 pages, 7,860,644 bytes. Verdict: COMPLETE (Units I–VI, printed pp. 9–158, bibliography p. 159). Twin records: TSV blob record and books.json record grade-08/gov/mauritania/sn-2as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 10, student book):** *Sciences Naturelles — 4ème AS, Manuel de l'élève* (SN 4AS) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences Naturelles, 4ème AS. In French. PDF 130 pages, 14,886,038 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 9–126, bibliography pp. 127–128). Twin records: TSV blob record and books.json record grade-10/gov/mauritania/sn-4as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The food chain (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 79 |
+| Worked answers on the food chain (guide evidence) (Mauritania, Grade 5) | Mauritania, *SN 5AF Guide*, environment section |
+| Food chains and trophic networks (Mauritania, Grade 8) | Mauritania, *SVT 2AS*, printed pp. 122–128 (Unit V) |
+| Food chains, in the ecology chapter (Mauritania, Grade 10) | Mauritania, *SN 4AS*, printed p. 111 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab), Cuba, Samoa, Egypt, Cambodia, Ecuador, Cabo Verde, Sudan, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 4as, sn 5af, sn 5af guide, svt, svt 2as

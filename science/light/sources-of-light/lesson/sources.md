@@ -182,3 +182,17 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 14 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Guyana, United States, Pakistan (Punjab), Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, light sources-of-light
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 6, student book):** *Sciences Naturelles — 6e année fondamentale, Manuel de l'élève* (SN 6AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: primary-education inspectors). Title as printed (Arabic): Natural Sciences book, sixth year of primary education. PDF 88 pages, 5,751,680 bytes. Verdict: COMPLETE (three units — health and nutrition, environment, experimentation — closing with review exercises at printed pp. 85–88; the experimentation unit was verified visually page by page because this book's text layer is scrambled). Record: books.json record grade-06/gov/mauritania/sn-6af-m.pdf and its TSV twin are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The lamp: a glass bulb with a filament and gas inside, two terminals; lamps light homes and cars (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 80–81 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Guyana, United States, Pakistan (Punjab), Afghanistan, Cabo Verde).** Mauritania was already counted in this lesson from its Physics-wave student books; these Sciences Naturelles / SVT placements add Mauritania's natural-science books to the same country, counted once.
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 6af, svt

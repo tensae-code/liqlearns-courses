@@ -1,6 +1,6 @@
 # Sources — Food — a balanced diet
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -221,3 +221,37 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, keeping-healthy food-a-balanced-diet
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 3, student book):** *Sciences Naturelles — 3e année fondamentale, Manuel de l'élève* (SN 3AF) (student book) — Mauritania, Institut Pédagogique National (IPN), Ministry of Education and Reform of the Teaching System, 2025. Title as printed (Arabic): Natural Sciences, third year of primary education, pupil's book. In Arabic. PDF 50 pages, 7,442,496 bytes. Verdict: COMPLETE (lessons at printed pp. 7–47, contents at printed p. 49). Twin records: TSV blob record and books.json record grade-03/gov/mauritania/sn-3af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 4, student book):** *Sciences Naturelles — 4e année fondamentale, Manuel de l'élève* (SN 4AF) (student book) — Mauritania, Institut Pédagogique National (IPN), 2025. Title as printed (Arabic): Natural Sciences, fourth year of primary education, pupil's book. In Arabic. PDF 76 pages, 23,089,062 bytes. Verdict: COMPLETE (lessons at printed pp. 7–74, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/mauritania/sn-4af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 6, student book):** *Sciences Naturelles — 6e année fondamentale, Manuel de l'élève* (SN 6AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: primary-education inspectors). Title as printed (Arabic): Natural Sciences book, sixth year of primary education. PDF 88 pages, 5,751,680 bytes. Verdict: COMPLETE (three units — health and nutrition, environment, experimentation — closing with review exercises at printed pp. 85–88; the experimentation unit was verified visually page by page because this book's text layer is scrambled). Record: books.json record grade-06/gov/mauritania/sn-6af-m.pdf and its TSV twin are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, série D, Manuel de l'élève* (SN 5AS-D) (student book) — Mauritania, Institut Pédagogique National (IPN), 2026 collection. Title as printed: Sciences Naturelles, 5ème AS, série D. In French. PDF 152 pages, 11,406,110 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 12–151). Twin records: TSV blob record (404, doubled path), TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-d.pdf are the same book; the release copy was read; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, lettres modernes, Manuel de l'élève* (SN 5AS-LM) (student book) — Mauritania, Institut Pédagogique National (IPN), 2026. Title as printed: Sciences Naturelles, 5ème LM. In French. PDF 59 pages, 2,934,787 bytes. Verdict: COMPLETE (Units I–II, the whole lettres-modernes programme). Record: books.json record grade-11/gov/mauritania/sn-5as-lm.pdf; no TSV twin. This book carries the same two units as the other Grade 11 streams in shorter form for the modern-letters stream. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, lettres originales, Manuel de l'élève* (SN 5AS-LO) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed (Arabic): Natural Sciences, fifth year, original-letters stream. In Arabic, with French scientific terms alongside. PDF 114 pages, 9,321,627 bytes. Verdict: COMPLETE (the book opens with the stream's official programme — objectives and chapter contents — then Chapter 1, cellular exchanges, and Chapter 2, alimentation and digestion). Twin records: TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-lo.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 11, student book):** *Sciences Naturelles — 5ème AS, Manuel de l'élève* (SN 5AS-M) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences Naturelles, 5ème AS. In French. PDF 96 pages, 9,548,654 bytes. Verdict: COMPLETE (Units I–III). Twin records: TSV release record (mid-size-books-2) and books.json record grade-11/gov/mauritania/sn-5as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The day's meals and what a healthy daily pattern looks like (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 15 |
+| Healthy eating habits (Mauritania, Grade 3) | Mauritania, *SN 3AF*, printed p. 16 |
+| Good nutrition (Mauritania, Grade 4) | Mauritania, *SN 4AF*, printed p. 15 |
+| The balanced diet and the day's food rations (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 30–36 |
+| Feeding that fits the age: natural (breast) feeding and feeding the child at each stage (Mauritania, Grade 6) | Mauritania, *SN 6AF*, printed pp. 36–40 |
+| Types of foods and balanced feeding, with the food ration (Mauritania, Grade 11) | Mauritania, *SN 5AS-D*, printed pp. 34–40 |
+| Balanced feeding, basal metabolism and the food ration (Mauritania, Grade 11) | Mauritania, *SN 5AS-LM*, Unit II |
+| Sound, balanced nutrition and counting a food ration; diseases tied to lack of food (programme objectives, then Chapter 2) (Mauritania, Grade 11) | Mauritania, *SN 5AS-LO*, printed p. 7 |
+| Balanced feeding: basal metabolism, the food ration and what changes it (Mauritania, Grade 11) | Mauritania, *SN 5AS-M*, Unit II |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Ecuador, Afghanistan, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, sn 4af, sn 5as-d, sn 5as-lm, sn 5as-lo, sn 5as-m, sn 6af, svt

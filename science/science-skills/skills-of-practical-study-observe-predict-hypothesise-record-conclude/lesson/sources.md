@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -297,3 +297,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, teacher guide):** *Sciences Naturelles — 5e année fondamentale, Guide de l'enseignant* (SN 5AF Guide) (teacher guide) — Mauritania, Institut Pédagogique National (IPN). Title as printed (Arabic): Natural Sciences, teacher's guide, fifth year of primary education. PDF 114 pages, 5,287,921 bytes. Verdict: COMPLETE (theoretical part plus a lesson-by-lesson guide mirroring the pupil's book, with answers to every pupil question and application). Twin records: TSV release record (mid-size-books-5) and books.json record grade-05/gov/mauritania/guide-sc-5af.pdf are the same book; cited once here. All placements from this guide are guide evidence for the Grade 5 pupil's book — cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 7, teacher guide):** *Sciences de la Vie et de la Terre — 1ère AS, Guide de l'enseignant* (SVT 1AS Guide) (teacher guide) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Guide de l'enseignant, Sciences Naturelles, 1ère AS. In French. PDF 110 pages, 2,908,438 bytes (matches the books.json size_bytes exactly; read from the on-disk staging copy). Verdict: COMPLETE (programme presentation, lesson canvas, unit-by-unit guidance and corrected exercises for the pupil's book, SVT 1AS above). Record: books.json record grade-07/gov/mauritania/guide-sc-1as.pdf, on_disk=true; no TSV twin. All placements from this guide are guide evidence — cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The guide's stated lesson method: observe-and-discover, discuss-and-analyse, conclude, apply (guide evidence) (Mauritania, Grade 5) | Mauritania, *SN 5AF Guide*, printed p. 6 |
+| The guide's lesson-preparation canvas and pedagogical methods for SVT lessons (guide evidence) (Mauritania, Grade 7) | Mauritania, *SVT 1AS Guide*, printed pp. 15, 86–88 |
+
+**Acceptance count unchanged: taught in 14 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa, Venezuela).** Mauritania is named as teacher-guide evidence only (Sciences Naturelles / SVT teacher guides), not added to this count.
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5af guide, svt, svt 1as guide

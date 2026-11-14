@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Ecuador, Cabo Verde, Venezuela, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -166,3 +166,27 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, animals classification-sorting-the-living-world
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 5, student book):** *Sciences Naturelles — 5e année fondamentale, Manuel de l'élève* (SN 5AF) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: IPN inspectors). Written in Arabic under the 2022 orientation law. Title as printed (Arabic): Natural Sciences, fifth year of primary education, pupil's book. PDF 92 pages, 7,553,297 bytes. Verdict: COMPLETE (three fields — health and nutrition, environment, experimentation — lessons at printed pp. 11–95; the last lesson, charcoal, closes on the final PDF page). Twin records: TSV blob record and books.json record grade-05/gov/mauritania/sn-5af-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 5, teacher guide):** *Sciences Naturelles — 5e année fondamentale, Guide de l'enseignant* (SN 5AF Guide) (teacher guide) — Mauritania, Institut Pédagogique National (IPN). Title as printed (Arabic): Natural Sciences, teacher's guide, fifth year of primary education. PDF 114 pages, 5,287,921 bytes. Verdict: COMPLETE (theoretical part plus a lesson-by-lesson guide mirroring the pupil's book, with answers to every pupil question and application). Twin records: TSV release record (mid-size-books-5) and books.json record grade-05/gov/mauritania/guide-sc-5af.pdf are the same book; cited once here. All placements from this guide are guide evidence for the Grade 5 pupil's book — cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 7, student book):** *Sciences de la Vie et de la Terre — 1ère AS, Manuel de l'élève* (SVT 1AS) (student book) — Mauritania, Institut Pédagogique National (IPN) (authors: ministry inspectors and teachers). Title as printed: Manuel de la 1ère AS, SVT. In French. PDF 136 pages, 8,479,194 bytes. Verdict: COMPLETE (Units I–VI, printed pp. 9–128, bibliography p. 129). Twin records: TSV blob record and books.json record grade-07/gov/mauritania/sn-1as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+**Book (Mauritania — Grade 7, teacher guide):** *Sciences de la Vie et de la Terre — 1ère AS, Guide de l'enseignant* (SVT 1AS Guide) (teacher guide) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Guide de l'enseignant, Sciences Naturelles, 1ère AS. In French. PDF 110 pages, 2,908,438 bytes (matches the books.json size_bytes exactly; read from the on-disk staging copy). Verdict: COMPLETE (programme presentation, lesson canvas, unit-by-unit guidance and corrected exercises for the pupil's book, SVT 1AS above). Record: books.json record grade-07/gov/mauritania/guide-sc-1as.pdf, on_disk=true; no TSV twin. All placements from this guide are guide evidence — cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living beings compared: plants against animals (Mauritania, Grade 5) | Mauritania, *SN 5AF*, printed p. 65 |
+| Worked answers comparing plants and animals and sorting carnivores, herbivores, birds, mammals and insects (guide evidence) (Mauritania, Grade 5) | Mauritania, *SN 5AF Guide*, environment section |
+| Telling an animal from a plant (Mauritania, Grade 7) | Mauritania, *SVT 1AS*, printed p. 13 |
+| The notion of scientific classification (Mauritania, Grade 7) | Mauritania, *SVT 1AS*, printed p. 15 |
+| Corrected classification exercises, Unit I (guide evidence) (Mauritania, Grade 7) | Mauritania, *SVT 1AS Guide*, printed pp. 23–24 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Suriname, Uganda, Moldova, Pakistan (Punjab), Samoa, Ecuador, Cabo Verde, Venezuela, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, sn 5af guide, svt, svt 1as, svt 1as guide

@@ -1,6 +1,6 @@
 # Sources — The microscope — parts and what each does
 
-countries: Ethiopia, Samoa, Seychelles, Cabo Verde
+countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -56,3 +56,18 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 3 countries (Ethiopia, Samoa, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body parts-of-the-compound-microscope
+
+## Mauritania growth (2026-11-14, General Science expansion)
+
+**Book (Mauritania — Grade 10, student book):** *Sciences Naturelles — 4ème AS, Manuel de l'élève* (SN 4AS) (student book) — Mauritania, Institut Pédagogique National (IPN). Title as printed: Sciences Naturelles, 4ème AS. In French. PDF 130 pages, 14,886,038 bytes. Verdict: COMPLETE (Chapters I–V, printed pp. 9–126, bibliography pp. 127–128). Twin records: TSV blob record and books.json record grade-10/gov/mauritania/sn-4as-m.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mauritania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The cell seen with the light microscope: structures it shows (Mauritania, Grade 10) | Mauritania, *SN 4AS*, printed p. 11 |
+| The cell seen with the electron microscope: finer structures (Mauritania, Grade 10) | Mauritania, *SN 4AS*, printed p. 17 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Cabo Verde, Mauritania).**
+
+Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: ipn, mauritania, sciences naturelles, sn 4as, svt
