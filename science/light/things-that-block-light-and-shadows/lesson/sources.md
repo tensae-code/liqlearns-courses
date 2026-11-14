@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab)
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -163,3 +163,17 @@ Searchable tags: gabon, super efficace, gabon grade 3, things that block light a
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, things-that-block-light-and-shadows
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| light blockage: shadow and penumbra characteristics by distance/angle of the light source (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed pp. 109–111 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 13 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab), Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, things-that-block-light-and-shadows

@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -97,3 +97,23 @@ The Cambodia guide-evidence rows above add provenance from the same country, cou
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books and its Kindergarten core book / Student-Centred Science Teaching manuals teach this thing in the chapters, lessons and activities named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, food what food is
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 1):** Title as printed: "Descubrimiento y Comprensión del Medio Natural — Educación General Básica, Preparatoria, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-05-7 PDF pages: 50 (matches books.json record, 23,220,728 bytes, on_disk copy read at phase3-staging) Verdict: COMPLETE Short name below: EC G1 Medio Natural Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| foods most eaten in the locality and how they help (asked of teachers, doctors, family) (Ecuador, Grade 1) | Ecuador, *EC G1 Medio Natural*, printed p. 22 |
+
+**Book (Ecuador — Grade 8):** Title as printed: "Ciencias Naturales — Texto del estudiante, 8 EGB" (PDF metadata "CIENCIASNATURALES8EGBPORT"); Presidente Lenín Moreno Garcés era edition; the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (Proyecto Licitación Ministerio) PDF pages: 242 (77,229,598 bytes on the completed download — exactly the books.json size_bytes; an earlier download attempt of the same release asset arrived short at 76,771,392 bytes and was discarded. TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (6 units + evaluations + bibliography + reading annex) Short name below: EC G8 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: pure Biology chapter (Unit 2, reproduction) and pure Physics/Chemistry material in Unit 5 (movement/force; chemistry and matter) are recorded as chapter lines per the wave scope rule. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. Scope note, as filed: this book's pure Biology unit/section and pure Physics/Chemistry material in Unit 5 are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the function of nutrition in living things; digestion transforms food (Ecuador, Grade 8) | Ecuador, *EC G8 Ciencias Naturales*, printed pp. 90–91 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cook Islands, India, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, food-what-food-is

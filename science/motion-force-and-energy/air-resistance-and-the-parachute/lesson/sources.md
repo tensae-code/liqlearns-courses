@@ -1,6 +1,6 @@
 # Sources — Air resistance and the parachute
 
-countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles
+countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles, Ecuador
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -46,3 +46,17 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| building a parachute and playing with gravity (Reto) (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed p. 72 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 3 countries (Vietnam, Armenia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, air-resistance-and-the-parachute

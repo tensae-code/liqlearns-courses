@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -121,3 +121,17 @@ Searchable tags: samoa, samoa mesc, earth and space solar eclipses lunar eclipse
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, solar eclipses lunar eclipses and tides
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Moon's influence on Earth phenomena (tides at the beach) (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed p. 105 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 8 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, solar-eclipses-lunar-eclipses-and-tides

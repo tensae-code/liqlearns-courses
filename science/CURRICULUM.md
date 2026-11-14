@@ -652,6 +652,7 @@ solar-system comparison lessons.
 35. **Making food and drink with micro-organisms — fermentation** (`animals/making-food-and-drink-with-micro-organisms-fermentation`) — yoghurt making in full: lactic-acid bacteria turn lactose into lactic acid; heating, pasteurising, homogenising, inoculating with the starter, incubating at about 43°C, coagulation — and yeast in beer making (with the Vailima factory visit) and bread making (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 69–73)
 
 36. **How animals reproduce** (`animals/how-animals-reproduce`) — reproduction: new animals of the parents' kind — many animals lay eggs and the young hatch, while mammals are born live — taught straight after the reproduction of plants (Cambodia, Grade 5 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, Ch. 1, Lesson 3, printed p. 22; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+37. **Evolution — evidence and fossils** (`animals/evolution-evidence-and-fossils`) — biological evolution: species change over time, known from evolutionary evidence, with fossils as a window on the past, and genetic variability tested by the experiment with beans (Ecuador, Grade 9 — *EC G9 Ciencias Naturales*, printed pp. 41–46; built for the Ecuador placements, expansion-science-2026-11-13/ecuador-placements.md)
 
 ## Unit 10 — Natural Resources
 
@@ -744,6 +745,8 @@ solar-system comparison lessons.
 65. **How people change the environment** (`our-environment/how-people-change-the-environment`) — human actions and their effect on the environment — the general lesson that opens its chapter, before environmental pollution in detail (Cambodia, Grade 9 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៩ (Science, Grade 9)*, Biology Ch. 5, Lesson 1, printed p. 244; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 
 66. **Exploring our local environment** (`our-environment/exploring-our-local-environment`) — studying a puddle habitat (temperature over forty minutes, surface area by chicken-wire grid) and the full habitat investigation: describe, measure, name three plants and two animals, draw a food chain (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Environment*, Unit 13, Topic 2 + Project 1, printed pp. 5, 13; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+67. **Natural disaster prevention and preparedness** (`our-environment/natural-disaster-prevention-and-preparedness`) — the volcanic eruption process in detail, the prevention measures to take before eruptions and natural disasters, and an album of Ecuador's volcanoes (Ecuador, Grade 5 — *EC G5 Ciencias Naturales*, printed pp. 116–121; built for the Ecuador placements, expansion-science-2026-11-13/ecuador-placements.md)
+68. **Ecuador's natural regions and their life** (`our-environment/ecuador-natural-regions-and-their-life`) — Ecuador's natural regions located, with the flora and fauna most representative of each region (Ecuador, Grade 5 — *EC G5 Ciencias Naturales*, printed p. 112; built for the Ecuador placements, expansion-science-2026-11-13/ecuador-placements.md)
 
 ## Unit 12 — Family, School and Community
 

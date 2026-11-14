@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -269,3 +269,17 @@ Searchable tags: samoa, samoa mesc, keeping healthy what disease is and how it s
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, what disease is and how it spreads
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 9):** Title as printed: "Ciencias Naturales 9 — Educación General Básica Superior, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc) PDF pages: 162 (22,675,358 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G9 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: this combined book's pure Biology chapters (Tema 2 cellular life/meiosis/mitosis; Tema 6 human reproduction) and pure Physics chapters (Tema 8 forces and movement; Tema 9 density and pressure in fluids; Tema 10 gravitational influence) are recorded as one line per chapter below, per the wave scope rule — their items are covered by the earlier Biology/Physics waves and are not placed here. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORD, carried exactly as filed: the secured *Ciencias Naturales — 10mo EGB* file (162 PDF pages, 22,490,933 bytes) contains this same Grade 9 book — page-by-page text comparison found 162 of 163 text pages identical to this book, only the cover page differing (10 / Décimo de Básica). The real content is cited once, here, under its true Grade 9 identity; the wrong record is named as filed; and nothing is credited to a Grade 10 book, because that book was not actually read — the real 10mo book is not held (library debt, as filed; the same applies to its TSV release copy). Scope note, as filed: this combined book's pure Biology, Physics and Chemistry/Biology chapters are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| prevention against microorganisms: vaccines' role; viruses invade cells to reproduce; five measures against virus spread (Ecuador, Grade 9) | Ecuador, *EC G9 Ciencias Naturales*, printed pp. 62–66 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 14 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, what-disease-is-and-how-it-spreads

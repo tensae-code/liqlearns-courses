@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -156,3 +156,29 @@ Searchable tags: pakistan, punjab, general science, simple-machines
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, simple machines
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple machines recognised: lever, pulley, screws (vs microwave as non-example) (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed p. 68 |
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple machines in daily tasks; the pulley in detail; Archimedes' lever saying (Ecuador's own way) (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed pp. 68–72 |
+
+**Book (Ecuador — Grade 5):** Title as printed: "Ciencias Naturales 5 — Educación General Básica, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc; ISBN page in front matter) PDF pages: 146 (13,387,637 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G5 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORDS, carried exactly as filed: the secured *Ciencias Naturales — 6to EGB* file (146 PDF pages, 13,571,960 bytes) and the secured *Ciencias Naturales — 7mo EGB* file (146 PDF pages, 13,756,408 bytes) contain this same Grade 5 book — page-by-page text comparison found 146 of 147 text pages identical to this book, only the cover page differing (6 / Sexto de Básica; 7 / Séptimo de Básica). The real content is cited once, here, under its true Grade 5 identity; the wrong records are named as filed; and nothing is credited to a Grade 6 or Grade 7 book, because those books were not actually read — the real 6to and 7mo books are not held (library debt, as filed; the same applies to their TSV release copies).
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple machines of one or few pieces, invented to reduce effort (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed p. 82 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab), Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, simple-machines

@@ -1,6 +1,6 @@
 # Sources — Eclipses — lunar colour and solar types
 
-countries: Palestine, Moldova, Mozambique, Egypt
+countries: Palestine, Moldova, Mozambique, Egypt, Ecuador
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
@@ -36,3 +36,17 @@ Searchable tags: eclipse, lunar eclipse, solar eclipse, total eclipse, annular e
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, earth-and-space eclipses-lunar-colour-and-solar-types
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| solar and lunar eclipses reproduced and drawn (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed pp. 110, 120 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 5 countries (Palestine, Moldova, Mozambique, Egypt, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, eclipses-lunar-colour-and-solar-types

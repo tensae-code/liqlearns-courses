@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -107,3 +107,29 @@ Searchable tags: united states, utah, seed standards, utah oer, what animals nee
 **Acceptance count: taught in 6 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa).**
 
 Searchable tags: samoa, samoa mesc, animals what animals need and animals at work
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 1):** Title as printed: "Descubrimiento y Comprensión del Medio Natural — Educación General Básica, Preparatoria, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-05-7 PDF pages: 50 (matches books.json record, 23,220,728 bytes, on_disk copy read at phase3-staging) Verdict: COMPLETE Short name below: EC G1 Medio Natural Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what living things need to live (water, food, shelter) (Ecuador, Grade 1) | Ecuador, *EC G1 Medio Natural*, printed p. 8 |
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how vertebrate animals of the region help humans (e.g. ploughing) (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed p. 22 |
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals useful to humans and what they provide (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed p. 49 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, what-animals-need-and-animals-at-work

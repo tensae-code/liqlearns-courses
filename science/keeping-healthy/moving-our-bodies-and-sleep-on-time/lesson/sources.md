@@ -1,6 +1,6 @@
 # Sources — Moving our bodies and sleep on time
 
-countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia
+countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -42,3 +42,17 @@ Searchable tags: iceland, halló heimur 3, healthy living, mms, teacher aims she
 Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, moving our bodies and sleep on time, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| physical activity suited to each age group (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed p. 50 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Mongolia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, moving-our-bodies-and-sleep-on-time

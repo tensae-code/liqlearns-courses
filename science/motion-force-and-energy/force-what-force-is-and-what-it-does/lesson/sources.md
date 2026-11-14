@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -305,3 +305,23 @@ Cambodia's earlier rows in this lesson are PRIVATE booklet evidence only (the Pr
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, force what force is and what it does
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| gravity as the force that holds things to the Earth (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed p. 67 |
+
+**Book (Ecuador — Grade 5):** Title as printed: "Ciencias Naturales 5 — Educación General Básica, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc; ISBN page in front matter) PDF pages: 146 (13,387,637 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G5 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORDS, carried exactly as filed: the secured *Ciencias Naturales — 6to EGB* file (146 PDF pages, 13,571,960 bytes) and the secured *Ciencias Naturales — 7mo EGB* file (146 PDF pages, 13,756,408 bytes) contain this same Grade 5 book — page-by-page text comparison found 146 of 147 text pages identical to this book, only the cover page differing (6 / Sexto de Básica; 7 / Séptimo de Básica). The real content is cited once, here, under its true Grade 5 identity; the wrong records are named as filed; and nothing is credited to a Grade 6 or Grade 7 book, because those books were not actually read — the real 6to and 7mo books are not held (library debt, as filed; the same applies to their TSV release copies).
+
+| Lesson part | Where it comes from |
+|---|---|
+| types of force; force as a vector quantity that deforms a body or changes its speed; gravity exampled from daily objects (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed pp. 78–81 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 21 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, force-what-force-is-and-what-it-does

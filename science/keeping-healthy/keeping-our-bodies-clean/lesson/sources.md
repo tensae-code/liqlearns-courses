@@ -1,6 +1,6 @@
 # Sources — Keeping our bodies clean
 
-countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only)
+countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -210,3 +210,35 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, keeping
 Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, keeping our bodies clean
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 1):** Title as printed: "Descubrimiento y Comprensión del Medio Natural — Educación General Básica, Preparatoria, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-05-7 PDF pages: 50 (matches books.json record, 23,220,728 bytes, on_disk copy read at phase3-staging) Verdict: COMPLETE Short name below: EC G1 Medio Natural Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| healthy habits: body hygiene, healthy eating, play and rest (Ecuador, Grade 1) | Ecuador, *EC G1 Medio Natural*, printed p. 18 |
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| harms of poor body hygiene and poor food handling (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed p. 47 |
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| body hygiene norms and what happens when we fall ill (weak, no energy) (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed pp. 90–92 |
+
+**Book (Ecuador — Grade 5):** Title as printed: "Ciencias Naturales 5 — Educación General Básica, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc; ISBN page in front matter) PDF pages: 146 (13,387,637 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G5 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORDS, carried exactly as filed: the secured *Ciencias Naturales — 6to EGB* file (146 PDF pages, 13,571,960 bytes) and the secured *Ciencias Naturales — 7mo EGB* file (146 PDF pages, 13,756,408 bytes) contain this same Grade 5 book — page-by-page text comparison found 146 of 147 text pages identical to this book, only the cover page differing (6 / Sexto de Básica; 7 / Séptimo de Básica). The real content is cited once, here, under its true Grade 5 identity; the wrong records are named as filed; and nothing is credited to a Grade 6 or Grade 7 book, because those books were not actually read — the real 6to and 7mo books are not held (library debt, as filed; the same applies to their TSV release copies).
+
+| Lesson part | Where it comes from |
+|---|---|
+| daily hygiene, especially of genital organs in puberty (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed p. 46 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Guyana, Uganda, Bulgaria, Pakistan (Punjab), Cuba).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, keeping-our-bodies-clean

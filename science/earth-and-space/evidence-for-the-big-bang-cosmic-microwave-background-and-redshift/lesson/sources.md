@@ -1,6 +1,6 @@
 # Sources — Evidence for the Big Bang — cosmic microwave background and redshift
 
-countries: Bhutan, North Macedonia, Armenia
+countries: Bhutan, North Macedonia, Armenia, Ecuador
 
 **Book 1:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -37,3 +37,17 @@ Searchable tags: big bang, cosmic microwave background, redshift, expanding univ
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, astghik gratun, edit print
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 8):** Title as printed: "Ciencias Naturales — Texto del estudiante, 8 EGB" (PDF metadata "CIENCIASNATURALES8EGBPORT"); Presidente Lenín Moreno Garcés era edition; the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (Proyecto Licitación Ministerio) PDF pages: 242 (77,229,598 bytes on the completed download — exactly the books.json size_bytes; an earlier download attempt of the same release asset arrived short at 76,771,392 bytes and was discarded. TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (6 units + evaluations + bibliography + reading annex) Short name below: EC G8 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: pure Biology chapter (Unit 2, reproduction) and pure Physics/Chemistry material in Unit 5 (movement/force; chemistry and matter) are recorded as chapter lines per the wave scope rule. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. Scope note, as filed: this book's pure Biology unit/section and pure Physics/Chemistry material in Unit 5 are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| origin of the universe: Big Bang theory vs pulsating-universe and steady-state (continuous creation) theories (Ecuador, Grade 8) | Ecuador, *EC G8 Ciencias Naturales*, printed pp. 198–199 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Bhutan, North Macedonia, Armenia).** The Armenian teacher-guide rows above are guide evidence only, counted nowhere; Armenia counts here through its student book(s, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, evidence-for-the-big-bang-cosmic-microwave-background-and-redshift

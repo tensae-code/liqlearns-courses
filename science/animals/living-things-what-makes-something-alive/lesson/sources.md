@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -236,3 +236,29 @@ Searchable tags: samoa, samoa mesc, animals living things what makes something a
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, animals living-things-what-makes-something-alive
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 1):** Title as printed: "Descubrimiento y Comprensión del Medio Natural — Educación General Básica, Preparatoria, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-05-7 PDF pages: 50 (matches books.json record, 23,220,728 bytes, on_disk copy read at phase3-staging) Verdict: COMPLETE Short name below: EC G1 Medio Natural Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycle of living things: born, grow, reproduce, die (Ecuador, Grade 1) | Ecuador, *EC G1 Medio Natural*, printed p. 7 |
+
+**Book (Ecuador — Grade 2):** Title as printed: "Ciencias Naturales — Educación General Básica Elemental, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-14-9 PDF pages: 130 (matches books.json record, 34,489,779 bytes, on_disk copy read at phase3-staging; last 12 PDF pages are blank notes pages) Verdict: COMPLETE Short name below: EC G2 Ciencias Naturales Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycles of plants, animals and humans ordered and compared (Ecuador, Grade 2) | Ecuador, *EC G2 Ciencias Naturales*, printed pp. 6–15 |
+
+**Book (Ecuador — Grade 8):** Title as printed: "Ciencias Naturales — Texto del estudiante, 8 EGB" (PDF metadata "CIENCIASNATURALES8EGBPORT"); Presidente Lenín Moreno Garcés era edition; the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (Proyecto Licitación Ministerio) PDF pages: 242 (77,229,598 bytes on the completed download — exactly the books.json size_bytes; an earlier download attempt of the same release asset arrived short at 76,771,392 bytes and was discarded. TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (6 units + evaluations + bibliography + reading annex) Short name below: EC G8 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: pure Biology chapter (Unit 2, reproduction) and pure Physics/Chemistry material in Unit 5 (movement/force; chemistry and matter) are recorded as chapter lines per the wave scope rule. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. Scope note, as filed: this book's pure Biology unit/section and pure Physics/Chemistry material in Unit 5 are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| properties of living things: organisation, metabolism, homeostasis, irritability, movement, growth, reproduction, adaptation; what is life? (Ecuador, Grade 8) | Ecuador, *EC G8 Ciencias Naturales*, printed pp. 10–15 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 10 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Egypt, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, living-things-what-makes-something-alive

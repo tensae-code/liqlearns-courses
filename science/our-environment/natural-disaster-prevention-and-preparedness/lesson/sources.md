@@ -1,0 +1,18 @@
+# Sources — Natural disaster prevention and preparedness
+
+countries: Ecuador
+
+**Book (Ecuador — Grade 5):** Title as printed: "Ciencias Naturales 5 — Educación General Básica, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc; ISBN page in front matter) PDF pages: 146 (13,387,637 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G5 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORDS, carried exactly as filed: the secured *Ciencias Naturales — 6to EGB* file (146 PDF pages, 13,571,960 bytes) and the secured *Ciencias Naturales — 7mo EGB* file (146 PDF pages, 13,756,408 bytes) contain this same Grade 5 book — page-by-page text comparison found 146 of 147 text pages identical to this book, only the cover page differing (6 / Sexto de Básica; 7 / Séptimo de Básica). The real content is cited once, here, under its true Grade 5 identity; the wrong records are named as filed; and nothing is credited to a Grade 6 or Grade 7 book, because those books were not actually read — the real 6to and 7mo books are not held (library debt, as filed; the same applies to their TSV release copies).
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson — How a volcanic eruption happens (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed pp. 116–121 |
+| Sub lesson — Prevention measures — before eruptions and natural disasters (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed pp. 116–121 |
+| Sub lesson — An album of Ecuador's volcanoes (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed pp. 116–121 |
+| Do it first; key ideas; Do It Yourself | Ecuador, as cited in the rows above |
+
+**Acceptance count: taught in 1 country (Ecuador).**
+
+Placement choice, on the record: this NEW LESSON was built for the Ecuador placement "NEW LESSON NEEDED — natural-disaster-prevention-and-preparedness" — ecuador-placements.md, *EC G5 Ciencias Naturales*, printed pp. 116–121. No existing general-science lesson covers natural-disaster prevention and preparedness as its own thing (checked the live repo at merge time: `our-environment/natural-hazards-monitoring-prediction-and-protection` teaches monitoring, prediction and protection; `our-environment/flood-and-landslide-emergency-plans` teaches a community plan for floods and landslides; and the Earth and Space volcano lessons teach volcanoes and earthquakes as phenomena — none is prevention and preparedness before eruptions and disasters, closed with the country's own volcano album), so it gets its own lesson. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment). Ecuador's own way — the eruption process detailed, prevention taught beforehand, and the album of Ecuador's volcanoes — IS this lesson's content, carried exactly as filed.
+
+Searchable tags: natural disaster, prevention, preparedness, volcanic eruption, volcanoes of ecuador, album, ecuador, ciencias naturales 5, grade 5

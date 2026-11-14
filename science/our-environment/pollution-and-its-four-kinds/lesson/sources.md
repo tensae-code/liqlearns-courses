@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -154,3 +154,17 @@ Searchable tags: samoa, samoa mesc, our environment pollution and its four kinds
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 5, Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, pollution and its four kinds
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 8):** Title as printed: "Ciencias Naturales — Texto del estudiante, 8 EGB" (PDF metadata "CIENCIASNATURALES8EGBPORT"); Presidente Lenín Moreno Garcés era edition; the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (Proyecto Licitación Ministerio) PDF pages: 242 (77,229,598 bytes on the completed download — exactly the books.json size_bytes; an earlier download attempt of the same release asset arrived short at 76,771,392 bytes and was discarded. TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (6 units + evaluations + bibliography + reading annex) Short name below: EC G8 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: pure Biology chapter (Unit 2, reproduction) and pure Physics/Chemistry material in Unit 5 (movement/force; chemistry and matter) are recorded as chapter lines per the wave scope rule. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. Scope note, as filed: this book's pure Biology unit/section and pure Physics/Chemistry material in Unit 5 are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| impacts of human activities: soil contamination and environmental impact (Ecuador, Grade 8) | Ecuador, *EC G8 Ciencias Naturales*, printed pp. 213–217 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 7 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, pollution-and-its-four-kinds

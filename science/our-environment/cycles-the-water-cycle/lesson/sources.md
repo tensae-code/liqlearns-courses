@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -314,3 +314,23 @@ Searchable tags: egypt, our-environment cycles-the-water-cycle
 Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, cycles the water cycle
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| solar heat evaporates water (water cycle formation step) (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed p. 37 |
+
+**Book (Ecuador — Grade 5):** Title as printed: "Ciencias Naturales 5 — Educación General Básica, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc; ISBN page in front matter) PDF pages: 146 (13,387,637 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G5 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORDS, carried exactly as filed: the secured *Ciencias Naturales — 6to EGB* file (146 PDF pages, 13,571,960 bytes) and the secured *Ciencias Naturales — 7mo EGB* file (146 PDF pages, 13,756,408 bytes) contain this same Grade 5 book — page-by-page text comparison found 146 of 147 text pages identical to this book, only the cover page differing (6 / Sexto de Básica; 7 / Séptimo de Básica). The real content is cited once, here, under its true Grade 5 identity; the wrong records are named as filed; and nothing is credited to a Grade 6 or Grade 7 book, because those books were not actually read — the real 6to and 7mo books are not held (library debt, as filed; the same applies to their TSV release copies).
+
+| Lesson part | Where it comes from |
+|---|---|
+| rain in the hydrological cycle: evaporation, condensation, precipitation (Ecuador, Grade 5) | Ecuador, *EC G5 Ciencias Naturales*, printed p. 125 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, cycles-the-water-cycle

@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -256,3 +256,18 @@ Searchable tags: samoa, samoa mesc, earth and space the moon earths natural sate
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, the moon earths natural satellite and its phases
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 3):** Title as printed: Ciencias Naturales, 3 EGB (PDF metadata "Naturales texto 3 EGB"); the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (earlier edition; year/ISBN not printed in the extracted front matter) PDF pages: 146 (86,570,381 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (4 units + evaluations + bibliography + cut-out pages) Short name below: EC G3 Ciencias Naturales (printed p. = PDF p. − 1) Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| characteristics of the Moon described and compared with Sun and Earth (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed p. 13 |
+| Moon phases observed and reproduced with materials; lunar diary kept over a month (project) (Ecuador, Grade 3) | Ecuador, *EC G3 Ciencias Naturales*, printed pp. 104–107, 117 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 14 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, the-moon-earths-natural-satellite-and-its-phases

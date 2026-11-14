@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -161,3 +161,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, acciden
 Cambodia's own way — the MoEYS Kindergarten core book and the three-part Student-Centred Science Teaching teacher-training manuals carry this thing as guide evidence, in the chapters and activities named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, accidents and staying safe
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 1):** Title as printed: "Descubrimiento y Comprensión del Medio Natural — Educación General Básica, Preparatoria, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-05-7 PDF pages: 50 (matches books.json record, 23,220,728 bytes, on_disk copy read at phase3-staging) Verdict: COMPLETE Short name below: EC G1 Medio Natural Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sun care agreement: cap and sunscreen outdoors (health agreements in/out of class) (Ecuador, Grade 1) | Ecuador, *EC G1 Medio Natural*, printed p. 36 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 6 countries (Turkey, Suriname, Uganda, Bulgaria, Cuba).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, accidents-and-staying-safe

@@ -1,6 +1,6 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa, Ecuador
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -69,3 +69,17 @@ Searchable tags: india, ncert, class vi, measurement-quantities-units-prefixes-a
 Placement choice, on the record: this placement was filed as "science-skills/measuring-length-area-volume-mass-temperature-and-time" — samoa-placements.md, printed p. 12 — and is stocked here because the existing measurement lesson teaches the quantities length, mass, time and temperature as fundamentals and area and volume as derived — the six quantities this placement's slug names. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, science skills measurement quantities units prefixes and accuracy grade 8
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 8):** Title as printed: "Ciencias Naturales — Texto del estudiante, 8 EGB" (PDF metadata "CIENCIASNATURALES8EGBPORT"); Presidente Lenín Moreno Garcés era edition; the record notes this is the earlier complete edition — the 2024 edition's only reachable copy is truncated Publisher: Ministerio de Educación del Ecuador / SM (Proyecto Licitación Ministerio) PDF pages: 242 (77,229,598 bytes on the completed download — exactly the books.json size_bytes; an earlier download attempt of the same release asset arrived short at 76,771,392 bytes and was discarded. TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (6 units + evaluations + bibliography + reading annex) Short name below: EC G8 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: pure Biology chapter (Unit 2, reproduction) and pure Physics/Chemistry material in Unit 5 (movement/force; chemistry and matter) are recorded as chapter lines per the wave scope rule. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. Scope note, as filed: this book's pure Biology unit/section and pure Physics/Chemistry material in Unit 5 are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measurement: SI units for fundamental magnitudes and measuring instruments (Ecuador, Grade 8) | Ecuador, *EC G8 Ciencias Naturales*, printed pp. 162–164 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 4 countries (Costa Rica, India, Samoa, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, measurement-quantities-units-prefixes-and-accuracy-grade-8

@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -104,3 +104,17 @@ Searchable tags: egypt, earth-and-space motions-of-the-earth-moon-and-sun
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 7, Grade 8, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, motions of the earth moon and sun
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 9):** Title as printed: "Ciencias Naturales 9 — Educación General Básica Superior, Texto del estudiante para la transición curricular" Publisher/year: Ministerio de Educación del Ecuador, edición 2024 (technical team Mineduc) PDF pages: 162 (22,675,358 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once) Verdict: COMPLETE (final pages are blank notes pages) Short name below: EC G9 Ciencias Naturales (printed p. = PDF p. − 1) Scope note: this combined book's pure Biology chapters (Tema 2 cellular life/meiosis/mitosis; Tema 6 human reproduction) and pure Physics chapters (Tema 8 forces and movement; Tema 9 density and pressure in fluids; Tema 10 gravitational influence) are recorded as one line per chapter below, per the wave scope rule — their items are covered by the earlier Biology/Physics waves and are not placed here. Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md. WRONG-BODY RECORD, carried exactly as filed: the secured *Ciencias Naturales — 10mo EGB* file (162 PDF pages, 22,490,933 bytes) contains this same Grade 9 book — page-by-page text comparison found 162 of 163 text pages identical to this book, only the cover page differing (10 / Décimo de Básica). The real content is cited once, here, under its true Grade 9 identity; the wrong record is named as filed; and nothing is credited to a Grade 10 book, because that book was not actually read — the real 10mo book is not held (library debt, as filed; the same applies to its TSV release copy). Scope note, as filed: this combined book's pure Biology, Physics and Chemistry/Biology chapters are recorded in the placements file as split-subject chapter lines, not placements — they are not placed here; only the placements below are stocked.
+
+| Lesson part | Where it comes from |
+|---|---|
+| relative position and motion of Sun, Earth and Moon determine day cycles and phenomena; model built (Ecuador, Grade 9) | Ecuador, *EC G9 Ciencias Naturales*, printed pp. 118, 122–125 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 7 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt, Cambodia, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, motions-of-the-earth-moon-and-sun

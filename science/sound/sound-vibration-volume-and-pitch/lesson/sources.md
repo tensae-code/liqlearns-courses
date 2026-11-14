@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa, Ecuador
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -192,3 +192,17 @@ Searchable tags: pakistan, punjab, general science, sound-vibration-volume-and-p
 **Acceptance count: taught in 16 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab, Samoa).**
 
 Searchable tags: samoa, samoa mesc, sound sound vibration volume and pitch
+
+## Ecuador growth (2026-11-14, General Science expansion)
+
+**Book (Ecuador — Grade 1):** Title as printed: "Descubrimiento y Comprensión del Medio Natural — Educación General Básica, Preparatoria, Texto del estudiante para la transición curricular" Publisher/year/ISBN: Ministerio de Educación del Ecuador, primera edición 2024, ISBN 978-9942-662-05-7 PDF pages: 50 (matches books.json record, 23,220,728 bytes, on_disk copy read at phase3-staging) Verdict: COMPLETE Short name below: EC G1 Medio Natural Records: the TSV release copy and the books.json record are the same book, cited once here (each Ecuador student book appears twice in the records — verified same edition/size/pages, as filed at the head of the placements file). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ecuador-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sound vs noise, telling them apart by listening (Ecuador, Grade 1) | Ecuador, *EC G1 Medio Natural*, printed p. 35 |
+
+Ecuador's own way — its Ministerio de Educación books teach this thing at the places and in the order named in the rows above, with Ecuador's own examples (its natural regions, volcanoes, ancestral knowledge and medicines where the rows name them) — is itself course content, carried exactly as filed.
+
+**Acceptance count: taught in 17 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab), Samoa, Ecuador).**
+
+Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, sound-vibration-volume-and-pitch
