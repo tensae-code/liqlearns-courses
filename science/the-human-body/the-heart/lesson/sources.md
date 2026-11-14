@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -733,3 +733,24 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body the-heart
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: put two fingers on the wrist as in the picture (finding the pulse) (placement filed as the-human-body/heart-and-circulation; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 95 |
+| science and life: the pulse's presence shows blood moves in the arteries; pulse count… (placement filed as the-human-body/heart-and-circulation; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 96 |
+| how do needed materials reach the body's cells? the small intestine's cells… (placement filed as the-human-body/heart-and-circulation; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 98 |
+| wonders of creation: a white blood cell in the act of swallowing the foreign (phagocytosis); kinds of white cells (placement filed as the-human-body/heart-and-circulation; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 102 |
+
+**Acceptance count: taught in 34 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `the-human-body/heart-and-circulation` — iran-placements.md — are stocked into this existing lesson (`the-human-body/the-heart`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, the-human-body the-heart

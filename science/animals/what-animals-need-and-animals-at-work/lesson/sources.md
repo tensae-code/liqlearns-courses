@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea, Jordan
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal, Papua New Guinea, Jordan, Iran
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -588,3 +588,23 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals what-animals-need-and-animals-at-work
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals eat food (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 29 |
+| animals move (acting out the snake's movement) (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 30 |
+| animals are useful to us: the cow's uses (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 32 |
+| science and life: some worms are useful; humans raise a kind of earthworm (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 106 |
+| collecting information: insects have many benefits; about their benefits… (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 107 |
+
+**Acceptance count: taught in 29 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, animals what-animals-need-and-animals-at-work

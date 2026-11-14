@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Fiji (teacher-guide evidence only), Saudi Arabia, Vietnam, Malaysia, Iraq, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Fiji (teacher-guide evidence only), Saudi Arabia, Vietnam, Malaysia, Iraq, Nepal, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -621,3 +621,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light things-that-block-light-and-shadows
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| observe: take objects to the schoolyard on a sunny day (shadows) (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 50 |
+
+**Acceptance count: taught in 34 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, light things-that-block-light-and-shadows

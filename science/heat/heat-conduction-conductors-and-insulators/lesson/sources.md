@@ -699,3 +699,23 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, heat heat-conduction-conductors-and-insulators
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| talk: in the picture, which things are hotter? heat goes from which body to which? (placement filed as heat/heat-conduction-and-conductors; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 50 |
+| think: which material is better for a pot handle — wood, metal or…? (placement filed as heat/heat-conduction-and-conductors; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 52 |
+| take three spoons/rods of the same shape: wooden, plastic and iron (placement filed as heat/heat-conduction-and-conductors; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 27 |
+
+**Acceptance count unchanged: taught in 41 countries — Iran is already counted in this lesson from the earlier split-subject waves; the rows above add Iran's general-science books to it.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `heat/heat-conduction-and-conductors` — iran-placements.md — are stocked into this existing lesson (`heat/heat-conduction-conductors-and-insulators`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, heat heat-conduction-conductors-and-insulators

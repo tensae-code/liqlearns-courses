@@ -780,3 +780,38 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, electricity-and-magnetism magnets-poles-and-magnetic-materials
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 12, my magnet: doing interesting things with a magnet (keep it away warning) (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 93 |
+| my strange magnet: some things are attracted to the magnet and some are not (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 94 |
+| magnets come in different shapes (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 95 |
+| contest and game with magnets: whose magnet is strongest? (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 96 |
+| a magnet attracts a paper clip even from behind paper (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 97 |
+| uses of magnets (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 98 |
+| magnets sometimes attract and sometimes repel each other (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 99 |
+| activity: bring the two ends of the magnets near each other each time as in the pictures; what do you observe? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 86 |
+| Lesson 7, the magnet in life: a group of pupils visits a waste-recycling centre with their teacher (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 68 |
+| a magnet does not attract every metal body: it does not attract the aluminium sheet or the copper wire (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 69 |
+| the part of a magnet with more magnetic property is called the magnet's pole (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 70 |
+| activity: determine the north and south of the class (compass making) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 72 |
+| science and life: today people prefer to make most payments with cards (magnetic bank cards) (placement filed as NEW LESSON NEEDED — magnets-in-daily-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 74 |
+| in Grade 4 science we saw two magnets exert force on each other without contact (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 56 |
+
+**Acceptance count unchanged: taught in 38 countries — Iran is already counted in this lesson from the earlier split-subject waves; the rows above add Iran's general-science books to it.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `magnets-in-daily-life` — iran-placements.md — are stocked into this existing lesson (`electricity-and-magnetism/magnets-poles-and-magnetic-materials`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, electricity-and-magnetism magnets-poles-and-magnetic-materials

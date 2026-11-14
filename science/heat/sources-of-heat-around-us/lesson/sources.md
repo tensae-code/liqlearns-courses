@@ -1,6 +1,6 @@
 # Sources — Sources of heat around us
 
-countries: Rwanda, South Sudan
+countries: Rwanda, South Sudan, Iran
 
 **Book 1:** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
 
@@ -46,3 +46,20 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 Placement choice, on the record: the South Sudan placements filed these as "NEW LESSON NEEDED — sources-of-heat" — south-sudan-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so South Sudan stocks into it here, with the original slug recorded in this note, instead of a duplicate lesson being built.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| warm air has heat energy; oil, petrol, diesel and city gas are kinds of fuel (placement filed as heat/sources-of-heat; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 30 |
+| heat can raise temperature: to make tea, first heat the kettle of water (placement filed as heat/sources-of-heat; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 48 |
+
+**Acceptance count: taught in 3 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `heat/sources-of-heat` — iran-placements.md — are stocked into this existing lesson (`heat/sources-of-heat-around-us`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, heat sources-of-heat-around-us

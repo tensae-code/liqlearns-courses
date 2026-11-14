@@ -256,3 +256,24 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/refl
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light reflection-refraction-and-splitting-light
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 3, rainbow: on a rainy day, after the Sun appeared, a beautiful rainbow formed in the sky (placement filed as light/reflection-and-refraction-with-lenses; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 26 |
+| if after rain the Sun appears at once, its light (falls on the water drops still in the air) (placement filed as light/reflection-and-refraction-with-lenses; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 27 |
+| do the same activity with a prism instead of the pen tube; compare the two results (placement filed as light/reflection-and-refraction-with-lenses; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 28 |
+| put the glass again on the newspaper's fine writing and try to read it (magnifying) (placement filed as light/reflection-and-refraction-with-lenses; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 29 |
+| take two other magnifiers of different sizes and number them (placement filed as light/reflection-and-refraction-with-lenses; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 30 |
+| experiment: the candle flame's image compared with the flame itself (lens) (placement filed as light/reflection-and-refraction-with-lenses; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 31 |
+
+**Acceptance count unchanged: taught in 17 countries — Iran is already counted in this lesson from the earlier split-subject waves; the rows above add Iran's general-science books to it.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `light/reflection-and-refraction-with-lenses` — iran-placements.md — are stocked into this existing lesson (`light/reflection-refraction-and-splitting-light`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, light reflection-refraction-and-splitting-light

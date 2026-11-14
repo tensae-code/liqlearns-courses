@@ -1,6 +1,6 @@
 # Sources — Measuring: units of mass, length and time
 
-countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan, Venezuela, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Saudi Arabia, Vietnam, Iraq, Nepal
+countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan, Venezuela, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Saudi Arabia, Vietnam, Iraq, Nepal, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -261,3 +261,36 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, science-skills/units-of-mass-length-and-time
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 10 Laboratory (1)):** Title as printed: آزمایشگاه علوم تجربی (۱) ـ پایه دهم دوره دوم متوسطه (Laboratory of Experimental Sciences 1, Grade 10, second middle-school cycle), book code 110217. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 152 pages, 6,492,328 bytes — matches the books.json record exactly. Verdict: COMPLETE (preface, PDF p. 7, through Ch. 4 inquiry experiments, the project section, PDF p. 148, and sources). Twin records: this is the same book as the TSV blob record "Laboratory (1), Grade 10 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Ch. 1 (working in the laboratory, safety, scientific method) and the general/Earth-science experiments are placed. The remaining experiments are Physics, Chemistry or Biology practicals belonging to the earlier waves — one grouped line per subject below, experiment titles named. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Human and Environment):** Title as printed: انسان و محیط زیست ـ پایه یازدهم دوره دوم متوسطه (Human and the Environment, Grade 11, second middle-school cycle), book code 111268. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 12,852,612 bytes — matches the books.json record exactly. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 7, the glossary, PDF p. 129, and closing pages). Twin records: this is the same book as the TSV blob record "Human and Environment, Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope: the whole book is general/integrated environmental science; placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measure: height and weight (kg and cm) of group members in a table (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 79 |
+| Lesson 3, measuring materials: put heavy books on the lower shelf (Ali and Reza tidying the library) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 24 |
+| 3 beads in one matchbox, comparing the boxes (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 25 |
+| they wrote their measurement results in a table (result of experiment, name) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 31 |
+| table: group members' names and the bubble's diameter in centimetres (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 93 |
+| Ch. 2, measurement in experimental science and its tools: to know how much you grew in a year you measure height and weight (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 12 |
+| did you know? graduated vessels are used for measuring (volume) (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 15 |
+| activity: with a clock or timer, (time) the average heartbeat of each… (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 17 |
+| Ch. 3, instructional experiments, Exp. 1: estimating distance and skill in using a map (Iran, Grade 10 Laboratory (1)) | Iran, *Laboratory of Experimental Sciences (1), Grade 10*, p. 56 |
+| Activity 5: make a table of the water your family uses in one week; your measuring tool can be… (Iran, Grade 11 Human and Environment) | Iran, *Human and Environment, Grade 11*, p. 13 |
+
+**Acceptance count: taught in 18 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, science-skills units-of-mass-length-and-time

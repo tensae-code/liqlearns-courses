@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan, Iran
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -588,3 +588,23 @@ Searchable tags: nepal, curriculum development centre, materials/mixtures-and-ho
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials mixtures-and-how-to-separate-them
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pour the sherbet into glasses: water and sugar for making sherbet (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 87 |
+| separation: after the celebration in your class, which materials are throwaway? separate them (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 95 |
+| Lesson 2, mixtures in life: Ahmad's father is a confectioner, helped in the workshop (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 14 |
+| what is a mixture? sand or salt with beads and marbles poured together (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 15 |
+| dissolving: sugar grains slowly separate in water when stirred (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 17 |
+
+**Acceptance count: taught in 26 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, materials mixtures-and-how-to-separate-them

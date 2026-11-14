@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen, Saudi Arabia, South Sudan, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only)
+countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen, Saudi Arabia, South Sudan, Iraq, Colombia, Papua New Guinea (teacher-guide evidence only), Iran
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -236,3 +236,19 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 Placement choice, on the record: the Papua New Guinea placements filed 2 of these rows as "NEW LESSON NEEDED — static-electricity-and-how-it-works" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| experiment: prepare two plastic rods (such as two plastic pen tubes) — charging by rubbing (placement filed as NEW LESSON NEEDED — static-electricity-charges-by-rubbing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 57 |
+
+**Acceptance count: taught in 12 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `static-electricity-charges-by-rubbing` — iran-placements.md — are stocked into this existing lesson (`electricity-and-magnetism/static-electricity-and-lightning`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, electricity-and-magnetism static-electricity-and-lightning

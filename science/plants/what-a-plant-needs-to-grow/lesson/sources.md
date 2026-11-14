@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -883,3 +883,27 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, plants what-a-plant-needs-to-grow
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Laboratory (2)):** Title as printed: آزمایشگاه علوم تجربی (۲) ـ پایه یازدهم دوره دوم متوسطه (Laboratory of Experimental Sciences 2, Grade 11, second middle-school cycle), book code 111217. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 6,371,864 bytes — matches the books.json record exactly. Verdict: COMPLETE (preface, PDF p. 7, through Ch. 4 inquiry experiments, the nitrogen project, PDF p. 131, and sources). Twin records: this is the same book as the TSV blob record "Laboratory (2), Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Ch. 1 (laboratory work, safety, science study skills) and the general/Earth-science experiments are placed. The remaining experiments are Physics, Chemistry or Biology practicals belonging to the earlier waves — one grouped line per subject below, experiment titles named. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| experiment: bean seeds laid in a clean damp cloth (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 66 |
+| observe: seeds must fall in a suitable place to grow into plants (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 68 |
+| Lesson 11, plant and eat: geranium pots arranged in the school corridor (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 98 |
+| continue 10 to 13 days; write your observations in a table (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 100 |
+| plants need water to stay alive and grow; the amount and kind of water affects plants' growth (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 102 |
+| experimental science helps us know the suitable conditions for plants' growth (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 106 |
+| Project: examining the role of nitrogen in plants' health and growth (project specification, choosing seed type with the lab coach or agricultural engineers) (Iran, Grade 11 Laboratory (2)) | Iran, *Laboratory of Experimental Sciences (2), Grade 11*, pp. 130–131 |
+
+**Acceptance count: taught in 38 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, plants what-a-plant-needs-to-grow

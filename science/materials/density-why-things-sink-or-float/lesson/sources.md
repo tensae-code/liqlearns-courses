@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China, Syria, Laos, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China, Syria, Laos, Sri Lanka, Rwanda, Bangladesh, Yemen, Saudi Arabia, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -563,3 +563,21 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials density-why-things-sink-or-float
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| under water or on water? the floating game (Lesson 1) (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 13 |
+| the under/on water game again: drop things one by one into the water vessel (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 49 |
+| whether a body sinks in water or floats on it depends on a quantity named density (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 16 |
+
+**Acceptance count: taught in 27 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, materials density-why-things-sink-or-float

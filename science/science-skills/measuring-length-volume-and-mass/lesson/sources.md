@@ -1,6 +1,6 @@
 # Sources — Measuring length, volume and mass
 
-countries: Saudi Arabia, Libya
+countries: Saudi Arabia, Libya, Iran
 
 **Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
 
@@ -43,3 +43,23 @@ Placement choice, on the record: the Libya placement(s) above filed as science-s
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, science-skills measuring-length-volume-and-mass
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| air has mass; solid and liquid materials have mass: the mass of this bottle of water (placement filed as science-skills/mass-weight-and-the-scales; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 39 |
+| every body is made of material; material has mass and volume; a body's mass with the unit… (placement filed as science-skills/mass-weight-and-the-scales; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 13 |
+| activity: with a balance and a spring scale, measure the mass and weight of each material (placement filed as science-skills/mass-weight-and-the-scales; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 14 |
+
+**Acceptance count: taught in 3 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `science-skills/mass-weight-and-the-scales` — iran-placements.md — are stocked into this existing lesson (`science-skills/measuring-length-volume-and-mass`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, science-skills measuring-length-volume-and-mass

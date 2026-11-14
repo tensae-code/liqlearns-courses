@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Iran
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -881,3 +881,37 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, animals grouping-animals
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Human and Environment):** Title as printed: انسان و محیط زیست ـ پایه یازدهم دوره دوم متوسطه (Human and the Environment, Grade 11, second middle-school cycle), book code 111268. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 12,852,612 bytes — matches the books.json record exactly. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 7, the glossary, PDF p. 129, and closing pages). Twin records: this is the same book as the TSV blob record "Human and Environment, Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope: the whole book is general/integrated environmental science; placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| collecting information: choose one of the pictured animals with your group (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 73 |
+| fish live in water; these animals have gills; with their gills they… (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 108 |
+| we can group living things by their similarities and differences: inquiry (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, pp. 109–110 |
+| the main groups of vertebrates: Earth is home to thousands of kinds of animal (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 112 |
+| fish: the underwater world is full of varied, colourful fish (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 113 |
+| amphibians: Ahmad and his family went on an outing to know nature better (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 115 |
+| reptiles: which of these animals have you seen up close? lizard, crocodile (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 118 |
+| mammals: animals such as cow, sheep, dog, cat, horse and camel… (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 122 |
+| Lesson 11, invertebrates: pupils care for the school garden's rose bush; they often saw animals on it (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 102 |
+| observe the pictures of the aphid, ladybird and spider at the top of the previous page (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 103 |
+| talk: read the table's information (animal names and their foods) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 104 |
+| the earthworm's body and the snake's body: what similarities and differences? the snake has a backbone (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 105 |
+| crustaceans: the woodlouse lives in damp, dark places; it has a segmented body (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 108 |
+| the large group of arthropods: scientists group arachnids, insects, crustaceans and millipedes (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 109 |
+| more to know: species diversity — the common bee-eater, the chestnut-cheeked bee-eater… (Iran, Grade 11 Human and Environment) | Iran, *Human and Environment, Grade 11*, p. 97 |
+
+**Acceptance count: taught in 38 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, animals grouping-animals

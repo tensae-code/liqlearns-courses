@@ -295,3 +295,17 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, heat heat-radiation-and-the-black-white-test
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| experiment: in sunlight, does dark card warm faster or light card? (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 74 |
+
+**Acceptance count unchanged: taught in 25 countries — Iran is already counted in this lesson from the earlier split-subject waves; the rows above add Iran's general-science books to it.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, heat heat-radiation-and-the-black-white-test

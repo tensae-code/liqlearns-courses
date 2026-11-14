@@ -1,6 +1,6 @@
 # Sources — How fossil fuels formed
 
-countries: Iraq, Nepal
+countries: Iraq, Nepal, Iran
 
 **Book (Iraq — Grade 4, pupil's book):** Title as printed: العلوم — كتاب التلميذ (Science — Pupil's Book), Grade 4 primary, Primary Science Book Series. Publisher: Republic of Iraq, Ministry of Education, General Directorate of Curricula, 7th edition, 1445 AH / 2023 CE. No ISBN printed. PDF 216 pages, 14,286,979 bytes. Verdict: COMPLETE (introduction printed p. 3 through final scientific-writing page, printed p. 213, with closing review pages to PDF p. 216). Note: this PDF's body text layer is symbol-encoded; the contents pages (printed pp. 4–5) and unit/lesson headings are legible and were used with the section-opening pages. Twin record: TSV release record (Grade 4) and books.json record grade-04/gov/iraq/science/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iraq-placements.md.
 
@@ -40,3 +40,17 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, natural-resources/how-fossil-fuels-formed
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 9):** Title as printed: علوم تجربی ـ پایه نهم، دوره اول متوسطه (Experimental Sciences, Grade 9, first middle-school cycle), book code 906. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 184 pages, 13,821,980 bytes — matches the books.json record exactly. Verdict: COMPLETE (Ch. 1, PDF p. 9, through Ch. 15, the periodic table appendix, PDF p. 182, and sources, PDF p. 184). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 9 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 1, 2 (Chemistry), 4, 5, 8, 9 (Physics) and 11, 12, 13, 14 (Biology) are pure split-subject chapters — one chapter-level line each. Chapters 3, 6, 7, 10 and 15 (Earth, space and environment) are placed; inside Ch. 3 the hydrocarbon/refining items are Chemistry and are not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fossil fuels (coal, crude oil and natural gas) formed over millions of years (placement filed as NEW LESSON NEEDED — how-fossil-fuels-formed; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) (Iran, Grade 9) | Iran, *Experimental Sciences, Grade 9*, p. 36 |
+
+**Acceptance count: taught in 3 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, natural-resources how-fossil-fuels-formed

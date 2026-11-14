@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia, El Salvador, Libya, Jordan
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela, China, Eritrea, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Malaysia, El Salvador, Libya, Jordan, Iran
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -322,3 +322,20 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, earth-and-space motions-of-the-earth-moon-and-sun
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Laboratory (2)):** Title as printed: آزمایشگاه علوم تجربی (۲) ـ پایه یازدهم دوره دوم متوسطه (Laboratory of Experimental Sciences 2, Grade 11, second middle-school cycle), book code 111217. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 6,371,864 bytes — matches the books.json record exactly. Verdict: COMPLETE (preface, PDF p. 7, through Ch. 4 inquiry experiments, the nitrogen project, PDF p. 131, and sources). Twin records: this is the same book as the TSV blob record "Laboratory (2), Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Ch. 1 (laboratory work, safety, science study skills) and the general/Earth-science experiments are placed. The remaining experiments are Physics, Chemistry or Biology practicals belonging to the earlier waves — one grouped line per subject below, experiment titles named. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 3, our life and Earth's turning 1: glue a string around a ball and hold it before a lit lamp in the room (model) (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 23 |
+| Exp. 2: how do they calculate the time difference of different countries? (Iran, Grade 11 Laboratory (2)) | Iran, *Laboratory of Experimental Sciences (2), Grade 11*, p. 97 |
+
+**Acceptance count: taught in 20 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, earth-and-space motions-of-the-earth-moon-and-sun

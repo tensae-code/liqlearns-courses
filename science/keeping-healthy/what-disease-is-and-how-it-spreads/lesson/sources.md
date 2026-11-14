@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya (teacher-guide evidence only)
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya (teacher-guide evidence only), Iran
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -944,3 +944,31 @@ Searchable tags: nepal, curriculum development centre, keeping-healthy/what-dise
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, keeping-healthy what-disease-is-and-how-it-spreads
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Human and Environment):** Title as printed: انسان و محیط زیست ـ پایه یازدهم دوره دوم متوسطه (Human and the Environment, Grade 11, second middle-school cycle), book code 111268. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 12,852,612 bytes — matches the books.json record exactly. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 7, the glossary, PDF p. 129, and closing pages). Twin records: this is the same book as the TSV blob record "Human and Environment, Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope: the whole book is general/integrated environmental science; placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sometimes we must go to the doctor: ways of preventing and treating disease (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 23 |
+| our body, besides healthy food, needs clean air (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 100 |
+| collecting information: other things we must do to care for our eyes (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 58 |
+| Lesson 13, let us stay healthy: from person to person — the doctor tells the person with a cold not to shake hands (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 100 |
+| think: look at the picture; can this environment cause disease to spread? (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 101 |
+| when the microbes win: microbes that succeeded in passing the defence barriers… (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 103 |
+| the spread of plague was also because of the increase of the rats' population; the rat is a carrier of plague disease (Iran, Grade 11 Human and Environment) | Iran, *Human and Environment, Grade 11*, p. 96 |
+
+**Acceptance count: taught in 38 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, keeping-healthy what-disease-is-and-how-it-spreads

@@ -1,6 +1,6 @@
 # Sources — Engineering design process
 
-countries: United States, Saudi Arabia
+countries: United States, Saudi Arabia, Iran
 
 **Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -49,3 +49,21 @@ Placement choice, on the record: the Saudi Arabia placement(s) above filed as "N
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills engineering-design-process
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| scientists and engineers, to meet some needs of human daily life, use science knowledge (placement filed as work-and-heritage/prototyping-making-your-first-rough-version; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 67 |
+| how can a car move without using electrical and heat energy? (placement filed as work-and-heritage/prototyping-making-your-first-rough-version; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 68 |
+| put the car you made on an inclined surface and release it; observations (placement filed as work-and-heritage/prototyping-making-your-first-rough-version; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 69 |
+
+**Acceptance count: taught in 3 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `work-and-heritage/prototyping-making-your-first-rough-version` — iran-placements.md — are stocked into this existing lesson (`science-skills/engineering-design-process`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, science-skills engineering-design-process

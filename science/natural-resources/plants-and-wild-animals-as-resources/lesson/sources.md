@@ -1,6 +1,6 @@
 # Sources — Plants and wild animals as resources
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Jordan
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Jordan, Iran
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -163,3 +163,27 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, natural-resources plants-and-wild-animals-as-resources
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Human and Environment):** Title as printed: انسان و محیط زیست ـ پایه یازدهم دوره دوم متوسطه (Human and the Environment, Grade 11, second middle-school cycle), book code 111268. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 12,852,612 bytes — matches the books.json record exactly. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 7, the glossary, PDF p. 129, and closing pages). Twin records: this is the same book as the TSV blob record "Human and Environment, Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope: the whole book is general/integrated environmental science; placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what uses are made of the sea? group reports (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 48 |
+| iron rock: a kind of rock in nature from which iron is prepared; this rock is found everywhere (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 65 |
+| Ch. 5, from mine to home: in daily life we use different materials to meet needs (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 42 |
+| you learned all materials are obtained from nature; only a few of them… (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 43 |
+| more to know: Iran's National Centre for Genetic and Biological Resources, aiming to preserve species and genetic stores (Iran, Grade 11 Human and Environment) | Iran, *Human and Environment, Grade 11*, p. 107 |
+
+**Acceptance count: taught in 9 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, natural-resources plants-and-wild-animals-as-resources

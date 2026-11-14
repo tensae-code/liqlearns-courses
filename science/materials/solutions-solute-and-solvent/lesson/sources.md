@@ -1,6 +1,6 @@
 # Sources — Solutions — solute and solvent
 
-countries: Bhutan, Sri Lanka, North Macedonia, South Sudan, Papua New Guinea, Jordan
+countries: Bhutan, Sri Lanka, North Macedonia, South Sudan, Papua New Guinea, Jordan, Iran
 
 **Book (Bhutan — Class VII):** *Science, Class VII* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VII. Grade: 7 · Student textbook · PDF pages: 302 (byte size 6,488,273 — matches the books.json record exactly; cover/title page matches the record title; the TSV record for Class VII is the same book, cited once). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 13 chapters and annexures present and read; the contents page misprints Chapter 13's start as p. 325 — the chapter actually begins at printed p. 255. Scope as filed: in Classes VII–VIII, chapters that are purely Biology, Chemistry or Physics receive one chapter-level line each noting coverage by the earlier split-subject waves and are not placed item by item here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
 
@@ -144,3 +144,20 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials solutions-solute-and-solvent
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| activity: three numbered glasses; heat affects how materials dissolve in water (placement filed as NEW LESSON NEEDED — dissolving-solutes-and-solvents; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, pp. 18–19 |
+| predict: does sugar dissolve faster in cold water or hot water? (placement filed as NEW LESSON NEEDED — dissolving-solutes-and-solvents; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 19 |
+
+**Acceptance count: taught in 7 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `dissolving-solutes-and-solvents` — iran-placements.md — are stocked into this existing lesson (`materials/solutions-solute-and-solvent`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, materials solutions-solute-and-solvent

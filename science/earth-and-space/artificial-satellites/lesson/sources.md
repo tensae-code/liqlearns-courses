@@ -1,6 +1,6 @@
 # Sources — Artificial satellites
 
-countries: Sri Lanka, Malaysia, Nepal
+countries: Sri Lanka, Malaysia, Nepal, Iran
 
 **Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
 
@@ -64,3 +64,22 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, earth-and-space/artificial-satellites
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 9):** Title as printed: علوم تجربی ـ پایه نهم، دوره اول متوسطه (Experimental Sciences, Grade 9, first middle-school cycle), book code 906. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 184 pages, 13,821,980 bytes — matches the books.json record exactly. Verdict: COMPLETE (Ch. 1, PDF p. 9, through Ch. 15, the periodic table appendix, PDF p. 182, and sources, PDF p. 184). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 9 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 1, 2 (Chemistry), 4, 5, 8, 9 (Physics) and 11, 12, 13, 14 (Biology) are pure split-subject chapters — one chapter-level line each. Chapters 3, 6, 7, 10 and 15 (Earth, space and environment) are placed; inside Ch. 3 the hydrocarbon/refining items are Chemistry and are not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| images of the first, second and third satellite (comparing satellite photos) (placement filed as earth-and-space/satellites-trip-to-space; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 109 |
+| satellites (neighbouring moons shared between two…) (placement filed as earth-and-space/satellites-trip-to-space; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 9) | Iran, *Experimental Sciences, Grade 9*, p. 125 |
+
+**Acceptance count: taught in 4 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `earth-and-space/satellites-trip-to-space` — iran-placements.md — are stocked into this existing lesson (`earth-and-space/artificial-satellites`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, earth-and-space artificial-satellites

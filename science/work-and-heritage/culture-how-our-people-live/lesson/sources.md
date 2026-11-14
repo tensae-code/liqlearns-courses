@@ -1,6 +1,6 @@
 # Sources — Culture — How Our People Live
 
-countries: Ethiopia, Venezuela, Angola, Indonesia, Colombia
+countries: Ethiopia, Venezuela, Angola, Indonesia, Colombia, Iran
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -94,3 +94,25 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, work
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, work-and-heritage/culture-how-our-people-live
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Human and Environment):** Title as printed: انسان و محیط زیست ـ پایه یازدهم دوره دوم متوسطه (Human and the Environment, Grade 11, second middle-school cycle), book code 111268. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 12,852,612 bytes — matches the books.json record exactly. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 7, the glossary, PDF p. 129, and closing pages). Twin records: this is the same book as the TSV blob record "Human and Environment, Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope: the whole book is general/integrated environmental science; placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2, the story of my notebook: have you thought how our ancestors recorded scientific and cultural works? (placement filed as work-and-heritage/written-records; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 14 |
+| did you know? the Qasabeh qanat of Gonabad in Khorasan Razavi province is one of the wonders… (placement filed as work-and-heritage/written-records; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 69 |
+| the history of tourism in Iran: Iran is one of the countries with a long antiquity in tourism (placement filed as work-and-heritage/written-records; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 11 Human and Environment) | Iran, *Human and Environment, Grade 11*, p. 116 |
+
+**Acceptance count: taught in 6 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `work-and-heritage/written-records` — iran-placements.md — are stocked into this existing lesson (`work-and-heritage/culture-how-our-people-live`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, work-and-heritage culture-how-our-people-live

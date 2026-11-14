@@ -1,6 +1,6 @@
 # Sources — Muscles — how movement happens
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -543,3 +543,22 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body muscles-how-movement-happens
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 5, body movement: Alireza and his classmates exercise — they bend, run, kick the ball (placement filed as the-human-body/muscles-bones-joints-and-protection; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 44 |
+| think: which of these muscles work with our will? the heart's muscles… (voluntary/involuntary) (placement filed as the-human-body/muscles-bones-joints-and-protection; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 47 |
+| activity: two ice-lolly sticks and one of your fingers (splinting a joint) (placement filed as the-human-body/muscles-bones-joints-and-protection; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 48 |
+| build a model that shows the index finger's bone joint and its movement (placement filed as the-human-body/muscles-bones-joints-and-protection; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 49 |
+
+**Acceptance count: taught in 28 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `the-human-body/muscles-bones-joints-and-protection` — iran-placements.md — are stocked into this existing lesson (`the-human-body/muscles-how-movement-happens`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, the-human-body muscles-how-movement-happens

@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen, Vietnam, Nicaragua, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen, Vietnam, Nicaragua, South Sudan, Iraq, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -563,3 +563,27 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, animals animals-what-makes-an-animal
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals are of various shapes and sizes: presenting my chosen animal (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 28 |
+| Lesson 10, inside nests: the charkh-risk bird in our country weaves its nest (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 71 |
+| observe: many ants make nests under the soil (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 72 |
+| the Iranian cheetah (chapter opening on vertebrates) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 103 |
+| activity: touch the back of your neck; do you feel bumps? (vertebrae) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 104 |
+| a vet collected these pictures from inside several animals' bodies (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 105 |
+| so far more than 65,000 kinds of vertebrate animal have been discovered on Earth (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 106 |
+
+**Acceptance count: taught in 24 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, animals animals-what-makes-an-animal

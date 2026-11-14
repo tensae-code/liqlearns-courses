@@ -1,6 +1,6 @@
 # Sources — Motion — four kinds of motion
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia, Papua New Guinea, Jordan
+countries: Ethiopia, Morocco (teacher-guide evidence only), Pakistan (Punjab), Serbia, Moldova, United States, Afghanistan, Venezuela, Kuwait, China, Syria, North Macedonia, Yemen, Saudi Arabia, Nicaragua, Iraq, Colombia, Papua New Guinea, Jordan, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -286,3 +286,19 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, motion-force-and-energy motion-four-kinds-of-motion
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| in the pictures, in which direction is the movement? (placement filed as NEW LESSON NEEDED — direction-of-movement; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 91 |
+
+**Acceptance count: taught in 19 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `direction-of-movement` — iran-placements.md — are stocked into this existing lesson (`motion-force-and-energy/motion-four-kinds-of-motion`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, motion-force-and-energy motion-four-kinds-of-motion

@@ -1,6 +1,6 @@
 # Sources — Working with acids and bases — properties, uses, precautions
 
-countries: Ethiopia, Pakistan (Punjab), Seychelles, Sri Lanka, Bangladesh
+countries: Ethiopia, Pakistan (Punjab), Seychelles, Sri Lanka, Bangladesh, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed. PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -67,3 +67,20 @@ Searchable tags: sri lanka, sri lanka science, working with acids and bases prop
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, materials working-with-acids-and-bases-properties-uses-precautions
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| acids: in making paper pulp, besides hydrogen peroxide, acid is also present (placement filed as NEW LESSON NEEDED — acids-and-bases-in-daily-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 29 |
+| bring a plant (like a rose) to class and test a leaf with tweezers and cotton (indicator test) (placement filed as NEW LESSON NEEDED — acids-and-bases-in-daily-life; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 30 |
+
+**Acceptance count: taught in 5 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `acids-and-bases-in-daily-life` — iran-placements.md — are stocked into this existing lesson (`materials/working-with-acids-and-bases-properties-uses-precautions`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, materials working-with-acids-and-bases-properties-uses-precautions

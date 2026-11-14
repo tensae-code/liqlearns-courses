@@ -1,6 +1,6 @@
 # Sources — Science and technology — how they differ and feed each other
 
-countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Iraq, El Salvador, Colombia, Nepal, Jordan
+countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Iraq, El Salvador, Colombia, Nepal, Jordan, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -458,3 +458,19 @@ Searchable tags: nepal, curriculum development centre, science-skills/science-an
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, science-skills science-and-technology
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| although turning science into technology advanced countries, most technologies have harms beside benefits: with the car's invention, travel became easier and faster… (placement filed as work-and-heritage/technology; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 11 |
+
+**Acceptance count: taught in 22 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `work-and-heritage/technology` — iran-placements.md — are stocked into this existing lesson (`science-skills/science-and-technology`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, science-skills science-and-technology

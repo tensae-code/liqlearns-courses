@@ -1,6 +1,6 @@
 # Sources — Cells — inside a cell: organelles and their jobs
 
-countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt, Ecuador, Cabo Verde, Venezuela, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Nicaragua, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya, Jordan
+countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt, Ecuador, Cabo Verde, Venezuela, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Nicaragua, El Salvador, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Libya, Jordan, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -423,3 +423,22 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body inside-a-cell-organelles-and-their-jobs
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 9, our body (1): Mohammad fell while playing; his hand's skin was scratched and wounded (placement filed as the-human-body/cells-tissues-and-organs; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 86 |
+| activity: the cells inside our mouth separate easily (cheek cells) (placement filed as the-human-body/cells-tissues-and-organs; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 87 |
+| talk in your group about the similarities of the cells on the previous page (placement filed as the-human-body/cells-tissues-and-organs; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 88 |
+| our body's cells need food so they can… (your share in keeping your body healthy) (placement filed as the-human-body/cells-tissues-and-organs; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 90 |
+
+**Acceptance count: taught in 20 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `the-human-body/cells-tissues-and-organs` — iran-placements.md — are stocked into this existing lesson (`the-human-body/inside-a-cell-organelles-and-their-jobs`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, the-human-body inside-a-cell-organelles-and-their-jobs

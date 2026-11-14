@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya, Iran
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -241,3 +241,18 @@ Searchable tags: nepal, curriculum development centre, light/sunlight-keeps-ever
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, light sunlight-keeps-everything-alive
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| science and life: the Sun warms and lights the Earth (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 27 |
+| living things need the Sun's heat and light: plants grow using sunlight (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 28 |
+
+**Acceptance count: taught in 15 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, light sunlight-keeps-everything-alive

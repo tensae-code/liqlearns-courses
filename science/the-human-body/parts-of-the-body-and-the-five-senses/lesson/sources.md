@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Libya, Jordan, Iran
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -1052,3 +1052,35 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body parts-of-the-body-and-the-five-senses
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2, hello, look at me: what would you see, hear and smell in this place? (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 15 |
+| eyes closed: telling foods apart without seeing (taste/smell) (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 16 |
+| look at me well: talking about a picture's details — our senses tell us about things (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 17 |
+| Lesson 11, I grow: which stages of life have you passed? (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, pp. 76–77 |
+| class work: Mohammad shows photos of himself from babyhood to age eight (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 78 |
+| Lesson 6, what's the news? (1): Nastaran runs to hit the volleyball (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 54 |
+| talk: what colour is your eyes' iris? the class's eye colours (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 55 |
+| in the retina there are special cells that receive light and (send it) by the optic nerve (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 56 |
+| our eye sees a body clearly when its image forms on the retina (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 57 |
+| what conclusion do you draw from this activity? what is the ear's role in hearing sound? (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 59 |
+| Lesson 7, what's the news? (2): pupils at camp prepare the food table; dishes washed (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 62 |
+| experiment: four lidded containers numbered (identifying by smell/taste) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 64 |
+| did he identify the taste correctly? table: nose open / nose closed (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 65 |
+| when we smell a flower, what happens inside our nose? smells of various materials… (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 66 |
+| touching: look at the back and palm of your hand; what do you observe? the skin… (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 67 |
+
+**Acceptance count: taught in 39 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, the-human-body parts-of-the-body-and-the-five-senses

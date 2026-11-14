@@ -1,6 +1,6 @@
 # Sources — Loam, clay and sand — the squeeze test
 
-countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -317,3 +317,33 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, soil-and-water loam-clay-and-sand-the-squeeze-test
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 7):** Title as printed: علوم تجربی ـ پایه هفتم، دوره اول متوسطه (Experimental Sciences, Grade 7, first middle-school cycle), book code 706. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 144 pages, 11,795,385 bytes — matches the books.json record exactly. Verdict: COMPLETE (Part 1, PDF p. 7, through Chapter 15 and the source list, PDF p. 144). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 7 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 3, 4 (Chemistry), 8, 9, 10 (Physics) and 11, 12, 13, 14, 15 (Biology) are pure split-subject chapters — one chapter-level line each below; their items are not placed here. The general chapters (1, 2, 5, 6, 7) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Laboratory (2)):** Title as printed: آزمایشگاه علوم تجربی (۲) ـ پایه یازدهم دوره دوم متوسطه (Laboratory of Experimental Sciences 2, Grade 11, second middle-school cycle), book code 111217. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 6,371,864 bytes — matches the books.json record exactly. Verdict: COMPLETE (preface, PDF p. 7, through Ch. 4 inquiry experiments, the nitrogen project, PDF p. 131, and sources). Twin records: this is the same book as the TSV blob record "Laboratory (2), Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Ch. 1 (laboratory work, safety, science study skills) and the general/Earth-science experiments are placed. The remaining experiments are Physics, Chemistry or Biology practicals belonging to the earlier waves — one grouped line per subject below, experiment titles named. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soils are different: must all flower-pot soils be alike? collecting information (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 62 |
+| experiment: through which soil does water pass faster? several kinds of soil (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 63 |
+| make with soil: soft soil like clay (ras) slowly takes water; aprons on and making (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 65 |
+| Lesson 6, our life and water: on the spring nature trip — what happens in each glass; in which glass does the water sink in more? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, pp. 54–55 |
+| activity: clay soil, garden soil and sand listed (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 92 |
+| table: amount of water leaving each soil in 15, 20, 30 minutes (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 95 |
+| soil is made of particles of different sizes; particle size affects soil's properties (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 63 |
+| think: particle size, plant cover and the land's slope also affect (infiltration) (Iran, Grade 7) | Iran, *Experimental Sciences, Grade 7*, p. 64 |
+| Ch. 3, instructional experiments, Exp. 1: determining the porosity percentage of an aquifer — among soil and rock particles there is space… (Iran, Grade 11 Laboratory (2)) | Iran, *Laboratory of Experimental Sciences (2), Grade 11*, p. 46 |
+
+**Acceptance count: taught in 17 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, soil-and-water loam-clay-and-sand-the-squeeze-test

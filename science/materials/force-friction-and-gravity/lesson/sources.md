@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji, Saudi Arabia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -438,3 +438,29 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, materials force-friction-and-gravity
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| moving on snow and ice: walk carefully so as not to slip (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 84 |
+| experiment: on which surface is movement easy? books stacked, a rubber ring pulled (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 85 |
+| Earth's pulling force helps us in many jobs; in what jobs do we use it? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 87 |
+| experiment: which objects does Earth pull toward itself with more force? spring listed (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 88 |
+| wonders of creation: have you thought what would happen if there were no Earth's pull? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 89 |
+| think: suppose on the football field Earth's gravity did not act on the ball (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 55 |
+| friction: in cycling, when we want to reduce speed or stop the bicycle (brakes) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 58 |
+| think: in the experiment done, which force slowed the body's movement and stopped it? (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 59 |
+| experiment: put a big book on the table and try to move it with a rubber band (friction measure) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 60 |
+
+**Acceptance count: taught in 24 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, materials force-friction-and-gravity

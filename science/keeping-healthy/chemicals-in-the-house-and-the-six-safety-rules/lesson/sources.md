@@ -1,6 +1,6 @@
 # Sources — Chemicals in the house and the six safety rules
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Samoa, Laos, Eritrea, Nicaragua, Morocco (teacher-guide evidence only), Colombia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Samoa, Laos, Eritrea, Nicaragua, Morocco (teacher-guide evidence only), Colombia, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -124,3 +124,23 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, keeping-he
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, keeping-healthy/chemicals-in-the-house-and-the-six-safety-rules
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 8):** Title as printed: علوم تجربی ـ پایه هشتم، دوره اول متوسطه (Experimental Sciences, Grade 8, first middle-school cycle), book code 806. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 152 pages, 8,074,583 bytes — matches the books.json record exactly. Verdict: COMPLETE (Ch. 1, PDF p. 7, through Ch. 15 and the source list, PDF p. 152). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 8 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 1, 2, 3 (Chemistry), 9, 10, 14, 15 (Physics) and 4, 5, 6, 7, 8 (Biology) are pure split-subject chapters — one chapter-level line each; the Earth-science chapters (11, 12, 13) are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 11 Human and Environment):** Title as printed: انسان و محیط زیست ـ پایه یازدهم دوره دوم متوسطه (Human and the Environment, Grade 11, second middle-school cycle), book code 111268. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 136 pages, 12,852,612 bytes — matches the books.json record exactly. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 7, the glossary, PDF p. 129, and closing pages). Twin records: this is the same book as the TSV blob record "Human and Environment, Grade 11 (Iran, 1405-1406)" — one distinct book, cited once here. Scope: the whole book is general/integrated environmental science; placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| warning: smelling and tasting some things harms health; do not taste or smell a thing before knowing it (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 13 |
+| collect information: about the uses of asbestos, its dangers… (Iran, Grade 8) | Iran, *Experimental Sciences, Grade 8*, p. 109 |
+| Lesson 2, soil, the bed of life: the hidden war of chemical poisons with people's health — in our agriculture poisons are used… (Iran, Grade 11 Human and Environment) | Iran, *Human and Environment, Grade 11*, p. 30 |
+
+**Acceptance count: taught in 7 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, keeping-healthy chemicals-in-the-house-and-the-six-safety-rules

@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Ecuador, Venezuela, Bhutan, Dominican Republic, Syria, Eritrea, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, El Salvador, Colombia, Papua New Guinea, Jordan
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Ecuador, Venezuela, Bhutan, Dominican Republic, Syria, Eritrea, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, El Salvador, Colombia, Papua New Guinea, Jordan, Iran
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -884,3 +884,36 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, motion-force-and-energy force-what-force-is-and-what-it-does
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pulling a toy car with a string: in which state is movement easier? (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 87 |
+| make a balloon car (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 60 |
+| Lesson 8, force: talk — in each game, what do the children do? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 76 |
+| the children set something moving; in all these games… (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 77 |
+| Mohsen's brother sits on the swing; Mohsen pulls the swing and lets go (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 78 |
+| look at the pictures: in which is a thing only pushed to move, in which only pulled? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, pp. 79–81 |
+| effects of force, talk: in which picture did force stop motion? (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 82 |
+| we can apply force to a body in different directions (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 84 |
+| Lesson 6, sport and force (1): forces are present in all our life; we do not see them but can see their effect (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 46 |
+| talk: the table lists daily activities; in which case… (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 47 |
+| force is the mutual action between two bodies: a person behind a stopped car… (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 49 |
+| think: how many bodies must act on each other for force to appear? (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 50 |
+| experiment: choose a heavy body that does not move easily when pushed (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 51 |
+| Lesson 7, sport and force (2): non-contact forces — arm-wrestling, pushing a car, tug of war as contrasts (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 54 |
+
+**Acceptance count: taught in 37 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, motion-force-and-energy force-what-force-is-and-what-it-does

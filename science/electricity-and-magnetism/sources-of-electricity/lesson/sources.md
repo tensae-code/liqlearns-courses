@@ -1,6 +1,6 @@
 # Sources — Sources of electricity
 
-countries: Bhutan, Malaysia
+countries: Bhutan, Malaysia, Iran
 
 **Book (Bhutan — Class IV):** *Science, Class IV* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class IV. Grade: 4 · Student textbook · PDF pages: 197 (byte size 4,242,462 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 11 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
 
@@ -31,3 +31,19 @@ Searchable tags: sources of electricity, cell, battery, mains supply, generator,
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, electricity-and-magnetism sources-of-electricity
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| batteries: torch, clock, TV remote and some toys work with batteries (placement filed as electricity-and-magnetism/cells-and-batteries; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 38 |
+
+**Acceptance count: taught in 3 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `electricity-and-magnetism/cells-and-batteries` — iran-placements.md — are stocked into this existing lesson (`electricity-and-magnetism/sources-of-electricity`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, electricity-and-magnetism sources-of-electricity

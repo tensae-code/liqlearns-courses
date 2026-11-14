@@ -1,6 +1,6 @@
 # Sources — Making models to show how things work
 
-countries: Nepal, Libya
+countries: Nepal, Libya, Iran
 
 **Book (Nepal — Grade 7, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 7" (Science and Technology, Grade 7) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; writing team named in the preface: Jayprakash Shrivastav, Subas Kharal, Shivraj Paudel, Dambaruprasad Pokharel, Kiran Sharma and Khilanarayan Shrestha; price line blank in the PDF PDF pages: 261 (the last PDF page is blank); printed pages 256. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 256, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
 
@@ -42,3 +42,25 @@ Placement choice, on the record: the Libya placement(s) above filed as science-s
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, science-skills making-models-to-show-how-things-work
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| for making this mould, which of their past experiences did the pupils use? (placement filed as NEW LESSON NEEDED — making-models-in-science; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 97 |
+| build the muscle model with the red thread knotted in hole 1; compare the muscles' shape with your model (placement filed as NEW LESSON NEEDED — making-models-in-science; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, pp. 45–46 |
+| make a sheet: fix the mesh to the frame with a stapler and lift a thin layer of pulp (placement filed as NEW LESSON NEEDED — making-models-in-science; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 22 |
+
+**Acceptance count: taught in 3 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `making-models-in-science` — iran-placements.md — are stocked into this existing lesson (`science-skills/making-models-to-show-how-things-work`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, science-skills making-models-to-show-how-things-work

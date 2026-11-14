@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Libya, Jordan
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Libya, Jordan, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -546,3 +546,20 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, the-human-body the-brain
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| brain and spinal cord: how do you remember your name? how do you solve a problem? (placement filed as the-human-body/brain-and-nervous-system; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 51 |
+| in the picture you see a nerve cell; millions upon millions of nerve cells… (placement filed as the-human-body/brain-and-nervous-system; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 52 |
+
+**Acceptance count: taught in 32 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `the-human-body/brain-and-nervous-system` — iran-placements.md — are stocked into this existing lesson (`the-human-body/the-brain`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, the-human-body the-brain

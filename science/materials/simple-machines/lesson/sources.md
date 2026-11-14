@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -926,3 +926,38 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, materials simple-machines
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 6):** Title as printed: علوم تجربی ـ ششم دبستان (Experimental Sciences, Grade 6 primary), book code 606. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,729,458 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 7, through Lesson 14 on communication, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the wheel makes movement easy and helps in many jobs (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 86 |
+| the tree trunk in the stream blocked the river water to the farm; how did Ali's father… (lever story) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 90 |
+| experiment: a one-metre board, a weight (stone), a support (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 91 |
+| a board, rod or any tool with which, with a support's help, you lift a body, is a lever (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 92 |
+| Lesson 8, work becomes easy (1): Faraz and Navid on the seesaw; Faraz wants to lift Navid, who is heavier (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 72 |
+| move the heavier glass farther from the support; what do you observe? (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 73 |
+| inquiry: the middle of a 50 cm ruler on an eraser (balance beam) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 74 |
+| activity: how can you measure a body's mass with the lever you have? (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 75 |
+| uses of levers: levers have many uses in our daily life (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 76 |
+| Lesson 9, work becomes easy (2): Ali's family visits their house that is being built (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 78 |
+| inquiry: using an inclined plane, the force needed to… (rubber-band length table for moving books) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, pp. 79–80 |
+| think: in each picture, how does the inclined plane help make work easy? (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 81 |
+| compare: take an apple and press a knife into it to cut it (the wedge) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 82 |
+| activity: by doing this activity you realise the importance of screws in making work easy (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 84 |
+| wheel and axle: made of a rod and a wheel that turns with it (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 86 |
+| inquiry, the pulley: install two pulleys on two edges of a table (Iran, Grade 6) | Iran, *Experimental Sciences, Grade 6*, p. 52 |
+
+**Acceptance count: taught in 31 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, materials simple-machines

@@ -1,6 +1,6 @@
 # Sources — The flower and the fruit
 
-countries: Nicaragua, El Salvador, Colombia, Libya
+countries: Nicaragua, El Salvador, Colombia, Libya, Iran
 
 **Book (Nicaragua — Grade 9):** (student book) — Nicaragua. Title as printed: Ciencias Naturales, Noveno Grado, Serie Educativa "Educación Gratuita y de Calidad". Publisher: Ministerio de Educación (MINED), República de Nicaragua. Author: Thelma del Carmen Corea Sánchez; general coordination María Elsa Guillén and Rosalía Ríos Rivas. PDF 304 pages, 88,888,898 bytes. Verdict: COMPLETE (printed pp. 2–296, Units I–XI plus glossary and bibliography). Twin records: TSV release record (mid-size-books-2), TSV blob record and books.json record grade-09/gov/nicaragua/natural-sciences/student/full-year.pdf are the same book; cited once here. Not the same as the Grade 9 Módulo Autoformativo, filed separately below. Scope note: Unit II (cell cycle, meiosis, gametogenesis) is the Biology wave's strand, Unit IX (chemical bonding and nomenclature) the Chemistry wave's strand, and Units X–XI (varied rectilinear motion, Newton's laws, electric-current magnitudes) the Physics wave's strand — chapter-level lines for those, with single placements only where a general-science target slug exists. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nicaragua-placements.md.
 
@@ -79,3 +79,21 @@ Placement choice, on the record: the Libya placement(s) above filed as plants/pa
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, plants the-flower-and-the-fruit
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the rose and the lily: pistil, stamen, petal labelled — the flower's different parts (placement filed as plants/flowers-fruits-and-seeds; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 114 |
+| think: how does the honeybee help pollination? usually after pollination… (placement filed as plants/flowers-fruits-and-seeds; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 115 |
+| seed-bearing plants: the seed grows and brings a new plant into being (placement filed as plants/flowers-fruits-and-seeds; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, p. 116 |
+
+**Acceptance count: taught in 5 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `plants/flowers-fruits-and-seeds` — iran-placements.md — are stocked into this existing lesson (`plants/the-flower-and-the-fruit`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, plants the-flower-and-the-fruit

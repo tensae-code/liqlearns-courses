@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Colombia, Nepal
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Colombia, Nepal, Iran
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -508,3 +508,21 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, plants/plants-give-us-things-and-food
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| in our country Iran many plants grow: oak, palm and pine named (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 39 |
+| uses of plants: the edible-plants festival class (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 40 |
+| Lesson 9, the story of a seed: fruits and seeds are varied; we and animals use plants' fruits and seeds (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 65 |
+
+**Acceptance count: taught in 28 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, plants plants-give-us-things-and-food

@@ -1,6 +1,6 @@
 # Sources — Pesticides — bio and chemical — and using them safely
 
-countries: Nepal
+countries: Nepal, Iran
 
 **Book (Nepal — Grade 9 (revised 2082), student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 9" (Science and Technology, Grade 9) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; preface writing and revision team: Chintamani Panthi, Khilkumar Pradhan, Janakraj Pant, Hariprasad Regmi, Kesharbahadur Khulal, Jayaprakashlal Shrivastav and Khilanarayan Shrestha; Director General Yuvraj Paudel named; price line blank in the PDF PDF pages: 307 (the last PDF page is blank); printed pages 302. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Study) to the Unit 19 (Substances Used in Agriculture) exercises ending at printed p. 302, matching the book's own table of contents of 19 units. This is a different, newer book from the older Grade 9 English Version filed earlier (record np11, revised 2017) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
 
@@ -31,3 +31,19 @@ Placement choice, on the record: this NEW LESSON was built for the Nepal placeme
 Nepal's own way — its Curriculum Development Centre books teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: pesticides bio and chemical and using them safely, nepal, curriculum development centre
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 9):** Title as printed: علوم تجربی ـ پایه نهم، دوره اول متوسطه (Experimental Sciences, Grade 9, first middle-school cycle), book code 906. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 184 pages, 13,821,980 bytes — matches the books.json record exactly. Verdict: COMPLETE (Ch. 1, PDF p. 9, through Ch. 15, the periodic table appendix, PDF p. 182, and sources, PDF p. 184). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 9 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 1, 2 (Chemistry), 4, 5, 8, 9 (Physics) and 11, 12, 13, 14 (Biology) are pure split-subject chapters — one chapter-level line each. Chapters 3, 6, 7, 10 and 15 (Earth, space and environment) are placed; inside Ch. 3 the hydrocarbon/refining items are Chemistry and are not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| figure 10: using insects to destroy pests (biological control) (placement filed as NEW LESSON NEEDED — biological-control-of-pests; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 9) | Iran, *Experimental Sciences, Grade 9*, p. 181 |
+
+**Acceptance count: taught in 2 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `biological-control-of-pests` — iran-placements.md — are stocked into this existing lesson (`soil-and-water/pesticides-bio-and-chemical-and-using-them-safely`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, soil-and-water pesticides-bio-and-chemical-and-using-them-safely

@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Jordan, Iran
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -355,3 +355,20 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, science-skills making-and-using-a-balance
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| build a balance and measure: strong thread, a stick or plastic tube (placement filed as NEW LESSON NEEDED — making-a-simple-balance; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, pp. 26–27 |
+| the instrument you made is a beam balance; put the eraser on one side and add paper clips to the other until it balances (placement filed as NEW LESSON NEEDED — making-a-simple-balance; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 28 |
+
+**Acceptance count: taught in 20 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `making-a-simple-balance` — iran-placements.md — are stocked into this existing lesson (`science-skills/making-and-using-a-balance`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, science-skills making-and-using-a-balance

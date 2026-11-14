@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal, Libya, Iran
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -471,3 +471,25 @@ Searchable tags: nepal, curriculum development centre, keeping-healthy/food-how-
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, keeping-healthy food-how-food-gets-spoiled
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 2):** Title as printed: علوم تجربی دوم دبستان (Experimental Sciences, Grade 2 primary). Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 104 pages, 12,409,106 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 12, through Lesson 14 on bread, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 3):** Title as printed: علوم تجربی ـ سوم دبستان (Experimental Sciences, Grade 3 primary), book code 306. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,820,530 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 8, through the closing science reading on food keeping, PDF p. 128). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 13, after the celebration: a dry place or a damp place for keeping foods? (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, pp. 90–92 |
+| home work: ways of keeping the celebration foods (Iran, Grade 2) | Iran, *Experimental Sciences, Grade 2*, p. 93 |
+| be careful choosing the snacks you eat; some snacks may be bad for you (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 20 |
+| Mehran: my grandfather said from past times until now some foods are kept in salt (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 125 |
+| collecting information: ask the elders what other methods were used in their childhood (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 126 |
+| using salt to keep foods: pictures of some food-keeping methods (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 127 |
+| science reading: we use the refrigerator to keep many foods (Iran, Grade 3) | Iran, *Experimental Sciences, Grade 3*, p. 128 |
+
+**Acceptance count: taught in 24 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, keeping-healthy food-how-food-gets-spoiled

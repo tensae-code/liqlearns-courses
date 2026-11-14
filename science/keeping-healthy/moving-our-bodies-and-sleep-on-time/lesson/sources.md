@@ -1,6 +1,6 @@
 # Sources — Moving our bodies and sleep on time
 
-countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, South Sudan, Colombia, Nepal, Jordan
+countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, South Sudan, Colombia, Nepal, Jordan, Iran
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -405,3 +405,18 @@ Searchable tags: nepal, curriculum development centre, keeping-healthy/moving-ou
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy moving-our-bodies-and-sleep-on-time
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 3, be healthy, be cheerful: sport and play keep us healthy and cheerful (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 19 |
+| right, on-time rest and sleep help our health (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 25 |
+
+**Acceptance count: taught in 19 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, keeping-healthy moving-our-bodies-and-sleep-on-time

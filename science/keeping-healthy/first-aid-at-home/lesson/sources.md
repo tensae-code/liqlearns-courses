@@ -1,6 +1,6 @@
 # Sources — First aid at home
 
-countries: Gabon (teacher-guide evidence only), Eritrea, Bangladesh, Yemen, Nepal (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Eritrea, Bangladesh, Yemen, Nepal (teacher-guide evidence only), Iran
 
 **Book 1:** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file's scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md.
 
@@ -85,3 +85,19 @@ Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED —
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/first-aid-at-home
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| be careful! Farhad fell while playing and his leg hurt so he could not move it well (placement filed as keeping-healthy/first-aid-stock-and-quick-help; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 50 |
+
+**Acceptance count: taught in 4 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `keeping-healthy/first-aid-stock-and-quick-help` — iran-placements.md — are stocked into this existing lesson (`keeping-healthy/first-aid-at-home`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, keeping-healthy first-aid-at-home

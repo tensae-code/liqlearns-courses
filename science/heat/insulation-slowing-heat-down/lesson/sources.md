@@ -1,6 +1,6 @@
 # Sources — Insulation — slowing heat down
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only), United States, Seychelles, Kuwait, China, Yemen, Saudi Arabia, Vietnam, Jordan (teacher-guide evidence only)
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only), United States, Seychelles, Kuwait, China, Yemen, Saudi Arabia, Vietnam, Jordan (teacher-guide evidence only), Iran
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -227,3 +227,21 @@ Jordan is named as teacher-guide evidence only (its Grade 6 Science Teacher's Gu
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, heat insulation-slowing-heat-down
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 1):** Title as printed: علوم تجربی اول دبستان (Experimental Sciences, Grade 1 primary), book code 106. Publisher: Ministry of Education, Organisation for Educational Research and Planning (سازمان پژوهش و برنامه‌ریزی آموزشی), 1405–1406. PDF 104 pages, 12,780,843 bytes. Verdict: COMPLETE (title page PDF p. 2 through Lesson 14, PDF p. 103). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 4):** Title as printed: علوم تجربی ـ چهارم دبستان (Experimental Sciences, Grade 4 primary), book code 406. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 128 pages, 11,414,538 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 13 on habitats, PDF p. 127). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how can we warm our surroundings? in the past people in most of Iran used the korsi (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 76 |
+| let us keep the heat in: comparing two pictures (Iran, Grade 1) | Iran, *Experimental Sciences, Grade 1*, p. 77 |
+| the device you made acts like a flask; a flask keeps things hot or cold longer (bottle activity) (Iran, Grade 4) | Iran, *Experimental Sciences, Grade 4*, pp. 53–54 |
+
+**Acceptance count: taught in 15 countries — Iran added.**
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, heat insulation-slowing-heat-down

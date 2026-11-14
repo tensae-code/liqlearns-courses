@@ -1,6 +1,6 @@
 # Sources — The rock cycle
 
-countries: United States, Samoa, Egypt, Cambodia, Dominican Republic, Syria, Nicaragua, El Salvador, Papua New Guinea (teacher-guide evidence only)
+countries: United States, Samoa, Egypt, Cambodia, Dominican Republic, Syria, Nicaragua, El Salvador, Papua New Guinea (teacher-guide evidence only), Iran
 
 **Book (United States — Utah Grade 7):** *Utah OER Science Textbook – Grade 7* (student book) — United States. Title as printed: "7th Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 64,618,223 bytes (matches repo size), 202 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -160,3 +160,22 @@ Guide evidence: the rows below are cited as the evidence they are. Teacher guide
 Placement choice, on the record: the Papua New Guinea placements filed 1 of these rows as "NEW LESSON NEEDED — the-rock-cycle" — papua-new-guinea-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so Papua New Guinea stocks into it here, with the original slug(s) recorded in this note, instead of a duplicate lesson being built.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Iran growth (2026-11-14, General Science expansion)
+
+**Book (Iran — Grade 5):** Title as printed: علوم تجربی ـ پنجم دبستان (Experimental Sciences, Grade 5 primary), book code 506. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 112 pages, 7,592,372 bytes. Verdict: COMPLETE (Lesson 1, PDF p. 9, through Lesson 12, from root to leaf, PDF p. 112). Twin record: TSV blob record only; no books.json twin. Cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+**Book (Iran — Grade 9):** Title as printed: علوم تجربی ـ پایه نهم، دوره اول متوسطه (Experimental Sciences, Grade 9, first middle-school cycle), book code 906. Publisher: Ministry of Education, Organisation for Educational Research and Planning, 1405–1406. PDF 184 pages, 13,821,980 bytes — matches the books.json record exactly. Verdict: COMPLETE (Ch. 1, PDF p. 9, through Ch. 15, the periodic table appendix, PDF p. 182, and sources, PDF p. 184). Twin records: this is the same book as the TSV blob record "Experimental Science, Grade 9 (Iran, 1405-1406)" — one distinct book, cited once here. Scope applied: Chapters 1, 2 (Chemistry), 4, 5, 8, 9 (Physics) and 11, 12, 13, 14 (Biology) are pure split-subject chapters — one chapter-level line each. Chapters 3, 6, 7, 10 and 15 (Earth, space and environment) are placed; inside Ch. 3 the hydrocarbon/refining items are Chemistry and are not placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/iran-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| talk: the picture shows a sample of Earth's sedimentary layers (placement filed as earth-and-space/the-rock-cycle-and-geological-events; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 5) | Iran, *Experimental Sciences, Grade 5*, p. 40 |
+| Ch. 3, Earth in trust: other natural cycles exist besides the rock cycle you met (placement filed as earth-and-space/the-rock-cycle-and-geological-events; that slug does not exist in the live course, so it is stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Iran, Grade 9) | Iran, *Experimental Sciences, Grade 9*, p. 34 |
+
+**Acceptance count: taught in 9 countries — Iran added.**
+
+Placement choice, on the record: the Iran placement(s) above filed as `earth-and-space/the-rock-cycle-and-geological-events` — iran-placements.md — are stocked into this existing lesson (`earth-and-space/the-rock-cycle`), which already covers that thing as its own lesson (checked the live repo at merge time), so no second lesson was built for them; the original slug is recorded in each row above.
+
+Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: iran, iran science, ministry of education iran, earth-and-space the-rock-cycle
