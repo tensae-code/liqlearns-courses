@@ -1,6 +1,6 @@
 # Sources — Evolution and natural selection
 
-countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic
+countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait
 
 **Book 1:** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file's scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md.
 
@@ -43,3 +43,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, animals 
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, evolution and natural selection
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 6, Term 2):** Title as printed: العلوم — الصف السادس — الفصل الدراسي الثاني (Science, Grade 6, Second Term), intermediate stage (المرحلة المتوسطة). The PDF binds BOTH sections: Section 1 (marked 1/2) and Section 2 (marked 2/2), each with its own title page, contents and continuous printed pagination. Bilingual Arabic/English unit, chapter and lesson titles, printed in the book. Grade 6, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 207, continuous printed pagination. Bytes: 85,460,520 — exactly the books.json `size_bytes`. Read from the record's own Drive download link (GitHub tree route failed); the file is STAGED, not deleted (see reading log). Records: books.json only, `grade-06/gov/kuwait/science/student/term-2.pdf`. (The TSV set has no Grade 6 Term 2 release record.) Verdict: COMPLETE — Units 5–8, both STEAM inquiry-project sections and all assessments present. Structure: Unit 5 Life Science (genetics, the ecosystem); Unit 6 Matter and Energy – Chemical Sciences (classification of materials); Unit 7 Matter and Energy – Physical Sciences (static electricity, electricity and magnetism); Unit 8 Earth Science (weather and climate). Tally: 5 to existing lessons, 3 NEW LESSON NEEDED (8 placements). Split-subject chapters are listed unplaced below the placements. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural selection and artificial selection (Kuwait, Grade 6, Term 2) — filed as NEW LESSON NEEDED — natural-and-artificial-selection; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 6, Term 2 (Student Book)*, printed p. 36 |
+
+**Acceptance count: taught in 3 countries (Gabon, Venezuela, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, evolution and natural selection

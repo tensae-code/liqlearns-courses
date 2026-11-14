@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -189,3 +189,24 @@ Searchable tags: angola, ciências da natureza 5, grade 5
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, heat and how it travels
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 2):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الثاني – القسم الأول (Science, Grade 1, Second Term – Section 1). Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 65,714,706 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 (القسم الثاني) is not in the file. What is missing: the whole second section of the term book. This is a library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter Around Us, Ch.2 Energy Around Us, Ch.3 Force, Motion and the Magnet. Tally: 11 to existing lessons, 1 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+**Book (Kuwait — Grade 3, Term 2):** Title as printed: العلوم — الصف الثالث — الفصل الدراسي الثاني – القسم الأول (Science, Grade 3, Second Term – Section 1). Grade 3, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 70,207,063 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-03/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Properties, Ch.2 Energy and Its Transformations, Ch.3 Force, Motion and the Magnet. Tally: 10 to existing lessons, 1 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+**Book (Kuwait — Grade 5, Term 2):** Title as printed: العلوم — الصف الخامس — الفصل الدراسي الثاني – القسم الأول (Science, Grade 5, Second Term – Section 1). Grade 5, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 108. Bytes: 40,724,725 — exactly the books.json `size_bytes`. Read from the record's own Drive download link (GitHub tree route failed); the file is STAGED, not deleted (see reading log). Records: books.json only, `grade-05/gov/kuwait/science/student/term-2.pdf`. Verdict: PARTIAL — Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 A Journey to the Secrets of Matter (heat and the atom), Ch.2 A Journey in the World of Electrical Energy, Ch.3 A Journey with the Lever in the World of Force and Motion. Tally: 11 to existing lessons, 1 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what the sources of heat are (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 48 |
+| how heat is transferred (Kuwait, Grade 3, Term 2) | Kuwait, *Science, Grade 3, Term 2 (Student Book)*, printed p. 22 |
+| heat: what it is (Kuwait, Grade 5, Term 2) | Kuwait, *Science, Grade 5, Term 2 (Student Book)*, printed p. 18 |
+| the ways heat is transferred (Kuwait, Grade 5, Term 2) | Kuwait, *Science, Grade 5, Term 2 (Student Book)*, printed p. 25 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Australia, India, United States, Cuba, Egypt, Cambodia, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, heat and how it travels

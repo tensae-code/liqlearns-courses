@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -229,3 +229,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, plants p
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 6, estudo do meio 1, estudo do meio 2, grade 1, grade 2, grade 6
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 1):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الأول (Science, Grade 1, First Term). The PDF binds BOTH term sections in one file: القسم الأول (Section 1, marked 1/1) and القسم الثاني (Section 2, marked 2/1), each with its own title page, contents and pagination. Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. PDF pages: 152. Bytes: 47,305,295 — exactly the books.json `size_bytes`, so the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — contents, all lessons, end-of-chapter questions, references and the end science-inquiry project all present in both sections. Structure: Unit 1 علوم الحياة (Life Sciences) — Ch.1 Plants, Ch.2 Animals, Ch.3 Natural Habitats; Unit 2 جسم الإنسان (The Human Body) — Ch.1 The Five Senses; then a guided Science Inquiry Project. Tally: 12 to existing lessons, 8 NEW LESSON NEEDED (20 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| which parts of plants we eat (Kuwait, Grade 1, Term 1) | Kuwait, *Science, Grade 1, Term 1 (Student Book)*, printed p. 33 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, plants give us things and food

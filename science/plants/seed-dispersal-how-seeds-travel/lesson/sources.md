@@ -1,6 +1,6 @@
 # Sources — Seed dispersal — how seeds travel
 
-countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only)
+countries: Albania (teacher-guide evidence only), Guyana, United States, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -70,3 +70,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 2 countries (Guyana, United States).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, plants seed-dispersal-how-seeds-travel
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 2, Term 1):** Title as printed: العلوم — الصف الثاني — الفصل الدراسي الأول. Like Grade 1, the PDF binds Section 1 (1/1) and Section 2 (2/1), each with its own contents and pagination. Grade 2, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 144. Bytes: 20,556,226 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-02/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — all lessons, chapter questions, references and the inquiry project present in both sections. Structure: Unit 1 Life Sciences — Ch.1 Plants (the job of each part), Ch.2 Animals (classification), Ch.3 Living Things in Natural Habitats; Unit 2 The Human Body — Ch.1 Health of the Human Body; then the Science Inquiry Project. Tally: 11 to existing lessons, 3 NEW LESSON NEEDED (14 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how seeds are spread (Kuwait, Grade 2, Term 1) — filed as NEW LESSON NEEDED — seed-dispersal-how-seeds-travel; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 2, Term 1 (Student Book)*, printed p. 34 |
+
+**Acceptance count: taught in 3 countries (Guyana, United States, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, seed dispersal how seeds travel

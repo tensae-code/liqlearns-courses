@@ -1,6 +1,6 @@
 # Sources — Plate tectonics
 
-countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic
+countries: Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -94,3 +94,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, sn 6as-m, svt
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, plate tectonics
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 8, Term 2):** Title as printed: العلوم — الصف الثامن — الفصل الدراسي الثاني (Science, Grade 8, Second Term), intermediate stage. Bilingual titles. Grade 8, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 215, continuous printed pagination. Bytes: 59,313,074 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-08/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8 and the STEAM inquiry-project sections present. Structure: Unit 5 Life Science (circulatory system, excretion); Unit 6 Matter and Energy – Physical Sciences (light); Unit 7 Matter and Energy – Chemical Sciences (chemical reaction); Unit 8 Earth Science (internal processes shaping Earth's surface). Tally: 4 to existing lessons, 7 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the plate tectonics theory (Kuwait, Grade 8, Term 2) — filed as NEW LESSON NEEDED — plate-tectonics-theory; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 8, Term 2 (Student Book)*, printed p. 163 |
+
+**Acceptance count: taught in 8 countries (Mexico, Australia, Italy, Cambodia, Ecuador, Mauritania, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, plate tectonics

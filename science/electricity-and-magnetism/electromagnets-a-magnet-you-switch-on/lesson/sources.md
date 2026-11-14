@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, Barbados (curriculum evidence only), India, Pakistan (Punjab), Venezuela, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -142,3 +142,17 @@ Searchable tags: pakistan, punjab, general science, electromagnets-a-magnet-you-
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, electricity-and-magnetism electromagnets-a-magnet-you-switch-on
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 3, Term 2):** Title as printed: العلوم — الصف الثالث — الفصل الدراسي الثاني – القسم الأول (Science, Grade 3, Second Term – Section 1). Grade 3, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 70,207,063 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-03/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Properties, Ch.2 Energy and Its Transformations, Ch.3 Force, Motion and the Magnet. Tally: 10 to existing lessons, 1 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what an electromagnet is (the crane electromagnet that stays useful because it can be switched) (Kuwait, Grade 3, Term 2) | Kuwait, *Science, Grade 3, Term 2 (Student Book)*, printed p. 69 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia, India, Pakistan (Punjab), Venezuela, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, electromagnets a magnet you switch on

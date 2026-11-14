@@ -1,6 +1,6 @@
 # Sources — Energy — kinetic and potential energy
 
-countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic
+countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -151,3 +151,17 @@ Searchable tags: bhutan, bhutan science, science class vi
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, energy kinetic and potential energy
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 3, Term 2):** Title as printed: العلوم — الصف الثالث — الفصل الدراسي الثاني – القسم الأول (Science, Grade 3, Second Term – Section 1). Grade 3, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 70,207,063 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-03/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Properties, Ch.2 Energy and Its Transformations, Ch.3 Force, Motion and the Magnet. Tally: 10 to existing lessons, 1 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the kinds of energy (Kuwait, Grade 3, Term 2) | Kuwait, *Science, Grade 3, Term 2 (Student Book)*, printed p. 39 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Argentina, Iraq, Costa Rica, India, United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, energy kinetic and potential energy

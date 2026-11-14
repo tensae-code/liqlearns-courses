@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -574,3 +574,24 @@ Searchable tags: bhutan, bhutan science, science class iv, science class v
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, solids liquids and gases
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 2):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الثاني – القسم الأول (Science, Grade 1, Second Term – Section 1). Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 65,714,706 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 (القسم الثاني) is not in the file. What is missing: the whole second section of the term book. This is a library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter Around Us, Ch.2 Energy Around Us, Ch.3 Force, Motion and the Magnet. Tally: 11 to existing lessons, 1 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+**Book (Kuwait — Grade 2, Term 2):** Title as printed: العلوم — الصف الثاني — الفصل الدراسي الثاني – القسم الأول (Science, Grade 2, Second Term – Section 1). Grade 2, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 36,304,800 — exactly the books.json `size_bytes`. The file is NOT in the GitHub tree/release routes (grab.py tree failed): it was read from the record's own Drive download link and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-02/gov/kuwait/science/student/term-2.pdf`. (The TSV set has no Grade 2 Term 2 release record.) Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 2. Section 2 of Term 2 (القسم الثاني) is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Changes, Ch.2 Energy Around Us (the light chapter). Tally: 6 to existing lessons, 2 NEW LESSON NEEDED (8 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what the states of matter are (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 23 |
+| matter in the solid state (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 27 |
+| matter in the liquid state (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 31 |
+| matter in the gas state (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 35 |
+| how matter changes when it is heated (melting and the other heat-driven changes of state) (Kuwait, Grade 2, Term 2) | Kuwait, *Science, Grade 2, Term 2 (Student Book)*, printed p. 33 |
+| how matter changes when it is cooled (freezing and the other cooling-driven changes of state) (Kuwait, Grade 2, Term 2) | Kuwait, *Science, Grade 2, Term 2 (Student Book)*, printed p. 39 |
+
+**Acceptance count: taught in 30 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, solids liquids and gases

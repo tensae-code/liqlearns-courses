@@ -1,6 +1,6 @@
 # Sources — How animals breathe — lungs, gills, skin and surface
 
-countries: Bulgaria, Mauritania
+countries: Bulgaria, Mauritania, Kuwait
 
 **Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
 
@@ -32,3 +32,17 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 1):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الأول (Science, Grade 1, First Term). The PDF binds BOTH term sections in one file: القسم الأول (Section 1, marked 1/1) and القسم الثاني (Section 2, marked 2/1), each with its own title page, contents and pagination. Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. PDF pages: 152. Bytes: 47,305,295 — exactly the books.json `size_bytes`, so the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — contents, all lessons, end-of-chapter questions, references and the end science-inquiry project all present in both sections. Structure: Unit 1 علوم الحياة (Life Sciences) — Ch.1 Plants, Ch.2 Animals, Ch.3 Natural Habitats; Unit 2 جسم الإنسان (The Human Body) — Ch.1 The Five Senses; then a guided Science Inquiry Project. Tally: 12 to existing lessons, 8 NEW LESSON NEEDED (20 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals breathe (Kuwait, Grade 1, Term 1) — filed as NEW LESSON NEEDED — how-animals-breathe; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 1, Term 1 (Student Book)*, printed p. 55 |
+
+**Acceptance count: taught in 3 countries (Bulgaria, Mauritania, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, how animals breathe lungs gills skin and surface

@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -88,3 +88,17 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, sn 5as-m, svt
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 8, Term 2):** Title as printed: العلوم — الصف الثامن — الفصل الدراسي الثاني (Science, Grade 8, Second Term), intermediate stage. Bilingual titles. Grade 8, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 215, continuous printed pagination. Bytes: 59,313,074 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-08/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8 and the STEAM inquiry-project sections present. Structure: Unit 5 Life Science (circulatory system, excretion); Unit 6 Matter and Energy – Physical Sciences (light); Unit 7 Matter and Energy – Chemical Sciences (chemical reaction); Unit 8 Earth Science (internal processes shaping Earth's surface). Tally: 4 to existing lessons, 7 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| earthquakes, volcanoes and the formation of mountains (Kuwait, Grade 8, Term 2) — filed as NEW LESSON NEEDED — earthquakes-volcanoes-and-mountain-formation; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 8, Term 2 (Student Book)*, printed p. 171 |
+
+**Acceptance count: taught in 4 countries (Australia, Cambodia, Mauritania, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, volcanoes and earthquakes

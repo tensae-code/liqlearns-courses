@@ -1,6 +1,6 @@
 # Sources — Cells — respiration: releasing energy from food
 
-countries: Ethiopia, Afghanistan, Venezuela
+countries: Ethiopia, Afghanistan, Venezuela, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -47,3 +47,20 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body respiration-releasing-energy-from-food
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 5, Term 1):** Title as printed: العلوم — الصف الخامس — الفصل الدراسي الأول. The PDF binds Section 1 and Section 2, each with its own contents and pagination (Section 2 pages are cited as "Section 2 printed p."). Grade 5, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 192. Bytes: 15,705,753 — exactly the books.json `size_bytes`. This book is NOT in the GitHub tree or any release route tried (Contents API 404; asset absent from releases mid-size-books, -1, -3 to -7): it was read from the record's own Drive download link in the staging books.json and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-05/gov/kuwait/science/student/term-1.pdf`. Verdict: COMPLETE. Structure: Unit 1 Life Sciences — Ch.1 A Journey into the Depths of Life (viruses, the five kingdoms), Ch.2 A Journey in the Plant Kingdom, Ch.3 A Journey to the Heart of Nature (adaptation, ecosystems); Unit 2 The Human Body — Ch.1 A Journey to the Wonders of the Human Body; then the Science Inquiry Project. Tally: 13 to existing lessons, 4 NEW LESSON NEEDED (17 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+**Book (Kuwait — Grade 8, Term 1):** Title as printed: العلوم — الصف الثامن — الفصل الدراسي الأول (Science, Grade 8, First Term), intermediate stage. Bilingual titles. Grade 8, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027; ISBN 978-9921-33-141-7 (printed in the book). PDF pages: 239, continuous printed pagination. Bytes: 91,576,235 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-08/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — four units and both STEAM inquiry-project sections present. Structure: Unit 1 Life Science (balanced food, digestive and respiratory systems); Unit 2 Earth and Space (natural processes shaping Earth's surface); Unit 3 Matter and Energy – Physical Sciences (waves, sound, electromagnetic spectrum); Unit 4 Matter and Energy – Chemical Sciences (periodic table, chemical bonds). Tally: 8 to existing lessons, 3 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the cellular respiration process (Kuwait, Grade 5, Term 1) | Kuwait, *Science, Grade 5, Term 1 (Student Book)*, printed p. 51 |
+| obtaining energy (releasing the energy in food) (Kuwait, Grade 8, Term 1) | Kuwait, *Science, Grade 8, Term 1 (Student Book)*, printed p. 69 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Venezuela, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, respiration releasing energy from food

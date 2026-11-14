@@ -1,6 +1,6 @@
 # Sources — Plants — seed plants: gymnosperms and angiosperms
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Seychelles, Ecuador
+countries: Ethiopia, Iceland (teacher-guide evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Seychelles, Ecuador, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -95,3 +95,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 4 countries (Ethiopia, Pakistan (Punjab), Samoa, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, seed-plants-gymnosperms-and-angiosperms
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 5, Term 1):** Title as printed: العلوم — الصف الخامس — الفصل الدراسي الأول. The PDF binds Section 1 and Section 2, each with its own contents and pagination (Section 2 pages are cited as "Section 2 printed p."). Grade 5, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 192. Bytes: 15,705,753 — exactly the books.json `size_bytes`. This book is NOT in the GitHub tree or any release route tried (Contents API 404; asset absent from releases mid-size-books, -1, -3 to -7): it was read from the record's own Drive download link in the staging books.json and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-05/gov/kuwait/science/student/term-1.pdf`. Verdict: COMPLETE. Structure: Unit 1 Life Sciences — Ch.1 A Journey into the Depths of Life (viruses, the five kingdoms), Ch.2 A Journey in the Plant Kingdom, Ch.3 A Journey to the Heart of Nature (adaptation, ecosystems); Unit 2 The Human Body — Ch.1 A Journey to the Wonders of the Human Body; then the Science Inquiry Project. Tally: 13 to existing lessons, 4 NEW LESSON NEEDED (17 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the covered-seed plants (angiosperms) (Kuwait, Grade 5, Term 1) | Kuwait, *Science, Grade 5, Term 1 (Student Book)*, printed p. 37 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Pakistan (Punjab), Samoa, Ecuador, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, seed plants gymnosperms and angiosperms

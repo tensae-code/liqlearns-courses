@@ -1,6 +1,6 @@
 # Sources — How animals reproduce
 
-countries: Cambodia, Mauritania
+countries: Cambodia, Mauritania, Kuwait
 
 **Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
 
@@ -32,3 +32,17 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 1):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الأول (Science, Grade 1, First Term). The PDF binds BOTH term sections in one file: القسم الأول (Section 1, marked 1/1) and القسم الثاني (Section 2, marked 2/1), each with its own title page, contents and pagination. Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. PDF pages: 152. Bytes: 47,305,295 — exactly the books.json `size_bytes`, so the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — contents, all lessons, end-of-chapter questions, references and the end science-inquiry project all present in both sections. Structure: Unit 1 علوم الحياة (Life Sciences) — Ch.1 Plants, Ch.2 Animals, Ch.3 Natural Habitats; Unit 2 جسم الإنسان (The Human Body) — Ch.1 The Five Senses; then a guided Science Inquiry Project. Tally: 12 to existing lessons, 8 NEW LESSON NEEDED (20 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals reproduce: eggs and live birth (Kuwait, Grade 1, Term 1) — filed as NEW LESSON NEEDED — how-animals-reproduce-eggs-and-live-young; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 1, Term 1 (Student Book)*, printed p. 59 |
+
+**Acceptance count: taught in 3 countries (Cambodia, Mauritania, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, how animals reproduce

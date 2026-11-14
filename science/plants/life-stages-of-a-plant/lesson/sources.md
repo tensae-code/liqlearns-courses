@@ -1,6 +1,6 @@
 # Sources — Life stages of a plant
 
-countries: Djibouti (teacher-guide evidence only), Mongolia
+countries: Djibouti (teacher-guide evidence only), Mongolia, Kuwait
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -28,3 +28,17 @@ Searchable tags: life stages of a plant, plant life cycle, human life stages, dj
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, life stages of a plant, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 2, Term 1):** Title as printed: العلوم — الصف الثاني — الفصل الدراسي الأول. Like Grade 1, the PDF binds Section 1 (1/1) and Section 2 (2/1), each with its own contents and pagination. Grade 2, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 144. Bytes: 20,556,226 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-02/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — all lessons, chapter questions, references and the inquiry project present in both sections. Structure: Unit 1 Life Sciences — Ch.1 Plants (the job of each part), Ch.2 Animals (classification), Ch.3 Living Things in Natural Habitats; Unit 2 The Human Body — Ch.1 Health of the Human Body; then the Science Inquiry Project. Tally: 11 to existing lessons, 3 NEW LESSON NEEDED (14 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the stages of a plant's growth (Kuwait, Grade 2, Term 1) — filed as NEW LESSON NEEDED — plant-growth-stages-from-seed-to-seed; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 2, Term 1 (Student Book)*, printed p. 38 |
+
+**Acceptance count: taught in 2 countries (Mongolia, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, life stages of a plant

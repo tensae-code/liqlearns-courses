@@ -1,6 +1,6 @@
 # Sources — Ones that come back and ones that finish
 
-countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola
+countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -177,3 +177,20 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, grade 5
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 3, Term 2):** Title as printed: العلوم — الصف الثالث — الفصل الدراسي الثاني – القسم الأول (Science, Grade 3, Second Term – Section 1). Grade 3, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 70,207,063 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-03/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Properties, Ch.2 Energy and Its Transformations, Ch.3 Force, Motion and the Magnet. Tally: 10 to existing lessons, 1 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+**Book (Kuwait — Grade 7, Term 2):** Title as printed: العلوم — الصف السابع — الفصل الدراسي الثاني (Science, Grade 7, Second Term), intermediate stage. Bilingual titles. Grade 7, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 227, continuous printed pagination. Bytes: 98,503,225 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-07/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8, both STEAM inquiry-project sections present. Structure: Unit 5 Life Science (plant and animal kingdoms); Unit 6 Matter and Energy – Chemical Sciences (acids and bases); Unit 7 Matter and Energy – Physical Sciences (work, energy, simple machines); Unit 8 Earth Science (natural resources). Tally: 8 to existing lessons, 2 NEW LESSON NEEDED (10 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| renewable and non-renewable energy (Kuwait, Grade 3, Term 2) | Kuwait, *Science, Grade 3, Term 2 (Student Book)*, printed p. 50 |
+| renewable and non-renewable natural resources (Kuwait, Grade 7, Term 2) | Kuwait, *Science, Grade 7, Term 2 (Student Book)*, printed p. 174 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Samoa, Egypt, Ecuador, Angola, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, ones that come back and ones that finish

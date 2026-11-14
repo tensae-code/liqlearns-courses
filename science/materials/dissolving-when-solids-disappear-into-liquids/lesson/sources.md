@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -120,3 +120,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Placement choice, on the record: the Sudan placement(s) above filed as "NEW LESSON NEEDED — dissolving-when-solids-disappear-into-liquids" stock into this existing lesson, which already covers that thing as its own lesson (built earlier in this wave / earlier in the course) — checked the live repo at merge time; no second lesson is built, and the original slug is recorded in each row above.
 **Acceptance count: taught in 5 countries (Serbia, Mongolia, Cuba, Afghanistan, Sudan).**
 Searchable tags: sudan, sudan grade 6, materials/dissolving-when-solids-disappear-into-liquids
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 4, Term 2):** Title as printed: العلوم — الصف الرابع — الفصل الدراسي الثاني – القسم الأول (Science, Grade 4, Second Term – Section 1). Grade 4, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 100. Bytes: 43,535,758 — exactly the books.json `size_bytes`. Read from the record's own Drive download link (GitHub tree route failed); the file is STAGED, not deleted (see reading log). Records: books.json only, `grade-04/gov/kuwait/science/student/term-2.pdf`. (The TSV set has no Grade 4 Term 2 release record.) Verdict: PARTIAL — Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Changes, Ch.2 Energy Around Us (sound), Ch.3 Force and Motion (simple machines). Tally: 9 to existing lessons, 3 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how we make dissolving faster (Kuwait, Grade 4, Term 2) — filed as NEW LESSON NEEDED — dissolving-and-how-to-speed-it-up; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 4, Term 2 (Student Book)*, printed p. 35 |
+
+**Acceptance count: taught in 6 countries (Serbia, Mongolia, Cuba, Afghanistan, Sudan, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, dissolving when solids disappear into liquids

@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -409,3 +409,20 @@ Searchable tags: angola, ciências da natureza 5, estudo do meio 2, estudo do me
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, what disease is and how it spreads
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 3, Term 1):** Title as printed: العلوم — الصف الثالث — الفصل الدراسي الأول. The PDF binds Section 1 and Section 2, each with its own contents and pagination. Grade 3, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 144. Bytes: 30,491,724 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-03/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE. Structure: Unit 1 Life Sciences — Ch.1 Plants (flower, pollination, fertilisation), Ch.2 Animals (vertebrates, insect life cycle), Ch.3 Ecosystems (adaptation, energy); Unit 2 The Human Body — Ch.1 Body Systems; then the Science Inquiry Project. Tally: 11 to existing lessons, 4 NEW LESSON NEEDED (15 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+**Book (Kuwait — Grade 9, Term 2):** Title as printed: العلوم — الصف التاسع — الفصل الدراسي الثاني (Science, Grade 9, Second Term), intermediate stage. Bilingual titles. Grade 9, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 219, continuous printed pagination. Bytes: 73,460,938 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-09/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8 and the STEAM inquiry-project sections present. Structure: Unit 5 Life Science (nervous, skeletal, muscular and immune systems); Unit 6 Earth Science (space exploration); Unit 7 Matter and Energy – Chemical Sciences (types of chemical reactions); Unit 8 Matter and Energy – Physical Sciences (heat). Tally: 7 to existing lessons, 2 NEW LESSON NEEDED (9 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how we protect ourselves from diseases (Kuwait, Grade 3, Term 1) | Kuwait, *Science, Grade 3, Term 1 (Student Book)*, Section 2 printed p. 50 |
+| health and illness (the immune-system chapter's opening lesson) (Kuwait, Grade 9, Term 2) | Kuwait, *Science, Grade 9, Term 2 (Student Book)*, printed p. 74 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, what disease is and how it spreads

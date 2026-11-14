@@ -1,6 +1,6 @@
 # Sources — How animals move — swim, walk, fly
 
-countries: Sudan, Mauritania
+countries: Sudan, Mauritania, Kuwait
 
 **Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
 
@@ -29,3 +29,17 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 1):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الأول (Science, Grade 1, First Term). The PDF binds BOTH term sections in one file: القسم الأول (Section 1, marked 1/1) and القسم الثاني (Section 2, marked 2/1), each with its own title page, contents and pagination. Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. PDF pages: 152. Bytes: 47,305,295 — exactly the books.json `size_bytes`, so the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — contents, all lessons, end-of-chapter questions, references and the end science-inquiry project all present in both sections. Structure: Unit 1 علوم الحياة (Life Sciences) — Ch.1 Plants, Ch.2 Animals, Ch.3 Natural Habitats; Unit 2 جسم الإنسان (The Human Body) — Ch.1 The Five Senses; then a guided Science Inquiry Project. Tally: 12 to existing lessons, 8 NEW LESSON NEEDED (20 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals move (walking, flying, swimming, crawling) (Kuwait, Grade 1, Term 1) — filed as NEW LESSON NEEDED — how-animals-move; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 1, Term 1 (Student Book)*, printed p. 42 |
+
+**Acceptance count: taught in 3 countries (Sudan, Mauritania, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, how animals move swim walk fly

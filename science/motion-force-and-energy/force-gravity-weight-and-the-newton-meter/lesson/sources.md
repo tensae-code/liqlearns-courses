@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), India, Pakistan (Punjab), Egypt, Afghanistan, Venezuela, Bhutan, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -319,3 +319,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, motion-f
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class vi
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 2):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الثاني – القسم الأول (Science, Grade 1, Second Term – Section 1). Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 65,714,706 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 (القسم الثاني) is not in the file. What is missing: the whole second section of the term book. This is a library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter Around Us, Ch.2 Energy Around Us, Ch.3 Force, Motion and the Magnet. Tally: 11 to existing lessons, 1 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what gravity is: the unseen force we feel that keeps us on the ground (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 74 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Armenia, Kazakhstan, India, Pakistan (Punjab, Egypt, Afghanistan, Venezuela, Bhutan, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, force gravity weight and the newton meter

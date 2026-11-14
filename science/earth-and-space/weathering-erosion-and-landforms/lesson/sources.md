@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -80,3 +80,17 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, earth-and-space weathering-erosion-and-landforms
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 8, Term 1):** Title as printed: العلوم — الصف الثامن — الفصل الدراسي الأول (Science, Grade 8, First Term), intermediate stage. Bilingual titles. Grade 8, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027; ISBN 978-9921-33-141-7 (printed in the book). PDF pages: 239, continuous printed pagination. Bytes: 91,576,235 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-08/gov/kuwait/science/student/term-1.pdf` — same book, cited once here. Verdict: COMPLETE — four units and both STEAM inquiry-project sections present. Structure: Unit 1 Life Science (balanced food, digestive and respiratory systems); Unit 2 Earth and Space (natural processes shaping Earth's surface); Unit 3 Matter and Energy – Physical Sciences (waves, sound, electromagnetic spectrum); Unit 4 Matter and Energy – Chemical Sciences (periodic table, chemical bonds). Tally: 8 to existing lessons, 3 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| geological features (Kuwait, Grade 8, Term 1) — filed as NEW LESSON NEEDED — geological-features-of-the-earths-surface; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 8, Term 1 (Student Book)*, printed p. 96 |
+
+**Acceptance count: taught in 6 countries (Mexico, Italy, Costa Rica, Cuba, Egypt, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, weathering erosion and landforms

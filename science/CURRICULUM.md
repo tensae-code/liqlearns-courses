@@ -436,6 +436,14 @@ solar-system comparison lessons.
 
 36. **Tissues — plant and animal** (`the-human-body/tissues-plant-and-animal`) — a tissue defined and classified: a group of like cells joined to do one job, sorted into plant tissues and animal tissues, with nervous and reticular connective tissue named among the animal tissues (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed pp. 28, 32; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
 
+37. **The sense of smell** (`the-human-body/the-sense-of-smell`) — how the sense of smell helps us know things we cannot see, and keeping the nose safe (Kuwait, Grade 1, Term 1 — *Science, Grade 1, Term 1 (Student Book)*, Section 2 printed p. 43; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+38. **The sense of touch** (`the-human-body/the-sense-of-touch`) — how we discover things by touch — hot and cold, rough and smooth, hard and soft — and what harms the hand (Kuwait, Grade 1, Term 1 — *Science, Grade 1, Term 1 (Student Book)*, Section 2 printed p. 47; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+39. **The sense of taste** (`the-human-body/the-sense-of-taste`) — how the tongue knows sweet, sour, salty and bitter, and how taste warns that food has spoiled (Kuwait, Grade 1, Term 1 — *Science, Grade 1, Term 1 (Student Book)*, Section 2 printed p. 52; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+40. **Cell division** (`the-human-body/cell-division`) — how one cell copies its hereditary material and divides into two — growth, repair and the doorway to reproduction (the Biology mitosis lesson is its secondary-depth twin) (Kuwait, Grade 9, Term 1 — *Science, Grade 9, Term 1 (Student Book)*, printed p. 30; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -526,6 +534,10 @@ solar-system comparison lessons.
 
 78. **Fluids and superfluids** (`materials/fluids-and-superfluids`) — a fluid is a material that flows, liquid or gas, and a superfluid is a fluid that flows without friction at all (Dominican Republic, Grade 6 — *Ciencias de la Naturaleza 6*, printed p. 112; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
 
+79. **What matter is** (`materials/what-matter-is`) — everything around us is matter — it has mass and takes up space, even the air; light, heat, sound and shadows are not matter (Kuwait, Grade 1, Term 2 — *Science, Grade 1, Term 2 (Student Book)*, printed p. 19; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+80. **Mass — how much matter is in a thing** (`materials/mass-how-much-matter-is-in-a-thing`) — mass is the amount of matter in a body, measured in grams and kilograms with a balance — not size, and not weight (Kuwait, Grade 2, Term 2 — *Science, Grade 2, Term 2 (Student Book)*, printed p. 18; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -550,6 +562,9 @@ solar-system comparison lessons.
 18. **Using wave patterns to send information** (`light/using-wave-patterns-to-send-information`) — designing a solution to an information-transfer problem using wave patterns — light signals and codes (United States, Grade 4 — *4th Grade Science for Utah SEEd Standards, Revised 2025*, 4.3.3, printed p. 126)
 19. **Colour mixing — primary and secondary colours** (`light/colour-mixing-primary-and-secondary-colours`) — mixing primary-colour plasticine gives secondary colours; white lightens, black darkens; a mixed colour cannot be unmixed — the experiment called "The colour inventor" — teacher-guide evidence only, acceptance 0 (Cabo Verde, Grade 1 — *Atividades Científicas, 1.º ano* (teacher/activity guide), Experiment 4, printed p. 24)
 20. **Seeing colours — why things look the colour they do** (`light/seeing-colours-why-things-look-the-colour-they-do`) — the spinning colour disc gathers the seven colours back into white; see-through coloured bodies look the colour of the light they let pass; solid bodies look the colour they reflect — a yellow ball reflects yellow, white bodies reflect all colours, black bodies take all in and reflect none; and the red ball through red, green and blue glass in turn (Sudan, Grade 6 — *العلوم (Science), Grade 6*, Unit 7, Lesson 4, printed pp. 70–72)
+
+21. **Vision defects and correcting them** (`light/vision-defects-and-correcting-them`) — short sight and long sight — where the eye's image misses the retina — and the concave and convex lenses that put it back (Kuwait, Grade 9, Term 1 — *Science, Grade 9, Term 1 (Student Book)*, printed p. 169; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
 ## Unit 6 — Weather and Seasons
 
 1. **Day and night, rainbow and flood** (`weather-and-seasons/day-and-night-rainbow-and-flood`) — a natural event happens in nature outside human control; day and night are a natural cycle — 24 hours, 12 of sunlight and 12 without — and rainbow …
@@ -638,6 +653,8 @@ solar-system comparison lessons.
 28. **Stomata, transpiration and how leaves lose water** (`plants/stomata-transpiration-and-how-leaves-lose-water`) — stomata are tiny holes in leaves through which plants take in air and transpire water; preparing a slide of stomata; timing how long an unwatered plant takes to wilt (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Food and Growth*, Unit 7, Topic 10, printed booklet pp. 26–28; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 29. **Pollination and fertilisation — how seeds and fruits form** (`plants/pollination-and-fertilisation-how-seeds-and-fruits-form`) — pollination — pollen carried to the stigma by wind, insects, water and humans, in the same flower or across flowers; fertilisation — the pollen grain joining the ovule inside the ovary; then the ovary grows into the fruit and the fertilised ovules inside it become the seeds (Sudan, Grade 6 — *العلوم (Science), Grade 6*, Unit 2, Lesson 2, printed pp. 13–16)
 
+31. **The vascular system in plants** (`plants/the-vascular-system-in-plants`) — the plant's pipes: xylem carrying water up from the roots, phloem carrying food from the leaves to every part (Kuwait, Grade 7, Term 2 — *Science, Grade 7, Term 2 (Student Book)*, printed p. 31; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
 ## Unit 9 — Animals
 
 1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…
@@ -681,6 +698,16 @@ solar-system comparison lessons.
 36. **How animals reproduce** (`animals/how-animals-reproduce`) — reproduction: new animals of the parents' kind — many animals lay eggs and the young hatch, while mammals are born live — taught straight after the reproduction of plants (Cambodia, Grade 5 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5)*, Ch. 1, Lesson 3, printed p. 22; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
 37. **Evolution — evidence and fossils** (`animals/evolution-evidence-and-fossils`) — biological evolution: species change over time, known from evolutionary evidence, with fossils as a window on the past, and genetic variability tested by the experiment with beans (Ecuador, Grade 9 — *EC G9 Ciencias Naturales*, printed pp. 41–46; built for the Ecuador placements, expansion-science-2026-11-13/ecuador-placements.md)
 38. **How animals move — swim, walk, fly** (`animals/how-animals-move-swim-walk-fly`) — how each animal moves in its place — swimming, walking and flying as the ways animals move, taught animal by animal (Sudan, Grade 4 — *العلوم الطبيعية ٤ (Natural Sciences 4)*, Unit 3, Lesson 1, printed p. 26)
+
+40. **Animal body coverings — fur, feathers and scales** (`animals/animal-body-coverings-fur-feathers-and-scales`) — what covers animals' bodies — fur, feathers, scales and shells — and what each covering does (Kuwait, Grade 1, Term 1 — *Science, Grade 1, Term 1 (Student Book)*, printed p. 46; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+41. **How living things respond to their environment** (`animals/how-living-things-respond-to-their-environment`) — living things respond to light, heat, water, gravity and touch — plants by growing, animals by moving — because responding is a sign of life (Kuwait, Grade 4, Term 1 — *Science, Grade 4, Term 1 (Student Book)*, printed p. 31; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+42. **Viruses** (`animals/viruses`) — what viruses are — hereditary material in a protein coat, not cells — and how they differ from living things, multiplying only inside a living cell (Kuwait, Grade 5, Term 1 — *Science, Grade 5, Term 1 (Student Book)*, printed p. 14; Kuwait, Grade 7, Term 1 — *Science, Grade 7, Term 1 (Student Book)*, printed p. 42; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+43. **Reproduction in living organisms** (`animals/reproduction-in-living-organisms`) — how every living thing makes more of its own kind — parents and offspring — so life continues (Kuwait, Grade 6, Term 1 — *Science, Grade 6, Term 1 (Student Book)*, printed p. 154; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+44. **Types of reproduction — asexual and sexual** (`animals/types-of-reproduction-asexual-and-sexual`) — one parent making copies against two parents whose cells join, making offspring that differ — the test is how many parents (Kuwait, Grade 6, Term 1 — *Science, Grade 6, Term 1 (Student Book)*, printed p. 159; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
 ## Unit 10 — Natural Resources
 
@@ -786,6 +813,12 @@ solar-system comparison lessons.
 76. **Primary and secondary productivity** (`our-environment/primary-and-secondary-productivity`) — primary and secondary productivity — the producers' making as the ecosystem's income, and the consumers' smaller second-hand making built from it (Mauritania, Grade 10 — *Sciences Naturelles, 4ème AS*, printed p. 113; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 
 77. **Coastal ecosystems — dunes, seagrass and coral banks** (`our-environment/coastal-ecosystems-dunes-seagrass-and-coral-banks`) — the coast walked shore to sea: dunes and their coastal vegetation, seagrass meadows — the ocean's prairies — and the Banco de la Plata, paradise of corals and humpback whales (Dominican Republic, Grade 5 — *Ciencias de la Naturaleza 5*, printed pp. 164–166; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
+
+78. **Kinds of natural habitats** (`our-environment/kinds-of-natural-habitats`) — the kinds of natural habitats — land homes (forest, grassland, desert) and water homes (sea, river, lake, pond) — and what each home gives its living things (Kuwait, Grade 2, Term 1 — *Science, Grade 2, Term 1 (Student Book)*, Section 2 printed p. 16; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+79. **How ecosystems change** (`our-environment/how-ecosystems-change`) — ecosystems change slowly and suddenly, by nature and by people, and their living things fit in, move, or die out (Kuwait, Grade 4, Term 1 — *Science, Grade 4, Term 1 (Student Book)*, Section 2 printed p. 12; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+80. **Extinct and endangered living things** (`our-environment/extinct-and-endangered-living-things`) — kinds gone for ever against kinds still living but few and falling — and how endangered kinds are saved (Kuwait, Grade 4, Term 1 — *Science, Grade 4, Term 1 (Student Book)*, Section 2 printed p. 20; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
 ## Unit 12 — Family, School and Community
 
@@ -898,6 +931,11 @@ solar-system comparison lessons.
 41. **Diseases of malnutrition** (`keeping-healthy/diseases-of-malnutrition`) — diseases of malnutrition — weight loss and the deficiency diseases of the younger years revisited and deepened, answered by the balanced diet (Mauritania, Grade 6 — *Sciences Naturelles, 6e année fondamentale*, printed pp. 9–16; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 42. **Gas heaters — parts and safety** (`keeping-healthy/gas-heaters-parts-and-safety`) — gas heaters — parts and safety — a gas stove's burners, ignition system and control knobs, and gas heating appliances dismantled and named part by part (Mauritania, Grade 4 — *Sciences Naturelles, 4e année fondamentale*, printed p. 65, and Grade 5 — *Sciences Naturelles, 5e année fondamentale*, printed p. 91, with Grade 5 teacher-guide worked answers as guide evidence; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 43. **Butane gas and its safe use** (`keeping-healthy/butane-gas-and-its-safe-use`) — butane gas and its safe use — butane colourless and easily liquefied, used in cookers and lighters, and gas preferred over charcoal to protect the environment (Mauritania, Grade 5 — *Sciences Naturelles, 5e année fondamentale*, printed p. 93; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
+
+47. **Keeping the respiratory system healthy** (`keeping-healthy/keeping-the-respiratory-system-healthy`) — clean air and exercise for the breathing system, against its enemies: smoking, dust, fumes and chest infections (Kuwait, Grade 8, Term 1 — *Science, Grade 8, Term 1 (Student Book)*, printed p. 74; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+48. **Keeping the urinary system healthy** (`keeping-healthy/keeping-the-urinary-system-healthy`) — water through the day, not holding urine, and cleanliness — against infection and stones in the kidneys, bladder and passages (Kuwait, Grade 8, Term 2 — *Science, Grade 8, Term 2 (Student Book)*, printed p. 70; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
 ## Unit 15 — Science Skills
 
 1. **Debating change: new foods or old ways?** (`science-skills/debating-change-new-foods-or-old-ways`) — the book prints a debate — 'The New One and the Old One' — over whether food culture must change: new productive crops against slow-changing habits…
@@ -2903,3 +2941,6 @@ solar-system comparison lessons.
 15. **Using household electrical appliances safely** (`electricity-and-magnetism/using-household-electrical-appliances-safely`) — using household electrical appliances safely — the home's electrical machines used in their right order, and the electric iron studied part by part with its safe handling (Mauritania, Grade 4 — *Sciences Naturelles, 4e année fondamentale*, printed pp. 59, 61; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 
 16. **Sources of electricity** (`electricity-and-magnetism/sources-of-electricity`) — where electricity comes from, named before any circuit — cells and batteries that store it, and the mains supply, generators and solar cells that make it (Bhutan, Class IV — *Science, Class IV*, §7.1, printed p. 83; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
+
+17. **Materials that conduct electricity** (`electricity-and-magnetism/materials-that-conduct-electricity`) — metals conduct and rubber, plastic, wood and glass insulate — tested with a gap circuit and a lamp, and why every wire needs both kinds (Kuwait, Grade 3, Term 2 — *Science, Grade 3, Term 2 (Student Book)*, printed p. 25; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+

@@ -1,6 +1,6 @@
 # Sources — Materials and light — transparent, translucent, opaque
 
-countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab), Ecuador, Sudan
+countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only), Barbados (curriculum evidence only), United States, Pakistan (Punjab), Ecuador, Sudan, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -112,3 +112,17 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 8 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States, Pakistan (Punjab), Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 3, grade 6, light/materials-and-light-transparent-translucent-opaque
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 1, Term 2):** Title as printed: العلوم — الصف الأول — الفصل الدراسي الثاني – القسم الأول (Science, Grade 1, Second Term – Section 1). Grade 1, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 65,714,706 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-8) + books.json `grade-01/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 (القسم الثاني) is not in the file. What is missing: the whole second section of the term book. This is a library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter Around Us, Ch.2 Energy Around Us, Ch.3 Force, Motion and the Magnet. Tally: 11 to existing lessons, 1 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| which bodies let light pass through them (Kuwait, Grade 1, Term 2) | Kuwait, *Science, Grade 1, Term 2 (Student Book)*, printed p. 59 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Moldova, Mozambique, Mauritania, United States, Pakistan (Punjab), Ecuador, Sudan, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, materials and light transparent translucent opaque

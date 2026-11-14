@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -165,3 +165,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 4as, svt
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, cycles of matter carbon nitrogen water
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 7, Term 2):** Title as printed: العلوم — الصف السابع — الفصل الدراسي الثاني (Science, Grade 7, Second Term), intermediate stage. Bilingual titles. Grade 7, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 227, continuous printed pagination. Bytes: 98,503,225 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-07/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8, both STEAM inquiry-project sections present. Structure: Unit 5 Life Science (plant and animal kingdoms); Unit 6 Matter and Energy – Chemical Sciences (acids and bases); Unit 7 Matter and Energy – Physical Sciences (work, energy, simple machines); Unit 8 Earth Science (natural resources). Tally: 8 to existing lessons, 2 NEW LESSON NEEDED (10 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the natural cycles (Kuwait, Grade 7, Term 2) | Kuwait, *Science, Grade 7, Term 2 (Student Book)*, printed p. 185 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, cycles of matter carbon nitrogen water

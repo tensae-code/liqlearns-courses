@@ -1,6 +1,6 @@
 # Sources — Blood and blood donation
 
-countries: Cuba, Seychelles
+countries: Cuba, Seychelles, Kuwait
 
 **Book (Cuba — Grade 6 student book):** *Ciencias Naturales, Sexto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Sexto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 5th reprint 2015 of the 2nd edition 2002 (© 1990), ISBN 978-959-13-0971-6. PDF 178 pages, 6,997,105 bytes. Verdict: COMPLETE (five chapters, conclusions and vocabulary to printed p. 167). Printed page = PDF page − 10 approx. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
 
@@ -21,3 +21,17 @@ Seychelles' own way — the NIP Integrated Science unit booklets teach this thin
 Placement choice, on the record: this NEW LESSON was built for the Cuba placement "NEW LESSON NEEDED — blood-and-blood-donation" — cuba-placements.md (Cuba CN 6, printed p. 142). No existing general-science lesson covers blood donation as its own thing (checked the live repo at merge time: `the-human-body/the-heart` teaches the heart, the vessels and circulation — giving blood is mentioned inside another country's blood-groups passage there, but donation itself is no lesson's one thing; the Biology folder's blood lessons are secondary-depth split-subject treatments), so it gets its own lesson, under the placement's own slug. It sits in keeping-healthy/ and is registered in CURRICULUM.md Unit 14 (Keeping Healthy).
 
 Searchable tags: blood, blood donation, circulation, cuba, ciencias naturales, grade 6
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 8, Term 2):** Title as printed: العلوم — الصف الثامن — الفصل الدراسي الثاني (Science, Grade 8, Second Term), intermediate stage. Bilingual titles. Grade 8, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 215, continuous printed pagination. Bytes: 59,313,074 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-08/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8 and the STEAM inquiry-project sections present. Structure: Unit 5 Life Science (circulatory system, excretion); Unit 6 Matter and Energy – Physical Sciences (light); Unit 7 Matter and Energy – Chemical Sciences (chemical reaction); Unit 8 Earth Science (internal processes shaping Earth's surface). Tally: 4 to existing lessons, 7 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| blood types (blood groups) (Kuwait, Grade 8, Term 2) — filed as NEW LESSON NEEDED — blood-types; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 8, Term 2 (Student Book)*, printed p. 40 |
+
+**Acceptance count: taught in 3 countries (Cuba, Seychelles, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, blood and blood donation

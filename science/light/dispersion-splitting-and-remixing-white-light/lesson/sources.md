@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -216,3 +216,17 @@ Searchable tags: bhutan, bhutan science, science class v
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, dispersion splitting and remixing white light
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 2, Term 2):** Title as printed: العلوم — الصف الثاني — الفصل الدراسي الثاني – القسم الأول (Science, Grade 2, Second Term – Section 1). Grade 2, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 36,304,800 — exactly the books.json `size_bytes`. The file is NOT in the GitHub tree/release routes (grab.py tree failed): it was read from the record's own Drive download link and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-02/gov/kuwait/science/student/term-2.pdf`. (The TSV set has no Grade 2 Term 2 release record.) Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 2. Section 2 of Term 2 (القسم الثاني) is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Changes, Ch.2 Energy Around Us (the light chapter). Tally: 6 to existing lessons, 2 NEW LESSON NEEDED (8 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what white light is made of: the seven colours, and the rainbow in raindrops (Kuwait, Grade 2, Term 2) | Kuwait, *Science, Grade 2, Term 2 (Student Book)*, printed p. 63 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab, Venezuela, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, dispersion splitting and remixing white light

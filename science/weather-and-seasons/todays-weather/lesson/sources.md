@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -257,3 +257,17 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, sn 6af, svt
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 6, Term 2):** Title as printed: العلوم — الصف السادس — الفصل الدراسي الثاني (Science, Grade 6, Second Term), intermediate stage (المرحلة المتوسطة). The PDF binds BOTH sections: Section 1 (marked 1/2) and Section 2 (marked 2/2), each with its own title page, contents and continuous printed pagination. Bilingual Arabic/English unit, chapter and lesson titles, printed in the book. Grade 6, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 207, continuous printed pagination. Bytes: 85,460,520 — exactly the books.json `size_bytes`. Read from the record's own Drive download link (GitHub tree route failed); the file is STAGED, not deleted (see reading log). Records: books.json only, `grade-06/gov/kuwait/science/student/term-2.pdf`. (The TSV set has no Grade 6 Term 2 release record.) Verdict: COMPLETE — Units 5–8, both STEAM inquiry-project sections and all assessments present. Structure: Unit 5 Life Science (genetics, the ecosystem); Unit 6 Matter and Energy – Chemical Sciences (classification of materials); Unit 7 Matter and Energy – Physical Sciences (static electricity, electricity and magnetism); Unit 8 Earth Science (weather and climate). Tally: 5 to existing lessons, 3 NEW LESSON NEEDED (8 placements). Split-subject chapters are listed unplaced below the placements. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the weather (Kuwait, Grade 6, Term 2) | Kuwait, *Science, Grade 6, Term 2 (Student Book)*, printed p. 158 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, todays weather

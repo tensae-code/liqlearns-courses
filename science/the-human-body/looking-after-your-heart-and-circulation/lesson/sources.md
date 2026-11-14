@@ -1,6 +1,6 @@
 # Sources — Looking after your heart and circulation
 
-countries: Sudan
+countries: Sudan, Kuwait
 
 **Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
 
@@ -13,3 +13,17 @@ countries: Sudan
 Placement choice, on the record: this NEW LESSON was built for the Sudan placement(s) "NEW LESSON NEEDED — looking-after-your-heart-and-circulation" — sudan-placements.md (1 placement bullet(s)). No existing general-science lesson covers this thing as its own lesson (checked the live repo at merge time — near lessons in other titles are different things or different depths, as noted in the merge log), so it gets its own lesson. It sits in the-human-body/ and is registered in CURRICULUM.md Unit 3 (The Human Body). Sudan's own way — as described in the placement(s), carried in the rows above — IS part of this lesson's content.
 
 Searchable tags: sudan, looking after your heart and circulation, the-human-body/looking-after-your-heart-and-circulation
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 8, Term 2):** Title as printed: العلوم — الصف الثامن — الفصل الدراسي الثاني (Science, Grade 8, Second Term), intermediate stage. Bilingual titles. Grade 8, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN found printed in the book. PDF pages: 215, continuous printed pagination. Bytes: 59,313,074 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-08/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: COMPLETE — Units 5–8 and the STEAM inquiry-project sections present. Structure: Unit 5 Life Science (circulatory system, excretion); Unit 6 Matter and Energy – Physical Sciences (light); Unit 7 Matter and Energy – Chemical Sciences (chemical reaction); Unit 8 Earth Science (internal processes shaping Earth's surface). Tally: 4 to existing lessons, 7 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| circulatory system health (Kuwait, Grade 8, Term 2) — filed as NEW LESSON NEEDED — keeping-the-circulatory-system-healthy; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Kuwait, *Science, Grade 8, Term 2 (Student Book)*, printed p. 46 |
+
+**Acceptance count: taught in 2 countries (Sudan, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, looking after your heart and circulation

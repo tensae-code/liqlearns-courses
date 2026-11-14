@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Mauritania, Angola, Bhutan, Dominican Republic
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -411,3 +411,17 @@ Searchable tags: bhutan, bhutan science, science class iv, science class vi
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, how living things affect each other
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 5, Term 1):** Title as printed: العلوم — الصف الخامس — الفصل الدراسي الأول. The PDF binds Section 1 and Section 2, each with its own contents and pagination (Section 2 pages are cited as "Section 2 printed p."). Grade 5, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026, 2nd ed. 2026/2027. No ISBN printed. PDF pages: 192. Bytes: 15,705,753 — exactly the books.json `size_bytes`. This book is NOT in the GitHub tree or any release route tried (Contents API 404; asset absent from releases mid-size-books, -1, -3 to -7): it was read from the record's own Drive download link in the staging books.json and the file is STAGED, not deleted (see reading log, "Staged under the new rule"). Records: books.json only, `grade-05/gov/kuwait/science/student/term-1.pdf`. Verdict: COMPLETE. Structure: Unit 1 Life Sciences — Ch.1 A Journey into the Depths of Life (viruses, the five kingdoms), Ch.2 A Journey in the Plant Kingdom, Ch.3 A Journey to the Heart of Nature (adaptation, ecosystems); Unit 2 The Human Body — Ch.1 A Journey to the Wonders of the Human Body; then the Science Inquiry Project. Tally: 13 to existing lessons, 4 NEW LESSON NEEDED (17 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the relations between living things in the ecosystem (Kuwait, Grade 5, Term 1) | Kuwait, *Science, Grade 5, Term 1 (Student Book)*, Section 2 printed p. 13 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States, Pakistan (Punjab, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, how living things affect each other

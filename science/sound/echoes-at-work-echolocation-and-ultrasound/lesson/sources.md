@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt, Sudan, Dominican Republic
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab), Armenia, Kazakhstan, Egypt, Sudan, Dominican Republic, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -120,3 +120,17 @@ Searchable tags: sudan, sudan grade 4, sound/echoes-at-work-echolocation-and-ult
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, echoes at work echolocation and ultrasound
+
+## Kuwait growth (2026-11-14, General Science expansion)
+
+**Book (Kuwait — Grade 4, Term 2):** Title as printed: العلوم — الصف الرابع — الفصل الدراسي الثاني – القسم الأول (Science, Grade 4, Second Term – Section 1). Grade 4, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 100. Bytes: 43,535,758 — exactly the books.json `size_bytes`. Read from the record's own Drive download link (GitHub tree route failed); the file is STAGED, not deleted (see reading log). Records: books.json only, `grade-04/gov/kuwait/science/student/term-2.pdf`. (The TSV set has no Grade 4 Term 2 release record.) Verdict: PARTIAL — Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Changes, Ch.2 Energy Around Us (sound), Ch.3 Force and Motion (simple machines). Tally: 9 to existing lessons, 3 NEW LESSON NEEDED (12 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what the echo is (Kuwait, Grade 4, Term 2) | Kuwait, *Science, Grade 4, Term 2 (Student Book)*, printed p. 75 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba, Pakistan (Punjab, Dominican Republic, Kuwait).**
+
+Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
+
+Searchable tags: kuwait, aloom, ministry of education kuwait, echoes at work echolocation and ultrasound
