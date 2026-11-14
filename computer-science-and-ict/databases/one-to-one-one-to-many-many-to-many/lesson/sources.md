@@ -1,6 +1,6 @@
 # Sources — One-to-one, one-to-many, many-to-many
 
-countries: Ethiopia, Libya
+countries: Ethiopia, Libya, Malaysia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Libya
 **Book 3:** *تقنية المعلومات للسنة الأولى بمرحلة التعليم الثانوي — كتاب الطالب (Information Technology, first year of secondary education = Grade 10, student book)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
 **Book 4:** *تقنية المعلومات — دليل المعلم، للسنة الأولى بمرحلة التعليم الثانوي (Information Technology teacher guide, Grade 10)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 61 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
+
+**Book 5:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -20,8 +22,9 @@ countries: Ethiopia, Libya
 
 | Sub lesson 4 — creating relationships graphically: Database Tools tab → Relationships group → Relationships; Show Table pop-up: add tables/queries, Close; drag a field (typically the primary key) onto the common field (the foreign key), Ctrl to drag several fields | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 76–77 |
 | Sub lesson 4 — relationships are one-to-one, one-to-many or many-to-many; the diagram marks the one side “1” and the many side “∞” (Department to Teacher one-to-many); linked tables share a common key item with matching PK/FK data types; no data before relationships are set up | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 76–77 |
+| 4.1.4 Kekardinalan antara Entiti dalam Hubungan | Malaysia Grade 9 ASK Tingkatan 3, printed p. 124 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
+**Acceptance count: taught in 3 countries (Ethiopia, Libya, Malaysia).**
 
 Honesty: all parts are pupil-taught from the student book. Book error named: in the student book, the one-to-one relationship text cites Figure 3.8 where the figure's caption is 3.7 — the lesson teaches the relationship from the text and never relies on the figure number, and sources name the mismatch here so no one hunts for a Figure 3.8 that the book captions as 3.7.
 
@@ -31,4 +34,6 @@ Libya's own way (Grade 10, Information Technology student book): the entire Grad
 
 Libya's own way (Grade 10, Information Technology teacher guide): the guide walks the same 12 database chapters as the student book, each as topics / objectives / teacher activities / student activities / key points / answers to selected exercises — the Access practical is taught through set classroom activities. (teacher guide — evidence)
 
-Searchable tags: one-to-one, one-to-many, many-to-many, relationship types, cardinality, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide
+Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced for Grade 9 — a full cryptography unit (ciphers taught, compared and chosen), search and sort algorithms in pseudocode/flowchart, and a full databases-and-SQL unit built in Microsoft Access (entities, keys, cardinality, forms, SQL with Boolean expressions, reports) before returning to Python functions and procedures.
+
+Searchable tags: one-to-one, one-to-many, many-to-many, relationship types, cardinality, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3

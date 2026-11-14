@@ -1063,3 +1063,19 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Libya): Encryption and Firewalls — Protecting Data on Networks
 
 **Presentations** (ICT expansion, from Libya): Inserting and Recording Sound in PowerPoint
+
+**First Steps** (ICT expansion, from Malaysia): ASCII Encoding in Octal · Converting Binary to Octal · Converting Decimal to Octal · Converting Octal to Binary · Converting Octal to Decimal · Octal and Decimal Numbers · Octal, ASCII and Machine Language
+
+**Hardware** (ICT expansion, from Malaysia): Linear vs Pipelined Processing
+
+**Multimedia** (ICT expansion, from Malaysia): Audio Bit Depth and File Size · Audio File Formats — Size and Quality · Colour Depth, Resolution and Image Quality · Image File Formats and File Size · Measuring Digital Image and Audio
+
+**Databases** (ICT expansion, from Malaysia): Aggregate Functions in SQL · Data Integrity, Consistency and Redundancy · Database Models — Hierarchical, Network, Relational, Object-Oriented · Designing a Relational Database · Documenting Database Work · Functional Dependency · Macros and a Switchboard Menu · Mapping an ERD to a Relational Schema · Normalisation up to 3NF
+
+**Programming** (ICT expansion, from Malaysia): Abstraction — Choosing the Important Aspects · Arrays in JavaScript · Binary Search · Bubble Sort · Bucket Sort · Choosing the Right Data Type · Combining Search and Sort · Combining Search or Sort · Control Structures in JavaScript · Creating an Application or Applet · Declaring, Initialising and Assigning Variables · Decomposition and Sequencing Steps · Detecting Errors in Pseudocode and Flowcharts · Developing a Program Step by Step · Generalisation — Common Features of Problems · Interactive JavaScript Program — Project · JavaScript Data Types and Variables · Keyboard Input and Output in Java · Linear Search · Mini Project — Program Development · Modular Programs with Arrays · Pattern Recognition in a Situation · Pattern Recognition in Search and Sort · Primitive and Non-Primitive Data Types · Procedures and Functions in JavaScript · Search and Sort Algorithms · Solving Problems with Data, Variables and Operators · Sorting and Searching in JavaScript · Translating an Algorithm into Code · Using a Standard Library · Variables and Constants · Writing a Program with Best Practices
+
+**Internet and the Web** (ICT expansion, from Malaysia): Building, Updating and Backing Up Web Data · Designing an Application Framework (Wireframe) · Finding Errors in HTML · HTML Banner, Frame and Menu · HTML Comments · HTML Headings and Paragraphs · HTML Pull-Down Menu · Running Queries on Stored Web Data · Saving Data in Text Files with PHP · Sign-Up and Login with Server Scripting · Using Imported Data from Text Files · Validating User Input on the Server
+
+**Safety, Security and Care** (ICT expansion, from Malaysia): Choosing the Best Cipher Method · Ciphers in Problem Solving · Comparing Cipher Methods
+
+**Computers in Society** (ICT expansion, from Malaysia): Cyber Laws Across Countries · Evaluating Interactive Products · Human-Computer Interaction · Interaction Design Process · Prototyping Screen Designs · Quantitative Evaluation of Screen Design

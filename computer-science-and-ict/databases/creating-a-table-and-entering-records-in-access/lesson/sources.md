@@ -1,6 +1,6 @@
 # Sources — Creating a table and entering records in Access
 
-countries: Ethiopia, Belarus, Sudan, Fiji, Libya
+countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya
 
 **Book 8:** *تقنية المعلومات — دليل المعلم، للسنة الأولى بمرحلة التعليم الثانوي (Information Technology teacher guide, Grade 10)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 61 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — create: open the database; click Table Design on the Create menu; enter the field names; set each field's data type (text, number, date/time, currency and so on — the type is itself a check, since a Text field will not accept a number); field names unique in a table; a table needs at least two fields | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 64–65 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya
 | Sub lesson 4 — the Access SQL types in detail: CHAR (≤255), TEXT (≤63,999), INTEGER/INT range, DATETIME years 100–9999, CURRENCY 8 bytes, COUNTER 4 bytes, Yes/No 1 bit | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 70–71 |
 | § 10.2 "Стварэнне структуры табліцы" (creating the table structure, in Access) | Belarus, *Інфарматыка. 11 клас*, § 10.2, printed p. 111 |
 | Unit 2 Lesson 2: Tables in Access | Sudan, *ICT, Grade 7*, printed p. 23 |
+| 2.3.1 Pembinaan Jadual Berpandukan Skema Hubungan (Microsoft Access) | Malaysia Grade 10 SK Tingkatan 4, printed p. 241 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Sudan, Fiji, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -53,4 +56,6 @@ Libya's own way (Grade 10, Information Technology student book): the entire Grad
 
 Libya's own way (Grade 10, Information Technology teacher guide): the guide walks the same 12 database chapters as the student book, each as topics / objectives / teacher activities / student activities / key points / answers to selected exercises — the Access practical is taught through set classroom activities. (teacher guide — evidence)
 
-Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11, libya, grade 10 it student, grade 10 it teacher guide
+Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
+
+Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4

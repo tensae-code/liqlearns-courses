@@ -1,12 +1,16 @@
 # Sources — Drawing an ERD
 
-countries: Ethiopia, Libya
+countries: Ethiopia, Libya, Malaysia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
 **Book 2:** *تقنية المعلومات للسنة الأولى بمرحلة التعليم الثانوي — كتاب الطالب (Information Technology, first year of secondary education = Grade 10, student book)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
 **Book 3:** *تقنية المعلومات — دليل المعلم، للسنة الأولى بمرحلة التعليم الثانوي (Information Technology teacher guide, Grade 10)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 61 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
+
+**Book 4:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 5:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -16,8 +20,10 @@ countries: Ethiopia, Libya
 | Ch 2, preparing the entity-relationship diagram | Libya Grade 10 IT student, printed p. 25 |
 | Ch 4, entity-relationship diagrams and relational mapping: the drawing/mapping procedures | Libya Grade 10 IT student, printed p. 39 |
 | Guide Ch 4, entity-relationship and relational mapping (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 23 (teacher guide — evidence) |
+| 2.2.2 Gambar Rajah Perhubungan Entiti (ERD) | Malaysia Grade 10 SK Tingkatan 4, printed p. 222 |
+| Bab 2 Pangkalan Data Lanjutan, 2.1 Melakar ERD | Malaysia Grade 11 SK Tingkatan 5, printed p. 60 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
+**Acceptance count: taught in 3 countries (Ethiopia, Libya, Malaysia).**
 
 Honesty: Sub lesson 3 stands on teacher-guide evidence only (the guide's solved review case study) and is labelled as such in the lesson and in the table above; the lesson as a whole still counts as taught in 1 country because Sub lessons 1–2 are pupil-taught from the student book. Guide-side wording difference, flagged as instructed: the guide's ERD symbol wording says “square” for the entity shape where the student book says “rectangle” — this lesson follows the student book's word, **rectangle**, throughout. The guide placement summarises the case's “complete attribute lists” without reproducing them item by item, so this lesson names the three entities and the three relationship rules exactly as placed and does not invent attribute lists for them.
 
@@ -25,4 +31,8 @@ Libya's own way (Grade 10, Information Technology student book): the entire Grad
 
 Libya's own way (Grade 10, Information Technology teacher guide): the guide walks the same 12 database chapters as the student book, each as topics / objectives / teacher activities / student activities / key points / answers to selected exercises — the Access practical is taught through set classroom activities. (teacher guide — evidence)
 
-Searchable tags: ERD, entity relationship diagram, rectangle, ellipse, borrows, case study, Product Customer Order, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide
+Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
+
+Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
+
+Searchable tags: ERD, entity relationship diagram, rectangle, ellipse, borrows, case study, Product Customer Order, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, malaysia, grade 11 sk tingkatan 5

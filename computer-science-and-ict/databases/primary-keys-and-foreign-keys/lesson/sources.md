@@ -1,6 +1,6 @@
 # Sources — Primary keys and foreign keys
 
-countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya
+countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya
 
 **Book 8:** *تقنية المعلومات للسنة الأولى بمرحلة التعليم الثانوي — كتاب الطالب (Information Technology, first year of secondary education = Grade 10, student book)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 9:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 10:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a relational database is a set of logically related tables, built with relational DBMS software; every table shown has a primary key — a field whose value is unique for each record, such as a student ID no two students can share | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 60–61 |
@@ -32,8 +36,10 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya
 | Unit 2 §2.5, Keys: Primary Key and Foreign Key | Nepal, *Computer Science, Class 10*, printed p. 47 |
 | "Primary Key and Linking Tables" | North Macedonia, *Informatics, Year 2*, Тема 3, printed p. 204 |
 | Unit 1 Lesson 1: The primary key | Sudan, *ICT, Grade 7*, printed p. 6 |
+| 4.1.3 Kekunci Primer dan Kekunci Asing | Malaysia Grade 9 ASK Tingkatan 3, printed p. 121 |
+| 2.2.1 Kunci Primer dan Kunci Asing | Malaysia Grade 10 SK Tingkatan 4, printed p. 219 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia).**
 
 Honesty: all parts are pupil-taught from the student book. Book errors taught corrected, named here: the student book spells the relational DBMS software “RDMS” — the lesson teaches the correct **RDBMS** (relational database management system). The same stretch of the book prints “Figure 314” for Figure 3.14, and varies “Kebel/Kebele” inside one table; neither touches the key definitions taught here, and both are named so a reader meeting them in the book is not confused.
 
@@ -47,4 +53,8 @@ Fiji's own way (Year 13 Computer Education student book): The senior book is bui
 
 Libya's own way (Grade 10, Information Technology student book): the entire Grade 10 year is databases — theory first (concepts, ER modelling, the relational model, mapping ER to tables), then a long Microsoft Access 2007 practical (environment, tables, data entry, relationships, queries, forms, reports) and three set projects at the end. The secondary line is تقنية المعلومات (Information Technology).
 
-Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13, libya, grade 10 it student
+Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced for Grade 9 — a full cryptography unit (ciphers taught, compared and chosen), search and sort algorithms in pseudocode/flowchart, and a full databases-and-SQL unit built in Microsoft Access (entities, keys, cardinality, forms, SQL with Boolean expressions, reports) before returning to Python functions and procedures.
+
+Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
+
+Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13, libya, grade 10 it student, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4

@@ -1,15 +1,18 @@
 # Sources — Solving Problems with Functions
 
-countries: North Macedonia
+countries: North Macedonia, Malaysia
 
 **Book 1:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
+
+**Book 2:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | "Solving text problems using functions [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 2*, Тема 2, printed p. 112 |
 | "Exercises on functions [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 2*, Тема 2, printed p. 118 |
+| 4.2.4 Atur Cara yang Melibatkan Function dan Procedure (filed as programming/programs-with-functions-and-procedures; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 9 ASK Tingkatan 3, printed p. 182 |
 
-**Acceptance count: taught in 1 country (North Macedonia).**
+**Acceptance count: taught in 2 countries (North Macedonia, Malaysia).**
 
 Placement choice: this lesson was built new for the ICT expansion (North Macedonia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/solving-problems-with-functions). It sits in the Programming title (programming/), following the book's own order.
 
@@ -17,4 +20,6 @@ Extra-section note: this lesson stocks a section of the same book that the book'
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
-Searchable tags: functions, problem solving, decomposition, testing, cpp, programming, north macedonia, grade 11
+Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced for Grade 9 — a full cryptography unit (ciphers taught, compared and chosen), search and sort algorithms in pseudocode/flowchart, and a full databases-and-SQL unit built in Microsoft Access (entities, keys, cardinality, forms, SQL with Boolean expressions, reports) before returning to Python functions and procedures.
+
+Searchable tags: functions, problem solving, decomposition, testing, cpp, programming, north macedonia, grade 11, malaysia, grade 9 ask tingkatan 3

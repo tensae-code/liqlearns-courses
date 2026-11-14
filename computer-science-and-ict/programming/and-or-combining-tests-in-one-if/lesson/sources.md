@@ -1,6 +1,6 @@
 # Sources — and / or — combining tests in one if
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya
+countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya
 
 **Book 9:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الأول (Information Technology, Grade 11, for the Science and Humanities sections, Term 1)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
+**Book 10:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 11:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — and — both must be true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 176–178 (student placement item 123) |
@@ -32,8 +36,10 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya
 | First Subject, AND/OR logic in decisions | Egypt, *ICT — Programming Projects, Unit Two: Logic Gates Simulation, Grade 12 (English file)*, printed p. 10 |
 | 6.3 Logical Operator Blocks | Bhutan, *Literacy with ICT, Class VIII*, printed p. 81 |
 | Ch 7, using the logical connectors AND and OR | Libya Grade 11 IT student Term 1, printed p. 80 |
+| 3.1.3(iii) Operator Logik | Malaysia Grade 8 ASK Tingkatan 2, printed p. 99 |
+| 1.4.2 Operator Hubungan dan Operator Logikal dalam Struktur Kawalan Pilihan | Malaysia Grade 10 SK Tingkatan 4, printed p. 84 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia).**
 
 Finland is filed in this lesson as teacher-guide evidence only and does not add to this lesson's acceptance count.
 
@@ -51,4 +57,8 @@ Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary
 
 Libya's own way (Grade 11 Term 1, Information Technology student book): a programming year taught in old-school order — problem solving and algorithms, flowcharts, memory/variables, then Visual Basic statement by statement (LET, PRINT, INPUTBOX, IF, SELECT CASE, FOR…NEXT, DO…WHILE, DO…UNTIL), every chapter ending in graded exercises. The book is printed for BOTH the Science and Humanities sections (للقسمين العلمي والأدبي), although the records label it Humanities only — cited as printed, and taught to Science and Humanities together.
 
-Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1
+Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
+
+Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
+
+Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4

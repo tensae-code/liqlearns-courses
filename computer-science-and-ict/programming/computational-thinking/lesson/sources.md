@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt
 
 **Book 9:** *Computer and Information and Communication Technology — Third grade preparatory, First Term, 2026/2027* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2026/2027. No ISBN printed. 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 10:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 11:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -31,8 +35,10 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt
 | Unit 2, Topic Computer Terminology and Software programming, Lesson 1: Analyse problems in computational terms (six principles of computational thinking) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 68 (teacher guide — evidence) |
 | Capítulo 2.1 El pensamiento computacional y la lógica de la programación | Cuba, *Informática, Grade 11*, printed p. 26 |
 | Unit 1 Lesson 1 Computational Thinking and Problem Solving (decomposition, pattern recognition, abstraction, algorithm) | Egypt, *Computer and ICT, Grade 9 Term 1 (Arabic)*, printed p. 5 |
+| Bab 1 Konsep Asas Pemikiran Komputasional, 1.1.1 Teknik dalam Pemikiran Komputasional | Malaysia Grade 7 ASK Tingkatan 1, printed p. 2 |
+| Bab 1 Konsep Asas Pemikiran Komputasional, 1.1.1 Menggunakan Konsep Pemikiran Komputasional dalam Pembangunan Atur Cara | Malaysia Grade 9 ASK Tingkatan 3, printed p. 2 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Cuba, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -48,4 +54,8 @@ Cuba's own way (Grade 11): Databases are taught from the free-software perspecti
 
 Egypt's own way (Grade 9, Term 1 student book (Arabic)): Preparatory 3 goes deep on Python — computational thinking, AI algorithms, strings/lists, functions with parameters, input-error handling — then a second unit on AI and cybersecurity ending with deepfakes.
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9
+Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
+
+Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced for Grade 9 — a full cryptography unit (ciphers taught, compared and chosen), search and sort algorithms in pseudocode/flowchart, and a full databases-and-SQL unit built in Microsoft Access (entities, keys, cardinality, forms, SQL with Boolean expressions, reports) before returning to Python functions and procedures.
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3

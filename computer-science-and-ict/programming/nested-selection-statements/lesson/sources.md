@@ -1,17 +1,22 @@
 # Sources — Nested Selection Statements
 
-countries: Iraq
+countries: Iraq, Malaysia
 
 **Book 1:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
+**Book 2:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Ch.2 Lesson 2 Nested control statements (Nested Selection Structure) | Iraq, *Computer, Grade 8*, printed p. 97 |
+| Bab 2 Algoritma, 2.1.1(i) Struktur Kawalan Pilihan Bersarang (filed as programming/nested-selection-in-pseudocode-and-flowcharts; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 41 |
 
-**Acceptance count: taught in 1 country (Iraq).**
+**Acceptance count: taught in 2 countries (Iraq, Malaysia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/nested-selection-statements). It sits in the Programming title (programming/), following the book's own order.
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: nested selection, if inside if, nested selection structure, programming, iraq, grade 8
+Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
+
+Searchable tags: nested selection, if inside if, nested selection structure, programming, iraq, grade 8, malaysia, grade 8 ask tingkatan 2

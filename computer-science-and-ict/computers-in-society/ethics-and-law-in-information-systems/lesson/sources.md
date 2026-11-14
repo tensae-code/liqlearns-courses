@@ -1,6 +1,6 @@
 # Sources — Ethics and law in information systems
 
-countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya
+countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya
 
 **Book 8:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
 
+**Book 9:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ethics, and why information systems raise questions | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 2 (student placement item 2) |
@@ -29,8 +31,9 @@ countries: Ethiopia, Nepal, China, Egypt, Fiji, Libya
 | Unit 7.1 Define computer ethics | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 190 |
 | Ch 3, legal legislation and computer systems: electronic contracting and proof, the electronic signature | Libya Grade 12 IT Humanities, printed p. 35 |
 | Ch 3, legal legislation and computer systems: electronic contracting and proof, the electronic signature | Libya Grade 12 IT Science, printed p. 35 |
+| 1.1 Etika dalam Pengkomputeran | Malaysia Grade 11 SK Tingkatan 5, printed p. 6 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, China, Egypt, Fiji, Libya, Malaysia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -42,4 +45,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
 
-Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science
+Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
+
+Searchable tags: ethics, law, information systems, online banking risk, sanctions, Ethiopia Grade 12 IT, nepal, china, egypt, grade 10, fiji, years 7-8, libya, grade 12 it humanities, grade 12 it science, malaysia, grade 11 sk tingkatan 5

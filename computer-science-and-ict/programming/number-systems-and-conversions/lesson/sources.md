@@ -1,6 +1,6 @@
 # Sources — Number Systems and Conversions
 
-countries: Montenegro, China, North Macedonia, Egypt
+countries: Montenegro, China, North Macedonia, Egypt, Malaysia
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
@@ -12,6 +12,10 @@ countries: Montenegro, China, North Macedonia, Egypt
 
 **Book 5:** *Information and Communication Technology — Programming Projects, Third Secondary, Unit One 2025-2026* (student book, Arabic) — Egypt, Egypt Ministry of Education, Centre for Curriculum and Educational Materials Development, 2025-2026. No ISBN printed. 51 PDF pages. Verdict: PARTIAL alone / COMPLETE as a pair — this Arabic file is Unit One of the same Programming Projects book whose Unit Two is the English file filed as Book 10; the two records were listed as parallel language editions but are in fact the two halves of one book. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 7:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Decimal, binary and hexadecimal — bases and place values | Montenegro, *Digitalna Elektronika*, Poglavlje I §1.1, Brojni sistemi i kodovi: decimal, binary and hexadecimal number systems, printed p. 8 |
@@ -21,8 +25,14 @@ countries: Montenegro, China, North Macedonia, Egypt
 | 6-3 Hexadecimal (filed as first-steps/hexadecimal-numbers; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 59 |
 | Subject 1: Number Systems (decimal, binary, hexadecimal) (filed as first-steps/number-systems-decimal-binary-and-hexadecimal; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *ICT — Programming Projects, Unit One: Number-Systems Conversion Project, Grade 12 (Arabic file)*, printed p. 6 (PDF page) |
 | Subject 1, the hexadecimal system (filed as first-steps/hexadecimal-numbers; stocked into this lesson as the closest existing lesson covering this thing) | Egypt, *ICT — Programming Projects, Unit One: Number-Systems Conversion Project, Grade 12 (Arabic file)*, printed p. 6 (PDF page) |
+| 2.1.2 Penukaran Nombor Perduaan kepada Nombor Perpuluhan (filed as first-steps/converting-binary-to-decimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 7 ASK Tingkatan 1, printed p. 23 |
+| 1.2.1 Perbezaan antara Nombor Perenambelasan dan Nombor Perpuluhan (filed as first-steps/hexadecimal-and-decimal-numbers; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 19 |
+| 1.2.2(i) Penukaran Nombor Perpuluhan kepada Nombor Perenambelasan (filed as first-steps/converting-decimal-to-hexadecimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 20 |
+| 1.2.2(ii) Penukaran Nombor Perenambelasan kepada Nombor Perpuluhan (filed as first-steps/converting-hexadecimal-to-decimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 22 |
+| 1.2.2(iii) Penukaran Nombor Perenambelasan kepada Nombor Perduaan (filed as first-steps/converting-hexadecimal-to-binary; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 23 |
+| 1.2.2(iv) Penukaran Nombor Perduaan kepada Nombor Perenambelasan (filed as first-steps/converting-binary-to-hexadecimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 25 |
 
-**Acceptance count: taught in 4 countries (Montenegro, China, North Macedonia, Egypt).**
+**Acceptance count: taught in 5 countries (Montenegro, China, North Macedonia, Egypt, Malaysia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Programming title (programming/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -40,4 +50,8 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 12 Programming Projects student book, Unit One (Arabic file) — PARTIAL alone / COMPLETE as a pair): Number systems are taught as a production project: learn decimal, binary and hexadecimal, then build the same number-converter program twice — in VB.NET and in PHP. Books 10 and 11 are the two halves of ONE Grade 12 Programming Projects book (Book 10 = Unit Two only, PARTIAL alone; Book 11 = Unit One only, PARTIAL alone / COMPLETE as a pair); the records listed them as parallel editions and say Term 1, but Book 10's inner title page says Second Term.
 
-Searchable tags: number systems, conversions, binary, decimal, hexadecimal, base, radix, bit, place value, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, china, north macedonia, grade 11, egypt, grade 10, grade 12
+Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
+
+Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
+
+Searchable tags: number systems, conversions, binary, decimal, hexadecimal, base, radix, bit, place value, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, china, north macedonia, grade 11, egypt, grade 10, grade 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2
