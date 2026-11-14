@@ -410,3 +410,25 @@ Searchable tags: sri lanka, sri lanka science, sound vibration volume and pitch
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, sound, sound-vibration-volume-and-pitch
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 1, student book):** Title as printed: Природни науки за прво одделение (Natural Sciences for Grade 1). Authors: Nela Slezhenkova-Nikovska, Sonja Kirkovska. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-155-1. PDF 132 pages; printed page = PDF page − 1 (CIP record: 129 printed pages; the closing appendices, printed pp. 104–129, are cut-out cards — no placements). Verdict: COMPLETE. Record mismatch, named: the TSV record (grade-01/gov/north-macedonia/science/full-year.pdf) titles this book "Shkencat natyrore" (Albanian for Natural Sciences), but the file the repo serves is the MACEDONIAN edition named above; it is filed here as the book it is. Read from the repo copy — 55,406,262 bytes, matching the repo tree exactly; the book is already secured in GitHub, so no staging copy was needed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| loudness and distance: the closer we are to the source the better we hear (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed pp. 98, 100 |
+
+**Book (North Macedonia — Science, Grade 4, student book):** Title as printed: Природне науке за четврти разред (Natural Sciences for Grade 4). Author: Nela Slezhenkova-Nikovska; this is the Serbian translation of the Macedonian original (translator: Gordana Jovikj-Stojkovska, per the CIP record). Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-203-9. PDF 148 pages; printed page numbers match PDF pages (CIP record: 146 printed pages; the last two PDF pages are blank end papers). Verdict: COMPLETE. Record mismatch, named: the records label the file grade-04/gov/north-macedonia/science/student/full-year.pdf a "(Macedonian e-textbook)", but the file itself is the SERBIAN translation named above. The Macedonian original is the twin file (full-year-alt.pdf), verified the same book — see the twin block after this section's tally. The content is placed ONCE, from this text edition (the alt file is image-only). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound unit: making, carrying and measuring the strength of sound; sound is made by oscillation (NM Science G4) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed p. 104 |
+| loudness: the strength of sound measured in decibels with a phonometer (NM Science G4) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed pp. 111–113 |
+| pitch: shorter strings oscillate faster and make higher sounds (NM Science G4) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed p. 115 |
+
+**Acceptance count unchanged: taught in 28 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab), Samoa, Ecuador, Afghanistan, Sudan, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda).** North Macedonia is already counted in this lesson from the earlier split-subject waves; the North Macedonia general-science rows above add its primary-school books' teaching of this thing without changing the count.
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, sound sound-vibration-volume-and-pitch

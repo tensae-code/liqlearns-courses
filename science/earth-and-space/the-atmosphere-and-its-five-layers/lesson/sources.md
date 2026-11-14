@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -256,3 +256,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, natural sciences grade
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, the atmosphere and its five layers
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 5, student book):** Title as printed: Природни науки за 5 одделение (Natural Sciences for Grade 5). Authors: Icko Gjorgoski, Metodija Najdovski, Biljana Gichevski. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-183-4. PDF 148 pages; printed page = PDF page − 1 (CIP record: 145 printed pages). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — 67,286,309 bytes, 148 pages (the record gives the page count, 148, but no byte size). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-05/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.7: the composition of the atmosphere and its layers (NM Science G5) | North Macedonia, *Природни науки за 5 одделение (Natural Sciences for Grade 5)*, printed pp. 23–24 |
+
+**Acceptance count: taught in 15 countries (Iraq, Cuba, Italy, India, Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space the-atmosphere-and-its-five-layers

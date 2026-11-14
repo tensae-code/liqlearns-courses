@@ -1,6 +1,6 @@
 # Sources — Groundwater and springs
 
-countries: Armenia, Cuba, Mauritania, Zimbabwe (teacher-guide evidence only)
+countries: Armenia, Cuba, Mauritania, Zimbabwe (teacher-guide evidence only), North Macedonia
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -59,3 +59,19 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, svt
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 5, student book):** Title as printed: Природни науки за 5 одделение (Natural Sciences for Grade 5). Authors: Icko Gjorgoski, Metodija Najdovski, Biljana Gichevski. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-183-4. PDF 148 pages; printed page = PDF page − 1 (CIP record: 145 printed pages). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — 67,286,309 bytes, 148 pages (the record gives the page count, 148, but no byte size). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-05/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.13: groundwater and springs — rain sinks through layers that let water pass until it reaches layers that do not; groundwater, springs and wells; geysers recalled; a bottle model of the layers (NM Science G5) (placement filed as NEW LESSON NEEDED — groundwater-and-springs; this lesson already exists in the live course under that slug, built by an earlier expansion merge, so it is stocked here) | North Macedonia, *Природни науки за 5 одделение (Natural Sciences for Grade 5)*, printed pp. 38–39 |
+
+Placement choice, on the record: the North Macedonia placement(s) above were filed as NEW LESSON NEEDED under the slug this lesson already carries — the lesson was built by an earlier country in this expansion — so they are stocked here and no second lesson is built.
+
+**Acceptance count: taught in 4 countries (Armenia, Cuba, Mauritania, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, soil-and-water groundwater-and-springs

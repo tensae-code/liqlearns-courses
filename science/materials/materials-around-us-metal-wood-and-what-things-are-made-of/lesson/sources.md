@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -295,3 +295,26 @@ Searchable tags: sri lanka, sri lanka science, materials around us metal wood an
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, materials, materials-around-us-metal-wood-and-what-things-are-made-of
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 2, student book):** Title as printed: Природни науки (Natural Sciences) for Grade 2. Authors: Sonja Kirkovska, Nela Slezenkova-Nikovska et al. Publisher: Ministry of Education and Science e-textbook (e-ucebnici.mon.gov.mk). PDF 118 pages; printed page numbers match PDF pages (verified visually on p. 10). Verdict: COMPLETE. Twin record: TSV blob record and books.json record grade-02/gov/north-macedonia/science/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Materials unit: origin, properties and uses of materials; natural and man-made materials (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed pp. 43–44 |
+| different uses of materials; objects made of several materials (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed pp. 51–53 |
+
+**Book (North Macedonia — Science, Grade 1, student book):** Title as printed: Природни науки за прво одделение (Natural Sciences for Grade 1). Authors: Nela Slezhenkova-Nikovska, Sonja Kirkovska. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-155-1. PDF 132 pages; printed page = PDF page − 1 (CIP record: 129 printed pages; the closing appendices, printed pp. 104–129, are cut-out cards — no placements). Verdict: COMPLETE. Record mismatch, named: the TSV record (grade-01/gov/north-macedonia/science/full-year.pdf) titles this book "Shkencat natyrore" (Albanian for Natural Sciences), but the file the repo serves is the MACEDONIAN edition named above; it is filed here as the book it is. Read from the repo copy — 55,406,262 bytes, matching the repo tree exactly; the book is already secured in GitHub, so no staging copy was needed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Materials unit: kinds of materials; objects are made of materials (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed pp. 61–62 |
+| what is it made of? joining objects to their materials (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed p. 64 |
+| uses of materials: every material has its own job; drawing two wooden objects and saying why they are made of wood (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed pp. 72–74 |
+
+**Acceptance count: taught in 15 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials materials-around-us-metal-wood-and-what-things-are-made-of

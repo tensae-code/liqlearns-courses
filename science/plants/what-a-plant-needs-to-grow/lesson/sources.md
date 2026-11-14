@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -460,3 +460,37 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, what a
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, what a plant needs to grow
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 2, student book):** Title as printed: Природни науки (Natural Sciences) for Grade 2. Authors: Sonja Kirkovska, Nela Slezenkova-Nikovska et al. Publisher: Ministry of Education and Science e-textbook (e-ucebnici.mon.gov.mk). PDF 118 pages; printed page numbers match PDF pages (verified visually on p. 10). Verdict: COMPLETE. Twin record: TSV blob record and books.json record grade-02/gov/north-macedonia/science/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| conditions for a plant to grow: light, water, warmth (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed pp. 35–38 |
+
+**Book (North Macedonia — Science, Grade 1, student book):** Title as printed: Природни науки за прво одделение (Natural Sciences for Grade 1). Authors: Nela Slezhenkova-Nikovska, Sonja Kirkovska. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-155-1. PDF 132 pages; printed page = PDF page − 1 (CIP record: 129 printed pages; the closing appendices, printed pp. 104–129, are cut-out cards — no placements). Verdict: COMPLETE. Record mismatch, named: the TSV record (grade-01/gov/north-macedonia/science/full-year.pdf) titles this book "Shkencat natyrore" (Albanian for Natural Sciences), but the file the repo serves is the MACEDONIAN edition named above; it is filed here as the book it is. Read from the repo copy — 55,406,262 bytes, matching the repo tree exactly; the book is already secured in GitHub, so no staging copy was needed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| from seed to plant: the seed makes new plants grow (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed p. 41 |
+| what plants need in order to grow (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed p. 42 |
+| caring for plants: comparing plants that are cared for with plants that are not (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed p. 43 |
+
+**Book (North Macedonia — Science, Grade 4, student book):** Title as printed: Природне науке за четврти разред (Natural Sciences for Grade 4). Author: Nela Slezhenkova-Nikovska; this is the Serbian translation of the Macedonian original (translator: Gordana Jovikj-Stojkovska, per the CIP record). Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-203-9. PDF 148 pages; printed page numbers match PDF pages (CIP record: 146 printed pages; the last two PDF pages are blank end papers). Verdict: COMPLETE. Record mismatch, named: the records label the file grade-04/gov/north-macedonia/science/student/full-year.pdf a "(Macedonian e-textbook)", but the file itself is the SERBIAN translation named above. The Macedonian original is the twin file (full-year-alt.pdf), verified the same book — see the twin block after this section's tally. The content is placed ONCE, from this text edition (the alt file is image-only). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| from seed to plant: sowing a seed and keeping a diary of the plant's changes (NM Science G4) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed pp. 63–64 |
+
+**Book (North Macedonia — Science, Grade 5, student book):** Title as printed: Природни науки за 5 одделение (Natural Sciences for Grade 5). Authors: Icko Gjorgoski, Metodija Najdovski, Biljana Gichevski. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-183-4. PDF 148 pages; printed page = PDF page − 1 (CIP record: 145 printed pages). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — 67,286,309 bytes, 148 pages (the record gives the page count, 148, but no byte size). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-05/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2.9: how seeds grow — the stages of a bean germinating; a seed needs water, oxygen and warmth; its stored food is its energy; a lotus seed 1,300 years old still grew (NM Science G5) | North Macedonia, *Природни науки за 5 одделение (Natural Sciences for Grade 5)*, printed pp. 67–68 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, plants what-a-plant-needs-to-grow

@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -503,3 +503,24 @@ The teacher-guide rows above are guide evidence, carried as filed; the count ris
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, living things what makes something alive
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 1, student book):** Title as printed: Природни науки за прво одделение (Natural Sciences for Grade 1). Authors: Nela Slezhenkova-Nikovska, Sonja Kirkovska. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-155-1. PDF 132 pages; printed page = PDF page − 1 (CIP record: 129 printed pages; the closing appendices, printed pp. 104–129, are cut-out cards — no placements). Verdict: COMPLETE. Record mismatch, named: the TSV record (grade-01/gov/north-macedonia/science/full-year.pdf) titles this book "Shkencat natyrore" (Albanian for Natural Sciences), but the file the repo serves is the MACEDONIAN edition named above; it is filed here as the book it is. Read from the repo copy — 55,406,262 bytes, matching the repo tree exactly; the book is already secured in GitHub, so no staging copy was needed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| characteristics of living beings: how living things change as they grow (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed pp. 48–49 |
+| basic needs of living beings: what every living thing needs (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed pp. 50–51 |
+
+**Book (North Macedonia — Science, Grade 4, student book):** Title as printed: Природне науке за четврти разред (Natural Sciences for Grade 4). Author: Nela Slezhenkova-Nikovska; this is the Serbian translation of the Macedonian original (translator: Gordana Jovikj-Stojkovska, per the CIP record). Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-203-9. PDF 148 pages; printed page numbers match PDF pages (CIP record: 146 printed pages; the last two PDF pages are blank end papers). Verdict: COMPLETE. Record mismatch, named: the records label the file grade-04/gov/north-macedonia/science/student/full-year.pdf a "(Macedonian e-textbook)", but the file itself is the SERBIAN translation named above. The Macedonian original is the twin file (full-year-alt.pdf), verified the same book — see the twin block after this section's tally. The content is placed ONCE, from this text edition (the alt file is image-only). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Properties of animals and plants and their division unit: the life processes that living things share (NM Science G4) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed pp. 46–48 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, animals living-things-what-makes-something-alive

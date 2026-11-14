@@ -1,6 +1,6 @@
 # Sources — How water moves through a plant
 
-countries: China, Syria
+countries: China, Syria, North Macedonia
 
 **Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
 
@@ -32,3 +32,19 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — how-wa
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, how water moves through a plant
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 2, student book):** Title as printed: Природни науки (Natural Sciences) for Grade 2. Authors: Sonja Kirkovska, Nela Slezenkova-Nikovska et al. Publisher: Ministry of Education and Science e-textbook (e-ucebnici.mon.gov.mk). PDF 118 pages; printed page numbers match PDF pages (verified visually on p. 10). Verdict: COMPLETE. Twin record: TSV blob record and books.json record grade-02/gov/north-macedonia/science/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water transport through the plant: the stem's job; drinking through a straw as the model; coloured-water style experiment (NM Science G2) (placement filed as NEW LESSON NEEDED — how-water-moves-through-a-plant; this lesson already exists in the live course under that slug, built by an earlier expansion merge, so it is stocked here) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed p. 40 |
+
+Placement choice, on the record: the North Macedonia placement(s) above were filed as NEW LESSON NEEDED under the slug this lesson already carries — the lesson was built by an earlier country in this expansion — so they are stocked here and no second lesson is built.
+
+**Acceptance count: taught in 3 countries (China, Syria, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, plants how-water-moves-through-a-plant

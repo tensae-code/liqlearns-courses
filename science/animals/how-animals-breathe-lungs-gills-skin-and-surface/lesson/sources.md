@@ -1,6 +1,6 @@
 # Sources — How animals breathe — lungs, gills, skin and surface
 
-countries: Bulgaria, Mauritania, Kuwait
+countries: Bulgaria, Mauritania, Kuwait, North Macedonia
 
 **Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
 
@@ -46,3 +46,19 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, how animals breathe lungs gills skin and surface
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 4, student book):** Title as printed: Природне науке за четврти разред (Natural Sciences for Grade 4). Author: Nela Slezhenkova-Nikovska; this is the Serbian translation of the Macedonian original (translator: Gordana Jovikj-Stojkovska, per the CIP record). Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-203-9. PDF 148 pages; printed page numbers match PDF pages (CIP record: 146 printed pages; the last two PDF pages are blank end papers). Verdict: COMPLETE. Record mismatch, named: the records label the file grade-04/gov/north-macedonia/science/student/full-year.pdf a "(Macedonian e-textbook)", but the file itself is the SERBIAN translation named above. The Macedonian original is the twin file (full-year-alt.pdf), verified the same book — see the twin block after this section's tally. The content is placed ONCE, from this text edition (the alt file is image-only). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| breathing in water and land animals: we breathe with lungs; fish breathe with gills (NM Science G4) (placement filed as NEW LESSON NEEDED — how-animals-breathe-lungs-gills-and-other-ways; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed pp. 49–51 |
+
+Placement choice, on the record: the North Macedonia placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in each provenance row.
+
+**Acceptance count: taught in 4 countries (Bulgaria, Mauritania, Kuwait, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, animals how-animals-breathe-lungs-gills-skin-and-surface

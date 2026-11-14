@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -489,3 +489,23 @@ Searchable tags: laos, lao pdr, science and environment grade 1, science and env
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 3, student book):** Title as printed: Природни науки 3 (Natural Sciences 3), 3rd edition. Authors: Sonja Kirkovska, Nela Slezhenkova-Nikovska. Publisher: Ministry of Education and Science, Skopje, 2025 (approval decision 26-1985/1 of 11.08.2023). ISBN 978-608-273-982-3. PDF 132 pages; printed page = PDF page − 4 (CIP record: 105 pages of content + 24 appendix pages — the appendices are cut-out skeleton and organ cards, symptom role-play cards and a "health traffic light" poster; no placements). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (77,750,941 bytes, 132 pages). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-03/gov/north-macedonia/science/student/full-year.pdf, with its books.json record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Improving health unit: caring for your own health and the health of others; health as the base for proper growth (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed pp. 18–19 |
+| the most common diseases of children: the cold, flu, sore throat and others (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 20 |
+| viruses and bacteria cause the most common diseases (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 21 |
+| how an infectious disease is passed on (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 22 |
+| protecting yourself from infectious diseases (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 23 |
+| the doctor's role in treating children's diseases (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 24 |
+| epidemic and pandemic: when a disease spreads to very many people (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 25 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, keeping-healthy what-disease-is-and-how-it-spreads

@@ -347,3 +347,24 @@ Searchable tags: sri lanka, sri lanka science, things that block light and shado
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, light, things-that-block-light-and-shadows
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 2, student book):** Title as printed: Природни науки (Natural Sciences) for Grade 2. Authors: Sonja Kirkovska, Nela Slezenkova-Nikovska et al. Publisher: Ministry of Education and Science e-textbook (e-ucebnici.mon.gov.mk). PDF 118 pages; printed page numbers match PDF pages (verified visually on p. 10). Verdict: COMPLETE. Twin record: TSV blob record and books.json record grade-02/gov/north-macedonia/science/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| shadows through the day: drawing shadows in the schoolyard (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed p. 63 |
+| how shadows appear: investigation (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed p. 84 |
+
+**Book (North Macedonia — Science, Grade 5, student book):** Title as printed: Природни науки за 5 одделение (Natural Sciences for Grade 5). Authors: Icko Gjorgoski, Metodija Najdovski, Biljana Gichevski. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-183-4. PDF 148 pages; printed page = PDF page − 1 (CIP record: 145 printed pages). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — 67,286,309 bytes, 148 pages (the record gives the page count, 148, but no byte size). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-05/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5.7: shadows — a shadow is the dark space behind something light cannot pass, because light travels straight; shadow puppet theatre (NM Science G5) | North Macedonia, *Природни науки за 5 одделение (Natural Sciences for Grade 5)*, printed pp. 136–137 |
+
+**Acceptance count unchanged: taught in 24 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda).** North Macedonia is already counted in this lesson from the earlier split-subject waves; the North Macedonia general-science rows above add its primary-school books' teaching of this thing without changing the count.
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, light things-that-block-light-and-shadows

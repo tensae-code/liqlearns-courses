@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -237,3 +237,18 @@ Searchable tags: laos, lao pdr, natural sciences grade 8, science and environmen
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, the sun scale layers spots and storms
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 6, student book):** Title as printed: Природни науки 6 — учебник за шесто одделение (Natural Sciences 6 — textbook for Grade 6). Authors: Icko Gjorgoski, Metodija Najdoski, Boce Mitrevski. Publisher: Ministry of Education and Science of the Republic of North Macedonia, Skopje, 2023 (approval decision 26-2186/1 of 15.09.2023; print run 13,438). No ISBN is printed in the book's imprint pages. PDF 194 pages; printed page numbers match PDF pages. Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (93,278,910 bytes, 194 pages). 124 of its pages carry a custom-font text layer without a character map; those pages were recovered in full by OCR and the whole book was read. Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-06/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. Scope note: the book unites four science areas and badges each theme with its area. Themes 1 (Chemistry), 2 (Biology), 4 and 5 (Physics) are split-subject chapters — each gets one chapter line below and its items are not placed, per the scope rule. Themes 3 and 6 are general science and are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun and the Solar System: the Sun holds 99.95% of the system's mass (as printed), is about 4.6 billion years old and 150 million km away, and its light reaches us in about 8 minutes; it is built of hydrogen (about 74%) and helium (about 25%) (NM Science G6) | North Macedonia, *Природни науки 6 (Natural Sciences 6)*, printed p. 98 |
+| the Sun's building: the core at about 15 million °C, the photosphere (about 5,000 °C) as the visible surface, the chromosphere and the corona; sunspots and prominences (NM Science G6) | North Macedonia, *Природни науки 6 (Natural Sciences 6)*, printed pp. 98–99 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia, Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space the-sun-scale-layers-spots-and-storms

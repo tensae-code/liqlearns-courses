@@ -1,6 +1,6 @@
 # Sources — Living and non-living things
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea
+countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -197,3 +197,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, living
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, living and non living things
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 1, student book):** Title as printed: Природни науки за прво одделение (Natural Sciences for Grade 1). Authors: Nela Slezhenkova-Nikovska, Sonja Kirkovska. Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-155-1. PDF 132 pages; printed page = PDF page − 1 (CIP record: 129 printed pages; the closing appendices, printed pp. 104–129, are cut-out cards — no placements). Verdict: COMPLETE. Record mismatch, named: the TSV record (grade-01/gov/north-macedonia/science/full-year.pdf) titles this book "Shkencat natyrore" (Albanian for Natural Sciences), but the file the repo serves is the MACEDONIAN edition named above; it is filed here as the book it is. Read from the repo copy — 55,406,262 bytes, matching the repo tree exactly; the book is already secured in GitHub, so no staging copy was needed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| differences between living and non-living things (NM Science G1) | North Macedonia, *Природни науки за прво одделение (Natural Sciences for Grade 1)*, printed pp. 56–57 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guyana, Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, science-skills living-and-non-living-things

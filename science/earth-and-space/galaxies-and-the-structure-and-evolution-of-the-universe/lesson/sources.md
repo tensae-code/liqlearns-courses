@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only)
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -133,3 +133,17 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, galaxies and the s
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, galaxies and the structure and evolution of the universe
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 6, student book):** Title as printed: Природни науки 6 — учебник за шесто одделение (Natural Sciences 6 — textbook for Grade 6). Authors: Icko Gjorgoski, Metodija Najdoski, Boce Mitrevski. Publisher: Ministry of Education and Science of the Republic of North Macedonia, Skopje, 2023 (approval decision 26-2186/1 of 15.09.2023; print run 13,438). No ISBN is printed in the book's imprint pages. PDF 194 pages; printed page numbers match PDF pages. Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (93,278,910 bytes, 194 pages). 124 of its pages carry a custom-font text layer without a character map; those pages were recovered in full by OCR and the whole book was read. Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-06/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. Scope note: the book unites four science areas and badges each theme with its area. Themes 1 (Chemistry), 2 (Biology), 4 and 5 (Physics) are split-subject chapters — each gets one chapter line below and its items are not placed, per the scope rule. Themes 3 and 6 are general science and are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the structure of the universe: star systems build galaxies and galaxies build clusters; hundreds of billions of galaxies; the Milky Way is a spiral galaxy and the Sun sits on the outer edge of one arm (NM Science G6) | North Macedonia, *Природни науки 6 (Natural Sciences 6)*, printed pp. 94–95 |
+
+**Acceptance count: taught in 7 countries (Bulgaria, Yemen, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe

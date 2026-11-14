@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -397,3 +397,25 @@ Searchable tags: laos, lao pdr, science and environment grade 3
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, rotation revolution day night and seasons
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 2, student book):** Title as printed: Природни науки (Natural Sciences) for Grade 2. Authors: Sonja Kirkovska, Nela Slezenkova-Nikovska et al. Publisher: Ministry of Education and Science e-textbook (e-ucebnici.mon.gov.mk). PDF 118 pages; printed page numbers match PDF pages (verified visually on p. 10). Verdict: COMPLETE. Twin record: TSV blob record and books.json record grade-02/gov/north-macedonia/science/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth, Sun and Moon unit: day and night (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed p. 59 |
+| Earth moves around the Sun; the four seasons and their characteristics (spring, summer, autumn, winter table) (NM Science G2) | North Macedonia, *Природни науки (Natural Sciences) for Grade 2*, printed pp. 64–66 |
+
+**Book (North Macedonia — Science, Grade 6, student book):** Title as printed: Природни науки 6 — учебник за шесто одделение (Natural Sciences 6 — textbook for Grade 6). Authors: Icko Gjorgoski, Metodija Najdoski, Boce Mitrevski. Publisher: Ministry of Education and Science of the Republic of North Macedonia, Skopje, 2023 (approval decision 26-2186/1 of 15.09.2023; print run 13,438). No ISBN is printed in the book's imprint pages. PDF 194 pages; printed page numbers match PDF pages. Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (93,278,910 bytes, 194 pages). 124 of its pages carry a custom-font text layer without a character map; those pages were recovered in full by OCR and the whole book was read. Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-06/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. Scope note: the book unites four science areas and badges each theme with its area. Themes 1 (Chemistry), 2 (Biology), 4 and 5 (Physics) are split-subject chapters — each gets one chapter line below and its items are not placed, per the scope rule. Themes 3 and 6 are general science and are placed in full. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Earth's rotation: the axis is tilted 23.5° and one turn takes 24 hours, from west to east; the Sun only seems to move; day and night follow (globe-and-lamp demonstration) (NM Science G6) | North Macedonia, *Природни науки 6 (Natural Sciences 6)*, printed pp. 104–105 |
+| Earth's revolution: the 365-day orbit; tilt plus travelling gives the seasons, unequal day and night, and the heat belts; solstices and equinoxes (shortest day 22 December, equal days 20 March and 23 September, longest day 21 June); opposite seasons in the two halves of the Earth; nearest the Sun in December, furthest in June (NM Science G6) | North Macedonia, *Природни науки 6 (Natural Sciences 6)*, printed pp. 106–108 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space rotation-revolution-day-night-and-seasons

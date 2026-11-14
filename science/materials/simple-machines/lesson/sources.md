@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -386,3 +386,21 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 3, student book):** Title as printed: Природни науки 3 (Natural Sciences 3), 3rd edition. Authors: Sonja Kirkovska, Nela Slezhenkova-Nikovska. Publisher: Ministry of Education and Science, Skopje, 2025 (approval decision 26-1985/1 of 11.08.2023). ISBN 978-608-273-982-3. PDF 132 pages; printed page = PDF page − 4 (CIP record: 105 pages of content + 24 appendix pages — the appendices are cut-out skeleton and organ cards, symptom role-play cards and a "health traffic light" poster; no placements). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (77,750,941 bytes, 132 pages). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-03/gov/north-macedonia/science/student/full-year.pdf, with its books.json record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple machines: the pulley, lever, wedge, inclined plane, wheel and axle, gears and screw make work easier (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 63 |
+| the pulley: a wheel that helps to lift loads (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 64 |
+| the wheel and axle (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 65 |
+| the difference between simple and complex machines (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed p. 66 |
+| simple machines are all around us in everyday life; working the lever through examples (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed pp. 67–68 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials simple-machines

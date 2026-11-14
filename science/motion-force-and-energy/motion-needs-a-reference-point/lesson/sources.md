@@ -1,6 +1,6 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -188,3 +188,18 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, motion
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, motion needs a reference point
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 3, student book):** Title as printed: Природни науки 3 (Natural Sciences 3), 3rd edition. Authors: Sonja Kirkovska, Nela Slezhenkova-Nikovska. Publisher: Ministry of Education and Science, Skopje, 2025 (approval decision 26-1985/1 of 11.08.2023). ISBN 978-608-273-982-3. PDF 132 pages; printed page = PDF page − 4 (CIP record: 105 pages of content + 24 appendix pages — the appendices are cut-out skeleton and organ cards, symptom role-play cards and a "health traffic light" poster; no placements). Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (77,750,941 bytes, 132 pages). Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-03/gov/north-macedonia/science/student/full-year.pdf, with its books.json record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Forces and movements unit: the position of one body compared with another body (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed pp. 39–40 |
+| movement and rest: the moving child against the resting armchair; riding in a car, the tree outside seems to move (NM Science G3) | North Macedonia, *Природни науки 3 (Natural Sciences 3)*, printed pp. 41–42 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Syria, Sudan, Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, motion-force-and-energy motion-needs-a-reference-point

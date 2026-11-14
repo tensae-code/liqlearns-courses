@@ -1,6 +1,6 @@
 # Sources — Map Scale, Key and Symbols
 
-countries: Ethiopia, Serbia, Iceland (teacher-guide evidence only), Mongolia, Moldova, Armenia, Cuba, Sudan
+countries: Ethiopia, Serbia, Iceland (teacher-guide evidence only), Mongolia, Moldova, Armenia, Cuba, Sudan, North Macedonia
 
 **Book 1:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
 
@@ -108,3 +108,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, map sca
 
 **Acceptance count: taught in 7 countries (Ethiopia, Serbia, Mongolia, Moldova, Armenia, Cuba, Sudan).**
 Searchable tags: sudan, sudan grade 9, location-and-maps/map-scale-key-and-symbols
+
+## North Macedonia growth (2026-11-14, General Science expansion)
+
+**Book (North Macedonia — Science, Grade 4, student book):** Title as printed: Природне науке за четврти разред (Natural Sciences for Grade 4). Author: Nela Slezhenkova-Nikovska; this is the Serbian translation of the Macedonian original (translator: Gordana Jovikj-Stojkovska, per the CIP record). Publisher: Ministry of Education and Science, Skopje, 2022. ISBN 978-608-273-203-9. PDF 148 pages; printed page numbers match PDF pages (CIP record: 146 printed pages; the last two PDF pages are blank end papers). Verdict: COMPLETE. Record mismatch, named: the records label the file grade-04/gov/north-macedonia/science/student/full-year.pdf a "(Macedonian e-textbook)", but the file itself is the SERBIAN translation named above. The Macedonian original is the twin file (full-year-alt.pdf), verified the same book — see the twin block after this section's tally. The content is placed ONCE, from this text edition (the alt file is image-only). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the geographic map and the globe: the globe as a model of the Earth; map scale (NM Science G4) | North Macedonia, *Природне науке за четврти разред (Natural Sciences for Grade 4) (Serbian edition)*, printed pp. 20–21 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Serbia, Mongolia, Moldova, Armenia, Cuba, Sudan, North Macedonia).**
+
+North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, location-and-maps map-scale-key-and-symbols
