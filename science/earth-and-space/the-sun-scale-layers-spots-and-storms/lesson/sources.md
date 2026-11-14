@@ -32,3 +32,17 @@ countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curricul
 No book errors attach to this item.
 
 Searchable tags: Sun, photosphere, chromosphere, corona, solar wind, sunspots, prominences, solar flares, 108 Earth diameters, Ethiopia Grade 8 General Science Unit 6, finland
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 24 The Sun — our star (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 24 The Sun — our star: the nearest star, 150 million km away, its light reaching us in 8 minutes; the Sun as the source of energy for life — printed p. 50 |
+
+**Acceptance count: unchanged — taught in 5 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia).** Bulgaria is already counted in this lesson (via its Physics-wave book, *Физика и астрономия за 7. клас (Педагог 6, 2024)*); this General Science book adds its provenance rows here without changing the count.
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, the sun scale layers spots and storms

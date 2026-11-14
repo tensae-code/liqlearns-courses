@@ -570,7 +570,7 @@ solar-system comparison lessons.
 19. **Reproducing plants — seeds and other ways** (`plants/reproducing-plants-seeds-and-other-ways`) — the different ways to grow a new plant: from a seed, and without starting from a seed — from a bulb or a cutting — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, Module 3, printed pp. 29, 40; PARTIAL — damaged file, as filed)
 20. **Life stages of a plant** (`plants/life-stages-of-a-plant`) — the great stages of a plant's life, compared with the stages of a human life — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, printed p. 42; PARTIAL — damaged file, as filed)
 21. **Plant adaptations — to where they live** (`plants/plant-adaptations-to-where-they-live`) — plant adaptations for desert, rain forest and swampy conditions, and how adaptations assist survival — curriculum evidence only, acceptance 0 (Barbados, Classes 2–3 — *Primary Science Syllabus, Class One–Four*, printed p. 11)
-
+22. **Life cycle of a flowering plant** (`plants/life-cycle-of-a-flowering-plant`) — an annual plant's circle on the bean: the seed's embryo, coat and stored food; germination needing warmth, moisture and air; growth, flowering and new seeds (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 39, printed p. 78)
 
 ## Unit 9 — Animals
 
@@ -599,7 +599,10 @@ solar-system comparison lessons.
 23. **Animal teeth — and what they eat** (`animals/animal-teeth-and-what-they-eat`) — do all animals have the same teeth? Teeth and diet: an animal's teeth fit what it eats — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, printed p. 27; PARTIAL — damaged file, as filed)
 24. **Camouflage — how animals hide** (`animals/camouflage-how-animals-hide`) — camouflage defined, taught through insect examples, and why it matters for survival — curriculum evidence only, acceptance 0 (Barbados, Class 3 — *Primary Science Syllabus, Class One–Four*, printed p. 14)
 25. **Inheritance — genes and traits** (`animals/inheritance-genes-and-traits`) — inherited traits against acquired traits, genes as DNA instructions showing through proteins, Mendel's tall × short pea crosses (all tall first, short returning 1 in 4 — dominant and recessive), sex determination by the father's X or Y, and evolution as inherited variation kept by selection over generations (India, Class X — *Science, Textbook for Class X* (NCERT), Ch. 9 Heredity and Evolution, printed p. 142)
-
+26. **Herbivores, carnivores and omnivores** (`animals/herbivores-carnivores-and-omnivores`) — animals grouped by food: plant-eaters, animal-eaters, and eaters of both, taught inside the food-chain lesson (Bulgaria, Grade 3 — *Човекът и природата за 3. клас*, Lesson 15, printed p. 36)
+27. **Adaptations for life in water and on land** (`animals/adaptations-for-life-in-water-and-on-land`) — water fittings (fins, shells, tentacles, webbed feet; the dolphin is not a fish) and land fittings for movement, feeding, winter and defence (Bulgaria, Grade 3 — *Човекът и природата за 3. клас*, Lessons 18–19, printed pp. 42, 44)
+28. **How animals breathe — lungs, gills, skin and surface** (`animals/how-animals-breathe-lungs-gills-skin-and-surface`) — breathing as a life process: oxygen taken in to release energy from food, by lungs, gills, skin or the whole surface; plants breathe too (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 36, printed p. 72)
+29. **Camouflage and warning colours** (`animals/camouflage-and-warning-colours`) — protective colouring both ways: the mantis hidden in green and the squirrel's seasonal coat against the wasp's warning stripes and the salamander's signal spots (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 52, printed p. 103)
 
 ## Unit 10 — Natural Resources
 
@@ -662,7 +665,10 @@ solar-system comparison lessons.
 46. **Patch reefs** (`our-environment/patch-reefs`) — solid reef islands on the lagoon floor, growing toward the sunlight, giving shallow-water animals their hiding places (Micronesia, Grades 6–8 — *Pacific Low Island Environments*, printed p. 13)
 47. **Flood and landslide emergency plans** (`our-environment/flood-and-landslide-emergency-plans`) — making a community emergency plan for floods and landslides before the emergency comes — Costa Rica's own preparedness task (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 124)
 48. **Coral reefs — a Caribbean habitat** (`our-environment/coral-reefs-a-caribbean-habitat`) — the coral reef as habitat and ecosystem: reef organisms, its importance to the Caribbean, and how people destroy reefs — curriculum evidence only, acceptance 0 (Barbados, Class 4 — *Primary Science Syllabus, Class One–Four*, printed p. 17)
-
+49. **Natural and human-made communities** (`our-environment/natural-and-human-made-communities`) — communities that grow by themselves (forest, sea, river, swamp) against communities people make and keep (park, fishpond, field, garden) (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 48, printed p. 95)
+50. **Communities in fresh and salt water** (`our-environment/communities-in-fresh-and-salt-water`) — fresh waters (water lilies, carp, catfish, pike, herons) against salt waters (algae near the sunlit surface, plankton) (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 49, printed p. 96)
+51. **Communities of plains and mountains** (`our-environment/communities-of-plains-and-mountains`) — the plains (fertile soil, meadows, small mammals, camouflaged partridge) against the mountains (broadleaf forest, conifers, alpine shrubs, edelweiss, wild goats, eagles) (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 51, printed p. 100)
+52. **In defence of our nature — a country project** (`our-environment/in-defence-of-our-nature-a-country-project`) — the project: research a protected territory near home — its species, its rare inhabitants, and why it matters (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 56, printed p. 109)
 
 ## Unit 12 — Family, School and Community
 
@@ -780,6 +786,7 @@ solar-system comparison lessons.
 31. **Indigenous technologies — living technologies** (`science-skills/indigenous-technologies-living-technologies`) — fibre technology, food preparation and preservation, textiles and woodwork as living technologies — a living science of land, resources and culture, still practised and handed down — teacher-guide evidence only, acceptance 0 (Canada, Grades 10–12 — *Secondary Science First Peoples: Teacher Resource Guide*, Unit 10 Living Technologies, printed p. 251)
 32. **Science and industry — technology in daily life** (`science-skills/science-and-industry-technology-in-daily-life`) — technological products and their uses, and industry as science organised to make things and keep them — foods and how they are preserved among its indicators — curriculum evidence only, acceptance 0 (Ghana, Basic 2 — *Science Curriculum for Primary Schools (Basic 1–3)*, printed p. 53; Basic 5 — *Science Curriculum for Primary Schools (Basic 4–6)*, printed p. 31; Basic 7 — *Science Curriculum for Junior High Schools*, printed p. 47)
 33. **Drawing biological specimens** (`science-skills/drawing-biological-specimens`) — how to draw a specimen: a drawing is not a diagram — true proportion, magnification stated, and ruled label lines — curriculum evidence only, acceptance 0 (Barbados, Appendix B — *Primary Science Syllabus, Class One–Four*, printed p. 119)
+34. **Fieldwork — observing a community in nature** (`science-skills/fieldwork-observing-a-community-in-nature`) — the school excursion as a prepared study: choose a community, frame questions, carry notebook and magnifier, record the living things and the traces of human activity (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 54, printed p. 106)
 
 ## Unit 16 — Biology
 

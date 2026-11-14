@@ -1,6 +1,6 @@
 # Sources — Food — a balanced diet
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -64,3 +64,20 @@ Uganda's own way — science kept going through the COVID-19 school closures as 
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning, primary five, home-study learning
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 27 Caring for health (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 27 Caring for health: useful foods, the rules of healthy eating, and why variety matters — printed p. 60 |
+| Lesson 59 (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 59: healthy eating — regular, varied, enough; the harm of alcohol, especially for the growing body — printed p. 115 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, Uganda, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, food a balanced diet

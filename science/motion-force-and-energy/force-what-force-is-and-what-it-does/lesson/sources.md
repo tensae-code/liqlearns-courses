@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -183,3 +183,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class viii, force-what-force-is-and-what-it-does
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Chapter Movement and Energy, Lessons 13–18 (kinds of motion — straight, curved, circular, rotation, oscillation; forces — muscular force, Earth's attraction, friction; sound and hearing; light and vision; shadows) — a Physics-wave chapter, named here as already covered by the earlier Physics wave; its items are not placed (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Chapter Movement and Energy, Lessons 13–18 (kinds of motion — straight, curved, circular, rotation, oscillation; forces — muscular force, Earth's attraction, friction; sound and hearing; light and vision; shadows) — a Physics-wave chapter, named here as already covered by the earlier Physics wave; its items are not placed — printed p. 30 — filed as a Physics-wave chapter line: the chapter is named here as already covered by the earlier Physics wave and its items are not placed separately |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, force what force is and what it does

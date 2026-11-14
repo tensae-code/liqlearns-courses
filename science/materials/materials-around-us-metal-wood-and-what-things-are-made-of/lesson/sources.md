@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -86,3 +86,17 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vi, class vii, materials-around-us-metal-wood-and-what-things-are-made-of
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 5 (exercise) Recognising materials (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 5 (exercise) Recognising materials: naming the material of shown objects and matching parts of a bicycle and an umbrella to materials — printed p. 16 |
+
+**Acceptance count: taught in 3 countries (Guyana, India, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, materials around us metal wood and what things are made of

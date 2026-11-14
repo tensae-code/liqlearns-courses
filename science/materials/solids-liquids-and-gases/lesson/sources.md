@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -252,3 +252,17 @@ Uganda's own way — one prototype General Science book for the whole of Senior 
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum, primary five, home-study learning
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2 Solid bodies, liquids and gases (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 2 Solid bodies, liquids and gases: own shape and own volume, and which can flow — printed p. 10 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, solids liquids and gases

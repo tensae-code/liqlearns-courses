@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -107,3 +107,17 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Mongolia's own way — the *Хүн ба орчин* (Man and Environment, Grades 1–3) five-unit frame deepening year by year, then the *Хүн ба байгаль* (Man and Nature, Grades 4–5) named investigation chapters — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, the moon earths natural satellite and its phases, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 2, grade 5
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 26 (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 26: the Moon — Earth's only natural satellite, circling in 28 days, shining by reflected sunlight, its phases, with no air, water or life — printed pp. 54–55 |
+
+**Acceptance count: taught in 7 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, the moon earths natural satellite and its phases

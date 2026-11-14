@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica, Barbados (curriculum evidence only), Uganda
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -239,3 +239,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 19 Energy (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 19 Energy: kinds of energy (of movement, heat, light, of fuels and food, electrical), energy changing from one kind to another, and oxygen being needed for burning — printed p. 42 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, energy forms and conversions

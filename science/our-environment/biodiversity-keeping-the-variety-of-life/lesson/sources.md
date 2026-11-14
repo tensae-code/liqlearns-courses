@@ -1,6 +1,6 @@
 # Sources — Biodiversity — keeping the variety of life
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -128,3 +128,20 @@ Searchable tags: djibouti, sciences expérimentales, cripen, biodiversity, somal
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, biodiversity keeping the variety of life
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 20 Protecting organisms and their environment (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 20 Protecting organisms and their environment: every organism matters; threats (felling, draining, pollution, thoughtless hunting) and protection, with the Red Book of Bulgaria — printed p. 46 |
+| Lesson 53 Man and the balance in nature (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 53 Man and the balance in nature: how people break the balance (felling, draining, pollution, poisons, overhunting) and the measures that protect it — the Red Book of Bulgaria, over 800 protected territories, the Parangalitsa and Srebarna reserves — printed p. 104 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, biodiversity keeping the variety of life

@@ -1,6 +1,6 @@
 # Sources — Flowers — and how plants reproduce
 
-countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India
+countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -66,3 +66,18 @@ Placement choice, on the record: the filed slug(s) above do not exist in the liv
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vii, flowers-and-how-plants-reproduce
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 38 Reproduction in flowering plants (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 38 Reproduction in flowering plants: stamens and pistil, pollination by wind and by animals drawn by nectar, colour and scent — printed p. 76 — filed as NEW LESSON NEEDED — plants/flowers-pollination-and-seeds; stocked into this existing lesson, which already covers the flower's parts, pollination and seed formation, and the original slug is recorded here |
+| Lesson 38 (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 38: from flowers to seeds — the fruit protects the seeds and helps them spread (wind parachutes, hooks on fur, eaten and carried) — printed p. 77 — filed as NEW LESSON NEEDED — plants/flowers-pollination-and-seeds; stocked into this existing lesson, which already covers the flower's parts, pollination and seed formation, and the original slug is recorded here |
+
+**Acceptance count: taught in 3 countries (Guyana, India, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, flowers and how plants reproduce

@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bulgaria
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -95,3 +95,17 @@ Searchable tags: djibouti, sciences expérimentales, cripen, breathing, lungs he
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vii, the-lungs-and-breathing
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 61 Breathing and health (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 61 Breathing and health: how we breathe (nose, windpipe, lungs; the chest rising and falling), why clean air matters, and the harm of tobacco smoke — printed pp. 118–119 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Guyana, India, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, the lungs and breathing

@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -108,3 +108,17 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 15 (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 15: the food chain — every chain starts with a plant; vultures as nature's cleaners — printed p. 36 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Serbia, Mongolia, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, food chains food webs and energy pyramids

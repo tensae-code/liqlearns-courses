@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India
+countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -149,3 +149,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vi, magnets-poles-and-magnetic-materials
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 1 (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 1: attracted by a magnet or not; and which substances burn — printed p. 9 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, magnets poles and magnetic materials

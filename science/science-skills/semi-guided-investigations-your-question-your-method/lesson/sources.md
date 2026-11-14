@@ -1,6 +1,6 @@
 # Sources — Semi-guided investigations — your question, your method
 
-countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands
+countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -36,3 +36,17 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 Student placement: Grade 8 student item 3 (printed pp. 10–12). Guide placement: Grade 8 teacher item 4 (printed pp. 19–23), filed here as labelled teacher evidence, as placed. One honesty note: the guide's closing group project — investigating the procedures and materials of making injera — is named in the guide, but the guide's own promised harmonisation of it never appears in the book (the text ends and the page turns to Assessment); nothing about that harmonisation is taught here. The student book's starch hint speaks of a dark colour change with iodine; the guide's keyed reading — brown staying brown (no starch) against blue-black (starch present) — is the reading taught.
 
 Searchable tags: semi-guided investigation, electromagnet coiled nail, leaf starch test iodine, candle air burning, null hypothesis alternative hypothesis, hypothesis revision, Grade 8 Unit 1, cook islands, cook islands grade 8, ko au e toku aorangi
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 11 project "Let's Think Green" (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 11 project "Let's Think Green": investigating the environmental problems of one's own settlement and proposing measures — printed p. 27 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, semi guided investigations your question your method

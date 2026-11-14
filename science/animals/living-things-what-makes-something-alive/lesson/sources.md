@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -105,3 +105,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 12 Living organisms and life processes (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 12 Living organisms and life processes: living things feed, grow and reproduce, unlike non-living bodies — printed p. 30 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, Uganda, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, living things what makes something alive

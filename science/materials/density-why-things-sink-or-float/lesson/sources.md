@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only)
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -79,3 +79,17 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 1 (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 1: float or sink — bodies of substances lighter than water float, heavier sink (and why a steel ship floats) — printed pp. 8, 11 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Finland, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, density why things sink or float

@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -82,3 +82,17 @@ Uganda's own way — one prototype General Science book for the whole of Senior 
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum, primary four, home-study learning
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 27 (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 27: movement and first aid for injuries — splinting a broken bone and calling 112 — printed p. 60 |
+
+**Acceptance count: taught in 4 countries (Turkey, Suriname, Uganda, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, accidents and staying safe

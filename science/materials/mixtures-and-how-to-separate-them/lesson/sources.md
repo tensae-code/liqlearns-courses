@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -95,3 +95,20 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, dissolve, short or l
 **Acceptance count: taught in 2 countries (Ethiopia, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 3 (Bulgaria):** *Човекът и природата за 3. клас* (Man and Nature, Grade 3) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за трети клас (Man and Nature for Third Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2018; ISBN 978-619-7457-31-5. PDF pages: 70 (printed 68 pages); byte size 38,787,695. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed p. 68 confirm the book runs to its last lesson. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7 Water (Bulgaria, Grade 3) | Bulgaria, *Човекът и природата за 3. клас*, Lesson 7 Water: a liquid with no colour, taste or smell that dissolves some substances (why sea water is salty and mineral waters taste of what is dissolved in them) — printed p. 20 |
+| Lesson 1 Properties of substances (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 1 Properties of substances: do they dissolve in water (salt, sugar, vinegar dissolve; sand, clay and oil do not) — printed p. 8 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, mixtures and how to separate them

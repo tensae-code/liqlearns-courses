@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -143,3 +143,17 @@ Uganda's own way — science kept going through the COVID-19 school closures as 
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning, primary five, home-study learning
+
+## Bulgaria growth (2026-11-13, General Science expansion)
+
+**Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE — cover and imprint page visually verified against the record title; full contents at printed pp. 128–129 confirm the book runs to its last lesson and end-of-year check. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 62 Diseases (Bulgaria, Grade 4) | Bulgaria, *Човекът и природата за 4. клас*, Lesson 62 Diseases: infectious diseases are caused by microbes (viruses and bacteria) entering through air, water, food or touch; protection table for each route; useful bacteria too (sour milk) — printed p. 120 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria).**
+
+Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
+
+Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, what disease is and how it spreads
