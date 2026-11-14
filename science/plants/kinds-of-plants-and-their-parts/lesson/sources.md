@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -21,7 +21,7 @@ countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-gu
 | Grade 5 — seedless plants: algae, fungi, mosses, ferns (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §3.2.3, printed pp. 54–56 |
 | Grade 6 — seeded plants: cones, flowers, pollination, seeds | Ethiopia, *Grade 6 Student Textbook*, printed pp. 27–31 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
@@ -78,3 +78,27 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — parts of a plant found with the senses, and plants sorted into those that give food and those that give decoration, taught in Bislama in the guide's Term 1 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, parts of a plant, senses, flower
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B* (student) — Sweden, SPSM. Title as printed: "Växter omkring oss" (Plants around us). The complete conversation-picture set for both the A and B books in one file, filed as Grade 1. Records: TSV "Växter omkring oss A" + books.json — the same file, cited once here. PDF: 6,840,073 bytes, 36 PDF pages, image-only (read from 100-DPI renders, every page). Verdict: COMPLETE as held. The picture books have no printed page numbers; pages are cited as PDF pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+**Book (Sweden):** *Växter omkring oss A — kopieringsunderlag* (student) — Sweden, SPSM. Title as printed: "Växter omkring oss A". Copy pages of the A book (printed pp. 90–91, 101, 103, 105), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. NOTE, carried as filed: both records carry the wrong title "ISO 15930 - Electronic document file format for prepress digital data exchange (PDF/X)" — that is the PDF/X prepress standard named in the file's print metadata, not the book; the PDF's own internal title is "Växter.indd" and the content, verified page by page, is the A book's copy pages. PDF: 3,027,137 bytes, 6 PDF pages. Verdict: PARTIAL — only the A book's copy pages are held; the A book's plant portraits are inside the combined A+B picture set *Växter omkring oss A och B — samtliga växter* above. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+**Book (Sweden):** *Växter omkring oss B — Lärarhandledning* (teacher guide) — Sweden, SPSM, © 2015. Author: Ellika Melander. Guide ISBN 978-91-28-11567-4; the pupil book's ISBN is 978-91-28-11566-7 (both from the guide's colophon). Filed as Grade 1, teacher guide. Records: TSV + books.json — the same file, cited once here. PDF: 5,638,405 bytes, 5 PDF pages. Verdict: COMPLETE. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Trees and bushes set: oak, spruce, pine, birch, maple, rowan, bird cherry, lilac — naming the common trees around us (Sweden, Grade 1) | Sweden, *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B*, PDF pp. 1–8 |
+| Spring flowers set: liverleaf, wood anemone, coltsfoot, lily of the valley — the first flowers of spring (Sweden, Grade 1) | Sweden, *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B*, PDF pp. 23–26 |
+| Summer flowers set: harebell, buttercup, dandelion, oxeye daisy, cow parsley (Sweden, Grade 1) | Sweden, *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B*, PDF pp. 27–31 |
+| Garden flowers grown for beauty: daffodil, tulip, rose, marigold, crocus (Sweden, Grade 1) | Sweden, *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B*, PDF pp. 32–36 |
+| Klippark 5, "Alla växter 1": cut-out trees (spruce, pine, apple tree, oak, birch, pear tree) for the sorting scene (Sweden, Grade 1) | Sweden, *Växter omkring oss A — kopieringsunderlag*, printed p. 101 |
+| Klippark 7, "Alla växter 7": cut-out flowers (wood anemone, liverleaf, coltsfoot, buttercup, harebell, daisy, dandelion, daffodil, tulip, rose) (Sweden, Grade 1) | Sweden, *Växter omkring oss A — kopieringsunderlag*, printed p. 105 |
+| Guide evidence: how the B book teaches plants — selected plants from the local environment in four groups (trees, berries, fungi, flowers), two plants presented at a time with a short fact text each, then comparison tasks; wild and cultivated plants are compared inside the trees, berries and flowers groups, and the flowers are chosen by spring and summer (teacher guide — evidence) (Sweden, Grade 1) | Sweden, *Växter omkring oss B — Lärarhandledning* (teacher guide — evidence), printed pp. 1–2 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).** — Canada, Guatemala and Vanuatu remain teacher-guide evidence only, counted nowhere; the Sweden teacher-guide row above is likewise evidence only, and Sweden counts here through its pupil picture sets and copy pages.
+
+Sweden's own way — plants are met as full-page portraits, each shown in the place it grows (forest, garden, meadow, roadside), sorted by the season and the place — trees, then spring flowers, then summer flowers, then garden flowers — and handled again as cut-outs to place in the garden-and-forest scene — is itself course content, carried exactly as filed. Honesty: *Växter omkring oss A — kopieringsunderlag* is PARTIAL (only the A book's copy pages are held) and its records carry the wrong PDF/X title, carried as filed above; the A book's portraits are in the combined A+B set.
+
+Searchable tags: sweden, spsm, vaxter omkring oss, trees, oak, spruce, pine, birch, spring flowers, summer flowers, garden flowers, klippark, lararhandledning

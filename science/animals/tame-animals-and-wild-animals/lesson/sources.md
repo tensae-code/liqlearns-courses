@@ -1,6 +1,6 @@
 # Sources — Tame animals and wild animals
 
-countries: Ethiopia
+countries: Ethiopia, Sweden
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -22,7 +22,7 @@ countries: Ethiopia
 | Grade 5 — Ethiopia's wild animals; endemics and protected areas | Ethiopia, *Grade 5 Student Textbook*, printed pp. 119–120 |
 | Grade 6 — the big five; wildlife under threat | Ethiopia, *Grade 6 Student Textbook*, printed pp. 128–131 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–54 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
@@ -31,3 +31,17 @@ Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp
 Grade 5/6 extension (2026-11-12): both student books are COMPLETE. "Korki" is carried as the placements print the endemic's name; no other identification is added.
 
 Searchable tags: domestic animals, wild animals, tame and wild, services of animals, walia ibex, red fox, wild animal uses, tourism income
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Djur omkring oss B — kopieringsunderlag* (student) — Sweden, SPSM. Title as printed: "Djur omkring oss B". Copy pages (kopieringsunderlag) excerpted from the B book, filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 3,683,357 bytes, 4 PDF pages (printed pp. 84–86, 89, 97 of the book). Verdict: PARTIAL — only the book's copy pages are held; the B book's main pages are the picture set *Djur omkring oss B — samtliga djur* above, so no content is unaccounted for between the two files. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Klippark 2 (cut-out sheet 2): farm animals and their young to cut out and sort/match — rooster, sheep, pig, foal, bull, horse, chick, piglet, lamb, cow, hen, calf (Sweden, Grade 1) | Sweden, *Djur omkring oss B — kopieringsunderlag*, printed p. 89 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
+
+Sweden's own way — farm animals and their young are learned by cutting out the pictures and sorting and matching them with the hands, adult to young — is itself course content, carried exactly as filed. Honesty: *Djur omkring oss B — kopieringsunderlag* is PARTIAL (only the book's copy pages, printed pp. 84–86, 89, 97, are held); its main pages are the samtliga picture set, so no content is unaccounted for between the two files.
+
+Searchable tags: sweden, spsm, djur omkring oss, klippark, farm animals, young, foal, piglet, lamb, calf, chick, cut out, sort

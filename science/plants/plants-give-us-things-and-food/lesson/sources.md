@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -11,7 +11,7 @@ countries: Ethiopia, Mexico, Vanuatu (teacher-guide evidence only)
 | From plant to table, chair and page | Ethiopia, *Grade 2 Student Textbook*, Chapter 3, uses of plants — materials and food, printed pp. 42–43 |
 | Maize, a wonderful plant: maize work, rest and yield; the culture of maize; maize in the worldview of the American peoples (Mexico, Grade 7) | Mexico, *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 206–209 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mexico).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Sweden).**
 
 Searchable tags: uses of plants, plants give food, wood paper, bees and butterflies, mexico, etica naturaleza y sociedades
 
@@ -30,3 +30,23 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — things made from trees, too much sun harming plants and animals, and what is happening to the trees now, taught in Bislama in the guide's Term 1 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, things from trees, too much sun
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B* (student) — Sweden, SPSM. Title as printed: "Växter omkring oss" (Plants around us). The complete conversation-picture set for both the A and B books in one file, filed as Grade 1. Records: TSV "Växter omkring oss A" + books.json — the same file, cited once here. PDF: 6,840,073 bytes, 36 PDF pages, image-only (read from 100-DPI renders, every page). Verdict: COMPLETE as held. The picture books have no printed page numbers; pages are cited as PDF pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+**Book (Sweden):** *Växter omkring oss A — kopieringsunderlag* (student) — Sweden, SPSM. Title as printed: "Växter omkring oss A". Copy pages of the A book (printed pp. 90–91, 101, 103, 105), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. NOTE, carried as filed: both records carry the wrong title "ISO 15930 - Electronic document file format for prepress digital data exchange (PDF/X)" — that is the PDF/X prepress standard named in the file's print metadata, not the book; the PDF's own internal title is "Växter.indd" and the content, verified page by page, is the A book's copy pages. PDF: 3,027,137 bytes, 6 PDF pages. Verdict: PARTIAL — only the A book's copy pages are held; the A book's plant portraits are inside the combined A+B picture set *Växter omkring oss A och B — samtliga växter* above. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+**Book (Sweden):** *Växter omkring oss B — Lärarhandledning* (teacher guide) — Sweden, SPSM, © 2015. Author: Ellika Melander. Guide ISBN 978-91-28-11567-4; the pupil book's ISBN is 978-91-28-11566-7 (both from the guide's colophon). Filed as Grade 1, teacher guide. Records: TSV + books.json — the same file, cited once here. PDF: 5,638,405 bytes, 5 PDF pages. Verdict: COMPLETE. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Fruit and berry plants: pear, apple, currant, garden strawberry, gooseberry, redcurrant, cloudberry, wild strawberry, bilberry, lingonberry — plants that give us food (Sweden, Grade 1) | Sweden, *Växter omkring oss A och B — samtliga växter, kopieringsunderlag A och B*, PDF pp. 9–18 |
+| Klippark 6, "Alla växter 2": cut-out berry bushes and fungi (currants, strawberry, bilberry, lingonberry, cloudberry, cep, chanterelle, fly agaric) (Sweden, Grade 1) | Sweden, *Växter omkring oss A — kopieringsunderlag*, printed p. 103 |
+| Guide evidence: extra fact texts the teacher reads aloud and discusses around the plant portraits — tree versus bush, seeds, how a flower develops, what the underside of a mushroom's cap looks like (teacher guide — evidence) (Sweden, Grade 1) | Sweden, *Växter omkring oss B — Lärarhandledning* (teacher guide — evidence), printed p. 2 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mexico, Sweden).** — Vanuatu remains teacher-guide evidence only, counted nowhere; the Sweden teacher-guide row above is likewise evidence only, and Sweden counts here through its pupil picture sets and copy pages.
+
+Sweden's own way — the food plants are the berries and fruits of the child's own place, cloudberry, bilberry and lingonberry beside apple and pear, each met as a portrait in the place it grows and handled again as a cut-out — is itself course content, carried exactly as filed. Honesty: *Växter omkring oss A — kopieringsunderlag* is PARTIAL (only the A book's copy pages are held) and its records carry the wrong PDF/X title, carried as filed in `plants/kinds-of-plants-and-their-parts`; the A book's portraits are in the combined A+B set.
+
+Searchable tags: sweden, spsm, vaxter omkring oss, berries, cloudberry, bilberry, lingonberry, currant, strawberry, apple, pear, klippark

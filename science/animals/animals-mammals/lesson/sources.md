@@ -1,6 +1,6 @@
 # Sources — Animals — mammals
 
-countries: Ethiopia, Canada (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Sweden
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -11,7 +11,7 @@ countries: Ethiopia, Canada (teacher-guide evidence only)
 | Sub lesson 1 — The mammal plan | Grade 7 Student Textbook, Unit 5, printed p. 139 (student placement item 63) |
 | Sub lesson 2 — Mammals in the water | Grade 7 Student Textbook, Unit 5, printed p. 139 (student placement item 63) |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
 
 Pairing warning (carried exactly): the G7 guide is an ADDIS ABABA bureau book (2023), NOT edition-matched to the Amhara student book (©2015 E.C.) — guide material is filed as syllabus-level teacher evidence, never as a page-key. The guide's contents misprint "Living Things and their Tiversity" — not reproduced. Teacher-guide rows above are evidence only and never count as pupil-taught. No page is claimed beyond the placements. The student book's facts are taught as printed for this unit; no Unit 5 student-book error is flagged in the placements.
 
@@ -32,3 +32,17 @@ Canada is named as teacher-guide evidence only (its two *Science First Peoples* 
 Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed.
 
 Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Djur omkring oss B — samtliga djur, kopieringsunderlag B* (student) — Sweden, SPSM (Specialpedagogiska skolmyndigheten — Swedish Agency for Special Needs Education). Title as printed: "Djur omkring oss B" (Animals around us B). Conversation-picture set (samtliga = complete set), for the "Verklighetsuppfattning" (reality perception) subject area, years 1–3 / 4–6, filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 3,136,556 bytes, 28 PDF pages, image-only (read from 100-DPI renders, every page). Verdict: COMPLETE as held. The picture books have no printed page numbers; pages are cited as PDF pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Wild and farm mammals, one portrait each: moose, bear, squirrel, sheep, pig, hare, horse, hedgehog, cow, fox (Sweden, Grade 1) | Sweden, *Djur omkring oss B — samtliga djur, kopieringsunderlag B*, PDF pp. 2, 4, 5, 6, 12, 14, 15, 18, 19, 24 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).** — Canada remains teacher-guide evidence only, counted nowhere.
+
+Sweden's own way — each mammal is met as one full-page watercolour portrait to name and talk about, in the child's own local environment (moose, bear and hare beside sheep, pig, horse and cow) — is itself course content, carried exactly as filed.
+
+Searchable tags: sweden, spsm, djur omkring oss, mammals, moose, bear, squirrel, sheep, pig, hare, horse, hedgehog, cow, fox, portraits

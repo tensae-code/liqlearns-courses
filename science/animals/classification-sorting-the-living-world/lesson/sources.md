@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -33,3 +33,17 @@ Searchable tags: classification, biodiversity, grouping criteria, compound surve
 Suriname's own way — Suriname sorts the plant kingdom twice, by two different keys in a row — first by use and growth form, then by four characteristics — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, sorteren plantenrijk, sorting plants use growth form characteristics, natuuronderwijs
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Växter omkring oss B — Lärarhandledning* (teacher guide) — Sweden, SPSM, © 2015. Author: Ellika Melander. Guide ISBN 978-91-28-11567-4; the pupil book's ISBN is 978-91-28-11566-7 (both from the guide's colophon). Filed as Grade 1, teacher guide. Records: TSV + books.json — the same file, cited once here. PDF: 5,638,405 bytes, 5 PDF pages. Verdict: COMPLETE. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Guide evidence: the curriculum core content the material is built on (Lgrsär22, quoted in the guide): years 1–3 "nature through the year" — animals, plants and fungi in the local environment, how they can be grouped, and the names of some common species (teacher guide — evidence) (Sweden, Grade 1) | Sweden, *Växter omkring oss B — Lärarhandledning* (teacher guide — evidence), printed pp. 3–4 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Suriname).**
+
+Sweden is named as teacher-guide evidence only (*Växter omkring oss B — Lärarhandledning* — teacher guide), not added to this count. Sweden's own way — the grouping itself is the stated core content: animals, plants and fungi of the local environment, how they can be grouped, and the names of some common species, under "nature through the year" — is itself course content, carried exactly as filed.
+
+Searchable tags: sweden, spsm, vaxter omkring oss, lararhandledning, lgrsar22, grouping, local environment, nature through the year

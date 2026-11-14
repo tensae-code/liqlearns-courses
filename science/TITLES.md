@@ -74,10 +74,23 @@ The titles, in ladder order:
    lesson — how plants sense and respond (plants perceiving
    their surroundings, environmental changes showing in the
    plant through its perception of the cycles of time —
-   teacher-guide evidence only, acceptance 0) — 9 lessons in
+   teacher-guide evidence only, acceptance 0) — plus Sweden's
+   lesson — living things live where their needs are met
+   (a living thing lives where its needs are met — forest
+   plants in the forest, garden plants in the garden — proved
+   by sticking cut-out plants into a two-page garden-and-forest
+   scene, each in the place it belongs) — 10 lessons in
    CURRICULUM.md Unit 8.
 9. **Animals** — tame and wild, grouping animals by young, food,
    movement, home and body; what animals need and give; care.
+   The General Science expansion (2026-11-13) adds Sweden's
+   two lessons — animal word–picture reading support (the
+   "Lässtöd" picture–word table of 24 animals, so pupils who
+   cannot yet read can still name and work with the animals)
+   and life cycles of plants and animals (the ten small
+   creeping things and their cycles — the four-stage road and
+   the simpler roads with no pupa) — 21 lessons in
+   CURRICULUM.md Unit 9.
 10. **Natural Resources** — water, soil, air and minerals around
     us, and what is made from them.
 11. **Our Environment** — caring for soil, water and air; waste

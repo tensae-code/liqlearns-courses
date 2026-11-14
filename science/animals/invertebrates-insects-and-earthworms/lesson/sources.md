@@ -1,6 +1,6 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -15,10 +15,27 @@ countries: Ethiopia, Timor-Leste (teacher-guide evidence only)
 | Field-safety and specimen-handling guidance in the practical (teacher guide — evidence) | Grade 7 Teacher Guide, Unit 5, printed pp. 84–108 (teacher placement item 11) — syllabus-level teacher evidence only |
 | Observing the mosquito life cycle over two weeks — inside the waste unit, because standing waste breeds mosquitoes (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Lixu / Waste, unit summary — printed p. 601 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
 
 Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the G7 guide is an ADDIS ABABA bureau book (2023), NOT edition-matched to the Amhara student book (©2015 E.C.) — guide material is filed as syllabus-level teacher evidence, never as a page-key. The guide's contents misprint "Living Things and their Tiversity" — not reproduced. Teacher-guide rows above are evidence only and never count as pupil-taught. No page is claimed beyond the placements. The student book's facts are taught as printed for this unit; no Unit 5 student-book error is flagged in the placements.
 
 Searchable tags: invertebrates, insects, earthworm, clitellum, Practical 5.3, Practical 5.4, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Djur omkring oss B — samtliga djur, kopieringsunderlag B* (student) — Sweden, SPSM (Specialpedagogiska skolmyndigheten — Swedish Agency for Special Needs Education). Title as printed: "Djur omkring oss B" (Animals around us B). Conversation-picture set (samtliga = complete set), for the "Verklighetsuppfattning" (reality perception) subject area, years 1–3 / 4–6, filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 3,136,556 bytes, 28 PDF pages, image-only (read from 100-DPI renders, every page). Verdict: COMPLETE as held. The picture books have no printed page numbers; pages are cited as PDF pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+**Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Small creeping animals: bee, fly, wasp, grasshopper, bumblebee, mosquito, ant, ladybird, snail, spider — one portrait each (Sweden, Grade 1) | Sweden, *Djur omkring oss B — samtliga djur, kopieringsunderlag B*, PDF pp. 3, 7, 9, 11, 17, 20, 21, 22, 25, 26 |
+| The set as a whole: ten small creeping animals of the local environment to name and talk about (butterfly, bumblebee, earthworm, fly, grasshopper, mosquito, spider, ladybird, wasp, ant) (Sweden, Grade 1) | Sweden, *Samtalsbilder, Tio små kryp*, PDF pp. 1–20 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).** — Timor-Leste remains teacher-guide evidence only, counted nowhere.
+
+Sweden's own way — the small creeping animals get a whole conversation-picture book of their own, *Tio små kryp* (Ten small creeping things), each animal named from its portrait before its life cycle is followed page by page (the cycles are stocked in `animals/life-cycles-of-plants-and-animals`) — is itself course content, carried exactly as filed.
+
+Searchable tags: sweden, spsm, djur omkring oss, tio sma kryp, samtalsbilder, insects, bee, wasp, grasshopper, bumblebee, mosquito, ant, ladybird, snail, spider, butterfly, earthworm

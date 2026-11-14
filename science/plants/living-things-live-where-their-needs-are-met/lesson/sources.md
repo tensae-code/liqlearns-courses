@@ -1,0 +1,16 @@
+# Sources — Living things live where their needs are met
+
+countries: Sweden
+
+**Book (Sweden):** *Växter omkring oss A — kopieringsunderlag* (student) — Sweden, SPSM. Title as printed: "Växter omkring oss A". Copy pages of the A book (printed pp. 90–91, 101, 103, 105), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. NOTE, carried as filed: both records carry the wrong title "ISO 15930 - Electronic document file format for prepress digital data exchange (PDF/X)" — that is the PDF/X prepress standard named in the file's print metadata, not the book; the PDF's own internal title is "Växter.indd" and the content, verified page by page, is the A book's copy pages. PDF: 3,027,137 bytes, 6 PDF pages. Verdict: PARTIAL — only the A book's copy pages are held; the A book's plant portraits are inside the combined A+B picture set *Växter omkring oss A och B — samtliga växter*. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — each plant has its place; Sub lesson 2 — placing the cut-outs: "Var ska växterna vara?" (Where should the plants be?): a two-page garden-and-forest scene into which pupils stick the cut-out plants from sheets 5, 6 and 7, sorting each plant into the place it belongs (Sweden, Grade 1) | Sweden, *Växter omkring oss A — kopieringsunderlag*, printed pp. 90–91 |
+| Do it first; key ideas; Do It Yourself | Sweden, as cited in the row above |
+
+**Acceptance count: taught in 1 country (Sweden).**
+
+Placement choice, on the record: this NEW LESSON was built for the Sweden placement "NEW LESSON NEEDED — living-things-live-where-their-needs-are-met" — sweden-placements.md, *Växter omkring oss A — kopieringsunderlag*, printed pp. 90–91 (one placement, one lesson; the same shared slug is also proposed in the United States filing, which stocks into this lesson at its own merge). No existing general-science lesson covers living things living where their needs are met as its own thing — the plant lessons teach kinds, parts and uses, and the ecosystems lessons sit at a later depth — so it gets its own lesson. It sits in plants/ because its founding placement is the plant-sorting scene, and is registered in CURRICULUM.md Unit 8 (Plants). The cut-out sheets the scene uses (Klippark 5, 6 and 7, printed pp. 101, 103, 105) are separate placements, stocked in `plants/kinds-of-plants-and-their-parts` and `plants/plants-give-us-things-and-food`. Sweden's own way — the idea is proved by the pupil's own hands, sticking each cut-out plant into its place in the scene — IS part of this lesson's content, carried exactly as the placement describes it. Honesty: *Växter omkring oss A — kopieringsunderlag* is PARTIAL — only the A book's copy pages are held; the A book's portraits are in the combined A+B picture set — and its records carry the wrong PDF/X title, carried as filed above.
+
+Searchable tags: living things live where their needs are met, habitats, where should the plants be, var ska vaxterna vara, garden and forest, sorting plants, sweden, spsm, vaxter omkring oss, kopieringsunderlag

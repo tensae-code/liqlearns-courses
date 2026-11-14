@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia
+countries: Ethiopia, Sweden
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -24,7 +24,7 @@ countries: Ethiopia
 | Grade 5 — with and without backbones; insects; metamorphosis | Ethiopia, *Grade 5 Student Textbook*, printed pp. 26–31 |
 | Grade 6 — the vertebrate ladder: fish, amphibians, reptiles, birds, mammals | Ethiopia, *Grade 6 Student Textbook*, printed pp. 32–36 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–54 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
@@ -33,3 +33,20 @@ Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1�
 Grade 5/6 extension (2026-11-12): both student books are COMPLETE. The bat answer is stated as the reasoning the chapter's question teaches (mammal marks: hair, milk glands, live birth), as the placements frame it.
 
 Searchable tags: grouping animals, classification, mammals birds reptiles amphibians fish, egg-layers, coverings
+
+## Sweden growth (2026-11-13, General Science expansion)
+
+**Book (Sweden):** *Djur omkring oss B — samtliga djur, kopieringsunderlag B* (student) — Sweden, SPSM (Specialpedagogiska skolmyndigheten — Swedish Agency for Special Needs Education). Title as printed: "Djur omkring oss B" (Animals around us B). Conversation-picture set (samtliga = complete set), for the "Verklighetsuppfattning" (reality perception) subject area, years 1–3 / 4–6, filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 3,136,556 bytes, 28 PDF pages, image-only (read from 100-DPI renders, every page). Verdict: COMPLETE as held. The picture books have no printed page numbers; pages are cited as PDF pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+**Book (Sweden):** *Djur omkring oss B — kopieringsunderlag* (student) — Sweden, SPSM. Title as printed: "Djur omkring oss B". Copy pages (kopieringsunderlag) excerpted from the B book, filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 3,683,357 bytes, 4 PDF pages (printed pp. 84–86, 89, 97 of the book). Verdict: PARTIAL — only the book's copy pages are held; the B book's main pages are the picture set *Djur omkring oss B — samtliga djur* above, so no content is unaccounted for between the two files. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The full set of 28 animal portraits as a sorting/discussion deck: pupils name each animal and group them (wild/farm, land/water, big/small, with/without legs) (Sweden, Grade 1) | Sweden, *Djur omkring oss B — samtliga djur, kopieringsunderlag B*, PDF pp. 1–28 |
+| "Måla djuren" (Colour the animals): a farm–forest–pond scene in which pupils find and tick off 19 named animals (squirrel, fox, hare, snake, moose, bear, hedgehog, pig, rooster, cow, sheep, hen, horse, chick, swan, mallard, perch, pike, frog) and colour the ones left uncoloured — each animal sits in its own habitat (Sweden, Grade 1) | Sweden, *Djur omkring oss B — kopieringsunderlag*, printed pp. 84–85 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
+
+Sweden's own way — animals are taught first as big watercolour portraits to name and talk about, with no text at all, and grouping is done by sorting and discussing the portraits and by finding each animal in the habitat scene where it belongs — is itself course content, carried exactly as filed. Honesty: *Djur omkring oss B — kopieringsunderlag* is PARTIAL (only the book's copy pages, printed pp. 84–86, 89, 97, are held); its main pages are the samtliga picture set, so no content is unaccounted for between the two files.
+
+Searchable tags: sweden, spsm, djur omkring oss, samtliga djur, mala djuren, grouping animals, portraits, habitat scene, verklighetsuppfattning
