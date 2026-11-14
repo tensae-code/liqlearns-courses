@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia
+countries: Ethiopia, Tanzania
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -23,14 +23,17 @@ countries: Ethiopia
 
 **Book 6:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 113 printed pp. Printed page = PDF page - 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
 
+**Book 7:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
+
 | Sub lesson 5 — application software in three shapes: a single program (MS Notepad), a package of programs working together on one task, a suite of related, independent programs sharing a common user interface (the Microsoft Office Suite); LibreOffice the free alternative | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 72 |
 | Sub lesson 5 — the revision list is wider: word processing, presentation, spreadsheet, desktop publishing and database management software; a computer system is hardware plus software, application software is what the user works with directly, system software keeps the hardware working (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 39-40 |
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
+| Application software | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 67 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Tanzania).**
 
 Sub lesson 4 is teacher-guide evidence — the keyed answer to the student book's group activity asking whether traffic lights and ATMs need software. Its statement that the vast majority of ATMs run Windows XP (Professional or Embedded) is the guide's own 2022-era wording, taught as printed, as the course's record of what the book teaches — not as a current claim about today's ATMs. The student book's printed p. 43 also carries one of its stray character runs; they are typesetting faults and are taught as nothing.
 
 The Grade 9 teacher guide's closing summary for this part (printed pp. 39-40) introduces a description of system software with the words "while application software is..." — the two labels are swapped in that sentence. The lesson teaches the frame corrected: application software is what the user works with directly; system software keeps the hardware working and provides the interface.
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania

@@ -732,4 +732,6 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 
 **Computers in Society** (ICT expansion, from Turkmenistan): What a Model Is · Building Models from Geometric Shapes
 
+**Computers in Society** (ICT expansion, from Tanzania): ICS and Its Relationship with Other Subjects · Information Dissemination
+
 **Programming** (ICT expansion, from Turkmenistan): True and False Judgements · AND, OR, NOT — Joining Statements · Drawing Conclusions — If… Then…
