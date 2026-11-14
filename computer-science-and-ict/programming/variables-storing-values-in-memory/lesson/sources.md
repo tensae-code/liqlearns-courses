@@ -18,6 +18,8 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq
 
 **Book 8:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 9:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 6e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 34 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the final Scratch year: operators, variables, the Pen extension, and three applied projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -30,6 +32,8 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq
 | Lesson 14 Introduction to the notion of variables (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 63 (teacher guide — evidence) |
 | Unit 3, Lesson 1: Robot control (what a variable is; numeric and text variables; the rules for naming a variable; creating, renaming and deleting numeric variables in VEXcode VR) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 60 (teacher guide — evidence) |
 | Unit 3 Ch.1 Lesson 2 Constants and variables | Iraq, *Computer, Grade 7*, printed p. 90 |
+| U.D.2 Séance 1 Les variables (1) (creating variables, in Scratch) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 17 (teacher guide — evidence) |
+| U.D.2 Séance 2 Les variables (2) (giving a variable a value) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 18 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq).**
 
@@ -43,4 +47,6 @@ Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is tau
 
 Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7
+Morocco's own way (Grade 6): primary ICT ends by making things with code — a working calculator, a maths quiz and pen-drawn geometry — so the four-year Scratch spiral (Grades 3–6) finishes on operators, variables and extensions used for a purpose. (teacher guide — evidence)
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6

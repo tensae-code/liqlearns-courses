@@ -929,3 +929,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Internet and the Web** (ICT expansion, from Papua New Guinea): Planning a Website for Its Audience · Building a Static Web Page · Website Builders and Design Tools — Canva and Figma · Client-Side Scripting
 
 **Multimedia** (ICT expansion, from Papua New Guinea): Creating Designs with Design Software
+
+**Hardware** (ICT expansion, from Morocco): Project — An Illustrated Mini-Dictionary of Computer Hardware
+
+**Multimedia** (ICT expansion, from Morocco): Recording and Playing Audio on a Smartphone or Tablet · Taking a Photo and Filming a Video on a Smartphone · Drawing with the Pencil Tool and Erasing in Paint · Choosing Colours and Outline Thickness in Paint · Project — Making a Poster on Protecting Nature
+
+**Internet and the Web** (ICT expansion, from Morocco): Searching for Videos on the Internet · Saving a Web Page to Your Computer
+
+**Programming** (ICT expansion, from Morocco): Coding and Decoding a Character's Movement on a Grid · Personalising a Sprite — Size, Position and Colour · Project — The Hare and the Tortoise: A Scratch Story · Project — Little Red Riding Hood and the Wolf: A Scratch Story · Pointing a Sprite in a Direction in Scratch · Controlling a Sound's Volume in Scratch · Applying Sound Effects in Scratch — Speed and Stereo · Stopping All Sounds and Clearing Sound Effects in Scratch · Project — A City Tour: Animating a Bus and a Bird in Scratch · Project — An Aquarium: Coding Fish with Motion, Looks and Sound in Scratch · Deleting a Sprite Clone in Scratch · Sensing the Mouse's X and Y Position in Scratch · Project — A Voyage in Space: An Animated Scratch Story · Project — Don't Touch! A Ball Game Avoiding Barriers in Scratch · Project — An Aquarium Game in Scratch Using Six Block Categories · Project — A Maths Quiz in Scratch · Project — Drawing Geometric Shapes with the Pen in Scratch

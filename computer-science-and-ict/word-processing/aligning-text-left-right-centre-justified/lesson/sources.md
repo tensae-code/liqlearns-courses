@@ -12,6 +12,8 @@ countries: Ethiopia, Uganda
 
 **Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text alignment — the four kinds, changed by cursor-in-paragraph plus one button: Left (Ctrl+L, even at left, jagged right, the commonest), Right (Ctrl+R, mirror), Centre (Ctrl+E, equal spaces, for titles and headings), Justified (both margins, spaces between words adjusted); practicals re-align the Grand Ethiopian Renaissance Dam document each way | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 85-86 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Uganda
 | Alignment of text (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 44 (teacher guide — evidence) |
 | Lesson 15 Text formatting / alignment (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 27 (teacher guide — evidence) |
 | Unit 2, Lesson 4: Formatting the paragraph — alignment (right, left, centre, justify; which alignment suits English text, a title, or a table) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 64 (teacher guide — evidence) |
+| U.D.4 Séance 4 Changer la couleur de police et aligner le texte (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 30 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -26,4 +29,6 @@ Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS 
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 4
+Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
+
+Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 4, morocco, grade 2

@@ -10,6 +10,8 @@ countries: Palestine
 
 **Book 4:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 5:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 4e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 37 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a second full Scratch year, one level deeper: sprite movement, sprite appearance, controlling sound, events, and two animation projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 Lesson 12: Sprites talk (the “say” block, timed dialogue, mixing say + wait + sound; Arabic appears reversed in Scratch) | Palestine, *Programming, Grade 6*, printed p. 70 |
@@ -17,6 +19,7 @@ countries: Palestine
 | Unit 3 Lesson 3: Sprite dialogue (a scripted conversation between Abby and Maya; wait blocks so one speaks while the other is silent; say-for-seconds timing) | Palestine, *Programming, Grade 7*, printed p. 65 |
 | Unit 2 Lesson 2: organising dialogue (say-for-seconds plus waits so speakers do not overlap; a homeland dialogue project) | Palestine, *Programming, Grade 8*, printed p. 38 |
 | Unit 4 Lesson 33: The race of the conceited one and the persistent one (an animated story with recorded voices: the conceited cat challenges the persistent mouse, naps at the corner, and loses; dialogue turns are run by broadcasts, each sprite’s recorded line played on its cue; project: rebuild the hare and the tortoise the same way) | Palestine, *Programming, Grade 9*, printed p. 109 |
+| U.D.2 Séance 1 Afficher un message (filed as programming/making-a-sprite-say-a-message-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 17 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Palestine).**
 
@@ -30,4 +33,6 @@ Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised aroun
 
 Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications course in Scratch — after a basics unit it builds real things: a photo editor, a video player, a phone PIN lock, a bank account, a library sign-up/login, an alarm clock, an elevator, a task list, a wall clock that can ring at prayer times. Its own workarounds are content too: Scratch 2 cannot type Arabic in its paint editor, so Arabic text is written in MS Paint, saved as a picture and uploaded; the news-ticker lesson’s breaking-news example is the Ministry’s own decision to teach programming in Grades 5–9; the letter-counting lesson’s example sentence says the Dome of the Rock stands in Jerusalem.
 
-Searchable tags: say block, dialogue, say for seconds, speech bubble, arabic reversed, broadcasts, scratch, palestine, grade 6, grade 7, grade 8, grade 9
+Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the interface to behaviour — motion, looks, sound control and event handling taught block-family by block-family, then combined in two animated scenes (a city tour; an aquarium). (teacher guide — evidence)
+
+Searchable tags: say block, dialogue, say for seconds, speech bubble, arabic reversed, broadcasts, scratch, palestine, grade 6, grade 7, grade 8, grade 9, morocco, grade 4

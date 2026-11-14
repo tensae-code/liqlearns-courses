@@ -12,6 +12,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq
 
 **Book 5:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 6:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 5e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 35 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a third full Scratch year: control blocks (wait, loops, conditions, clones), sensing blocks, and three game/story projects; the 5th séance of each teaching unit is evaluation and is not placed. The three U.D.3 sensor fiches carry misprinted titles (“Les boucles (1)–(3)”) and are placed by their objectives, which are the sensing topics. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -21,6 +23,7 @@ countries: Ethiopia, Finland, North Macedonia, Iraq
 | "Two-Choice Selection Structure (if-else, with practice tasks)" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.21, printed p. 160 |
 | "Exercises on the if else structure [extra section stocked from the links-pass reading of the same book]" | North Macedonia, *Informatics, Year 1*, §3.22, printed p. 164 |
 | Unit 3 Ch.2 Lesson 1 Conditional control statements: if-then | Iraq, *Computer, Grade 8*, printed p. 92 |
+| U.D.2 Séance 2 Les conditions (2) (if… then… else…, in Scratch) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 18 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Finland, North Macedonia, Iraq).**
 
@@ -30,4 +33,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8
+Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real program logic — wait/repeat-until, if–then–else, clones and sensors (answer, mouse position, touching colour, date) — and the year is half projects: a space-voyage story, a don't-touch-the-barriers ball game, and an aquarium game. (teacher guide — evidence)
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5

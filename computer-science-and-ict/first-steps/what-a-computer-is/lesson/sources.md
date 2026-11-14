@@ -20,6 +20,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 
 **Book 9:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
 
+**Book 10:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 1e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — front matter (introduction, principles, annual plan over 6 units × 5 weeks), a visual-programming/Scratch introduction (printed pp. 7–10), and 25 one-page lesson fiches (5 per unit; the 5th in each unit is evaluation/support and is not placed as new teaching). The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -33,6 +35,7 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 | Lesson 1: Introduction to the computer (what a computer is; its characteristics — storing/retrieving data, processing, programmability; the mobile phone as a small computer) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 5 |
 | Unit 1 Ch.1 Lesson 1 The computer and its importance in society: what a computer is and its characteristics | Iraq, *Computer, Grade 7*, printed p. 7 |
 | Unit 1 Computer Architecture, Topic Computer Administration, Lesson 1: Computer Fundamentals (filed as first-steps/what-is-a-computer; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 44 (teacher guide — evidence) |
+| U.D.1 Séance 1 L'ordinateur et ses périphériques (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 12 (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq).**
 
@@ -50,4 +53,6 @@ Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — compute
 
 Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
 
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11
+Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hardware first — plug in, switch on, draw with the mouse, type in Word — with every unit taught in the same five-step rhythm (mobilisation, découverte, application, évaluation, réemploi) in pairs/groups, and files taught through paper folders and plastic sleeves before the screen. (teacher guide — evidence)
+
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1

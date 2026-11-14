@@ -4,9 +4,13 @@ countries:
 
 **Book 1:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 2:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 3e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 38 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the whole Grade 3 year is Scratch: 4 teaching units (discovering Scratch, sprites, the stage, sounds) plus two story projects; the 5th séance of each teaching unit is evaluation and is not placed. The U.D.1 Séance 4 fiche carries a misprinted title (“Rechercher des vidéos sur Internet”) — its objectives and activities are the Scratch instructions and scripts area, and it is placed by its content. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3, Lesson 1: Changing the sprite and the stage backdrop (choosing from the library by category, drawing a new one, or uploading a picture) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 80 (teacher guide — evidence) |
+| U.D.3 Séance 3 Personnaliser et modifier un arrière-plan (filed as programming/personalising-and-editing-a-backdrop-with-the-drawing-tools; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 24 (teacher guide — evidence) |
+| U.D.3 Séance 4 Dessiner un arrière-plan (filed as programming/drawing-your-own-backdrop; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 25 (teacher guide — evidence) |
 
 **Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Saudi Arabia), named here, counted nowhere.**
 
@@ -14,4 +18,6 @@ Placement choice: this lesson was built new for the ICT expansion (Saudi Arabia,
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: scratch, stage backdrop, sprite, library, drawing, uploading, programming, saudi arabia, grade 4
+Morocco's own way (Grade 3): a full primary year given to one tool — Scratch — sequenced interface → sprites → stage/backdrops → sounds, each strand ending in a familiar story retold as a Scratch project (the hare and the tortoise; Little Red Riding Hood). (teacher guide — evidence)
+
+Searchable tags: scratch, stage backdrop, sprite, library, drawing, uploading, programming, saudi arabia, grade 4, morocco, grade 3

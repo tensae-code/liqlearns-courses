@@ -24,6 +24,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
 
 **Book 11:** *الحاسوب — الرابع الإعدادي (Computer, Fourth Preparatory Grade), Grade 10* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), third edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 12:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 5e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 35 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a third full Scratch year: control blocks (wait, loops, conditions, clones), sensing blocks, and three game/story projects; the 5th séance of each teaching unit is evaluation and is not placed. The three U.D.3 sensor fiches carry misprinted titles (“Les boucles (1)–(3)”) and are placed by their objectives, which are the sensing topics. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -40,6 +42,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq
 | Unit 1 Lesson 4: Repetition and drawing ornaments (repeat block; regular polygons — number of sides = repeat count, sides × turn = 360°) | Palestine, *Programming, Grade 8*, printed p. 19 |
 | Unit 3 Ch.2 Lesson 3 Solved examples in the Scratch language | Iraq, *Computer, Grade 8*, printed p. 102 |
 | Unit 3 Ch.2 Lesson 1 Loop statements in the Scratch language (Scratch 3 interface and repeat blocks) | Iraq, *Computer, Grade 10*, printed p. 86 |
+| U.D.1 Séance 2 Les boucles (1) (repeat actions a set number of times) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 13 (teacher guide — evidence) |
+| U.D.1 Séance 3 Les boucles (2) (repeat actions indefinitely) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 14 (teacher guide — evidence) |
+| U.D.2 Séance 1 Les conditions (1) (if… then…) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 17 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq).**
 
@@ -57,4 +62,6 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10
+Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real program logic — wait/repeat-until, if–then–else, clones and sensors (answer, mouse position, touching colour, date) — and the year is half projects: a space-voyage story, a don't-touch-the-barriers ball game, and an aquarium game. (teacher guide — evidence)
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5

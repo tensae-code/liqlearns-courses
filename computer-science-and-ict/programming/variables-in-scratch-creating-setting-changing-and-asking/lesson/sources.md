@@ -6,11 +6,18 @@ countries: Palestine
 
 **Book 2:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 3:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 5e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 35 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a third full Scratch year: control blocks (wait, loops, conditions, clones), sensing blocks, and three game/story projects; the 5th séance of each teaching unit is evaluation and is not placed. The three U.D.3 sensor fiches carry misprinted titles (“Les boucles (1)–(3)”) and are placed by their objectives, which are the sensing topics. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
+**Book 4:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 6e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 34 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the final Scratch year: operators, variables, the Pen extension, and three applied projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 2: variables (create a named variable, set/change by, show/hide; a variable keeps the last value in memory; ask-and-answer input from the keyboard; square area and rectangle perimeter programs) | Palestine, *Programming, Grade 8*, printed p. 53 |
 | Unit 1 Lesson 8: Variables (a variable holds one value — a number or text — until changed; the five variable blocks; assigning constants, expressions and other variables; deleting and renaming variables) | Palestine, *Programming, Grade 9*, printed p. 21 |
 | Unit 3 Lesson 28: the shop’s arithmetic (a variable for each price per kilo and each quantity; totals multiplied out and added into one grand total; variables given meaningful names; seller and buyer sprites greet each other by broadcast) | Palestine, *Programming, Grade 9*, printed p. 85 |
+| U.D.3 Séance 1 Capturer une réponse (ask … and wait) (filed as programming/asking-a-question-and-capturing-the-answer-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 22 (teacher guide — evidence) |
+| U.D.2 Séance 3 Les variables (3) (filed as programming/incrementing-a-variable-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 19 (teacher guide — evidence) |
+| U.D.2 Séance 4 Les variables (4) (filed as programming/showing-hiding-renaming-and-deleting-a-variable-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 20 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Palestine).**
 
@@ -20,4 +27,8 @@ Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised aroun
 
 Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications course in Scratch — after a basics unit it builds real things: a photo editor, a video player, a phone PIN lock, a bank account, a library sign-up/login, an alarm clock, an elevator, a task list, a wall clock that can ring at prayer times. Its own workarounds are content too: Scratch 2 cannot type Arabic in its paint editor, so Arabic text is written in MS Paint, saved as a picture and uploaded; the news-ticker lesson’s breaking-news example is the Ministry’s own decision to teach programming in Grades 5–9; the letter-counting lesson’s example sentence says the Dome of the Rock stands in Jerusalem.
 
-Searchable tags: variables, set, change by, show hide, ask and answer, grand total, scratch, palestine, grade 8, grade 9
+Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real program logic — wait/repeat-until, if–then–else, clones and sensors (answer, mouse position, touching colour, date) — and the year is half projects: a space-voyage story, a don't-touch-the-barriers ball game, and an aquarium game. (teacher guide — evidence)
+
+Morocco's own way (Grade 6): primary ICT ends by making things with code — a working calculator, a maths quiz and pen-drawn geometry — so the four-year Scratch spiral (Grades 3–6) finishes on operators, variables and extensions used for a purpose. (teacher guide — evidence)
+
+Searchable tags: variables, set, change by, show hide, ask and answer, grand total, scratch, palestine, grade 8, grade 9, morocco, grade 5, morocco, grade 6

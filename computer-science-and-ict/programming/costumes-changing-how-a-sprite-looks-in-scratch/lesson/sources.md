@@ -8,11 +8,14 @@ countries: Palestine
 
 **Book 3:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 4:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 4e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 37 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a second full Scratch year, one level deeper: sprite movement, sprite appearance, controlling sound, events, and two animation projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 2 Lesson 6: Sprites repeat their movement and change their appearance (costumes, next-costume, walking animation) | Palestine, *Programming, Grade 6*, printed p. 35 |
 | Unit 2 Lesson 3: The sprite’s multiple costumes (next-costume making walking look real: Avery walking) | Palestine, *Programming, Grade 7*, printed p. 53 |
 | Unit 3 Lesson 1: Costumes and sprites (switch to a named costume; repeat-forever animation timing) | Palestine, *Programming, Grade 8*, printed p. 45 |
+| U.D.2 Séance 2 Changer de costume (filed as programming/switching-a-sprites-costume-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 18 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Palestine).**
 
@@ -24,4 +27,6 @@ Palestine’s own way (Grade 7, Programming): the Scratch course deepens in thre
 
 Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised around making things — Unit 1 programs drawings and ornaments (the unit opens with the ornaments of Jerusalem’s churches and the Dome of the Rock), Unit 2 weaves interactive stories with sound and dialogue (including a dialogue project on love of the homeland), Unit 3 designs real games with variables, operators and sensing.
 
-Searchable tags: costumes, next costume, switch costume, animation, walking, scratch, palestine, grade 6, grade 7, grade 8
+Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the interface to behaviour — motion, looks, sound control and event handling taught block-family by block-family, then combined in two animated scenes (a city tour; an aquarium). (teacher guide — evidence)
+
+Searchable tags: costumes, next costume, switch costume, animation, walking, scratch, palestine, grade 6, grade 7, grade 8, morocco, grade 4

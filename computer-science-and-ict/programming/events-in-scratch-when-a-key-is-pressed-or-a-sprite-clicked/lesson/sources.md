@@ -6,10 +6,14 @@ countries: Palestine
 
 **Book 2:** *Programming (البرمجة), Grade 7* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "7" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 3:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 4e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 37 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a second full Scratch year, one level deeper: sprite movement, sprite appearance, controlling sound, events, and two animation projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 2 Lesson 8: Events (run blocks when a key is pressed — arrows, letters, numbers — or when the sprite is clicked; driving a sprite with the keyboard) | Palestine, *Programming, Grade 6*, printed p. 43 |
 | Unit 2 Lesson 2: Execution events (event blocks that start a script) | Palestine, *Programming, Grade 7*, printed p. 46 |
+| U.D.4 Séance 2 Le clic sur le sprite (filed as programming/the-when-sprite-clicked-event-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 28 (teacher guide — evidence) |
+| U.D.4 Séance 3 Les touches du clavier (with repeating actions indefinitely) (filed as programming/key-press-events-and-repeating-forever-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 29 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Palestine).**
 
@@ -19,4 +23,6 @@ Palestine’s own way (Grade 6, Programming): Grade 6 programming is a full Scra
 
 Palestine’s own way (Grade 7, Programming): the Scratch course deepens in three units — programming graphics, sprites and backgrounds, sprite stories and dialogues. Local grounding is explicit: the pen unit opens by asking whether Scratch can draw ornaments like the decorations of Al-Aqsa Mosque; the stage is explained as a theatre whose actors (sprites) follow the director exactly and in order.
 
-Searchable tags: events, when key pressed, when sprite clicked, keyboard control, scratch, palestine, grade 6, grade 7
+Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the interface to behaviour — motion, looks, sound control and event handling taught block-family by block-family, then combined in two animated scenes (a city tour; an aquarium). (teacher guide — evidence)
+
+Searchable tags: events, when key pressed, when sprite clicked, keyboard control, scratch, palestine, grade 6, grade 7, morocco, grade 4

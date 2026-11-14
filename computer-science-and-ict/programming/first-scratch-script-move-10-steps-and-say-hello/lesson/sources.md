@@ -16,6 +16,8 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq
 
 **Book 7:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 8:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 4e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 37 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a second full Scratch year, one level deeper: sprite movement, sprite appearance, controlling sound, events, and two animation projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The first script built in the book's order — Events, then Motion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 231–232 |
@@ -26,6 +28,7 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq
 | Unit 3, Lesson 2: Using the programming blocks (the Say block; move the cat 30 steps and make it speak; order of blocks runs top to bottom) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 83 (teacher guide — evidence) |
 | Unit 1 Lesson 2: Moving the sprite (move steps, negative values go backwards, adding a sprite from the library, bounce at the edge, turning by degrees, pointing in a direction) | Palestine, *Programming, Grade 6*, printed p. 7 |
 | Unit 3 Ch.2 Lesson 5 Worked examples in Scratch | Iraq, *Computer, Grade 7*, printed p. 110 |
+| U.D.1 Séance 1 Faire avancer un sprite (1) (forwards and backwards) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 12 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq).**
 
@@ -35,4 +38,6 @@ Palestine’s own way (Grade 6, Programming): Grade 6 programming is a full Scra
 
 Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
 
-Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7
+Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the interface to behaviour — motion, looks, sound control and event handling taught block-family by block-family, then combined in two animated scenes (a city tour; an aquarium). (teacher guide — evidence)
+
+Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4

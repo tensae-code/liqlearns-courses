@@ -10,6 +10,8 @@ countries: Ethiopia, Afghanistan, Saudi Arabia
 
 **Book 4:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 5:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — copy and paste by the Home tab: select, Copy, place cursor, Paste | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 47–48 |
@@ -17,6 +19,7 @@ countries: Ethiopia, Afghanistan, Saudi Arabia
 | Lesson 19 "Copying and cutting text" | Afghanistan, *Computer, Grade 10*, printed p. 63 |
 | Lesson 13: Editing text in Notepad (selecting text with the mouse; copy, cut and paste from the right-click menu and the Edit menu) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 84 |
 | Unit 2, Lesson 2: Copying, cutting and pasting text (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 51 (teacher guide — evidence) |
+| U.D.2 Séance 1 Copier et coller du texte depuis Internet (paste into a document) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 17 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Saudi Arabia).**
 
@@ -26,4 +29,6 @@ Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book fo
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4
+Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
+
+Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4, morocco, grade 2

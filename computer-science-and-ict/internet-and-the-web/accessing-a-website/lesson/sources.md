@@ -12,12 +12,15 @@ countries: Ethiopia, Iraq
 
 **Book 5:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 6:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | By address and links — the Ministry of Education worked example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.53 |
 | By keyword — 'the Victory of Adwa', 'preventive mechanisms of Covid-19'; ISP and Ethio-telecom; Bikila and Ethiopian Airlines practice | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.53 |
 | Bikila task judged on finding, half-page report, keywords listed; official sources named against fake news (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 4, printed p.58 |
 | ISP answers in the guide contradict (only Ethio-Telecom; then Ethio-Telecom and Safaricom-Ethiopia) (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 4, printed pp.59, 61 |
+| U.D.1 Séance 1 navigating to a website (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 12 (teacher guide — evidence) |
 
 | Sub lesson 3 — Searching the internet — keywords and results (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 66–67 |
 | How the unit is evidenced — pupils assessed while they actually search by keyword (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 4, printed pp. 35–39 (guide placement item 15) |
@@ -32,4 +35,6 @@ Growth note (Wave 3, band B2): Sub lessons 1–2 are the original Grade 7 lesson
 
 Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
 
-Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7
+Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
+
+Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2

@@ -10,6 +10,8 @@ countries: Palestine
 
 **Book 4:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
+**Book 5:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 6e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 34 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the final Scratch year: operators, variables, the Pen extension, and three applied projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Lesson 3: The pen (pen down/up, clear, changing pen colour across 200+ shades and pen size) | Palestine, *Programming, Grade 6*, printed p. 18 |
@@ -17,6 +19,10 @@ countries: Palestine
 | Unit 1 Lesson 2: The pen (pen down/up, drawing lines and ornaments, pen colour and size; Al-Aqsa ornament question) | Palestine, *Programming, Grade 7*, printed p. 6 |
 | Unit 1 Lesson 3: Pen properties (set/change pen size; colour by number, by touching a colour on screen, and pen shade light/dark; projects: stairs and a house) | Palestine, *Programming, Grade 8*, printed p. 13 |
 | Unit 4 Lesson 32: Free writing on the stage (a pencil sprite whose costume centre is set to its tip follows the mouse; pen down while the mouse is pressed writes like a whiteboard; a “clear” sprite wipes the stage; project: coloured pencils write an Arabic line of poetry honouring teachers, with an eraser sprite) | Palestine, *Programming, Grade 9*, printed p. 106 |
+| U.D.3 Séance 1 L'extension « Stylo » (1) (prepare the pen sprite; pen down/up) (filed as programming/the-pen-extension-putting-the-pen-down-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 22 (teacher guide — evidence) |
+| U.D.3 Séance 2 L'extension « Stylo » (2) (filed as programming/erasing-the-pens-trails-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 23 (teacher guide — evidence) |
+| U.D.3 Séance 3 L'extension « Stylo » (3) (filed as programming/changing-the-pens-colour-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 24 (teacher guide — evidence) |
+| U.D.3 Séance 4 L'extension « Stylo » (4) (filed as programming/changing-the-pens-size-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 25 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Palestine).**
 
@@ -30,4 +36,6 @@ Palestine’s own way (Grade 8, Programming): Grade 8 Scratch is organised aroun
 
 Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications course in Scratch — after a basics unit it builds real things: a photo editor, a video player, a phone PIN lock, a bank account, a library sign-up/login, an alarm clock, an elevator, a task list, a wall clock that can ring at prayer times. Its own workarounds are content too: Scratch 2 cannot type Arabic in its paint editor, so Arabic text is written in MS Paint, saved as a picture and uploaded; the news-ticker lesson’s breaking-news example is the Ministry’s own decision to teach programming in Grades 5–9; the letter-counting lesson’s example sentence says the Dome of the Rock stands in Jerusalem.
 
-Searchable tags: pen, pen down, pen up, clear, pen colour, pen size, ornaments, free writing, scratch, palestine, grade 6, grade 7, grade 8, grade 9
+Morocco's own way (Grade 6): primary ICT ends by making things with code — a working calculator, a maths quiz and pen-drawn geometry — so the four-year Scratch spiral (Grades 3–6) finishes on operators, variables and extensions used for a purpose. (teacher guide — evidence)
+
+Searchable tags: pen, pen down, pen up, clear, pen colour, pen size, ornaments, free writing, scratch, palestine, grade 6, grade 7, grade 8, grade 9, morocco, grade 6
