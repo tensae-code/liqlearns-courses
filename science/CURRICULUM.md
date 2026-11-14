@@ -655,6 +655,7 @@ solar-system comparison lessons.
 17. **Traffic accidents and the rules of the road** (`keeping-healthy/traffic-accidents-and-the-rules-of-the-road`) — how children are hurt on roads, and the road rules that prevent it: keep left on the pedestrian way, cross only at the zebra, looking both ways
 18. **Using medicines properly** (`keeping-healthy/using-medicines-properly`) — medicines help only when used properly — the Oromia Grade 4 guide's subtopic: the dose measured and directed by a health worker is the measure of p…
 19. **What disease is, and how it spreads** (`keeping-healthy/what-disease-is-and-how-it-spreads`) — what disease is, how sickness travels — germs, flies and mosquitoes, dirt — and how cleanliness stops it
+20. **Washing hands stops the spread** (`keeping-healthy/washing-hands-stops-the-spread`) — microbes reach the body on dirty hands and washing hands breaks that route; cleanliness (aseo) and good food together prevent disease, explained from the drawings as Peru's Grade 1 ficha closes (Peru, Grade 1 — *Cuadernillo de fichas — Ciencia y Tecnología, Primaria 1*, Ficha 4, *Las enfermedades y su cuidado*, printed p. 27)
 
 ## Unit 15 — Science Skills
 
