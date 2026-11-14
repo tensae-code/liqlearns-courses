@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — hazard signs and protective equipment
 
-countries: Ethiopia, Uganda, Cabo Verde (teacher-guide evidence only), Syria, Indonesia, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Libya
+countries: Ethiopia, Uganda, Cabo Verde (teacher-guide evidence only), Syria, Indonesia, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Libya, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -199,3 +199,23 @@ Placement choice, on the record: the Libya placement(s) above filed as science-s
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, science-skills hazard-signs-and-protective-equipment
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pesticide labels carry a colour band showing toxicity — Ia extremely toxic, Ib highly toxic, II moderately toxic (harmful), III slightly toxic (care), IV precaution — with pictograms; the protective kit (eye protector, cap, gloves, shirt, apron, trousers, boots) and safe storage away from food, children, pets, damp and heat (Honduras — HN CN4) | Honduras, *HN CN4*, printed pp. 142, 144 |
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the standardised GHS (SGA) hazard pictograms taught in the laboratory: physical dangers (explosives, flammable liquids, oxidisers, compressed gases, corrosive to metals) and health dangers (acute toxicity, skin corrosion, skin irritation, aspiration danger, danger to the aquatic environment) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 48 |
+
+**Acceptance count: taught in 10 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, science-skills/hazard-signs-and-protective-equipment

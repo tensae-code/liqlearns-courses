@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — When Our Work Hurts Nature
 
-countries: Ethiopia, Angola, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Angola, Morocco (teacher-guide evidence only), Honduras
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -52,3 +52,17 @@ Searchable tags: angola, estudo do meio 4, grade 4
 Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: morocco, morocco science, al moufid, explora, dalil, work-and-heritage when-our-work-hurts-nature
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN6):** Title: Ciencias Naturales — Sexto grado (Natural Sciences, Grade 6), student book Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217); no ISBN printed PDF pages: 221; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19, all on rocks and soils; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38, all on forests), plus glossaries and 4 annexes (volcanoes, soil-use map, forest map, protected-areas map) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| intensive farming's pressure on the soil: heavy fertiliser, pesticide and insecticide use kills the soil's own organisms as well as pests; burning the vegetation cover before sowing destroys plant matter, stops nutrients returning, kills soil fauna and slowly drains fertility; monoculture and machinery complete the damage (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 99 |
+
+**Acceptance count: taught in 3 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, work-and-heritage/when-our-work-hurts-nature

@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Papua New Guinea, Libya, Iran, Kazakhstan
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Papua New Guinea, Libya, Iran, Kazakhstan, Honduras
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -610,3 +610,17 @@ Searchable tags: iran, iran science, ministry of education iran, materials air-i
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials air-is-there-air-takes-up-space-and-can-be-pushed
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| atmospheric pressure is the weight of the air on the surface and falls as altitude rises, shown with Honduras's own capitals: Tegucigalpa at 990 m above sea level has lower pressure than San Pedro Sula at 83 m; the balloon-in-a-bottle experiment (balloon stays inflated while the bottle's hole is finger-sealed) demonstrates it (Honduras — HN CN5) | Honduras, *HN CN5*, printed pp. 60–61 |
+
+**Acceptance count: taught in 24 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, materials/air-is-there-air-takes-up-space-and-can-be-pushed

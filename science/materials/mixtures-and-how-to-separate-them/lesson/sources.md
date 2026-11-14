@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan, Iran, Kazakhstan
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal, Jordan, Iran, Kazakhstan, Honduras
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -643,3 +643,17 @@ Searchable tags: iran, iran science, ministry of education iran, materials mixtu
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials mixtures-and-how-to-separate-them
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water is a great solvent: plants take minerals from the soil only when dissolved in water, and food travels in the body dissolved in water — tested Honduras's way by stirring powdered milk, sugar, salt and oil into four glasses of water and observing (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 68 |
+
+**Acceptance count: taught in 28 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, materials/mixtures-and-how-to-separate-them

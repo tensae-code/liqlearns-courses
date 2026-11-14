@@ -1,6 +1,6 @@
 # Sources — The microscope — parts and what each does
 
-countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania, Syria, Sri Lanka, Vietnam, Libya
+countries: Ethiopia, Samoa, Seychelles, Cabo Verde, Mauritania, Syria, Sri Lanka, Vietnam, Libya, Honduras (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -129,3 +129,17 @@ Placement choice, on the record: the Libya placement(s) above filed as how-livin
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, the-human-body parts-of-the-compound-microscope
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — CN9 Guide):** Title: Ciencias Naturales 9 — Guía para Docentes, III Ciclo, Noveno grado (cover: "Ciencias Naturales 9, Noveno grado, Guía para Docentes, III Ciclo", República de Honduras, Secretaría de Educación) Publisher: Secretaría de Educación (SEDUC), Honduras; elaborated by the Universidad Pedagógica Nacional Francisco Morazán (UPNFM); author Ricardo Humberto García Zaldívar; credits page: "Guía para Docentes, Ciencias Naturales, Noveno grado, Edición 2017", © Secretaría de Educación, Centro Cívico Gubernamental "José Cecilio del Valle", Tegucigalpa, M.D.C., Honduras; ISBN 978-99979-53-60-5; the secured copy's closing colophon is dated 2022 ("Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. - 2022") PDF pages: 166 (image-only; read from 100 DPI renders); printed folio = PDF page − 2; 510,738,561 bytes, matching the secured release copy exactly Note: teacher guide to HN CN9 (the Grade 9 student book, filed above). Following the standing guide rule, only the guide's own added content is placed here — theory expansions, printed answer keys, margins and annexes the student book does not carry; every bullet is marked guide evidence. Citations give the guide PDF page, because the guide interleaves student-page reproductions with guide pages. Split-subject Block 3 (Materia y energía, Lessons 20–29) is chapter-lined with no item placements, mirroring the student book's filing. Verdict: COMPLETE — all 38 lessons and the annexes present; the back cover carries the Río Plátano Biosphere Reserve feature. Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Annex: labelled parts-of-the-microscope diagram — lentes oculares, cabezal, brazo, revólver, lentes objetivos, pinza de sujeción, platina, tornillo macrométrico, tornillo micrométrico, lámpara, condensador and base (guide evidence) (Honduras — CN9 Guide) | Honduras, *CN9 Guide*, guide PDF p. 162 |
+
+**Acceptance count unchanged:** Honduras is named as teacher-guide evidence only (its *Guía para Docentes / Guía del Docente* books named above), not added to this count.
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/parts-of-the-compound-microscope

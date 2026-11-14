@@ -1,6 +1,6 @@
 # Sources — Food — the four food groups
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia, South Sudan, Iraq, Colombia, Jordan
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Malaysia, South Sudan, Iraq, Colombia, Jordan, Honduras
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -311,3 +311,23 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, keeping-healthy food-the-four-food-groups
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN2):** Records: books.json grade-02/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN2-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-02-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 273,910,890 bytes. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Segundo grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Segundo grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018" (InDesign file 2G-LIBRO TEXTO modif.indd, Feb–Mar 2018). No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annexes and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 3: foods sorted as natural (animal and plant origin) and elaborated (processed with chemical preservatives); the food groups are carbohydrates, lipids (fats) and proteins (Honduras — HN CN2) | Honduras, *HN CN2*, printed p. 19 |
+
+**Book (Honduras — CN8 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Octavo grado de Educación Básica (III Ciclo) Publisher: Secretaría de Educación, Honduras, C.A.; prepared by the Universidad Pedagógica Nacional Francisco Morazán (UPNFM); author Dixia Xiomara Carranza Espinal; credits page "Edición 2017", ISBN 978-99979-53-59-9; the secured copy's closing colophon is dated 2022 PDF pages: 168; the guide's printed folios run 2 behind the PDF page (printed p. = PDF p. − 2) Note: This is the teacher guide to the Grade 8 student book filed above (HN CN8). Only the guide's own added content is placed here — theory expansions, printed answer keys and added annexes — all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N), as the guides interleave student-page reproductions. As in the student filing, the purely split-subject lesson blocks (Physics Lessons 20–29 and Biology Lessons 33–36) are chapter-lined, not item-placed. Verdict: COMPLETE (38 lessons + annexes, including an environmental calendar and a handwashing poster at the end of this copy) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the nutrient substances classified by function, answer table: energetic substances give the body the energy needed for its activities and provide heat (cereals, legumes, fruits, butter, oils); constructive substances build and repair tissues (meats, eggs, milk and derivatives); regulatory substances are needed in very small quantities for the correct assimilation of food (fruits and vegetables); the repairing substances help us grow, rebuild and repair the body's damaged tissues and facilitate the chemical reactions needed to maintain life (guide evidence) (Honduras — CN8 Guide) | Honduras, *CN8 Guide*, guide PDF p. 20 |
+
+**Acceptance count: taught in 15 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/food-the-four-food-groups

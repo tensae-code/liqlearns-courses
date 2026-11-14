@@ -1,6 +1,6 @@
 # Sources — Plants and wild animals as resources
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Jordan, Iran, Kazakhstan
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen, Iraq, El Salvador, Colombia, Papua New Guinea (teacher-guide evidence only), Jordan, Iran, Kazakhstan, Honduras
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -201,3 +201,17 @@ Searchable tags: iran, iran science, ministry of education iran, natural-resourc
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, natural-resources plants-and-wild-animals-as-resources
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras's land and products from an FAO text (the country's own way): 11.2 million hectares, mostly forested mountains; 1.8 million hectares cultivable and over 2.5 million pasture; only 15% of irrigable land has irrigation; second Latin-American shrimp exporter with fishing zones in two oceans; the fertile north coast grows bananas, sugar cane, African palm and tropical fruits, the dry south melons and cattle, and the temperate centre coffee, timber, cereals and livestock (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 117 |
+
+**Acceptance count: taught in 11 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, natural-resources/plants-and-wild-animals-as-resources

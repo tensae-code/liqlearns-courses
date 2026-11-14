@@ -1,6 +1,6 @@
 # Sources — Materials that conduct electricity
 
-countries: Kuwait, Syria, Libya, Kazakhstan
+countries: Kuwait, Syria, Libya, Kazakhstan, Honduras
 
 **Book (Kuwait — Grade 3, Term 2):** Title as printed: العلوم — الصف الثالث — الفصل الدراسي الثاني – القسم الأول (Science, Grade 3, Second Term – Section 1). Grade 3, student book, Ministry of Education, Kuwait; 1st ed. 2025/2026. No ISBN printed. PDF pages: 84. Bytes: 70,207,063 — exactly the books.json `size_bytes`; the two records are the same book. Records: TSV release record (mid-size-books-2) + books.json `grade-03/gov/kuwait/science/student/term-2.pdf` — same book, cited once here. Verdict: PARTIAL — the secured PDF contains Section 1 (القسم الأول) only, ending with the references after Chapter 3. Section 2 of Term 2 is not in the file. Library debt (see reading log). Structure of what is present: Unit 3 المادة والطاقة (Matter and Energy) — Ch.1 Matter and Its Properties, Ch.2 Energy and Its Transformations, Ch.3 Force, Motion and the Magnet. Tally: 10 to existing lessons, 1 NEW LESSON NEEDED (11 placements). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/kuwait-placements.md.
 
@@ -94,3 +94,17 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, electricity-and-magnetism materials-that-conduct-electricity
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN6):** Title: Ciencias Naturales — Sexto grado (Natural Sciences, Grade 6), student book Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217); no ISBN printed PDF pages: 221; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19, all on rocks and soils; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38, all on forests), plus glossaries and 4 annexes (volcanoes, soil-use map, forest map, protected-areas map) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| conductors let electrons pass easily (iron, aluminium, copper, bronze — and the human body, which is why it can be harmed by discharges) while insulators resist the transfer (wood, plastic, glass, ceramic) and are used as protection (placement filed as NEW LESSON NEEDED — conductors-and-insulators-of-electricity; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 129 |
+
+**Acceptance count: taught in 5 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, electricity-and-magnetism/materials-that-conduct-electricity

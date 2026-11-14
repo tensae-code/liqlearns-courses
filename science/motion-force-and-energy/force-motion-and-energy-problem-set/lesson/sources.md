@@ -1,6 +1,6 @@
 # Sources — Force, motion and energy — problem set
 
-countries: Ethiopia, Laos, Libya, Yemen
+countries: Ethiopia, Laos, Libya, Yemen, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -39,3 +39,26 @@ Searchable tags: problem set review speed-time graph kinetic energy back calcula
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, motion-force-and-energy force-motion-and-energy-problem-set
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN6):** Title: Ciencias Naturales — Sexto grado (Natural Sciences, Grade 6), student book Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217); no ISBN printed PDF pages: 221; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19, all on rocks and soils; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38, all on forests), plus glossaries and 4 annexes (volcanoes, soil-use map, forest map, protected-areas map) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| work defined and measured: work is done when a force displaces a body in the force's direction, calculated as T = F × D in joules; the lesson builds the four ingredients — force (an interaction between two bodies that alters motion, measured in newtons), mass, acceleration (speeding up or braking) and displacement (the straight-line change of position, distinguished from the total distance travelled) (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 123 |
+| worked work calculations: pulling a luggage cart with 30 N over 50 m is 1,500 J; a climber applying 600 N up a 10 m wall does 6,000 J; and if a force is applied but the body neither moves nor deforms, no work is done (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 124 |
+| work against weight: for vertical displacement the force must at least equal the object's weight (the effect of gravity on its mass); the tree-house problem splits a 500 J lift of a 50 N water container between two children at different heights (425 J for the 8.5 m part) (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 125 |
+| Einstein's mass–energy equivalence introduced to sixth graders: E = mc² (1905) — the energy of a body at rest equals its mass times the speed of light squared, so matter can become great quantities of energy and energy can become matter (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 124 |
+
+**Book (Honduras — CN6 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Sexto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 6 student book filed above (HN CN6). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + protected-areas annex) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| work is calculated T = F × D (force in newtons parallel to the displacement, distance in metres); worked answers: moving a bed 20 N × 3 m = 60 J, pushing a book 3 N × 1.5 m = 4.5 J; no work is done holding a book still overhead or pushing a wall that does not move, because there is no displacement (guide evidence) (Honduras — CN6 Guide) | Honduras, *CN6 Guide*, guide PDF p. 94 |
+
+**Acceptance count: taught in 5 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, motion-force-and-energy/force-motion-and-energy-problem-set

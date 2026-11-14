@@ -1,6 +1,6 @@
 # Sources — The microscope — seeing the unseen
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka, Saudi Arabia, Vietnam, Colombia, Papua New Guinea (teacher-guide evidence only), Iran, Kazakhstan
+countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka, Saudi Arabia, Vietnam, Colombia, Papua New Guinea (teacher-guide evidence only), Iran, Kazakhstan, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -275,3 +275,23 @@ Searchable tags: iran, iran science, ministry of education iran, the-human-body 
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, the-human-body the-microscope-seeing-the-unseen
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN9):** Title: Libro para Estudiantes, Ciencias Naturales, 9no grado (TSV record dated 2022) Publisher: Secretaría de Educación, Honduras, C.A., 2022 (colophon); no ISBN printed PDF pages: 254; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 6 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter and energy, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes and glossary It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the first observations of the microscopic world: looking at a drop of stagnant water through a homemade microscope, Anton van Leeuwenhoek discovered that in a liquid showing no signs of life to the naked eye there were tiny moving creatures; he called the microscopic beings he discovered that day in 1674 "animáculos" (animalcules) and estimated their size by comparing them with a hair pulled from his beard; what he had seen were the unicellular organisms we today call protozoa (Honduras — HN CN9) | Honduras, *HN CN9*, printed p. 189 |
+
+**Book (Honduras — CN9 Guide):** Title: Ciencias Naturales 9 — Guía para Docentes, III Ciclo, Noveno grado (cover: "Ciencias Naturales 9, Noveno grado, Guía para Docentes, III Ciclo", República de Honduras, Secretaría de Educación) Publisher: Secretaría de Educación (SEDUC), Honduras; elaborated by the Universidad Pedagógica Nacional Francisco Morazán (UPNFM); author Ricardo Humberto García Zaldívar; credits page: "Guía para Docentes, Ciencias Naturales, Noveno grado, Edición 2017", © Secretaría de Educación, Centro Cívico Gubernamental "José Cecilio del Valle", Tegucigalpa, M.D.C., Honduras; ISBN 978-99979-53-60-5; the secured copy's closing colophon is dated 2022 ("Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. - 2022") PDF pages: 166 (image-only; read from 100 DPI renders); printed folio = PDF page − 2; 510,738,561 bytes, matching the secured release copy exactly Note: teacher guide to HN CN9 (the Grade 9 student book, filed above). Following the standing guide rule, only the guide's own added content is placed here — theory expansions, printed answer keys, margins and annexes the student book does not carry; every bullet is marked guide evidence. Citations give the guide PDF page, because the guide interleaves student-page reproductions with guide pages. Split-subject Block 3 (Materia y energía, Lessons 20–29) is chapter-lined with no item placements, mirroring the student book's filing. Verdict: COMPLETE — all 38 lessons and the annexes present; the back cover carries the Río Plátano Biosphere Reserve feature. Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| printed key: the instrument used to observe microorganisms is the microscope (guide evidence) (Honduras — CN9 Guide) | Honduras, *CN9 Guide*, guide PDF p. 125 |
+
+**Acceptance count: taught in 14 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/the-microscope-seeing-the-unseen

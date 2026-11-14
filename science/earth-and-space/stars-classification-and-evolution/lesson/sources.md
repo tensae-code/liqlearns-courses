@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Nepal, Papua New Guinea, Honduras
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -259,3 +259,32 @@ It counts in the acceptance count (student book, not evidence-only), except wher
 **Acceptance count: taught in 16 countries — Papua New Guinea added.** Papua New Guinea counts through its student books above; its teacher guides/manuals in this section are guide evidence only, counted nowhere beyond that one count.
 
 Papua New Guinea's own way — its Department of Education National Science Textbooks and teacher guides/manuals (JICA QUIS-ME and Standards Based series) teaching this thing in the order and at the places named in the rows above, with Papua New Guinea's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stars are hot hydrogen-and-helium gas bodies shining with their own light; colour shows surface temperature — blue hottest, then white, yellow and red; the Sun is a yellow star of about 6,000 °C (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 60 |
+
+**Book (Honduras — HN CN7):** Title: Libro para Estudiantes, Ciencias Naturales, Séptimo grado, III Ciclo (record LE-CCNN7-2017; the printed colophon is dated 2018) Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 249); no ISBN printed PDF pages: 253; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 6 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter and energy, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes and glossary It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| stars defined: gaseous, incandescent bodies that appear as mere points of light because of their enormous distance; they produce energy inside and radiate it as light — they have their own light, unlike the planets, which only reflect starlight; the best-known star is the Sun (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 113 |
+| reading the night sky: on average some 3,000 bright points are visible; most twinkle (stars), while those that do not twinkle are planets; a star's brightness indicates how much energy it gives off — its luminosity (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 113 |
+| the life of a star: it is born when gravity gathers great masses of interstellar gas and matter together; its life is determined by the hydrogen in its core fusing into helium, and when the hydrogen runs out the star begins to die — the greater its mass, the shorter its life (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 113 |
+| the types of stars: protostars (in formation), T Tauri stars (surrounded by protoplanetary discs where planets are believed to form), white dwarfs (small, hot, very faint), red giants (very large and cold, the most abundant), red dwarfs (small, low luminosity), supergiants (the largest and most luminous, 10–50 times the Sun's mass) and main-sequence stars (where most stars, including the Sun, sit) (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 114 |
+
+**Book (Honduras — CN4 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Cuarto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 165 Note: This is the teacher guide to the Grade 4 student book filed above (HN CN4). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. The guide interleaves reproductions of student pages with guide pages and carries two folio series, so citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + 2 annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Big Dipper (Ursa Major) answer key: the figure is formed by 7 stars (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 47 |
+
+**Acceptance count: taught in 17 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/stars-classification-and-evolution

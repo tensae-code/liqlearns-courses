@@ -1,0 +1,21 @@
+# Lesson plan — Microorganisms — the invisible living world
+
+**Course:** Science · **Title:** Animals · **Lesson:** Microorganisms — the invisible living world
+**Place in the curriculum:** Animals — appended to Unit 9 (Animals) (CURRICULUM.md)
+**The one thing this lesson teaches:** microorganisms (microbes) defined and classified: beings so small they cannot be seen with the naked eye — optical or electronic microscopes are needed — living in any medium; their size is measured in microns or micrometres (µm, the thousandth part of a millimetre); they divide into those with cellular organisation (possessing a cell membrane and the nucleic acids DNA and RNA: the prokaryotes — archaebacteria, organisms similar to bacteria but with different biochemical and genetic characteristics, and eubacteria, including most bacteria — and the unicellular eukaryotes with nucleus: protozoa, microscopic algae and microscopic fungi) and those without cellular organisation — the viruses, which have a biomolecular organisation, possessing neither nuclear nor cell membrane; all are unicellular except the viruses, which are not cells.
+**This lesson's own level:** it stands on its own — a learner can land here directly and follow the whole lesson.
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. Images follow the picture rule (a real photograph, or real art, with its source). GIFs come first where a thing must be shown moving or popping — a GIF here is 1–2 seconds.
+
+## Sub lessons
+1. **Microorganisms (microbes) defined and classified** — microorganisms (microbes) defined and classified: beings so small they cannot be seen with the naked eye — optical or electronic microscopes are needed — living in any medium; their size is measured in microns or micrometres (µm, the thousandth part of a millimetre); they divide into those with cellular organisation (possessing a cell membrane and the nucleic acids DNA and RNA: the prokaryotes — archaebacteria, organisms similar to bacteria but with different biochemical and genetic characteristics, and eubacteria, including most bacteria — and the unicellular eukaryotes with nucleus: protozoa, microscopic algae and microscopic fungi) and those without cellular organisation — the viruses, which have a biomolecular organisation, possessing neither nuclear nor cell membrane; all are unicellular except the viruses, which are not cells.
+2. **Margin: beings so small cannot be observed with the simple view** — margin: beings so small cannot be observed with the simple view — a specialised instrument called microscope is necessary, which can be optical or electronic; not all microorganisms are harmful for the human being (guide evidence)
+3. **Printed keys** — printed keys: beneficial microorganisms for humans include the intestinal flora — bacteria living in our body, protecting it and obtaining food; the bacterium Lactobacillus bulgaricus used in dairy production like cheese, and the fungus Saccharomyces cerevisiae for bread making; the true/false key gives: bacteria were the first living beings inhabiting the planet (true); the diseases listed as fungal (flu, measles, diarrhoea, herpes, varicella) are keyed false — they are caused by viruses; microorganisms cannot be observed with the simple view, only through the microscope; viruses are not the largest microorganisms but the smallest; fungi are not originated by lack of personal hygiene alone (guide evidence)
+
+## Before this lesson
+- Recommended first: see the lesson's own opening. Recommended, never forced.
+
+## What the learner can do when it ends
+1. Explain sub lesson 1 in their own words: Microorganisms (microbes) defined and classified.
+2. Explain sub lesson 2 in their own words: Margin: beings so small cannot be observed with the simple view.
+3. Explain sub lesson 3 in their own words: Printed keys.

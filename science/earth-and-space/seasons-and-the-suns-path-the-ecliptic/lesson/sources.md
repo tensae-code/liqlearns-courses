@@ -1,6 +1,6 @@
 # Sources — Seasons and the Sun's path — the ecliptic
 
-countries: Palestine, China, Indonesia, Fiji, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Nepal, Papua New Guinea (teacher-guide evidence only), Kazakhstan
+countries: Palestine, China, Indonesia, Fiji, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Nepal, Papua New Guinea (teacher-guide evidence only), Kazakhstan, Honduras
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
@@ -182,3 +182,23 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space seasons-and-the-suns-path-the-ecliptic
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras's tropical climate: marked dry and rainy seasons, near-constant 12-hour days and nights, the spring equinox about 21 March and autumn equinox 22 September (rays falling directly on the equator), the June solstice (radiation on the Tropic of Cancer, northern summer) and the December solstice (on the Tropic of Capricorn) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 74 |
+
+**Book (Honduras — HN CN7):** Title: Libro para Estudiantes, Ciencias Naturales, Séptimo grado, III Ciclo (record LE-CCNN7-2017; the printed colophon is dated 2018) Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 249); no ISBN printed PDF pages: 253; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 6 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter and energy, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes and glossary It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| aphelion (the farthest point, about 152 million km, reached in early July, when the Earth travels slowest) versus perihelion (the closest, about 147 million km, in early January, when it travels fastest — and the average temperature rises some 2.3 °C from the uneven distribution of land and water) (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 89 |
+
+**Acceptance count: taught in 9 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/seasons-and-the-suns-path-the-ecliptic

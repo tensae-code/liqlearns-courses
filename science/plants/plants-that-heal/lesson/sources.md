@@ -1,6 +1,6 @@
 # Sources — Plants that heal
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Ecuador, Dominican Republic, Laos, Yemen, Nicaragua, Iraq, Colombia, Nepal (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Ecuador, Dominican Republic, Laos, Yemen, Nicaragua, Iraq, Colombia, Nepal (teacher-guide evidence only), Honduras
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -179,3 +179,23 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, plants/plants-that-heal
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN2):** Records: books.json grade-02/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN2-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-02-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 273,910,890 bytes. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Segundo grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Segundo grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018" (InDesign file 2G-LIBRO TEXTO modif.indd, Feb–Mar 2018). No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annexes and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Medicinal herbs Honduras's way: epacina, calaica and epazote gathered for teas; the herb "cachito, duerme dientes", native to Honduras, chewed by farmers to calm toothache; calaguala grown at Santa Cruz de Yojoa for bone pain, stomach problems and cancer (Honduras — HN CN2) | Honduras, *HN CN2*, printed pp. 94–99 |
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the garden mixes ornamental plants (rose, sunflower, carnation), medicinal plants (garlic, mint, rosemary, chamomile) and aromatic plants (thyme, oregano), and can be kept in small spaces, balconies and reused containers (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 118 |
+
+**Acceptance count: taught in 9 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, plants/plants-that-heal

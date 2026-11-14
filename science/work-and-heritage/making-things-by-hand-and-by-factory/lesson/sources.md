@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Making Things: By Hand and by Factory
 
-countries: Ethiopia, Ecuador, Venezuela, Angola, North Macedonia, Bangladesh, Saudi Arabia, Iran
+countries: Ethiopia, Ecuador, Venezuela, Angola, North Macedonia, Bangladesh, Saudi Arabia, Iran, Honduras
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -149,3 +149,27 @@ Placement choice, on the record: the Iran placement(s) above filed as `work-and-
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, work-and-heritage making-things-by-hand-and-by-factory
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| artisanal vs industrial process compared line by line: hand work vs machines, simple tools vs high technology, family/communal workshop vs factory, natural inputs vs chemical and natural, slow laborious production with every product different vs fast mass production in identical series, master–apprentice vs boss–worker, local markets vs national and international (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 153 |
+| the artisanal tortilla chain in twelve steps as the country's own way: buy maize → clean it → cook the nixtamal with lime water on an eco-stove → rest → wash and drain → grind to soft dough → knead → form balls → shape thin round tortillas → cook on the hot comal, turning until they puff → keep in a basket under a cloth → sell by order, door to door or at a stall (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 155 |
+
+**Book (Honduras — CN4 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Cuarto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 165 Note: This is the teacher guide to the Grade 4 student book filed above (HN CN4). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. The guide interleaves reproductions of student pages with guide pages and carries two folio series, so citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + 2 annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| craft is a source of income for Honduras's indigenous and Afro-Honduran peoples (Miskito, Garífuna, Chortí, Tawahka, Lenca), organised as individual microenterprises or cooperatives; matched products: Gracias a Dios — the pipante canoe; the Caribbean — coconut crafts and casabe; Intibucá — woven fabrics (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 117 |
+| Honduras's main craft raw materials: bamboo, coconut, calabash, reed (junco), wicker, woods, animal leather and clay, worked into hats, baskets, fans, furniture, vases, bags, purses, belts and leather shoes; productive processes convert raw material into goods and services, artisanal production by hand with local materials vs industrial production with specialised machinery and qualified labour (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 118 |
+| the tortilla chain answer key: raw material maize from the milpa or market, cooked and ground into masa, the tortilla ready when it puffs as it cooks; the orange-juice chain: obtain raw material, transport, make the juice, distribute, consume, discard the packaging; artisanal juice has no preservatives, keeps cultural tradition and does not pollute, industrial juice the reverse (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 119 |
+| Annex 1: craft activities by department of Honduras — Francisco Morazán (leather goods, clay ceramics, seed products), Islas de la Bahía (coconut products, wood carving), Cortés (embroidery, wooden furniture), Atlántida (wood, pottery, musical instruments), Yoro (mahogany and cedar carving), Colón (cayuco canoe, oar, fishing trap), Comayagua (pottery, wood carving, leather), Valle (Lenca pottery, hammocks) (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 161 |
+
+**Acceptance count: taught in 9 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, work-and-heritage/making-things-by-hand-and-by-factory

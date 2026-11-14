@@ -1,6 +1,6 @@
 # Sources — Making a wind vane and rain gauge
 
-countries: Ethiopia, Seychelles, China, Laos, Eritrea, Sri Lanka, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Iraq, Colombia, Iran
+countries: Ethiopia, Seychelles, China, Laos, Eritrea, Sri Lanka, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Iraq, Colombia, Iran, Honduras
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -197,3 +197,23 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, science-skills making-a-wind-vane-and-rain-gauge
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN2):** Records: books.json grade-02/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN2-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-02-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 273,910,890 bytes. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Segundo grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Segundo grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018" (InDesign file 2G-LIBRO TEXTO modif.indd, Feb–Mar 2018). No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annexes and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras's hands-on way: making a homemade rain gauge (pluviómetro) from a flat-based container, ruler and funnel, and comparing how much rain falls in different zones or departments (Honduras — HN CN2) | Honduras, *HN CN2*, printed p. 68 |
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| pupils build a wind vane from card, a straw, a pin and a pencil with an eraser, set it with a compass or the Sun's position, and check the week's media forecasts against reality (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 81 |
+
+**Acceptance count: taught in 12 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, science-skills/making-a-wind-vane-and-rain-gauge

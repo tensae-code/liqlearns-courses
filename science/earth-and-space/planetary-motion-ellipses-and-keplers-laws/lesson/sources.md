@@ -1,6 +1,6 @@
 # Sources — Planetary motion — ellipses and Kepler's laws
 
-countries: Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica, Bhutan, Nicaragua
+countries: Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica, Bhutan, Nicaragua, Honduras (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -101,3 +101,17 @@ Searchable tags: bhutan, bhutan science, science class viii
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space planetary-motion-ellipses-and-keplers-laws
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — CN7 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Séptimo grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 7 student book filed above (HN CN7). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). As in the student filing, the purely split-subject lesson blocks (Physics/Chemistry Lessons 25–29 and Biology Lessons 31–38) are chapter-lined, not item-placed. Verdict: COMPLETE (38 lessons + annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kepler developed three laws describing the movement of the planets (the guide presents the law of the orbit: the planets move in elliptical orbits); the ellipse is drawn in class with two nails and a loop of string, and the planets follow elliptical trajectories because the Sun's gravity attracts them and prevents their escaping (guide evidence) (placement filed as NEW LESSON NEEDED — keplers-laws-of-planetary-motion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — CN7 Guide) | Honduras, *CN7 Guide*, guide PDF p. 71 |
+
+**Acceptance count unchanged:** Honduras is named as teacher-guide evidence only (its *Guía para Docentes / Guía del Docente* books named above), not added to this count.
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/planetary-motion-ellipses-and-keplers-laws

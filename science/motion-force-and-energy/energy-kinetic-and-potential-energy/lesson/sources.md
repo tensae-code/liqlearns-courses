@@ -1,6 +1,6 @@
 # Sources — Energy — kinetic and potential energy
 
-countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia, Fiji, Nicaragua, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan
+countries: Ethiopia, Argentina, Nigeria (teacher-guide evidence only), Iraq, Costa Rica, India, Bahamas (curriculum evidence only), United States, Egypt, Afghanistan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Eritrea, Sri Lanka, Indonesia, Fiji, Nicaragua, El Salvador, Colombia, Nepal, Papua New Guinea, Libya, Jordan, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -404,3 +404,27 @@ Searchable tags: libya, libya science, centre for educational curricula and educ
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, motion-force-and-energy energy-kinetic-and-potential-energy
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN6):** Title: Ciencias Naturales — Sexto grado (Natural Sciences, Grade 6), student book Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217); no ISBN printed PDF pages: 221; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19, all on rocks and soils; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38, all on forests), plus glossaries and 4 annexes (volcanoes, soil-use map, forest map, protected-areas map) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mechanical energy depends on position and movement and splits into kinetic and potential; the unit of energy is the joule (J) (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 118 |
+| translational kinetic energy: the energy of a body moving in one direction, calculated as K = ½ × m × V², with a worked example (a 3 kg box at 1 m/s needs 1.5 joules) (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 118 |
+| rotational kinetic energy: the energy of bodies spinning on an axis, like a thrown spinning top turning on its central point (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 118 |
+| gravitational potential energy: a raised body can fall, and its energy depends on mass, gravity and height (Epg = m × g × h) — on the water slide, Daniel's potential energy is greatest at the top and falls as his height falls (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 119 |
+| elastic potential energy: elastic materials like springs deform under force and recover their shape, storing energy when compressed or stretched (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 119 |
+
+**Book (Honduras — CN6 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Sexto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 6 student book filed above (HN CN6). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + protected-areas annex) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mechanical energy classified: kinetic (translational — moving in one direction; rotational — spinning on an axis, which may be internal or external, like the nail of a spinning top) and potential (gravitational — depending on height, greater the higher the body; elastic — in materials that deform under force and return to their natural state) (guide evidence) (Honduras — CN6 Guide) | Honduras, *CN6 Guide*, guide PDF p. 90 |
+
+**Acceptance count: taught in 25 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, motion-force-and-energy/energy-kinetic-and-potential-energy

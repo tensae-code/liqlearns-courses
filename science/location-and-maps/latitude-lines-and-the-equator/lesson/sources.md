@@ -1,6 +1,6 @@
 # Sources — Latitude Lines and the Equator
 
-countries: Ethiopia, Cuba, Bhutan, North Macedonia, Indonesia, Bangladesh, Kazakhstan
+countries: Ethiopia, Cuba, Bhutan, North Macedonia, Indonesia, Bangladesh, Kazakhstan, Honduras
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -132,3 +132,23 @@ Searchable tags: bangladesh, bangladesh science, nctb, location-and-maps latitud
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, location-and-maps latitude-lines-and-the-equator
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN2):** Records: books.json grade-02/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN2-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-02-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 273,910,890 bytes. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Segundo grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Segundo grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018" (InDesign file 2G-LIBRO TEXTO modif.indd, Feb–Mar 2018). No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annexes and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Parallels are the imaginary circles geographers draw around the planet; the Equator is the central line dividing the planet into northern and southern hemispheres (Honduras — HN CN2) | Honduras, *HN CN2*, printed p. 67 |
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| latitude (0–90° from the equator, north or south; temperature falls as latitude grows), longitude (0–180° from the Greenwich meridian, east or west) and altitude (height above sea level) defined as the geographic coordinates (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 60 |
+
+**Acceptance count: taught in 8 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, location-and-maps/latitude-lines-and-the-equator

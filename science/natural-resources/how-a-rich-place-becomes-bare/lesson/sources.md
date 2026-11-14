@@ -1,6 +1,6 @@
 # Sources — How a rich place becomes bare
 
-countries: Ethiopia, Laos, Nepal, Kazakhstan
+countries: Ethiopia, Laos, Nepal, Kazakhstan, Honduras
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -79,3 +79,17 @@ Searchable tags: nepal, curriculum development centre, natural-resources/how-a-r
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, natural-resources how-a-rich-place-becomes-bare
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN2):** Records: books.json grade-02/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN2-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-02-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 273,910,890 bytes. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Segundo grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Segundo grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018" (InDesign file 2G-LIBRO TEXTO modif.indd, Feb–Mar 2018). No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annexes and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Landscapes are transformed by floods, hurricanes and earthquakes as well as by people; cutting forests makes rivers dry up and animals die (Honduras — HN CN2) | Honduras, *HN CN2*, printed pp. 71–73 |
+
+**Acceptance count: taught in 5 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, natural-resources/how-a-rich-place-becomes-bare

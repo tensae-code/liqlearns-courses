@@ -1,6 +1,6 @@
 # Sources — Chat, tobacco and alcohol: stimulants and their harm
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Sri Lanka, Indonesia, Yemen, Vietnam, Malaysia, South Sudan, Iraq, Colombia, Nepal, Libya
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Sri Lanka, Indonesia, Yemen, Vietnam, Malaysia, South Sudan, Iraq, Colombia, Nepal, Libya, Honduras
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -356,3 +356,17 @@ Searchable tags: nepal, curriculum development centre, keeping-healthy/chat-toba
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, keeping-healthy chat-tobacco-and-alcohol-stimulants-and-their-harm
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| alcohol's damage detailed inside the drugs lesson: it irritates the digestive system, affects balance and vision, damages the liver and the handling of emotions; tobacco causes cardiovascular and respiratory disorders, dry wrinkled skin, stained teeth, bad breath and, at worst, lung cancer (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 37 |
+
+**Acceptance count: taught in 16 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/chat-tobacco-and-alcohol-stimulants-and-their-harm

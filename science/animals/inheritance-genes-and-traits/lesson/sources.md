@@ -1,6 +1,6 @@
 # Sources — Inheritance — genes and traits
 
-countries: India, Kuwait, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Colombia, Libya
+countries: India, Kuwait, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Colombia, Libya, Honduras
 
 **Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
 
@@ -139,3 +139,19 @@ Placement choice, on the record: the Libya placement(s) above filed as inherited
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, animals inheritance-genes-and-traits
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heredity introduced through the family tree: species, genus and family worked with the canids (Canis lupus the wolf, Canis latrans the coyote, Canis familiaris the dog — same genus, different species); phenotype is the visible individual, genotype the genes possessed; chromosomes in the nucleus carry the genes; Gregor Mendel's pea experiments founded genetics; humans have 46 chromosomes in body cells, 23 in sex cells, and about 20,000 genes; alleles are the versions of a gene, dominant (manifest in the phenotype) or recessive (placement filed as NEW LESSON NEEDED — inheritance-genes-and-mutations; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 182 |
+| the three mutation types: chromosomal (a piece of chromosome lost or repeated), genomic (a different number of chromosomes — a trisomy such as Down syndrome) and genic (a change in the DNA structure, generating sickle-cell anaemia or cystic fibrosis); sex is set by XX (woman) and XY (man) chromosomes; mutations can also be caused from outside — environmental contamination, drugs, chemical preservatives, radiation, nuclear weapons and handling pesticides (placement filed as NEW LESSON NEEDED — inheritance-genes-and-mutations; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 183 |
+| a dominant-and-recessive survey pupils run on their own bodies: curly hair, long eyelashes, dark eyes, tongue-rolling, hair on the finger joints and cheek dimples ("chocoyos") as dominant traits; heritable vs non-heritable characteristics sorted (fingerprints and iris colour heritable; a nose surgery, scars, dyed hair, pierced ears, spoken English and malnutrition not); the lesson closes against marriage between close relatives (consanguinity) (placement filed as NEW LESSON NEEDED — inheritance-genes-and-mutations; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN5) | Honduras, *HN CN5*, printed pp. 184, 185 |
+
+**Acceptance count: taught in 7 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, animals/inheritance-genes-and-traits

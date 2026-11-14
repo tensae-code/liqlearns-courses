@@ -1,6 +1,6 @@
 # Sources — Using medicines properly
 
-countries: Ethiopia, Samoa, Yemen, Vietnam, Nicaragua, South Sudan, Colombia, Libya
+countries: Ethiopia, Samoa, Yemen, Vietnam, Nicaragua, South Sudan, Colombia, Libya, Honduras
 
 **Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -153,3 +153,17 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Libya's own way — its Ministry of Education, Centre for Educational Curricula and Educational Research *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Libya's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: libya, libya science, centre for educational curricula and educational research, keeping-healthy using-medicines-properly
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Visit the doctor and avoid over-the-counter medicines bought without a prescription (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 27 |
+
+**Acceptance count: taught in 8 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/using-medicines-properly

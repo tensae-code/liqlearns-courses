@@ -1,6 +1,6 @@
 # Sources — Adolescence and its changes
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Honduras
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -377,3 +377,17 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/adolescence-and-its-changes
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| human life stages (childhood, adolescence, youth, adulthood, old age); puberty begins at 10–11 in girls and 12–13 in boys, driven by sex hormones, with a side-by-side table of changes (growth, acne, body hair; breast and hip growth and menarche in girls; first ejaculation in boys) plus attraction and the wish for social acceptance (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 21 |
+
+**Acceptance count: taught in 20 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/adolescence-and-its-changes

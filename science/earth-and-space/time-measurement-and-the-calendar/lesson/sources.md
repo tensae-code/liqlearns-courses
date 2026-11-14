@@ -1,6 +1,6 @@
 # Sources — Time measurement and the calendar
 
-countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic, Malaysia, Morocco (teacher-guide evidence only), Colombia
+countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic, Malaysia, Morocco (teacher-guide evidence only), Colombia, Honduras
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -207,3 +207,29 @@ Searchable tags: colombia, colombia science, ciencias naturales, ministerio de e
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space time-measurement-and-the-calendar
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN7):** Title: Libro para Estudiantes, Ciencias Naturales, Séptimo grado, III Ciclo (record LE-CCNN7-2017; the printed colophon is dated 2018) Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 249); no ISBN printed PDF pages: 253; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 6 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter and energy, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes and glossary It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the sidereal day (23 hours 56 minutes, one full turn measured against the apparent movement of the stars) distinguished from the solar day (the interval between two consecutive passages of the Sun across a meridian, varying from 23h 59m 39s in September to 24h 0m 30s in December) (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 84 |
+
+**Book (Honduras — HN CN1 Guide):** Title: Guía para Docentes, Ciencias Naturales, Primer grado, I Ciclo (cover as printed) Publisher: Secretaría de Educación (SEDUC), Honduras; the presentation calls it a "versión preliminar" (preliminary version); no year or ISBN printed in the front matter PDF pages: 160; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 4 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes Note: This guide is the fullest surviving evidence of the Grade 1 course — the Grade 1 STUDENT book is secured only as a 4-page fragment (see the G1 fragment section above) — so these placements are filed as GUIDE EVIDENCE: the guide's own theory summaries ("resumen teórico") and its printed answers to the student activities give the lesson content. Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the week and the month come from the Moon: associated with the Moon arise the concepts of week and month, forming a fundamental part of the calendars — the Moon forms part of the very notion of time (guide evidence) (Honduras — HN CN1 Guide) | Honduras, *HN CN1 Guide*, printed p. 72 |
+
+**Book (Honduras — CN7 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Séptimo grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 7 student book filed above (HN CN7). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). As in the student filing, the purely split-subject lesson blocks (Physics/Chemistry Lessons 25–29 and Biology Lessons 31–38) are chapter-lined, not item-placed. Verdict: COMPLETE (38 lessons + annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| time zones worked from Greenwich: if in New York it is 12:30 midday, in Honduras it is 10:30 a.m. in New York's summer time and 11:30 a.m. in its winter time (guide evidence) (Honduras — CN7 Guide) | Honduras, *CN7 Guide*, guide PDF p. 59 |
+
+**Acceptance count: taught in 7 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/time-measurement-and-the-calendar

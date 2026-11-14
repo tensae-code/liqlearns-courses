@@ -1,6 +1,6 @@
 # Sources — Changing state — melting, freezing, evaporating, condensing
 
-countries: Vietnam, Morocco (teacher-guide evidence only), Kazakhstan
+countries: Vietnam, Morocco (teacher-guide evidence only), Kazakhstan, Honduras
 
 **Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
 
@@ -68,3 +68,23 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials 
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, materials changing-state-melting-freezing-evaporating-condensing
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 28: water's states in nature — solid, liquid and gas; fusion (solid to liquid by heat), vaporisation (boiling at 100 °C, and slow evaporation), condensation (vapour back to liquid — clouds, rain, snow, fog, dew) and solidification (liquid to ice on cooling); ice floats because solid water is about 10% lighter, in the book's wording (placement filed as NEW LESSON NEEDED — changing-state-melting-freezing-evaporating-condensing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 127 |
+
+**Book (Honduras — CN6 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Sexto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 6 student book filed above (HN CN6). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + protected-areas annex) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| state changes classed progressive (fusion, ebullition, progressive sublimation) and regressive (solidification, condensation, regressive sublimation), each defined; evaporation is the transformation of a liquid's surface particles into gas without applying external heat; fragmentation and deformation are also physical changes (guide evidence) (placement filed as NEW LESSON NEEDED — changing-state-melting-freezing-evaporating-condensing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — CN6 Guide) | Honduras, *CN6 Guide*, guide PDF p. 118 |
+
+**Acceptance count: taught in 3 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, materials/changing-state-melting-freezing-evaporating-condensing

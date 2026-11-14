@@ -1,6 +1,6 @@
 # Sources — Energy — degradation: why useful energy is lost as heat
 
-countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Greece, Egypt, Malaysia, Colombia
+countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Greece, Egypt, Malaysia, Colombia, Honduras
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -80,3 +80,17 @@ Searchable tags: malaysia, malaysia science, sains, kssr, kssm, motion-force-and
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, motion-force-and-energy/energy-degradation-why-useful-energy-turns-to-heat
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN6):** Title: Ciencias Naturales — Sexto grado (Natural Sciences, Grade 6), student book Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217); no ISBN printed PDF pages: 221; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19, all on rocks and soils; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38, all on forests), plus glossaries and 4 annexes (volcanoes, soil-use map, forest map, protected-areas map) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the law of conservation of energy (the first principle of thermodynamics): energy cannot be created or destroyed, only transformed — and in every transformation part of it escapes as heat, so energy continually degrades toward a lower-quality form (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 128 |
+
+**Acceptance count: taught in 6 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, motion-force-and-energy/energy-degradation-why-useful-energy-turns-to-heat

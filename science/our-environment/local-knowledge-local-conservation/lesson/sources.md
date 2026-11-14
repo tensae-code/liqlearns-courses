@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia, Vietnam, Nicaragua, Kazakhstan
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia, Vietnam, Nicaragua, Kazakhstan, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -259,3 +259,23 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, our-environment local-knowledge-local-conservation
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| About 40% of Honduras's population is linked to protected spaces, benefiting from their water sources or taking goods for domestic use, and most indigenous peoples live inside or beside protected areas in harmony with natural resources; World Environment Day is 5 June (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 124 |
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the legal machinery (the country's own way): the General Environment Law, decree 104-93 of 27 May 1993, creates SINAPH, the National System of Protected Areas of Honduras, with five objectives (conserve natural and cultural resources integrally, ensure ecosystem conservation, coordinate institutions, support sustainable buffer-zone management, develop sustainable-use opportunities) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 129 |
+
+**Acceptance count: taught in 15 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, our-environment/local-knowledge-local-conservation

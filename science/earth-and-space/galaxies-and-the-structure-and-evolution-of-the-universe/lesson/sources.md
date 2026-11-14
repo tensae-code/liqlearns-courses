@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Jordan, Kazakhstan
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Colombia, Nepal, Papua New Guinea (teacher-guide evidence only), Jordan, Kazakhstan, Honduras
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -325,3 +325,17 @@ Searchable tags: jordan, jordan science, nccd, national center for curriculum de
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| galaxies are held together by gravity and classified by shape: spiral (curved arms like a pinwheel), elliptical (oval) and irregular (no defined shape, small); our spiral Milky Way has arms named Perseus, Cygnus, Sagittarius and Orion, and the solar system is part of it (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 59 |
+
+**Acceptance count: taught in 18 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/galaxies-and-the-structure-and-evolution-of-the-universe

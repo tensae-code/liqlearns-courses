@@ -1,6 +1,6 @@
 # Sources — Food — where our food comes from
 
-countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia, Nepal, Iran
+countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia, Nepal, Iran, Honduras
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -338,3 +338,19 @@ Searchable tags: nepal, curriculum development centre, keeping-healthy/food-wher
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, keeping-healthy food-where-our-food-comes-from
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras's dairy east: the municipalities of Danlí, Trojes and Patuca supply milk, cheese, quesillo and butter to the centre and north of the country (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 20 |
+| Lesson 20: Honduras's crops — agriculture is a fifth of the country's income and its biggest employer; maize is harvested twice a year and is the main energy source (tortillas, tamalitos, montucas, atoles); beans are sown in primera (May–June) and postrera (October–November), carry iron that prevents anaemia; rice concentrates in Comayagua, Jesús de Otoro and the Atlantic coast; coffee, a top export, grows in 16 departments (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 95 |
+| Lesson 21: local crops vary with agroclimatic conditions — yuca, plantain, banana, coconut and rice on the north coast, La Mosquitia and the Atlantic coast; potato in the west; maicillo and maize in the east and south; the national RFAA report the book cites finds cereal and legume diversity falling while vegetable and fruit diversity rises (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 99 |
+
+**Acceptance count: taught in 14 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/food-where-our-food-comes-from

@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq, Colombia, Nepal, Jordan
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Malaysia, Iraq, Colombia, Nepal, Jordan, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -510,3 +510,17 @@ Searchable tags: nepal, curriculum development centre, light/dispersion-splittin
 Jordan's own way — its National Center for Curriculum Development and Evaluation (NCCD) *Science* books (in Arabic, prepared with HarperCollins) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Jordan's own examples where the rows name them (the Arabian oryx, Wadi Rum, the Dead Sea, Jordan's nature reserves) — is itself course content, carried exactly as filed.
 
 Searchable tags: jordan, jordan science, nccd, national center for curriculum development and evaluation, light dispersion-splitting-and-remixing-white-light
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the rainbow forms by the refraction of sunlight in the water drops of the atmosphere, showing the colours that compose it (Honduras — HN CN5) | Honduras, *HN CN5*, printed pp. 68–69 |
+
+**Acceptance count: taught in 37 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, light/dispersion-splitting-and-remixing-white-light

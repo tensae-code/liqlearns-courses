@@ -1,6 +1,6 @@
 # Sources — Moving our bodies and sleep on time
 
-countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, South Sudan, Colombia, Nepal, Jordan, Iran, Kazakhstan
+countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, South Sudan, Colombia, Nepal, Jordan, Iran, Kazakhstan, Honduras
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -483,3 +483,17 @@ Searchable tags: iran, iran science, ministry of education iran, keeping-healthy
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, keeping-healthy moving-our-bodies-and-sleep-on-time
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN1 (fragment)):** Records: TSV only — blob grade-01/gov/honduras/ciencias-naturales/full-year.pdf, 4,042,836 bytes, fetched via the Contents route; no books.json student record for Grade 1 (the books.json Grade 1 record is the teacher guide). MISMATCH NAMED: the record name says "full-year" but the file is a 4-page fragment. Title as printed (running head): Ciencias Naturales — Primer grado. Publisher: Secretaría de Educación, Honduras (InDesign footer "1G-LIBRO DE TEXTO modif.indd", 22 Feb 2018). PDF pages: 4. Verdict: PARTIAL — only printed pp. 10–13 are present (the second half of Lesson 1, "El ser humano y la salud"); the cover, contents and all other lessons are missing. Library debt: the complete Grade 1 student book is not secured anywhere in the repo. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Valuing our body: the body-parts song with movements; clothing protects the body from cold, heat, rain and stings; the body needs walking, running, eating, singing, jumping, playing, swimming, dancing and sleeping (Honduras — HN CN1 (fragment)) | Honduras, *HN CN1 (fragment)*, printed p. 13 |
+
+**Acceptance count: taught in 21 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/moving-our-bodies-and-sleep-on-time

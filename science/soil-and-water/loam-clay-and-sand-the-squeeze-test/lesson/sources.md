@@ -1,6 +1,6 @@
 # Sources — Loam, clay and sand — the squeeze test
 
-countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran, Kazakhstan
+countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only), Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Saudi Arabia, Vietnam, South Sudan, Iraq, El Salvador, Colombia, Papua New Guinea, Libya, Iran, Kazakhstan, Honduras
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -367,3 +367,37 @@ Searchable tags: iran, iran science, ministry of education iran, soil-and-water 
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, soil-and-water loam-clay-and-sand-the-squeeze-test
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Honduras's hands-on way: the soil water-absorption experiment — six equal soil samples dried in the sun for a week, ground, and set in perforated mounts to compare how each soil takes in water (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 52 |
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soil types named by their formation: clayey, limey (calizos), sandy and stony soils; a field test compares garden soil, construction soil and ditch soil by colour, contents and how the rubbed rock marks paper (Honduras — HN CN4) | Honduras, *HN CN4*, printed pp. 93–94 |
+
+**Book (Honduras — HN CN6):** Title: Ciencias Naturales — Sexto grado (Natural Sciences, Grade 6), student book Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217); no ISBN printed PDF pages: 221; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19, all on rocks and soils; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38, all on forests), plus glossaries and 4 annexes (volcanoes, soil-use map, forest map, protected-areas map) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soil texture is the proportion of mineral particles by size: gravels (2 mm to 7 cm), sands (under 2 mm, grains of quartz, feldspar and mica), silts (0.02–0.002 mm, from physical weathering) and clays (from chemical alteration, with a different chemistry) (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 74 |
+| texture classes and what they mean for farming: sandy soils do not retain water but aerate well; silty soils retain enough water and nutrients; clayey soils hold much water but in a form plants cannot use; and the ideal loam (franco) balances about 45% sand, 40% silt and 15% clay, read off a textural triangle (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 74 |
+| soil structure: particles group into aggregates called peds, formed by clay and organic matter (gravel, sand and silt do not aggregate); the aggregate shapes are named laminar, prismatic, columnar, angular and subangular blocky, granular and crumb (Honduras — HN CN6) | Honduras, *HN CN6*, printed p. 75 |
+
+**Book (Honduras — CN6 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Sexto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 6 student book filed above (HN CN6). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + protected-areas annex) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the field texture flowchart answer key: if the sample cannot be made into a ball it is sandy; if it bends into a U it is clay-loam or loam; if it forms a ring without cracking it is heavy or fine clay (guide evidence) (Honduras — CN6 Guide) | Honduras, *CN6 Guide*, guide PDF p. 59 |
+
+**Acceptance count: taught in 19 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, soil-and-water/loam-clay-and-sand-the-squeeze-test

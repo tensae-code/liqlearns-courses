@@ -1,6 +1,6 @@
 # Sources — Cells — the discovery of the cell
 
-countries: Ethiopia, Ecuador, Cabo Verde, Nicaragua, Colombia
+countries: Ethiopia, Ecuador, Cabo Verde, Nicaragua, Colombia, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -88,3 +88,23 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/the-discovery-of-the-cell
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the history told as a story: Robert Hooke in 1663 saw repeated units like honeycomb cells in thin cork layers and named them cells, and Antonie van Leeuwenhoek of Delft, a cloth maker whose single-lens microscopes magnified up to 300 times, saw in August 1674 tiny fast-moving "animálculos" (today's protozoa and bacteria) in lake water, and went on to describe blood cells, spermatozoa, plants and fungi (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 166 |
+
+**Book (Honduras — CN9 Guide):** Title: Ciencias Naturales 9 — Guía para Docentes, III Ciclo, Noveno grado (cover: "Ciencias Naturales 9, Noveno grado, Guía para Docentes, III Ciclo", República de Honduras, Secretaría de Educación) Publisher: Secretaría de Educación (SEDUC), Honduras; elaborated by the Universidad Pedagógica Nacional Francisco Morazán (UPNFM); author Ricardo Humberto García Zaldívar; credits page: "Guía para Docentes, Ciencias Naturales, Noveno grado, Edición 2017", © Secretaría de Educación, Centro Cívico Gubernamental "José Cecilio del Valle", Tegucigalpa, M.D.C., Honduras; ISBN 978-99979-53-60-5; the secured copy's closing colophon is dated 2022 ("Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. - 2022") PDF pages: 166 (image-only; read from 100 DPI renders); printed folio = PDF page − 2; 510,738,561 bytes, matching the secured release copy exactly Note: teacher guide to HN CN9 (the Grade 9 student book, filed above). Following the standing guide rule, only the guide's own added content is placed here — theory expansions, printed answer keys, margins and annexes the student book does not carry; every bullet is marked guide evidence. Citations give the guide PDF page, because the guide interleaves student-page reproductions with guide pages. Split-subject Block 3 (Materia y energía, Lessons 20–29) is chapter-lined with no item placements, mirroring the student book's filing. Verdict: COMPLETE — all 38 lessons and the annexes present; the back cover carries the Río Plátano Biosphere Reserve feature. Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the modern cell theory summarised in four postulates: 1. all organisms are composed of cells; 2. in the cells develop the organism's metabolic reactions; 3. cells come only from other pre-existing cells; 4. cells contain the hereditary material necessary for control of their own cycle, the development and functioning of an organism of their species, and the information for the next generation (guide evidence) (Honduras — CN9 Guide) | Honduras, *CN9 Guide*, guide PDF p. 158 |
+
+**Acceptance count: taught in 6 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/the-discovery-of-the-cell

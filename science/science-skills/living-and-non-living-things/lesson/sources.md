@@ -1,6 +1,6 @@
 # Sources — Living and non-living things
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Morocco (teacher-guide evidence only), Iraq, Nepal, Papua New Guinea, Iran
+countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Morocco (teacher-guide evidence only), Iraq, Nepal, Papua New Guinea, Iran, Honduras (teacher-guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -387,3 +387,23 @@ Papua New Guinea's own way — its Department of Education National Science Text
 Iran's own way — its Ministry of Education *Experimental Sciences* books, in Persian, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Iran's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iran, iran science, ministry of education iran, science-skills living-and-non-living-things
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN1 Guide):** Title: Guía para Docentes, Ciencias Naturales, Primer grado, I Ciclo (cover as printed) Publisher: Secretaría de Educación (SEDUC), Honduras; the presentation calls it a "versión preliminar" (preliminary version); no year or ISBN printed in the front matter PDF pages: 160; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 4 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter, energy and technology, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes Note: This guide is the fullest surviving evidence of the Grade 1 course — the Grade 1 STUDENT book is secured only as a 4-page fragment (see the G1 fragment section above) — so these placements are filed as GUIDE EVIDENCE: the guide's own theory summaries ("resumen teórico") and its printed answers to the student activities give the lesson content. Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nature split into biotic and abiotic: the nature is everything around us; its natural components can be living beings, called biotic — like the plants and animals — and elements without life, called abiotic — like the water, the rocks, the air, the Sun and the soil (guide evidence) (Honduras — HN CN1 Guide) | Honduras, *HN CN1 Guide*, printed p. 84 |
+
+**Book (Honduras — CN4 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Cuarto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 165 Note: This is the teacher guide to the Grade 4 student book filed above (HN CN4). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. The guide interleaves reproductions of student pages with guide pages and carries two folio series, so citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + 2 annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life defined scientifically: the capacity to administer a body's internal resources while adapting to changes in its surroundings; living systems are machines that transform matter into energy through their organisation and metabolism (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 66 |
+
+**Acceptance count unchanged:** Honduras is named as teacher-guide evidence only (its *Guía para Docentes / Guía del Docente* books named above), not added to this count.
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, science-skills/living-and-non-living-things

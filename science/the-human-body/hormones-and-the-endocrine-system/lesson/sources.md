@@ -1,6 +1,6 @@
 # Sources — Hormones and the endocrine system
 
-countries: Bangladesh, Nicaragua, El Salvador, Colombia
+countries: Bangladesh, Nicaragua, El Salvador, Colombia, Honduras
 
 **Book (Bangladesh — Class 9 Investigative Study):** *Investigative Science Study, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onusandhani Path, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 244, Bangla 244; printed pages 236 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14). DUPLICATE RECORDS, as filed: the Grade 10 records are byte-identical to these Grade 9 records (Investigative Bangla 16,278,290 bytes both; Investigative English 14,954,084 both) — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
 
@@ -84,3 +84,19 @@ Placement choice, on the record: the Colombia placement(s) above filed as “hor
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/hormones-and-the-endocrine-system
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN5):** Record: Honduras Grade 5 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-05-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Quinto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages and 4 annexes. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| exocrine glands secrete to the outside (sweat, tears, mucus) while endocrine glands release hormones into the bloodstream (insulin regulating blood sugar); the system controls mood, reproduction, metabolism, growth and development (placement filed as NEW LESSON NEEDED — the-endocrine-system-glands-and-hormones; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 16 |
+| the glands one by one: pituitary (growth hormones), hypothalamus (hunger and mood hormones), thyroid (regulates body weight), parathyroids (calcium absorption), pancreas (insulin), adrenals (stress responses), ovaries (oestrogen and progesterone) and testicles (testosterone) (placement filed as NEW LESSON NEEDED — the-endocrine-system-glands-and-hormones; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 16 |
+| endocrine diseases: diabetes (excess blood glucose), adrenal insufficiency (low cortisol and aldosterone), gigantism (too much growth hormone; too little and a child stops growing), hyperthyroidism (excess sweating, weight loss, racing heart) and polycystic ovary syndrome (placement filed as NEW LESSON NEEDED — the-endocrine-system-glands-and-hormones; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Honduras — HN CN5) | Honduras, *HN CN5*, printed p. 17 |
+
+**Acceptance count: taught in 5 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/hormones-and-the-endocrine-system

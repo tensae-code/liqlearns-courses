@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Vietnam, Malaysia, South Sudan, Iraq, El Salvador, Nepal
+countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Vietnam, Malaysia, South Sudan, Iraq, El Salvador, Nepal, Honduras
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -316,3 +316,26 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, keeping-he
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, keeping-healthy/healthy-food-and-spoiled-food
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN2):** Records: books.json grade-02/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN2-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-02-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 273,910,890 bytes. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Segundo grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Segundo grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018" (InDesign file 2G-LIBRO TEXTO modif.indd, Feb–Mar 2018). No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annexes and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Consumers must read the printed labels on products to avoid poisoning and illness (Honduras — HN CN2) | Honduras, *HN CN2*, printed p. 107 |
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 25: how food loses freshness — from harvest, contact with air starts progressive decomposition: meat rots, fresh fruit ferments, bread turns dark green with mould; the biotic factors are micro-organisms and the food's own enzymes (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 115 |
+| The WHO's five keys to food safety, as the book lists them: keep clean (wash hands before and during preparation), separate raw from cooked foods, cook thoroughly, keep foods at safe temperatures, and use clean chlorinated water (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 115 |
+| Lesson 26: how long foods last — perishables (milk, meats, eggs, vegetables; meat 2–3 days refrigerated, 1–2 months frozen; refrigerated eggs 3–5 weeks), semi-perishables (canned foods, sterilised with preservatives, lasting at least two years) and non-perishables (flour, pasta, basic grains, sugar, kept by dehydration and drying) (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 119 |
+| Rules for canned food: eat it only occasionally, check the label and expiry date, use it quickly once opened, move it to a glass container and refrigerate, and never eat from a dented can — and stocking non-perishables for Honduras's hurricane and flood emergencies (Honduras — HN CN3) | Honduras, *HN CN3*, printed pp. 120–121 |
+
+**Acceptance count: taught in 16 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, keeping-healthy/healthy-food-and-spoiled-food

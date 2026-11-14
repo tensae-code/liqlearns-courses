@@ -1,6 +1,6 @@
 # Sources — The kidneys
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Iran, Kazakhstan
+countries: Ethiopia, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Iran, Kazakhstan, Honduras
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -531,3 +531,26 @@ Searchable tags: iran, iran science, ministry of education iran, the-human-body 
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, the-human-body the-kidneys
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| excretion removes sweat, carbon dioxide, urine and faeces through four organs — skin, lungs, kidneys and intestine — detoxifying the body and regulating its water (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 46 |
+| the urinary system: kidneys → ureters → bladder → urethra; the nephron is the kidney's structural and functional unit, where urine (urea, water, mineral salts, bile pigments) is produced (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 47 |
+
+**Book (Honduras — CN4 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Cuarto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 165 Note: This is the teacher guide to the Grade 4 student book filed above (HN CN4). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. The guide interleaves reproductions of student pages with guide pages and carries two folio series, so citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + 2 annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the kidneys filter the blood and produce urine, varying its quantity and composition to keep the blood in balance; they regulate the body's water volume, the acidity of its fluids and blood pressure, and renal nerves regulate the kidneys' own blood flow (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 39 |
+| the nephron is the structural and functional unit of the kidney: it extracts impurities from the blood to form urine (urea, water and mineral salts) (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 40 |
+| excretion is wider than urine: sweat regulates temperature and expels toxins, the lungs remove carbon dioxide, and the liver discharges bile that leaves with the faeces (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 39 |
+
+**Acceptance count: taught in 29 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, the-human-body/the-kidneys

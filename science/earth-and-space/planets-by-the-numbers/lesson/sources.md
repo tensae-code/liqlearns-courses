@@ -1,6 +1,6 @@
 # Sources — Planets by the numbers — the data-table investigation
 
-countries: Ethiopia, Pakistan (Punjab), Malaysia, El Salvador, Colombia, Nepal, Kazakhstan
+countries: Ethiopia, Pakistan (Punjab), Malaysia, El Salvador, Colombia, Nepal, Kazakhstan, Honduras
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -113,3 +113,36 @@ Searchable tags: nepal, curriculum development centre, earth-and-space/planets-b
 Kazakhstan's own way — its *Natural Science* (Естествознание / Жаратылыстану) and *Knowledge of the World* (Познание мира / Дүниетану) books, in Kazakh and Russian (one Grade 2 Knowledge of the World book in Uyghur), teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Kazakhstan's own examples where the rows name them (the snow leopard and the saiga, Baikonur, the Singing Sand, the Botai horse, the four kinds of livestock) — is itself course content, carried exactly as filed.
 
 Searchable tags: kazakhstan, kazakhstan science, estestvoznanie, zharatylystanu, poznanie mira, earth-and-space planets-by-the-numbers
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN4):** Record: Honduras Grade 4 student book, books.json (Ciencias Naturales series, Secretaría de Educación); read from the secured release asset `grade-04-gov-honduras-natural-sciences-student-full-year.pdf` (full-quality-oversized-books release), size-matched to the record when grabbed. Title as printed: Ciencias Naturales — Cuarto grado de Educación Básica. Student book. Publisher/year: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 217). No ISBN printed. PDF pages: 221. Printed page = PDF page − 2 (Lesson 1 starts printed p. 10 = PDF p. 12). Verdict: COMPLETE — all 38 lessons in 4 blocks (El ser humano y la salud; La Tierra y el Universo; Materia, energía y tecnología; Los seres vivos en su ambiente), plus glossary pages ("Nuevas palabras") and 4 annexes. Mascot: Keijal the ocelot (Leopardus pardalis), an endangered Honduran wild cat who introduces the book. Note: from Grade 4 each lesson runs five pages (Exploramos / Aprendemos / Demostramos / Valoramos over 5 pp.). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rotation periods compared: Venus's day is the longest (−243 Earth days, negative because it spins backwards) and Jupiter's the shortest (9.84 hours); orbital periods grow with distance — Mercury 87 days, Earth 365, Neptune 164 years (Honduras — HN CN4) | Honduras, *HN CN4*, printed p. 65 |
+
+**Book (Honduras — HN CN7):** Title: Libro para Estudiantes, Ciencias Naturales, Séptimo grado, III Ciclo (record LE-CCNN7-2017; the printed colophon is dated 2018) Publisher: Secretaría de Educación, Honduras, C.A., 2018 (colophon, printed p. 249); no ISBN printed PDF pages: 253; printed page = PDF page − 2 Verdict: COMPLETE — 38 lessons of 6 pages each in 4 blocks (Block 1 The human being and health, lessons 1–9; Block 2 The Earth and the universe, lessons 10–19; Block 3 Matter and energy, lessons 20–29; Block 4 Living things in their environment, lessons 30–38), plus annexes and glossary It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| each planet gets a data card (mass, density, equatorial radius, mean distance in astronomical units, mean temperature); Mercury (0.39 AU, 400 °C) looks much like the Moon with its many craters and is very hard to see from Earth (Honduras — HN CN7) | Honduras, *HN CN7*, printed p. 101 |
+
+**Book (Honduras — CN4 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Cuarto grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 165 Note: This is the teacher guide to the Grade 4 student book filed above (HN CN4). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. The guide interleaves reproductions of student pages with guide pages and carries two folio series, so citations give the guide PDF page (guide PDF p. N). Verdict: COMPLETE (38 lessons + 2 annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| your age on another planet, worked: on Mercury (365/87) × 9 years = 37.75, nearly 38; on Mars (365/686) × 10 = 5.32, five years and three months; Neptune takes longest at 164 Earth years per orbit (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 50 |
+| the planets' names mostly come from Roman gods — Mars god of war, Jupiter god of light, Venus — and a planet's day is measured by the time it takes to spin on itself; Venus is the most visible planet, at dawn and dusk (guide evidence) (Honduras — CN4 Guide) | Honduras, *CN4 Guide*, guide PDF p. 50 |
+
+**Book (Honduras — CN7 Guide):** Title as printed: Guía para Docentes — Ciencias Naturales, Séptimo grado de Educación Básica Publisher: Secretaría de Educación, Honduras, C. A. — 2018 (colophon, guide PDF p. 163) PDF pages: 163 (text layer yields 165 chunks, the last two blank) Note: This is the teacher guide to the Grade 7 student book filed above (HN CN7). Only the guide's own added content is placed here: printed theory expansions, answer keys and annexes, all marked guide evidence; the student book's content is not re-placed. Citations give the guide PDF page (guide PDF p. N). As in the student filing, the purely split-subject lesson blocks (Physics/Chemistry Lessons 25–29 and Biology Lessons 31–38) are chapter-lined, not item-placed. Verdict: COMPLETE (38 lessons + annexes) Every placement from this book is guide evidence — the guide's own added content as filed (theory expansions, printed answer keys and annexes the student book does not carry) — cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mercury travels at 48 km per second, so its year lasts only 88 days; Venus lies at 72% of the Earth–Sun distance, its minimum distance from Earth is 42 million km, and it is the brightest object in the sky after the Sun and the Moon; Jupiter has more mass than the other planets combined, a diameter some ten times the Earth's, and could contain 1,300 Earths; Mars resembles Earth in mountains, deserts, polar caps, canyons and four well-marked seasons (guide evidence) (Honduras — CN7 Guide) | Honduras, *CN7 Guide*, guide PDF p. 70 |
+
+**Acceptance count: taught in 8 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, earth-and-space/planets-by-the-numbers

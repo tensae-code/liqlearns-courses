@@ -1,6 +1,6 @@
 # Sources — Our Community — Places That Help Us
 
-countries: Ethiopia, Uganda, Moldova, Angola, Nepal
+countries: Ethiopia, Uganda, Moldova, Angola, Nepal, Honduras
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -121,3 +121,17 @@ Searchable tags: angola, estudo do meio 4, grade 4
 Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nepal, curriculum development centre, family-school-and-community/places-that-help-us
+
+## Honduras growth (2026-11-14, General Science expansion)
+
+**Book (Honduras — HN CN3):** Records: books.json grade-03/gov/honduras/natural-sciences/student/full-year.pdf (in_pushed=true; source educatrachos.hn LE-CCNN3-2017.pdf). The books.json file path is a logical path only (not in the repo tree); the secured copy was fetched from the release `full-quality-oversized-books` asset grade-03-gov-honduras-natural-sciences-student-full-year.pdf and verified at exactly 128,069,320 bytes, 180 PDF pages. No TSV record for this book. Title as printed (running head): Ciencias Naturales — Tercer grado. Publisher: Secretaría de Educación, Honduras — colophon (printed p. 177): "Tercer grado de Educación Básica. Elaborado y publicado por la Secretaría de Educación, Honduras, C.A. — 2018". No ISBN printed. PDF pages: 180. Printed page = PDF page − 2 throughout. Verdict: COMPLETE (presentation states 38 lessons; contents printed pp. 6–7 list all 38 lessons in 4 blocks, each block closing with "Nuevas palabras" glossaries, plus annex and colophon). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/honduras-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 9: health care in Honduras — 28 hospitals (6 of national reference), the CESAMO (health centre with doctor and dentist) and CESAR (rural health centre) give outpatient care, the CMI mother-and-child clinics attend women and children, and the CLIPER peripheral emergency clinics give emergency services; World Health Day is 7 April (Honduras — HN CN3) | Honduras, *HN CN3*, printed p. 43 |
+
+**Acceptance count: taught in 6 countries — Honduras added.**
+
+Honduras's own way — its *Ciencias Naturales* books (Secretaría de Educación, Honduras), in Spanish, teach this thing at the places and in the order named in the rows above, inside the books' own lesson order, with Honduras's own examples where the rows name them (Keijal the ocelot who introduces the Grade 4–6 books, the Río Plátano Biosphere Reserve, Honduran rivers, clay-working zones and mining zones) — is itself course content, carried exactly as filed.
+
+Searchable tags: honduras, honduras science, ciencias naturales, secretaria de educacion honduras, family-school-and-community/places-that-help-us
