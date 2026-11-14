@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -50,3 +50,15 @@ Searchable tags: canada, canada science first peoples, fnesc, fnsa, first people
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 12 Forces: machines at work — simple machines (printed p. 131); compound machines; care and use of machines (printed p. 144) (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 130 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

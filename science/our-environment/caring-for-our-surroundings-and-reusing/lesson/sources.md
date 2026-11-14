@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -145,3 +145,17 @@ Placement choice, on the record: the Ghana placement was filed for `our-environm
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 14 Refuse Disposal (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 155 |
+
+Placement choice, on the record: the Guyana placement was filed for `our-environment/recycling-reusing-and-reducing-waste`, which does not exist in the course; it is stocked into this lesson, which teaches caring for surroundings and disposing of waste properly, with the original slug recorded here (the same choice as the Ghana placement for the same filed slug).
+
+**Acceptance count: taught in 5 countries (Nauru, Tuvalu, Niue, Serbia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

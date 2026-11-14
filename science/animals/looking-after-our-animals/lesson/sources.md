@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -72,3 +72,15 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, food chain
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| caring for our animals (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 18 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Suriname, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

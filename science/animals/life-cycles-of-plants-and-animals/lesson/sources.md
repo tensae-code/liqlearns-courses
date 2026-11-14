@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -60,3 +60,17 @@ Placement choice, on the record: the Ghana placements were filed for `animals/ho
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| insect life cycles and metamorphosis; the life cycle of a toad (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 26 |
+
+Placement choice, on the record: the Guyana placement was filed for `animals/how-animals-reproduce-and-grow`, which does not exist in the course; it is stocked into this lesson, which covers life cycles of plants and animals, with the original slug recorded here (the same choice as the Ghana placements for the same filed slug).
+
+**Acceptance count: taught in 2 countries (Sweden, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands
+countries: Ethiopia, Cook Islands, Guyana
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -20,3 +20,15 @@ countries: Ethiopia, Cook Islands
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–54 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: what animals need, animals help us, transport animals, milk products, ploughing, cook islands, cook islands grade 8, ko au e toku aorangi
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals affect humans: food and protection, and the animals that damage crops (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 33 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cook Islands, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

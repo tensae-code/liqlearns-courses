@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -89,3 +89,15 @@ Searchable tags: niue, usp reader 4, tuvalu water, atolls, droughts, precious wa
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| using water wisely: only a small amount of the Earth's water is usable (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 34 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

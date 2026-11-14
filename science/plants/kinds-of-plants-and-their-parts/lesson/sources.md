@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -102,3 +102,16 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, parts of a plant, se
 Sweden's own way — plants are met as full-page portraits, each shown in the place it grows (forest, garden, meadow, roadside), sorted by the season and the place — trees, then spring flowers, then summer flowers, then garden flowers — and handled again as cut-outs to place in the garden-and-forest scene — is itself course content, carried exactly as filed. Honesty: *Växter omkring oss A — kopieringsunderlag* is PARTIAL (only the A book's copy pages are held) and its records carry the wrong PDF/X title, carried as filed above; the A book's portraits are in the combined A+B set.
 
 Searchable tags: sweden, spsm, vaxter omkring oss, trees, oak, spruce, pine, birch, spring flowers, summer flowers, garden flowers, klippark, lararhandledning
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 3 Plants We Know: plants are everywhere — on land, in water, on other things (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 20 |
+| plant parts: leaf, stem, root, flower, fruit (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 26 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Sweden, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -40,3 +40,15 @@ Searchable tags: photosynthesis, chloroplast, chlorophyll, respiration, gas exch
 Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, sunlight, food plants make, drita e diellit, ushqimi i prodhuar nga bimet
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 13 How Plants Make Food: how plants get oxygen; how water is given off by plants (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 150 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

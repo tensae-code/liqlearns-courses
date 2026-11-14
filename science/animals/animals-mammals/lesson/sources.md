@@ -1,6 +1,6 @@
 # Sources — Animals — mammals
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue
+countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -88,3 +88,15 @@ Searchable tags: tuvalu, usp reader 2, ocean mammals, whales, dolphins
 Niue’s own way — ocean mammals taught from the whales and dolphins of Niue's own Pacific waters, in the adopted USP reader — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp reader 2, ocean mammals, whales, dolphins
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 2 Animals Around Us: animals with backbones — the five vertebrate groups (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 19 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

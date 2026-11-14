@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -78,3 +78,15 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, faces of the moon, f
 Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, moon phases, waxing waning, hena
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 9 Our Nearest Neighbour in Space: a closer look at our Moon; light on the Moon; the Moon and the tides (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 102 |
+
+**Acceptance count: taught in 5 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

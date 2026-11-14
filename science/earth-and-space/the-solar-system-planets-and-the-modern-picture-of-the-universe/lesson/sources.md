@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only)
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -42,3 +42,15 @@ Searchable tags: solar system, planets, modern picture of the universe, galaxies
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 8 Earth and Space: looking carefully at the day sky and the night sky (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 54 |
+
+**Acceptance count: taught in 3 countries (Uzbekistan, Haiti, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only)
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -105,3 +105,17 @@ Searchable tags: niue, usp reader 4, niue reptiles and birds, skink, grouping an
 **Acceptance count unchanged: taught in 5 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, classifying animals, klasifikimi i kafsheve
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 2 Looking at Animals: common animals in the environment; where animals live (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 11 |
+
+Placement choice, on the record: the Guyana placement was filed for `animals/animals-around-us-kinds-names-and-homes`, which does not exist in the course; it is stocked into this lesson, which groups animals by keys including movement and home, with the original slug recorded here.
+
+**Acceptance count: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

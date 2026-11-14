@@ -1,6 +1,6 @@
 # Sources — Seed dispersal — how seeds travel
 
-countries: Albania (teacher-guide evidence only)
+countries: Albania (teacher-guide evidence only), Guyana
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -18,3 +18,17 @@ Placement choice, on the record: this NEW LESSON was built for the Albania place
 Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
 
 Searchable tags: seed dispersal, forma e farave, shperndarja e farave, paper flyer seed models, wind dispersal, albania, dituri natyre, mediaprint, teacher guide
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| ways by which seeds are scattered: bursting fruits, wind (silk cotton), water and animals (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 53 |
+
+Placement choice, on the record: the Guyana placement was filed as NEW LESSON NEEDED — seed-dispersal; checked live first, this existing lesson already covers seed dispersal as its own thing, so the placement is stocked here and no new lesson was built, with the original filed slug recorded here.
+
+**Acceptance count: taught in 1 country (Guyana).** — Guyana's pupil book is this lesson's first counted country; the earlier rows remain teacher-guide evidence only, counted nowhere.
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

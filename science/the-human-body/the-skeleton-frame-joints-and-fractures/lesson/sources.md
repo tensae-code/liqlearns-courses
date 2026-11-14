@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia
+countries: Ethiopia, Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -18,3 +18,15 @@ countries: Ethiopia
 **Pairing warning (carried exactly as recorded in the placements):** the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Searchable tags: skeleton, axial skeleton, appendicular skeleton, joints, ligaments, cartilage, fracture, open fracture, closed fracture, bone setters, osteoporosis, rickets, 300 bones, 206 bones, Grade 8
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 1 Major Organ Systems: the skeletal system — 206 bones (printed p. 2); the muscular system (printed p. 2) (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 2 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

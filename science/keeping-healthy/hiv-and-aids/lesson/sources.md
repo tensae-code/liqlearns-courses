@@ -1,6 +1,6 @@
 # Sources — HIV and AIDS: how it spreads and how it does not
 
-countries: Ethiopia
+countries: Ethiopia, Guyana
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -36,3 +36,15 @@ Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp
 Grade 5/6 extension (2026-11-12): both student books are COMPLETE. The opener scenario is placed as a plot summary only. HIV prevention is taught exactly as the Grade 5 book prints it (abstinence named the reliable protection), as in the Grade 4 extension before it.
 
 Searchable tags: HIV, AIDS, virus, how HIV spreads, how HIV does not spread, compassion, HIV letters, AIDS letters, transmission, prevention, sterile instruments
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sexually transmitted diseases: how STDs and HIV spread and how they do not (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 11 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

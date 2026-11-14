@@ -1,6 +1,6 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -81,3 +81,15 @@ Searchable tags: tuvalu, usp reader 4, uga, coconut crab, exoskeleton, largest l
 Niue’s own way — invertebrates taught through Niue's own uga coconut crab, in Niue's adopted reader — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp reader 4, uga, coconut crab, exoskeleton, largest land arthropod
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals without backbones: insects (printed p. 24), arachnids (p. 27), crustaceans (p. 28), myriapods (p. 29), molluscs (p. 30), worms (p. 31), and a key to arthropods (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 24 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

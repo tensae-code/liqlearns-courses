@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -20,3 +20,15 @@ Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary Schoo
 The Grade 6 student book is COMPLETE (printed pp. 1–177). The book's worked exercise dates ovulation and the next period from a period starting Tikimt 10, 2015 E.C.; the exercise shape is carried, its dating is the learner's own work, and no answer is printed here.
 
 Searchable tags: reproductive system, testes ቆለጥ, sperm ነባዘር, ovaries እንቁልጢ, ovulation ውፃት, fertilisation ፅንሰት, uterus ማህፀን, menstruation የወር አበባ, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the reproductive system: male and female parts; the fertilised egg implants in the uterus (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 8 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

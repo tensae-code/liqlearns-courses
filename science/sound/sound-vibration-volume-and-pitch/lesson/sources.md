@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -96,3 +96,15 @@ Searchable tags: sound, vibration, volume, loudness, pitch, kirar, begena, rubbe
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 16 Sound (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 166 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

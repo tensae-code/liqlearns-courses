@@ -1,6 +1,6 @@
 # Sources — Adolescence and its changes
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only)
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -24,3 +24,15 @@ The Grade 6 student book is COMPLETE (printed pp. 1–177). The teacher-guide ro
 The Grade 6 teacher guide scan is TRUNCATED: printed pp. 1–63 (Units 1–3) are held; Units 4–5 (printed pp. 64–end, to at least p. 105) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: adolescence ወጣትነት, puberty, primary secondary characteristics, growth spurt, voice deepening, jamaica, jamaica nsc integrated science
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| puberty changes in females and males (inside Ch. 1) (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 11 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

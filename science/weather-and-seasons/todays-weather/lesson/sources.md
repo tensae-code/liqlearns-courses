@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -62,3 +62,18 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — the year closes with wind direction, recording temperature, weather patterns and clouds, taught in Bislama in the guide's Term 3 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, wind direction, weather patterns, clouds
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 4 Weather: types of weather; weather tells us the conditions of the air where we live (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 29 |
+| Ch. 7 Weather (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 84 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Finland, Italy, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1, grade 6

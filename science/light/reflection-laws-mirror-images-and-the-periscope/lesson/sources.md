@@ -1,6 +1,6 @@
 # Sources — Reflection — laws, mirror images and the periscope
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only)
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -88,3 +88,15 @@ Searchable tags: reflection, specular, diffuse, angle of incidence, normal, virt
 Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, reflection, shiny and dull objects
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 15 (light): how we see (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 168 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Fiji, United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

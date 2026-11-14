@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -106,3 +106,17 @@ Searchable tags: niue, usp reader 4, tongan plants, endemic flowering species, a
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants are useful: food, protection, decoration (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 27 |
+
+Placement choice, on the record: the Guyana placement was filed for `plants/gifts-from-plants-food-medicine-shelter-and-more`, which does not exist in the course; it is stocked into this lesson, which teaches what plants give us, with the original slug recorded here.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

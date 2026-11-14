@@ -1,6 +1,6 @@
 # Sources — The lungs and breathing
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -42,3 +42,15 @@ Grade 8 extension (2026-11-12): the Grade 8 student book is COMPLETE and the Gra
 **Pairing warning (carried exactly as recorded in the placements):** the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Searchable tags: lungs, breathing, oxygen, carbon dioxide, spongy pair, the lungs and breathing, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the respiratory system: nose, trachea and lungs (printed p. 5); the circulatory system and capillaries (printed p. 6) (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 5 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

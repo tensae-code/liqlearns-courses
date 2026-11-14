@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia
+countries: Ethiopia, Guyana
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -34,3 +34,15 @@ Grade 5 extension (2026-11-12): the Grade 5 student book is COMPLETE (printed pp
 Grade 8 extension (2026-11-12): the Grade 8 student book is COMPLETE. This extension rests on the student book only; no Grade 8 teacher-guide material is used in this lesson, so no pairing warning is needed here.
 
 Searchable tags: digestive system, mouth pharynx oesophagus stomach small intestine large intestine rectum anus, digestion, the digestive system
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the digestive system (printed p. 4); the excretory system — the kidneys (printed p. 5) (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 4 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6

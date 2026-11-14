@@ -1,6 +1,6 @@
 # Sources — Living and non-living things
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -49,3 +49,15 @@ Searchable tags: zambia, zambia teacher module, curriculum development centre za
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life processes: living things eat, grow, move, breathe and reproduce; non-living things cannot (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 41 |
+
+**Acceptance count: taught in 1 country (Guyana).** — Guyana's pupil book is this lesson's first counted country; the earlier rows remain teacher-guide evidence only, counted nowhere.
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

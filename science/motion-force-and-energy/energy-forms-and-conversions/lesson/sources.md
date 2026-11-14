@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -170,3 +170,18 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, power of wind, human
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 9 Energy: things we can do; foods we eat to get energy (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 55 |
+| Ch. 10 Energy Around Us: what is energy? (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 115 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab, Guyana).**
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1, grade 6

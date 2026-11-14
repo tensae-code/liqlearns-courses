@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -57,3 +57,15 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 1 (Guyana):** *Science Around Us, Book 1* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 1 (pupils' book; series of six, Primary Education Improvement Project, Inter-American Development Bank funded). Publisher: Ministry of Education, Guyana. Grade 1, student book. Record: grade-01/gov/guyana/science/student/full-year.pdf, 4,398,906 bytes, PDF 73 pages (66 printed pages). Verdict: COMPLETE (10 chapters + term reviews). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 7 Materials: things around us are made of materials found in our environment (Guyana, Grade 1) | Guyana, *Science Around Us, Book 1*, printed p. 44 |
+
+**Acceptance count: taught in 1 country (Guyana).** — Guyana's pupil book is this lesson's first counted country; the earlier rows remain teacher-guide evidence only, counted nowhere.
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 1

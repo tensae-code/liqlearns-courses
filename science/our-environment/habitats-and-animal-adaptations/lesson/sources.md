@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only)
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -27,3 +27,18 @@ Searchable tags: habitat, habitats, where a living thing lives, surroundings a s
 **Acceptance count unchanged: taught in 0 countries — this lesson stands on teacher-guide evidence only (Guatemala), named here, counted nowhere.**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, habitats, living environment, mjedisi jetesor
+
+## Guyana growth (2026-11-13, General Science expansion)
+
+**Book 6 (Guyana):** *Science Around Us, Book 6* (student book) — Guyana, Ministry of Education, Guyana. Title as printed: SCIENCE AROUND US, Book 6 (pupils' book; Primary Education Improvement Project). Publisher: Ministry of Education, Guyana. Grade 6, student book. Record: grade-06/gov/guyana/science/student/full-year.pdf, 5,870,912 bytes, PDF 193 pages. Verdict: COMPLETE (17 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guyana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 5 Environment — Adaptations: coverings (printed p. 59), feet (p. 63), wings (p. 65), beaks (p. 66), mouthparts of insects (p. 67), tongues (p. 68), teeth (p. 69) (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 59 |
+| adaptation in plants (Guyana, Grade 6) | Guyana, *Science Around Us, Book 6*, printed p. 71 |
+
+Placement choice, on the record: the Guyana placements were filed as NEW LESSON NEEDED — habitats-and-animal-adaptations; checked live first, this existing lesson already carries that exact slug and covers habitats and adaptations, so the placements are stocked here and no new lesson was built.
+
+**Acceptance count: taught in 1 country (Guyana).** — Guyana's pupil book is this lesson's first counted country; the earlier rows remain teacher-guide evidence only, counted nowhere.
+
+Searchable tags: guyana, science around us, ministry of education guyana, grade 6
