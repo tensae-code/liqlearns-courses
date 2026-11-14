@@ -1,6 +1,6 @@
 # Sources — What makes an algorithm good — six characteristics
 
-countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan
+countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldo
 
 **Book 16:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
+**Book 17:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six characteristics | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 207–209 |
@@ -52,8 +54,9 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldo
 | Bab 2 A. Mengenal algoritma dan pemrograman | Indonesia Grade 10 G10 Informatika student, printed p. 29 |
 | Bab 1 A (ciri algoritma yang baik) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 6 |
 | 3.1.2 Characteristics of an Algorithm | South Sudan Grade 11 S3 Student, printed p. 68 |
+| Unit 3, Characteristics of an Algorithm | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 45 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan).**
+**Acceptance count: taught in 14 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan, Pakistan).**
 
 Book error taught corrected: the student book prints “fineness” for this characteristic (printed p. 210, in the worked-algorithms summary of the same list) — the word meant is **finiteness**, and the lesson teaches finiteness. The unit's outcomes header also spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint); the lessons use the correct spelling, Fundamentals of Programming.
 
@@ -86,4 +89,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 tu
 
 South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
 
-Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 8 informatica, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 10, indonesia, grade 10, grade 10, south sudan, grade 11 s3 student
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 8 informatica, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 10, indonesia, grade 10, grade 10, south sudan, grade 11 s3 student, pakistan, grade 7 computer science 7

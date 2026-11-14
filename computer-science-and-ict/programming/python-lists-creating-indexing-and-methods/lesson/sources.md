@@ -1,6 +1,6 @@
 # Sources — Python Lists — Creating, Indexing and Methods
 
-countries: Kuwait, Jordan, Vietnam
+countries: Kuwait, Jordan, Vietnam, Pakistan
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
@@ -12,6 +12,8 @@ countries: Kuwait, Jordan, Vietnam
 
 **Book 5:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 6:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Digital Processing: Lists (القوائم) | Kuwait Grade 10 Term 2 Book L1, printed p. 17 |
@@ -21,8 +23,9 @@ countries: Kuwait, Jordan, Vietnam
 | Lesson plan 5: Lists (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches Python lists — creating them, accessing elements by index, traversing, operations and the built-in list methods and functions, including nested lists — the lists Jordan's Grade 11 and Grade 12 books teach) (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 78 (teacher guide — evidence) |
 | Bài 22 Kiểu dữ liệu danh sách (The list data type) (filed as NEW LESSON NEEDED — programming/python-lists; stocked in this lesson because this lesson teaches the Python list data type — creating a list, indexing it and its methods) | Vietnam Grade 10 Tin học 10, printed p. 111 |
 | Bài 23 Một số lệnh làm việc với dữ liệu danh sách (Commands for working with list data) (filed as NEW LESSON NEEDED — programming/working-with-python-lists; stocked in this lesson because this lesson teaches working with Python lists — the methods and commands that change, add and remove items) | Vietnam Grade 10 Tin học 10, printed p. 115 |
+| Unit 2 §2.6 Built-in Data Structures: §2.6.1 Lists (§2.6.1.1 creating, §2.6.1.2 accessing, §2.6.1.3 modifying, §2.6.1.4 methods — append/remove/sort/reverse, §2.6.1.5 operations — slicing and concatenation; favourite-books class activity) (filed as NEW LESSON NEEDED — programming/python-lists-creating-accessing-modifying-methods; stocked in this lesson because this lesson teaches Python lists — creating a list, indexing into it and the methods that modify it) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 31 |
 
-**Acceptance count: taught in 3 countries (Kuwait, Jordan, Vietnam).**
+**Acceptance count: taught in 4 countries (Kuwait, Jordan, Vietnam, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-lists-creating-indexing-and-methods). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -36,4 +39,6 @@ Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: python, lists, indexing, methods, append, data structures, programming, kuwait, grade 10 information technology term 2, jordan, grade 12 term 1 digital skills, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: python, lists, indexing, methods, append, data structures, programming, kuwait, grade 10 information technology term 2, jordan, grade 12 term 1 digital skills, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, vietnam, grade 10 tin học 10, pakistan, grade 11 computer science and entrepreneurship 11

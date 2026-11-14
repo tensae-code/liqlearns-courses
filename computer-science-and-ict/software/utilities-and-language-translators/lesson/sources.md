@@ -1,6 +1,6 @@
 # Sources — Utilities and language translators
 
-countries: Ethiopia, Tanzania, Fiji, Bhutan, Mongolia, Armenia
+countries: Ethiopia, Tanzania, Fiji, Bhutan, Mongolia, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Tanzania, Fiji, Bhutan, Mongolia, Armenia
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Utility programs — analyse, configure, improve, maintain; backup, recovery, virus protection | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.32 |
@@ -42,8 +44,10 @@ countries: Ethiopia, Tanzania, Fiji, Bhutan, Mongolia, Armenia
 | 1.5 Language Translators | Bhutan, *Literacy with ICT, Class VII*, printed p. 18 |
 | 1.2.2 Utility programs (disk check, undelete, backup, antivirus, compression, drivers, defragmenting and Disk CleanUp) | Mongolia Grade 11 IT XI, printed p. 47 |
 | Lesson 12 Translators (Theme 11 Types of translators) | Armenia Grade 10 G10 student, printed p. 68 |
+| Unit 3 §3.4 Utility Programs | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 31 |
+| Unit 3 §3.5 Language Translator (assembler, compiler, interpreter) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 31 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Fiji, Bhutan, Mongolia, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Fiji, Bhutan, Mongolia, Armenia, Pakistan).**
 
 Book error taught corrected: in the student book's §3.2 (printed p. 42) all three named utility families are lettered "A." instead of A/B/C. The lesson teaches the families by their names, in the book's order, without the book's letters — the families themselves are exactly as the book lists them. Sub lesson 4's explanations are teacher-guide evidence: the student book lists the utilities by name, and the guide's keyed answer to Activity 3.1 explains each one; the explanations are filed here as the guide gives them.
 
@@ -59,4 +63,6 @@ Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU regis
 
 Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
 
-Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9, fiji, year 11, year 13, bhutan, class vii, mongolia, grade 11 it xi, armenia, grade 10
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9, fiji, year 11, year 13, bhutan, class vii, mongolia, grade 11 it xi, armenia, grade 10, pakistan, grade 6 computer science 6

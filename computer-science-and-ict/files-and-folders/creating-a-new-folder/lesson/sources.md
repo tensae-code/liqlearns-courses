@@ -1,6 +1,6 @@
 # Sources — Creating a new folder
 
-countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam
+countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam
 
 **Book 11:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating a new folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 11 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam
 | Ch.2 Create and edit a folder; file/folder characteristics | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 17 |
 | Ch.2 File management: creating/deleting/renaming/moving files and folders, back up; folder-tree practical (filed as files-and-folders/creating-and-organising-folders; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 38 |
 | Bài 9 Thực hành với tệp và thư mục trong máy tính (Practical: open This PC, create, rename and delete folders, find a file in a given folder) | Vietnam Grade 3 Tin học 3, printed p. 42 |
+| Unit 3 §3.7.5 Creating new folder | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 37 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam).**
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Vietnam, Pakistan).**
 
 No book error touches this lesson's content. The guide's keyed Test1/Test2 run (printed pp. 5–7) is the verified model for this unit's doing-lessons; its own slips in that key — "yoxxur desktop" (p. 5) and "testfile1.text" for testfile1.txt (p. 7) — are misprints, taught as nothing. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -58,4 +61,6 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
 
-Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 12 science for technology tamil, vietnam, grade 3 tin học 3
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: create new folder, Home menu, New folder button, Test1 Test2, files and folders, grade 9, information technology, ict, ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 12 science for technology tamil, vietnam, grade 3 tin học 3, pakistan, grade 6 computer science 6

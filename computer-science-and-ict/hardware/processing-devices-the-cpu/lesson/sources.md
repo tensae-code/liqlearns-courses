@@ -1,6 +1,6 @@
 # Sources — Processing devices — the CPU, the brain of the computer
 
-countries: Ethiopia, Tanzania, Iraq, Bhutan, Mongolia, Sri Lanka
+countries: Ethiopia, Tanzania, Iraq, Bhutan, Mongolia, Sri Lanka, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Tanzania, Iraq, Bhutan, Mongolia, Sri Lanka
 
 **Book 6:** *Information and Communication Technology — Reading Book, Grade 9* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0172-2. 111 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 7:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.2, printed p. 27 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Tanzania, Iraq, Bhutan, Mongolia, Sri Lanka
 | 1.3 System Unit and CPU as the brain | Bhutan, *Literacy with ICT, Class IV*, printed p. 5 |
 | 2.1.3 The current state of computing systems (Intel Core generations Nehalem to Coffee Lake; cores, Turbo Boost, Hyper-Threading; cache memory L1/L2/L3; inspecting your own processor with CPU-Z) | Mongolia Grade 12 IT XII, printed p. 51 |
 | Ch.1 Specifications: the processor | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 10 |
+| Unit 1 §1.4.1 System Unit | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 3 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Iraq, Bhutan, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Iraq, Bhutan, Mongolia, Sri Lanka, Pakistan).**
 
 The student book numbers the CPU's figure 'Figure 2.10' — the same number it already gave the joystick's figure on printed p. 26. The number is used twice in the book; the lessons teach the devices, not the duplicated figure number. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -35,4 +38,6 @@ Mongolia's own way (Grade 12): the final book measures everything against Mongol
 
 Sri Lanka's own way (Grade 9 Reading Book): it opens with preparing a computer specification for a real buyer (user needs, peripherals, processor/HDD/monitor/VGA specs, after-sales service); microcontrollers are taught with BBC micro:bit and Arduino and local sensor examples (solar lamp, washing machine, microwave).
 
-Searchable tags: processing devices, CPU, processor, brain of the computer, hertz, cycles per second, Ethiopia Grade 8, tanzania, iraq, grade 7, bhutan, class iv, mongolia, grade 12 it xii, sri lanka, grade 9 reading book
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: processing devices, CPU, processor, brain of the computer, hertz, cycles per second, Ethiopia Grade 8, tanzania, iraq, grade 7, bhutan, class iv, mongolia, grade 12 it xii, sri lanka, grade 9 reading book, pakistan, grade 6 computer science 6

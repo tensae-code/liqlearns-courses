@@ -1,6 +1,6 @@
 # Sources — The Excel Window and Ribbon
 
-countries: Iraq, Fiji
+countries: Iraq, Fiji, Pakistan
 
 **Book 1:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
@@ -8,13 +8,16 @@ countries: Iraq, Fiji
 
 **Book 3:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 4:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 2 Ch.1 Lesson 2 The main interface of Microsoft Excel | Iraq, *Computer, Grade 11*, printed p. 32 |
 | Strand 5 Unit 2, Topic Microsoft Office, Lesson 2: Introduction to Microsoft Excel (filed as spreadsheets/microsoft-excel-and-its-window; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 86 (teacher guide — evidence, PARTIAL) |
 | Unit 3.2 Identify the parts of the Excel window (filed as NEW LESSON NEEDED — spreadsheets/parts-of-the-excel-window; stocked in this lesson because Iraq's lesson teaches the parts of the Excel window and its ribbon directly) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 82 |
+| Unit 3 §3.1.5 Excel Application Window and Components of Excel Window (Office Button, Quick Access Toolbar, Title Bar, Ribbon, Formula Bar, Name Box, Document Window, Sheet Tabs) (filed as NEW LESSON NEEDED — spreadsheets/the-excel-window-office-button-ribbon-formula-bar-name-box; stocked in this lesson because this lesson teaches the Excel window and its ribbon — the formula bar and name box among its named parts) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 46 |
 
-**Acceptance count: taught in 2 countries (Iraq, Fiji).**
+**Acceptance count: taught in 3 countries (Iraq, Fiji, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — spreadsheets/the-excel-window-and-ribbon). It sits in the Spreadsheets title (spreadsheets/), following the book's own order.
 
@@ -24,4 +27,6 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: excel window, ribbon, main interface, worksheet, spreadsheets, iraq, grade 11, papua new guinea, grade 9, fiji, years 7-8
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: excel window, ribbon, main interface, worksheet, spreadsheets, iraq, grade 11, papua new guinea, grade 9, fiji, years 7-8, pakistan, grade 8 computer education 8

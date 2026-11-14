@@ -1,6 +1,6 @@
 # Sources — Creating a table and entering records in Access
 
-countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietnam, South Sudan
+countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietn
 
 **Book 13:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 14:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — create: open the database; click Table Design on the Create menu; enter the field names; set each field's data type (text, number, date/time, currency and so on — the type is itself a check, since a Text field will not accept a number); field names unique in a table; a table needs at least two fields | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 64–65 |
@@ -42,6 +44,7 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietn
 | Ch.2 §3 Creating a table (Table), data types and fields (Fields) | Laos Grade 11 ICT student, printed p. 44 |
 | 4.5 Crearea tabelelor | Moldova Grade 12 Informatică, printed p. 135 |
 | Bài 19 Thực hành tạo lập cơ sở dữ liệu và các bảng (Practical: creating the database and its tables) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 91 |
+| Chapter 6 §6.2 Table Design View, §6.2.1 Datasheet View (switching views) and §6.3 Table Creation (in Design View, by wizard, by entering data; assigning the primary key) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 61 |
 
 | Sub lesson 4 — every field gets a name and a data type; matches: residence id a four-digit number, first name text; age integer, name text, price real/currency, date of birth date, height integer or real, grade level integer, telephone number text; Access offers text, integer, real, date, currency, yes/no | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 61–62 |
 | Sub lesson 4 — the Access SQL types in detail: CHAR (≤255), TEXT (≤63,999), INTEGER/INT range, DATETIME years 100–9999, CURRENCY 8 bytes, COUNTER 4 bytes, Yes/No 1 bit | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 70–71 |
@@ -51,7 +54,7 @@ countries: Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietn
 | 1.5.3 Add a table | South Sudan Grade 12 S4 Student, printed p. 23 |
 | 1.5.4 Create or Modify a Table in Design View (filed as NEW LESSON NEEDED — databases/creating-and-modifying-a-table-in-design-view; stocked in this lesson because its first sub lesson creates the table's design — fields and data types — which is the Design View work South Sudan names) | South Sudan Grade 12 S4 Student, printed p. 24 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietnam, South Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Sudan, Fiji, Libya, Malaysia, Laos, Moldova, Vietnam, South Sudan, Pakistan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -79,4 +82,6 @@ Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 ar
 
 South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
 
-Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, laos, grade 11 ict student, moldova, grade 12 informatica, vietnam, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: Access table, Table Design, Datasheet View, data types, primary key button, field names, entering records, Ethiopia Grade 11, belarus, sudan, grade 7, fiji, years 7-8, year 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, laos, grade 11 ict student, moldova, grade 12 informatica, vietnam, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, pakistan, grade 12 computer science 12

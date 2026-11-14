@@ -1,6 +1,6 @@
 # Sources — Project: a Scratch game and an Ethiopian story
 
-countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Vietnam
+countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda,
 
 **Book 19:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 20:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 21:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The game project — models named; actors, actions, stages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 238-239 |
@@ -65,8 +69,10 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda,
 | Bài 16 Chương trình của em (My own program: project) | Vietnam Grade 4 Tin học 4, printed p. 72 |
 | Bài 16 Từ kịch bản đến chương trình (From a script/storyboard to a finished program) | Vietnam Grade 5 Tin học 5, printed p. 78 |
 | Bài 16 Thực hành: Lập chương trình máy tính (Practical: writing a computer program in Scratch) | Vietnam Grade 9 Tin học 9, printed p. 83 |
+| Unit 5 projects: a two-sprite stage; a bouncing-ball program; a multiplication game in Scratch | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 86 |
+| Unit 4 project: create a two-sprite chase game with coordinates, conditionals, loops, a moving "food" sprite and a score variable | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 78 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Vietnam, Pakistan).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -100,4 +106,8 @@ Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into t
 
 Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
 
-Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 9 tin học 9
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 9 tin học 9, pakistan, grade 6 computer science 6, grade 7 computer science 7

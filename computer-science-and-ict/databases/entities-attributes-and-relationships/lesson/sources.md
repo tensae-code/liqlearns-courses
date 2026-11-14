@@ -1,6 +1,6 @@
 # Sources — Entities, attributes and relationships
 
-countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait
+countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait
 
 **Book 11:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 12:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a data model is the blueprint of a database, showing what data to store; entities are the people, places or events data is kept about (bank: customers, accounts; library: books, loans, borrowers); an entity becomes a table when built | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 55–56 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait
 | 2.1.3 Entiti, Atribut, Set Hubungan dan Kekardinalan | Malaysia Grade 10 SK Tingkatan 4, printed p. 209 |
 | 4.2.1 Planning a database (planning a phone-book database: choosing fields, data types and the key) | Mongolia Grade 10 IT X, printed p. 118 |
 | Unit 1 Databases (SQLite in Python), Lesson 1 Relationships in Databases: what a relationship is and why it matters | Kuwait Grade 11 Information Technology T2, printed p. 17 |
+| Chapter 3 §3.2 Data Modeling (entities/objects, attributes, relationships — BOOK and BOOK STORE: orders, displays, stocks, sells, returns) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 23 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan).**
 
 Honesty: nothing in this lesson rests on teacher-guide evidence; all parts are pupil-taught from the student book. No book error touches these pages.
 
@@ -65,4 +68,6 @@ Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, la
 
 Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
 
-Searchable tags: data model, entity, attribute, relationship, instance, blueprint, Ethiopia Grade 11, sudan, grade 6, grade 7, fiji, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, kuwait, grade 11 information technology term 2
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: data model, entity, attribute, relationship, instance, blueprint, Ethiopia Grade 11, sudan, grade 6, grade 7, fiji, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, kuwait, grade 11 information technology term 2, pakistan, grade 12 computer science 12

@@ -1,6 +1,6 @@
 # Sources — From data to information
 
-countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia, Vietnam
+countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 
 **Book 19:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 20:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Processed data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 3–4 |
@@ -62,8 +64,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 | Thematic planning, Theme 12: what data is, what information is, how they can be shown | Armenia Grade 2 G2 teacher, printed p. 29 (teacher guide — evidence) |
 | Bài 1 Thông tin và quyết định (Information and decisions; three forms of information: text, sound, image) | Vietnam Grade 3 Tin học 3, printed p. 5 |
 | Bài 1 Thông tin và xử lí thông tin (Information and information processing; information vs data) | Vietnam Grade 10 Tin học 10, printed p. 6 |
+| Unit 1, data vs information (unit outcomes and summary; definitions boxed in Unit 2) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 1 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia, Vietnam).**
+**Acceptance count: taught in 16 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia, Rwanda, Kuwait, Greece, Armenia, Vietnam, Pakistan).**
 
 No book error touches this lesson's content.
 
@@ -95,4 +98,6 @@ Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with 
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata, armenia, grade 2, vietnam, grade 3 tin học 3, grade 10 tin học 10
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi, rwanda, grade 7 s1 ict student book, kuwait, grade 4 digital explorer term 2, greece, grade 11 epal basika themata, armenia, grade 2, vietnam, grade 3 tin học 3, grade 10 tin học 10, pakistan, grade 6 computer science 6

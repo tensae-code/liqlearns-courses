@@ -1,17 +1,20 @@
 # Sources — Propositions and Logical Connectives
 
-countries: Indonesia
+countries: Indonesia, Pakistan
 
 **Book 1:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
 **Book 2:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
 
+**Book 3:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bab 1 A–B. Proposisi; negasi/ingkaran, konjungsi, disjungsi, dan implikasi | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 4 |
 | Bab 1 (Semester 1) Panduan pembelajaran berpikir komputasional: proposisi, negasi, konjungsi, disjungsi, implikasi, biimplikasi, penalaran dan inferensi, dengan rubrik penilaian | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 48 (teacher guide — evidence) |
+| Unit 2 §2.5 Boolean Algebra: §2.5.1 Boolean Proposition and §2.5.2 Truth Values (filed as NEW LESSON NEEDED — programming/boolean-propositions-and-truth-values; stocked in this lesson because this lesson teaches propositions — statements that are true or false — and the connectives that join them) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 44 |
 
-**Acceptance count: taught in 1 country (Indonesia).**
+**Acceptance count: taught in 2 countries (Indonesia, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Indonesia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/propositions-and-logical-connectives). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: the placements stocked here are from Indonesia's “Informatika” books (Indonesian) — a named subject in the Kurikulum Merdeka, built on four elements (computational thinking, digital literacy, data analysis, algorithms and programming), published by Kementerian Pendidikan / Pusat Perbukuan, with parallel general and SMK (vocational) tracks at Grade 10; student books count toward the acceptance count, and teacher-guide placements are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +22,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
 
-Searchable tags: propositions, proposisi, connectives, negation, conjunction, disjunction, implication, logic, programming, indonesia, grade 10, grade 10
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: propositions, proposisi, connectives, negation, conjunction, disjunction, implication, logic, programming, indonesia, grade 10, grade 10, pakistan, grade 9 computer science 9

@@ -1,6 +1,6 @@
 # Sources — Kinds of web browser
 
-countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka
+countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka
 
 **Book 7:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 8:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five common browsers pictured | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.49 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka
 | Unit 3 Lesson 4: Internet browsers | Sudan, *ICT, Grade 7*, printed p. 61 |
 | Unit 3 Lesson 4, kinds of browser | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 16 |
 | Ch.3 Web searching: browsers (Internet Explorer, Firefox, Chrome, Opera) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 109 |
+| Unit 3 §3.11 Navigating the Internet: Web Browser | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 46 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -40,4 +43,6 @@ Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organise
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: browsers, Internet Explorer, Firefox, Chrome, Safari, Opera, Grade 7 ICT Ethiopia, afghanistan, mauritania, grade 7, morocco, grade 2, sudan, grade 7, egypt, grade 5, sri lanka, grade 11 tamil
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: browsers, Internet Explorer, Firefox, Chrome, Safari, Opera, Grade 7 ICT Ethiopia, afghanistan, mauritania, grade 7, morocco, grade 2, sudan, grade 7, egypt, grade 5, sri lanka, grade 11 tamil, pakistan, grade 6 computer science 6

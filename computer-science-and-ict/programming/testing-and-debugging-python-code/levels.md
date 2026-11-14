@@ -1,0 +1,9 @@
+# Testing and Debugging Python Code — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Testing and Debugging in Python
+Sub lesson 1 questions from the type files. Pass mark: Unit 2 §2.10 Testing and Debugging in Python (§2.10.1 testing — unittest, types of testing; §2.10.2 debugging; §2.10.3 common techniques — print statements, pdb, error messages) — Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 38; Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 38; Unit 2 §2.10 Testing and Debugging in Python (§2.10.1 testing — unittest, types of testing; §2.10.2 debugging; §2.10.3 common techniques — print statements, pdb, error messages); Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.
+
+## Sub lesson 2 — Doing it — Testing and Debugging Python Code in practice
+Sub lesson 2 questions from the type files. Pass mark: Doing it — Testing and Debugging Python Code in practice: working the lesson's own thing with a real example of your own, following the book's own steps in order; Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; A real example of your own — from your school, your home or your town — worked with the book's own steps; You can do the steps without the book open, and you can say in your own words what each step does and why; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.

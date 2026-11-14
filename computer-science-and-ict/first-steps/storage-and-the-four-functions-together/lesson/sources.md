@@ -1,6 +1,6 @@
 # Sources — Storage — keeping data, and the four functions together
 
-countries: Ethiopia, Yemen, Sudan, Fiji
+countries: Ethiopia, Yemen, Sudan, Fiji, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Yemen, Sudan, Fiji
 
 **Book 5:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Storage — keeping data | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.2, printed p. 7 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Yemen, Sudan, Fiji
 | "How the computer works" | Yemen, *Computer, Grade 10*, printed p. 12 |
 | Unit 1 Lesson 1: Basic computer operations (input, processing, output, storage) | Sudan, *ICT, Grade 5*, printed p. 2 |
 | Unit 1.1 The four functions: input, processing, output, storage | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 2 |
+| Unit 2 §2.6 Working of Computer System (input, processing, storage, output) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 24 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Yemen, Sudan, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Sudan, Fiji, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -30,4 +33,6 @@ Sudan's own way (Grade 5): a short, highly practical Arabic primary series that 
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: storage, hard drive, flash drive, compact disk, four functions cycle, input process output storage, Ethiopia Grade 8, yemen, grade 10, sudan, grade 5, fiji, years 7-8
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: storage, hard drive, flash drive, compact disk, four functions cycle, input process output storage, Ethiopia Grade 8, yemen, grade 10, sudan, grade 5, fiji, years 7-8, pakistan, grade 6 computer science 6

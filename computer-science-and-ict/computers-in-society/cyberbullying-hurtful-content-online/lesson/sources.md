@@ -1,6 +1,6 @@
 # Sources — Cyberbullying — hurtful content and exposed private information
 
-countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos, Jordan, Armenia, Indonesia
+countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos, Jordan, Armenia, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos, Jordan, Armenia, Indones
 
 **Book 12:** *Panduan Guru Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-168-5 (jil. 2 PDF). Grade 8 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 13:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What cyberbullying is — both forms | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 6 (student placement item 9) |
@@ -41,8 +43,9 @@ countries: Ethiopia, Trinidad and Tobago, Kuwait, Laos, Jordan, Armenia, Indones
 | Lesson 3 Cyberbullying (Theme 2) | Armenia Grade 10 G10 student, printed p. 14 |
 | Bab 4 D. Cyberbullying | Indonesia Grade 8 G8 Informatika student, printed p. 178 |
 | Bab IV Panduan pembelajaran: media sosial, etika bermedia digital, cyberbullying | Indonesia Grade 8 G8 Informatika teacher guide, printed p. 180 (teacher guide — evidence) |
+| Unit 5 §5.11 Possible Dangers of the Internet: cyberbullying | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 90 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Kuwait, Laos, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Kuwait, Laos, Jordan, Armenia, Indonesia, Pakistan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -66,4 +69,6 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 Indonesia's own way (Indonesia Grade 8 G8 Informatika teacher guide): The teacher guide mirrors the student book chapter by chapter with capaian pembelajaran, prerequisite maps, apersepsi, per-meeting teaching guides, follow-up, assessment rubrics and answer keys — the official way to teach each Grade 8 topic. (teacher guide — evidence)
 
-Searchable tags: cyberbullying, harassment, private information, online gender-based violence, Ethiopia Grade 12 IT, trinidad and tobago, kuwait, grade 5 digital explorer term 2, laos, grade 12 ict student, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10, indonesia, grade 8, grade 8
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: cyberbullying, harassment, private information, online gender-based violence, Ethiopia Grade 12 IT, trinidad and tobago, kuwait, grade 5 digital explorer term 2, laos, grade 12 ict student, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10, indonesia, grade 8, grade 8, pakistan, grade 7 computer science 7

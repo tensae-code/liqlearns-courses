@@ -1,6 +1,6 @@
 # Sources — Folders — containers for files
 
-countries: Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Indonesia
+countries: Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mon
 
 **Book 18:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 19:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Folders and subfolders; file vs folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -58,8 +60,9 @@ countries: Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mon
 | Files and folders | Rwanda Grade 7 S1 ICT Student Book, printed p. 85 |
 | Unit 4 Files and folders | Greece Grade 7 Pliroforiki A, printed p. 40 |
 | Bab 5 B.2 File dan folder: mengaktifkan dan mengelola objek file/folder, merancang folder latihan | Indonesia Grade 7 G7 Informatika student, printed p. 197 |
+| Unit 3 §3.7.2 Folder | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 35 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Indonesia, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -92,4 +95,6 @@ Greece's own way (Grade 7, Pliroforiki A' Gymnasiou, 2024): the new Gymnasium in
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 7, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 6 reading book, rwanda, grade 7 s1 ict student book, greece, grade 7 pliroforiki a gymnasiou, indonesia, grade 7
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 7, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 6 reading book, rwanda, grade 7 s1 ict student book, greece, grade 7 pliroforiki a gymnasiou, indonesia, grade 7, pakistan, grade 6 computer science 6

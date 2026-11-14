@@ -1,6 +1,6 @@
 # Sources — For loops over a list and over a string
 
-countries: Ethiopia, Egypt, Jordan, Armenia, Vietnam
+countries: Ethiopia, Egypt, Jordan, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Egypt, Jordan, Armenia, Vietnam
 
 **Book 12:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 13:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Over a list — item by item | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 181–183 (student placement item 126) |
@@ -42,8 +44,9 @@ countries: Ethiopia, Egypt, Jordan, Armenia, Vietnam
 | §17 Arrays in the Python language | Armenia Grade 9 G9 student, printed p. 160 |
 | Theme 9-10 Arrays in Python (§17) | Armenia Grade 9 G9 teacher, printed p. 30 (teacher guide — evidence) |
 | Bài 20 Câu lệnh lặp for (The for loop) | Vietnam Grade 10 Tin học 10, printed p. 105 |
+| Unit 2 §2.4.2.2 For Loop (greeting each friend in a list; range() activities) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 28 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Jordan, Armenia, Vietnam, Pakistan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part): a loop that never meets its break condition prints everything in the list; and item 39 (teacher evidence) keys the review alphabet program — one letter per line, and on a single line by changing the print ending (guide printed pp. 134–139, 151–153). The regions list in Do it first is shortened to three entries (Afar, Oromia, Sidama) keeping the unit's first and last values; the full-list behaviour is identical. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -67,4 +70,6 @@ Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard the
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: for loop, list, string, iteration, characters, Grade 12 ICT Ethiopia, Unit 6 programming, egypt, grade 10, grade 9, jordan, grade 11 term 1 digital skills, armenia, grade 7, grade 8, grade 9, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: for loop, list, string, iteration, characters, Grade 12 ICT Ethiopia, Unit 6 programming, egypt, grade 10, grade 9, jordan, grade 11 term 1 digital skills, armenia, grade 7, grade 8, grade 9, vietnam, grade 10 tin học 10, pakistan, grade 11 computer science and entrepreneurship 11

@@ -1,6 +1,6 @@
 # Sources — Algorithm Design Methods — Divide-and-Conquer, Dynamic Programming, Greedy
 
-countries: Greece, Moldova, Armenia, Vietnam
+countries: Greece, Moldova, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
@@ -14,6 +14,8 @@ countries: Greece, Moldova, Armenia, Vietnam
 
 **Book 6:** *Chuyên đề học tập Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35060-2. Grade 11 (student book). 74 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.4 Methods of algorithm design / divide-and-conquer / dynamic programming / greedy method | Greece Grade 12 Anaptyxi Efarmogon, printed p. 79 |
@@ -24,8 +26,9 @@ countries: Greece, Moldova, Armenia, Vietnam
 | Chuyên đề 2, Bài 6 Ý tưởng và kĩ thuật chia để trị (The divide-and-conquer idea and technique) (filed as NEW LESSON NEEDED — programming/divide-and-conquer; stocked in this lesson because this lesson's first sub lesson teaches divide-and-conquer — split, solve, join — the route Armenia's divide-and-conquer placements also took) | Vietnam Grade 11 Chuyên đề Tin học 11 Khoa học máy tính, printed p. 28 |
 | Chuyên đề 2, Bài 7 Thiết kế thuật toán theo kĩ thuật chia để trị (Designing algorithms by divide and conquer) (filed as NEW LESSON NEEDED — programming/divide-and-conquer; stocked in this lesson because this lesson's first sub lesson teaches divide-and-conquer — split, solve, join — the route Armenia's divide-and-conquer placements also took) | Vietnam Grade 11 Chuyên đề Tin học 11 Khoa học máy tính, printed p. 33 |
 | Chuyên đề 2, Bài 10 Thực hành giải toán bằng kĩ thuật chia để trị (Practical: solving problems by divide and conquer) (filed as NEW LESSON NEEDED — programming/divide-and-conquer; stocked in this lesson because this lesson's first sub lesson teaches divide-and-conquer — split, solve, join — the route Armenia's divide-and-conquer placements also took) | Vietnam Grade 11 Chuyên đề Tin học 11 Khoa học máy tính, printed p. 45 |
+| Unit 3 §3.5 Algorithm Design Techniques (§3.5.1 divide and conquer — Merge Sort; §3.5.2 greedy — coin change; §3.5.3 dynamic programming — Fibonacci; §3.5.4 backtracking) (filed as NEW LESSON NEEDED — programming/algorithm-design-techniques-divide-greedy-dynamic-backtracking; stocked in this lesson because this lesson teaches the algorithm design methods — divide and conquer, greedy and dynamic programming among them) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 48 |
 
-**Acceptance count: taught in 4 countries (Greece, Moldova, Armenia, Vietnam).**
+**Acceptance count: taught in 5 countries (Greece, Moldova, Armenia, Vietnam, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/algorithm-design-methods-divide-and-conquer-dynamic-programming-greedy). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -41,4 +44,6 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 Vietnam's own way (Grade 11 Chuyên đề Tin học 11 Khoa học máy tính): the CS study-topics book for Grade 11 is a pure algorithm-techniques course in Python — recursion (with the Tower of Hanoi), divide and conquer (with merge sort), and exhaustive search with backtracking (with the N-Queens problem).
 
-Searchable tags: algorithm design, divide and conquer, dynamic programming, greedy, binary search, programming, greece, grade 12, moldova, grade 12 informatica, armenia, grade 10, vietnam, grade 11 chuyên đề tin học 11 khoa học máy tính
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: algorithm design, divide and conquer, dynamic programming, greedy, binary search, programming, greece, grade 12, moldova, grade 12 informatica, armenia, grade 10, vietnam, grade 11 chuyên đề tin học 11 khoa học máy tính, pakistan, grade 11 computer science and entrepreneurship 11

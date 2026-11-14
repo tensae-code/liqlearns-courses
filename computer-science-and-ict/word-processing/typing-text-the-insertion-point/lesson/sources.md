@@ -1,6 +1,6 @@
 # Sources — Typing text — the blinking insertion point
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, Vietnam
+countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, 
 
 **Book 10:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 11:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Click the word processor icon to open it; the blinking cursor (insertion point) sits in the text area below the ribbon | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 46 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, 
 | Lecția 5 Elementele textului (the cursor, moving to a new line, menus of a text editor) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 25 |
 | typing and writing in Word across the early blocks | Jordan Grade 3 G3 Workbook, printed p. 12 |
 | Bài 7 Thực hành soạn thảo văn bản (Practical: composing a complete text document) | Vietnam Grade 5 Tin học 5, printed p. 34 |
+| Unit 3 project: type a 300-word research report in Microsoft Word and print it | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 52 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, Vietnam).**
+**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Uzbekistan, Cuba, Sri Lanka, Moldova, Jordan, Vietnam, Pakistan).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -58,4 +61,6 @@ Jordan's own way (Jordan Grade 3 G3 Workbook): The Office ladder continues — W
 
 Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
 
-Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book, moldova, grade 2 educatie digitala, jordan, grade 3 digital skills workbook, vietnam, grade 5 tin học 5
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: typing text, insertion point, blinking cursor, text area, ribbon, Spacebar, Enter, Tab, Ethiopia Grade 8, afghanistan, saudi arabia, grade 4, uzbekistan, grade 6, cuba, grade 2, cuba, grade 5, sri lanka, grade 7 reading book, moldova, grade 2 educatie digitala, jordan, grade 3 digital skills workbook, vietnam, grade 5 tin học 5, pakistan, grade 6 computer science 6

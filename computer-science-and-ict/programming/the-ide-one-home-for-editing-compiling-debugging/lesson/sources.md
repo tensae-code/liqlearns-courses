@@ -1,6 +1,6 @@
 # Sources — The IDE — one home for editing, compiling, debugging
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece, Jordan, Indonesia
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece, Jordan, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 
 **Book 13:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
 
+**Book 14:** *Computer Science 10* (student book, Urdu) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; Experimental Edition, printed December 2020; no ISBN printed. Grade 10 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. NOTE: the file held for this record is the URDU-medium edition of the PCTB Grade 10 book (Urdu explanations; code, keywords and technical terms in English) — the record itself does not distinguish medium — carried as filed.
+
+**Book 15:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an IDE is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 218–220 |
@@ -44,8 +48,10 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait
 | Lesson 2: text editors and integrated development environments | Jordan Grade 11 G11T1 Student, printed p. 24 |
 | Bab 2 B.2 Instalasi IDE Arduino; void setup() dan void loop() | Indonesia Grade 12 G12 Informatika student, printed p. 30 |
 | Bab 2 Panduan pembelajaran (pengayaan): instalasi dan penggunaan IDE Arduino dan UnoArduSim | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 81 (teacher guide — evidence) |
+| Unit 1 §1.1 Programming Environment: §1.1.1 Integrated Development Environment (IDE) (Visual Studio, Code::Blocks, XCode, Dev C++) | Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 3 |
+| Chapter 8 §8.2 Developing a C Program and §8.2.1 Turbo C++ (the Borland IDE and TC editor; starting the IDE; its menus) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 132 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece, Jordan, Indonesia).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Sri Lanka, Kuwait, Greece, Jordan, Indonesia, Pakistan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -72,4 +78,8 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
 
-Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou, jordan, grade 11 term 1 digital skills, indonesia, grade 12, grade 12
+
+Pakistan's own way (Grade 10 Computer Science 10): Grade 10 is a complete first course in C, taught in Code::Blocks: environment and program structure first, then user interaction (printf/scanf), conditional logic, data and repetition (arrays and for-loops), and functions — every idea carried by short English example programs with Urdu explanation, and each unit closing with Programming Time practice (salary, electricity-bill and discount programs from Pakistani everyday life).
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: IDE, integrated development environment, code editor, compiler, interpreter, debugger, build automation, Grade 10 ICT Ethiopia, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 12, year 13, libya, grade 11 it student term 1, grade 12 it science, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou, jordan, grade 11 term 1 digital skills, indonesia, grade 12, grade 12, pakistan, grade 10 computer science 10, grade 12 computer science 12

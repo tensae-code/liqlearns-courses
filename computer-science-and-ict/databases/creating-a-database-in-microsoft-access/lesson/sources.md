@@ -1,6 +1,6 @@
 # Sources — Creating a database in Microsoft Access
 
-countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam, South Sudan
+countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, V
 
 **Book 15:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 16:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lessons 1–2 — in Access (Access 2010) a database is the container for objects such as tables, forms, queries and reports; creating one comes first: open MS Access, click Blank database, type the database name in the File Name box (a name that describes the stored data), click Create; a new window opens where objects can be built | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed p. 63 |
@@ -47,6 +49,8 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, V
 | Ch.2 §1 Getting to know MS Office Access 2007 (filed as NEW LESSON NEEDED — databases/meeting-microsoft-access-2007; stocked in this lesson because this lesson is the course's meeting with Microsoft Access — opening Access (2010 in the live lesson; Laos meets the 2007 edition of the same program) and what a database holds — the same first meeting Laos's section teaches) | Laos Grade 11 ICT student, printed p. 19 |
 | Ch.2 §2 Creating a database | Laos Grade 11 ICT student, printed p. 40 |
 | Bài 17 Quản trị cơ sở dữ liệu trên máy tính (Administering a database on the computer: Access) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 81 |
+| Chapter 5 §5.1 Overview (what MS Access is; its benefits — sample databases, wizards, the Relationship Window, Office integration, macros and VBA, SQL) and §5.1.1 Creating New Database | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 47 |
+| Chapter 5 §5.1.2 Create a Database Using the Database Wizard, §5.1.3 without the Wizard, §5.1.4 Opening Existing Databases and §5.1.5 Exiting Microsoft Access (filed as NEW LESSON NEEDED — databases/access-first-steps-wizard-blank-open-and-exit; stocked in this lesson because this lesson teaches creating a database in Microsoft Access — the first steps the wizard and the blank database both begin with) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 49 |
 
 | Sub lesson 4 — Access is the default relational database program in the Microsoft Office package; check it is installed and its version (Start → All apps → Microsoft Office → Access with its year); launch by typing “access” in the Search box and name the new database | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 65–67 |
 | Sub lesson 4 — create the database from a template or blank (blank chosen, from scratch); a table can be created three ways — Design View, Datasheet View, or SQL — and the unit teaches the SQL way | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 65–67 |
@@ -61,7 +65,7 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, V
 | 1.4 MS Access page | South Sudan Grade 12 S4 Teacher, printed p. 12 (teacher guide — evidence) |
 | 1.6 Teaching database: creating a database file and building a report using the wizard | South Sudan Grade 12 S4 Teacher, printed p. 13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam, South Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam, South Sudan, Pakistan).**
 
 Honesty: all parts are pupil-taught from the student book, in Access 2010 exactly as the book teaches; no modernising has been done — the one Tip-style guidance (naming for the next person) is the book's own “describes the stored data” rule in plainer words. No book error touches this page.
 
@@ -94,4 +98,6 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: Microsoft Access, Access 2010, Blank database, File Name, Create, database objects, Ethiopia Grade 11, sudan, grade 7, uzbekistan, grade 9, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, laos, grade 11 ict student, vietnam, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: Microsoft Access, Access 2010, Blank database, File Name, Create, database objects, Ethiopia Grade 11, sudan, grade 7, uzbekistan, grade 9, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, laos, grade 11 ict student, vietnam, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher, pakistan, grade 12 computer science 12

@@ -1,0 +1,9 @@
+# Nested Selection in C — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Nested Selection Structures
+Sub lesson 1 questions from the type files. Pass mark: Unit 3 §3.2.3 Nested Selection Structures (electricity-bill program with home/commercial unit tariffs) — Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 64; Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 64; Unit 3 §3.2.3 Nested Selection Structures (electricity-bill program with home/commercial unit tariffs); Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.
+
+## Sub lesson 2 — Nested if Statement
+Sub lesson 2 questions from the type files. Pass mark: Chapter 11 §11.2.3 Nested if Statement (the largest-of-three-numbers program traced both ways), §11.2.4 Comparison of Nested if and Sequence of ifs (positive, negative or zero) and §11.2.5 if-else if Statement (the ladder and its flowchart; the sign test rewritten) — Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 180; Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 180; Chapter 11 §11.2.3 Nested if Statement (the largest-of-three-numbers program traced both ways), §11.2.4 Comparison of Nested if and Sequence of ifs (positive, negative or zero) and §11.2.5 if-else if Statement (the ladder and its flowchart; the sign test rewritten); Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.

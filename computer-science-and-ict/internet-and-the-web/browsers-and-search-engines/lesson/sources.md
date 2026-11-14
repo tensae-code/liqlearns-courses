@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam, South Sudan
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -82,6 +82,8 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 41:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 42:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -132,8 +134,10 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 | 2.3 Search engines | South Sudan Grade 9 S1 Student, printed p. 65 |
 | 2.3.1 Differences between web browser and search engine (filed as NEW LESSON NEEDED — internet-and-the-web/web-browser-versus-search-engine; stocked in this lesson because the difference between a web browser and a search engine is this lesson's core distinction — the tool that displays pages against the service that finds them) | South Sudan Grade 9 S1 Student, printed p. 67 |
 | 2.3 Getting online, browsers and search engines (teaching notes) | South Sudan Grade 9 S1 Teacher, printed p. 33 (teacher guide — evidence) |
+| Unit 3, Search Engine | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 48 |
+| Unit 3 project: searching information on Google, step by step | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 52 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam, South Sudan).**
+**Acceptance count: taught in 22 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam, South Sudan, Pakistan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -214,4 +218,6 @@ South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirel
 
 South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology, indonesia, grade 7, grade 10, grade 11, grade 7, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 6 tin học 6, grade 8 tin học 8, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology, indonesia, grade 7, grade 10, grade 11, grade 7, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 6 tin học 6, grade 8 tin học 8, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher, pakistan, grade 6 computer science 6

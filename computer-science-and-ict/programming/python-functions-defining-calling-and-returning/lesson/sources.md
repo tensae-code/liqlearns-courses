@@ -1,6 +1,6 @@
 # Sources — Python Functions — Defining, Calling and Returning
 
-countries: Kuwait, Greece, Jordan, Armenia, Vietnam
+countries: Kuwait, Greece, Jordan, Armenia, Vietnam, Pakistan
 
 **Book 1:** *تكنولوجيا المعلومات (Information Technology), Grade 10, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 1447H / 2024-2025, second edition 2025/2026; ISBN: no ISBN printed. 139 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Read from an external link and staged 2026-11-14: the record's Drive link returned a 'Quota exceeded' page, so the book was read from the byte-identical GitHub tree copy (18,722,082 bytes, matching the books.json record exactly) — already staged/secured via grade-10/gov/kuwait/information-technology/student/term-2.pdf. The front 'Digital Classroom' section repeats the series front section already placed from Book 1 and is not double-counted here. This is the FIRST of the two L1 drafts in the placements file, kept per the merger brief; the second L1 draft (7 placements, variant slugs for the same sections) is superseded.
 
@@ -24,6 +24,8 @@ countries: Kuwait, Greece, Jordan, Armenia, Vietnam
 
 **Book 11:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 12:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1: Functions (الدوال) | Kuwait Grade 10 Term 2 Book L1, printed p. 63 |
@@ -38,8 +40,9 @@ countries: Kuwait, Greece, Jordan, Armenia, Vietnam
 | Theme 9-9 Functions (§16) (filed as programming/functions-defining-and-calling; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 9 G9 teacher, printed p. 28 (teacher guide — evidence) |
 | Bài 26 Hàm trong Python (Functions in Python) (filed as NEW LESSON NEEDED — programming/defining-and-calling-functions-in-python; stocked in this lesson because this lesson teaches defining and calling Python functions — def, the call, and returning) | Vietnam Grade 10 Tin học 10, printed p. 127 |
 | Bài 27 Tham số của hàm (Function parameters) (filed as NEW LESSON NEEDED — programming/function-parameters-and-arguments; stocked in this lesson because this lesson teaches Python function parameters and the arguments a call passes to them) | Vietnam Grade 10 Tin học 10, printed p. 131 |
+| Unit 2 §2.5 Python Modules and Built-in Data Structures: §2.5.1 Functions and Modules (§2.5.1.1 defining and invoking, §2.5.1.2 parameters and return values, §2.5.1.3 default parameters) (filed as NEW LESSON NEEDED — programming/functions-in-python-def-parameters-return-defaults; stocked in this lesson because this lesson teaches defining and calling Python functions — def, parameters, return values and defaults) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 29 |
 
-**Acceptance count: taught in 5 countries (Kuwait, Greece, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 6 countries (Kuwait, Greece, Jordan, Armenia, Vietnam, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/python-functions-defining-calling-and-returning). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -65,4 +68,6 @@ Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard the
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 9, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: python, functions, def, parameters, arguments, return, programming, kuwait, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, grade 8, grade 9, vietnam, grade 10 tin học 10, pakistan, grade 11 computer science and entrepreneurship 11

@@ -1,6 +1,6 @@
 # Sources — Printers — impact and non-impact — and plotters
 
-countries: Ethiopia, Sri Lanka, Moldova
+countries: Ethiopia, Sri Lanka, Moldova, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Sri Lanka, Moldova
 
 **Book 5:** *INFORMATICĂ — Manual pentru clasa a 11-a (Informatică, Grade 11)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-246-3. Authors: Anatol Gremalschi, Iurie Mocanu, Ludmila Gremalschi. 224 PDF pages. Verdict: COMPLETE (some sections are profile-specific — Real/Umanist columns in the CUPRINS — but all are placed). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 7:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.4, printed p. 35 |
@@ -19,8 +23,11 @@ countries: Ethiopia, Sri Lanka, Moldova
 | U.D.2 Séance 4 L'imprimante (printing a document or image) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 20 (teacher guide — evidence) |
 | Ch.1 Printers: impact (daisy wheel, dot matrix, line) and non-impact (laser, inkjet, dye sublimation); plotters (filed as hardware/printers-impact-laser-and-inkjet; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 10 |
 | 6.9 Imprimantele | Moldova Grade 11 Informatică, printed p. 184 |
+| Unit 2 §2.4.3 Graphic Plotter | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 18 |
+| Unit 2 §2.4.4 Printer | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 18 |
+| Unit 1 §1.10.3 Printers (inkjet, laser, 3D, LED types) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Moldova).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Moldova, Pakistan).**
 
 Printed p. 35 of the student book carries stray character runs (runs of the letters d and i typeset into the text); they are typesetting faults, carry no meaning, and are not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -32,4 +39,8 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how numbers, logic and circuits actually work inside the machine (Boolean algebra, adders, flip-flops, instruction formats, assembly language) — with structured programming (arrays, records, sets, files) carried over from Grade 10's languages; some sections are profile-specific (Real/Umanist).
 
-Searchable tags: printer, impact printer, dot-matrix, daisy-wheel, non-impact, ink jet, laser, thermal, plotter, hard copy, Ethiopia Grade 8, mauritania, grade 7, morocco, grade 1, sri lanka, grade 12 science for technology tamil, moldova, grade 11 informatica
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: printer, impact printer, dot-matrix, daisy-wheel, non-impact, ink jet, laser, thermal, plotter, hard copy, Ethiopia Grade 8, mauritania, grade 7, morocco, grade 1, sri lanka, grade 12 science for technology tamil, moldova, grade 11 informatica, pakistan, grade 6 computer science 6, grade 7 computer science 7

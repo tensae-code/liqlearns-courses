@@ -1,0 +1,9 @@
+# Subforms One to Many on One Screen — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Subforms One to Many on One Screen
+Sub lesson 1 questions from the type files. Pass mark: Chapter 7 §7.5 Subform (main form and subform for one-to-many data; the Form Wizard route, the Subform Wizard, and §7.6 the drag-and-drop method) — Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 112; Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 112; Chapter 7 §7.5 Subform (main form and subform for one-to-many data; the Form Wizard route, the Subform Wizard, and §7.6 the drag-and-drop method); Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.
+
+## Sub lesson 2 — Doing it — Subforms One to Many on One Screen in practice
+Sub lesson 2 questions from the type files. Pass mark: Doing it — Subforms One to Many on One Screen in practice: working the lesson's own thing with a real example of your own, following the book's own steps in order; Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; A real example of your own — from your school, your home or your town — worked with the book's own steps; You can do the steps without the book open, and you can say in your own words what each step does and why; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.

@@ -1,6 +1,6 @@
 # Sources — Units of data storage — bit, byte, KB, MB, GB, TB
 
-countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia, Vietnam
+countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -34,6 +34,12 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 
 **Book 17:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 18:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 19:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 20:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Units of data storage — bit, byte, KB, MB, GB, TB | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 27 |
@@ -55,8 +61,11 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 | Activité 3 Séance 2: Les unités de taille des fichiers | Switzerland Grade 7 Décodage 7e–8e, printed p. 6 (Activité 3) (teacher guide — evidence) |
 | Bab 2 A.2 Satuan ukuran data | Indonesia Grade 7 G7 Informatika student, printed p. 42 |
 | Bài 3 Thông tin trong máy tính (Information inside the computer: binary, bits and bytes) | Vietnam Grade 6 Tin học 6, printed p. 12 |
+| Unit 2 §2.5.1 Units of Memory (bit to zetabyte table) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 20 |
+| Unit 4, data-size units table (bit, byte, KB to geopbyte) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 59 |
+| Unit 2 §2.4 Measurement of Size of Computer Memory (bit, byte, KB, MB, GB, TB, PB) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 43 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia, Sri Lanka, Laos, Moldova, Indonesia, Vietnam, Pakistan).**
 
 No book error touches this lesson's content.
 
@@ -89,4 +98,10 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
 
-Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii, sri lanka, grade 8 reading book, laos, grade 11 ict student, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 78, indonesia, grade 7, vietnam, grade 6 tin học 6
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii, sri lanka, grade 8 reading book, laos, grade 11 ict student, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 78, indonesia, grade 7, vietnam, grade 6 tin học 6, pakistan, grade 6 computer science 6, grade 7 computer science 7, grade 9 computer science 9

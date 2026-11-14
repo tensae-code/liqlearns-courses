@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -66,6 +66,8 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 
 **Book 32:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 33:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -103,8 +105,9 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 | Bài 8 Thực hành nâng cao sử dụng thư điện tử và mạng xã hội (Advanced email/social practical — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 39 |
 | 2.4 Electronic mail (Email) | South Sudan Grade 9 S1 Student, printed p. 68 |
 | Teaching electronic mail (Email) | South Sudan Grade 9 S1 Teacher, printed p. 35 (teacher guide — evidence) |
+| Unit 2 §2.3 The uses of electronic mail (e-mail) and §2.3.2 composing with To, Cc, Bcc | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 30 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan).**
+**Acceptance count: taught in 21 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan, Pakistan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -164,4 +167,6 @@ South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirel
 
 South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7, indonesia, grade 7, grade 7, vietnam, grade 6 tin học 6, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7, indonesia, grade 7, grade 7, vietnam, grade 6 tin học 6, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher, pakistan, grade 7 computer science 7

@@ -1,6 +1,6 @@
 # Sources - Python data types - int, float, str, bool
 
-countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan, Vietnam
+countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, J
 
 **Book 12:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 13:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - int and float (whole / decimal numbers; arithmetic operators +, -, /, //, *, %, **; /, //, % subtleties) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 142-145 |
@@ -42,8 +44,9 @@ countries: Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, J
 | Lesson 2: elements of the Python language (variables, data types, arithmetic and logical expressions) | Jordan Grade 11 G11T1 Student, printed p. 29 |
 | Theme 6-13 Data types and names (constants, variables, declaration) | Armenia Grade 6 G6 teacher, printed p. 46 (teacher guide — evidence) |
 | Bài 3 Một số kiểu dữ liệu và dữ liệu văn bản (Data types; text data and character encoding) | Vietnam Grade 10 Tin học 10, printed p. 16 |
+| Unit 2 §2.2.1 Variables, Data Types and Input/Output (§2.2.1.2 variable naming rules; §2.2.1.3 creating variables of different types) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 21 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan, Vietnam).**
+**Acceptance count: taught in 11 countries (Ethiopia, China, Egypt, Libya, Malaysia, Sri Lanka, Kuwait, Greece, Jordan, Vietnam, Pakistan).**
 
 No book error touches this lesson. All operator examples in the lesson text were run in Python 3 and give the values printed (7 / 2 = 3.5, 7 // 2 = 3, 7 % 2 = 1, "Sel" + "am" = "Selam"). The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -65,4 +68,6 @@ Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the studen
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, armenia, grade 6, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: data types, int, float, str, bool, type function, floor division, modulus, concatenation, Grade 11 ICT Ethiopia, Unit 6 programming, china, egypt, grade 10, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, greece, grade 9 pliroforiki c gymnasiou, jordan, grade 11 term 1 digital skills, armenia, grade 6, vietnam, grade 10 tin học 10, pakistan, grade 11 computer science and entrepreneurship 11

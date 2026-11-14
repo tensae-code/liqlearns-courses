@@ -1,6 +1,6 @@
 # Sources — Polya's four steps
 
-countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia, Vietnam
+countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 
 **Book 15:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 16:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 17:** *Computer Science 6 — Based on Single National Curriculum 2022 ("One Nation, One Curriculum")* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; author Jahanzaib Khan; printed by Chaudhary and Sons Printers, Lahore; Experimental Edition (web version of the PCTB textbook); ISBN: none printed on the pages checked. Grade 6 (student book). 113 PDF pages. Verdict: PARTIAL — the book is an image-only scan with no text layer and OCR was not feasible in the reading session; the whole book was read visually from full-page renders of every page (contents page, all 7 unit openers with their Student Learning Outcomes, every section heading, summary and exercise seen), and every unit and section is placed at section level from that read — carried exactly as filed. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. (link-pass re-reading — extra beyond the 595 counted placements)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polya's four steps with their contents; the back-and-forth note | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 219–220 |
@@ -49,8 +53,10 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 | Lesson 2 Algorithms: problem solving | Jordan Grade 12 G12T1 Student, printed p. 27 |
 | Bab 1 F. Pemecahan masalah (problem solving, Polya, brainstorming) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 20 |
 | Bài 14 Giải quyết vấn đề (Solving problems in steps, with the computer's help) | Vietnam Grade 9 Tin học 9, printed p. 76 |
+| Unit 4 §4.1 the six problem-solving steps (identify, define, analyse, plan, test, select) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 54 |
+| Unit 4 §4.1 Problem Solving (identify, define, analyse, plan, test, select the best solution) (filed in the link-pass re-reading as NEW LESSON NEEDED — programming/problem-solving-steps-define-understand-plan-and-select; extra beyond the 595 counted placements, stocked in this lesson because this lesson teaches the problem-solving steps — identify, define, analyse, plan, test and select are the book's own steps, in its own order) | Pakistan Grade 6 Book L1, printed p. 53 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia, Vietnam, Pakistan).**
 
 Book error, taught corrected: the student book's Polya table prints the typo "2tep 2" for Step 2; the lesson teaches Step 2 and flags the misprint here.
 
@@ -81,4 +87,8 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
 
-Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student, bangladesh, grade 6 digital technology, jordan, grade 12 term 1 digital skills, indonesia, grade 10, vietnam, grade 9 tin học 9
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 6 Computer Science 6 (link pass)): the SNC middle-school course is unusually broad for Grade 6 — it runs from ICT fundamentals through Paint 3D and Scratch to digital citizenship and a full unit on entrepreneurship in the digital age with Pakistani startup examples (Foodpanda/EatOye, Shoppy.pk, Zero Makeup)
+Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student, bangladesh, grade 6 digital technology, jordan, grade 12 term 1 digital skills, indonesia, grade 10, vietnam, grade 9 tin học 9, pakistan, grade 6 computer science 6, grade 6 computer science 6 (link pass)

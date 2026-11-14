@@ -1,6 +1,6 @@
 # Sources — Rules for the school computer lab — an Internet-use policy
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka, Rwanda
+countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka, Rwanda, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka, Rwanda
 
 **Book 10:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 11:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Internet use and laboratory conduct are governed in the student book's Unit 5 securing and awareness sections | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–209 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka, Rwanda
 | Workbook Ch.2 Activities 2.1-2.7: lab safety, ethics, posture, e-waste, passwords exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 9 |
 | Safe lab procedure and safety precautions | Rwanda Grade 7 S1 ICT Student Book, printed p. 94 |
 | Unit 4 guide: safe, secure and ethical use (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 52 (teacher guide — evidence) |
+| Unit 6, Computer Lab Rules box | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 89 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Azerbaijan, Bhutan, Sri Lanka, Rwanda, Pakistan).**
 
 This lesson stands mainly on teacher-guide evidence: the policy text is the guide's ready-made model (Activity 5.4 answer, part three), labelled as evidence in the parts table; the student book's own awareness and securing sections cover the same ground without printing a policy.
 
@@ -53,4 +56,6 @@ Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening
 
 Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
 
-Searchable tags: internet use policy, school laboratory, rules, plagiarism, passwords, Grade 9 ICT Ethiopia Unit 5 teacher evidence, turkmenistan, azerbaijan, bhutan, class iv, class vii, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: internet use policy, school laboratory, rules, plagiarism, passwords, Grade 9 ICT Ethiopia Unit 5 teacher evidence, turkmenistan, azerbaijan, bhutan, class iv, class vii, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, pakistan, grade 6 computer science 6

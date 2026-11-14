@@ -1,6 +1,6 @@
 # Sources — The network interface card
 
-countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia
+countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia
 
 **Book 9:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The card that connects a computer to a network | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 39–40 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia
 | Bab V A.4 Perangkat jaringan komputer | Indonesia Grade 11 G11 Informatika student, printed p. 247 |
 | Bab 4 F.1 Perangkat keras jaringan: NIC, hub, switch, repeater, bridge, router, access point, modem, wireless LAN card, kabel dan konektor RJ45, tang crimping dan LAN tester | Indonesia Grade 12 G12 Informatika student, printed p. 104 |
 | Network Interface Card and point-to-point connections (exercise answers) | South Sudan Grade 10 S2 Teacher, printed p. 19 (teacher guide — evidence) |
+| Unit 1 §1.1.5 Network Interface Card (NIC) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 9 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia, Pakistan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -53,4 +56,6 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
 
-Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12, south sudan, grade 10 s2 teacher
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12, south sudan, grade 10 s2 teacher, pakistan, grade 8 computer education 8

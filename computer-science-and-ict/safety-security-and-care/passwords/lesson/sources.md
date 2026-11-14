@@ -1,6 +1,6 @@
 # Sources — Passwords — making a strong one
 
-countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indonesia
+countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -37,6 +37,10 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indo
 
 **Book 18:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 19:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 20:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Password defined — verifies identity; first line of defence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.68 |
@@ -58,8 +62,10 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indo
 | Bab 5 F (praktik: kata sandi dan keamanan akun saat terhubung ke internet) | Indonesia Grade 8 G8 Informatika student, printed p. 219 |
 | Bab IV D.1 Kata sandi yang kuat | Indonesia Grade 9 G9 Informatika student, printed p. 215 |
 | Bab 4 D (kata sandi dalam keamanan informasi) | Indonesia Grade 10 G10 Informatika student, printed p. 226 |
+| Unit 5 §5.10 tips: pick strong and unique passwords | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 89 |
+| Unit 4 §4.4.2 Characteristics of a Good Password, with Activity 4.6 (test your password's crack time) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 89 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indonesia).**
+**Acceptance count: taught in 10 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indonesia, Pakistan).**
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
@@ -91,4 +97,8 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 complete
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
 
-Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 2 digital skills, grade 5 digital skills workbook, indonesia, grade 7, grade 8, grade 9, grade 10
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 2 digital skills, grade 5 digital skills workbook, indonesia, grade 7, grade 8, grade 9, grade 10, pakistan, grade 7 computer science 7, grade 9 computer science 9

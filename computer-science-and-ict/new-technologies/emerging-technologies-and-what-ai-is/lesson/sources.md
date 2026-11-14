@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -43,6 +43,8 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 
 **Book 22:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
+**Book 23:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -67,8 +69,9 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 | Bab III C.2 Perancangan konten digital menggunakan kecerdasan artifisial | Indonesia Grade 9 G9 Informatika student, printed p. 174 |
 | Bài 1 Làm quen với Trí tuệ nhân tạo (Getting to know artificial intelligence) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 5 |
 | Bài 1 Làm quen với Trí tuệ nhân tạo (AI — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 5 |
+| Unit 1 §1.3 Artificial Intelligence (AI) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 2 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 15 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -109,4 +112,6 @@ Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year
 
 Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
 
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills, armenia, grade 10, indonesia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills, armenia, grade 10, indonesia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, pakistan, grade 7 computer science 7

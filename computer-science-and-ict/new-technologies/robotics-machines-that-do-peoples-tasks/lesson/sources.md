@@ -1,6 +1,6 @@
 # Sources — Robotics — machines that do people's tasks
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan, Vietnam
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -35,6 +35,10 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Gree
 
 **Book 19:** *Chuyên đề học tập Tin học 10 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31091-0. Grade 10 (student book). 74 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 20:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 21:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Robotics defined; factory routine work, dangerous work, underwater and space work; home work and the robot vacuum | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 30 |
@@ -59,8 +63,10 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Gree
 | Chapter 1, 1.3.2: Robotics — what a robot is, its components and seven application areas | Bangladesh HSC ICT, printed p. 17 |
 | Lesson 3: The Robot — concept of the robot and the components of a robot system | Jordan Grade 9 G9T2 Student, printed p. 129 |
 | Chuyên đề 1, Bài 1 Cấu tạo chung của robot giáo dục (General structure of an educational robot: controller board, sensors, actuators, power) | Vietnam Grade 10 Chuyên đề Tin học 10 Khoa học máy tính, printed p. 5 |
+| Unit 1 §1.6.4 ICT Application in Manufacturing Industry | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 7 |
+| Unit 1 §1.2 Robotics | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 2 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, North Macedonia, Egypt, Mongolia, Kuwait, Laos, Greece, Bangladesh, Jordan, Vietnam, Pakistan).**
 
 No book error touches this lesson.
 
@@ -98,4 +104,8 @@ Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the
 
 Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Khoa học máy tính): the CS study-topics book for Grade 10 is not more Python — it is a full educational-robotics course (a STEM orientation, per its preface): build the robot, connect it to the computer, then program it to move, sense obstacles and follow a line on a test course (sa bàn).
 
-Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 2 digital skills, vietnam, grade 10 chuyên đề tin học 10 khoa học máy tính
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: robotics, robots, assembly line, radioactive waste, robot vacuum, space exploration, Grade 11 ICT Ethiopia, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 7, mongolia, grade 12 it xii, kuwait, grade 5 digital explorer term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 2 digital skills, vietnam, grade 10 chuyên đề tin học 10 khoa học máy tính, pakistan, grade 6 computer science 6, grade 7 computer science 7

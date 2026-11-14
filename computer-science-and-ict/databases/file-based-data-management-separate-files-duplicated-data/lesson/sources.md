@@ -1,6 +1,6 @@
 # Sources — File-based data management — separate files, duplicated data
 
-countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam
+countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam
 
 **Book 7:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 8:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — separate files, no explicit relationships, each file managed by its own application program, each department keeping its own files; changing data means changing the program, and changing the program can mean changing the file structure | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 51–53 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam
 | Chapter 6, 6.1.1: limitations of the file system — duplication, dependence and inconsistency | Bangladesh HSC ICT, printed p. 192 |
 | Bài 10 Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lí (Storing data and exploiting information for management) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 49 |
 | Bài 10 Lưu trữ dữ liệu và khai thác thông tin phục vụ quản lí (Data storage for management — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 49 |
+| Chapter 2 §2.1 Overview and §2.1.1 Data Handling in File Management Systems (record layouts, fixed field lengths and starting addresses — the EMP_BIO_INFO employee file) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 13 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Fiji, Laos, Bangladesh, Vietnam, Pakistan).**
 
 Honesty: the security limitation in Sub lesson 3 is teacher-guide evidence only (Activity 3.1's keyed answer) and is labelled as such in the lesson; it is never counted as pupil-taught. Unit 3's Unit Summary (printed p.71) opens with the stray bullet “what is meant by Emerging Technologies” — a copy-over from Unit 2; it belongs to Unit 2, is not taught anywhere in this title, and is named here because this lesson opens the unit. The review headings throughout the book misspell “statement” as “statment”; the lessons teach the correct spelling and do not copy the misprint.
 
@@ -45,4 +48,6 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: file-based data management, separate files, duplication, redundancy, inconsistency, data drift, file structure, Ethiopia Grade 11, sudan, grade 11, fiji, year 13, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: file-based data management, separate files, duplication, redundancy, inconsistency, data drift, file structure, Ethiopia Grade 11, sudan, grade 11, fiji, year 13, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, pakistan, grade 12 computer science 12

@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — new, evolving, soon
 
-countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia
+countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia
 
 **Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 8:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Emerging technology defined; the five-to-ten-year window; significant social or economic effects | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed p. 29 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia
 | Ch 1, emerging technologies | Libya Grade 10 IT student, printed p. 19 |
 | 1.1.1 Development trends of ICT (e-, m- and u-systems, the Internet of Things, IPv6 address exhaustion, Web 3.0 semantic and Web 4.0 symbiotic webs, an RFID cow-tracking project) | Mongolia Grade 12 IT XII, printed p. 6 |
 | Lesson 5 Main directions of technology development (Theme 4) | Armenia Grade 10 G10 student, printed p. 28 |
+| Unit 1 §1.1 Emerging Technology (characteristics: innovation, fast growth, consistency, prominent impact) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 1 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia, Pakistan).**
 
 The student book's brainstorming numbering is duplicated in this unit (“Brainstorming 2.2” is used for both §2.1.2 and §2.2); no brainstorming number is reproduced in this lesson, so the duplication does not reach the learner.
 
@@ -39,4 +42,6 @@ Mongolia's own way (Grade 12): the final book measures everything against Mongol
 
 Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
 
-Searchable tags: emerging technology, new technology, five to ten years, Unit 2 introduction, Grade 12 ICT Ethiopia, cambodia, china, north macedonia, grade 11, libya, grade 10 it student, mongolia, grade 12 it xii, armenia, grade 10
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: emerging technology, new technology, five to ten years, Unit 2 introduction, Grade 12 ICT Ethiopia, cambodia, china, north macedonia, grade 11, libya, grade 10 it student, mongolia, grade 12 it xii, armenia, grade 10, pakistan, grade 7 computer science 7

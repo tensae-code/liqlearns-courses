@@ -1,6 +1,6 @@
 # Sources — HTML attributes — and the img element
 
-countries: Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jor
 
 **Book 13:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 14:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Attributes — name=value inside the start tag; the alignment example | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 84–85 |
@@ -44,8 +46,10 @@ countries: Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jor
 | Bài 11 Chèn tệp tin đa phương tiện và khung nội tuyến vào trang web (Inserting multimedia files and inline frames into a web page) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 62 |
 | Bài 11 Chèn tệp tin đa phương tiện và khung nội tuyến vào trang web (Multimedia and inline frames — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 62 |
 | 3.10 Inserting Images | South Sudan Grade 12 S4 Student, printed p. 142 |
+| Unit 5 §5.1.4 Attributes in HTML Tags | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 102 |
+| Unit 5 §5.4 Images and Backgrounds (img src, width, height, border, alt; background and foreground colours; background image) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 107 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Iraq, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -71,4 +75,6 @@ Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are
 
 South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
 
-Searchable tags: HTML attributes, name=value, align, img, src, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 12 s4 student
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: HTML attributes, name=value, align, img, src, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 12 s4 student, pakistan, grade 9 computer science 9

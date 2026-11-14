@@ -1,6 +1,6 @@
 # Sources — Aligning text — left, right, centre, justified
 
-countries: Ethiopia, Uganda, Mongolia, Laos
+countries: Ethiopia, Uganda, Mongolia, Laos, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Uganda, Mongolia, Laos
 
 **Book 8:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 9:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text alignment — the four kinds, changed by cursor-in-paragraph plus one button: Left (Ctrl+L, even at left, jagged right, the commonest), Right (Ctrl+R, mirror), Centre (Ctrl+E, equal spaces, for titles and headings), Justified (both margins, spaces between words adjusted); practicals re-align the Grand Ethiopian Renaissance Dam document each way | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 85-86 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Uganda, Mongolia, Laos
 | U.D.4 Séance 4 Changer la couleur de police et aligner le texte (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 30 (teacher guide — evidence) |
 | 2.1.4 Aligning text information (paragraph alignment left/centre/right/justified) | Mongolia Grade 6 IT VI, printed p. 32 |
 | Ch.3 §3.1 Arranging text (alignment buttons and the Paragraph command) | Laos Grade 9 ICT student, printed p. 31 |
+| Unit 2 §2.1.6 Format a Document: text alignment | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 20 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Laos).**
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Laos, Pakistan).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -41,4 +44,6 @@ Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — 
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 4, morocco, grade 2, mongolia, grade 6 it vi, laos, grade 9 ict student
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 4, morocco, grade 2, mongolia, grade 6 it vi, laos, grade 9 ict student, pakistan, grade 7 computer science 7

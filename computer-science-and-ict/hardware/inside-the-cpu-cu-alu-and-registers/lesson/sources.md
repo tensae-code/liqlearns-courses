@@ -1,6 +1,6 @@
 # Sources — Inside the CPU — CU, ALU and registers
 
-countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia
+countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia
 
 **Book 9:** *Panduan Guru Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-168-5 (jil. 2 PDF). Grade 8 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The control unit | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.2, printed pp. 27–28 |
@@ -33,8 +35,10 @@ countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia
 | Chapter 3, 3.7.9: registers — sets of flip-flops storing data inside the CPU | Bangladesh HSC ICT, printed p. 110 |
 | Bab 5 C. Central Processing Unit | Indonesia Grade 8 G8 Informatika student, printed p. 202 |
 | Bab V Panduan pembelajaran pemanfaatan perangkat digital: komponen sistem komputer, pengalamatan memori, CPU | Indonesia Grade 8 G8 Informatika teacher guide, printed p. 198 (teacher guide — evidence) |
+| Unit 2 §2.5.3 Control Unit (CU) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 23 |
+| Unit 2 §2.5.4 Arithmetic & Logical Unit | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 23 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia, Pakistan).**
 
 Printed p. 27 of the student book carries a stray character run (a run of the letter k typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. The CPU's figure on the same page repeats the number 'Figure 2.10' already used for the joystick (printed p. 26) — the duplication is the book's, and is flagged in both lessons it touches. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -54,4 +58,6 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 Indonesia's own way (Indonesia Grade 8 G8 Informatika teacher guide): The teacher guide mirrors the student book chapter by chapter with capaian pembelajaran, prerequisite maps, apersepsi, per-meeting teaching guides, follow-up, assessment rubrics and answer keys — the official way to teach each Grade 8 topic. (teacher guide — evidence)
 
-Searchable tags: CPU, control unit, ALU, registers, bus, arithmetic operations, logical operations, comparisons, Ethiopia Grade 8, iraq, grade 8, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 8, grade 8
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: CPU, control unit, ALU, registers, bus, arithmetic operations, logical operations, comparisons, Ethiopia Grade 8, iraq, grade 8, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 8, grade 8, pakistan, grade 6 computer science 6

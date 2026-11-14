@@ -1,6 +1,6 @@
 # Sources — IaaS — computing resources rented in the cloud
 
-countries: Ethiopia, Bangladesh, Jordan
+countries: Ethiopia, Bangladesh, Jordan, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Bangladesh, Jordan
 
 **Book 3:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 11 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-725-6. Grade 11 (student book). 169 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 4:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | IaaS defined: access to computing resources in a virtualised environment ('the cloud') over the internet; a complete computing package; a solution for small businesses cutting IT infrastructure costs; a fundamental service model alongside PaaS; examples (Amazon Web Services, Cisco Metapod, Microsoft Azure, Google Compute Engine) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 45–46 |
 | Chapter 2, 2.5.8: IaaS — Amazon EC2 | Bangladesh HSC ICT, printed p. 74 |
 | Lesson 2: Cloud Services — cloud service models: IaaS | Jordan Grade 11 G11T2 Student, printed p. 27 |
+| Unit 6 §6.2.2 Types of Cloud Services (§6.2.2.1 IaaS, §6.2.2.2 PaaS, §6.2.2.3 SaaS) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 89 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Jordan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Jordan, Pakistan).**
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
 Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught through the two commercial providers students can actually open — Microsoft Azure and Google Cloud — before data security in the cloud; the AI unit goes from expert systems through machine learning and NLP to modelling and simulation.
 
-Searchable tags: IaaS, infrastructure as a service, virtualised resources, Amazon Web Services, Google Compute Engine, Grade 12 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: IaaS, infrastructure as a service, virtualised resources, Amazon Web Services, Google Compute Engine, Grade 12 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills, pakistan, grade 11 computer science and entrepreneurship 11

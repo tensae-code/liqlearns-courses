@@ -1,6 +1,6 @@
 # Sources - Identifiers - the rules for naming variables
 
-countries: Ethiopia, Kuwait, Moldova, Bangladesh, Armenia
+countries: Ethiopia, Kuwait, Moldova, Bangladesh, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Kuwait, Moldova, Bangladesh, Armenia
 
 **Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 8:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
+**Book 9:** *Computer Science 10* (student book, Urdu) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; Experimental Edition, printed December 2020; no ISBN printed. Grade 10 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. NOTE: the file held for this record is the URDU-medium edition of the PCTB Grade 10 book (Urdu explanations; code, keywords and technical terms in English) — the record itself does not distinguish medium — carried as filed.
+
+**Book 10:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - The character rules (first character letter or underscore; later letters, numbers or underscores) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 140-142 |
@@ -26,8 +32,11 @@ countries: Ethiopia, Kuwait, Moldova, Bangladesh, Armenia
 | Chapter 5, 5.6: variable names — the naming rules and valid vs invalid names | Bangladesh HSC ICT, printed p. 156 |
 | §22 Variables in programming | Armenia Grade 5 G5 student (Antares), printed p. 116 |
 | §23 Declaring a variable | Armenia Grade 6 G6 student, printed p. 137 |
+| Unit 5 §5.1.2 rules for declaring variable names in BASIC (string variables end with $) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 108 |
+| Unit 1 §1.3.4 Name of a Variable (naming rules; valid and invalid names activity) | Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 12 |
+| Chapter 9 §9.1 Overview (§9.1.1 identifiers; §9.1.2 standard identifiers — printf and scanf; §9.1.3 user-defined identifiers; C is case sensitive) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 145 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Kuwait, Moldova, Bangladesh, Armenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Kuwait, Moldova, Bangladesh, Armenia, Pakistan).**
 
 Book error taught corrected, as directed: the student book's keyword list (printed p. 141) still lists print and exec as keywords - Python 2 wording carried into a Python 3 / IDLE book. The lesson teaches the naming rules exactly as the book states them, and flags in a marked Tip box that print and exec are NOT keywords in the Python 3 the book itself teaches (print is a built-in function), preserving the book's own wording note in this sources file. "statment" is also misspelled in the book's review headings throughout the unit; the course writes "statement". The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -41,4 +50,10 @@ Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different G
 
 Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
 
-Searchable tags: identifiers, naming rules, keywords, case sensitivity, valid names, Grade 11 ICT Ethiopia, Unit 6 programming, kuwait, grade 10 information technology term 1, moldova, grade 10 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, grade 6
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+
+Pakistan's own way (Grade 10 Computer Science 10): Grade 10 is a complete first course in C, taught in Code::Blocks: environment and program structure first, then user interaction (printf/scanf), conditional logic, data and repetition (arrays and for-loops), and functions — every idea carried by short English example programs with Urdu explanation, and each unit closing with Programming Time practice (salary, electricity-bill and discount programs from Pakistani everyday life).
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: identifiers, naming rules, keywords, case sensitivity, valid names, Grade 11 ICT Ethiopia, Unit 6 programming, kuwait, grade 10 information technology term 1, moldova, grade 10 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, grade 6, pakistan, grade 8 computer education 8, grade 10 computer science 10, grade 12 computer science 12

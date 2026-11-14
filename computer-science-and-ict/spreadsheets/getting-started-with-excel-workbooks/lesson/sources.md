@@ -1,6 +1,6 @@
 # Sources — Getting Started with Excel Workbooks
 
-countries: Kuwait, Laos, South Sudan
+countries: Kuwait, Laos, South Sudan, Pakistan
 
 **Book 1:** *المستكشف الرقمي (Digital Explorer), Grade 5, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md. Title mismatch carried as filed: both records name this book 'Our Digital World / عالمنا الرقمي', but the cover and title page print المستكشف الرقمي (Digital Explorer), Grade 5, Term 2 — it is cited under its printed title, with the record mismatch noted. The front 'Digital Classroom' section repeats the series front section placed from Book 1 (Grade 4 Term 1).
 
@@ -8,14 +8,17 @@ countries: Kuwait, Laos, South Sudan
 
 **Book 3:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 4:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 2 Digital Tools (Microsoft Excel), Lesson 1 My Special Table (1): launching Excel, exploring its window, saving, opening and closing a workbook | Kuwait Grade 5 Digital Explorer T2, printed p. 45 |
 | Ch.5 §5.8 Opening a workbook that was saved (filed as NEW LESSON NEEDED — spreadsheets/opening-a-saved-workbook; stocked in this lesson because this lesson teaches opening a saved workbook — opening brings it back exactly as it was left — the same act Laos's section teaches) | Laos Grade 9 ICT student, printed p. 64 |
 | Ch.5 §5.13 Exiting the Excel programme (filed as NEW LESSON NEEDED — spreadsheets/exiting-excel; stocked in this lesson because this lesson teaches closing the workbook and putting Excel's work away — the exit act that ends the Excel programme's work — the same leaving Laos's Exiting the Excel programme section teaches) | Laos Grade 9 ICT student, printed p. 71 |
 | 2.1.4 Saving a Workbook (filed as NEW LESSON NEEDED — spreadsheets/saving-a-workbook; stocked in this lesson because its second sub lesson is workbooks — saving, opening and closing) | South Sudan Grade 10 S2 Student, printed p. 44 |
+| Unit 3 §3.1.3 Spreadsheet Software — Excel and §3.1.4 Workbook and Worksheet (filed as NEW LESSON NEEDED — spreadsheets/workbooks-and-worksheets; stocked in this lesson because this lesson teaches getting started with Excel workbooks — the workbook and its worksheets) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 45 |
 
-**Acceptance count: taught in 3 countries (Kuwait, Laos, South Sudan).**
+**Acceptance count: taught in 4 countries (Kuwait, Laos, South Sudan, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Kuwait, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — spreadsheets/getting-started-with-excel-workbooks). It sits in the Spreadsheets title (spreadsheets/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Kuwait student book. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -25,4 +28,6 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
 
-Searchable tags: excel, workbook, getting started, save, open, close, window, spreadsheets, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, south sudan, grade 10 s2 student
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: excel, workbook, getting started, save, open, close, window, spreadsheets, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, south sudan, grade 10 s2 student, pakistan, grade 8 computer education 8

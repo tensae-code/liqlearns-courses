@@ -1,6 +1,6 @@
 # Sources — Drawing an ERD
 
-countries: Ethiopia, Libya, Malaysia, Kuwait
+countries: Ethiopia, Libya, Malaysia, Kuwait, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Libya, Malaysia, Kuwait
 
 **Book 6:** *تقنية المعلومات (Information Technology), Grade 11, Term 2* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026; ISBN: no ISBN printed. 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 7:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — an ERD is the popular visual way to draw a data model; entities as rectangles with the name inside, attributes as ellipses with the name inside, relationships as lines joining entities with the relationship name on the line | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 57–58 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Libya, Malaysia, Kuwait
 | 2.2.2 Gambar Rajah Perhubungan Entiti (ERD) | Malaysia Grade 10 SK Tingkatan 4, printed p. 222 |
 | Bab 2 Pangkalan Data Lanjutan, 2.1 Melakar ERD | Malaysia Grade 11 SK Tingkatan 5, printed p. 60 |
 | Unit 1, Lesson 1: the entity-relationship diagram (ERD) — the school classes/students/medical example with its PKs and FKs | Kuwait Grade 11 Information Technology T2, printed p. 17 |
+| Chapter 3 §3.2, the Entity-Relationship Diagram (the car Dealership–Manufacturer–Shipper ERD; ERD components and purpose) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 26 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Libya, Malaysia, Kuwait).**
+**Acceptance count: taught in 5 countries (Ethiopia, Libya, Malaysia, Kuwait, Pakistan).**
 
 Honesty: Sub lesson 3 stands on teacher-guide evidence only (the guide's solved review case study) and is labelled as such in the lesson and in the table above; the lesson as a whole still counts as taught in 1 country because Sub lessons 1–2 are pupil-taught from the student book. Guide-side wording difference, flagged as instructed: the guide's ERD symbol wording says “square” for the entity shape where the student book says “rectangle” — this lesson follows the student book's word, **rectangle**, throughout. The guide placement summarises the case's “complete attribute lists” without reproducing them item by item, so this lesson names the three entities and the three relationship rules exactly as placed and does not invent attribute lists for them.
 
@@ -40,4 +43,6 @@ Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-l
 
 Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the database course with genuinely relational work — ERDs, parent/child tables, referential actions (ON UPDATE CASCADE, ON DELETE SET NULL) switched on with PRAGMA foreign_keys — still practised on the school_data.db and Kuwait_landmarks.db examples, and the AI project grows into an employee face-log system with programmatic reports (ReportLab).
 
-Searchable tags: ERD, entity relationship diagram, rectangle, ellipse, borrows, case study, Product Customer Order, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 2
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: ERD, entity relationship diagram, rectangle, ellipse, borrows, case study, Product Customer Order, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 10 sk tingkatan 4, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 2, pakistan, grade 12 computer science 12

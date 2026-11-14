@@ -1,6 +1,6 @@
 # Sources — WAN — country- and world-sized networks
 
-countries: Ethiopia, Afghanistan, Bangladesh, South Sudan
+countries: Ethiopia, Afghanistan, Bangladesh, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Afghanistan, Bangladesh, South Sudan
 
 **Book 5:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 6:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The largest size | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 53 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Afghanistan, Bangladesh, South Sudan
 | Lesson 26 Types of networks (wide-area networks) (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 101 (teacher guide — evidence) |
 | Chapter 2, 2.5.3: Wide Area Network | Bangladesh HSC ICT, printed p. 65 |
 | 1.2.3 Wide Area Network (WAN) | South Sudan Grade 10 S2 Student, printed p. 9 |
+| Unit 1 §1.1.4 Wide Area Network (WAN) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 7 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Bangladesh, South Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Bangladesh, South Sudan, Pakistan).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -34,4 +37,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
 
-Searchable tags: WAN, wide area network, Internet, country network, Figure 2.15, Grade 9 ICT Ethiopia, afghanistan, mauritania, grade 9, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 10 s2 student
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: WAN, wide area network, Internet, country network, Figure 2.15, Grade 9 ICT Ethiopia, afghanistan, mauritania, grade 9, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 10 s2 student, pakistan, grade 8 computer education 8

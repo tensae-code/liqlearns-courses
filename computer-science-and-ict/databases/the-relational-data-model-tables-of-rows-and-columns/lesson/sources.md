@@ -1,6 +1,6 @@
 # Sources — The relational data model — tables of rows and columns
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 
 **Book 19:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 20:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the relational model represents data as two-dimensional tables called relations; each row is a record (tuple) holding one unique instance; each column is an attribute (field) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 58–59 |
@@ -55,6 +57,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | §23 Presenting data by means of tables | Armenia Grade 5 G5 student (Antares), printed p. 119 |
 | Bài 13 Cơ sở dữ liệu quan hệ §1 (Relational databases: tables, rows, columns) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 64 |
 | Bài 13 Cơ sở dữ liệu quan hệ §1 (Relational databases — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 64 |
+| Chapter 2 §2.2 Attributes, Rows and Tables and §2.3 Relation or Table (fields become columns/attributes, records become rows/tuples, files become tables; the entity; §2.3.1 properties of a relation — no duplicate rows, row and column order insignificant, atomic values) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 15 |
 
 | Sub lesson 4 — an RDBMS is software used to create, maintain and provide controlled access to a relational database; two-dimensional tables, column = field/attribute, row = record/tuple with one value per column; the student entity's attributes (id, name, age, grade level, sex) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed p. 61 |
 | Sub lesson 4 (teacher guide — evidence) — Ethiopian example sets: single field values across types (book title, email address, sales date, body temperature, weight, cost in birr, expiry date, opening hour); the patient typed fields; fields for Person, Book and Sales; one full Student record row | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 53–54 |
@@ -66,7 +69,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | 1.1.2 Data organization | South Sudan Grade 12 S4 Student, printed p. 6 |
 | 1.2 Data management, organization & format | South Sudan Grade 12 S4 Teacher, printed p. 7 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam, South Sudan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam, South Sudan, Pakistan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -102,4 +105,6 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher, pakistan, grade 12 computer science 12

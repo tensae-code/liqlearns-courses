@@ -1,6 +1,6 @@
 # Sources — Input devices — putting data in
 
-countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Greece, Armenia, Vietnam
+countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Greece, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -44,6 +44,10 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongo
 
 **Book 21:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 22:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 23:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
@@ -67,8 +71,10 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongo
 | §15 Computer input and output devices (input) | Armenia Grade 5 G5 student (Antares), printed p. 79 |
 | §9 Input and output devices (input) | Armenia Grade 8 G8 student, printed p. 71 |
 | Bài 1 Thiết bị vào – ra §1 (Input devices: keyboard, mouse, microphone, scanner) | Vietnam Grade 7 Tin học 7, printed p. 5 |
+| Unit 2 §2.2 Input Devices | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 13 |
+| Unit 1 §1.10 Peripheral Devices: input, output and storage devices | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 7 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Greece, Armenia, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Greece, Armenia, Vietnam, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -110,4 +116,8 @@ Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series
 
 Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 12 science for technology tamil, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, armenia, grade 2, grade 3, grade 5, grade 8, vietnam, grade 7 tin học 7
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 9 reading book, sri lanka, grade 12 science for technology tamil, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, armenia, grade 2, grade 3, grade 5, grade 8, vietnam, grade 7 tin học 7, pakistan, grade 6 computer science 6, grade 7 computer science 7

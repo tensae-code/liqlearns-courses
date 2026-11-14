@@ -1,6 +1,6 @@
 # Sources — SmartArt, pictures and video on slides
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, M
 
 **Book 17:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 18:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SmartArt — relationships, organisation charts, timelines; SmartArt Tools | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 130–132 |
@@ -61,8 +63,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, M
 | 2.8.1 Add a Clip from Your Computer (filed as NEW LESSON NEEDED — presentations/adding-a-video-clip-from-your-computer; stocked in this lesson because video on slides is this lesson's subject — adding a clip from your own computer) | South Sudan Grade 12 S4 Student, printed p. 86 |
 | 2.8.2 Add a Video Clip from Online (filed as NEW LESSON NEEDED — presentations/adding-an-online-video-to-powerpoint; stocked in this lesson because video on slides is this lesson's subject — adding a video clip from online) | South Sudan Grade 12 S4 Student, printed p. 87 |
 | 2.4.2 MS PowerPoint features for learners to learn (embedding and online video) | South Sudan Grade 12 S4 Teacher, printed p. 54 (teacher guide — evidence) |
+| Unit 2 §2.2.2 Adding Various Objects on the Slides (image, text, video, audio, etc.) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 27 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia, Vietnam, South Sudan).**
+**Acceptance count: taught in 13 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia, Kuwait, Laos, Moldova, Armenia, Vietnam, South Sudan, Pakistan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -96,4 +99,6 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, moldova, grade 7 informatica, armenia, grade 8, vietnam, grade 7 tin học 7, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, moldova, grade 7 informatica, armenia, grade 8, vietnam, grade 7 tin học 7, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher, pakistan, grade 7 computer science 7

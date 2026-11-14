@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia, South Sudan
+countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -68,6 +68,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 | Bab III A.2 Dampak penggunaan perkakas yang baik dan benar | Indonesia Grade 9 G9 Informatika student, printed p. 125 |
 | Bab III B.2 Perangkat lunak produktivitas | Indonesia Grade 9 G9 Informatika student, printed p. 150 |
 | Bab 3 B–C (perangkat lunak perkantoran) | Indonesia Grade 10 G10 Informatika student, printed p. 136 |
+| Unit 1 §1.3.2 Application Software | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 2 |
+| Unit 3 §3.8 Application Software kinds (entertainment, productivity, education and reference) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 39 |
 
 **Book 5:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -76,6 +78,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 **Book 7:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
 
 **Book 14:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 27:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
 | Sub lesson 5 — application software in three shapes: a single program (MS Notepad), a package of programs working together on one task, a suite of related, independent programs sharing a common user interface (the Microsoft Office Suite); LibreOffice the free alternative | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 72 |
 | Sub lesson 5 — the revision list is wider: word processing, presentation, spreadsheet, desktop publishing and database management software; a computer system is hardware plus software, application software is what the user works with directly, system software keeps the hardware working (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 39-40 |
@@ -87,7 +91,7 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 | 1.0.1 Application software | South Sudan Grade 9 S1 Student, printed p. 2 |
 | Unit 1 Application Software: Specific Learning Experiences | South Sudan Grade 9 S1 Teacher, printed p. 1 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia, South Sudan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia, South Sudan, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -131,4 +135,6 @@ South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirel
 
 South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 2, indonesia, grade 8, grade 9, grade 10, south sudan, grade 9 s1 student, grade 9 s1 teacher
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 2, indonesia, grade 8, grade 9, grade 10, south sudan, grade 9 s1 student, grade 9 s1 teacher, pakistan, grade 6 computer science 6

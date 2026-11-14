@@ -1,6 +1,6 @@
 # Sources — Parts of a browser window
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Bangladesh
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Bangladesh, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Bangladesh
 
 **Book 7:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 8:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Menu bar, address bar / URL bar (type, GO or Enter), status bar | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed pp.50–51 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Bangladesh
 | 4.1 Web Browser features: navigation, refresh, stop, home, tabs, bookmarks | Bhutan, *Literacy with ICT, Class V*, printed p. 46 |
 | Unit 2 Ch 2, the browser program's interface | Libya Grade 9 Computer, printed p. 83 |
 | Chapter 4, 4.2: the browser window, with the labelled browser figure | Bangladesh HSC ICT, printed p. 120 |
+| Unit 3, parts of the browser window and its buttons | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 47 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Bangladesh, Pakistan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -39,4 +42,6 @@ Libya's own way (Grade 9, Computer student book): the whole year is networks and
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: browser window, menu bar, address bar, URL bar, status bar, standard toolbar, workspace, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class v, libya, grade 9 computer, bangladesh, hsc ict classes xi xii and alim
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: browser window, menu bar, address bar, URL bar, status bar, standard toolbar, workspace, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class v, libya, grade 9 computer, bangladesh, hsc ict classes xi xii and alim, pakistan, grade 6 computer science 6

@@ -1,6 +1,6 @@
 # Sources — Storage devices — keeping data
 
-countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
+countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -27,6 +27,10 @@ countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri L
 
 **Book 13:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 14:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 15:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Storage devices — keeping data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 23 |
@@ -42,8 +46,10 @@ countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri L
 | Ch.1 Components: internal/external storage devices | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 7 |
 | Ch.2 Computer storage devices and capacities | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 12 |
 | Ch.1 §1.4 Storage devices | Laos Grade 8 ICT student, printed p. 10 |
+| Unit 2 §2.5.2 Hard Disk Drive (uses, advantages, disadvantages) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 21 |
+| Unit 2 §2.3.3 Storage Device (and difference between memory and storage) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 43 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Pakistan).**
 
 No book error touches this lesson's content.
 
@@ -69,4 +75,8 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
 
-Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 11 it xi, grade 7 it vii, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 8 ict student
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 11 it xi, grade 7 it vii, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 8 ict student, pakistan, grade 6 computer science 6, grade 9 computer science 9

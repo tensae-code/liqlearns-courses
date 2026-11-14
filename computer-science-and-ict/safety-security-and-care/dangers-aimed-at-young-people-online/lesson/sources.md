@@ -1,6 +1,6 @@
 # Sources — Dangers aimed at young people online
 
-countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia
+countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cyberbullying and cyber predators defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 202–203 |
@@ -40,8 +42,9 @@ countries: Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia
 | Learning Experience 4, Session 2: When we are Cyber Detectives | Bangladesh Grade 7 Digital Technology, printed p. 55 |
 | §1 Dangers of the digital world | Armenia Grade 9 G9 student, printed p. 5 |
 | Theme 9-1 The main digital dangers (§1) | Armenia Grade 9 G9 teacher, printed p. 10 (teacher guide — evidence) |
+| Unit 6 activity: the NO-GO-TELL approach to feeling unsafe online or offline | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 95 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Egypt, Fiji, Moldova, Bangladesh, Armenia, Pakistan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -63,4 +66,6 @@ Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the 
 
 Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
 
-Searchable tags: cyberbullying, cyber predators, private information, youth safety, Grade 9 ICT Ethiopia Unit 5, north macedonia, grade 10, mauritania, grade 7, egypt, grade 9, fiji, years 7-8, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, grade 7 digital technology, armenia, grade 9
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: cyberbullying, cyber predators, private information, youth safety, Grade 9 ICT Ethiopia Unit 5, north macedonia, grade 10, mauritania, grade 7, egypt, grade 9, fiji, years 7-8, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, grade 7 digital technology, armenia, grade 9, pakistan, grade 6 computer science 6

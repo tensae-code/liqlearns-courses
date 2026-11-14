@@ -1,6 +1,6 @@
 # Sources — Digital images — made of pixels
 
-countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Armenia, Vietnam
+countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -49,6 +49,8 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Gree
 
 **Book 25:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 26:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -80,8 +82,9 @@ countries: Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Gree
 | Lesson 13 Creating pictures | Armenia Grade 3 G3 student, printed p. 85 |
 | Theme 6-4 Greater possibilities: the graphics editor (for §7) | Armenia Grade 6 G6 teacher, printed p. 19 (teacher guide — evidence) |
 | Bài 6 Dữ liệu âm thanh và hình ảnh §1 (Image data: pixels, resolution, colour) | Vietnam Grade 10 Tin học 10, printed p. 28 |
+| Unit 4, Images: pixels, binary pictures and metadata | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 63 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Armenia, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Armenia, Vietnam, Pakistan).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
@@ -130,4 +133,6 @@ Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the studen
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 10 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 3, grade 6, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x, sri lanka, grade 11 tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, greece, grade 11 epal basika themata, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, moldova, grade 10 informatica, moldova, grade 11 informatica, switzerland, decodage, grades 56, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 3, grade 6, vietnam, grade 10 tin học 10, pakistan, grade 7 computer science 7

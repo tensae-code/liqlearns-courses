@@ -1,19 +1,25 @@
 # Sources — Normalisation up to 3NF
 
-countries: Malaysia, South Sudan
+countries: Malaysia, South Sudan, Pakistan
 
 **Book 1:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 **Book 2:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 **Book 3:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 4:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | 2.2.5 Proses Penormalan Data Sehingga 3NF | Malaysia Grade 10 SK Tingkatan 4, printed p. 230 |
 | 2.1 Penormalan Data 0NF hingga 3NF | Malaysia Grade 11 SK Tingkatan 5, printed p. 74 |
 | 1.6.1 Database Relations and Normalization: normalization (filed as NEW LESSON NEEDED — databases/normalisation-of-a-database; stocked in this lesson because normalisation is this lesson's whole subject — organising a database's tables up to third normal form) | South Sudan Grade 12 S4 Student, printed p. 28 |
+| Chapter 4 §4.1.2 Normalization (functional dependence and the determinant; pre-normalization checks — synonyms, homonyms, redundant information, mutually exclusive data) (filed as NEW LESSON NEEDED — databases/normalization-and-functional-dependence; stocked in this lesson because this lesson teaches normalisation step by step — functional dependence is the fault each normal form removes) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 35 |
+| Chapter 4, First Normal Form (atomic values only; worked cases — DEPARTMENT/EMPLOYEE, ITEM/ORDER with the ITEM_ORDERED link entity, and the STUDENT courses table flattened) (filed as NEW LESSON NEEDED — databases/first-normal-form-removing-repeating-groups; stocked in this lesson because this lesson teaches first normal form — atomic values, no repeating groups — as the staircase's first step) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 38 |
+| Chapter 4, Second Normal Form (insertion, deletion and modification anomalies; partial functional dependency; splitting STUDENT into STUDENT1 and COURSE) (filed as NEW LESSON NEEDED — databases/anomalies-and-second-normal-form; stocked in this lesson because this lesson teaches second normal form — no partial dependency, and the anomalies it removes — as the staircase's second step) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 42 |
+| Chapter 4, Third Normal Form (transitive dependency; splitting SALES into SALE1 and SMAN; scope of study is up to 3NF) (filed as NEW LESSON NEEDED — databases/third-normal-form-removing-transitive-dependencies; stocked in this lesson because this lesson teaches third normal form — no transitive dependency — as the staircase's third step) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 43 |
 
-**Acceptance count: taught in 2 countries (Malaysia, South Sudan).**
+**Acceptance count: taught in 3 countries (Malaysia, South Sudan, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Malaysia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — databases/normalisation-up-to-3nf). It sits in the Databases title (databases/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Malaysia student book. Duplicate catalogue records of the same book (10 records / 5 distinct books in this expansion) are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -23,4 +29,6 @@ Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-l
 
 South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
 
-Searchable tags: normalisation, 1nf, 2nf, 3nf, penormalan, databases, malaysia, grade 10 sk tingkatan 4, malaysia, grade 11 sk tingkatan 5, south sudan, grade 12 s4 student
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: normalisation, 1nf, 2nf, 3nf, penormalan, databases, malaysia, grade 10 sk tingkatan 4, malaysia, grade 11 sk tingkatan 5, south sudan, grade 12 s4 student, pakistan, grade 12 computer science 12

@@ -1,6 +1,6 @@
 # Sources — if…elif…else — a chain of choices
 
-countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam
+countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Ku
 
 **Book 17:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 18:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The chain — first true block wins | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 173–176 (student placement item 122) |
@@ -57,8 +59,9 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Ku
 | §15 The conditional operator and loops in Python (conditionals) | Armenia Grade 9 G9 student, printed p. 136 |
 | Theme 9-8 Loops and the conditional operator (§15) | Armenia Grade 9 G9 teacher, printed p. 26 (teacher guide — evidence) |
 | Bài 13 Cấu trúc rẽ nhánh (The branching structure) | Vietnam Grade 5 Tin học 5, printed p. 62 |
+| Unit 2 §2.4 Control Structures: §2.4.1 Decision Making (§2.4.1.1 if, §2.4.1.2 if-else, §2.4.1.3 short-hand if-else and if-elif-else) (filed as NEW LESSON NEEDED — programming/if-elif-else-decisions-in-python; stocked in this lesson because this lesson teaches the if-elif-else chain of choices in Python — if, if-else, short-hand if-else and the ladder) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 26 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, Pakistan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the type-puzzle key — a variable holding a string makes only the string-type comparison true (guide printed pp. 122–128). NOTE on the marks chain: the student review question asks pass at 50 or above (≥ 50); this lesson's chain follows the student wording (Satisfactory from 50). The teacher guide's keyed review program uses mark > 50 — a guide fault, flagged fully in the breakpoints/debugging lesson's sources and NOT followed here. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -92,4 +95,6 @@ Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard the
 
 Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
 
-Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 9, vietnam, grade 5 tin học 5
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: elif, chain of choices, type(), grade chain, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, iraq, grade 8, egypt, grade 10, grade 8, fiji, year 13, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 9, vietnam, grade 5 tin học 5, pakistan, grade 11 computer science and entrepreneurship 11

@@ -1,6 +1,6 @@
 # Sources — Moving a file
 
-countries: Ethiopia, Saudi Arabia, Vietnam
+countries: Ethiopia, Saudi Arabia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Saudi Arabia, Vietnam
 
 **Book 5:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Cut and paste | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2.8, printed pp. 18–20 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Saudi Arabia, Vietnam
 | Lesson 16: Moving files and folders to and from storage units (copy/cut/paste between the computer and a flash-memory stick, practical) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 110 |
 | U.D.4 Séance 4 Déplacer et supprimer des dossiers et des fichiers (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 30 (teacher guide — evidence) |
 | Bài 5 Thao tác với tệp và thư mục (Working operations with files and folders) | Vietnam Grade 4 Tin học 4, printed p. 22 |
+| Unit 3 §3.7.7 Cut and Paste to another folder/location (with drag and drop, from the unit outcomes) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 38 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Vietnam).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Vietnam, Pakistan).**
 
 Section numbering note, for the record: moving is §1.2.8 in the student book — the section Practical Exercise 1.5 wrongly points to for copying. Copying is §1.2.4 and is taught in Copying a file. No content error touches the moving steps themselves. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -33,4 +36,6 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
 
-Searchable tags: move file, cut and paste, Ctrl+X, Ctrl+V, clipboard, drag and drop, Move here, Move to Folder, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 3, morocco, grade 1, vietnam, grade 4 tin học 4
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: move file, cut and paste, Ctrl+X, Ctrl+V, clipboard, drag and drop, Move here, Move to Folder, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 3, morocco, grade 1, vietnam, grade 4 tin học 4, pakistan, grade 6 computer science 6

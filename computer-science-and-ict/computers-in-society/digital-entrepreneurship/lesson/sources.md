@@ -1,0 +1,26 @@
+# Sources — Digital Entrepreneurship
+
+countries: Pakistan
+
+**Book 1:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Jahanzaib Khan; printed November 2022 (Experimental Edition); no ISBN printed on cover pages. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Link-pass re-reading of the same Grade 6 book (read from the staging record's Google Drive link; byte size 26,828,517 matched the record exactly; image-only scan — read via the printed contents, every unit opener with its Student Learning Outcomes, and body pages rendered from the PDF). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. (link-pass re-reading — extra beyond the 595 counted placements)
+
+**Book 2:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Jahanzaib Khan; 2022 (Experimental Edition); no ISBN printed on cover pages. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Link-pass re-reading of the same Grade 7 book (byte size 26,596,567 matched the record exactly; image-only scan — read via printed contents, unit openers with SLOs, and rendered body pages). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. (link-pass re-reading — extra beyond the 595 counted placements)
+
+**Book 3:** *Computer Science 11 — based on the Updated/Revised National Curriculum of Pakistan 2023, approved by PECTAA (Punjab Education, Curriculum, Training and Assessment Authority)* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; authors Prof. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry (Experimental Edition); year 2023 curriculum; no ISBN printed on cover pages. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Link-pass re-reading of the same Grade 11 book (byte size 45,606,116 matched the record exactly; image-only scan — read via printed contents, every unit opener with SLOs, and rendered body pages of Unit 1). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. (link-pass re-reading — extra beyond the 595 counted placements)
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7 (Entrepreneurship in Digital Age): what an entrepreneur is; traditional vs digital entrepreneurship | Pakistan Grade 6 Computer Science, printed p. 96 |
+| Unit 6 (Entrepreneurship in Digital Age): the business plan, digital marketing, SEO and social media | Pakistan Grade 7 Computer Science, printed p. 96 |
+| Unit 9 (Entrepreneurship in Digital Age): design thinking, the business plan, the pitch, marketing and sales strategies | Pakistan Grade 11 Computer Science, printed p. 125 |
+
+**Acceptance count: taught in 1 country (Pakistan).**
+
+Placement choice: this lesson was built new for the ICT expansion (Pakistan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — computers-in-society/digital-entrepreneurship). It sits in the Computers in Society title (computers-in-society/), following the book's own order. The placements stocked here come from the link-pass re-readings of the same books and are extras beyond the 595 counted placements. Provenance scope note: the placements stocked here are from Pakistan (Punjab)'s Punjab Curriculum and Textbook Board (PCTB) books — the SNC 2022 series for Grades 6–7 ("One Nation, One Curriculum"), the older National-Curriculum-2006 Grade 8 book, the pre-SNC Grade 9 "Computer Science & IT" book (the record's "SNC" label does not match the held edition — carried as filed), the Urdu-medium Grade 10 C course, the 2023-curriculum Grade 11 "Computer Science and Entrepreneurship" book (PECTAA), and the 2016-17 Grade 12 book — all student books, cited as Pakistan (Punjab); there are no teacher guides in this country. The books are recorded as pushed but no secured copy is retrievable from GitHub (library debt, carried as filed); each was read from its record's Drive source, byte size matching the record exactly. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
+
+
+Pakistan's own way (Grade 6 Computer Science 6 (link pass)): the SNC series gives every grade the same spine — fundamentals, skills, algorithmic thinking/programming, digital citizenship, and a full unit on Entrepreneurship in the Digital Age from Grade 6 up.
+
+Pakistan's own way (Grade 11 Computer Science 11 (link pass)): Grade 11 opens with a full software-engineering unit — SDLC, Waterfall vs Agile, project planning, UML diagrams and design patterns — before Python, then goes on to computational structures, data analytics, cloud and blockchain.
+
+Searchable tags: digital entrepreneurship, computers in society, pakistan, grade 6 computer science 6 (link pass), grade 7 computer science 7 (link pass), grade 11 computer science 11 (link pass)

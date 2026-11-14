@@ -1,6 +1,6 @@
 # Sources — Inserting pictures and screenshots
 
-countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia, Vietnam
+countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldov
 
 **Book 17:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 18:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — illustrations and what can be done to them; embedded objects; the insertion route in order; the Green Legacy worked document | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 93–94 |
@@ -57,8 +59,9 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldov
 | Bài 6 Định dạng kí tự và bố trí hình ảnh trong văn bản §2 (Arranging pictures inside a text) | Vietnam Grade 5 Tin học 5, printed p. 29 |
 | Chuyên đề 1, Bài 2 Trình bày văn bản với định dạng ảnh nâng cao (Presenting a text with advanced picture formatting) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 11 |
 | Insert menu features: pictures, shapes, clip art and SmartArt | South Sudan Grade 12 S4 Teacher, printed p. 29 (teacher guide — evidence) |
+| Unit 2 §2.1.7 Insert, Resize and Add Text in Images in the Document: inserting | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 21 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia, Vietnam, Pakistan).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -93,4 +96,6 @@ Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole 
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil, moldova, grade 8 informatica, jordan, grade 4 digital skills teacher guide, grade 6 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 4, vietnam, grade 5 tin học 5, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 12 s4 teacher
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil, moldova, grade 8 informatica, jordan, grade 4 digital skills teacher guide, grade 6 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 4, vietnam, grade 5 tin học 5, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 12 s4 teacher, pakistan, grade 7 computer science 7

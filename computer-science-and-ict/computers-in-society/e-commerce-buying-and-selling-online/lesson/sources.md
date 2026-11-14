@@ -1,6 +1,6 @@
 # Sources — E-commerce — buying and selling online
 
-countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -33,6 +33,10 @@ countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, L
 
 **Book 16:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 17:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 18:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How a transaction flows | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 16–18 (student placement item 13) |
@@ -52,8 +56,10 @@ countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, L
 | Chapter 1, 1.1.8: Business — e-commerce and how it changed buying and selling | Bangladesh HSC ICT, printed p. 9 |
 | computer applications in e-shopping and e-marketing | Jordan Grade 11 G11T1 Student, printed p. 180 |
 | Bab 5 C. Peran informatika pada bidang ekonomi: manfaat positif dan dampak negatif | Indonesia Grade 12 G12 Informatika student, printed p. 160 |
+| Unit 7, Differences in Traditional Business and Digital Business (with e-commerce comparison tables) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 100 |
+| Unit 5 §5.3.2 Uses of Internet in E-commerce | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 85 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia, Pakistan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -83,4 +89,8 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12, pakistan, grade 6 computer science 6, grade 7 computer science 7

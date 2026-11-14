@@ -1,6 +1,6 @@
 # Sources — Intellectual property — owning a creative work
 
-countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh, Jordan, Indonesia, South Sudan
+countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh, Jordan, Indonesia, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bang
 
 **Book 16:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
+**Book 17:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What intellectual property is — in Ethiopian law | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 14 (student placement item 17) |
@@ -53,8 +55,9 @@ countries: Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bang
 | Sample lesson plan: §3 Rights of authors and users | Armenia Grade 6 G6 teacher, printed p. 58 (teacher guide — evidence) |
 | Bab 2 B. Hak Kekayaan Intelektual (HAKI) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 104 |
 | Intellectual property rights (within 3.3.2) | South Sudan Grade 11 S3 Student, printed p. 81 |
+| Unit 8 §8.4 Understanding Intellectual Property: §8.4.1 Types of Intellectual Property (patents — a Pakistani solar-panel invention; trademarks — National Foods; copyrights; industrial designs; trade secrets — the Pakola recipe), §8.4.2 Importance and §8.4.3 How to Protect Your Intellectual Property (IPO Pakistan) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 119 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh, Jordan, Indonesia, South Sudan).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Egypt, Libya, Mongolia, Laos, Greece, Bangladesh, Jordan, Indonesia, South Sudan, Pakistan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -86,4 +89,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 tu
 
 South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
 
-Searchable tags: intellectual property, Proclamation 320/2003, trade secrets, patents, copyright, trademarks, Ethiopia Grade 12 IT, north macedonia, grade 10, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 10, south sudan, grade 11 s3 student
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: intellectual property, Proclamation 320/2003, trade secrets, patents, copyright, trademarks, Ethiopia Grade 12 IT, north macedonia, grade 10, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 10, south sudan, grade 11 s3 student, pakistan, grade 11 computer science and entrepreneurship 11

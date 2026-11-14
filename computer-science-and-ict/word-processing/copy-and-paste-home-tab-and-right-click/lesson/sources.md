@@ -1,6 +1,6 @@
 # Sources — Copy and paste — Home tab and right-click ways
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan
+countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan
 
 **Book 10:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 11:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — copy and paste by the Home tab: select, Copy, place cursor, Paste | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 47–48 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan
 | Capítulo 2.7 Muevo y copio imágenes | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 73 |
 | Unit 2.4 Copy and paste text and images within and between documents | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 62 |
 | 2.6 Editing Texts (copy and paste) | Bhutan, *Literacy with ICT, Class V*, printed p. 23 |
+| Unit 2 §2.1.8 Cut, Copy, and Paste Text/Image into a Document | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 22 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Saudi Arabia, Cuba, Fiji, Bhutan, Pakistan).**
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
@@ -57,4 +60,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4, morocco, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class v
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: copy and paste, Home tab, right-click, select text, clipboard, Ethiopia Grade 8, afghanistan, saudi arabia, grade 3, grade 4, morocco, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class v, pakistan, grade 7 computer science 7

@@ -1,6 +1,6 @@
 # Sources — One-to-one, one-to-many, many-to-many
 
-countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan
+countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan
 
 **Book 10:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 11:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — one-to-one: one instance links to exactly one instance on the other side (a country and its capital city) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 56–57 |
@@ -32,13 +34,14 @@ countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan
 | Unit 1, Lesson 1: the three types of relationship, one-to-many in depth | Kuwait Grade 11 Information Technology T2, printed p. 17 |
 | Ch.2 §4 Relationships between tables (one to one, one to many) | Laos Grade 11 ICT student, printed p. 54 |
 | Chapter 6, 6.2.3: relation between tables — one-to-one, one-to-many and many-to-many | Bangladesh HSC ICT, printed p. 195 |
+| Chapter 3 §3.2, Cardinality and Modality (one-to-one, one-to-many, many-to-many, recursive, none; modality optional 0 / mandatory 1 — the workshop Customer and Repair Action example) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 25 |
 
 | Sub lesson 4 — creating relationships graphically: Database Tools tab → Relationships group → Relationships; Show Table pop-up: add tables/queries, Close; drag a field (typically the primary key) onto the common field (the foreign key), Ctrl to drag several fields | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 76–77 |
 | Sub lesson 4 — relationships are one-to-one, one-to-many or many-to-many; the diagram marks the one side “1” and the many side “∞” (Department to Teacher one-to-many); linked tables share a common key item with matching PK/FK data types; no data before relationships are set up | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 76–77 |
 | 4.1.4 Kekardinalan antara Entiti dalam Hubungan | Malaysia Grade 9 ASK Tingkatan 3, printed p. 124 |
 | 1.6.1 Database Relations and Normalization: relations | South Sudan Grade 12 S4 Student, printed p. 28 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan, Pakistan).**
 
 Honesty: all parts are pupil-taught from the student book. Book error named: in the student book, the one-to-one relationship text cites Figure 3.8 where the figure's caption is 3.7 — the lesson teaches the relationship from the text and never relies on the figure number, and sources name the mismatch here so no one hunts for a Figure 3.8 that the book captions as 3.7.
 
@@ -60,4 +63,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
 
-Searchable tags: one-to-one, one-to-many, many-to-many, relationship types, cardinality, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, kuwait, grade 11 information technology term 1, grade 11 information technology term 2, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 12 s4 student
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: one-to-one, one-to-many, many-to-many, relationship types, cardinality, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, kuwait, grade 11 information technology term 1, grade 11 information technology term 2, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 12 s4 student, pakistan, grade 12 computer science 12

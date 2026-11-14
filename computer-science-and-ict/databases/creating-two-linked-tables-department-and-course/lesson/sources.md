@@ -1,6 +1,6 @@
 # Sources — Creating two linked tables — DEPARTMENT and COURSE
 
-countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam
+countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam
 
 **Book 7:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 8:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — DEPARTMENT created: D_Name, D_Number as primary key, D_Location | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 71–72 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam
 | Ch 8, creating, deleting and changing a table relationship | Libya Grade 10 IT student, printed p. 96 |
 | Unit 1, Lesson 2 Creating Related Tables: the parent and child tables and the FOREIGN KEY constraint in SQLite (the landmarks and regions tables) | Kuwait Grade 11 Information Technology T2, printed p. 27 |
 | Bài 22 Thực hành cập nhật bảng dữ liệu có tham chiếu (Practical: updating data with references between tables) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 105 |
+| Chapter 6 §6.6 Table Relationships (the Relationships window; referential integrity in Access; cascade update and cascade delete; relationships and joins; subdatasheets) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 79 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam).**
+**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakistan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -45,4 +48,6 @@ Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the 
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2, vietnam, grade 11 tin học 11 tin học ứng dụng
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2, vietnam, grade 11 tin học 11 tin học ứng dụng, pakistan, grade 12 computer science 12

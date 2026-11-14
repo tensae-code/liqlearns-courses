@@ -1,6 +1,6 @@
 # Sources — Formatting cells — fonts and emphasis
 
-countries: Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos, Greece, Vietnam
+countries: Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos, Greece, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos, Greece, Vietnam
 
 **Book 11:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 12:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — cells start in Calibri; the title cell worked through font (live preview), size (dropdown / Increase–Decrease / typed), Font Color, and Bold/Italic/Underline with Ctrl+B, Ctrl+I, Ctrl+U | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 117–119 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos, Greece, Vietnam
 | Ch.6 §6.2/6.4 Changing fonts; changing font colour and fill colour | Laos Grade 9 ICT student, printed p. 76 |
 | Unit 3 Formatting data and cells, borders and background | Greece Grade 8 Pliroforiki B, printed p. 34 |
 | Bài 9 Trình bày bảng tính (Presenting a spreadsheet: formatting and printing) | Vietnam Grade 7 Tin học 7, printed p. 45 |
+| Unit 3, Formatting Text (change font, font size, font style, font colour) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 67 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos, Greece, Vietnam).**
+**Acceptance count: taught in 9 countries (Ethiopia, Yemen, Iraq, Libya, Rwanda, Laos, Greece, Vietnam, Pakistan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -59,4 +62,6 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
 
-Searchable tags: formatting cells, font, font size, Font Color, Bold Italic Underline, Ctrl+B, Calibri, Ethiopia Grade 10, yemen, grade 11, mauritania, grade 8, iraq, grade 11, libya, grade 8 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, vietnam, grade 7 tin học 7
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: formatting cells, font, font size, Font Color, Bold Italic Underline, Ctrl+B, Calibri, Ethiopia Grade 10, yemen, grade 11, mauritania, grade 8, iraq, grade 11, libya, grade 8 computer, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, vietnam, grade 7 tin học 7, pakistan, grade 8 computer education 8

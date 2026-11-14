@@ -1,6 +1,6 @@
 # Sources — Reports from a Database in Access
 
-countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova
+countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova, Pakistan
 
 **Book 1:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
@@ -20,6 +20,8 @@ countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova
 
 **Book 9:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 10:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | § 15 "Стварэнне справаздач" (creating reports) | Belarus, *Інфарматыка. 11 клас*, § 15, printed p. 131 |
@@ -31,8 +33,9 @@ countries: Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova
 | 4.5 Preparing database reports (the Report Wizard; grouping records by school) (filed as NEW LESSON NEEDED — databases/making-a-report-in-access; stocked in this lesson because this lesson teaches creating Access reports — grouped and printed — as its own lesson) | Mongolia Grade 10 IT X, printed p. 140 |
 | Ch.2 §9 Creating a report (Report) (filed as NEW LESSON NEEDED — databases/creating-a-report-in-access; stocked in this lesson because this lesson teaches creating a report in Access — choosing source records, fields, grouping, order and layout — the same thing Laos's section teaches) | Laos Grade 11 ICT student, printed p. 94 |
 | 4.14 Rapoarte (filed as NEW LESSON NEEDED — databases/reports-in-access; stocked in this lesson because this lesson teaches reports in Access — reports from a database — the reports of Moldova's section) | Moldova Grade 12 Informatică, printed p. 177 |
+| Chapter 7 §7.7 Reports (uses of reports; columnar and tabular reports; the Report Wizard — grouping, sorting, layout, style; reports in Design View; printing reports with Page Setup) (filed as NEW LESSON NEEDED — databases/reports-in-access; stocked in this lesson because this lesson teaches reports from a database in Access — the Report Wizard's grouped, sorted, styled output among them) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 118 |
 
-**Acceptance count: taught in 7 countries (Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova).**
+**Acceptance count: taught in 8 countries (Belarus, Sudan, Libya, Malaysia, Mongolia, Laos, Moldova, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Belarus, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Databases title (databases/), following the book's own order.
 
@@ -54,4 +57,6 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
 
-Searchable tags: access, report, grouping, totals, print, database, belarus, grade 11, sudan, grade 7, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student, moldova, grade 12 informatica
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: access, report, grouping, totals, print, database, belarus, grade 11, sudan, grade 7, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student, moldova, grade 12 informatica, pakistan, grade 12 computer science 12

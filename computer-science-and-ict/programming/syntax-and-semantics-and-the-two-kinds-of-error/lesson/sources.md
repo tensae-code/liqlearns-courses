@@ -1,6 +1,6 @@
 # Sources - Syntax and semantics - and the two kinds of error
 
-countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece, Armenia, Vietnam
+countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece, Armenia, Vietnam
 
 **Book 12:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 13:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 14:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Syntax (rules, structure/grammar, strictly followed) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed p. 134 |
@@ -44,8 +48,10 @@ countries: Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece, Armenia, Vietnam
 | Theme 8-13 Types of algorithms, errors and comments (§16–§18) | Armenia Grade 8 G8 teacher, printed p. 30 (teacher guide — evidence) |
 | Lesson 15 Errors and their types (Theme 13) | Armenia Grade 11 G11 student, printed p. 101 |
 | Bài 29 Nhận biết lỗi chương trình (Recognising program errors) | Vietnam Grade 10 Tin học 10, printed p. 141 |
+| Unit 5, Syntax Error and Logical Error | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 69 |
+| Unit 5 §5.1.3 Syntax and Logical Errors | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 108 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece, Armenia, Vietnam).**
+**Acceptance count: taught in 9 countries (Ethiopia, Sudan, Libya, Malaysia, Kuwait, Greece, Armenia, Vietnam, Pakistan).**
 
 No book error touches this lesson. One spelling note carried for the whole unit: the student book misspells "statement" as "statment" in its review headings throughout; this course teaches and writes "statement", and the misspelling is named here rather than copied. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -69,4 +75,8 @@ Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Za
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: syntax, semantics, syntax error, logic error, Grade 11 ICT Ethiopia, Unit 6 programming, sudan, grade 9, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, greece, grade 12 pliroforiki supplementary material, armenia, grade 8, grade 11, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: syntax, semantics, syntax error, logic error, Grade 11 ICT Ethiopia, Unit 6 programming, sudan, grade 9, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, greece, grade 12 pliroforiki supplementary material, armenia, grade 8, grade 11, vietnam, grade 10 tin học 10, pakistan, grade 6 computer science 6, grade 8 computer education 8

@@ -1,6 +1,6 @@
 # Sources — Search and Sort Algorithms
 
-countries: Malaysia, Greece, Armenia, Indonesia
+countries: Malaysia, Greece, Armenia, Indonesia, Pakistan
 
 **Book 1:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
@@ -12,6 +12,8 @@ countries: Malaysia, Greece, Armenia, Indonesia
 
 **Book 5:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 6:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bab 3 Algoritma, 3.1.1 Ciri-ciri Search dan Sort | Malaysia Grade 9 ASK Tingkatan 3, printed p. 62 |
@@ -20,8 +22,10 @@ countries: Malaysia, Greece, Armenia, Indonesia
 | Bab 2 C. Memilih algoritma untuk masalah nyata: pencarian (searching) (filed as programming/searching-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 80 |
 | Bab 2 C. Memilih algoritma untuk masalah nyata: pengurutan (sorting) (filed as programming/sorting-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 84 |
 | Bab 3 B.1 Berpikir komputasional untuk aktivitas aturan mencari kata (search, simbol ? dan *) (filed as programming/searching-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 12 G12 Informatika student, printed p. 59 |
+| Unit 3 §3.6 Commonly Used Algorithms: §3.6.1 Sorting Algorithms (§3.6.1.1 Bubble Sort; §3.6.1.2 Selection Sort) (filed as NEW LESSON NEEDED — programming/sorting-algorithms-bubble-and-selection-sort; stocked in this lesson because this lesson teaches the search and sort algorithms — bubble sort and selection sort among its sorts) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 50 |
+| Unit 3 §3.6.2 Search Algorithms (§3.6.2.1 Linear Search — finding Islamabad in a list of Pakistani cities; §3.6.2.2 Binary Search) (filed as NEW LESSON NEEDED — programming/searching-linear-search-and-binary-search; stocked in this lesson because this lesson teaches the search and sort algorithms — linear search and binary search among its searches) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 51 |
 
-**Acceptance count: taught in 4 countries (Malaysia, Greece, Armenia, Indonesia).**
+**Acceptance count: taught in 5 countries (Malaysia, Greece, Armenia, Indonesia, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Malaysia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/search-and-sort-algorithms). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Malaysia student book. Duplicate catalogue records of the same book (10 records / 5 distinct books in this expansion) are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -35,4 +39,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: search algorithms, sort algorithms, characteristics, programming, malaysia, grade 9 ask tingkatan 3, greece, grade 12 anaptyxi efarmogon aepp glossa, armenia, grade 11, indonesia, grade 10, grade 12
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: search algorithms, sort algorithms, characteristics, programming, malaysia, grade 9 ask tingkatan 3, greece, grade 12 anaptyxi efarmogon aepp glossa, armenia, grade 11, indonesia, grade 10, grade 12, pakistan, grade 11 computer science and entrepreneurship 11

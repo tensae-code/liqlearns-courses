@@ -1,6 +1,6 @@
 # Sources — Confidentiality, integrity, availability — the CIA triad
 
-countries: Ethiopia, Mongolia, Kuwait, Jordan
+countries: Ethiopia, Mongolia, Kuwait, Jordan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Mongolia, Kuwait, Jordan
 
 **Book 7:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 8:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 9:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CIA triad defined and drawn as a triangle | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 194–195 |
@@ -24,10 +28,12 @@ countries: Ethiopia, Mongolia, Kuwait, Jordan
 | 1.1.5 Information security and protection (availability, integrity, confidentiality; physical and logical protection; fingerprint and voice recognition) | Mongolia Grade 9 IT IX, printed p. 9 |
 | Unit 1, Theme 2: the main pillars of information security and cyber security — the CIA model | Kuwait Grade 10 Information Technology T1, printed p. 15 |
 | Lesson 1: the three pillars of information security (confidentiality, integrity, availability) | Jordan Grade 9 G9T2 Student, printed p. 16 |
+| Unit 5 §5.10 How to Secure Information Privacy and Confidentiality | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 88 |
+| Unit 4 §4.2.2 Analysing the Personal Privacy and Security Concerns that Arise with any use of Computational Systems (confidentiality, integrity, availability) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 80 |
 
 | Nine habits against cyber-attack; who to call; the triad as the protection aim (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 198–200 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Kuwait, Jordan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Kuwait, Jordan, Pakistan).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -39,4 +45,8 @@ Kuwait's own way (Grade 10 Information Technology Term 1): secondary school swit
 
 Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
 
-Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix, kuwait, grade 10 information technology term 1, jordan, grade 9 term 2 digital skills
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: CIA triad, confidentiality, integrity, availability, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 7, mongolia, grade 9 it ix, kuwait, grade 10 information technology term 1, jordan, grade 9 term 2 digital skills, pakistan, grade 7 computer science 7, grade 9 computer science 9

@@ -1,6 +1,6 @@
 # Sources — Data communication — delivery, accuracy, timeliness, jitter
 
-countries: Ethiopia, Fiji, Laos, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Fiji, Laos, Bangladesh, Jordan, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Fiji, Laos, Bangladesh, Jordan, Indonesia
 
 **Book 9:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 10:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What data communication is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 68–69; Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 2, printed pp. 41–43 (guide placement item 15) (teacher guide — evidence) |
@@ -32,8 +34,9 @@ countries: Ethiopia, Fiji, Laos, Bangladesh, Jordan, Indonesia
 | Unit 2 Lesson plan 4: Communication Using Networks (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 101 (teacher guide — evidence) |
 | Bab V A.3 Transmisi data: media transmisi, paket data, struktur paket, packet switching, transmisi digital dan analog | Indonesia Grade 11 G11 Informatika student, printed p. 220 |
 | Bab 4 G. Mekanisme pertukaran data: komunikasi data, media transmisi kabel dan nirkabel | Indonesia Grade 12 G12 Informatika student, printed p. 112 |
+| Unit 3 §3.3 Basics of Data Communication | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 60 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Laos, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Laos, Bangladesh, Jordan, Indonesia, Pakistan).**
 
 Book error taught corrected, as the placements direct: in the student book this topic is filed as subsections 2.6.3–2.6.5 UNDER 'Satellite Networks', although it is a separate topic — the teacher guide itself promotes it to its own §2.7. This lesson teaches data communication as its own topic, following the guide's structure, and flags the student book's filing here.
 
@@ -53,4 +56,6 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is th
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: data communication, delivery, accuracy, timeliness, jitter, protocol, components, Grade 10 ICT Ethiopia, fiji, year 12, laos, grade 8 ict student, bangladesh, grade 8 digital technology, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, indonesia, grade 11, grade 12
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: data communication, delivery, accuracy, timeliness, jitter, protocol, components, Grade 10 ICT Ethiopia, fiji, year 12, laos, grade 8 ict student, bangladesh, grade 8 digital technology, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, indonesia, grade 11, grade 12, pakistan, grade 9 computer science 9

@@ -1,6 +1,6 @@
 # Sources — Copyright — automatic protection for original works
 
-countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan
+countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 
 **Book 19:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
+**Book 20:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 21:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What copyright protects | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 16 (student placement item 20) |
@@ -62,8 +66,10 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 | Bài 5 Bản quyền nội dung thông tin (Copyright of information content) | Vietnam Grade 5 Tin học 5, printed p. 24 |
 | Bài 11 Ứng xử trên môi trường số §2 (The duty to respect copyright) | Vietnam Grade 10 Tin học 10, printed p. 55 |
 | Legal issues in blogs — Copyright Legal Issues | South Sudan Grade 11 S3 Student, printed p. 22 |
+| Unit 6 §6.4 Copyright | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 89 |
+| Unit 5 §5.4 Copyright | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 86 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan).**
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan, Pakistan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -99,4 +105,8 @@ Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book 
 
 South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
 
-Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7, indonesia, grade 10, grade 10, grade 10, vietnam, grade 5 tin học 5, grade 10 tin học 10, south sudan, grade 11 s3 student
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7, indonesia, grade 10, grade 10, grade 10, vietnam, grade 5 tin học 5, grade 10 tin học 10, south sudan, grade 11 s3 student, pakistan, grade 6 computer science 6, grade 7 computer science 7

@@ -1,6 +1,6 @@
 # Sources — Loops — and the for loop over a sequence
 
-countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh, Armenia
+countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -44,6 +44,8 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Liby
 
 **Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 12 (Digital Literacy and Computer Science, Grade 12 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-289-1. Grade 12 (student book). 88 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 22:** *Computer Science 10* (student book, Urdu) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; Experimental Edition, printed December 2020; no ISBN printed. Grade 10 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. NOTE: the file held for this record is the URDU-medium edition of the PCTB Grade 10 book (Urdu explanations; code, keywords and technical terms in English) — the record itself does not distinguish medium — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Why loops exist — 50 students, one grading block | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 178–179 (student placement item 124) |
@@ -68,8 +70,9 @@ countries: Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Liby
 | §13 Working with loops | Armenia Grade 8 G8 student, printed p. 102 |
 | §15 The conditional operator and loops in Python (loops) | Armenia Grade 9 G9 student, printed p. 136 |
 | Lesson 5 Cyclic algorithms | Armenia Grade 12 G12 student, printed p. 34 |
+| Unit 4 §4.2 Loop Structure: §4.2.1 General Structure of Loops and §4.2.2 General Syntax of for Loop (flowchart; printing "Pakistan" three times; numbers 1 to 10; factorial with an iteration trace table) | Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 83 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh, Armenia).**
+**Acceptance count: taught in 14 countries (Ethiopia, North Macedonia, Iraq, Sudan, Uzbekistan, Egypt, Fiji, Libya, Malaysia, Mongolia, Sri Lanka, Bangladesh, Armenia, Pakistan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 1: counting introduced as the real-world looping problem — start at 1, add 1, repeat until 100 (guide printed pp. 134–139). All code shapes in this lesson were checked in Python 3. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -112,4 +115,6 @@ Armenia's own way (Armenia Grade 9 G9 student): Grade 9 turns to making for the 
 
 Armenia's own way (Armenia Grade 12 G12 student): The final school year (Stepanyan, Torosyan, Amirkhanyan, Matinyan) is a single-subject book: programming in JavaScript with HTML — built-in functions, variables, data types, branching and cyclic algorithms, arrays, objects — closing with software testing (concepts, stages, levels, methods and types) and a reference section on JavaScript array methods.
 
-Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13, libya, grade 11 it student term 1, malaysia, grade 7 ask tingkatan 1, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, bangladesh, hsc ict classes xi xii and alim, armenia, grade 4, grade 7, grade 8, grade 9, grade 12
+
+Pakistan's own way (Grade 10 Computer Science 10): Grade 10 is a complete first course in C, taught in Code::Blocks: environment and program structure first, then user interaction (printf/scanf), conditional logic, data and repetition (arrays and for-loops), and functions — every idea carried by short English example programs with Urdu explanation, and each unit closing with Programming Time practice (salary, electricity-bill and discount programs from Pakistani everyday life).
+Searchable tags: loops, for loop, iteration, sequence, temporary variable, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 11, uzbekistan, grade 9, egypt, grade 8, fiji, year 12, year 13, libya, grade 11 it student term 1, malaysia, grade 7 ask tingkatan 1, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, bangladesh, hsc ict classes xi xii and alim, armenia, grade 4, grade 7, grade 8, grade 9, grade 12, pakistan, grade 10 computer science 10

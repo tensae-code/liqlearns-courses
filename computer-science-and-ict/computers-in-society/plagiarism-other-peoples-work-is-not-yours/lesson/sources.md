@@ -1,6 +1,6 @@
 # Sources — Plagiarism — other people's work is not yours
 
-countries: Ethiopia, Bhutan, Bangladesh, Indonesia
+countries: Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Bhutan, Bangladesh, Indonesia
 
 **Book 5:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 7:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What plagiarism is — and what it costs | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 7 (student placement item 11) |
@@ -21,8 +25,10 @@ countries: Ethiopia, Bhutan, Bangladesh, Indonesia
 | 6.2 Citing Online Sources (how to cite) (filed as NEW LESSON NEEDED — internet-and-the-web/citing-online-sources; stocked in this lesson because this lesson teaches crediting the original author in an in-text citation and a reference list as part of not passing off other people's work) | Bhutan, *Literacy with ICT, Class VI*, printed p. 96 |
 | Chapter 1, 1.4: plagiarism — what it is and why it is illegal | Bangladesh HSC ICT, printed p. 30 |
 | Bab 2 B (pelanggaran HAKI dan plagiarisme) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 120 |
+| Unit 6 §6.5 Plagiarism and §6.5.1 its types (global, paraphrasing, patchwork, self) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 89 |
+| Unit 5 §5.5 Plagiarism and types of plagiarism (global, paraphrasing, patchwork, self-plagiarism) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 86 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Bangladesh, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -32,4 +38,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: plagiarism, acknowledgement, citation, reference list, plagiarism checker, 21st-century skills, Ethiopia Grade 12 IT, bhutan, class vi, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 10
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: plagiarism, acknowledgement, citation, reference list, plagiarism checker, 21st-century skills, Ethiopia Grade 12 IT, bhutan, class vi, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 10, pakistan, grade 6 computer science 6, grade 7 computer science 7

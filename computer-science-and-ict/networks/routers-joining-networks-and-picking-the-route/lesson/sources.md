@@ -1,6 +1,6 @@
 # Sources — Routers — joining networks and picking the route
 
-countries: Ethiopia, Bangladesh, Armenia, Vietnam
+countries: Ethiopia, Bangladesh, Armenia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bangladesh, Armenia, Vietnam
 
 **Book 5:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
+**Book 6:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Routing — finding the best path | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 41–42 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Bangladesh, Armenia, Vietnam
 | 3.3 Network devices | Armenia Grade 7 G7 student, printed p. 52 |
 | Bài 3 Một số thiết bị mạng thông dụng §2 (Common network devices: routers, modems, access points) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 14 |
 | Bài 3 Một số thiết bị mạng thông dụng §2 (Routers, modems, access points — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 14 |
+| Unit 3 §3.7 Routing (§3.7.1 Understand a Router; §3.7.2 Routing in the Internet; §3.7.3 Routing Process and the routing table) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 68 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Armenia, Vietnam).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bangladesh, Armenia, Vietnam, Pakistan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -33,4 +36,6 @@ Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year
 
 Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
 
-Searchable tags: router, routing, routing table, best path, Grade 9 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: router, routing, routing table, best path, Grade 9 ICT Ethiopia, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, pakistan, grade 9 computer science 9

@@ -1,6 +1,6 @@
 # Sources — What ICT is
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos, Armenia, Indonesia
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos, Armenia, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 
 **Book 22:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 23:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The road map of this course, and its brainstorm-first rhythm | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 1–2 (placement item 1: printed pp. II, 1 and unit openings throughout; item 2: printed p. 2) |
@@ -71,8 +73,9 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 | 1.1 Welcome to the computer world | Armenia Grade 7 G7 student, printed p. 6 |
 | Bab 1 A. Informatika: ilmu lintas bidang tentang sistem komputasi | Indonesia Grade 12 G12 Informatika student, printed p. 4 |
 | Panduan Khusus Bab 5: panduan pembelajaran perkakas TIK (pengertian TIK dan sistem komputer) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 190 (teacher guide — evidence) |
+| Unit 1 §1.1 Information and Communication Technology (ICT) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 1 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos, Armenia, Indonesia).**
+**Acceptance count: taught in 16 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda, Laos, Armenia, Indonesia, Pakistan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -104,4 +107,6 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
 
-Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 6 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34, armenia, grade 7, indonesia, grade 12, grade 7
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 6 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34, armenia, grade 7, indonesia, grade 12, grade 7, pakistan, grade 6 computer science 6

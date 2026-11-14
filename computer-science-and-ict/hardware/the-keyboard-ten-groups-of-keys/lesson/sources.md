@@ -1,6 +1,6 @@
 # Sources — The keyboard — ten groups of keys
 
-countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Armenia
+countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -37,6 +37,10 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Ar
 
 **Book 18:** *Թվային գրագիտություն և համակարգչային գիտություն, 3-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 3, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 3 (teacher guide). 69 PDF pages. Verdict: COMPLETE. Read via contents, thematic planning and sample lesson plan rendered from the PDF (the guide's text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 19:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 20:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -60,8 +64,10 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Ar
 | Lesson 5 Keyboard letters and special keys | Armenia Grade 2 G2 student, printed p. 33 |
 | Lesson 9 Keyboard keys (Theme 6 Important keyboard buttons for fast work) | Armenia Grade 3 G3 student, printed p. 55 |
 | Sample lesson plan 1: Theme 6 Lesson 6-1 Keyboard shortcuts for fast work (Ctrl+C/V, Ctrl+X/V, Del) | Armenia Grade 3 G3 teacher, printed p. 50 (teacher guide — evidence) |
+| Unit 2 §2.2.1 Keyboard | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 13 |
+| Unit 1 §1.10.2 Keyboard and Components of Keyboard (typing, control, function, navigation, numeric keys) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 9 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Saudi Arabia, Uzbekistan, Fiji, Bhutan, Moldova, Jordan, Armenia, Pakistan).**
 
 Printed p. 20 of the student book carries a stray character run (a run of the capital letter K typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -100,4 +106,8 @@ Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan,
 
 Armenia's own way (Armenia Grade 3 G3 teacher): Companion to Book 3 in the Zangak guide template: Grade 3 standard outcomes, exemplary programme, thematic planning that opens with e-security and health (switching the computer on, off and restarting), sample lesson plans (the first is Theme 6, keyboard shortcuts for fast work), and explanations of the textbook's electronic tasks.
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica, jordan, grade 2 digital skills workbook, armenia, grade 2, grade 3
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, moldova, grade 2 educatie digitala, moldova, grade 11 informatica, jordan, grade 2 digital skills workbook, armenia, grade 2, grade 3, pakistan, grade 6 computer science 6, grade 7 computer science 7

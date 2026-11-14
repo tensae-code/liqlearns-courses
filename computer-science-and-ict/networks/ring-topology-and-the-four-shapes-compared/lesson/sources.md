@@ -1,6 +1,6 @@
 # Sources — Ring topology — and the four shapes compared
 
-countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan
+countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, In
 
 **Book 13:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 14:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Each node, two neighbours, one direction | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 56–57 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, In
 | 1.3 Network topology | South Sudan Grade 10 S2 Student, printed p. 13 |
 | 1.3.2 RING Topology | South Sudan Grade 10 S2 Student, printed p. 14 |
 | Network topologies, including hybrid topology research | South Sudan Grade 10 S2 Teacher, printed p. 12 (teacher guide — evidence) |
+| Unit 3 §3.2.2 Ring Topology | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 59 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan, Pakistan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -75,4 +78,6 @@ South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer s
 
 South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
 
-Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10, indonesia, grade 11, south sudan, grade 10 s2 student, grade 10 s2 teacher
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10, indonesia, grade 11, south sudan, grade 10 s2 student, grade 10 s2 teacher, pakistan, grade 9 computer science 9

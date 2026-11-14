@@ -1,17 +1,22 @@
 # Sources — Arithmetic Operators and Increment Decrement in C
 
-countries: South Sudan
+countries: South Sudan, Pakistan
 
 **Book 1:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
+
+**Book 2:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Practical guide, Examples 10–13 — arithmetic operators, quotient and remainder, increment and decrement, char output, sum/difference/product | South Sudan Grade 11 S3 Teacher, printed p. 66 (teacher guide — evidence) |
+| Chapter 9 §9.6.3 Logical Operators (&&, ||, ! — the salary-and-marital-status allowance conditions), §9.6.4 Assignment Operator, §9.6.5 Increment and Decrement Operators (prefix vs postfix worked line by line; compound assignment +=, -=, *=, /=) and §9.6.6 Operator Precedence (filed as NEW LESSON NEEDED — programming/c-logical-assignment-and-increment-operators; stocked in this lesson because this lesson teaches C's arithmetic operators and the increment and decrement operators, with compound assignment in its family) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 153 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (South Sudan), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Pakistan). South Sudan's teacher-guide evidence is named here and counted nowhere.**
 
 Placement choice: this lesson was built new for the ICT expansion (South Sudan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/arithmetic-operators-and-increment-decrement-in-c). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: the placements stocked here are from South Sudan's “Secondary ICT” series (English) — the Ministry of General Education and Instruction, Republic of South Sudan, with Longhorn / Mountain Top Publishers, Kenya, 2018, no ISBN printed — one series, Secondary 1–4 (Grades 9–12), student books with matching teacher guides. The S3 student book's body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
 
-Searchable tags: arithmetic operators and increment decrement in c, programming, south sudan, grade 11 s3 teacher
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: arithmetic operators and increment decrement in c, programming, south sudan, grade 11 s3 teacher, pakistan, grade 12 computer science 12

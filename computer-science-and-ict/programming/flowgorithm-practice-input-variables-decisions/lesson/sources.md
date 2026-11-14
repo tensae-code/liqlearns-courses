@@ -1,10 +1,12 @@
 # Sources — Flowgorithm practice — input, variables, decisions
 
-countries: Ethiopia
+countries: Ethiopia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 2:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 121 PDF pp.; printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
+
+**Book 3:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,11 +14,15 @@ countries: Ethiopia
 | Builds 3–4 — declare, prompt, input, Variables & Consoles, the pseudocode viewer | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 229–230 |
 | Builds 5–6 — areas with ^, and the taxed wage decision | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 229–230 |
 | String joining with deliberate spaces; variables introduced as quantities that may change, with Variable Watch open (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 6, printed pp. 91–103 |
+| Unit 1 §1.2.5 Examples of Flowcharts (Celsius to Fahrenheit; acceleration; volume of a cube; plain interest; sum, product and average of five numbers; area of a parallelogram; odd or even; larger of three numbers, two ways; grade from marks; weekday from a number; repeating steps — odd numbers for five inputs; odd-number sequence to a limit) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 8 |
+| Unit 1 Exercise project: design a flowchart to calculate the fine for a Pakistan motorway offence code (NHMP penalty table) and display it as a school chart | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 32 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Pakistan).**
 
 Book error, taught corrected: the student book's later exercises cross-refer to practical-exercise numbers that do not match the numbers printed on those exercises — the single-wage flowchart built here is taught under its own printed exercise, and the cross-references are flagged here rather than followed. The teacher guide's Practical Exercise 6.5 answer 1 also calls itself an 'extension of question No. 6 of Practical Exercise 6.5' — a self-reference; the single-labourer wage exercise it extends is the earlier one built in this lesson.
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
-Searchable tags: Flowgorithm, variables, declaration, input, pseudocode, wage, tax, doing lesson, Grade 9 ICT Ethiopia Unit 6
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: Flowgorithm, variables, declaration, input, pseudocode, wage, tax, doing lesson, Grade 9 ICT Ethiopia Unit 6, pakistan, grade 9 computer science 9

@@ -1,6 +1,6 @@
 # Sources — Creating a query in Access
 
-countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova, South Sudan
+countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
 
 **Book 15:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 16:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a query is an object that gives a custom view of data from one or more tables, a way of searching and compiling exactly the data wanted, built graphically (the book defers SQL); order: open the database, Create menu, Query Design, Show Table — select the table or tables and confirm | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 66–68 |
@@ -44,6 +46,7 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
 | Ch.2 §8 Creating a query (Query) | Laos Grade 11 ICT student, printed p. 90 |
 | Ch.3 §I.1 Summarising data from a database through MS Access | Laos Grade 12 ICT student, printed p. 129 |
 | 4.9 Noțiuni generale despre interogări | Moldova Grade 12 Informatică, printed p. 152 |
+| Chapter 6 §6.8 Introduction to Queries (the dynaset; types of queries — select, action: delete/update/append/make-table, crosstab, parameter, SQL; find-duplicate and find-unmatched; creating a query in Design View; specifying criteria; wildcards and expression operators; the Query Wizard) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 84 |
 
 | Sub lesson 4 — writing a query in Access: Create tab → Query Design; close the Show Table dialog; SQL View dropdown at the left → SQL View, where SQL commands are written | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 67–68 |
 | Sub lesson 4 — running: Design tab → Results group → Run; or double-click a saved query in the queries view (example: a saved query listing male students); Access reports errors with a pop-up matched to the error type | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 67–68 |
@@ -54,7 +57,7 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
 | 1.6 Microsoft Access SQL queries | South Sudan Grade 12 S4 Student, printed p. 28 |
 | Teaching database: creating queries and joins (with assessment questions) | South Sudan Grade 12 S4 Teacher, printed p. 19 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova, South Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova, South Sudan, Pakistan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -86,4 +89,6 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide, mongolia, grade 10 it x, laos, grade 11 ict student, grade 12 ict student, moldova, grade 12 informatica, south sudan, grade 12 s4 student, grade 12 s4 teacher
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide, mongolia, grade 10 it x, laos, grade 11 ict student, grade 12 ict student, moldova, grade 12 informatica, south sudan, grade 12 s4 student, grade 12 s4 teacher, pakistan, grade 12 computer science 12

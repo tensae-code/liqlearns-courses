@@ -1,6 +1,6 @@
 # Sources — The CPU — the brain of the computer
 
-countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova, Indonesia
+countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova
 
 **Book 11:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The CPU — the brain of the computer | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 20 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova
 | Ch.1 Central Processing Unit | Greece Grade 10 Efarmoges Pliroforikis, printed p. 11 |
 | 6.11 Microprocesorul | Moldova Grade 11 Informatică, printed p. 189 |
 | Bab 3 D. Mekanisme kerja internal pada komputer | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 98 |
+| Unit 2 §2.5 Central Processing Unit (CPU) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 19 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova, Indonesia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Afghanistan, Yemen, Sudan, Sri Lanka, Laos, Greece, Moldova, Indonesia, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -62,4 +65,6 @@ Moldova's own way (Grade 11, Informatică): Grade 11 is the theory year — how 
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica, indonesia, grade 10
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: the cpu — the brain of the computer, hardware, grade 7, information technology, ict, ethiopia, afghanistan, yemen, grade 10, sudan, grade 5, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 11 informatica, indonesia, grade 10, pakistan, grade 6 computer science 6

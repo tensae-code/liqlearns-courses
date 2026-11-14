@@ -1,6 +1,6 @@
 # Sources — Bus topology
 
-countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece, Bangladesh, Indonesia, South Sudan
+countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece, Bangladesh, Indonesia, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece, Bangla
 
 **Book 11:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 12:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | One backbone, every node tapped in | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 54–55 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece, Bangla
 | Chapter 2, 2.5.6: bus topology, its advantages and disadvantages | Bangladesh HSC ICT, printed p. 69 |
 | Bab V A.1 (topologi bus dalam rancangan jaringan) | Indonesia Grade 11 G11 Informatika student, printed p. 209 |
 | 1.3.1 BUS Topology | South Sudan Grade 10 S2 Student, printed p. 13 |
+| Unit 3 §3.2.2 Network topologies: Bus Topology | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 58 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece, Bangladesh, Indonesia, South Sudan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Nepal, China, Fiji, Libya, Laos, Greece, Bangladesh, Indonesia, South Sudan, Pakistan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -57,4 +60,6 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is th
 
 South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
 
-Searchable tags: bus topology, backbone, topology, Grade 9 ICT Ethiopia, mozambique, nepal, china, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 11, south sudan, grade 10 s2 student
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: bus topology, backbone, topology, Grade 9 ICT Ethiopia, mozambique, nepal, china, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 11, south sudan, grade 10 s2 student, pakistan, grade 9 computer science 9

@@ -1,17 +1,22 @@
 # Sources — SDLC Models — Waterfall, Spiral and Agile
 
-countries: Jordan
+countries: Jordan, Pakistan
 
 **Book 1:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 2:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 1: SDLC models — Waterfall, Spiral, Agile and their characteristics | Jordan Grade 12 G12T1 Student, printed p. 16 |
+| Unit 1 §1.3 Software Development Methodologies: §1.3.1.1 Waterfall Model and §1.3.1.2 Agile Methodology (sprints, continuous integration, test-driven development, pair programming; benefits and limitations of each) (filed as NEW LESSON NEEDED — programming/waterfall-and-agile-two-ways-to-build-software; stocked in this lesson because this lesson teaches the SDLC models — Waterfall and Agile among them — and their characteristics) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 6 |
 
-**Acceptance count: taught in 1 country (Jordan).**
+**Acceptance count: taught in 2 countries (Jordan, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Jordan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/sdlc-models-waterfall-spiral-and-agile). It sits in the Programming title (programming/), following the book's own order. Near matches checked by content: The Systems Life Cycle teaches the cycle's phases (and takes Jordan's SDLC concept-and-stages placement), and The Waterfall Model of Program Development teaches the waterfall alone with its stages; no live lesson compares the Waterfall, Spiral and Agile models and their characteristics, so the models lesson is built new. Provenance scope note: the placements stocked here are from Jordan's NCCD Digital Skills books (Arabic); student books and early-grades activity workbooks count toward the acceptance count, and any teacher-guide placements among them are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Scope notes as filed are carried: the Grade 1–6 workbooks and guides integrate partner subjects, and only their ICT teaching parts are placed; the Grade 10 Term 2 book survives as a draft-watermarked copy, carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
 
-Searchable tags: sdlc models, waterfall, spiral, agile, sprints, jordan, grade 12
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: sdlc models, waterfall, spiral, agile, sprints, jordan, grade 12, pakistan, grade 11 computer science and entrepreneurship 11

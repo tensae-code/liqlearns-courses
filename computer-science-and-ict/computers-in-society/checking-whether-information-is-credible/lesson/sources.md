@@ -1,6 +1,6 @@
 # Sources — Checking Whether Information Is Credible
 
-countries: Indonesia, Vietnam
+countries: Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
@@ -12,6 +12,8 @@ countries: Indonesia, Vietnam
 
 **Book 5:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bab 3 F. Kredibilitas sumber informasi: sumber terpercaya, bukti, kualifikasi penulis, cek fakta | Indonesia Grade 7 G7 Informatika student, printed p. 120 |
@@ -19,8 +21,9 @@ countries: Indonesia, Vietnam
 | Panduan Khusus Bab 1: panduan pembelajaran data, informasi, dan validasinya (termasuk fact check dan web scraping Python) | Indonesia Grade 10 G10 Informatika teacher guide, printed p. 41 (teacher guide — evidence) |
 | Bab I Panduan pembelajaran informasi digital: mesin pencari, literasi membaca lateral, sitasi | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 45 (teacher guide — evidence) |
 | Bài 3 Thực hành: Đánh giá chất lượng thông tin (Practical: judging the quality and trustworthiness of information) (filed as NEW LESSON NEEDED — internet-and-the-web/judging-the-quality-of-information; stocked in this lesson because this lesson teaches judging whether information is credible and trustworthy — the quality judgement Vietnam's practical makes) | Vietnam Grade 9 Tin học 9, printed p. 12 |
+| Unit 6 §6.7 Ethical Standards of Sourcing Online Information (filed as NEW LESSON NEEDED — computers-in-society/judging-online-information-currency-relevance-authority-accuracy-purpose; stocked in this lesson because this lesson teaches checking whether information is credible — currency, relevance, authority, accuracy and purpose are the checks it names) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 90 |
 
-**Acceptance count: taught in 2 countries (Indonesia, Vietnam).**
+**Acceptance count: taught in 3 countries (Indonesia, Vietnam, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Indonesia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — computers-in-society/checking-whether-information-is-credible). It sits in the Computers in Society title (computers-in-society/), following the book's own order. Provenance scope note: the placements stocked here are from Indonesia's “Informatika” books (Indonesian) — a named subject in the Kurikulum Merdeka, built on four elements (computational thinking, digital literacy, data analysis, algorithms and programming), published by Kementerian Pendidikan / Pusat Perbukuan, with parallel general and SMK (vocational) tracks at Grade 10; student books count toward the acceptance count, and teacher-guide placements are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -34,4 +37,6 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika teacher guide): Chapter 
 
 Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
 
-Searchable tags: credibility, credible sources, evidence, fact-check, text image video, computers in society, indonesia, grade 7, grade 11, grade 10, grade 11, vietnam, grade 9 tin học 9
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: credibility, credible sources, evidence, fact-check, text image video, computers in society, indonesia, grade 7, grade 11, grade 10, grade 11, vietnam, grade 9 tin học 9, pakistan, grade 6 computer science 6

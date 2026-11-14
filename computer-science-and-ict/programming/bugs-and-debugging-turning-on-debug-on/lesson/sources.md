@@ -1,6 +1,6 @@
 # Sources — Bugs and debugging — turning on [DEBUG ON]
 
-countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, K
 
 **Book 27:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 28:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Test first — run it and compare with the expected output | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 191 (student placement item 134) |
@@ -86,8 +88,9 @@ countries: Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, K
 | Lesson 22 Program debugging (Theme 15) | Armenia Grade 10 G10 student, printed p. 114 |
 | Bab III A.4 Menguji program (testing) | Indonesia Grade 11 G11 Informatika student, printed p. 95 |
 | Bài 15 Gỡ lỗi (Debugging: finding and fixing errors in a program) | Vietnam Grade 8 Tin học 8, printed p. 86 |
+| Unit 5 §5.6 Debug a computer program (what debugging is, why, and its six steps) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 81 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 15 countries (Ethiopia, Nepal, North Macedonia, Egypt, Fiji, Malaysia, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 38, in part) is filed in Sub lesson 1: the quality-assurance framing of testing, and the §6.4 teacher tip pointing to what a good Python coding environment requires (guide printed p. 150). The divide-by-zero behaviour in Do it first was run in Python 3: it raises ZeroDivisionError: division by zero. All other code behaviour matches the runs recorded for this band. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -139,4 +142,6 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is th
 
 Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
 
-Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book, kuwait, grade 10 information technology term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills, armenia, grade 7, grade 8, grade 10, indonesia, grade 11, vietnam, grade 8 tin học 8
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: debugging, bug, testing, DEBUG ON, IDLE debugger, Grade 12 ICT Ethiopia, Unit 6 programming, nepal, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 9, fiji, year 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 7 reading book, kuwait, grade 10 information technology term 1, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 34, switzerland, decodage, grades 56, bangladesh, grade 9 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 9 term 1 digital skills, armenia, grade 7, grade 8, grade 10, indonesia, grade 11, vietnam, grade 8 tin học 8, pakistan, grade 6 computer science 6

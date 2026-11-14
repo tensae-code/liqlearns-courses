@@ -1,6 +1,6 @@
 # Sources — The fill handle — copying a formula
 
-countries: Ethiopia, Eritrea, Sri Lanka, Kuwait, Laos, Bangladesh
+countries: Ethiopia, Eritrea, Sri Lanka, Kuwait, Laos, Bangladesh, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Eritrea, Sri Lanka, Kuwait, Laos, Bangladesh
 
 **Book 7:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 8:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The fill handle — the small square at the bottom-right corner; drag to copy, double-click to fill; editing by double-clicking a cell | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 114–116 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Eritrea, Sri Lanka, Kuwait, Laos, Bangladesh
 | Unit 2, Lesson 4: auto-fill — filling cells and formulas without retyping | Kuwait Grade 5 Digital Explorer T2, printed p. 73 |
 | Ch.5 §5.6 Using formulas with the serial command (filling a series) | Laos Grade 9 ICT student, printed p. 61 |
 | Learning Experience 1, Session 5: The Magic of Calculations on Spreadsheet — the Fill Handle | Bangladesh Grade 8 Digital Technology, printed p. 18 |
+| Unit 3 §3.1.7 Auto Filling Data | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 52 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Sri Lanka, Kuwait, Laos, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Sri Lanka, Kuwait, Laos, Bangladesh, Pakistan).**
 
 Book errors taught corrected: the spreadsheet section's figure references drift from their captions in this part of Unit 3; this lesson teaches from the pictured content and cites no figure number.
 
@@ -38,4 +41,6 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: fill handle, copying a formula, relative references, F3, mark sheet, Ethiopia Grade 9, eritrea, sri lanka, grade 12 science for technology tamil, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, bangladesh, grade 8 digital technology
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: fill handle, copying a formula, relative references, F3, mark sheet, Ethiopia Grade 9, eritrea, sri lanka, grade 12 science for technology tamil, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, bangladesh, grade 8 digital technology, pakistan, grade 8 computer education 8

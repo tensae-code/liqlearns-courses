@@ -1,18 +1,21 @@
 # Sources — Algorithm Analysis — Complexity and Computability
 
-countries: Greece, Vietnam
+countries: Greece, Vietnam, Pakistan
 
 **Book 1:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
 **Book 2:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
+
+**Book 3:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.2.2 Analysis of algorithms, theory of computation, complexity and computability | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 23 |
 | Bài 24 Đánh giá độ phức tạp thời gian thuật toán (Judging an algorithm's time complexity) (filed as NEW LESSON NEEDED — programming/time-complexity-of-algorithms; stocked in this lesson because this lesson teaches algorithm analysis — counting how an algorithm's time and memory needs grow with the input) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 111 |
 | Bài 25 Thực hành xác định độ phức tạp thời gian thuật toán (Practical: determining time complexity) (filed as NEW LESSON NEEDED — programming/time-complexity-of-algorithms; stocked in this lesson because this lesson teaches algorithm analysis — counting how an algorithm's time and memory needs grow with the input) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 115 |
+| Unit 3 §3.4 Algorithm Analysis (§3.4.1 time complexity and Big O notation — O(1), O(n), O(n²), O(log n); §3.4.2 space complexity) (filed as NEW LESSON NEEDED — programming/big-o-time-and-space-complexity; stocked in this lesson because this lesson teaches algorithm analysis — time complexity and Big O, and the space an algorithm needs) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 47 |
 
-**Acceptance count: taught in 2 countries (Greece, Vietnam).**
+**Acceptance count: taught in 3 countries (Greece, Vietnam, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/algorithm-analysis-complexity-and-computability). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -20,4 +23,6 @@ Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeio
 
 Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
 
-Searchable tags: algorithm analysis, complexity, computability, theory of computation, programming, greece, grade 11 eisagogi, vietnam, grade 11 tin học 11 khoa học máy tính
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: algorithm analysis, complexity, computability, theory of computation, programming, greece, grade 11 eisagogi, vietnam, grade 11 tin học 11 khoa học máy tính, pakistan, grade 11 computer science and entrepreneurship 11

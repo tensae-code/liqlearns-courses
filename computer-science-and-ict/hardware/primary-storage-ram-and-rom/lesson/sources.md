@@ -1,6 +1,6 @@
 # Sources — Primary storage — RAM and ROM
 
-countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia
+countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 8 (Digital Literacy and Computer Science, Grade 8 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN 978-9939-98-355-4. Grade 8 (student book). 178 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — RAM (and the primary-storage frame) | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.3, printed pp. 28–29 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia
 | Unit 2 Computer memory and storage media | Greece Grade 7 Pliroforiki A, printed p. 25 |
 | Ch.1 Memory (memory hierarchy) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 14 |
 | §8 Memory devices | Armenia Grade 8 G8 student, printed p. 65 |
+| Unit 2 §2.5.1 Memory Unit: primary memory, RAM and ROM | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 19 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Yemen, Iraq, Fiji, Bhutan, Sri Lanka, Laos, Greece, Armenia, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -62,4 +65,6 @@ Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio
 
 Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series continues: after e-security and information sources it turns practical — multimedia slides, spreadsheets, blogging and online content — then computer architecture (von Neumann, memory, I/O), networks, and a Python block (logic, loops, lists, functions, errors, comments, debugging).
 
-Searchable tags: primary storage, main memory, RAM, ROM, volatile, non-volatile, startup instructions, Ethiopia Grade 8, yemen, grade 10, iraq, grade 8, fiji, year 11, bhutan, class vi, class viii, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 8
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: primary storage, main memory, RAM, ROM, volatile, non-volatile, startup instructions, Ethiopia Grade 8, yemen, grade 10, iraq, grade 8, fiji, year 11, bhutan, class vi, class viii, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 8, pakistan, grade 6 computer science 6

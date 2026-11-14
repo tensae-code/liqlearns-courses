@@ -1,6 +1,6 @@
 # Sources — Top-down — modules and modularisation
 
-countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia, Indonesia, Vietnam
+countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -27,6 +27,8 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, A
 
 **Book 13:** *Tin học 11 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35058-9. Grade 11 (student book). 150 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 14:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Top-down approach and modularisation defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
@@ -44,8 +46,9 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, A
 | Bab II A.1 Modularisasi program | Indonesia Grade 9 G9 Informatika student, printed p. 43 |
 | Bài 26 Phương pháp làm mịn dần trong thiết kế chương trình (Stepwise refinement in program design) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 118 |
 | Bài 27 Thực hành thiết kế chương trình theo phương pháp làm mịn dần (Practical: designing by stepwise refinement) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 123 |
+| Unit 4 §4.1.3 Problem Analysis: deconstruction of a problem and its techniques | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 54 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia, Indonesia, Vietnam, Pakistan).**
 
 Book error, taught corrected: the student book's later exercises cross-refer to practical-exercise numbers that do not match the numbers printed on those exercises (the single-wage and ten-labourer flowcharts); each flowchart is taught here under its own printed exercise, and the mismatched cross-references are flagged rather than followed. The teacher guide's Practical Exercise 6.5 answer 1 likewise calls itself an extension of its own question — a self-reference; the exercise it extends is the earlier single-labourer wage exercise.
 
@@ -73,4 +76,6 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 complete
 
 Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 the two orientations are separate books but share a common core (Bài 1–16 here: operating systems, inside the computer, and a full databases strand ending at SQL); the CS-only second half is algorithm engineering in Python — arrays, search and sort, time complexity, stepwise refinement, modular design and building code libraries.
 
-Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 8 informatica, moldova, grade 12 informatica, armenia, grade 6, indonesia, grade 9, vietnam, grade 11 tin học 11 khoa học máy tính
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 8 informatica, moldova, grade 12 informatica, armenia, grade 6, indonesia, grade 9, vietnam, grade 11 tin học 11 khoa học máy tính, pakistan, grade 6 computer science 6

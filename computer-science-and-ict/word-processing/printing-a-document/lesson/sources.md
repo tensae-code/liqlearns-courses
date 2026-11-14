@@ -1,6 +1,6 @@
 # Sources — Printing a Document
 
-countries: Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos
+countries: Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos, Pakistan
 
 **Book 1:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
@@ -18,6 +18,8 @@ countries: Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos
 
 **Book 8:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 19 Printing (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 33 (teacher guide — evidence) |
@@ -29,8 +31,9 @@ countries: Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos
 | Ch.3 §3.4 Checking the document before printing (Print Preview) (filed as NEW LESSON NEEDED — word-processing/print-preview; stocked in this lesson because this lesson teaches Print Preview as the first act of printing — the preview shows the document exactly as it will come out, page by page — the same check Laos's section teaches) | Laos Grade 9 ICT student, printed p. 38 |
 | Ch.3 §3.5 Printing a document | Laos Grade 9 ICT student, printed p. 39 |
 | Panduan Khusus Bab 5: panduan pembelajaran pengolah kata (filed as word-processing/printer-friendly-documents-print-settings; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 205 (teacher guide — evidence) |
+| Unit 2 §2.1.15 Apply a procedure to print a document (filed as word-processing/printing-a-document-print-preview-first; stocked in this lesson because this lesson teaches printing a document — print preview first) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 26 |
 
-**Acceptance count: taught in 6 countries (Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos).**
+**Acceptance count: taught in 7 countries (Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos, Pakistan).**
 
 Stocked again in the ICT expansion (Sudan, 2026-11-14) from Sudan's student book — Sudan counts toward this lesson's acceptance count; the Mauritania teacher guide above remains teacher-guide evidence, named here and counted nowhere.
 
@@ -53,4 +56,6 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
 
-Searchable tags: printing, print preview, print queue, copies, page range, word, word processing, mauritania, grade 7, sudan, grade 5, uzbekistan, grade 6, cuba, grade 7, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, laos, grade 9 ict student, indonesia, grade 7
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: printing, print preview, print queue, copies, page range, word, word processing, mauritania, grade 7, sudan, grade 5, uzbekistan, grade 6, cuba, grade 7, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, laos, grade 9 ict student, indonesia, grade 7, pakistan, grade 7 computer science 7

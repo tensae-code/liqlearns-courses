@@ -1,6 +1,6 @@
 # Sources — Primary keys and foreign keys
 
-countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova, Bangladesh, Vietnam
+countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova, Bangladesh, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwai
 
 **Book 15:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 16:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a relational database is a set of logically related tables, built with relational DBMS software; every table shown has a primary key — a field whose value is unique for each record, such as a student ID no two students can share | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 60–61 |
@@ -44,6 +46,7 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwai
 | Chapter 6, 6.2.2: primary key and foreign key — Bangladesh's National ID card as the primary key example | Bangladesh HSC ICT, printed p. 194 |
 | Bài 13 Cơ sở dữ liệu quan hệ §2 (Keys linking the tables) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 64 |
 | Bài 13 Cơ sở dữ liệu quan hệ §2 (Keys — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 64 |
+| Chapter 2 §2.6 Keys and §2.6.1 Types of Keys (primary, secondary, candidate/alternate, composite/concatenate, sort/control, foreign — worked on PATIENT and PHYSICIAN tables; foreign keys as the basis of 1:1 and 1:M relationships) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 19 |
 
 | Sub lesson 4 — the five-table school database (Students, MarkList, Subject, SubjectAssigned, Teachers); Sid primary key of Students (unique, never duplicated, identifying each record), the same Sid a foreign key in MarkList (not unique — one student, many mark records), linking the tables | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 63–64 |
 | Sub lesson 4 — popular RDBMSs named: Microsoft Access, Oracle, Microsoft SQL Server, MySQL, SQLite, IBM DB2, PostgreSQL | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 63–64 |
@@ -54,7 +57,7 @@ countries: Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwai
 | 4.1.3 Kekunci Primer dan Kekunci Asing | Malaysia Grade 9 ASK Tingkatan 3, printed p. 121 |
 | 2.2.1 Kunci Primer dan Kunci Asing | Malaysia Grade 10 SK Tingkatan 4, printed p. 219 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova, Bangladesh, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, North Macedonia, Sudan, Fiji, Libya, Malaysia, Kuwait, Moldova, Bangladesh, Vietnam, Pakistan).**
 
 Honesty: all parts are pupil-taught from the student book. Book errors taught corrected, named here: the student book spells the relational DBMS software “RDMS” — the lesson teaches the correct **RDBMS** (relational database management system). The same stretch of the book prints “Figure 314” for Figure 3.14, and varies “Kebel/Kebele” inside one table; neither touches the key definitions taught here, and both are named so a reader meeting them in the book is not confused.
 
@@ -82,4 +85,6 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13, libya, grade 10 it student, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+
+Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
+Searchable tags: primary key, foreign key, relational database, RDBMS, unique, Book_Loan, Ethiopia Grade 11, nepal, north macedonia, grade 11, sudan, grade 7, fiji, year 13, libya, grade 10 it student, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, pakistan, grade 12 computer science 12

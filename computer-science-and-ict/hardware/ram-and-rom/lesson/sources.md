@@ -1,6 +1,6 @@
 # Sources — RAM and ROM
 
-countries: Ethiopia, Sudan, Sri Lanka, Laos
+countries: Ethiopia, Sudan, Sri Lanka, Laos, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sudan, Sri Lanka, Laos
 
 **Book 5:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | RAM — the memory in use now | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 23–24 (teacher evidence: guide printed pp. 31–34) |
@@ -20,8 +22,9 @@ countries: Ethiopia, Sudan, Sri Lanka, Laos
 | Unit 1 Lesson 2: Main memory — RAM and ROM | Sudan, *ICT, Grade 5*, printed p. 4 |
 | Ch.1 ROM and its types PROM, EPROM, EEPROM; cache memory L1, L2, L3 (filed as hardware/ram-volatile-working-memory; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 17 |
 | Ch.1 §1.2 Memory (RAM, ROM, physical memory) | Laos Grade 8 ICT student, printed p. 4 |
+| Unit 2 §2.5.1 RAM and ROM in detail | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 20 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Sri Lanka, Laos).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Sri Lanka, Laos, Pakistan).**
 
 No book error touches this lesson's content.
 
@@ -31,4 +34,6 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
 
-Searchable tags: ram and rom, hardware, grade 7, information technology, ict, ethiopia, ram — the memory in use now, rom — the memory that stays, sudan, grade 5, sri lanka, grade 12 science for technology tamil, laos, grade 8 ict student
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: ram and rom, hardware, grade 7, information technology, ict, ethiopia, ram — the memory in use now, rom — the memory that stays, sudan, grade 5, sri lanka, grade 12 science for technology tamil, laos, grade 8 ict student, pakistan, grade 6 computer science 6

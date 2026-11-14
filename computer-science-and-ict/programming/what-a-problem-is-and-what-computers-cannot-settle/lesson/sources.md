@@ -1,6 +1,6 @@
 # Sources — What a problem is — and what computers cannot settle
 
-countries: Ethiopia, Libya, Malaysia, Sri Lanka, Greece
+countries: Ethiopia, Libya, Malaysia, Sri Lanka, Greece, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Libya, Malaysia, Sri Lanka, Greece
 **Book 10:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 **Book 11:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problem defined; the three Ethiopian problems set as the group activity; the people-first conclusion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 217–218 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Libya, Malaysia, Sri Lanka, Greece
 | Ch.2.1 The concept of the problem / categories of problems | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 13 |
 | Ch.1 Problem analysis: the concept / understanding / structure / requirements / categories of problems / problem and computer | Greece Grade 12 Anaptyxi Efarmogon, printed p. 13 |
 | Workbook Ch.1 Problem analysis (worked examples and activities) | Greece Grade 12 Anaptyxi Workbook, printed p. 9 |
+| Unit 4 §4.1 Problem solving | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 53 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Libya, Malaysia, Sri Lanka, Greece).**
+**Acceptance count: taught in 6 countries (Ethiopia, Libya, Malaysia, Sri Lanka, Greece, Pakistan).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -57,4 +60,6 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
 
-Searchable tags: problem, climate change, road traffic, walking safety, conflict, Grade 9 ICT Ethiopia Unit 6, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 6 reading book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: problem, climate change, road traffic, walking safety, conflict, Grade 9 ICT Ethiopia Unit 6, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, malaysia, grade 10 sk tingkatan 4, sri lanka, grade 6 reading book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, greece, grade 12 anaptyxi workbook glossa, pakistan, grade 6 computer science 6

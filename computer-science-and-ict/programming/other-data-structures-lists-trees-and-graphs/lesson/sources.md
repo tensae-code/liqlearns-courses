@@ -1,6 +1,6 @@
 # Sources — Other Data Structures — Lists, Trees and Graphs
 
-countries: Greece
+countries: Greece, Pakistan
 
 **Book 1:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
@@ -8,13 +8,16 @@ countries: Greece
 
 **Book 3:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 4:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.3 Other data structures: lists, trees, graphs | Greece Grade 12 Anaptyxi Efarmogon, printed p. 71 |
 | Unit 1 Other data structures: lists, trees, graphs | Greece Grade 12 Pliroforiki Supplementary, printed p. 37 |
 | Bab I Panduan pembelajaran berpikir komputasional dalam analisis data: struktur data pohon dan graf (filed as programming/trees-and-graphs-as-data-structures; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 57 (teacher guide — evidence) |
+| Unit 4 §4.1.4 Trees (the family tree; root, edges, height, balanced trees; applications — file systems, decision trees) and §4.1.5 Introduction to Graphs (cities and roads of Pakistan; degree, weight, direction; directed, undirected and weighted graphs; tree vs graph) (filed as NEW LESSON NEEDED — programming/trees-and-graphs-as-data-structures; stocked in this lesson because this lesson teaches the other data structures — trees and graphs among them, with their parts and kinds) | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 60 |
 
-**Acceptance count: taught in 1 country (Greece).**
+**Acceptance count: taught in 2 countries (Greece, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/other-data-structures-lists-trees-and-graphs). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -24,4 +27,6 @@ Greece's own way (Grade 12, Pliroforiki Supplementary Material): the official su
 
 Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
 
-Searchable tags: data structures, lists, trees, graphs, programming, greece, grade 12 anaptyxi efarmogon supplementary, indonesia, grade 9
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: data structures, lists, trees, graphs, programming, greece, grade 12 anaptyxi efarmogon supplementary, indonesia, grade 9, pakistan, grade 11 computer science and entrepreneurship 11

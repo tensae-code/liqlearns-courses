@@ -1,6 +1,6 @@
 # Sources — Project: a shopping bill in Excel
 
-countries: Ethiopia, Vietnam
+countries: Ethiopia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Vietnam
 
 **Book 6:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ebsa's shopping case — the gulit market list, quantities and prices; E3 price × quantity copied down (relative) | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 119–120 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Vietnam
 | Bài 10 Hoàn thiện bảng tính (Completing a full spreadsheet: combined practical) | Vietnam Grade 7 Tin học 7, printed p. 51 |
 | Bài 13a Hoàn thiện bảng tính quản lí tài chính gia đình (Completing a family-finance management workbook — track a project) | Vietnam Grade 9 Tin học 9, printed p. 52 |
 | Chuyên đề 2, Bài 7 Kiểm thử, hoàn thiện và đóng gói sản phẩm (Testing, finishing and packaging the quotation program) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 52 |
+| Unit 3 Lab Activities (area sheet with fill handle; cricket line graph; friends' SUM/AVERAGE/MAX/MIN sheet with bar chart; taxi totals with pie chart; weather data; student results with formatting) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 86 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Vietnam).**
+**Acceptance count: taught in 3 countries (Ethiopia, Vietnam, Pakistan).**
 
 Book errors taught corrected: the spreadsheet section's figure references drift from their captions in this part of Unit 3; this lesson teaches from the pictured content and cites no figure number.
 
@@ -35,4 +38,6 @@ Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (Ph
 
 Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
 
-Searchable tags: Ebsa, gulit market, shopping bill, sales tax, grand total, project, Ethiopia Grade 9, mauritania, grade 8, vietnam, grade 7 tin học 7, grade 9 tin học 9, grade 10 chuyên đề tin học 10 ứng dụng
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: Ebsa, gulit market, shopping bill, sales tax, grand total, project, Ethiopia Grade 9, mauritania, grade 8, vietnam, grade 7 tin học 7, grade 9 tin học 9, grade 10 chuyên đề tin học 10 ứng dụng, pakistan, grade 8 computer education 8

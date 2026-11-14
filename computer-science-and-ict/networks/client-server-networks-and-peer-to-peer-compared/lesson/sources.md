@@ -1,6 +1,6 @@
 # Sources — Client-server networks — and peer-to-peer compared
 
-countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia
+countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -21,6 +21,10 @@ countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia
 
 **Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն, 8-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 8, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 8 (teacher guide). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 11:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
+**Book 12:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Clients request, the server provides | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 58–59 |
@@ -34,8 +38,10 @@ countries: Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia
 | Chapter 2, 2.5.3: client-server networks, centralised and distributed | Bangladesh HSC ICT, printed p. 65 |
 | §11 The client-server model | Armenia Grade 8 G8 student, printed p. 85 |
 | Theme 8-8 The client-server model (§11) | Armenia Grade 8 G8 teacher, printed p. 21 (teacher guide — evidence) |
+| Unit 1 §1.1.3 Server and Clients | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 4 |
+| Unit 3 §3.1.2 Client Server (client as hardware and as software process; kinds of server) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 57 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Germany, Nepal, Sudan, Fiji, Moldova, Bangladesh, Armenia, Pakistan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -56,4 +62,8 @@ Armenia's own way (Armenia Grade 8 G8 student): The Velijanyan & Aslanyan series
 
 Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its mapping table ties the student book's 19 §s to 14 standard themes (8-1 to 8-14), each theme with outcomes, competencies and practical work; the guide adds a thematic plan, the book's questions/tasks with answers, and slide-presentation assessment criteria.
 
-Searchable tags: client-server, server, workstation, peer-to-peer compared, Grade 9 ICT Ethiopia, germany, nepal, sudan, grade 6, fiji, year 12, moldova, grade 7 informatica, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 8
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: client-server, server, workstation, peer-to-peer compared, Grade 9 ICT Ethiopia, germany, nepal, sudan, grade 6, fiji, year 12, moldova, grade 7 informatica, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 8, pakistan, grade 8 computer education 8, grade 9 computer science 9

@@ -1,0 +1,9 @@
+# Reserved Words Keywords of C — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Programming Basics: §1.2.1 Reserved words
+Sub lesson 1 questions from the type files. Pass mark: Unit 1 §1.2 Programming Basics: §1.2.1 Reserved words (Keywords) of C (the 32-keyword table) — Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 6; Pakistan (Punjab) Grade 10 Computer Science 10, printed p. 6; Unit 1 §1.2 Programming Basics: §1.2.1 Reserved words (Keywords) of C (the 32-keyword table); Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.
+
+## Sub lesson 2 — Reserved Words Keywords of C
+Sub lesson 2 questions from the type files. Pass mark: Chapter 9 §9.2 Keywords (the 32 ANSI C keywords) and Variables (§9.2.1 declaring a variable; §9.2.2 declaring vs defining; §9.2.3 initializing — uninitialized memory holds garbage; §9.2.4 rules for naming variables, with the readable-names note) — Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 146; Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 146; Chapter 9 §9.2 Keywords (the 32 ANSI C keywords) and Variables (§9.2.1 declaring a variable; §9.2.2 declaring vs defining; §9.2.3 initializing — uninitialized memory holds garbage; §9.2.4 rules for naming variables, with the readable-names note); Follow the book's own steps for this part, in order, and practise until the steps can be done without the book open; Because Pakistan (Punjab)'s course builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it.

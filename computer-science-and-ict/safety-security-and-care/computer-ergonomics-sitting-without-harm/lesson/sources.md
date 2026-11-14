@@ -1,6 +1,6 @@
 # Sources — Computer ergonomics — sitting without harming your body
 
-countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova, Armenia
+countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia
 
 **Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 4 (Digital Literacy and Computer Science, Grade 4 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-265-5. Grade 4 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 20:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What ergonomics is; hours at computers without knowing the consequences | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 5 §5.1, printed pp. 81–82 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia
 | Lesson 2 The computer and health | Armenia Grade 2 G2 student, printed p. 13 |
 | Electronic tasks explained, Theme "How to use electronic devices safely": sitting correctly in front of the computer | Armenia Grade 2 G2 teacher, printed p. 52 (teacher guide — evidence) |
 | Theme 1 Electronic security and health | Armenia Grade 4 G4 student, printed p. 5 |
+| Unit 6 §6.10 Proper posture when using Computer | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 92 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova, Armenia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan, Mongolia, Sri Lanka, Moldova, Armenia, Pakistan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -102,4 +105,6 @@ Armenia's own way (Armenia Grade 2 G2 teacher): Companion to Book 1 in the Zanga
 
 Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan, Matinyan) opens with e-security and health (recognising device malfunctions) and what to tell about yourself online, then purposeful documents (paragraph formats, inserted pictures, tables), slide presentations, e-mail, files, solving technical problems, ways of picturing data, and a Scratch strand of story animation, conditions, loops and variables.
 
-Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2, fiji, years 7-8, year 11, bhutan, class iv, class vi, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, moldova, grade 7 informatica, armenia, grade 2, grade 4
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2, fiji, years 7-8, year 11, bhutan, class iv, class vi, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, moldova, grade 7 informatica, armenia, grade 2, grade 4, pakistan, grade 6 computer science 6

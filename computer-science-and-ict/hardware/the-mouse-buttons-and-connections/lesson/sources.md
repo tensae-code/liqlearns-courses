@@ -1,6 +1,6 @@
 # Sources — The mouse — buttons and connections
 
-countries: Ethiopia, Saudi Arabia, Vietnam
+countries: Ethiopia, Saudi Arabia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Saudi Arabia, Vietnam
 
 **Book 5:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 7:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed p. 22 |
@@ -19,8 +23,10 @@ countries: Ethiopia, Saudi Arabia, Vietnam
 | U.D.1 Séance 3 La souris (right/left click, drawing with the mouse) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 14 (teacher guide — evidence) |
 | Scénario 4 Séance 1: Où est ta souris? choisir avec la souris | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 6 (Scénario 4) (teacher guide — evidence) |
 | Bài 13 Luyện tập sử dụng chuột (Mouse practice: holding, moving, clicking, dragging) | Vietnam Grade 3 Tin học 3, printed p. 59 |
+| Unit 2 §2.2.2 Mouse | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 14 |
+| Unit 1 §1.10.1 Mouse (uses: move pointer, select, open, drag-and-drop, hover, scroll) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Vietnam).**
+**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Vietnam, Pakistan).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -32,4 +38,8 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
 
-Searchable tags: mouse, left click, right-click, properties, scrolling, wired, wireless, mouse pad, Ethiopia Grade 8, saudi arabia, grade 3, morocco, grade 1, switzerland, decodage, grades 12, vietnam, grade 3 tin học 3
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: mouse, left click, right-click, properties, scrolling, wired, wireless, mouse pad, Ethiopia Grade 8, saudi arabia, grade 3, morocco, grade 1, switzerland, decodage, grades 12, vietnam, grade 3 tin học 3, pakistan, grade 6 computer science 6, grade 7 computer science 7

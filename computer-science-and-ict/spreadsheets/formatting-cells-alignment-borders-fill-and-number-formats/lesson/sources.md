@@ -1,6 +1,6 @@
 # Sources — Formatting cells — alignment, borders, fill and number formats
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia, Vietnam, South Sudan
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia,
 
 **Book 22:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 23:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — alignment: three horizontal and three vertical, on the Home tab; text bottom-left, numbers bottom-right by nature; Borders dropdown and Draw Borders tools; Fill Color paints the background | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 119–121 |
@@ -72,8 +74,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia,
 | Chuyên đề 2, Bài 1 Tạo dữ liệu ban đầu với công cụ định dạng bảng (Creating the initial data with table-formatting tools) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 26 |
 | 2.4.4 Formatting Numbers | South Sudan Grade 10 S2 Student, printed p. 55 |
 | Formatting Numbers | South Sudan Grade 10 S2 Teacher, printed p. 27 (teacher guide — evidence) |
+| Unit 3, cell alignment; §3.2.2 Applying Borders and Background Colour to a Cell / Range of Cells | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 71 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia, Vietnam, South Sudan).**
+**Acceptance count: taught in 17 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Armenia, Indonesia, Vietnam, South Sudan, Pakistan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -113,4 +116,6 @@ South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer s
 
 South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
 
-Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, grade 12 ict student, armenia, grade 6, indonesia, grade 7, vietnam, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 10 s2 student, grade 10 s2 teacher
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, grade 12 ict student, armenia, grade 6, indonesia, grade 7, vietnam, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 10 s2 student, grade 10 s2 teacher, pakistan, grade 8 computer education 8

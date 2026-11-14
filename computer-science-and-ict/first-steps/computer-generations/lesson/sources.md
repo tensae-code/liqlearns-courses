@@ -1,6 +1,6 @@
 # Sources — Computer generations — five periods of change
 
-countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia, Vietnam
+countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mong
 
 **Book 16:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 17:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a generation is | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.1, printed p. 2 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mong
 | Ch.10 A short history of electronic computers | Greece Grade 11 EPAL Basika Themata, printed p. 110 |
 | Bab 2 A. Sejarah teknologi informasi | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 86 |
 | Bài 1 Lược sử công cụ tính toán (A short history of calculating tools: abacus, mechanical calculators, computer generations) | Vietnam Grade 8 Tin học 8, printed p. 5 |
+| Unit 1 §1.5 History of Computer | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 3 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia, Vietnam).**
+**Acceptance count: taught in 13 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda, Greece, Indonesia, Vietnam, Pakistan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -86,4 +89,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 tu
 
 Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
 
-Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer, mongolia, grade 12 it xii, rwanda, grade 7 s1 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, indonesia, grade 10, vietnam, grade 8 tin học 8
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer, mongolia, grade 12 it xii, rwanda, grade 7 s1 ict student book, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 epal basika themata, indonesia, grade 10, vietnam, grade 8 tin học 8, pakistan, grade 6 computer science 6

@@ -1,6 +1,6 @@
 # Sources — Spreadsheet formulas — starting with =
 
-countries: Ethiopia, Sri Lanka, Bangladesh, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Sri Lanka, Bangladesh, Armenia, Vietnam, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sri Lanka, Bangladesh, Armenia, Vietnam, South Sudan
 
 **Book 7:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 8:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a formula is — an expression operating on values in a range of cells or a cell; the example adds the values of B2 and B3 | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 54–55 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Sri Lanka, Bangladesh, Armenia, Vietnam, South Sudan
 | Check-questions with answers: §8 Working with electronic spreadsheets | Armenia Grade 7 G7 teacher, printed p. 112 (teacher guide — evidence) |
 | Bài 7 Tính toán tự động trên bảng tính (Automatic calculation: entering formulas) | Vietnam Grade 7 Tin học 7, printed p. 34 |
 | 2.5.2 Entering Formulas | South Sudan Grade 10 S2 Student, printed p. 60 |
+| Unit 3 §3.1.8 Entering a Formula (simple formula adding two cells; mathematical operators) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 53 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, Bangladesh, Armenia, Vietnam, South Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, Bangladesh, Armenia, Vietnam, South Sudan, Pakistan).**
 
 As printed, the section's opening example adds the values of B2 and B3, while its own step-by-step build enters the minus operator; the lesson keeps both exactly as printed — the example for what a formula can do, the minus in the six-step walk-through — and uses its own numbers (9 and 4) so the walked-through result can be checked. The Tip box is marked as ours, not the book's.
 
@@ -43,4 +46,6 @@ Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five E
 
 South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
 
-Searchable tags: spreadsheet formula, equal sign, cell address, operator, B2, B3, Enter, result, Ethiopia Grade 8, sri lanka, grade 9 reading book, bangladesh, grade 9 digital technology, armenia, grade 5, grade 7, vietnam, grade 7 tin học 7, south sudan, grade 10 s2 student
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: spreadsheet formula, equal sign, cell address, operator, B2, B3, Enter, result, Ethiopia Grade 8, sri lanka, grade 9 reading book, bangladesh, grade 9 digital technology, armenia, grade 5, grade 7, vietnam, grade 7 tin học 7, south sudan, grade 10 s2 student, pakistan, grade 8 computer education 8

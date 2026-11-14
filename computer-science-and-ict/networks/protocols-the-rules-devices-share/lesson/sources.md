@@ -1,6 +1,6 @@
 # Sources — Protocols — the rules devices share
 
-countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vietnam
+countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vi
 
 **Book 14:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
+**Book 15:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Shared rules for talking machines | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 43 |
@@ -48,8 +50,9 @@ countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vi
 | Bab 4 Panduan pembelajaran jaringan komputer dan internet: OSI dan TCP/IP | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 144 (teacher guide — evidence) |
 | Bài 4 Giao thức mạng (Network protocols, TCP/IP) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 21 |
 | Bài 4 Giao thức mạng (Network protocols — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 21 |
+| Unit 3 §3.3.1 Protocol | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 61 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia, Indonesia, Vietnam, Pakistan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -78,4 +81,6 @@ Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year
 
 Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
 
-Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 12 it xii, indonesia, grade 11, grade 12, grade 12, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 12 it xii, indonesia, grade 11, grade 12, grade 12, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, pakistan, grade 9 computer science 9

@@ -1,6 +1,6 @@
 # Sources — Phishing — fake messages from trusted names
 
-countries: Ethiopia, Libya, Laos, Bangladesh, Armenia
+countries: Ethiopia, Libya, Laos, Bangladesh, Armenia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Libya, Laos, Bangladesh, Armenia
 
 **Book 9:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 10:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 11:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phishing defined; aims — steal data, install malware; recognition as the defence | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 201 |
@@ -31,8 +35,10 @@ countries: Ethiopia, Libya, Laos, Bangladesh, Armenia
 | Activité 4 Temps 2.3: Hameçonnage («phishing») — être méfiant et observateur | Switzerland Grade 7 Décodage 7e–8e, printed p. 11 (Activité 4) (teacher guide — evidence) |
 | Chapter 1, 1.4: phishing and spamming | Bangladesh HSC ICT, printed p. 30 |
 | 4.2 Phishing and fraud | Armenia Grade 7 G7 student, printed p. 61 |
+| Unit 5, Keep an Eye Out for Scams: phishing | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 84 |
+| Unit 4 §4.5.1 Characteristics of a Phishing Attack (phishing emails; phishing websites) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 92 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Libya, Laos, Bangladesh, Armenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Libya, Laos, Bangladesh, Armenia, Pakistan).**
 
 Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
 
@@ -50,4 +56,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
 
-Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, laos, grade 12 ict student, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, laos, grade 12 ict student, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, pakistan, grade 7 computer science 7, grade 9 computer science 9

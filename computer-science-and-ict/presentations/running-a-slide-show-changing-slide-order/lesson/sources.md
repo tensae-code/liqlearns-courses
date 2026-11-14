@@ -1,6 +1,6 @@
 # Sources — Running a slide show; changing slide order
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan, Moldova
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan, Moldova, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan, Moldova
 
 **Book 9:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 10:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Slide Show tab — from beginning, from current slide; Set Up Slide Show; rehearsing timings | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 133–134 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan, Moldova
 | Capítulo 1.5 Almacenamiento y distribución de presentaciones | Cuba, *Informática, Grade 8*, printed p. 51 |
 | 7.5 Running a Presentation and 7.6 Organizing Slides | Bhutan, *Literacy with ICT, Class VII*, printed p. 105 |
 | 5.7 Rularea și difuzarea prezentărilor | Moldova Grade 7 Informatică, printed p. 110 |
+| Unit 2 §2.2.4 Creating a Slideshow and an executable file | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 28 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan, Moldova).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan, Moldova, Pakistan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -50,4 +53,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: Slide Show tab, Set Up Slide Show, rehearse timings, reordering slides, Slide Sorter drag, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, cuba, grade 8, bhutan, class vii, moldova, grade 7 informatica
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: Slide Show tab, Set Up Slide Show, rehearse timings, reordering slides, Slide Sorter drag, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, cuba, grade 8, bhutan, class vii, moldova, grade 7 informatica, pakistan, grade 7 computer science 7

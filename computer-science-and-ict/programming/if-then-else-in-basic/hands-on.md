@@ -1,0 +1,9 @@
+# Hands-on — If Then Else in BASIC
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Task one
+**Work the book's own example** — Unit 5, IF-THEN-ELSE Statement (smaller-of-two program) Work it with the book open first, step by step, then close the book and do it again.
+
+## Task two
+**Show it to someone else** — Teach if then else in basic to a companion in your own words, with your worked example in front of you, and answer their one question from the lesson.

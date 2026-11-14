@@ -1,6 +1,6 @@
 # Sources - Python and IDLE - where Python code is written
 
-countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam
+countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam
 
 **Book 11:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 12:** *Computer Science and Entrepreneurship 11* (student book, English) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA); based on the Updated/Revised National Curriculum of Pakistan 2023; Experimental Edition; authors Prof. Dr. Muhammad Atif Chattha and Prof. Dr. Syed Waqar ul Qounain Jaffry; no ISBN printed; no printing year printed. Grade 11 (student book). 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Python (popular high-level language; much easier to learn; chosen for teaching beginners) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 134-135 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam
 | Bab 1 B. Program Hello World Python di Google Colab | Indonesia Grade 10 G10 Informatika student, printed p. 10 |
 | Bab 1 D. Berkenalan dengan Python | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 55 |
 | Bài 16 Ngôn ngữ lập trình bậc cao và Python (High-level programming languages and Python) | Vietnam Grade 10 Tin học 10, printed p. 86 |
+| Unit 2 §2.1 Introduction to Python Programming (§2.1.1 programming basics; §2.1.1.2 setting up the Python environment — python.org, "Add Python to PATH") | Pakistan (Punjab) Grade 11 Computer Science and Entrepreneurship 11, printed p. 20 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam).**
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia, Vietnam, Pakistan).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -60,4 +63,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 tu
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 10, grade 10, vietnam, grade 10 tin học 10
+
+Pakistan's own way (Grade 11 Computer Science and Entrepreneurship 11): the new-curriculum Grade 11 book runs the whole arc from making software to selling it: SDLC with UML and design patterns, a full Python course (through OOP, files and exceptions), algorithms with complexity classes (P, NP, NP-hard), data analytics with regression and clustering, cloud and blockchain, and a closing entrepreneurship unit — every unit grounded in Pakistani examples (Daraz, Foodpanda, Careem, Pakola, NADRA, the Personal Data Protection Bill, NR3C-FIA).
+Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 10, grade 10, vietnam, grade 10 tin học 10, pakistan, grade 11 computer science and entrepreneurship 11

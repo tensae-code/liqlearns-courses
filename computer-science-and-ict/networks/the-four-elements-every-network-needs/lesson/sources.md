@@ -1,6 +1,6 @@
 # Sources — The four elements every network needs
 
-countries: Ethiopia, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, Laos, Greece, Bangladesh, Jordan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Laos, Greece, Bangladesh, Jordan
 
 **Book 7:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 8:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
+**Book 9:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four elements, none missing | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 38 |
@@ -26,8 +30,10 @@ countries: Ethiopia, Laos, Greece, Bangladesh, Jordan
 | Learning Experience 6, Sessions 3-6: setting up networking equipment on a map and building the school's learning network | Bangladesh Grade 6 Digital Technology, printed p. 85 |
 | Learning Experience 5, Sessions 5-6: Elements of a Network; Connecting to a Network | Bangladesh Grade 8 Digital Technology, printed p. 120 |
 | Lesson 1: components of computer networks | Jordan Grade 7 G7T1 Student, printed p. 75 |
+| Unit 1 §1.1.2 Components of Computer Network (sending device, receiving device, communication devices, transmission medium) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 3 |
+| Unit 3 §3.3.1 Components of a Communication System (sender, receiver, message — payload and header, protocol, transmission medium) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 60 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Laos, Greece, Bangladesh, Jordan, Pakistan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -43,4 +49,8 @@ Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same pro
 
 Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
 
-Searchable tags: network elements, hardware, network software, protocols, transmission medium, Grade 9 ICT Ethiopia, mauritania, grade 9, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 6 digital technology, grade 8 digital technology, jordan, grade 7 term 1 digital skills
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: network elements, hardware, network software, protocols, transmission medium, Grade 9 ICT Ethiopia, mauritania, grade 9, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 6 digital technology, grade 8 digital technology, jordan, grade 7 term 1 digital skills, pakistan, grade 8 computer education 8, grade 9 computer science 9

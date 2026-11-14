@@ -1,6 +1,6 @@
 # Sources — Satellite networks — uplink, downlink, transponder
 
-countries: Ethiopia, Bangladesh, Jordan
+countries: Ethiopia, Bangladesh, Jordan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bangladesh, Jordan
 
 **Book 5:** *المهارات الرقمية — الصف الثاني عشر — الفصل الدراسي الثاني (Digital Skills, Grade 12, Second Semester, Academic track)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-888-8. Grade 12 (student book). 140 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Draft copy (نسخة قيد الإعداد) watermark, carried as filed.
 
+**Book 6:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nodes that reach anywhere | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed p. 66 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Bangladesh, Jordan
 | Chapter 1, 1.3.4: satellite applications — GPS, television, weather and hurricane imaging | Bangladesh HSC ICT, printed p. 20 |
 | Chapter 2, 2.2.2: satellite communication and VSAT terminals | Bangladesh HSC ICT, printed p. 55 |
 | Lesson 4: satellite-based IoT networks — components, how they work, advantages and challenges | Jordan Grade 12 G12T2 Student, printed p. 54 |
+| Unit 1 §1.2 Satellite Communication | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 14 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Jordan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Jordan, Pakistan).**
 
 No book error touches this lesson. EDUSAT and ETRSS-1 appear only in the teacher guide and are labelled as such.
 
@@ -34,4 +37,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 12 G12T2 Student): Arabic text with every technical term also given in English in parentheses; each lesson opens with main idea, key concepts and learning outcomes and closes with self-assessment; each unit ends with unit questions and a self-checklist. Draft copy (نسخة قيد الإعداد) watermark.
 
-Searchable tags: satellite network, uplink, downlink, transponder, EDUSAT, ETRSS-1, GPS, Grade 10 ICT Ethiopia, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: satellite network, uplink, downlink, transponder, EDUSAT, ETRSS-1, GPS, Grade 10 ICT Ethiopia, bangladesh, grade 7 digital technology, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, pakistan, grade 8 computer education 8

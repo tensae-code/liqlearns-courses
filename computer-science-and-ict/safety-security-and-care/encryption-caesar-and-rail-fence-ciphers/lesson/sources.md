@@ -1,6 +1,6 @@
 # Sources — Encryption — the Caesar and Rail Fence Ciphers
 
-countries: Jordan, Indonesia
+countries: Jordan, Indonesia, Pakistan
 
 **Book 1:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
@@ -12,6 +12,8 @@ countries: Jordan, Indonesia
 
 **Book 5:** *Panduan Guru Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-495-5 (jil. 1 PDF). Grade 10 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 5: Encryption — the concept of encryption, data-encryption methods, the Caesar cipher and the Rail Fence transposition cipher | Jordan Grade 9 G9T2 Student, printed p. 69 |
@@ -19,8 +21,9 @@ countries: Jordan, Indonesia
 | Bab 4 C. Proteksi data di internet: enkripsi dan dekripsi, sandi Vigenere (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 204 |
 | Bab IV Panduan pembelajaran: otentikasi dua faktor dan enkripsi data (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 175 (teacher guide — evidence) |
 | Panduan Khusus Bab 4: panduan pembelajaran perlindungan data, enkripsi dan autentikasi (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika teacher guide, printed p. 270 (teacher guide — evidence) |
+| Unit 4 §4.3.2 Substitution Cipher Methods and §4.3.2.1 Caesar Cipher (filed as NEW LESSON NEEDED — safety-security-and-care/the-caesar-cipher; stocked in this lesson because this lesson teaches the Caesar cipher — shifting every letter by a fixed number of places) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 83 |
 
-**Acceptance count: taught in 2 countries (Jordan, Indonesia).**
+**Acceptance count: taught in 3 countries (Jordan, Indonesia, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Jordan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — safety-security-and-care/encryption-caesar-and-rail-fence-ciphers). It sits in the Safety, Security and Care title (safety-security-and-care/), following the book's own order. Near matches checked by content: Symmetric Encryption — One Shared Key works the Caesar shift as its hands-on example of a shared key, and Comparing Cipher Methods compares shift, substitution and transposition methods; Jordan's Grade 9 lesson teaches the concept of encryption and works both the Caesar cipher and the Rail Fence transposition cipher by hand as the encryption lesson itself, so it is built new. Provenance scope note: the placements stocked here are from Jordan's NCCD Digital Skills books (Arabic); student books and early-grades activity workbooks count toward the acceptance count, and any teacher-guide placements among them are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Scope notes as filed are carried: the Grade 1–6 workbooks and guides integrate partner subjects, and only their ICT teaching parts are placed; the Grade 10 Term 2 book survives as a draft-watermarked copy, carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -34,4 +37,6 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapt
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika teacher guide): Chapter guides (Panduan Khusus) for the four revised Grade 10 chapters — data and its validation, algorithms and data structures, digital technology and culture, information security and management — with the same guide structure as the junior guides. (teacher guide — evidence)
 
-Searchable tags: encryption, caesar cipher, rail fence cipher, substitution, transposition, jordan, grade 9, indonesia, grade 9, grade 10, grade 9, grade 10
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: encryption, caesar cipher, rail fence cipher, substitution, transposition, jordan, grade 9, indonesia, grade 9, grade 10, grade 9, grade 10, pakistan, grade 9 computer science 9

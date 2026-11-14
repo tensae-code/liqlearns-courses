@@ -1,6 +1,6 @@
 # Sources — IP addresses — IPv4 and IPv6
 
-countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Armenia, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Arme
 
 **Book 16:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 17:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Internet Protocol and its address | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 72–73 |
@@ -53,8 +55,9 @@ countries: Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Arme
 | Theme 8-7 Network addressing (§10) | Armenia Grade 8 G8 teacher, printed p. 19 (teacher guide — evidence) |
 | Bab 4 B (internet dan pengalamatan dalam jaringan) | Indonesia Grade 10 G10 Informatika student, printed p. 198 |
 | Bab 4 B (pengalamatan IP saat konfigurasi perangkat) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 136 |
+| Unit 3 §3.5.2 Mapping between Telephone Addressing and Network Addressing (static and dynamic IP) and §3.6.1 Understand IP Addressing (IPv4 32-bit; IPv6 128-bit; DHCP) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 65 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Germany, Nepal, Sudan, Egypt, Libya, Laos, Bangladesh, Armenia, Indonesia, Pakistan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -87,4 +90,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78, bangladesh, grade 9 digital technology, armenia, grade 7, grade 8, indonesia, grade 10, grade 10
+
+Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
+Searchable tags: IP address, IPv4, IPv6, dotted decimal, octet, 32-bit, routing, Grade 10 ICT Ethiopia, germany, nepal, sudan, grade 6, grade 7, egypt, grade 10, libya, grade 11 it student term 2, laos, grade 8 ict student, switzerland, decodage, grades 78, bangladesh, grade 9 digital technology, armenia, grade 7, grade 8, indonesia, grade 10, grade 10, pakistan, grade 9 computer science 9

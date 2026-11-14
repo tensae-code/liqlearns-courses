@@ -1,6 +1,6 @@
 # Sources — Programming languages — and why LOGO
 
-countries: Ethiopia, Libya, Greece, Indonesia
+countries: Ethiopia, Libya, Greece, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Libya, Greece, Indonesia
 
 **Book 13:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 14:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Programming languages defined; C++, Python, Java, LOGO named | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed p.73 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Libya, Greece, Indonesia
 | Introduction §4 Langage (exemples ScratchJr, Scratch, Python) | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 10 (teacher guide — evidence) |
 | Introduction §4 Langage | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 12 (teacher guide — evidence) |
 | Bab 1 D. Pemrograman: bahasa pemrograman (C, C++, Java, Python, PHP), array | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 32 |
+| Unit 5 §5.4 Programming Language (low-level and high-level) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 67 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Libya, Greece, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Libya, Greece, Indonesia, Pakistan).**
 
 Unit 6's expansion of LOGO as 'Logic Oriented Graphics Oriented' is the book's own (non-standard) expansion — the placements direct that it is preserved as Ethiopia's wording, and the lesson does so, saying so openly.
 
@@ -66,4 +69,6 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, indonesia, grade 10
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, indonesia, grade 10, pakistan, grade 6 computer science 6

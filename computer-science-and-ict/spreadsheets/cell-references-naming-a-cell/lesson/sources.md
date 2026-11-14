@@ -1,6 +1,6 @@
 # Sources — Cell references
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sudan
+countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sudan, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sud
 
 **Book 10:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 11:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cell references — column letter and row number (A1, E4); a formula uses the reference instead of the value; changing a referenced value updates every formula using it; a formula cell can be referenced by another formula | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 112 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sud
 | Guide plans for the Excel block (active cell, cell addresses) (teacher guide — evidence) | Jordan Grade 4 G4 Teacher, printed p. 14 (teacher guide — evidence) |
 | Bab 2 B.4 Cell References | Indonesia Grade 7 G7 Informatika student, printed p. 58 |
 | 2.3 Cell References | South Sudan Grade 10 S2 Student, printed p. 46 |
+| Unit 3 §3.1.6 cell address in formulae, functions and charts | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 50 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sudan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sudan, Pakistan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -55,4 +58,6 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
 
-Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8, uzbekistan, grade 9, fiji, years 7-8, jordan, grade 4 digital skills workbook, grade 4 digital skills teacher guide, indonesia, grade 7, south sudan, grade 10 s2 student
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8, uzbekistan, grade 9, fiji, years 7-8, jordan, grade 4 digital skills workbook, grade 4 digital skills teacher guide, indonesia, grade 7, south sudan, grade 10 s2 student, pakistan, grade 8 computer education 8

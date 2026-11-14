@@ -1,6 +1,6 @@
 # Sources — Entering and Editing Data in Cells
 
-countries: Belarus, Yemen, Fiji, Laos, South Sudan
+countries: Belarus, Yemen, Fiji, Laos, South Sudan, Pakistan
 
 **Book 1:** *Інфарматыка — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання (Інфарматыка. 10 клас)* (student book, Belarusian) — Belarus, Выдавецкі цэнтр БДУ, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2011. ISBN 978-985-476-928-8. 152 PDF pages. Verdict: COMPLETE. Read via page renders (scanned image-only PDF; its text layer carries only the adu.by portal watermark) — title/imprint and the complete contents rendered at high resolution, with chapter-opening spot renders for all six chapters. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
@@ -14,6 +14,8 @@ countries: Belarus, Yemen, Fiji, Laos, South Sudan
 
 **Book 6:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | § 11 "Увод і рэдагаванне даных" (entering and editing data) | Belarus, *Інфарматыка. 10 клас*, § 11, printed p. 67 |
@@ -25,8 +27,9 @@ countries: Belarus, Yemen, Fiji, Laos, South Sudan
 | 2.4.2 Entering Numbers as Text (filed as NEW LESSON NEEDED — spreadsheets/entering-numbers-as-text; stocked in this lesson because entering numbers as text is a data-entry behaviour — how Excel treats what is typed into a cell, and how to make it store the digits as text) | South Sudan Grade 10 S2 Student, printed p. 52 |
 | 2.4.3 Entering Date and Time Data (filed as NEW LESSON NEEDED — spreadsheets/entering-date-and-time-data; stocked in this lesson because entering date and time data is data entry into cells — how Excel recognises and stores what is typed) | South Sudan Grade 10 S2 Student, printed p. 53 |
 | Entering data: numbers with fractions, numbers as text, date and time data (filed as NEW LESSON NEEDED — spreadsheets/entering-data-in-excel; stocked in this lesson because entering data into Excel cells is this lesson's whole subject) | South Sudan Grade 10 S2 Teacher, printed p. 26 (teacher guide — evidence) |
+| Unit 3 §3.1.7 Data Manipulation: Entering Data and Editing Data (filed as NEW LESSON NEEDED — spreadsheets/entering-and-editing-data-in-cells; that slug already exists live, so the placement is stocked here as an existing lesson) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 51 |
 
-**Acceptance count: taught in 5 countries (Belarus, Yemen, Fiji, Laos, South Sudan).**
+**Acceptance count: taught in 6 countries (Belarus, Yemen, Fiji, Laos, South Sudan, Pakistan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -42,4 +45,6 @@ South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer s
 
 South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
 
-Searchable tags: spreadsheet, entering data, editing, formula bar, save workbook, excel, belarus, grade 10, yemen, grade 11, fiji, years 7-8, laos, grade 9 ict student, south sudan, grade 10 s2 student, grade 10 s2 teacher
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: spreadsheet, entering data, editing, formula bar, save workbook, excel, belarus, grade 10, yemen, grade 11, fiji, years 7-8, laos, grade 9 ict student, south sudan, grade 10 s2 student, grade 10 s2 teacher, pakistan, grade 8 computer education 8

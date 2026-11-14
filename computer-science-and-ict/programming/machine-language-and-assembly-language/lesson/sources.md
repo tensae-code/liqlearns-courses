@@ -1,6 +1,6 @@
 # Sources - Machine language and assembly language
 
-countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan
+countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan, Pakistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan
 
 **Book 11:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 12:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Machine language (program; binary; direct understanding; fast, memory-efficient, very hard to write) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 132-133 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan
 | Learning Experience 4 "Programming for Problem Solving", Session 1: Introduction to Programme Design — machine code (0 and 1), programming languages C/C++/Python/Java | Bangladesh Grade 9 Digital Technology, printed p. 102 |
 | Chapter 5, 5.1.1–5.1.2: machine language and assembly language — binary programs, mnemonics and the assembler | Bangladesh HSC ICT, printed p. 146 |
 | Lesson 1: low-level languages (machine language, assembly language) | Jordan Grade 11 G11T1 Student, printed p. 12 |
+| Unit 5 §5.4 Machine Language and Assembly Language | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 67 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Sri Lanka, Greece, Moldova, Bangladesh, Jordan, Pakistan).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -60,4 +63,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills
+
+Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
+Searchable tags: machine language, assembly language, binary, mnemonics, assembler, low-level languages, Grade 11 ICT Ethiopia, Unit 6 programming, papua new guinea, grade 10, sudan, grade 6, grade 9, sri lanka, grade 11 tamil, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 11 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, pakistan, grade 6 computer science 6

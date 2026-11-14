@@ -1,6 +1,6 @@
 # Sources — Drawing a first flowchart
 
-countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Indonesia, Pakistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -41,6 +41,10 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, 
 
 **Book 21:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 22:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 23:** *Computer Education 8* (student book, English) — Pakistan (Punjab), Ch. Ghulam Rasul & Sons, Lahore, for the Punjab Textbook Board (approved under the National Curriculum 2006; NOC dated 02-02-2012); authors Mr. Usman Ali Butt, MCS, and Mr. Azhar Hameed, M.Phil (TQM), MCS; 1st edition, printed March 2018 by A. Y. Printers; no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. Scan note: printed pp. 91–92 are blank in this scan (the §4.1 elements-of-a-problem-statement pages); their content is stated in full in the unit introduction, the summary and the index, so the book is placed complete — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The garden-policy worked example — terminators, diamond, Yes and No paths | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 225–226 |
@@ -63,12 +67,15 @@ countries: Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, 
 | Lesson 2 / unit overview: flowcharts and pseudocode for representing algorithms | Jordan Grade 12 G12T1 Student, printed p. 8 |
 | §19 Describing algorithms by means of block diagrams | Armenia Grade 6 G6 student, printed p. 115 |
 | Bab 1 B (menggambar flowchart dari naratif) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 12 |
+| Unit 3, Examples of Flowcharts (polish your shoe; add three numbers; even or odd; first 10 integers; times table) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 50 |
+| Unit 4 §4.2.3 Some Examples of Flowcharts (make tea; make an omelet; sum and average of five numbers; product of five numbers; larger of two unequal numbers; area of a rectangle; area of a circle) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 95 |
+| Unit 4 Lab Activity: draw flowcharts (smallest of two numbers; square of a number; Fahrenheit to Celsius; Celsius to Fahrenheit; area of a square) | Pakistan (Punjab) Grade 8 Computer Education 8, printed p. 104 |
 
 | Drawing flowcharts — add two numbers; positive or negative (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 213–214 |
 | Unit 3, 3-2: Drawing flowcharts — a simple program and a complex program | Sudan, *Computer Science, Grade 11*, printed p. 28 |
 | Unit 3 Lesson 3: Drawing flowcharts for problems | Sudan, *ICT, Grade 9*, printed p. 42 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Indonesia, Pakistan).**
 
 Book error, taught corrected: the teacher guide's worked speed-limit flowchart answer tangles its own FALSE branch in words ('if the S is less than or equal to 40, it is FALSE'); the lesson teaches the student book's three speed bands as printed, and the guide's sentence is not followed.
 
@@ -110,4 +117,8 @@ Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 12 term 1 digital skills, armenia, grade 6, indonesia, grade 10
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+
+Pakistan's own way (Grade 8 Computer Education 8): the Grade 8 book is the older National-Curriculum-2006 Punjab book (not SNC): it teaches networks through physical media and cutting-edge wireless (cellular, satellite, GPS, Bluetooth), a whole unit of hands-on antivirus management (definitions, updates, an AVG whole-computer scan), Excel 2007 taught through three full worked reports (monthly expenses, salaries, school results), and programming in GW-BASIC with line numbers — the pre-SNC Punjab way into code.
+Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, kuwait, grade 10 information technology term 1, grade 5 digital explorer term 1, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, grade 7 digital technology, jordan, grade 12 term 1 digital skills, armenia, grade 6, indonesia, grade 10, pakistan, grade 7 computer science 7, grade 8 computer education 8

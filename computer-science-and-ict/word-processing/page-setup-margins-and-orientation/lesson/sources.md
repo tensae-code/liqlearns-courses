@@ -1,6 +1,6 @@
 # Sources — Page Setup — Margins and Orientation
 
-countries: Uganda, Rwanda, Laos, Moldova
+countries: Uganda, Rwanda, Laos, Moldova, Pakistan
 
 **Book 1:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
@@ -12,6 +12,8 @@ countries: Uganda, Rwanda, Laos, Moldova
 
 **Book 5:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 6:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Changing page orientation; setting margins; using columns in text | Uganda, *ICT Textbook Senior One*, printed p. 26 |
@@ -22,8 +24,9 @@ countries: Uganda, Rwanda, Laos, Moldova
 | Unit 6 guide: word processing basics II (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 82 (teacher guide — evidence) |
 | Ch.3 §3.2 Setting up the document page | Laos Grade 9 ICT student, printed p. 33 |
 | 1.4 Formatarea paginilor (filed as NEW LESSON NEEDED — word-processing/page-setup-margins-orientation-and-size; stocked in this lesson because this lesson teaches page setup — margins and orientation — the page formatting of Moldova's section) | Moldova Grade 8 Informatică, printed p. 18 |
+| Unit 2 §2.1.6 Format a Document: page margins and page layout (filed as NEW LESSON NEEDED — word-processing/page-margins-and-page-layout; stocked in this lesson because this lesson teaches page setup — margins and orientation, the page layout's frame) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 20 |
 
-**Acceptance count: taught in 4 countries (Uganda, Rwanda, Laos, Moldova).**
+**Acceptance count: taught in 5 countries (Uganda, Rwanda, Laos, Moldova, Pakistan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Uganda, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked first: Word Processing holds lessons on opening, typing, formatting and tables, but none teaches page setup — orientation, margins and columns — as its own lesson. The placements file named this slug directly (NEW LESSON NEEDED — word-processing/page-setup-margins-and-orientation). It sits in the Word Processing title (word-processing/). It has three sub lessons: orientation first, then margins, then columns — three distinct sequential parts of setting up one page, each opening by proving the one before.
 
@@ -37,4 +40,6 @@ Laos's own way (Grade 9 ICT student book): the first fully practical year — a 
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: page setup, margins, orientation, portrait, landscape, columns, word processing, uganda, grade 8, ncdc, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 9 ict student, moldova, grade 8 informatica
+
+Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
+Searchable tags: page setup, margins, orientation, portrait, landscape, columns, word processing, uganda, grade 8, ncdc, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 9 ict student, moldova, grade 8 informatica, pakistan, grade 7 computer science 7
