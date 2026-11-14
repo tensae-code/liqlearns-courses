@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Making Things: By Hand and by Factory
 
-countries: Ethiopia, Ecuador, Venezuela, Angola, North Macedonia, Bangladesh
+countries: Ethiopia, Ecuador, Venezuela, Angola, North Macedonia, Bangladesh, Saudi Arabia
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -107,3 +107,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, work-and-heritage making-things-by-hand-and-by-factory
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 2):** *Science — Grade 2 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-206-9; 163 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 163; bytes 63,108,610. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 159–162 and the closing Vision 2030 page all present). The student references at the back (measurement, science tools, safety, printed pp. 152–158) repeat the series references placed from Grade 1 Part 2 and are not re-placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| science reading "Natural or Man-made?": the wooden chair is made of wood, a natural product from trees — people cut the trees and shape the wood with special tools, and painting or carving it does not change its natural colour claim... the reading contrasts it with the plastic chair: plastic is man-made, people gather chemical materials and shape them in moulds, and colour can be added to the chemicals so the plastic comes out coloured (Saudi Arabia, Grade 2, Part 2) | Saudi Arabia, *Science, Grade 2, Part 2*, printed pp. 66–67 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Venezuela, Angola, North Macedonia, Bangladesh, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, work-and-heritage making-things-by-hand-and-by-factory

@@ -1,6 +1,6 @@
 # Sources — Electricity and magnets
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China, Saudi Arabia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -55,3 +55,18 @@ Searchable tags: mongolia, electricity and magnets, khun ba orchin, khun ba baig
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, electricity and magnets
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| conduction of heat and electricity: most metallic elements conduct heat and electricity, so aluminium is used for cooking pots and copper for electric wires, while wood and plastic do not conduct and are used for pot handles and for covering copper wire against electric shock; a properties table compares a metal teapot with a glass cup (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 69 |
+| "I work as a scientist — Can you light the lamp?": hypothesise that the material of the wire affects the working of the circuit; test by replacing the copper wires with woollen threads or plastic straws and draw circuit diagrams for two materials that do not light the lamp; guided then open inquiry into which materials must be used for circuits and which block the current (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed pp. 174–175 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, China, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials electricity-and-magnets

@@ -1,6 +1,6 @@
 # Sources — The microscope — seeing the unseen
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka
+countries: Ethiopia, Iceland (teacher-guide evidence only), Pakistan (Punjab), Cuba, Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Kuwait, Sri Lanka, Saudi Arabia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -154,3 +154,17 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, the microscope see
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, the microscope seeing the unseen
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Student Learning Resources: "Use of the compound microscope and care of it" — the labelled microscope and its parts, how to carry it, keep its lenses untouched, focus from the low-power lens upward, and keep it covered; and how to prepare a wet slide (a drop of water, the specimen, and the cover slip lowered at an angle to keep air bubbles out) (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 220 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Pakistan (Punjab), Cuba, Egypt, Venezuela, Angola, Kuwait, Sri Lanka, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, the-human-body the-microscope-seeing-the-unseen

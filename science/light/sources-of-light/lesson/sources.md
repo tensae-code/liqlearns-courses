@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -383,3 +383,17 @@ Searchable tags: fiji, fiji science, ministry of education fiji, light sources-o
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, light sources-of-light
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 2):** *Science — Grade 1 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-136-9; 119 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 119; bytes 203,465,129. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 114–118 and the closing Vision 2030 page all present). The series safety-instructions page (printed p. 8) is identical to Part 1's and is placed from Part 1, not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sources of light inside the same lesson: most light on Earth comes from the sun, the stars also shine, and people make other light sources (house lamps, hand torches, street lamps); we see a thing when light falls on it and bounces from it into our eyes, and eyesight differs between sunglasses, clear glasses and covered eyes (Saudi Arabia, Grade 1, Part 2) | Saudi Arabia, *Science, Grade 1, Part 2*, printed p. 102 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Guyana, United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, light sources-of-light

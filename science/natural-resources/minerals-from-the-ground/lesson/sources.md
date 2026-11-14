@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Saudi Arabia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -334,3 +334,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, natural-resources mineral
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, natural-resources minerals-from-the-ground
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 1):** *Science — Grade 2 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-36-8; 177 pp. Student book. PDF pages: 177; bytes 39,607,101. Verdict: COMPLETE (front "I Work as a Scientist" section printed pp. 10–25 through the science-skills reference printed pp. 174–175 and the closing Vision 2030 page all present). The back safety reference (printed pp. 168–169) is the same series reference placed from Grade 1 Part 1 and is not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3, Ch. 6, Lesson 1 "Rocks and Minerals": water, air, plants, animals and rocks are all natural resources; rocks are the hard non-living parts of the Earth, most of them solid, differing in shape, size, colour and feel, and people have used them since ancient times for tools — the axe — and for carving and building (the mountains of Al-Hijr near AlUla were carved); minerals are the non-living solid parts rocks are made of, and their uses are tabled (graphite in pencil leads, magnetite in magnets, fluorite in toothpaste, turquoise in jewellery); rocks and minerals form in the Earth over millions of years, so people dig to find them (Saudi Arabia, Grade 2, Part 1) | Saudi Arabia, *Science, Grade 2, Part 1*, printed pp. 138–143 |
+| science reading "Extracting the Raw Materials": the metals in keys, coins and bicycles come from ores inside the earth or on its surface — rocks contain useful minerals such as silver and copper, found near volcanoes, rivers and mountains; the ore is dug out, crushed and ground, the metals separated by magnets, oil separation and chemicals, melted in high-temperature furnaces, poured into moulds and mixed into new products — with the closing writing question: why do people recycle metals? (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed pp. 100–101 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Italy, Costa Rica, Greece, United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Angola, China, Laos, Eritrea, Bangladesh, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, natural-resources minerals-from-the-ground

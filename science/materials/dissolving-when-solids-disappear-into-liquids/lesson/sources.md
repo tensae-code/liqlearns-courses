@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, China, Syria, North Macedonia
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, China, Syria, North Macedonia, Saudi Arabia
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -183,3 +183,19 @@ Placement choice, on the record: the North Macedonia placement(s) above filed as
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials dissolving-when-solids-disappear-into-liquids
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the factors that affect how fast solid materials dissolve in liquids: the higher the temperature, the faster the dissolving, and the smaller the pieces, the faster they dissolve, and stirring the solvent speeds the dissolving too; heating a solution increases the speed of dissolving (Saudi Arabia, Grade 3, Part 2) (placement filed as NEW LESSON NEEDED — materials/what-makes-a-solid-dissolve-faster; stocked into this lesson) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 98 |
+
+**Acceptance count: taught in 11 countries (Serbia, Mongolia, Cuba, Seychelles, Afghanistan, Sudan, Kuwait, China, Syria, North Macedonia, Saudi Arabia).**
+
+Placement choice, on the record: the Saudi Arabia placement(s) above filed as "NEW LESSON NEEDED — materials/what-makes-a-solid-dissolve-faster" stock into this existing lesson, which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson is built, and the original slug is recorded in each row above.
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials dissolving-when-solids-disappear-into-liquids

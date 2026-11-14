@@ -1,6 +1,6 @@
 # Sources — Experiment 1: melting ice and boiling water
 
-countries: Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab), Armenia, Samoa, China, Syria, North Macedonia
+countries: Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab), Armenia, Samoa, China, Syria, North Macedonia, Saudi Arabia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -139,3 +139,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, experi
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, science-skills experiment-1-melting-ice-and-boiling-water
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 2):** *Science — Grade 2 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-206-9; 163 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 163; bytes 63,108,610. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 159–162 and the closing Vision 2030 page all present). The student references at the back (measurement, science tools, safety, printed pp. 152–158) repeat the series references placed from Grade 1 Part 2 and are not re-placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5, Ch. 10, Lesson 2 "Changes in the State of Matter": heating changes matter — melting (الانصهار) turns a solid into a liquid (ice to water; gold and copper need very high heat, then the melted gold is poured into moulds and hardens as it cools; snow on the Al-Lawz mountains in Tabuk, inside the NEOM project area, opens the lesson); when a liquid is heated enough it boils and turns into an invisible gas called water vapour (التبخر); cooling changes matter too — vapour turns back into a liquid (التكثف, seen on the bathroom mirror and the outside of a cold glass), liquids freeze into solids when cold enough (wax freezes at room temperature, water must be much colder), and the class tests butter and chocolate under the sun's rays (Saudi Arabia, Grade 2, Part 2) | Saudi Arabia, *Science, Grade 2, Part 2*, printed pp. 90–95 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab), Armenia, Samoa, China, Syria, North Macedonia, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills experiment-1-melting-ice-and-boiling-water

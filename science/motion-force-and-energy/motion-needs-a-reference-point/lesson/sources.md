@@ -1,6 +1,6 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia, Saudi Arabia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -203,3 +203,17 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, motion
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, motion-force-and-energy motion-needs-a-reference-point
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 2):** *Science — Grade 1 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-136-9; 119 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 119; bytes 203,465,129. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 114–118 and the closing Vision 2030 page all present). The series safety-instructions page (printed p. 8) is identical to Part 1's and is placed from Part 1, not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, Ch. 9, Lesson 1 "Position and Motion": position is where a body is compared with another body, named with words like above, below, right, left (the girl in the pink dress found between the two girls in white); distance is the amount of space between two bodies or places, measured with a ruler or a tape (Saudi Arabia, Grade 1, Part 2) | Saudi Arabia, *Science, Grade 1, Part 2*, printed pp. 72–75 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Syria, Sudan, Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan, Venezuela, Eritrea, North Macedonia, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, motion-force-and-energy motion-needs-a-reference-point

@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -317,3 +317,20 @@ Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-sea
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons measuring-temperature-rain-and-wind
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather-measuring tools: the rain gauge measures the amount of precipitation, and the wind vane shows the direction of the wind (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 16 |
+| wind: air moves from high-pressure areas to low ones because of pressure differences made by temperature differences — the greater the difference, the stronger the wind; wind speed is measured with the anemometer (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 25 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Italy, Mongolia, Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, weather-and-seasons measuring-temperature-rain-and-wind

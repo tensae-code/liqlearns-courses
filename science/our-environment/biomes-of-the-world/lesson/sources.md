@@ -1,6 +1,6 @@
 # Sources — Biomes of the world
 
-countries: Guatemala (teacher-guide evidence only), Eritrea
+countries: Guatemala (teacher-guide evidence only), Eritrea, Saudi Arabia
 
 **Book 1:** *Ciencias Naturales III — Guía de orientaciones metodológicas para docentes, Tercero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales III, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Tercero Básico (Grade 9), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). PDF 89 pages (fetched from the textbooks repo release; 89 pp by its text extraction). Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -30,3 +30,19 @@ Placement choice, on the record: the Eritrea placement(s) above filed as "NEW LE
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, biomes of the world
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 4, Part 1):** *Science — Grade 4 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Fourth Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-39-9; catalogue gives 218 pp (21 × 27.5 cm). Student book. PDF pages: 218; bytes 46,809,197. Verdict: COMPLETE (contents, printed pp. 5–6, through the glossary, printed pp. 209–217, and the closing Vision 2030 page, printed p. 218). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what a biome is: some ecosystems stretch over huge areas of the land with their own plants, animals, soil and climate — each biome has its own average temperature and rainfall; most of the Arab homeland lies in the sandy desert biome, alongside the grassland, forest and mountain biomes pictured on the map; and there are water biomes too, divided by whether their water is fresh or salt, still or flowing (Saudi Arabia, Grade 4, Part 1) (placement filed as NEW LESSON NEEDED — our-environment/biomes-the-worlds-great-living-regions; stocked into this lesson) | Saudi Arabia, *Science, Grade 4, Part 1*, printed pp. 103–104 |
+
+**Acceptance count: taught in 2 countries (Eritrea, Saudi Arabia).**
+
+Placement choice, on the record: the Saudi Arabia placement(s) above filed as "NEW LESSON NEEDED — our-environment/biomes-the-worlds-great-living-regions" stock into this existing lesson, which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson is built, and the original slug is recorded in each row above.
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, our-environment biomes-of-the-world

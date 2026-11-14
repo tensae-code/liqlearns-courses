@@ -1,6 +1,6 @@
 # Sources — Our Community — People Young and Old; People's Jobs
 
-countries: Ethiopia, Serbia, Angola, Bangladesh
+countries: Ethiopia, Serbia, Angola, Bangladesh, Saudi Arabia
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -60,3 +60,24 @@ Placement choice, on the record: the Bangladesh placement(s) above filed under t
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, family-school-and-community people-young-and-old-peoples-jobs
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 2):** *Science — Grade 1 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-136-9; 119 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 119; bytes 203,465,129. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 114–118 and the closing Vision 2030 page all present). The series safety-instructions page (printed p. 8) is identical to Part 1's and is placed from Part 1, not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — Grade 2, Part 1):** *Science — Grade 2 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-36-8; 177 pp. Student book. PDF pages: 177; bytes 39,607,101. Verdict: COMPLETE (front "I Work as a Scientist" section printed pp. 10–25 through the science-skills reference printed pp. 174–175 and the closing Vision 2030 page all present). The back safety reference (printed pp. 168–169) is the same series reference placed from Grade 1 Part 1 and is not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| professions linked to science: "The Baker" — he mixes flour with water and other things to make the dough, leaves it for a while until it is ready for the oven, and the oven's heat changes the dough and makes it bread; modern bakeries use developed tools and techniques (Saudi Arabia, Grade 1, Part 2) | Saudi Arabia, *Science, Grade 1, Part 2*, printed p. 66 |
+| professions linked to science in Ch. 6: the gemologist (عالم الأحجار الكريمة) — a geologist specialised in minerals and rocks who uses his own tools to identify a gem's kind and value and check it for cracks — with the geologist in the field and the jewellery designer (Saudi Arabia, Grade 2, Part 1) | Saudi Arabia, *Science, Grade 2, Part 1*, printed pp. 144–145 |
+| professions linked to science, "The Weather Observer": he works at a meteorological station forecasting the weather for the coming days and telling people through television and other means; he collects weather data with technical devices and computers and coordinates with other observing stations in the world; to become one, study meteorology at university and master the instruments and computer skills — other Earth professions named: the air observer, the astronomer and the astronaut (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 29 |
+| professions linked to science, "The Construction Worker": he builds the homes, mosques, schools and hospitals, doing work as he lifts the bricks, raises the wood and iron and moves the building materials, using his own tools and modern technology; professions linked to building: the architect, the blacksmith and the carpenter; to become a skilled builder, develop your skills in science, mathematics, engineering, drawing and the computer, with patience and honesty (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed pp. 128–129 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Serbia, Angola, Bangladesh, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, family-school-and-community people-young-and-old-peoples-jobs

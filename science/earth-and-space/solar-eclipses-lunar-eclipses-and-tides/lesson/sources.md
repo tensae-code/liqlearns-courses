@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria, Eritrea, North Macedonia, Bangladesh, Fiji
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria, Eritrea, North Macedonia, Bangladesh, Fiji, Saudi Arabia
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -257,3 +257,18 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space solar-ecl
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space solar-eclipses-lunar-eclipses-and-tides
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the lunar eclipse: the earth passes directly between sun and moon, and its shadow falls on the moon — total, partial or penumbral, the moon sometimes turning dark red; the longest total lunar eclipse of the twenty-first century fell on 14 Dhu al-Hijjah 1439 AH, was seen across Saudi Arabia and the world, and its totality lasted about 103 minutes (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 48 |
+| tides: the moon's gravity pulls the sea into two daily rises and falls, on the side facing the moon and the side opposite; the sun also takes part, with about half the moon's effect — when sun, moon and earth line up the tide is at its highest (spring tide), and when the sun and moon stand at 90° it is at its lowest (neap tide) (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 49 |
+
+**Acceptance count: taught in 17 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab, Bangladesh, Fiji, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space solar-eclipses-lunar-eclipses-and-tides

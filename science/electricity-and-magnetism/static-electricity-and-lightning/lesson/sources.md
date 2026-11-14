@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen
+countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen, Saudi Arabia
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -125,3 +125,20 @@ Searchable tags: sri lanka, sri lanka science, static electricity and lightning
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, electricity-and-magnetism static-electricity-and-lightning
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 2):** *Science — Grade 2 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-206-9; 163 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 163; bytes 63,108,610. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 159–162 and the closing Vision 2030 page all present). The student references at the back (measurement, science tools, safety, printed pp. 152–158) repeat the series references placed from Grade 1 Part 2 and are not re-placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| static electricity inside the same lesson: when clothes come out of the tumble dryer some pieces stick together — static electricity (الكهرباء الساكنة) is a kind of energy produced by very tiny parts of matter that we cannot see; it is everywhere, and some tiny things attract each other and some repel, like magnets; a rubbed plastic ruler picks up a paper worm, a charged balloon draws the cat's fur, and lightning is a form of static electricity, its charges moving between the clouds and the Earth — with the family dialogue about not walking in open, raised places during lightning (Saudi Arabia, Grade 2, Part 2) | Saudi Arabia, *Science, Grade 2, Part 2*, printed pp. 144–145 |
+| the types of electricity, 1 — static electricity: charges gathered because of the rubbing of two bodies, one of them becoming negative and the other positive; lightning is static electricity in nature — the negatively charged clouds near the positively charged surface of the earth (the photograph of lightning striking the top of the Makkah clock tower) (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 172 |
+
+**Acceptance count: taught in 8 countries (Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, electricity-and-magnetism static-electricity-and-lightning

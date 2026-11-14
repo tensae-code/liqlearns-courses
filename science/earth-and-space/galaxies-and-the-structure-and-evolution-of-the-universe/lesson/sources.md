@@ -1,6 +1,6 @@
 # Sources — Galaxies and the structure and evolution of the Universe
 
-countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji
+countries: Bulgaria, Yemen, Albania (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, Sri Lanka (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji, Saudi Arabia
 
 **Book 1:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -178,3 +178,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space galaxies-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| galaxies: a gathering of stars, gas and dust bound by gravity, of four shapes — elliptical, spiral, barred spiral and irregular; our Milky Way is a spiral holding hundreds of billions of stars, and the sun takes 225 million years to circle its centre once; the full galaxy can never be seen from earth, because we are inside it (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed pp. 62–63 |
+
+**Acceptance count: taught in 10 countries (Bulgaria, Yemen, Pakistan (Punjab, Bangladesh, Fiji, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space galaxies-and-the-structure-and-evolution-of-the-universe

@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -312,3 +312,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, materials heat-and-how-it
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, materials heat-and-how-it-travels
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 2):** *Science — Grade 2 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-206-9; 163 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 163; bytes 63,108,610. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 159–162 and the closing Vision 2030 page all present). The student references at the back (measurement, science tools, safety, printed pp. 152–158) repeat the series references placed from Grade 1 Part 2 and are not re-placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6, Ch. 12, Lesson 1 "Heat": energy makes matter move or change, and heat is one form of energy that can change matter's state; we use the sun's heat every day — it heats the air, the land and the water on Earth's surface; heat also comes from fuel (الوقود) — material that produces heat when it burns: gas, oil, wood and coal are fuels, used for warming and cooking; rubbing the hands together quickly also produces heat; and heat always moves from the hotter body to the colder body when they touch; temperature (درجة الحرارة) tells how hot or cold a thing is, measured with the thermometer — a body's normal temperature is about 37 degrees, and higher can signal illness (Saudi Arabia, Grade 2, Part 2) | Saudi Arabia, *Science, Grade 2, Part 2*, printed pp. 132–137 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Australia, India, United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials heat-and-how-it-travels

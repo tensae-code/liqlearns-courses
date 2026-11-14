@@ -1,6 +1,6 @@
 # Sources — Water, soil and air around us
 
-countries: Ethiopia, Moldova, Egypt, Sudan, Venezuela, Angola, Bangladesh
+countries: Ethiopia, Moldova, Egypt, Sudan, Venezuela, Angola, Bangladesh, Saudi Arabia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -100,3 +100,18 @@ Searchable tags: angola, ciências da natureza 5, estudo do meio 3, grade 3, gra
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, natural-resources water-soil-and-air-around-us
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| abiotic factors, 3 — water and sunlight: water shapes how fish and whales are formed and lets algae grow (and makes about two-thirds of the human body), while sunlight is the main source of energy for the ecosystem, plants turning it into food that feeds nearly everything directly or indirectly (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 165 |
+| fresh water and its pollution: fresh water is scarce (71% of the earth's surface is water, but fresh water is 1% or less), and daily life pollutes what there is — soapy water and rain-washed pesticides, fertilisers and street oil reaching wells, lakes and rivers, factory waste dumped in water or unlined dumps — while treatments gather used water, clean it and use it again; Saudi water-saving fittings rules cut home water use by 30–40% (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed pp. 196–197 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Moldova, Egypt, Sudan, Venezuela, Angola, Bangladesh, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, natural-resources water-soil-and-air-around-us

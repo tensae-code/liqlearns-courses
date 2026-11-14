@@ -1,6 +1,6 @@
 # Sources — Materials and their properties — hard, strong, flexible
 
-countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Sudan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
+countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Sudan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -378,3 +378,17 @@ Searchable tags: fiji, fiji science, ministry of education fiji, materials mater
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, materials materials-and-their-properties-hard-strong-flexible
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 2):** *Science — Grade 2 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-206-9; 163 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 163; bytes 63,108,610. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 159–162 and the closing Vision 2030 page all present). The student references at the back (measurement, science tools, safety, printed pp. 152–158) repeat the series references placed from Grade 1 Part 2 and are not re-placed here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5, Ch. 9, Lesson 1 "Solid Materials": a solid material has its own fixed shape and many properties — some solids bend (yarn, sponge) and some break (glass), some float and some sink; solids can be hard like iron and wood or soft like stone... the book's own examples run: rock (hard, dotted, rough), coloured yarn (soft, coloured, long and thin), glass (transparent, smooth, breakable), clay (soft, shapeable), sea sponge (yellow, soft, full of holes); not all solid materials are hard; and solids are measured — length, width and height with the ruler in centimetres, and mass with the two-pan balance (Saudi Arabia, Grade 2, Part 2) | Saudi Arabia, *Science, Grade 2, Part 2*, printed pp. 60–65 |
+
+**Acceptance count: taught in 21 countries (Finland, Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, materials materials-and-their-properties-hard-strong-flexible

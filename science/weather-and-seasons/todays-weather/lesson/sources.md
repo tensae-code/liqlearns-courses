@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen, Saudi Arabia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -409,3 +409,24 @@ Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-sea
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons todays-weather
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 2):** *Science — Grade 1 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-136-9; 119 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 119; bytes 203,465,129. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 114–118 and the closing Vision 2030 page all present). The series safety-instructions page (printed p. 8) is identical to Part 1's and is placed from Part 1, not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — Grade 3, Part 2):** *Science — Grade 3 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Third Grade Primary, Part Two of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-202-1; catalogue gives 205 pp. Student book. PDF pages: 205; bytes 83,129,338. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 197–204 and the closing Vision 2030 page all present). Printed page numbers equal PDF page numbers throughout. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4, Ch. 6, Lesson 1 "The Weather Around Us": the weather is the state of the sky and the air through the day — sunny, cloudy, dry, rainy or snowy — and it guides the clothes we choose (Saudi Arabia, Grade 1, Part 2) | Saudi Arabia, *Science, Grade 1, Part 2*, printed pp. 12–15 |
+| Ch. 7 "Weather and Its Variations" and its vocabulary page: weather, temperature, precipitation, the spiral cyclone, the sandstorm and the funnel tornado (tornado) each pictured and defined (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed pp. 10–11 |
+| "What is the weather?": the atmosphere is a cover of layers of gases and dust particles around the Earth, and weather phenomena happen in its lowest layer; the weather is the state of the air in a place during a day or a few days, hot or cold, sunny, cloudy, windy or still (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 14 |
+| describing the weather needs more than temperature: precipitation is the water falling from the atmosphere as rain, snow or hail (a hailstone can be as large as a tennis ball), and wind is moving air that I feel pushing me at times (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 16 |
+| performance task "The Weather in Our Life": a poster on a chosen weather state — describe the state in writing, draw it, and record whether the electricity was cut, whether there was material damage, and whether your plans for that day changed (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 31 |
+| "What are the forms of precipitation?": rain is liquid droplets falling when the air is above freezing; snow forms when water freezes and turns from liquid to solid below zero, gathering in the cloud until it falls light as cotton; hail is solid ice pieces formed inside the thunderstorm clouds, the size of a pea or a tennis ball or larger — and hail may fall in spring and summer (Saudi Arabia, Grade 3, Part 2) | Saudi Arabia, *Science, Grade 3, Part 2*, printed p. 42 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Eritrea, Sri Lanka, Bangladesh, Fiji, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, weather-and-seasons todays-weather

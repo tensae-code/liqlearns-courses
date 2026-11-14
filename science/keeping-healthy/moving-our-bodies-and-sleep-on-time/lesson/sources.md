@@ -1,6 +1,6 @@
 # Sources — Moving our bodies and sleep on time
 
-countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen
+countries: Ethiopia, Turkey, Iceland (teacher-guide evidence only), Mongolia, Ecuador, Venezuela, Angola, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -230,3 +230,21 @@ Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy moving-ou
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy moving-our-bodies-and-sleep-on-time
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 4, Part 1):** *Science — Grade 4 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Fourth Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-39-9; catalogue gives 218 pp (21 × 27.5 cm). Student book. PDF pages: 218; bytes 46,809,197. Verdict: COMPLETE (contents, printed pp. 5–6, through the glossary, printed pp. 209–217, and the closing Vision 2030 page, printed p. 218). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 5, Lesson 1 "Keeping Healthy": what health is — a state of complete soundness of body, mind and spirit, not merely the absence of disease or disability; and to keep our health we must follow the healthy habits: behaviours that benefit a person and help him keep his body sound and far from diseases (Saudi Arabia, Grade 4, Part 1) | Saudi Arabia, *Science, Grade 4, Part 1*, printed p. 166 |
+| the lesson's opening inquiry "What Changes Happen in Your Body When You Run?": explore the effect of practising sport on the heart's beats — measure a partner's pulse with an electronic pulse meter at rest, after walking a minute and after running a minute, record all three in the table, and conclude whether the heart's beats change with exercise (extension: does the pulse rate differ with a person's age?) (Saudi Arabia, Grade 4, Part 1) | Saudi Arabia, *Science, Grade 4, Part 1*, printed pp. 164–165 |
+| sleep and the doctor: a sufficient share of rest matters for the body's health — early sleep refreshes the body and keeps its vigour and activity, and the body needs about 8 hours' sleep a night, so we keenly sleep early and start our school day active (with the week-long sleep-log activity: observe and record your hours of sleep each day and judge whether they are suitable); and we must visit the doctor when we feel ill, follow his instructions with medicines, and take the necessary vaccinations in their times (Saudi Arabia, Grade 4, Part 1) | Saudi Arabia, *Science, Grade 4, Part 1*, printed p. 169 |
+| sport: physical effort a person practises by agreed rules for entertainment, competition, developing skills or strengthening self-confidence; regular sport brings many health benefits — strengthening the body's muscles, raising the breathing system's efficiency and so the body's activity, controlling the body's weight and shedding the excess, and helping participation and forming friendships (the Ministry of Sport's marathon pictured) (Saudi Arabia, Grade 4, Part 1) | Saudi Arabia, *Science, Grade 4, Part 1*, printed p. 170 |
+| Student References, "Food and Health" opener: to protect my body from the danger of disease-causing germs I follow the following — eat balanced healthy food; practise sports activities and games to keep my fitness; take a share of rest, for our bodies need about 10 hours' sleep daily (as printed in the reference); do not share others' drinking and eating tools, and wash my hands well before eating food and after it; take the necessary vaccinations, follow the doctor's instructions when taking medicines, and make a complete check of my body every year (pictured) (Saudi Arabia, Grade 4, Part 1) | Saudi Arabia, *Science, Grade 4, Part 1*, printed p. 200 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Turkey, Mongolia, Ecuador, Venezuela, Angola, China, Syria, North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, keeping-healthy moving-our-bodies-and-sleep-on-time

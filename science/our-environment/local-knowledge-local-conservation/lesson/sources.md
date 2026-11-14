@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -183,3 +183,19 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment local-knowledge-local-conservation
 
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 2, Part 1):** *Science — Grade 2 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-36-8; 177 pp. Student book. PDF pages: 177; bytes 39,607,101. Verdict: COMPLETE (front "I Work as a Scientist" section printed pp. 10–25 through the science-skills reference printed pp. 174–175 and the closing Vision 2030 page all present). The back safety reference (printed pp. 168–169) is the same series reference placed from Grade 1 Part 1 and is not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — Grade 4, Part 1):** *Science — Grade 4 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Fourth Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-39-9; catalogue gives 218 pp (21 × 27.5 cm). Student book. PDF pages: 218; bytes 46,809,197. Verdict: COMPLETE (contents, printed pp. 5–6, through the glossary, printed pp. 209–217, and the closing Vision 2030 page, printed p. 218). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| science reading "Forests in the Kingdom of Saudi Arabia": the Kingdom has many mountain forests in the highlands of Hijaz and Asir, most famous the Raghdan forest near Al-Baha, with juniper trees and fruit trees (almond, olive, peach, apricot, pomegranate, grape); these forests matter because they give shade, hold the soil, clean the agricultural land of the region from drifting, and the people of the area protect them from logging and tree-cutting — with the Vision 2030 environment goal quoted (Saudi Arabia, Grade 2, Part 1) | Saudi Arabia, *Science, Grade 2, Part 1*, printed p. 108 |
+| science reading: "Preserving Wildlife" — Saudi Arabia works to protect wildlife on land and sea and restore degraded habitats, through the national centres established for the purpose (the National Center for Wildlife, the National Center for Vegetation Cover and Combating Desertification, the National Center for Environmental Compliance, the National Center for Wildlife Development and the National Center for Waste Management), pictured at the King Abdulaziz Royal Reserve (Saudi Arabia, Grade 4, Part 1) | Saudi Arabia, *Science, Grade 4, Part 1*, printed p. 130 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Samoa, Angola, Dominican Republic, Indonesia, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, our-environment local-knowledge-local-conservation

@@ -1,6 +1,6 @@
 # Sources — Constellations and the stars we navigate by
 
-countries: Vanuatu (teacher-guide evidence only), Mongolia
+countries: Vanuatu (teacher-guide evidence only), Mongolia, Saudi Arabia
 
 **Book 1:** *SAENS — Tija Gaed, Yia 3* (Science Teacher Guide, Year 3) (teacher guide) — Vanuatu, Ministry of Education and Training (Ministri blong Edukesen mo Trening), Republic of Vanuatu, 2017 (title page; publishing detail: Education Support Program (Vanuatu), managed by Coffey). Grade 3, teacher guide, in Bislama. Records: 3 (TSV blob record + TSV release record + books.json `grade-03/gov/vanuatu/science/teacher/full-year.pdf`, 26,318,188 bytes, 172 pages — both verified exact against the fetched copy) — the same book, cited once here. Verdict: COMPLETE — full text layer, read in full. Printed page = PDF page − 1. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vanuatu-placements.md.
 
@@ -30,3 +30,19 @@ Searchable tags: constellations, southern cross, saoten kros, morning star, even
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, constellations and the stars we navigate by, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the constellations: the stars form patterns of fixed shape in the sky (the Great Bear with its Plough, the Little Bear, Cassiopeia, Cepheus and the Pole Star pictured); ancient peoples imagined shapes in them and named them — the Arabs called the Great Bear's stars Banat Na'sh — and the pattern a people sees stays a matter of imagination — with the classroom model of a constellation to make (Saudi Arabia, First Intermediate, Part 2) (placement filed as NEW LESSON NEEDED — earth-and-space/constellations-star-patterns-and-their-names; stocked into this lesson) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 59 |
+
+**Acceptance count: taught in 2 countries (Mongolia, Saudi Arabia).**
+
+Placement choice, on the record: the Saudi Arabia placement(s) above filed as "NEW LESSON NEEDED — earth-and-space/constellations-star-patterns-and-their-names" stock into this existing lesson, which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson is built, and the original slug is recorded in each row above.
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space constellations-and-the-stars-we-navigate-by

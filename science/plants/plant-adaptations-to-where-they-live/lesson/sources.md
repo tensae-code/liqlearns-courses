@@ -1,6 +1,6 @@
 # Sources — Plant adaptations — to where they live
 
-countries: Barbados (curriculum evidence only), Bulgaria, Cambodia, Fiji (teacher-guide evidence only)
+countries: Barbados (curriculum evidence only), Bulgaria, Cambodia, Fiji (teacher-guide evidence only), Saudi Arabia
 
 **Book (Barbados):** *Primary Science Syllabus, Class One–Four* (curriculum/syllabus) — Barbados. Title as printed: PRIMARY SCIENCE SYLLABUS — CLASS ONE - FOUR. Grade: Classes 1–4 (student/teacher: CURRICULUM syllabus for teachers — attainment targets, content, suggested activities, assessment and resources for every topic; placements are syllabus evidence). Publisher: Ministry of Education and Human Resource Development, Barbados (no year or ISBN printed). PDF pages: 121 (verified: byte size 1,387,877 matches the books.json record exactly; cover page matches the record title). Verdict: COMPLETE. Records: 8 (1 distinct book; the same combined Primary Science Syllabus for Classes One–Four is filed under Grades 1, 2, 3 and 4 in both the TSV list and books.json — verified identical byte size 1,387,877 in every record, cited once here). Barbados's library set is primary Mathematics/Science SYLLABI (curriculum documents; no government pupil textbooks exist) — cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/barbados-placements.md.
 
@@ -61,3 +61,19 @@ Searchable tags: cambodia, moeys, plant adaptations to where they live
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, plants plant-adaptations-to-where-they-live
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 1):** *Science — Grade 1 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part One of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-8527-32-0 (as read from the catalogue page); 119 pp. Student book. PDF pages: 119; bytes 58,520,954. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 112–118 and the closing Vision 2030 page all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1, Ch. 2, Lesson 2 "Plants Live in Many Places": desert plants keep water with thorns instead of leaves, forest plants have large leaves that shed the extra water, and each kind lives where it finds what it needs (Saudi Arabia, Grade 1, Part 1) (placement filed as NEW LESSON NEEDED — plants/plants-live-in-many-places-desert-forest-and-water; stocked into this lesson) | Saudi Arabia, *Science, Grade 1, Part 1*, printed pp. 36–40 |
+
+**Acceptance count: taught in 3 countries (Bulgaria, Cambodia, Saudi Arabia).**
+
+Placement choice, on the record: the Saudi Arabia placement(s) above filed as "NEW LESSON NEEDED — plants/plants-live-in-many-places-desert-forest-and-water" stock into this existing lesson, which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson is built, and the original slug is recorded in each row above.
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, plants plant-adaptations-to-where-they-live

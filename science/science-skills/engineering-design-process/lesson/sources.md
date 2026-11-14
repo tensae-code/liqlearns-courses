@@ -1,6 +1,6 @@
 # Sources — Engineering design process
 
-countries: United States
+countries: United States, Saudi Arabia
 
 **Book (United States — Utah Kindergarten):** *Utah OER Science Textbook – Kindergarten* (student book) — United States. Title as printed: "Kindergarten — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (built on CK-12 Foundation material), © Utah State Board of Education 2025, CC BY-NC-SA. No ISBN printed. PDF: 41,807,239 bytes (matches repo size), 93 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -33,3 +33,19 @@ countries: United States
 Placement choice, on the record: this NEW LESSON was built for the United States placement(s) "NEW LESSON NEEDED — engineering-design-process" — united-states-placements.md, Kindergarten printed p. 10; Kindergarten printed p. 65; Grade 1 printed p. 134; Grade 2 printed p. 35; Grade 3 printed p. 85; Grade 4 printed p. 98; Grade 5 printed p. 44; Grade 7 printed p. 67. No existing general-science lesson covers the engineering design process as its own thing (checked the live repo at merge time: the science-skills lessons teach observing, measuring, fair tests and reporting, but no lesson teaches defining a problem by criteria and constraints and iterating a design), so it gets its own lesson. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills). The United States' own way — the Utah SEEd books teach this thing inside their standards order, in the standards named in the rows above — IS part of this lesson's content, carried exactly as the placements describe it.
 
 Searchable tags: engineering design process, criteria, constraints, design, test, modify, optimise, sketch, model, united states, utah, seed standards
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 4, Part 1):** *Science — Grade 4 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Fourth Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-39-9; catalogue gives 218 pp (21 × 27.5 cm). Student book. PDF pages: 218; bytes 46,809,197. Verdict: COMPLETE (contents, printed pp. 5–6, through the glossary, printed pp. 209–217, and the closing Vision 2030 page, printed p. 218). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| skill focus, science and technology: the design skill — when scientists meet a problem they sometimes must invent a new solution: define the problem, brainstorm ideas, design and build a model, test the model, then improve it or explain the solution; practised on the bridge challenge (a bridge of classroom materials between two books whose plastic cup must hold 20 coins, then improved until it holds 40) (Saudi Arabia, Grade 4, Part 1) (placement filed as NEW LESSON NEEDED — science-skills/designing-solutions-the-engineering-design-process; stocked into this lesson) | Saudi Arabia, *Science, Grade 4, Part 1*, printed pp. 20–21 |
+
+**Acceptance count: taught in 2 countries (United States, Saudi Arabia).**
+
+Placement choice, on the record: the Saudi Arabia placement(s) above filed as "NEW LESSON NEEDED — science-skills/designing-solutions-the-engineering-design-process" stock into this existing lesson, which already covers that thing as its own lesson (checked the live repo at merge time); no second lesson is built, and the original slug is recorded in each row above.
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills engineering-design-process

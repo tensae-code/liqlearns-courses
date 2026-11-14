@@ -1,6 +1,6 @@
 # Sources — Measuring: traditional and modern measures
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bahamas (curriculum evidence only), Cambodia, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Bahamas (curriculum evidence only), Cambodia, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), Saudi Arabia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -175,3 +175,17 @@ Searchable tags: sri lanka, sri lanka science, measuring traditional and modern 
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 2):** *Science — Grade 1 Primary, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-136-9; 119 pp. Student book. Units 4–6 continue Part 1's numbering. PDF pages: 119; bytes 203,465,129. Verdict: COMPLETE (contents printed pp. 5–6 through the pictured glossary printed pp. 114–118 and the closing Vision 2030 page all present). The series safety-instructions page (printed p. 8) is identical to Part 1's and is placed from Part 1, not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the student reference "Measurement": non-standard tools (rows of paper clips, the hand span) and standard tools (the ruler measures in centimetres; the graduated cup measures a liquid's volume; the two-pan balance measures mass; the clock measures time in hours, minutes and seconds; the thermometer measures temperature in degrees) (Saudi Arabia, Grade 1, Part 2) | Saudi Arabia, *Science, Grade 1, Part 2*, printed pp. 109–112 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Syria, Laos, Sri Lanka, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills measuring-traditional-and-modern-measures

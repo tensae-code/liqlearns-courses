@@ -1,6 +1,6 @@
 # Sources — Animals — birds
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Saudi Arabia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -237,3 +237,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, animals animals-birds
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, animals animals-birds
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 1):** *Science — Grade 1 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part One of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-8527-32-0 (as read from the catalogue page); 119 pp. Student book. PDF pages: 119; bytes 58,520,954. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 112–118 and the closing Vision 2030 page all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the birds inside "Kinds of Animals": feathers cover the body, a beak, two legs and two wings for flying, with the fact that some birds cannot fly (the ostrich) and one mammal can (the bat) (Saudi Arabia, Grade 1, Part 1) | Saudi Arabia, *Science, Grade 1, Part 1*, printed p. 51 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Sweden, Bulgaria, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, animals animals-birds

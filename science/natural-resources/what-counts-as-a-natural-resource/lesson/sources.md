@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia, Afghanistan, Kuwait, China, Syria, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Nauru, Tuvalu, Niue, India, Bahamas (curriculum evidence only), Pakistan (Punjab), Cambodia, Afghanistan, Kuwait, China, Syria, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Saudi Arabia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -288,3 +288,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, natu
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, natural-resources what-counts-as-a-natural-resource
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — Grade 1, Part 1):** *Science — Grade 1 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Grade Primary, Part One of the Course; National Center for Curricula (المركز الوطني للمناهج), Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-8527-32-0 (as read from the catalogue page); 119 pp. Student book. PDF pages: 119; bytes 58,520,954. Verdict: COMPLETE (safety instructions printed p. 8 through the pictured glossary printed pp. 112–118 and the closing Vision 2030 page all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3, Ch. 5, Lesson 1 "Earth's Resources": natural resources are the things we get from the Earth and use — living ones (animals and plants) and non-living ones (rocks, soil, water, air) — and soil is a natural resource plants, animals and people all need (Saudi Arabia, Grade 1, Part 1) | Saudi Arabia, *Science, Grade 1, Part 1*, printed pp. 88–93 |
+| Ch. 13, Lesson 1 "Using Natural Resources": what a natural resource is — the vegetables we eat, the wood and minerals in furniture, the luxuries too; traced through a CD player: cardboard from trees, plastic from crude oil pumped from deep in the earth, metal parts from minerals — every part of a made thing comes from a natural resource, and moving resources to factories itself spends energy (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed pp. 187–188 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Nauru, Tuvalu, Niue, India, Pakistan (Punjab, Bangladesh, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, natural-resources what-counts-as-a-natural-resource

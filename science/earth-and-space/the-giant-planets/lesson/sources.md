@@ -1,6 +1,6 @@
 # Sources — The giant planets — Jupiter, Saturn, Uranus and Neptune
 
-countries: Ethiopia, Finland (teacher-training evidence only)
+countries: Ethiopia, Finland (teacher-training evidence only), Saudi Arabia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -17,3 +17,17 @@ countries: Ethiopia, Finland (teacher-training evidence only)
 MOON COUNTS: the student book's printed counts (Jupiter 16, Saturn 31, Uranus 21, Neptune 11) are as-of-print figures and are now out of date; they are taught here as the book's figures, flagged as of the book, never presented as current. The guide keys' counts (Jupiter 67, Saturn 62) are likewise dated and are NOT used. The book prints 'Staurn' for Saturn (p. 166) — a misprint, never reproduced. Pluto wording leftovers in this part of the book (§6.2.2.7 still exempts 'Pluto' from a statement about planets' axes; Neptune is 'usually the eighth planet', p. 168) sit against the 2006 demotion the book itself teaches in §6.2.3: the demotion is what is taught (see the Small bodies lesson).
 
 Searchable tags: Jupiter, Galilean moons, Saturn rings, Titan, Uranus tipped axis, Neptune Great Dark Spot, Triton, moon counts as printed, Ethiopia Grade 8 General Science Unit 6, finland
+
+## Saudi Arabia growth (2026-11-14, General Science expansion)
+
+**Book (Saudi Arabia — First Intermediate, Part 2):** *Science — First Intermediate Grade, Part 2 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), First Intermediate Grade, Part Two of the Course; National Center for Curricula, Riyadh, 1447 AH; edition 1447–2025; ISBN 978-603-514-200-7; catalogue gives 228 pp. Student book (CamScanner scans). RECORD MISMATCH NAMED: both library records carry the grade as "Grade 1" / "grade-01", but the book is First INTERMEDIATE (school year 7), not primary Grade 1 — filed here as what it is. PDF pages: 228; bytes 25,248,796. Verdict: COMPLETE (contents pp. 6–7 through the glossary, printed pp. 221–227, and the closing Vision 2030 page, printed p. 228). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the outer (gas) planets: Jupiter, the largest, turning in about 10 hours, with its Great Red Spot storm and 79 moons (Ganymede bigger than Mercury); Saturn, with wide rings of ice and rock pieces and 62 moons; Uranus, turning on a horizontal axis, greenish-blue from methane; Neptune, the farthest, blue, with 13 moons (Saudi Arabia, First Intermediate, Part 2) | Saudi Arabia, *Science, First Intermediate, Part 2*, printed p. 53 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).**
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space the-giant-planets

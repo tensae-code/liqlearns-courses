@@ -1,0 +1,17 @@
+# Sources — How plants make new plants — flowers, pollen, seeds and life cycles
+
+countries: Saudi Arabia
+
+**Book (Saudi Arabia — Grade 2, Part 1):** *Science — Grade 2 Primary, Part 1 of the Course* (student book) — Saudi Arabia. Identity as printed: العلوم (Science), Second Grade Primary, Part One of the Course; National Center for Curricula, Riyadh, 1446 AH; edition 1448–2026; ISBN 978-603-8527-36-8; 177 pp. Student book. PDF pages: 177; bytes 39,607,101. Verdict: COMPLETE (front "I Work as a Scientist" section printed pp. 10–25 through the science-skills reference printed pp. 174–175 and the closing Vision 2030 page all present). The back safety reference (printed pp. 168–169) is the same series reference placed from Grade 1 Part 1 and is not repeated here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/saudi-arabia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1, Ch. 1, Lesson 2 "Plants Produce New Plants": the flower forms the seeds and fruits; pollen is the powder inside the flower that helps make seeds, carried by birds, bees, wind and water; most plants grow from seeds, a seed holds food for the new plant's growth and its parts are studied on the peanut (hard shell, thin coat, the embryo, the food store — "seeds are living things"); seeds travel far by wind and water or in animals' droppings; and every plant has a life cycle like the pomegranate tree's, some lasting weeks and some (the palm) many years (Saudi Arabia, Grade 2, Part 1) | Saudi Arabia, *Science, Grade 2, Part 1*, printed pp. 38–44 |
+
+**Acceptance count: taught in 1 country (Saudi Arabia).**
+
+Placement choice, on the record: this NEW LESSON was built for the Saudi Arabia placement(s) filed as "NEW LESSON NEEDED — plants/how-plants-make-new-plants-flowers-pollen-seeds-and-life-cycles" — saudi-arabia-placements.md (Saudi Arabia, Grade 2, Part 1 — *Science, Grade 2, Part 1*, printed pp. 38–44). No existing general-science lesson covers this thing as its own lesson (checked the live repo at merge time), so it gets its own lesson, under the placement's own slug. It sits in plants/ and is registered in CURRICULUM.md Unit 8 (Plants).
+
+Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: saudi arabia, saudi arabia science, national center for curricula, plants how-plants-make-new-plants-flowers-pollen-seeds-and-life-cycles

@@ -1,0 +1,29 @@
+# Physical changes — shape, state and appearance
+
+## Do it first
+Before you read: say, in one sentence, what you think this lesson's one thing is, from its title alone — **Physical changes — shape, state and appearance**. Then read on: this is Saudi Arabia's way in — its book teaches this thing at the place cited in the sources, in the order below.
+
+## Sub lesson 1 — Ch.
+
+Ch.
+
+[Picture — the lesson's central object or set-up, from sub lesson 1 — the student names its parts before reading on]
+
+[GIF — the lesson's central change or test result, from sub lesson 1 — the student says what changed and what it proves]
+
+## Sub lesson 2 — Physical Changes
+
+10, Lesson 1 "Physical Changes": tearing a sheet of paper changes its shape and appearance but the paper stays paper; the change of state (water freezing) is also a physical change, as are stretching a rubber band back to its length and colouring a material, which does not change what it is made of
+
+## The key ideas
+
+- **Ch.** — as taught above, in the lesson's own order.
+- **Physical Changes** — as taught above, in the lesson's own order.
+
+## Say it to your companion
+Explain this lesson to your companion in your own words, in the lesson's own order. Your companion may stop you once and ask: "What is this lesson's one thing?" Answer: physical changes — shape, state and appearance.
+
+## Do It Yourself
+1. Write this lesson's key names from memory, then check them against the lesson.
+2. Retell the lesson in its own order — Ch. → Physical Changes — in one sentence per sub lesson.
+3. Teach the hardest part of this lesson to someone at home in five sentences.
