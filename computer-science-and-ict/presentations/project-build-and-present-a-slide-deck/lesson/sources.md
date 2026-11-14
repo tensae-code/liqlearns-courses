@@ -1,6 +1,6 @@
 # Sources — Project: build and present a slide deck
 
-countries: Ethiopia, Sudan, Cuba, Bhutan
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sudan, Cuba, Bhutan
 
 **Book 7:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 8:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical Exercise 3.7 — the group presentation and its set tasks; saved in a Presentation Project folder in Documents | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 132, 135 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Sudan, Cuba, Bhutan
 | Capítulo 2.3 Creación de presentaciones con información extraída de software educativo y enciclopedias | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 36 |
 | 10 End of the Year Activity, Task 2: designing a presentation (with peer Track Changes/Comments review by email) | Bhutan, *Literacy with ICT, Class VII*, printed p. 137 |
 | 8 End of the Year Activity, Task 1: presentation with animation and multimedia elements | Bhutan, *Literacy with ICT, Class VIII*, printed p. 105 |
+| Ch 7, applications: a personal-introduction presentation, a presentation about a sample of Libyan kitchen dishes, a presentation about Libya's archaeological cities and landmarks | Libya Grade 12 IT Humanities, printed p. 101 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Cuba, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya).**
 
 No book error touches this part.
 
@@ -40,4 +43,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
 
-Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii
+Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
+
+Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6, bhutan, class vii, class viii, libya, grade 12 it humanities

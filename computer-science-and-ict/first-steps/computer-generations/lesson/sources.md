@@ -1,6 +1,6 @@
 # Sources — Computer generations — five periods of change
 
-countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt
+countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt
 
 **Book 9:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 10:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a generation is | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.1, printed p. 2 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt
 | Глава III "Компьютеры", Урок 11 "Краткая история развития вычислительной техники" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 50 |
 | Unidad 4.1 Reseña histórica de los medios de cómputo (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
 | 4-1 Development of Information Technology | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 42 |
+| Unit 1 Ch 1.1, historical introduction to the appearance and spread of computers | Libya Grade 8 Computer, printed p. 11 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -51,4 +54,6 @@ Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficad
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10
+Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
+
+Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer

@@ -1,6 +1,6 @@
 # Sources — User accounts — Administrator, Standard, Guest
 
-countries: Ethiopia, Bhutan
+countries: Ethiopia, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -8,17 +8,27 @@ countries: Ethiopia, Bhutan
 
 **Book 3:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 4:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
+**Book 5:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computer security — definition and three threats; passwords on accounts | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed pp.65–67 |
 | User account — identity of user name plus password | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed pp.65–67 |
 | Administrator, Standard, Guest — powers and limits | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed pp.65–67 |
 | 3.3 User Account and Password (why accounts limit access) | Bhutan, *Literacy with ICT, Class V*, printed p. 39 |
+| Ch 1, protecting software and databases: user-identity level, usage-permissions level, database security | Libya Grade 12 IT Humanities, printed p. 13 |
+| Ch 1, protecting software (user-identity level, usage-permissions level) and the security of databases | Libya Grade 12 IT Science, printed p. 13 |
 
 | User accounts at Grade 10 depth — definition as settings and permissions; the powers table; the checking route (growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 192–194 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bhutan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Libya).**
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: user accounts, administrator, standard account, guest account, computer security, password, Grade 7 ICT Ethiopia, bhutan, class v
+Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
+
+Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
+
+Searchable tags: user accounts, administrator, standard account, guest account, computer security, password, Grade 7 ICT Ethiopia, bhutan, class v, libya, grade 12 it humanities, grade 12 it science

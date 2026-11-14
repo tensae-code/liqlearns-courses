@@ -1,6 +1,6 @@
 # Sources — Cyber security — defending everything connected
 
-countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt
+countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt
 
 **Book 7:** *Computer and Information and Communication Technology — Third grade preparatory, First Term, 2026/2027* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2026/2027. No ISBN printed. 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 8:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
+**Book 9:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What cyber security is; its aim and five categories | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 197–198 |
@@ -26,8 +30,10 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt
 | Capítulo 3.1 ¿Qué es la ciberseguridad? Su importancia | Cuba, *Informática, Grade 9*, printed p. 45 |
 | 3-3 Threats and Countermeasures in Information Security [3] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 32 |
 | Unit 2 Lesson 3, cyber awareness | Egypt, *Computer and ICT, Grade 9 Term 1 (Arabic)*, printed p. 81 |
+| Ch 1, the security of data and information: computer crimes (indecent information, computer-time theft, electronic defamation) | Libya Grade 12 IT Humanities, printed p. 9 |
+| Ch 1, the security of data and information: computer crimes (indecent information, computer-time theft, electronic defamation, information piracy) | Libya Grade 12 IT Science, printed p. 9 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya).**
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
@@ -39,4 +45,8 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 9, Term 1 student book (Arabic)): Preparatory 3 goes deep on Python — computational thinking, AI algorithms, strings/lists, functions with parameters, input-error handling — then a second unit on AI and cybersecurity ending with deepfakes.
 
-Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9
+Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
+
+Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
+
+Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science

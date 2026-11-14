@@ -1,6 +1,6 @@
 # Sources — The parts of a web address
 
-countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan
+countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan
 
 **Book 7:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 8:** *الحاسوب للصف التاسع من مرحلة التعليم الأساسي (Computer, Grade 9, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 137 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four parts of an address — protocol, www, domain name, extension; the google example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.52 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan
 | 1.1 Parts of a URL (http, www, domain name, .fj country code) | Fiji, *Computer Studies, Year 12*, printed p. 8 |
 | 5.1 Uniform Resource Locator (URL) | Bhutan, *Literacy with ICT, Class IV*, printed p. 41 |
 | 3.4 Web Address | Bhutan, *Literacy with ICT, Class VI*, printed p. 54 |
+| Unit 2 Ch 1, website addresses on the Internet | Libya Grade 9 Computer, printed p. 71 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Germany, China, Sudan, Fiji, Bhutan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Germany, China, Sudan, Fiji, Bhutan, Libya).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -40,4 +43,6 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
 
-Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12, bhutan, class iv, class vi
+Libya's own way (Grade 9, Computer student book): the whole year is networks and the internet — a full networks unit (types, cables, topology, components), then Internet Explorer and Google search taught as named skills, then email and a closing tour of social sites (Facebook, YouTube, Twitter, Instagram, Yahoo) with practical activities.
+
+Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer

@@ -1,6 +1,6 @@
 # Sources — HTML tables
 
-countries: Ethiopia, Belarus, Iraq
+countries: Ethiopia, Belarus, Iraq, Libya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Belarus, Iraq
 
 **Book 4:** *الحاسوب — الرابع الإعدادي (Computer, Fourth Preparatory Grade), Grade 10* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), third edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 5:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
+
+**Book 6:** *تقنية المعلومات — دليل المعلم، للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology teacher guide, Grade 11, both sections, Term 2)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 39 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a table is for, and its four tags | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 91–92 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Belarus, Iraq
 | Activity 4.11 solved borderless, then with headers and an empty corner cell (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 4, printed pp. 74–77 |
 | § 5.3 "Выкарыстанне табліц" (using tables, in FrontPage) | Belarus, *Інфарматыка. 11 клас*, § 5.3, printed p. 50 |
 | Unit 4 Ch.1 Lesson 3 Creating tables in HTML | Iraq, *Computer, Grade 10*, printed p. 118 |
+| Ch 5, tables: sizing a table, aligning text in tables, putting images in table cells | Libya Grade 11 IT student Term 2, printed p. 60 |
+| Guide Ch 5, lists and tables (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 27 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Iraq).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Iraq, Libya).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -26,4 +32,8 @@ Unit 4 figure references and captions repeatedly disagree in the student book (t
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
-Searchable tags: HTML tables, table row header data tags, border attribute, Ethiopian mountains, Grade 11 ICT Ethiopia, belarus, iraq, grade 10
+Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 is web authoring from first principles — internet architecture and protocols, then hand-written HTML (structure, text formatting, links, lists, tables), then publishing a site properly (domain, hosting, FTP) and three full website projects. The book is printed for BOTH the Science and Humanities sections, although the records label it Humanities only — cited as printed.
+
+Libya's own way (Grade 11 Term 2, Information Technology teacher guide): each web chapter is taught as target outcomes + a chapter summary + scripted lesson steps (an introduction and set activities — e.g. pupils role-play the devices of a network) + answers to the chapter questions. The guide is printed for both the Science and Humanities sections. (teacher guide — evidence)
+
+Searchable tags: HTML tables, table row header data tags, border attribute, Ethiopian mountains, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, libya, grade 11 it student term 2, grade 11 it teacher guide term 2

@@ -1047,3 +1047,19 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Bhutan): Good Backup Practice · Preventing Malware Infection
 
 **Computers in Society** (ICT expansion, from Bhutan): Creative Commons Licences · Software Piracy · Risks and Consequences of Using Pirated Software
+
+**First Steps** (ICT expansion, from Libya): Number Systems Through History
+
+**Software** (ICT expansion, from Libya): Common Operating Systems Compared · Software Licences — Commercial, Free, Open-Source and Shareware
+
+**Spreadsheets** (ICT expansion, from Libya): Logical Functions in Excel
+
+**Internet and the Web** (ICT expansion, from Libya): Favourites and Saving a Web Page · HTML Text Formatting — Font Size, Style and Colour · Website Project — a School, Tourism or E-Library Site
+
+**Databases** (ICT expansion, from Libya): Database Project — Build a Full Access Database
+
+**Programming** (ICT expansion, from Libya): Visual Basic — LET and PRINT Statements · Visual Basic — the INPUTBOX Function · SELECT CASE — Multi-Way Choice in Visual Basic · DO UNTIL Loop in Visual Basic · Visual Basic — Events and Methods · Visual Basic Form Controls — Label, TextBox and Command Buttons · Arrays in Visual Basic — One- and Two-Dimensional · Built-In and User-Defined Functions in Visual Basic
+
+**Safety, Security and Care** (ICT expansion, from Libya): Encryption and Firewalls — Protecting Data on Networks
+
+**Presentations** (ICT expansion, from Libya): Inserting and Recording Sound in PowerPoint

@@ -1,16 +1,19 @@
 # Sources — Wired and wireless media
 
-countries: Ethiopia, Nepal
+countries: Ethiopia, Nepal, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 6:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
+
+**Book 7:** *الحاسوب للصف التاسع من مرحلة التعليم الأساسي (Computer, Grade 9, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 137 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The medium carries the message | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 43–44 |
 | Wired — copper and fibre | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 43–44 |
 | Wireless — through air, water or vacuum | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 43–44 |
+| Unit 1 Ch 2, transmission media, wired and wireless | Libya Grade 9 Computer, printed p. 29 |
 
 | Transmission media — the pathway, and how each carries a signal (Grade 10 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 37–38 |
 | Choosing a medium — distance, environment, data amount and speed, cost (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 2, printed pp. 24–27 (guide placement item 9) |
@@ -24,7 +27,7 @@ countries: Ethiopia, Nepal
 
 **Book 5:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
-**Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
+**Acceptance count: taught in 3 countries (Ethiopia, Nepal, Libya).**
 
 Grown 2026-11-12 (Wave 3, band D2): Sub lesson 3 adds the Grade 10 depth of student placement item 16 — the Grade 10 book returns to this Grade 9 topic one level deeper, so the lesson grows rather than duplicates. The Grade 10 teacher guide's Unit 2 review keys (guide printed p. 47; guide placement item 31) were used as the verified-answer check for the grown questions.
 
@@ -32,4 +35,6 @@ The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: media, UTP, fibre optic, radio waves, microwaves, infrared, satellite, Grade 9 ICT Ethiopia, nepal, papua new guinea, grade 9
+Libya's own way (Grade 9, Computer student book): the whole year is networks and the internet — a full networks unit (types, cables, topology, components), then Internet Explorer and Google search taught as named skills, then email and a closing tour of social sites (Facebook, YouTube, Twitter, Instagram, Yahoo) with practical activities.
+
+Searchable tags: media, UTP, fibre optic, radio waves, microwaves, infrared, satellite, Grade 9 ICT Ethiopia, nepal, papua new guinea, grade 9, libya, grade 9 computer

@@ -1,6 +1,6 @@
 # Sources — HTML tags and elements
 
-countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji
+countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji
 
 **Book 8:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 9:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
+
+**Book 10:** *تقنية المعلومات — دليل المعلم، للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology teacher guide, Grade 11, both sections, Term 2)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 39 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | HTML, tags and the .html file | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 80–81 |
@@ -29,8 +33,10 @@ countries: Ethiopia, North Macedonia, Iraq, Egypt, Fiji
 | Unit 2 Lesson 2, HTML page elements | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 54 |
 | Unit 1, HTML basics for the project pages | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 8 (PDF page) |
 | 5.2 HTML: marking up content with tags (HTML 4.01, HTML5, XHTML) | Fiji, *Computer Education, Year 13*, printed p. 100 |
+| Ch 2, introduction to HTML: web pages, a history of HTML, the components of HTML | Libya Grade 11 IT student Term 2, printed p. 27 |
+| Guide Ch 2, introduction to HTML (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Iraq, Egypt, Fiji, Libya).**
 
 Unit 4 figure references and captions repeatedly disagree in the student book (the elements text cites Figure 4.3 where the caption is 4.2; the document-structure text cites Figure 4.2 where the caption is 4.4; the align-attribute text cites Figure 4.4 where the caption is 4.5; the table example text cites Figure 4.5 where the caption is 4.11) and table numbers are reused (two different tables are each numbered 4.4/4.5). This lesson teaches from the pictured content and cites no figure or table number. "statment" is misspelled in review headings throughout the book; the correct spelling is taught. Guide-side faults: the guide prints "HMTL" for HTML in its §4.6 heading and Unit 4 topic lists; the correct HTML is taught. The teacher-guide models in Sub lesson 3 are teacher evidence: they verify the pupil's own page; they are not counted as pupil-taught content.
 
@@ -46,4 +52,8 @@ Egypt's own way (Grade 11, Term 1 Website Design Project student book): The whol
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: HTML, HTML5, tags, elements, start tag, end tag, .html, Grade 11 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, egypt, grade 10, grade 11, grade 8, fiji, year 13
+Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 is web authoring from first principles — internet architecture and protocols, then hand-written HTML (structure, text formatting, links, lists, tables), then publishing a site properly (domain, hosting, FTP) and three full website projects. The book is printed for BOTH the Science and Humanities sections, although the records label it Humanities only — cited as printed.
+
+Libya's own way (Grade 11 Term 2, Information Technology teacher guide): each web chapter is taught as target outcomes + a chapter summary + scripted lesson steps (an introduction and set activities — e.g. pupils role-play the devices of a network) + answers to the chapter questions. The guide is printed for both the Science and Humanities sections. (teacher guide — evidence)
+
+Searchable tags: HTML, HTML5, tags, elements, start tag, end tag, .html, Grade 11 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, egypt, grade 10, grade 11, grade 8, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2

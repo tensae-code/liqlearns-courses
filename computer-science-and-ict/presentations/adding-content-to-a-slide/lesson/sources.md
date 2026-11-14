@@ -1,6 +1,6 @@
 # Sources — Adding content to a slide
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan
 
 **Book 11:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 12:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text as default content; content by placeholder icon or the Insert tab | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 127–128 |
@@ -37,8 +39,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan
 | Capítulo 2.2 Elaboración de diseños de presentación (vida escolar y contexto sociocultural) | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 32 |
 | Capítulo 1.3 Trabajando con diapositivas (LibreOffice Impress) | Cuba, *Informática, Grade 8*, printed p. 7 |
 | 7.4 Creating a Presentation (adding content) | Bhutan, *Literacy with ICT, Class VII*, printed p. 101 |
+| Ch 5, adding text data and adding a picture to a presentation slide | Libya Grade 12 IT Humanities, printed p. 64 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -60,4 +63,6 @@ Cuba's own way (Grade 8): Taught entirely in free software — LibreOffice Impre
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8, bhutan, class vii
+Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
+
+Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8, bhutan, class vii, libya, grade 12 it humanities

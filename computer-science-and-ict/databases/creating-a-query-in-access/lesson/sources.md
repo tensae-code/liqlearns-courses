@@ -1,6 +1,6 @@
 # Sources — Creating a query in Access
 
-countries: Ethiopia, Belarus, Sudan, Egypt, Fiji
+countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,12 +16,19 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji
 
 **Book 7:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 8:** *تقنية المعلومات للسنة الأولى بمرحلة التعليم الثانوي — كتاب الطالب (Information Technology, first year of secondary education = Grade 10, student book)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
+
+**Book 9:** *تقنية المعلومات — دليل المعلم، للسنة الأولى بمرحلة التعليم الثانوي (Information Technology teacher guide, Grade 10)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 61 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a query is an object that gives a custom view of data from one or more tables, a way of searching and compiling exactly the data wanted, built graphically (the book defers SQL); order: open the database, Create menu, Query Design, Show Table — select the table or tables and confirm | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 66–68 |
 | Sub lesson 2 — pick the fields for the Field row; only the chosen fields, such as name and sex, will show | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 66–68 |
 | Sub lesson 3 — switch to Datasheet View to see the results; practice queries display teacher name and specialisation, and student name and grade level | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 66–68 |
 | Unit 6.6 Search an existing database | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 185 |
+| Ch 9, creating simple queries: what a query is, the query wizard, design view, working with query fields | Libya Grade 10 IT student, printed p. 103 |
+| Ch 9, summary queries, by wizard and by design view | Libya Grade 10 IT student, printed p. 117 |
+| Guide Ch 9, creating simple queries (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 45 (teacher guide — evidence) |
 
 | Sub lesson 4 — writing a query in Access: Create tab → Query Design; close the Show Table dialog; SQL View dropdown at the left → SQL View, where SQL commands are written | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 67–68 |
 | Sub lesson 4 — running: Design tab → Results group → Run; or double-click a saved query in the queries view (example: a saved query listing male students); Access reports errors with a pop-up matched to the error type | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 67–68 |
@@ -30,7 +37,7 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji
 | Lesson 9 Forms and Queries | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 86 |
 | Activity set 9 Forms & Queries | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 38 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -46,4 +53,8 @@ Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8
+Libya's own way (Grade 10, Information Technology student book): the entire Grade 10 year is databases — theory first (concepts, ER modelling, the relational model, mapping ER to tables), then a long Microsoft Access 2007 practical (environment, tables, data entry, relationships, queries, forms, reports) and three set projects at the end. The secondary line is تقنية المعلومات (Information Technology).
+
+Libya's own way (Grade 10, Information Technology teacher guide): the guide walks the same 12 database chapters as the student book, each as topics / objectives / teacher activities / student activities / key points / answers to selected exercises — the Access practical is taught through set classroom activities. (teacher guide — evidence)
+
+Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide

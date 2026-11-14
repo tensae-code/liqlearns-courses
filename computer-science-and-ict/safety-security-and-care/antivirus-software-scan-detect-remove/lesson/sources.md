@@ -1,6 +1,6 @@
 # Sources — Antivirus software — scan, detect, remove
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan
+countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan
 
 **Book 6:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 7:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
+**Book 8:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What antivirus software is for; the malware list including botnets, rootkits, keyloggers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed p. 192 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan
 | Lesson 6: Viruses (harmful programs that damage the computer and spy on files; protection programs that scan files, incoming media and websites) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 38 |
 | Unit 1 Ch.2 Lesson 1 Preventive maintenance of computer software | Iraq, *Computer, Grade 10*, printed p. 17 |
 | 4.4 Antivirus | Bhutan, *Literacy with ICT, Class VIII*, printed p. 58 |
+| Ch 1, ways of protecting against viruses | Libya Grade 12 IT Humanities, printed p. 16 |
+| Ch 1, ways of protecting against viruses | Libya Grade 12 IT Science, printed p. 16 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -36,4 +42,8 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
 
-Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii
+Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
+
+Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
+
+Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science

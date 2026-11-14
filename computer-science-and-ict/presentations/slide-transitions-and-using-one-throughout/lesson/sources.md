@@ -1,6 +1,6 @@
 # Sources — Slide transitions — and using one throughout
 
-countries: Ethiopia, Iraq, Sudan, Bhutan
+countries: Ethiopia, Iraq, Sudan, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Iraq, Sudan, Bhutan
 
 **Book 6:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 7:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — slides and their contents; transitions defined against animations; the setting order in Normal view (Transitions tab, star marker, Effect Options, Duration, Sound, Advance Slide, Ctrl+S, F5, Esc) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 125–126 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Iraq, Sudan, Bhutan
 | Unit 2 Ch.1 Lesson 3 The Design and Transitions tabs | Iraq, *Computer, Grade 10*, printed p. 48 |
 | Unit 3 Lesson 3: Transitions and running the slide show | Sudan, *ICT, Grade 6*, printed p. 28 |
 | 2.4 Slide Transition | Bhutan, *Literacy with ICT, Class VIII*, printed p. 24 |
+| Ch 6, using motion effects in presentations: types of motion effect, controlling the slide's transition movement, adding a transition | Libya Grade 12 IT Humanities, printed p. 85 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Sudan, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Sudan, Bhutan, Libya).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -34,4 +37,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
 
-Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii
+Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
+
+Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities

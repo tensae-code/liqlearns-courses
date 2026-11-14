@@ -1,6 +1,6 @@
 # Sources — Drawing a first flowchart
 
-countries: Ethiopia, Sudan, Cuba, Bhutan
+countries: Ethiopia, Sudan, Cuba, Bhutan, Libya
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Sudan, Cuba, Bhutan
 
 **Book 7:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 8:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الأول (Information Technology, Grade 11, for the Science and Humanities sections, Term 1)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 120 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
+
+**Book 9:** *تقنية المعلومات — دليل المعلم، للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الأول (Information Technology teacher guide, Grade 11, both sections, Term 1)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 49 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The garden-policy worked example — terminators, diamond, Yes and No paths | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 225–226 |
@@ -23,12 +27,14 @@ countries: Ethiopia, Sudan, Cuba, Bhutan
 | How flowchart lessons are run — pair work, role rotation, unplugged and braille routes (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 6, printed pp. 89–90 |
 | Capítulo 2.7.1 Expresión de algoritmos mediante diagramas de flujo | Cuba, *Informática, Grade 9*, printed p. 20 |
 | 9.6 Flow Chart and Algorithm | Bhutan, *Literacy with ICT, Class VII*, printed p. 129 |
+| Ch 2, flowcharts: why maps help describe things; what a flowchart is | Libya Grade 11 IT student Term 1, printed p. 15 |
+| Guide Ch 2, flowcharts: sequence, decision branching, repeated operations (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 1, printed p. 13 (teacher guide — evidence) |
 
 | Drawing flowcharts — add two numbers; positive or negative (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 213–214 |
 | Unit 3, 3-2: Drawing flowcharts — a simple program and a complex program | Sudan, *Computer Science, Grade 11*, printed p. 28 |
 | Unit 3 Lesson 3: Drawing flowcharts for problems | Sudan, *ICT, Grade 9*, printed p. 42 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Cuba, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sudan, Cuba, Bhutan, Libya).**
 
 Book error, taught corrected: the teacher guide's worked speed-limit flowchart answer tangles its own FALSE branch in words ('if the S is less than or equal to 40, it is FALSE'); the lesson teaches the student book's three speed bands as printed, and the guide's sentence is not followed.
 
@@ -42,4 +48,8 @@ Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year —
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii
+Libya's own way (Grade 11 Term 1, Information Technology student book): a programming year taught in old-school order — problem solving and algorithms, flowcharts, memory/variables, then Visual Basic statement by statement (LET, PRINT, INPUTBOX, IF, SELECT CASE, FOR…NEXT, DO…WHILE, DO…UNTIL), every chapter ending in graded exercises. The book is printed for BOTH the Science and Humanities sections (للقسمين العلمي والأدبي), although the records label it Humanities only — cited as printed, and taught to Science and Humanities together.
+
+Libya's own way (Grade 11 Term 1, Information Technology teacher guide): the guide restates each programming chapter as target learning outcomes plus fully worked exercise solutions — the Visual Basic course is assessed through these set exercises. The guide is printed for both the Science and Humanities sections. (teacher guide — evidence)
+
+Searchable tags: flowchart, garden policy, decision diamond, speed check, pair programming, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, cuba, grade 9, bhutan, class vii, libya, grade 11 it student term 1, grade 11 it teacher guide term 1
