@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -79,3 +79,18 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — electricity enters the Year 3 guide through the uses of batteries, in Bislama in its Term 3 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, uses of batteries
+
+
+## Albania growth (2026-11-13, General Science expansion)
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what an electric circuit is (Ç'është qarku elektrik?) (teacher guide — evidence) (Albania, Grade 2) | Albania, *Dituri natyre 2 TG*, printed p. 87 |
+| modelling electric circuits (Modelime të qarqeve elektrike) (teacher guide — evidence) (Albania, Grade 2) | Albania, *Dituri natyre 2 TG*, printed p. 92 |
+| signalling devices / buzzers (Pajisjet sinjalizuese) (teacher guide — evidence) (Albania, Grade 2) | Albania, *Dituri natyre 2 TG*, printed p. 96 |
+
+**Acceptance count unchanged: taught in 8 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania).**
+
+Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, electric circuit, qarku elektrik, modelling circuits, buzzer, signalling devices

@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -62,3 +62,21 @@ Searchable tags: sources of light, natural light, human-made light, kuraz, fanos
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+
+## Albania growth (2026-11-13, General Science expansion)
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sources of light (Burimet e dritës) (teacher guide — evidence) (Albania, Grade 2) | Albania, *Dituri natyre 2 TG*, printed p. 64 |
+| light sources and measuring brightness in lux (Burimet e dritës) (teacher guide — evidence) (Albania, Grade 5) | Albania, *Dituri natyre 5 TG*, printed p. 27 |
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia).**
+
+Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
+
+Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, sources of light, burimet e drites, lux, brightness

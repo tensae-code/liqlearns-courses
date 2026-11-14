@@ -1,6 +1,6 @@
 # Sources — Materials and light — transparent, translucent, opaque
 
-countries: Ethiopia, Moldova, Mozambique, Mauritania
+countries: Ethiopia, Moldova, Mozambique, Mauritania, Albania (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -27,3 +27,18 @@ countries: Ethiopia, Moldova, Mozambique, Mauritania
 New lesson at Grade 8 depth, not a growth of the primary Things light passes through lesson: the primary lesson names materials that let light through; this item's teaching load is the semi-guided investigation itself (prediction, a self-devised fair test, classes discovered from results), so it is built whole here.
 
 Searchable tags: transparent, translucent, opaque, medium for light, semi-guided investigation, Activity 7.4, Ethiopia Grade 8 General Science Unit 7, mozambique
+
+
+## Albania growth (2026-11-13, General Science expansion)
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| materials and light: opaque and see-through materials (teacher guide — evidence) (Albania, Grade 5) | Albania, *Dituri natyre 5 TG*, printed p. 30 |
+
+**Acceptance count unchanged: taught in 4 countries (Ethiopia, Moldova, Mozambique, Mauritania).**
+
+Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
+
+Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, opaque, see-through materials, materials and light

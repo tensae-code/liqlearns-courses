@@ -1,6 +1,6 @@
 # Sources — Materials and their properties — hard, strong, flexible
 
-countries: Gabon (teacher-guide evidence only), Finland
+countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -24,3 +24,16 @@ Placement choice, on the record: this NEW LESSON was built for the Gabon placeme
 Finland stocking note: the placement note above describes the Gabon source only. Finland's pupil-facing activity bank now also stocks this lesson (activity 10 — the three little pigs: building houses from different materials, p. 17), and Finland counts, as recorded in the acceptance count above.
 
 Searchable tags: materials, properties, hardness, strength, flexibility, elastic, brittle, gabon, grade 4, finland, luova luma, three little pigs, building houses
+
+
+## Albania growth (2026-11-13, General Science expansion)
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| hardness of materials and minerals (Fortësia e materialeve dhe mineraleve) (teacher guide — evidence) (Albania, Grade 2) | Albania, *Dituri natyre 2 TG*, printed p. 46 |
+
+**Acceptance count unchanged: taught in 1 country (Finland).**
+
+Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, hardness, fortesia e materialeve dhe mineraleve, minerals

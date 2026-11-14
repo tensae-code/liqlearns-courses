@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only)
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only)
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -14,3 +14,16 @@ countries: Guatemala (teacher-guide evidence only)
 Placement choice, on the record: this NEW LESSON was built for the Guatemala placement "NEW LESSON NEEDED — habitats-and-animal-adaptations" — guatemala-placements.md, printed p. 38 (one placement, one lesson). No existing general-science lesson covers what a habitat is as its own thing — the ecosystems lesson defines habitat only as one level inside its nesting of habitat/population/community/ecosystem, and the Biology adaptation lessons are secondary-depth treatments — so it gets its own lesson. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment). Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: habitat, habitats, where a living thing lives, surroundings a space for life, guatemala, ciencias naturales i, grade 7, minedduc
+
+
+## Albania growth (2026-11-13, General Science expansion)
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the living environment / habitats (Mjedisi jetësor) (teacher guide — evidence) — filed as NEW LESSON NEEDED — animals/habitats-where-plants-and-animals-live; stocked into this existing lesson, which already covers what a habitat is, and the original slug is recorded here (Albania, Grade 2) | Albania, *Dituri natyre 2 TG*, printed p. 24 |
+
+**Acceptance count unchanged: taught in 0 countries — this lesson stands on teacher-guide evidence only (Guatemala), named here, counted nowhere.**
+
+Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, habitats, living environment, mjedisi jetesor

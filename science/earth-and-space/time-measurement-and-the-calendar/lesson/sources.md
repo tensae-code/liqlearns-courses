@@ -1,6 +1,6 @@
 # Sources — Time measurement and the calendar
 
-countries: Uzbekistan, Kazakhstan
+countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only)
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -50,3 +50,18 @@ countries: Uzbekistan, Kazakhstan
 Placement choice, on the record: this NEW LESSON was built for the Uzbekistan placement in uzbekistan-placements.md (Grade 9) named in the rows above. It sits in earth-and-space/ and is registered in CURRICULUM.md in the Earth and Space section.
 
 Searchable tags: time measurement, calendar, leap year, gregorian, julian, tropical year, uzbekistan, grade 9
+
+
+## Albania growth (2026-11-13, General Science expansion)
+
+**Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| calendar, leap year and seasons (Kalendar, vit i brishtë, stinët) (teacher guide — evidence) (Albania, Grade 5) | Albania, *Dituri natyre 5 TG*, printed p. 58 |
+
+**Acceptance count unchanged: taught in 2 countries (Uzbekistan, Kazakhstan).**
+
+Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
+
+Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, calendar, leap year, kalendar, vit i brishte, seasons
