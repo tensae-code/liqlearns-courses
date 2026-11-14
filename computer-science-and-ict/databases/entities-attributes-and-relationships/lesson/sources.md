@@ -1,6 +1,6 @@
 # Sources — Entities, attributes and relationships
 
-countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan
+countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan
 
 **Book 12:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 13:** *Shaniyev team G9 «INFORMATICS»* (Kazakhstan) — Title as printed: INFORMATICS, Grade 9 (first edition) Editions in this record set: 419.pdf (bilingual), 465.pdf (bilingual), 479.pdf (English), 1587.pdf (English, 80 pp — its front CONTENTS matches this book's four chapters exactly) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 9 (student/teacher: STUDENT). Publisher: Астана-кітап (ASTANAKITAP), Astana; year 2019 (authors Ержанов Э., Гесен И., Абдрабаев Н., Шаниев Е. and team). PDF pages: 172 (419.pdf, Kazakh–English bilingual edition), 174 (465.pdf, bilingual), 170 (479.pdf, English) — contents at the front (printed pp. 6–8) has no printed page numbers, so placements cite the PDF pages where each chapter starts: Ch. 1 p. 12, Ch. 2 p. 48, Ch. 3 p. 88, Ch. 4 p. 132. Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a data model is the blueprint of a database, showing what data to store; entities are the people, places or events data is kept about (bank: customers, accounts; library: books, loans, borrowers); an entity becomes a table when built | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 55–56 |
@@ -43,8 +45,9 @@ countries: Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan
 | 4.2.1 Planning a database (planning a phone-book database: choosing fields, data types and the key) | Mongolia Grade 10 IT X, printed p. 118 |
 | Unit 1 Databases (SQLite in Python), Lesson 1 Relationships in Databases: what a relationship is and why it matters | Kuwait Grade 11 Information Technology T2, printed p. 17 |
 | Chapter 3 §3.2 Data Modeling (entities/objects, attributes, relationships — BOOK and BOOK STORE: orders, displays, stocks, sells, returns) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 23 |
+| 2.2 Designing a database | Kazakhstan Grade 9 Shaniyev, PDF p. 48 (Chapter 2) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Sudan, Fiji, Libya, Malaysia, Mongolia, Kuwait, Pakistan, Kazakhstan).**
 
 Honesty: nothing in this lesson rests on teacher-guide evidence; all parts are pupil-taught from the student book. No book error touches these pages.
 
@@ -70,4 +73,6 @@ Kuwait's own way (Grade 11 Information Technology Term 2): Term 2 completes the 
 
 
 Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
-Searchable tags: data model, entity, attribute, relationship, instance, blueprint, Ethiopia Grade 11, sudan, grade 6, grade 7, fiji, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, kuwait, grade 11 information technology term 2, pakistan, grade 12 computer science 12
+
+Kazakhstan's own way (Shaniyev team G9 «INFORMATICS»): the Astana-kitap Grade 9 English-medium book is where Kazakhstan teaches databases properly — design, build, sort/filter, pivot tables and charts, ending in a "family shop" mini project — and then spends two chapters on Python lists (one- and two-dimensional, with search/swap/sort/insert/delete) and a full PyGame 2D games chapter.
+Searchable tags: data model, entity, attribute, relationship, instance, blueprint, Ethiopia Grade 11, sudan, grade 6, grade 7, fiji, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, kuwait, grade 11 information technology term 2, pakistan, grade 12 computer science 12, kazakhstan, shaniyev team g9 «informatics»

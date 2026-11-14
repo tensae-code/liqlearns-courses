@@ -1,6 +1,6 @@
 # Sources — Adding and Switching a Scratch Backdrop
 
-countries: Finland, Bhutan
+countries: Finland, Bhutan, Kazakhstan
 
 **Book 1:** *Ensiaskeleet ohjelmointiin — Oppilaan kirja, Versio 2.0* (student book, Finnish) — Finland, Suomen Koodikoulu Oy, 2022. ISBN 978-952-7403-28-0. Grades 3–6. 73 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/finland-placements.md.
 
@@ -10,6 +10,10 @@ countries: Finland, Bhutan
 
 **Book 4:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 5:** *Grade 1 teacher guide «Цифровая грамотность. Методическое руководство» 2023 (Russian + Kazakh editions)* (Kazakhstan) — Title as printed: Цифровая грамотность. Методическое руководство для учителей 1 класса уровня начального образования / Цифрлық сауаттылық. Әдістемелік нұсқау (электрондық нұсқа) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 1 (student/teacher: TEACHER). Publisher: Алматыкітап баспасы; year 2023; no ISBN printed. NOTE: the two editions carry different author names on their covers — the Russian edition (1201.pdf) names Сагимбаева А. Е., Ермухамбетова М. А., Айтметова Ш. А.; the Kazakh edition (1194.pdf) names Қадырқұлов Р. А., Беристемова Н. Қ. — while the lesson plans inside are the same book (same four sections, same 19 lesson topics, Tux Paint named in the Kazakh edition's plans). Filed as one guide with two editions; the cover-authorship split is a library debt to note. PDF pages: 76 (Russian), 84 (Kazakh). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 6:** *Kadirkulov G3 «Цифровая грамотность»* (Kazakhstan) — Title as printed: Цифровая грамотность — textbook for Grade 3 pupils of the general school Editions in this record set: 68.pdf (Russian), 933.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ, Almaty; year 2021; ISBN 978-601-01-4575-7 (authors Кадиркулов Р. А., Рыскулбекова А. Д., Беристемова Н. К.). PDF pages: 132 in each edition (back contents, printed pp. 130–131, read in full in the Russian edition 68.pdf, text-rich). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1: Adding a backdrop to the stage from the backdrop library | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 24 |
@@ -17,8 +21,10 @@ countries: Finland, Bhutan
 | U.D.3 Séance 2 Ajouter des arrière-plans (filed as programming/adding-a-backdrop-from-the-library-or-your-computer; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 23 (teacher guide — evidence) |
 | U.D.2 Séance 3 Basculer d'un arrière-plan à l'autre (filed as programming/switching-the-backdrop-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 19 (teacher guide — evidence) |
 | 6.5 Steps to Change Backdrops (filed as NEW LESSON NEEDED — programming/changing-a-scratch-backdrop; stocked in this lesson because this lesson teaches adding and switching a backdrop, the stage's picture) | Bhutan, *Literacy with ICT, Class IV*, printed p. 51 |
+| Урок 15 Фон для проекта (filed as NEW LESSON NEEDED — programming/choosing-a-backdrop-for-a-scratch-project; stocked in this lesson because this lesson teaches choosing and switching a backdrop — the stage's background for a Scratch project) | Kazakhstan Grade 1 TG 2023, printed p. 59 |
+| 10. Сцены (filed as NEW LESSON NEEDED — programming/choosing-a-backdrop-for-a-scratch-project; stocked in this lesson because this lesson teaches choosing and switching a backdrop — the stage's background for a Scratch project) | Kazakhstan Grade 3 Kadirkulov, printed p. 36 |
 
-**Acceptance count: taught in 2 countries (Finland, Bhutan).**
+**Acceptance count: taught in 3 countries (Finland, Bhutan, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Finland, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked first. The placements file named this slug directly (NEW LESSON NEEDED — programming/adding-and-switching-a-scratch-backdrop). It sits in the Programming title (programming/). It is one whole lesson with no sub lessons — a short, single-skill lesson.
 
@@ -30,4 +36,8 @@ Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the int
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: backdrop, stage, backdrop library, switching backdrops, scratch, programming, finland, morocco, grade 3, morocco, grade 4, bhutan, class iv
+
+Kazakhstan's own way (Grade 1 teacher guide «Цифровая грамотность. Методическое руководство» 2023 (Russian + Kazakh editions)): the 2023 guide restructures Grade 1 against the 2021 student book (Book 5): robotics disappears, replaced by a drawing section («Мой первый рисунок», taught in Tux Paint in the Kazakh plans) and a separate algorithms section (concept of algorithm, executors and their command systems, kinds of algorithms) before Scratch programming.
+
+Kazakhstan's own way (Kadirkulov G3 «Цифровая грамотность»): the Almatykitap Grade 3 digital literacy book is built as projects: a Scratch game built scene by scene, then a robotics project that oddly starts in Word (the project document is written and illustrated first) before the robot arm moves, and a cleaner robot is built; presentations and a photo collection close the year.
+Searchable tags: backdrop, stage, backdrop library, switching backdrops, scratch, programming, finland, morocco, grade 3, morocco, grade 4, bhutan, class iv, kazakhstan, grade 1 teacher guide «цифровая грамотность. методическое руководство» 2023 (russian + kazakh editions), kadirkulov g3 «цифровая грамотность»

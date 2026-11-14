@@ -1,6 +1,6 @@
 # Sources — Database Security
 
-countries: Fiji, Bangladesh, Vietnam
+countries: Fiji, Bangladesh, Vietnam, Kazakhstan
 
 **Book 1:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
@@ -10,14 +10,17 @@ countries: Fiji, Bangladesh, Vietnam
 
 **Book 4:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 5:** *Vyshkova & Zhurbenko G7 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 7, developed under the educational programme of the Nazarbayev Intellectual Schools together with the Institute of Education, University College London; authors Vyshkova E.A., Zhurbenko Z.M., Orazbekov S.K. Editions in this group: okulyk 1046 (Russian, record 38 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Astana); year 2018; ISBN 978-601-328-201-5. PDF pages: 136 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 3.5 Database Security | Fiji, *Computer Education, Year 11*, printed p. 69 |
 | Chapter 6, 6.4: Data security — backups, disc mirroring and user permissions (filed as NEW LESSON NEEDED — databases/keeping-database-data-safe-backups-and-permissions; stocked in this lesson because this lesson teaches database security — user accounts and permissions, and backups kept apart — Bangladesh's data security of backups, disc mirroring and user permissions) | Bangladesh HSC ICT, printed p. 205 |
 | Bài 15 Bảo mật và an toàn hệ cơ sở dữ liệu (Security and safety of database systems) (filed as NEW LESSON NEEDED — databases/database-security-and-safety; stocked in this lesson because this lesson teaches database security and safety — users, passwords, permissions, and guarding the data itself by backup) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 73 |
 | Bài 15 Bảo mật và an toàn hệ cơ sở dữ liệu (Database security — common core) (filed as NEW LESSON NEEDED — databases/database-security-and-safety; stocked in this lesson because this lesson teaches database security and safety — users, passwords, permissions, and guarding the data itself by backup) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 73 |
+| 4.10: Protecting data from changes (filed as NEW LESSON NEEDED — databases/protecting-data-from-unwanted-changes; stocked in this lesson because this lesson teaches database security — protecting the data in a database from unwanted access and changes) | Kazakhstan Grade 7 NIS G7, printed p. 60 |
 
-**Acceptance count: taught in 3 countries (Fiji, Bangladesh, Vietnam).**
+**Acceptance count: taught in 4 countries (Fiji, Bangladesh, Vietnam, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — databases/database-security). It sits in the Databases title (databases/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -29,4 +32,6 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: database, security, databases, fiji, year 11, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+
+Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
+Searchable tags: database, security, databases, fiji, year 11, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, kazakhstan, vyshkova & zhurbenko g7 informatics, nis

@@ -1,6 +1,6 @@
 # Sources — Project: design a filing system
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Mongolia
 
 **Book 4:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 5:** *Isabaeva G2 «Цифровая грамотность»* (Kazakhstan) — Title as printed: Цифровая грамотность / Цифрлық сауаттылық — Учебник для 2 класса общеобразовательной школы Editions in this record set: 971.pdf (Russian), 981.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 2 (student/teacher: STUDENT). Publisher: Алматы «Атамұра»; year 2022; ISBN 978-601-10-0039-0 (Russian edition verso). PDF pages: 144 in each edition (cover/title page verified: title page and author verso — Д. Н. Исабаева, А. С. Назарбекова, П. М. Зардинова, М. А. Аубекова — read in the Russian edition 971.pdf; Kazakh edition 981.pdf spot-checked: intro, conventions page and §1 match the Russian edition page for page). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The two cases and the drawn plan | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 1 mini-project, printed pp. 28–29 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Mongolia
 | Model worked runs for the build skills (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Practical Exercises 1.4–1.6 keyed, printed pp. 5–7, 15 (teacher guide — evidence) |
 | Unit 1, Lesson 2 exercises: Sort the animal photos into the right subfolders (create, copy/paste, rename and delete folders and files in a filing system) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 32 (teacher guide — evidence) |
 | 2.2.2 Storing package information (print archives against folder trees; an NBA collection example) | Mongolia Grade 10 IT X, printed p. 59 |
+| Проектная работа по разделу I | Kazakhstan Grade 2 Isabaeva, printed p. 29 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Kazakhstan).**
 
 No book error touches this lesson's content. The guide's keyed practical runs (printed pp. 5–7, 15) are the verified models for the skills this project builds with; the guide's own slips inside them are flagged in the lessons they touch. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -27,4 +30,6 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: mini-project, filing system, folder plan, visual tool, naming standard, Grade_Section, school record officer, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, mongolia, grade 10 it x
+
+Kazakhstan's own way (Isabaeva G2 «Цифровая грамотность»): six sections each built round a cross-cutting theme («Всё обо мне», «Моя семья и друзья», «Моя школа»/«Мой родной край», «В здоровом теле — здоровый дух», «Традиции и фольклор», «Окружающая среда»/«Путешествие»); every section ends in a project, and the year ends with a build-and-programme «Танцующий робот» (Dancing Robot) project in Scratch + LEGO Mindstorms EV3 (the book's own resource list names scratch.mit.edu and the Mindstorms EV3 software).
+Searchable tags: mini-project, filing system, folder plan, visual tool, naming standard, Grade_Section, school record officer, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, mongolia, grade 10 it x, kazakhstan, isabaeva g2 «цифровая грамотность»

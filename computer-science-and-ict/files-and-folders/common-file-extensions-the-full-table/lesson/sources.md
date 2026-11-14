@@ -1,6 +1,6 @@
 # Sources — Common file extensions — the full table
 
-countries: Ethiopia, Indonesia
+countries: Ethiopia, Indonesia, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Indonesia
 
 **Book 7:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 8:** *Kadirkulov G7 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 7 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 943 (Russian, record 47 — read in full from its text layer), okulyk 947 (record 50 — text layer confirms the same book), okulyk 1289 (record 39), okulyk 1293 (record 41) and okulyk 1294 (record 42) — same 176/192-page frames, covers verified. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-4427-9 (Russian edition). PDF pages: 176 (943/947) (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 9:** *Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)* (Kazakhstan) — Title as printed: Информатика — Учебник для 7 класса (developed under the Educational Programme of Nazarbayev Intellectual Schools) Editions in this record set: 1046.pdf (Russian). Record 1047.pdf is the defective calibre conversion filed as Book 9. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Astana; year 2018; ISBN 978-601-328-201-5 (authors Вьюшкова Е. А., Журбенко З. М., Оразбеков С. Қ.). PDF pages: 136 (front contents, printed p. 3, read in full — nine sections, 53 units; the scan is image-only, read via contents + cover/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 10:** *Kadirkulov G7 «Информатика»* (Kazakhstan) — Title as printed: ИНФОРМАТИКА — Учебник для учащихся 7 класса общеобразовательной школы Editions in this record set: 1289.pdf (Russian), 1293.pdf (Kazakh, ISBN 978-602-02-1234-0), 943.pdf (Russian), 947.pdf (Kazakh) — parallels spot-checked, contents identical unit for unit. The 2019 pair (1290.pdf Russian, 1294.pdf Kazakh) is a different, earlier edition of this author line and is filed separately as Book 27. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ; year 2023; ISBN 978-602-02-1235-7 (authors Кадыркулов Р. А., Рыскулбекова А. Д., Нурмуханбетова Г. К.). PDF pages: 176 (back contents, printed pp. 174–175, read in full — five sections, 28 unit entries; image-based scan read via contents + title/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The full table — file types, extensions, contents | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed p. 8 |
@@ -26,8 +32,11 @@ countries: Ethiopia, Indonesia
 | Theme 6-5 Files and their types | Armenia Grade 6 G6 teacher, printed p. 23 (teacher guide — evidence) |
 | Check-questions with answers: §6 Files and their types | Armenia Grade 7 G7 teacher, printed p. 107 (teacher guide — evidence) |
 | Bab III B.1 Jenis dan format data | Indonesia Grade 9 G9 Informatika student, printed p. 130 |
+| 1.3: File formats | Kazakhstan Grade 7 Kadirkulov G7, printed p. 13 |
+| 2.8 Текстовые, звуковые и видеоформаты | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 28 |
+| 1.3 Файловые форматы | Kazakhstan Grade 7 Kadirkulov, printed p. 13 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Indonesia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Kazakhstan).**
 
 No book error touches this lesson's page. One caution is carried from the teacher guide's key (teacher guide — evidence): the guide's review key states filenames as 'strings of one to eight letters' — the old DOS rule, against the student book's own Windows teaching; the lesson does not teach that claim, and it is flagged here so it is never picked up from the key.
 
@@ -41,4 +50,10 @@ Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this g
 
 Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
 
-Searchable tags: extension table, txt, rtf, pdf, ppt, mdb, zip, rar, exe, wav, extension length, DOS, files and folders, grade 10, information technology, ict, ethiopia, rwanda, grade 7 s1 ict teacher guide, switzerland, decodage, grades 56, armenia, grade 6, grade 7, indonesia, grade 9
+
+Kazakhstan's own way (Kadirkulov G7 Informatika): Grade 7 by the Almatykitap team is measurement and memory first (units, file formats and file sizes), then networks with antivirus security and the user interface, a long spreadsheet part that ends in modelling processes in Excel, and Python taught through files and branching — nested and compound conditions included. The creative-tasks lesson 2.4 (printed p. 40) is not placed.
+
+Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
+
+Kazakhstan's own way (Kadirkulov G7 «Информатика»): the Almatykitap Grade 7 course pairs every theory section with «Творческие задания» and test tasks, teaches spreadsheets up to conditional formatting and process modelling, and does its Python through files: reading/writing files and file functions come before branching, nested and compound conditions.
+Searchable tags: extension table, txt, rtf, pdf, ppt, mdb, zip, rar, exe, wav, extension length, DOS, files and folders, grade 10, information technology, ict, ethiopia, rwanda, grade 7 s1 ict teacher guide, switzerland, decodage, grades 56, armenia, grade 6, grade 7, indonesia, grade 9, kazakhstan, kadirkulov g7 informatika, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition), kadirkulov g7 «информатика»

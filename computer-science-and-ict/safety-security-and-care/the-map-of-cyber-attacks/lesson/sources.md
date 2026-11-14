@@ -1,6 +1,6 @@
 # Sources — The map of cyber-attacks
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia
+countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia
 
 **Book 11:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Salgaraeva G8 «Информатика»* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 8 of the general school Editions in this record set: 307.pdf (Kazakh), 343.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 8 (student/teacher: STUDENT). Publisher: Издательство «Арман-ПВ», Astana; year 2018; ISBN 978-601-318-092-2 (authors Салгараева Г. И., Бекежанова А. А., Базаева Ж. Б.). PDF pages: 192 in each edition (contents at printed pp. 189–190 read in full in the Russian edition 343.pdf and matched in the Kazakh edition 307.pdf). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 13:** *Salgaraeva G8 «Информатика» 2021 edition* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 8 pupils of basic secondary education (renewed content) Editions in this record set: 951.pdf (Russian), 954.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 8 (student/teacher: STUDENT). Publisher: Издательство «Арман-ПВ»; signed to print 18.06.2021, article 808-008-001р-21 (authors Салгараева Г. И., Бекежанова А. А., Базаева Ж. Б.); Kazakh edition ISBN 978-601-318-350-3. PDF pages: 208 in each edition (back contents, printed p. 207, read in full in the Russian edition 951.pdf). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cyber terminology; the eight main kinds listed | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 199 |
@@ -37,8 +41,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia
 | Bab IV B.1 Jenis serangan siber | Indonesia Grade 9 G9 Informatika student, printed p. 194 |
 | Bab 4 H.3–H.4 Jenis dan metode ancaman cyber: phishing, botnets/zombies, injeksi SQL, DoS, man-in-the-middle, malware, virus, spyware, trojans, adware, ransomware | Indonesia Grade 12 G12 Informatika student, printed p. 121 |
 | Bab IV Panduan pembelajaran: serangan siber dan keamanan jaringan (filed as safety-security-and-care/cyber-attacks; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 168 (teacher guide — evidence) |
+| §7–8 Практикум. Киберугрозы современности | Kazakhstan Grade 8 Salgaraeva, printed p. 43 |
+| §7–8 Практикум. Киберугрозы современности | Kazakhstan Grade 8 Salgaraeva 2021, printed p. 50 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia, Kazakhstan).**
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
@@ -60,4 +66,8 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
 
-Searchable tags: cyber-attack, eight kinds, map, Grade 9 ICT Ethiopia Unit 5, iraq, grade 10, sudan, grade 6, cuba, grade 9, egypt, grade 10, grade 8, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, indonesia, grade 9, grade 12, grade 9
+
+Kazakhstan's own way (Salgaraeva G8 «Информатика»): the Arman-PV Grade 8 book follows the same five-section state programme as the Atamura book (Book 11) but stretches it: a separate unit on processor characteristics, a practicum on modern cyber-threats, text and logical spreadsheet functions, plotting mathematical functions in a spreadsheet and changing the chart's properties, and a practicum on typical programming errors inside the C++ IDE sections.
+
+Kazakhstan's own way (Salgaraeva G8 «Информатика» 2021 edition): the 2021 Arman-PV revision of the Grade 8 book (Book 19 is the 2018 original) keeps sections 1–3 but replaces the C++ IDE section with Python loop control — while, for, continue, break and the loop else — plus tracing and a practicum on errors that arise in programming.
+Searchable tags: cyber-attack, eight kinds, map, Grade 9 ICT Ethiopia Unit 5, iraq, grade 10, sudan, grade 6, cuba, grade 9, egypt, grade 10, grade 8, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, indonesia, grade 9, grade 12, grade 9, kazakhstan, salgaraeva g8 «информатика», salgaraeva g8 «информатика» 2021 edition

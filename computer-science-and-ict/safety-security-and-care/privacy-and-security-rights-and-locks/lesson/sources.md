@@ -1,6 +1,6 @@
 # Sources — Privacy and security — rights vs locks
 
-countries: Ethiopia, Bhutan, Jordan, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Bhutan, Jordan, Armenia, Vietnam, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bhutan, Jordan, Armenia, Vietnam, South Sudan
 
 **Book 8:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 9:** *Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)* (Kazakhstan) — Title as printed: Информатика — Учебник для 7 класса (developed under the Educational Programme of Nazarbayev Intellectual Schools) Editions in this record set: 1046.pdf (Russian). Record 1047.pdf is the defective calibre conversion filed as Book 9. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Astana; year 2018; ISBN 978-601-328-201-5 (authors Вьюшкова Е. А., Журбенко З. М., Оразбеков С. Қ.). PDF pages: 136 (front contents, printed p. 3, read in full — nine sections, 53 units; the scan is image-only, read via contents + cover/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Privacy — rights over your data; data privacy defined | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 185–186 |
@@ -30,8 +32,10 @@ countries: Ethiopia, Bhutan, Jordan, Armenia, Vietnam, South Sudan
 | 1.7 Safe and legal use of data | Armenia Grade 7 G7 student, printed p. 20 |
 | Bài 10 Bảo vệ thông tin khi dùng máy tính (Protecting your and your family's information when using a computer) | Vietnam Grade 3 Tin học 3, printed p. 46 |
 | 4.4.2 Protecting computer devices | South Sudan Grade 9 S1 Student, printed p. 114 |
+| 1.3 Как защитить данные | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 10 |
+| 4.10 Защита данных от изменений | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 60 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Jordan, Armenia, Vietnam, South Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bhutan, Jordan, Armenia, Vietnam, South Sudan, Kazakhstan).**
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
@@ -47,4 +51,6 @@ Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with 
 
 South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
 
-Searchable tags: privacy, security, data privacy, data security, personal information, rights, Gmail exercise, Grade 10 ICT Ethiopia, bhutan, class vii, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 6, grade 7, vietnam, grade 3 tin học 3, south sudan, grade 9 s1 student
+
+Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
+Searchable tags: privacy, security, data privacy, data security, personal information, rights, Gmail exercise, Grade 10 ICT Ethiopia, bhutan, class vii, jordan, grade 7 term 2 digital skills, armenia, grade 5, grade 6, grade 7, vietnam, grade 3 tin học 3, south sudan, grade 9 s1 student, kazakhstan, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition)

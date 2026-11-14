@@ -1,6 +1,6 @@
 # Sources — Sorting a worksheet
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam, South Sudan
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -34,6 +34,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 
 **Book 16:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 17:** *Shaniev G9 Informatics* (Kazakhstan) — Title as printed: Informatics — bilingual textbook for Grade 9 (record titles: "Informatics. Қостілді оқулық / Билингвальный / Textbook", Shaniev E.); the text is in English with Kazakh–Russian–English glossaries. Editions in this group: okulyk 419 (record 72 — read in full from its text layer), okulyk 465 (record 76) and okulyk 479 (record 78) — parallel bilingual/English files of the same book (covers verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 9 (student/teacher: STUDENT). Publisher: not stated in the extracted text; no ISBN in the extracted text. PDF pages: 172 (419) (title pages verified against the record title; the printed contents gives no page numbers, so placements cite PDF pages). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 18:** *Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)* (Kazakhstan) — Title as printed: Информатика — Учебник для 7 класса (developed under the Educational Programme of Nazarbayev Intellectual Schools) Editions in this record set: 1046.pdf (Russian). Record 1047.pdf is the defective calibre conversion filed as Book 9. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Astana; year 2018; ISBN 978-601-328-201-5 (authors Вьюшкова Е. А., Журбенко З. М., Оразбеков С. Қ.). PDF pages: 136 (front contents, printed p. 3, read in full — nine sections, 53 units; the scan is image-only, read via contents + cover/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — sorting defined: alphabetical, numerical, by date, custom list, by cell/font colour or icon; the scope decision — whole sheet (rows move together) vs only a range | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 110–111 |
@@ -55,8 +59,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 | Bài 6 Sắp xếp và lọc dữ liệu §1 (Sorting data) | Vietnam Grade 8 Tin học 8, printed p. 27 |
 | 2.9.1 Sorting data | South Sudan Grade 10 S2 Student, printed p. 87 |
 | 2.9 Sorting data | South Sudan Grade 10 S2 Teacher, printed p. 36 (teacher guide — evidence) |
+| 2.4: Sort and filter data | Kazakhstan Grade 9 Shaniev G9, PDF p. 61 |
+| 4.3 Работа со школьными данными | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 46 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam, South Sudan).**
+**Acceptance count: taught in 13 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam, South Sudan, Kazakhstan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -85,4 +91,8 @@ South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer s
 
 South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
 
-Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7, vietnam, grade 8 tin học 8, south sudan, grade 10 s2 student, grade 10 s2 teacher
+
+Kazakhstan's own way (Shaniev G9 Informatics): the bilingual Grade 9 book (taught in English for the trilingual programme) opens with computer literacy including netiquette and pricing a computer configuration, teaches databases practically (design, build, sort/filter, pivot tables, charts, a "family shop" mini-project), then Python lists in depth — and finishes with a whole chapter of 2D game programming in PyGame.
+
+Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
+Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7, vietnam, grade 8 tin học 8, south sudan, grade 10 s2 student, grade 10 s2 teacher, kazakhstan, shaniev g9 informatics, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition)

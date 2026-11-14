@@ -1,18 +1,23 @@
 # Sources — Peripheral Devices Attached to the System Unit
 
-countries: Pakistan
+countries: Pakistan, Kazakhstan
 
 **Book 1:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
+
+**Book 2:** *Heathcote ICT Grade 10* (Kazakhstan) — Title as printed: ICT — Information and Communication Technology, Grade 10 (Grammar Schools series); authors P. Heathcote, S. Heathcote, with Saule... (Kazakhstan adaptation team named on the title page); printed in Kazakhstan. Editions in this group: okulyk 474 (English, record 77 — read from page renders, image-only scan; the file's near-empty text layer is only the watermark). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Express Publishing; year 2018; ISBN 978-1-4715-… (final digits cut off on the rendered imprint page). PDF pages: 114 (cover/title pages verified against the record title). Verdict: COMPLETE — placements are at module level, the book's own teaching units. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 §1.4.2 Peripherals | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 3 |
+| Module 1: Hardware peripherals and software (filed as NEW LESSON NEEDED — hardware/peripheral-devices-input-and-output; stocked in this lesson because this lesson teaches peripheral devices — the input and output devices attached to the system unit) | Kazakhstan Grade 10 Heathcote ICT G10, printed p. 7 |
 
-**Acceptance count: taught in 1 country (Pakistan).**
+**Acceptance count: taught in 2 countries (Pakistan, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Pakistan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — hardware/peripheral-devices-attached-to-the-system-unit). It sits in the Hardware title (hardware/), following the book's own order. Provenance scope note: the placements stocked here are from Pakistan (Punjab)'s Punjab Curriculum and Textbook Board (PCTB) books — the SNC 2022 series for Grades 6–7 ("One Nation, One Curriculum"), the older National-Curriculum-2006 Grade 8 book, the pre-SNC Grade 9 "Computer Science & IT" book (the record's "SNC" label does not match the held edition — carried as filed), the Urdu-medium Grade 10 C course, the 2023-curriculum Grade 11 "Computer Science and Entrepreneurship" book (PECTAA), and the 2016-17 Grade 12 book — all student books, cited as Pakistan (Punjab); there are no teacher guides in this country. The books are recorded as pushed but no secured copy is retrievable from GitHub (library debt, carried as filed); each was read from its record's Drive source, byte size matching the record exactly. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
 
-Searchable tags: peripheral devices attached to the system unit, hardware, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Heathcote ICT Grade 10): an imported British ICT course (Express Publishing's Grammar Schools series) adapted for Kazakhstan — ten modules that include two topics the national books do not teach at all: expert and control systems, and developing a mobile app.
+Searchable tags: peripheral devices attached to the system unit, hardware, pakistan, grade 6 computer science 6, kazakhstan, heathcote ict grade 10

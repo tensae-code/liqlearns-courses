@@ -1,6 +1,6 @@
 # Sources — What a computer is — input, process, store, output
 
-countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova, Jordan, Armenia, Indonesia, Pakistan
+countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova, Jordan, Armenia, Indonesia, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -63,6 +63,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 
 **Book 32:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 33:** *Mukametzhanova G6 «Информатика»* (Kazakhstan) — Title as printed: Информатика — Учебник для 6 класса общеобразовательной школы Editions in this record set: 211.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 6 (student/teacher: STUDENT). Publisher: «Атамұра», Almaty; year 2018; ISBN 978-601-331-… (imprint truncated in the scan; authors Мухамбетжанова С. Т., Тен А. С., Кыдырбек О.). PDF pages: 192 (front contents, printed p. 3, read in full — six sections, 20 units). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -100,8 +102,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 | Lesson 2 Working with the computer | Armenia Grade 3 G3 student, printed p. 10 |
 | Bab 5 A (pengantar sistem komputer sebagai mesin pengolah data) | Indonesia Grade 8 G8 Informatika student, printed p. 189 |
 | Unit 1 §1.2 Computer | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 2 |
+| 1.3 Как работает компьютер | Kazakhstan Grade 6 Mukametzhanova, printed p. 16 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova, Jordan, Armenia, Indonesia, Pakistan).**
+**Acceptance count: taught in 21 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Sri Lanka, Rwanda, Laos, Moldova, Jordan, Armenia, Indonesia, Pakistan, Kazakhstan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -164,4 +167,6 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6, fiji, years 7-8, year 11, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 2, grade 3, indonesia, grade 8, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Mukametzhanova G6 «Информатика»): the whole second half of Grade 6 is one long game-development arc — idea, scenario, drawing scenes and characters (vector editor), realising the scenario, sound, a title screen, improving the project — and then documenting the game properly with footnotes, hyperlinks and an automatically built table of contents.
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6, fiji, years 7-8, year 11, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 7 ict student, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 2, grade 3, indonesia, grade 8, pakistan, grade 6 computer science 6, kazakhstan, mukametzhanova g6 «информатика»

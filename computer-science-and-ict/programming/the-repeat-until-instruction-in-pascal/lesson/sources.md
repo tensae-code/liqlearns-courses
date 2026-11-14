@@ -1,17 +1,23 @@
 # Sources — The Repeat-Until Instruction in Pascal
 
-countries: Moldova
+countries: Moldova, Kazakhstan
 
 **Book 1:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
 **Book 2:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 3:** *Kadirkulov G8 Informatika, Lazarus edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 766 (Kazakh, record 57 — read in full from its text layer), okulyk 767 (record 58 — same 184-page frame). A shorter Python-based edition of the same team's Grade 8 book is filed separately as Book 20. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-3976-3. PDF pages: 184 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 4:** *Salgaraeva G8 Informatika, 2018 edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Salgaraeva G.I., Bekezhanova A.A., Bazaeva Zh.B. Editions in this group: okulyk 307 (Kazakh, record 55 — read in full from its text layer), okulyk 343 (Russian, record 56 — text layer confirms the same book). A later updated-content edition (208 pages) is filed separately as Book 22. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Arman-PV (Astana); year 2018; ISBN 978-601-318-101-1. PDF pages: 192 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 3.15 Instrucțiunea repeat | Moldova Grade 8 Informatică, printed p. 123 |
 | 3.16 Instrucțiunea repetitivă cu test final (repeat; do-while in C++) | Moldova Grade 10 Informatică, printed p. 154 |
+| 4.6: The post-condition loop — the repeat-until operator (filed as NEW LESSON NEEDED — programming/the-repeat-until-post-condition-loop; stocked in this lesson because this lesson teaches the repeat-until instruction — the post-condition loop whose body runs first and is tested after) | Kazakhstan Grade 8 Kadirkulov G8 (Lazarus ed.), printed p. 111 |
+| §22: The post-condition loop (filed as NEW LESSON NEEDED — programming/the-repeat-until-post-condition-loop; stocked in this lesson because this lesson teaches the repeat-until instruction — the post-condition loop whose body runs first and is tested after) | Kazakhstan Grade 8 Salgaraeva G8 (2018), printed p. 131 |
 
-**Acceptance count: taught in 1 country (Moldova).**
+**Acceptance count: taught in 2 countries (Moldova, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Moldova, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/the-repeat-until-instruction-in-pascal). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Moldova student book (all seven books in this expansion are student books). Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +25,8 @@ Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Wor
 
 Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ side by side — each school chooses one or both — and upper-secondary programming is language-formal: BNF metalanguage and syntax diagrams, ordinal types, type conversions, every concept given in Pascal for teaching and in C++ for a technology career.
 
-Searchable tags: repeat until, do-while, post-test loop, pascal, programming, informatica, grade 8, grade 10, moldova, grade 8 informatica, grade 10 informatica
+
+Kazakhstan's own way (Kadirkulov G8 Informatika, Lazarus edition): Grade 8 by the Almatykitap team measures information two ways (the probabilistic and alphabetic approaches, with Hartley-formula problems), works Excel hard (absolute/relative references, built-in functions, data analysis, applied problems), and teaches programming in the Lazarus IDE — case, for, nested, repeat-until and while operators, tracing, and procedures and functions — before a final part that runs the whole problem-solving cycle from statement to tested program.
+
+Kazakhstan's own way (Salgaraeva G8 Informatika, 2018 edition): the Arman-PV Grade 8 book runs the shared national frame in 34 numbered paragraphs with a test after every part: two paragraphs split the processor from its characteristics, the Excel part goes furthest of the three publishers (data formats, text and logical functions, plotting and restyling function graphs), and the Lazarus part adds algorithm tracing and a practicum on typical programming errors.
+Searchable tags: repeat until, do-while, post-test loop, pascal, programming, informatica, grade 8, grade 10, moldova, grade 8 informatica, grade 10 informatica, kazakhstan, kadirkulov g8 informatika, lazarus edition, salgaraeva g8 informatika, 2018 edition

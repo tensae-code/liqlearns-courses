@@ -1,6 +1,6 @@
 # Sources — Starting up a computer
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia, Vietnam, Pakistan
+countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia, Vietnam, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -34,6 +34,14 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, J
 
 **Book 16:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 17:** *Kobdikova G1 Digital Literacy* (Kazakhstan) — Title as printed: Цифрлық сауаттылық / Цифрлиқ саватлиқ (Digital Literacy), textbook for Grade 1 of the primary education level; authors Kobdikova Zh.U., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 928 (Kazakh, record 3 — read fully from page renders, image-only scan), okulyk 1124 (Uyghur, record 1 — spot-checked: cover, contents and spreads identical, same pagination). Image-only: the text layer carries only the okulyk watermark. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2021; ISBN 978-601-318-347-3 (Kazakh edition). PDF pages: 80 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 18:** *Sagimbaeva G1 Digital Literacy* (Kazakhstan) — Title as printed: Цифровая грамотность (Digital Literacy), textbook for Grade 1 of the general school Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2021; ISBN 978-601-01-4407-1. PDF pages: 72 (cover/title page verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 19:** *Kopeeva G3 ICT* (Kazakhstan) — Title as printed: Әхбаратлиқ-коммуникациялиқ технологиялар (Information and Communication Technologies), textbook for Grade 3 of the general school; authors Kopeeva G.A., Dilmanova U.M.; scientific consultant Kobdikova Zh.U.; translated from Kazakh by Zhalilova A.L. Editions in this group: okulyk 1128 (Uyghur, record 9 — read from page renders, image-only scan). No other edition of this book is in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Arman-PV (Astana); year 2018; ISBN 978-601-318-187-5. PDF pages: 128 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 20:** *Sagimbaeva G1 «Цифровая грамотность»* (Kazakhstan) — Title as printed: Цифровая грамотность — Учебник для учащихся 1 класса общеобразовательной школы Editions in this record set: 917.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 1 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ; year 2021; no ISBN printed (УДК 373.167.1; authors Сагимбаева А. Е., Ермухамбетова М. А., Бидайбеков Е. Ы.). PDF pages: 72 (cover, conventions page and full contents on printed p. 71 verified). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Start-up order — checks, connections, power buttons, loading, sign-in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.63 |
@@ -52,8 +60,12 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, J
 | Thematic planning, Theme 1 Lesson 1: E-security and health — working with electronic devices, switching the computer on, off and restarting | Armenia Grade 3 G3 teacher, printed p. 23 (teacher guide — evidence) |
 | Bài 4 Làm việc với máy tính (Working with a computer: switching on/off, sitting properly, first mouse use) | Vietnam Grade 3 Tin học 3, printed p. 18 |
 | Unit 3 §3.6.1 Startup procedure of Windows | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 32 |
+| §1 practical: switching the computer on and off (Start menu, Shut down) under the teacher's direction | Kazakhstan Grade 1 Kobdikova G1, printed p. 9 |
+| Lesson 2: Starting work on the computer (switching on and off properly, working with the mouse) | Kazakhstan Grade 1 Sagimbaeva G1, printed p. 9 |
+| §4: Switching the computer on | Kazakhstan Grade 3 Kopeeva ICT, printed p. 15 |
+| 2. Начинаем работать на компьютере | Kazakhstan Grade 1 Sagimbaeva, printed p. 9 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia, Vietnam, Pakistan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Yemen, Saudi Arabia, Bhutan, Sri Lanka, Jordan, Armenia, Vietnam, Pakistan, Kazakhstan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -79,4 +91,12 @@ Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with 
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
-Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook, armenia, grade 2, grade 3, vietnam, grade 3 tin học 3, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Kobdikova G1 Digital Literacy): every keyword is given in three languages (Kazakh–Russian–English); the same national curriculum frame as the Almatykitap Grade 1 book (information etiquette / programming / robots, themes "Journey" and "Traditions and folklore") but this Arman-PV team teaches robotics on LEGO Mindstorms Education EV3 instead of WeDo 2.0, and Scratch through Kazakh folklore heroes (Aldar Kose, Makta Kyz) and national instruments (dombyra, kobyz, zhetigen); each project lesson is tiered A/B/C by difficulty.
+
+Kazakhstan's own way (Sagimbaeva G1 Digital Literacy): Grade 1 digital literacy is organised by cross-cutting themes ("Journey"; "Traditions and folklore" — a linear algorithm is taught through setting up a yurt); Scratch programming and Lego Education WeDo 2.0 robotics already start in Grade 1; lessons carry QR codes to videos.
+
+Kazakhstan's own way (Kopeeva G3 ICT): the older Grade 3 "ICT" subject (not Digital Literacy): no programming or robotics at all — the year is computer basics, WordPad-style text work, sound recording, a long Paint strand (tools, shapes, repeating patterns, palette, printing, mixed text-and-picture documents), Internet safety and search, and a full presentation strand ending with sound inside slides.
+
+Kazakhstan's own way (Sagimbaeva G1 «Цифровая грамотность»): two cartoon guides (Arman and Saule, themselves first-graders) lead the year; lessons are told as a journey, QR codes open lesson videos, and from lesson 10 the class builds and programmes LEGO-style robots (windmill model, labyrinth runs).
+Searchable tags: starting up a computer, power button, connectors, sign in, booting, Grade 7 ICT Ethiopia, djibouti, uganda, yemen, grade 10, saudi arabia, grade 3, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, jordan, grade 1 digital skills workbook, armenia, grade 2, grade 3, vietnam, grade 3 tin học 3, pakistan, grade 6 computer science 6, kazakhstan, kobdikova g1 digital literacy, sagimbaeva g1 digital literacy, kopeeva g3 ict, sagimbaeva g1 «цифровая грамотность»

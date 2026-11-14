@@ -1,17 +1,27 @@
 # Sources — Types of Robots and How Robots Move
 
-countries: Jordan
+countries: Jordan, Kazakhstan
 
 **Book 1:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 2:** *Mukametzhanova G5 «Информатика» 2020 edition* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 5 of the general school Editions in this record set: 934.pdf (Russian), 938.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 5 (student/teacher: STUDENT). Publisher: «Атамұра», Almaty; year 2020; ISBN 978-601-331-882-0 (authors Мухамбетжанова С. Т., Тен А. С., Ергали М.). PDF pages: 144 in each edition (back contents, printed p. 142, read in full from the cover-verified Russian edition 934.pdf). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 3:** *Kobdikova G5 «Информатика»* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 5 of the general school Editions in this record set: 935.pdf (Russian), 937.pdf (Kazakh) — each file contains both language copies Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 5 (student/teacher: STUDENT). Publisher: Издательство «Арман-ПВ», Nur-Sultan; year 2020; ISBN 978-601-318-307-7 (authors Кобдикова Ж. У., Көпеева Г. А., Каптагаева А. А., Юсупова А. Г.). PDF pages: 319 — the file binds the Russian edition (160 printed pages) and the Kazakh edition together; contents at printed p. 156 read in full in the Russian copy (each theory unit is doubled with a named Практикум or Создание проекта unit, 34 units in all). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 3: how robots move; types of robots; fields of robot use and their importance | Jordan Grade 9 G9T2 Student, printed p. 136 |
+| 3.1 Виды роботов и области их применения (filed as NEW LESSON NEEDED — new-technologies/kinds-of-robots-and-where-they-are-used; stocked in this lesson because this lesson teaches the types of robots and the fields of robot use) | Kazakhstan Grade 5 Mukametzhanova 2020, printed p. 72 |
+| §16 Виды роботов и области их применения (filed as NEW LESSON NEEDED — new-technologies/kinds-of-robots-and-where-they-are-used; stocked in this lesson because this lesson teaches the types of robots and the fields of robot use) | Kazakhstan Grade 5 Kobdikova, printed p. 72 |
 
-**Acceptance count: taught in 1 country (Jordan).**
+**Acceptance count: taught in 2 countries (Jordan, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Jordan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — new-technologies/types-of-robots-and-how-robots-move). It sits in the New Technologies title (new-technologies/), following the book's own order. Provenance scope note: the placements stocked here are from Jordan's NCCD Digital Skills books (Arabic); student books and early-grades activity workbooks count toward the acceptance count, and any teacher-guide placements among them are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Scope notes as filed are carried: the Grade 1–6 workbooks and guides integrate partner subjects, and only their ICT teaching parts are placed; the Grade 10 Term 2 book survives as a draft-watermarked copy, carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
 
-Searchable tags: robots, types of robots, robot movement, industrial robots, exploration, jordan, grade 9
+
+Kazakhstan's own way (Mukametzhanova G5 «Информатика» 2020 edition): the 2020 Atamura revision of the Grade 5 book is rebuilt on the renewed programme — the same five sections as the Almatykitap book (Book 18): presenting information with encryption and binary, raster and vector graphics with curves, robotics with the gyroscope sensor and turns, robot competitions (line following and robo-sumo), and computer safety moved to the end.
+
+Kazakhstan's own way (Kobdikova G5 «Информатика»): the Arman-PV Grade 5 book is the practicum twin of the same programme as Books 18 and 35 — nearly every unit comes in a theory + practice pair, and it adds a block the others lack: sharing files (placing, changing and downloading shared files), setting a password on documents, and organising a document effectively for print, taught as "mini-project works".
+Searchable tags: robots, types of robots, robot movement, industrial robots, exploration, jordan, grade 9, kazakhstan, mukametzhanova g5 «информатика» 2020 edition, kobdikova g5 «информатика»

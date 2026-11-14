@@ -1,6 +1,6 @@
 # Sources — PowerPoint — making a slideshow; inserting slides
 
-countries: Ethiopia, Fiji, Mongolia
+countries: Ethiopia, Fiji, Mongolia, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Fiji, Mongolia
 
 **Book 4:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Kadirkulov G3 «Цифровая грамотность»* (Kazakhstan) — Title as printed: Цифровая грамотность — textbook for Grade 3 pupils of the general school Editions in this record set: 68.pdf (Russian), 933.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ, Almaty; year 2021; ISBN 978-601-01-4575-7 (authors Кадиркулов Р. А., Рыскулбекова А. Д., Беристемова Н. К.). PDF pages: 132 in each edition (back contents, printed pp. 130–131, read in full in the Russian edition 68.pdf, text-rich). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 6:** *Kadirkulov G3 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Информационно-коммуникационные технологии — textbook for Grade 3 pupils of the general school Editions in this record set: 1229.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: Алматыкітап баспасы, Almaty; signed to print 06.06.2018 (authors Кадиркулов Р. А., Рыскулбекова А. Д.). PDF pages: 96 (back contents, printed pp. 94–95, read in full from the cover-verified copy 1229.pdf). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — PowerPoint creates a slideshow addressing a topic (a presentation, or slide); three major functions: editor for text, inserting and manipulating graphic images, slide-show system to display content | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 56–57 |
@@ -17,8 +21,10 @@ countries: Ethiopia, Fiji, Mongolia
 | Unit 4.3 Use Microsoft PowerPoint to create a series of slides | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 117 |
 | 2.3.2 Preparing a presentation (planning, adding slides and layouts, text boxes, design themes, running the show, slide transitions) | Mongolia Grade 7 IT VII, printed p. 51 |
 | Check-questions with answers: §9 Working with electronic presentations | Armenia Grade 7 G7 teacher, printed p. 114 (teacher guide — evidence) |
+| 27. Создание презентации | Kazakhstan Grade 3 Kadirkulov, printed p. 98 |
+| 26. Создание презентации | Kazakhstan Grade 3 ICT Kadirkulov, printed p. 64 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Mongolia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Mongolia, Kazakhstan).**
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
@@ -26,4 +32,8 @@ Mongolia's own way (Grade 7): the whole applications half is one long project �
 
 Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
 
-Searchable tags: PowerPoint, presentation, slideshow, slides, layouts, editor, graphic images, Ethiopia Grade 8, fiji, years 7-8, mongolia, grade 7 it vii, armenia, grade 7
+
+Kazakhstan's own way (Kadirkulov G3 «Цифровая грамотность»): the Almatykitap Grade 3 digital literacy book is built as projects: a Scratch game built scene by scene, then a robotics project that oddly starts in Word (the project document is written and illustrated first) before the robot arm moves, and a cleaner robot is built; presentations and a photo collection close the year.
+
+Kazakhstan's own way (Kadirkulov G3 «Ақпараттық-коммуникациялық технологиялар»): the older Almatykitap Grade 3 ICT book (2018, a different book from the 2021 Digital Literacy, Book 23) is organised by cross-curricular themes — Living Nature, What is Good and What is Bad, Time, Architecture, Art, Outstanding People, Water is the Source of Life, Culture of Rest — and teaches sound (playback, effects, recording, processing) and the graphics editor inside them, ending every theme with a defended mini-project.
+Searchable tags: PowerPoint, presentation, slideshow, slides, layouts, editor, graphic images, Ethiopia Grade 8, fiji, years 7-8, mongolia, grade 7 it vii, armenia, grade 7, kazakhstan, kadirkulov g3 «цифровая грамотность», kadirkulov g3 «ақпараттық-коммуникациялық технологиялар»

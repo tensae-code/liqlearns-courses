@@ -1,6 +1,6 @@
 # Sources — Import and export — data in, data out
 
-countries: Ethiopia, Nepal, Indonesia, South Sudan
+countries: Ethiopia, Nepal, Indonesia, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Nepal, Indonesia, South Sudan
 
 **Book 9:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Kadirkulov G2 Digital Literacy* (Kazakhstan) — Title as printed: Цифрлық сауаттылық / Цифровая грамотность (Digital Literacy), textbook for Grade 2 of the primary education level; authors Kadirkulov R.A., Nurmukhanbetova G.K., Gaipbaeva U.A. Editions in this group: okulyk 1004 (Kazakh, records 4 and 91 — TSV + books.json duplicate), okulyk 1005 (Russian, records 5 and 92 — TSV + books.json duplicate). Russian edition spot-checked: cover, contents and pagination identical to the Kazakh edition, placed once here. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 2 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2022; ISBN 978-601-01-4737-9 (Kazakh edition), 978-601-01-4774-4 (Russian edition). PDF pages: 120 each (cover/title pages verified against the record titles; staging byte sizes match the books.json records: 22,227,728 and 22,464,450 bytes). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — importing, exporting, the CSV pair, the File-menu export route and formats, OneNote notes exported as .doc | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 16–17 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Nepal, Indonesia, South Sudan
 | 2.2.1 Importing data in MS Excel | South Sudan Grade 10 S2 Student, printed p. 44 |
 | 2.2.2 Exporting data | South Sudan Grade 10 S2 Student, printed p. 44 |
 | Importing data into an Access database (teaching notes) | South Sudan Grade 12 S4 Teacher, printed p. 18 (teacher guide — evidence) |
+| Lesson 29: Exchanging data between programs (Internet browser and text editor) | Kazakhstan Grade 2 Kadirkulov G2, printed p. 98 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Indonesia, South Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Indonesia, South Sudan, Kazakhstan).**
 
 No book error touches this lesson's pages.
 
@@ -49,4 +52,6 @@ South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer s
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: import, export, CSV, comma separated values, File menu, txt, bmp, jpg, gif, OneNote, files and folders, grade 10, information technology, ict, ethiopia, nepal, cuba, grade 5, cuba, grade 5, armenia, grade 6, indonesia, grade 10, south sudan, grade 10 s2 student, grade 12 s4 teacher
+
+Kazakhstan's own way (Kadirkulov G2 Digital Literacy): one Grade 2 year mixes Scratch, a word processor, the WavePad sound editor and Lego Mindstorms EV3 robotics, and ends with a built-and-defended robotics project ("Dancing Robot"); every section closes with research and creative task pages (printed pp. 18, 34, 58).
+Searchable tags: import, export, CSV, comma separated values, File menu, txt, bmp, jpg, gif, OneNote, files and folders, grade 10, information technology, ict, ethiopia, nepal, cuba, grade 5, cuba, grade 5, armenia, grade 6, indonesia, grade 10, south sudan, grade 10 s2 student, grade 12 s4 teacher, kazakhstan, kadirkulov g2 digital literacy

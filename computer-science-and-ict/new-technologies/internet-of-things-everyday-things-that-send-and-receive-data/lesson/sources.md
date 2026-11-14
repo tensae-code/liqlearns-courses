@@ -1,6 +1,6 @@
 # Sources — Internet of Things — everyday things that send and receive data
 
-countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Indonesia, Vietnam
+countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Indonesia, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangl
 
 **Book 14:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 15:** *Sagimbaeva G1 Digital Literacy* (Kazakhstan) — Title as printed: Цифровая грамотность (Digital Literacy), textbook for Grade 1 of the general school Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2021; ISBN 978-601-01-4407-1. PDF pages: 72 (cover/title page verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 16:** *Kopeeva G5 Informatika* (Kazakhstan) — Title as printed: Информатика / Informatika, textbook for Grade 5 of the general school; authors Kopeeva G.A., Dilmanova U.M.; scientific consultant Kobdikova Zh.U. Editions in this group: okulyk 129 (Kazakh, record 19 — read in full from its text layer), okulyk 1133 (Uyghur, record 15) and okulyk 1134 (Uzbek, record 16) — image-only scans of the same 192-page frame (covers verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 5 (student/teacher: STUDENT). Publisher: Arman-PV; year 2017; ISBN 978-601-318-011-3 (Kazakh edition). PDF pages: 192 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | IoT defined: a network of physical objects or people equipped with software, electronics, networks and sensors to collect and exchange data; connectivity beyond computers and smartphones; remote control; cutting human effort; virtually smart through data, AI and networks | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 48–49 |
@@ -47,8 +51,10 @@ countries: Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangl
 | Unit 1 Internet of Things, Lesson 1: Introduction to IoT Components and Functions | Jordan Grade 10 G10T2 Student, printed p. 10 |
 | Bab 1 C.2 Internet of Things (IoT), dengan contoh Indonesia: Gowes, Hara, Qlue, eFishery | Indonesia Grade 12 G12 Informatika student, printed p. 13 |
 | Bài 1 Thế giới kĩ thuật số (The digital world: information processors embedded in TVs, appliances and robots all around us) | Vietnam Grade 9 Tin học 9, printed p. 5 |
+| Lesson 3: devices controlled through the Internet (robot vacuum, smart watch, digital album) | Kazakhstan Grade 1 Sagimbaeva G1, printed p. 13 |
+| §5: Computer devices controlled from one centre | Kazakhstan Grade 5 Kopeeva G5, printed p. 37 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Indonesia, Vietnam).**
+**Acceptance count: taught in 13 countries (Ethiopia, Nepal, Iraq, Sudan, Egypt, Sri Lanka, Kuwait, Greece, Bangladesh, Jordan, Indonesia, Vietnam, Kazakhstan).**
 
 Printed p. 48 frames the Internet as “created in the late 1990s and is now more than 30 years old” — the book's own inconsistent framing (a late-1990s creation would not yet be 30 years old at the book's writing, and the framing sits oddly against the internet's longer history). This lesson teaches the IoT topics as the book teaches them and flags the inconsistency here rather than silently rewriting the book, exactly as the placements direct.
 
@@ -76,4 +82,8 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
 
-Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook, kuwait, grade 10 information technology term 2, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 10 term 2 digital skills, indonesia, grade 12, vietnam, grade 9 tin học 9
+
+Kazakhstan's own way (Sagimbaeva G1 Digital Literacy): Grade 1 digital literacy is organised by cross-cutting themes ("Journey"; "Traditions and folklore" — a linear algorithm is taught through setting up a yurt); Scratch programming and Lego Education WeDo 2.0 robotics already start in Grade 1; lessons carry QR codes to videos.
+
+Kazakhstan's own way (Kopeeva G5 Informatika): Grade 5 Informatika (the older, pre-"Digital Literacy" subject name) is built around Scratch as a "game programming environment": a whole chapter runs from a first program through blocks, animation graphics, sound effects and dialogue to linear/branching/cyclic commands; earlier chapters pair Internet safety with data protection, and the year ends with print-ready project work — a Word newspaper page with WordArt and columns, presented as slides.
+Searchable tags: Internet of Things, IoT, smart things, sensors, connected devices, Grade 12 ICT Ethiopia, nepal, iraq, grade 11, sudan, grade 7, egypt, grade 8, sri lanka, grade 9 workbook, kuwait, grade 10 information technology term 2, greece, grade 7 pliroforiki a gymnasiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 10 term 2 digital skills, indonesia, grade 12, vietnam, grade 9 tin học 9, kazakhstan, sagimbaeva g1 digital literacy, kopeeva g5 informatika

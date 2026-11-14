@@ -1,6 +1,6 @@
 # Sources — ORDER BY — ascending and descending results
 
-countries: Ethiopia, Belarus, Libya, Laos, Bangladesh
+countries: Ethiopia, Belarus, Libya, Laos, Bangladesh, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Belarus, Libya, Laos, Bangladesh
 
 **Book 6:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 7:** *Salgaraeva G9 «Информатика»* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 9 of the general school Editions in this record set: 395.pdf (Kazakh), 443.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 9 (student/teacher: STUDENT). Publisher: «Арман-ПВ», Nur-Sultan; year 2019; ISBN 978-601-318-238-4 (Russian edition; authors Салгараева Г. И., Калымова К. А., Орынтаева Ж. А.; scientific consultant Ж. У. Кобдикова). PDF pages: 176 in each edition (contents at printed pp. 173–174 read in full in both editions and matched § by §). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — ORDER BY sorts output by a named field, alphabetically or numerically, ascending by default (ASC may be written or left empty); teachers sorted by salary ascending | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 90–91 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Belarus, Libya, Laos, Bangladesh
 | Ch 9, setting field sorting in a query | Libya Grade 10 IT student, printed p. 112 |
 | Ch.2 §7 Searching and sorting data | Laos Grade 11 ICT student, printed p. 87 |
 | Chapter 6 exercises: sorting records ascending and descending in a data-table form (a graded exercise skill rather than a taught section) | Bangladesh HSC ICT, printed p. 211 |
+| §13 Сортировка и фильтрация данных | Kazakhstan Grade 9 Salgaraeva, printed p. 74 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Libya, Laos, Bangladesh).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Libya, Laos, Bangladesh, Kazakhstan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -38,4 +41,6 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: ORDER BY, ASC, DESC, sorting, ascending, descending, DQL, Ethiopia Grade 12, belarus, libya, grade 10 it student, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim
+
+Kazakhstan's own way (Salgaraeva G9 «Информатика»): Grade 9 in the Arman-PV line is a maker's year: work with information (netiquette, shared documents), choosing and costing a real computer, databases built first in spreadsheets, then Python arrays, and a full PyGame 2D game — background, characters, sprite animation, keyboard control — built from a ready scenario.
+Searchable tags: ORDER BY, ASC, DESC, sorting, ascending, descending, DQL, Ethiopia Grade 12, belarus, libya, grade 10 it student, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, kazakhstan, salgaraeva g9 «информатика»

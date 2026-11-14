@@ -1385,3 +1385,29 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Pakistan): Advantages and Disadvantages of ICT Devices · Business Money Revenue Profit Budgets Loans · Citizens and Their Responsibilities · Collaboration and Iteration Improving by Working Together · Communication and Storytelling for Business · Computational Thinking in Real Life Routes Recipes Budgets · Cybercrime Identity Theft Fraud Hacking · Digital Entrepreneurship · Digital Marketing Nine Techniques · Digital Platforms for Entrepreneurship and Platform Business Models · Ethical Issues in the Digital Environment · How a Traditional Business Uses Technology to Improve and Scale · ICT in Business Decisions Productivity and Service · ICT in Measurement Experiments Monitoring and Navigation · Innovation and Creativity in Business · Internet Entertainment Streaming Music News and Games · Market Research and the Business Pitch · Marketing and Sales Strategies · Media Bias Types and How to Avoid IT · Misuse of Computer Resources · Pakistani Digital Entrepreneurs and Their Startups · Payments and Transactions What Is the Difference · Piracy Making Illegal Copies · Piracy and Its Five Types · Project Management and Media Literacy in Business · Promotion and the Value Proposition · Quality Assurance and Quality Control · Research Ethics Consent Confidentiality Integrity · Search Engine Optimisation Getting Found on Google · Startup Stories How Twitter and Snapchat Began · Technology as an Enabler of Entrepreneurship · Terms of Use the Contract You Click Agree to · The Business Plan and Its Seven Key Sections · The Entrepreneurship Process Discovery to Harvesting · The Internet in Business Marketing CRM and Remote Work · Why Programming Matters in Todays World · Writing a Business Plan
 
 **New Technologies** (ICT expansion, from Pakistan): 3D Imaging and Holographic Imaging · Blockchain at Work Tracking Finance and Data Security · Building a Statistical Model Linear Regression · Cryptocurrencies and Smart Contracts · Edge Computing and Serverless What Comes Next · Emerging Technologies Survey AI IoT AR VR 5G Quantum · Evaluating a Model and Model Ethics · Logistic Regression and K Means Clustering
+
+**First Steps** (ICT expansion, from Kazakhstan): Measuring Information the Alphabetic and Probabilistic Approaches · Properties of Information · Representing Information in Binary Code · What Is Information
+
+**Hardware** (ICT expansion, from Kazakhstan): Calculating the Price of a Computer Configuration · The Processor and Its Characteristics
+
+**Software** (ICT expansion, from Kazakhstan): Choosing Software for a Task · The User Interface of Programs
+
+**Files and Folders** (ICT expansion, from Kazakhstan): File Sizes How Big Is a File · Working with Files in a File Manager
+
+**Word Processing** (ICT expansion, from Kazakhstan): Links and Footnotes in a Document · Writing Documentation for a Project · Writing a School Report
+
+**Spreadsheets** (ICT expansion, from Kazakhstan): Modelling Processes in a Spreadsheet · Statistical Data and Analysing IT in a Spreadsheet
+
+**Internet and the Web** (ICT expansion, from Kazakhstan): Graphics for a Web Page · Promoting a Website · Sending Data to the Internet · The Internet Good or Bad · The Main Page of a Website
+
+**Multimedia** (ICT expansion, from Kazakhstan): Creating Animation Graphics in Scratch · Creating Vector Images and Curves · Creating a Logo in a Raster Editor · Creating and Editing Raster Images in Paint · Devices That Record and Play Sound · Drawing Shapes in a Graphics Editor · Editing Video in Videopad · Editing a Sound Recording · Making a Cartoon Animation in Scratch · Making a Video Instruction · Recording and Editing Sound in Wavepad · Sound Effects and the Computer Mixer · Video Editing Programs and Shooting Video · Video Montage Cutting and Joining Clips · What Design Is and Where We Meet IT
+
+**Databases** (ICT expansion, from Kazakhstan): Building a Database Inside a Spreadsheet · Connecting Web Pages to a Database · Searching for Information in a Database
+
+**Programming** (ICT expansion, from Kazakhstan): Animating Characters and Sprites in PyGame · Backgrounds and Characters in a PyGame Game · Building a PyGame Game from a Scenario · Controlling a Sprite with the Keyboard · Creating Educational Games with a Game Constructor · Creating a Title Screen · Designing a Scratch Game Scenario · Detecting Sprite Collisions · Labyrinth Exit Algorithms · Loading and Running a Robot Program · Making 2d Games with PyGame · My First Program a Linear Algorithm · Nested and Compound Conditions in Python · Planning a Robot Project · Programming Languages and Translators · Programming a Slide Show · Project a Quiz Game · Scratch Project Musical Instruments · Solving Problems in an IDE from Problem to Tested Program · The Else Clause of a Loop · The Python Alphabet and Syntax · Using Loops to Solve Subject Problems
+
+**Safety, Security and Care** (ICT expansion, from Kazakhstan): Dangers on the Internet · Encrypting Information · Identification and Authentication Methods
+
+**Computers in Society** (ICT expansion, from Kazakhstan): Collaborative Work Online · Internet Addiction · Mini Project Inventions That Changed the World · Modelling and Simulation · What a Project Is and Its Stages
+
+**New Technologies** (ICT expansion, from Kazakhstan): Building a First Robot Model WeDo · Building an EV3 Robot Model · Computers of the Future · EV3 Colour Sensor · EV3 Kegeling Competition · EV3 Loop Block · EV3 Project the Dancing Robot · EV3 Project the Robot Cleaner · EV3 Project the Walking Robot · Modelling Objects in a 3D Editor · Programming a WeDo Robot · Programming an EV3 Robot Movement · Sound for an EV3 Robot · The EV3 Programming Environment · The History and Future of Robotics · Turning a Robot Left and Right

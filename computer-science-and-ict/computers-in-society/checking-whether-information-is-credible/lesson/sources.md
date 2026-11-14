@@ -1,6 +1,6 @@
 # Sources — Checking Whether Information Is Credible
 
-countries: Indonesia, Vietnam, Pakistan
+countries: Indonesia, Vietnam, Pakistan, Kazakhstan
 
 **Book 1:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
@@ -14,6 +14,8 @@ countries: Indonesia, Vietnam, Pakistan
 
 **Book 6:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 7:** *Kadirkulov G3 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Информационно-коммуникационные технологии — textbook for Grade 3 pupils of the general school Editions in this record set: 1229.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: Алматыкітап баспасы, Almaty; signed to print 06.06.2018 (authors Кадиркулов Р. А., Рыскулбекова А. Д.). PDF pages: 96 (back contents, printed pp. 94–95, read in full from the cover-verified copy 1229.pdf). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bab 3 F. Kredibilitas sumber informasi: sumber terpercaya, bukti, kualifikasi penulis, cek fakta | Indonesia Grade 7 G7 Informatika student, printed p. 120 |
@@ -22,8 +24,9 @@ countries: Indonesia, Vietnam, Pakistan
 | Bab I Panduan pembelajaran informasi digital: mesin pencari, literasi membaca lateral, sitasi | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 45 (teacher guide — evidence) |
 | Bài 3 Thực hành: Đánh giá chất lượng thông tin (Practical: judging the quality and trustworthiness of information) (filed as NEW LESSON NEEDED — internet-and-the-web/judging-the-quality-of-information; stocked in this lesson because this lesson teaches judging whether information is credible and trustworthy — the quality judgement Vietnam's practical makes) | Vietnam Grade 9 Tin học 9, printed p. 12 |
 | Unit 6 §6.7 Ethical Standards of Sourcing Online Information (filed as NEW LESSON NEEDED — computers-in-society/judging-online-information-currency-relevance-authority-accuracy-purpose; stocked in this lesson because this lesson teaches checking whether information is credible — currency, relevance, authority, accuracy and purpose are the checks it names) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 90 |
+| 24. Обработка информации из сети Интернет (filed as NEW LESSON NEEDED — internet-and-the-web/working-with-information-from-the-internet; stocked in this lesson because this lesson teaches checking whether information is credible — the judgement work that working with information from the Internet stands on) | Kazakhstan Grade 3 ICT Kadirkulov, printed p. 60 |
 
-**Acceptance count: taught in 3 countries (Indonesia, Vietnam, Pakistan).**
+**Acceptance count: taught in 4 countries (Indonesia, Vietnam, Pakistan, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Indonesia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — computers-in-society/checking-whether-information-is-credible). It sits in the Computers in Society title (computers-in-society/), following the book's own order. Provenance scope note: the placements stocked here are from Indonesia's “Informatika” books (Indonesian) — a named subject in the Kurikulum Merdeka, built on four elements (computational thinking, digital literacy, data analysis, algorithms and programming), published by Kementerian Pendidikan / Pusat Perbukuan, with parallel general and SMK (vocational) tracks at Grade 10; student books count toward the acceptance count, and teacher-guide placements are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -39,4 +42,6 @@ Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (Ph
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
-Searchable tags: credibility, credible sources, evidence, fact-check, text image video, computers in society, indonesia, grade 7, grade 11, grade 10, grade 11, vietnam, grade 9 tin học 9, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Kadirkulov G3 «Ақпараттық-коммуникациялық технологиялар»): the older Almatykitap Grade 3 ICT book (2018, a different book from the 2021 Digital Literacy, Book 23) is organised by cross-curricular themes — Living Nature, What is Good and What is Bad, Time, Architecture, Art, Outstanding People, Water is the Source of Life, Culture of Rest — and teaches sound (playback, effects, recording, processing) and the graphics editor inside them, ending every theme with a defended mini-project.
+Searchable tags: credibility, credible sources, evidence, fact-check, text image video, computers in society, indonesia, grade 7, grade 11, grade 10, grade 11, vietnam, grade 9 tin học 9, pakistan, grade 6 computer science 6, kazakhstan, kadirkulov g3 «ақпараттық-коммуникациялық технологиялар»

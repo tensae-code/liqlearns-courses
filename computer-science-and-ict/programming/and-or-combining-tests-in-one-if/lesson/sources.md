@@ -1,6 +1,6 @@
 # Sources — and / or — combining tests in one if
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan, Indonesia, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -32,6 +32,12 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malay
 
 **Book 15:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 16:** *Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар / Информационно-коммуникационные технологии — textbook for Grade 4 Editions in this record set: 1122.pdf (Kazakh), 1123.pdf (Russian), 1131.pdf (Uzbek), 1132.pdf (Uyghur) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 4 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2019; ISBN 978-601-318-195-0 (Kazakh edition; authors Кобдикова Ж. У., Копеева Г. А., Қаптағаева А. А., Юсупова А. Ғ.). PDF pages: 144 in each edition (Kazakh edition 1122.pdf read in full — cover, preface and back contents pp. 141–142 verified; Russian edition 1123.pdf contents matched § by §; Uzbek 1131.pdf and Uyghur 1132.pdf spot-checked — same book, image-based scans with the same structure). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 17:** *Shaniev G8 «INFORMATICS»* (Kazakhstan) — Title as printed: INFORMATICS Grade 8 — Қостілді оқулық (bilingual textbook) Editions in this record set: 323.pdf (English, bilingual cover), 357.pdf (bilingual), 369.pdf (English textbook) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 8 (student/teacher: STUDENT). Publisher: Астана-кітап, Astana; year 2017; ISBN 978-601-7415-70-9 (authors Шаниев Е. and others). PDF pages: 206 (323.pdf), 203 (357.pdf), 205 (369.pdf) — contents pages read in full in all three and matched chapter by chapter and section by section (identical 4-chapter structure); the book is a Python-based course for bilingual/NIS-style schools. (Printed pages below are PDF pages: this book's contents lists no printed page numbers.). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 18:** *Kadirkulov G7 «Информатика»* (Kazakhstan) — Title as printed: ИНФОРМАТИКА — Учебник для учащихся 7 класса общеобразовательной школы Editions in this record set: 1289.pdf (Russian), 1293.pdf (Kazakh, ISBN 978-602-02-1234-0), 943.pdf (Russian), 947.pdf (Kazakh) — parallels spot-checked, contents identical unit for unit. The 2019 pair (1290.pdf Russian, 1294.pdf Kazakh) is a different, earlier edition of this author line and is filed separately as Book 27. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ; year 2023; ISBN 978-602-02-1235-7 (authors Кадыркулов Р. А., Рыскулбекова А. Д., Нурмуханбетова Г. К.). PDF pages: 176 (back contents, printed pp. 174–175, read in full — five sections, 28 unit entries; image-based scan read via contents + title/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — and — both must be true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 176–178 (student placement item 123) |
@@ -50,8 +56,11 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malay
 | Chapter 5, 5.6: logical operators in conditions | Bangladesh HSC ICT, printed p. 166 |
 | Lesson 3: logical operators | Jordan Grade 11 G11T1 Student, printed p. 54 |
 | Bab 3 B.2 Berpikir komputasional untuk aktivitas logika | Indonesia Grade 12 G12 Informatika student, printed p. 61 |
+| §5 Логикалық операторлар (logical operators) | Kazakhstan Grade 4 Kobdikova, printed p. 21 |
+| 3.8 Logical operators (AND, OR, NOT) | Kazakhstan Grade 8 Shaniev, PDF p. 142 |
+| 4.6 Программирование составных условий | Kazakhstan Grade 7 Kadirkulov, printed p. 125 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan, Indonesia, Kazakhstan).**
 
 Finland is filed in this lesson as teacher-guide evidence only and does not add to this lesson's acceptance count.
 
@@ -81,4 +90,10 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12
+
+Kazakhstan's own way (Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»): Grade 4 ICT is five project-driven sections with cross-cutting patriotic/cultural themes: a Scratch game the pupil designs from scenario to finished game, LEGO robotics with colour and ultrasonic sensors ending in labyrinth and kegelring challenges, video making in VideoPad, presentations with sound/video/animation, and a closing «Компьютеры будущего» section that is really about sending data, e-mail attachments and password strength; AR (augmented reality) tasks run through the book via a companion CD/app.
+
+Kazakhstan's own way (Shaniev G8 «INFORMATICS»): an English-medium course in four chapters that runs spreadsheets and Python programming side by side, with «Check yourself» after every chapter and three full game projects at the end (Guess the Number, a quiz game, Rock–Scissors–Paper).
+
+Kazakhstan's own way (Kadirkulov G7 «Информатика»): the Almatykitap Grade 7 course pairs every theory section with «Творческие задания» and test tasks, teaches spreadsheets up to conditional formatting and process modelling, and does its Python through files: reading/writing files and file functions come before branching, nested and compound conditions.
+Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12, kazakhstan, kobdikova g4 «ақпараттық-коммуникациялық технологиялар», shaniev g8 «informatics», kadirkulov g7 «информатика»

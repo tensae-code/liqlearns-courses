@@ -1,6 +1,6 @@
 # Sources — What a file is
 
-countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos, Armenia, Pakistan
+countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos, Armenia, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos, Armenia, 
 
 **Book 16:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 17:** *Kobdikova G2 «Цифрлиқ саватлиқ»* (Kazakhstan) — Title as printed: Цифрлиқ саватлиқ — Башланғуч билим бериш басқучиниң 2-синип оқуғучилириға беғишланған дәрслик (Digital Literacy, textbook for Grade 2, Uyghur-language schools) Editions in this record set: 1125.pdf (Uyghur) — the Russian/Kazakh editions of this author team's Grade 2 book are not in this record set Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 2 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2022 (imprint: signed to print 08.09.22, article 802-006-001уй-22); ISBN not shown in the extracted imprint. PDF pages: 144 (title/imprint page verified: authors Жанар Уакитқызы Кобдикова, Гулдана Амангелдіқызы Көпеева, Әлия Әбунусұпқызы Қаптағаева, Айнагүл Ғалымжанқызы Юсупова; contents pages 141–142 read in full and matched § by § against the Grade 2 programme). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a file is | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Djibouti, Uganda, Yemen, Bhutan, Sri Lanka, Laos, Armenia, 
 | Lesson 7 Doing simple actions with files | Armenia Grade 2 G2 student, printed p. 49 |
 | Lesson 8 Working with files (Theme 6) | Armenia Grade 4 G4 student, printed p. 59 |
 | Unit 3 §3.7.1 File | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 35 |
+| §3 Файллар (files) | Kazakhstan Grade 2 Kobdikova, printed p. 14 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Laos, Armenia, Pakistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Yemen, Bhutan, Sri Lanka, Laos, Armenia, Pakistan, Kazakhstan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -83,4 +86,6 @@ Armenia's own way (Armenia Grade 4 G4 student): Grade 4 (Stepanyan, Amirkhanyan,
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
-Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, laos, grade 6 ict student, armenia, grade 2, grade 4, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Kobdikova G2 «Цифрлиқ саватлиқ»): a second, parallel Grade 2 textbook from the Arman-PV team follows the same state programme as Book 2 but re-orders it (browser search before files, two sound-editing lessons, robotics taught as «Робототехника: сенсорлар») and writes project ideas in a text editor before building them.
+Searchable tags: what is a file, file icon, file extension, docx, pptx, xlsx, mp3, mp4, course road map, six units, files and folders, grade 9, information technology, ict, ethiopia, djibouti, uganda, yemen, grade 10, morocco, grade 1, bhutan, class iv, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, laos, grade 6 ict student, armenia, grade 2, grade 4, pakistan, grade 6 computer science 6, kazakhstan, kobdikova g2 «цифрлиқ саватлиқ»

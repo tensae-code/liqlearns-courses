@@ -1,17 +1,22 @@
 # Sources — Classes — Abstraction, Encapsulation, Inheritance, Polymorphism
 
-countries: Greece, Armenia
+countries: Greece, Armenia, Kazakhstan
 
 **Book 1:** *Πληροφορική — Βιβλίο Μαθητή, Συμπληρωματικό Εκπαιδευτικό Υλικό, Γ΄ Γενικού Λυκείου (Pliroforiki, Student Book — Supplementary Educational Material)* (supplementary student material, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2019-2020; ISBN 978-960-06-5997-9, book code 0-22-0279. 146 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
 **Book 2:** *Թվային գրագիտություն և համակարգչային գիտություն 11 (Digital Literacy and Computer Science, Grade 11 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-283-9 (from the book's printed QR link, zangak.am/9789939992839). Grade 11 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The imprint's “112 pages” figure disagrees with the PDF and with the book's own contents (which runs to p. 124 plus back matter); the PDF pagination is used, as filed.
 
+**Book 3:** *Pryanichnikova team G9 «Информатика» NIS* (Kazakhstan) — Title as printed: Информатика 9 класс — textbook for Grade 9 of the Nazarbayev Intellectual Schools Editions in this record set: 1089.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 9 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы»; year 2019; ISBN 978-601-328-429-3 (authors Пряничникова Ю. С. and team). NOTE: the library file is the draft («ПРОЕКТНАЯ ВЕРСИЯ») printing of this book — see the group log debts. PDF pages: 216 (front contents, printed pp. 3–4, read in full from zoomed renders of the cover-verified copy; databases in Access, programming in C#). Verdict: COMPLETE (draft version — contents and structure read in full; the final published printing may differ in detail). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 4 Grouping objects into classes: abstraction and encapsulation / the OO family: ancestor and descendant classes (inheritance) / defining the right behaviour: polymorphism | Greece Grade 12 Pliroforiki Supplementary, printed p. 92 |
 | Lesson 14 The idea of inheritance (filed as programming/inheritance-sharing-what-a-class-has; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 11 G11 student, printed p. 97 |
+| 5.3 Компоненты ООП (filed as NEW LESSON NEEDED — programming/components-of-oop-classes-and-objects; stocked in this lesson because this lesson teaches the components of OOP — abstraction, encapsulation, inheritance and polymorphism over classes and objects) | Kazakhstan Grade 9 NIS, printed p. 104 |
+| 5.4 Компоненты ООП (filed as NEW LESSON NEEDED — programming/components-of-oop-classes-and-objects; stocked in this lesson because this lesson teaches the components of OOP — abstraction, encapsulation, inheritance and polymorphism over classes and objects) | Kazakhstan Grade 9 NIS, printed p. 107 |
+| 5.5 Компоненты ООП (filed as NEW LESSON NEEDED — programming/components-of-oop-classes-and-objects; stocked in this lesson because this lesson teaches the components of OOP — abstraction, encapsulation, inheritance and polymorphism over classes and objects) | Kazakhstan Grade 9 NIS, printed p. 110 |
 
-**Acceptance count: taught in 2 countries (Greece, Armenia).**
+**Acceptance count: taught in 3 countries (Greece, Armenia, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/classes-abstraction-encapsulation-inheritance-polymorphism). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +24,6 @@ Greece's own way (Grade 12, Pliroforiki Supplementary Material): the official su
 
 Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Zangak) is the most advanced book in the set: online payment systems, digital biography, software licences, inclusive technology, logic-circuit adders, network performance, big data in tables, 1D/2D arrays, sorting and searching, recursion, OOP classes and inheritance, error types and algorithm speed — most of it beyond the current ICT course's 584 lessons, hence the high NEW share.
 
-Searchable tags: classes, abstraction, encapsulation, inheritance, polymorphism, oop, programming, greece, grade 12 supplementary, armenia, grade 11
+
+Kazakhstan's own way (Pryanichnikova team G9 «Информатика» NIS): the NIS Grade 9 book is a step up in level: logic expressions, truth tables and logic circuits inside "computer architecture"; sound encoding beside raster encoding; single-table then multi-table databases in Access with forms, queries and reports; and a full object-oriented programming course in C# — components of OOP, multimedia applications, and a software-solution project with a video instruction and a slide show.
+Searchable tags: classes, abstraction, encapsulation, inheritance, polymorphism, oop, programming, greece, grade 12 supplementary, armenia, grade 11, kazakhstan, pryanichnikova team g9 «информатика» nis

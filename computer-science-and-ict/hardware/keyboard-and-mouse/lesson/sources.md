@@ -1,6 +1,6 @@
 # Sources — Keyboard and mouse
 
-countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka, Vietnam
+countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lan
 
 **Book 17:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 18:** *Kopeeva G3 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар — textbook for Grade 3 of the general school Editions in this record set: 1121.pdf (Kazakh), 1128.pdf (Uyghur, ISBN 978-601-318-187-5) — parallel spot-checked (cover, imprint and contents match) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: «Арман-ПВ», Astana; year 2018; ISBN 978-601-318-088-5 (authors Көпеева Г. А., Ділманова Ү. М.). PDF pages: 128 (back contents read in full: five sections, 34 paragraphs). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The keyboard | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 17 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lan
 | Additional content: types of keyboard (QWERTY, AZERTY) (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 21 (teacher guide — evidence) |
 | Block 1 learning outcomes: using the computer's components (keyboard, mouse, screen) correctly and safely while drawing in Paint (teacher guide — evidence) | Jordan Grade 1 G1 Teacher, printed p. 7 (teacher guide — evidence) |
 | Bài 5 Sử dụng bàn phím (Using the keyboard: key rows and correct fingers) | Vietnam Grade 3 Tin học 3, printed p. 25 |
+| §4 Компьютерді басқару (controlling the computer) | Kazakhstan Grade 3 Kopeeva, printed p. 15 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka, Vietnam, Kazakhstan).**
 
 No book error touches this lesson's content.
 
@@ -89,4 +92,6 @@ Jordan's own way (Jordan Grade 1 G1 Teacher): The guide states the digital aim o
 
 Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
 
-Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, rwanda, grade 7 s1 ict teacher guide, jordan, grade 1 digital skills teacher guide, vietnam, grade 3 tin học 3
+
+Kazakhstan's own way (Kopeeva G3 «Ақпараттық-коммуникациялық технологиялар»): Grade 3 ICT is a tools year organised by cross-cutting themes («Менің мектебім», «Сәулет», «Өнер»…): text, then sound, then computer pictures in a graphics editor, then a mixed document that combines them, then internet safety/search and presentations — with a practicum closing almost every section.
+Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, rwanda, grade 7 s1 ict teacher guide, jordan, grade 1 digital skills teacher guide, vietnam, grade 3 tin học 3, kazakhstan, kopeeva g3 «ақпараттық-коммуникациялық технологиялар»

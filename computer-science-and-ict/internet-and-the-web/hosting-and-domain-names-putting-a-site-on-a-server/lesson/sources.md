@@ -1,6 +1,6 @@
 # Sources — Hosting and domain names — putting a site on a server
 
-countries: Ethiopia, Fiji, Libya, Kuwait, Bangladesh, South Sudan
+countries: Ethiopia, Fiji, Libya, Kuwait, Bangladesh, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Fiji, Libya, Kuwait, Bangladesh, South Sudan
 
 **Book 7:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
+**Book 8:** *Salgaraeva G10 Informatika, natural-science track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the natural-science and mathematics direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 497 (Kazakh, record 79 — read in full from its text layer), okulyk 523 (Russian, record 80 — text layer confirms the same book); both 240 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-228-5 (Kazakh edition). PDF pages: 240 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 9:** *Salgaraeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 554 (Kazakh, record 83 — read in full from its text layer), okulyk 576 (Russian, record 84 — text layer confirms the same book); both 176 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-218-6 (Kazakh edition). PDF pages: 176 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 10:** *Kolyeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Kolyeva N.S., Shevchuk E.V. Editions in this group: okulyk 552 (Kazakh, record 81 — read from page renders, image-only scan); a books.json record (record 87) points at the same file. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Mektep (Almaty); year 2019; no ISBN printed (publication no. ИБ №5920). PDF pages: 104 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hosting — uploading to the host's server | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 4, printed p. 126 |
@@ -26,8 +32,12 @@ countries: Ethiopia, Fiji, Libya, Kuwait, Bangladesh, South Sudan
 | Unit 2: Projects Unit — putting the finished website on the internet: web hosting | Kuwait Grade 9 Digital Intelligence T1, printed p. 149 |
 | Chapter 4, 4.4: Publishing a website — web hosting, domain name registration and IP addresses | Bangladesh HSC ICT, printed p. 141 |
 | Creating a blog using WordPress, Steps 1–4 — Bluehost, choose a hosting plan, pick a domain name, fill in your details | South Sudan Grade 11 S3 Student, printed p. 9 |
+| §3: How computer networks work — domain; the private virtual network | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 16 |
+| §21: Publishing a site | Kazakhstan Grade 10 Salgaraeva G10 (humanities track), printed p. 117 |
+| §25–26: Practicum — publishing a site; defending the project | Kazakhstan Grade 10 Salgaraeva G10 (humanities track), printed p. 132 |
+| §23: Publishing a site | Kazakhstan Grade 10 Kolyeva G10 (humanities track), printed p. 66 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Libya, Kuwait, Bangladesh, South Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Libya, Kuwait, Bangladesh, South Sudan, Kazakhstan).**
 
 No book error is flagged for this part in the placements. The domain name in the book's ministry address example is printed as "moe.gov" (the part of the address after "www") — the lesson teaches the domain name as the part after www, as printed, without extending the example beyond the placements. This lesson makes no statement about the Web's invention date.
 
@@ -43,4 +53,10 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
 
-Searchable tags: web hosting, hosting company, web host, web server, upload, domain name, registration, unique name, Grade 12 ICT Ethiopia, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 11 s3 student
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, natural-science track): in Grade 10 the subject splits by track; this natural-science book is the deepest in the set — networks with IP, domains and VPN, number systems and logic with truth tables and the computer's logical elements, procedures/functions, strings, files, sorting methods and graph algorithms, a full HTML/CSS/scripts web part, and information systems from Big Data to linking web pages with a database. Every topic is doubled with a practicum paragraph.
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, humanities track): the humanities-track Grade 10 book replaces programming and databases with media production: a short information-security part, then shooting and editing video as a project, design theory ("good design", graphics for the web, developing a site's design), and building, publishing and promoting a real website. Each part closes with sample summative-assessment tasks.
+
+Kazakhstan's own way (Kolyeva G10 Informatika, humanities track): Mektep's humanities-track Grade 10 book mirrors the Arman-PV one (information security, video content, design theory, web design) and adds a fifth part no other humanities book has: artificial intelligence and blockchain — machine-learning principles, how neural networks are organised and work, the fields where AI is used, and blockchain technology.
+Searchable tags: web hosting, hosting company, web host, web server, upload, domain name, registration, unique name, Grade 12 ICT Ethiopia, fiji, year 13, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 11 s3 student, kazakhstan, salgaraeva g10 informatika, natural-science track, salgaraeva g10 informatika, humanities track, kolyeva g10 informatika, humanities track

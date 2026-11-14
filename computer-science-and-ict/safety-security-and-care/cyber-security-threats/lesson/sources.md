@@ -1,17 +1,27 @@
 # Sources — Cyber Security Threats
 
-countries: Jordan
+countries: Jordan, Kazakhstan
 
 **Book 1:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 2:** *Salgaraeva G8 Informatika, 2018 edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Salgaraeva G.I., Bekezhanova A.A., Bazaeva Zh.B. Editions in this group: okulyk 307 (Kazakh, record 55 — read in full from its text layer), okulyk 343 (Russian, record 56 — text layer confirms the same book). A later updated-content edition (208 pages) is filed separately as Book 22. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Arman-PV (Astana); year 2018; ISBN 978-601-318-101-1. PDF pages: 192 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 3:** *Salgaraeva G8 Informatika, updated edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the basic secondary level "on the updated content"; authors Salgaraeva G.I., Bekezhanova A.A., Bazaeva Zh.B. Editions in this group: okulyk 951 (Russian, record 61 — read from page renders, image-only scan), okulyk 954 (Kazakh, record 64 — cover verified, same 208-page frame). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Arman-PV; year 2021; no ISBN printed in the colophon (article 808-008-001р-21). PDF pages: 208 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 2: Cyber Security Threats — threats, and the difference between an electronic attack and an assault | Jordan Grade 9 G9T2 Student, printed p. 23 |
+| §7–8: Practicum — modern cyber threats (filed as NEW LESSON NEEDED — safety-security-and-care/modern-cyber-threats; stocked in this lesson because this lesson teaches cyber security threats — the threats of today to data and systems) | Kazakhstan Grade 8 Salgaraeva G8 (2018), printed p. 43 |
+| §7–8: Practicum — the cyber threats of today (filed as NEW LESSON NEEDED — safety-security-and-care/modern-cyber-threats; stocked in this lesson because this lesson teaches cyber security threats — the threats of today to data and systems) | Kazakhstan Grade 8 Salgaraeva G8 (updated ed.), printed p. 50 |
 
-**Acceptance count: taught in 1 country (Jordan).**
+**Acceptance count: taught in 2 countries (Jordan, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Jordan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — safety-security-and-care/cyber-security-threats). It sits in the Safety, Security and Care title (safety-security-and-care/), following the book's own order. Provenance scope note: the placements stocked here are from Jordan's NCCD Digital Skills books (Arabic); student books and early-grades activity workbooks count toward the acceptance count, and any teacher-guide placements among them are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Scope notes as filed are carried: the Grade 1–6 workbooks and guides integrate partner subjects, and only their ICT teaching parts are placed; the Grade 10 Term 2 book survives as a draft-watermarked copy, carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
 
-Searchable tags: cyber security threats, malware, intrusion, denial of service, phishing, attack, assault, jordan, grade 9
+
+Kazakhstan's own way (Salgaraeva G8 Informatika, 2018 edition): the Arman-PV Grade 8 book runs the shared national frame in 34 numbered paragraphs with a test after every part: two paragraphs split the processor from its characteristics, the Excel part goes furthest of the three publishers (data formats, text and logical functions, plotting and restyling function graphs), and the Lazarus part adds algorithm tracing and a practicum on typical programming errors.
+
+Kazakhstan's own way (Salgaraeva G8 Informatika, updated edition): the updated-content revision of the Arman-PV Grade 8 book keeps the measurement, health and Excel parts of the 2018 edition (with a fuller glossary — digital reputation, worms, DoS/DDoS attacks, the Hartley formula) but replaces the Lazarus part with Python loops (while, for, continue, break, loop-else, tracing, typical errors) and ends with practical programming.
+Searchable tags: cyber security threats, malware, intrusion, denial of service, phishing, attack, assault, jordan, grade 9, kazakhstan, salgaraeva g8 informatika, 2018 edition, salgaraeva g8 informatika, updated edition

@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan
+countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 
 **Book 23:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 24:** *Atayeva/Vyushkova/Zhurbenko G8 «Информатика» NIS* (Kazakhstan) — Title as printed: Информатика 8 класс — textbook developed under the NIS educational programme for Grade 8 (version 11, 2019) Editions in this record set: 1073.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 8 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Nur-Sultan; year 2019; ISBN 978-601-328-354-8 (authors Атаева А. М., Вышковка Е. А., Журбенко Э. М., Фазылбайұлы О.). PDF pages: 144 (front contents, printed pp. 3–4, read in full from zoomed renders of the cover-verified copy; programming in C++). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -70,8 +72,9 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 | Bài 1 Làm quen với Trí tuệ nhân tạo (Getting to know artificial intelligence) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 5 |
 | Bài 1 Làm quen với Trí tuệ nhân tạo (AI — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 5 |
 | Unit 1 §1.3 Artificial Intelligence (AI) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 2 |
+| 9.10 Мини-проект «Искусственный интеллект» | Kazakhstan Grade 8 NIS, printed p. 138 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan).**
+**Acceptance count: taught in 16 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, Pakistan, Kazakhstan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -114,4 +117,6 @@ Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are
 
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills, armenia, grade 10, indonesia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, pakistan, grade 7 computer science 7
+
+Kazakhstan's own way (Atayeva/Vyushkova/Zhurbenko G8 «Информатика» NIS): the NIS Grade 8 book is the widest of the set: a whole section on vector graphics and geographic information systems (planning an excursion, making maps, visualising data in GIS), octal and hexadecimal coding, loops applied separately to mathematics, physics, business and animation, strings and subroutines, and a nine-step project method ending in a mini-project on artificial intelligence.
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills, armenia, grade 10, indonesia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, pakistan, grade 7 computer science 7, kazakhstan, atayeva/vyushkova/zhurbenko g8 «информатика» nis

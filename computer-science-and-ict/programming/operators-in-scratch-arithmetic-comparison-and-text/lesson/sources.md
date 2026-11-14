@@ -1,6 +1,6 @@
 # Sources — Operators in Scratch — Arithmetic, Comparison and Text
 
-countries: Palestine, Cuba, Bhutan, Kuwait
+countries: Palestine, Cuba, Bhutan, Kuwait, Kazakhstan
 
 **Book 1:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -14,6 +14,8 @@ countries: Palestine, Cuba, Bhutan, Kuwait
 
 **Book 6:** *الذكاء الرقمي (Digital Intelligence), Grade 6, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 7:** *Kobdikova G4 ICT* (Kazakhstan) — Title as printed: Ахборот-коммуникацион технологиялар (Information and Communication Technologies), textbook for Grade 4 of the general school; authors Kobdikova Zh.U., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 1131 (Uzbek, record 13 — read from page renders, image-only scan), okulyk 1132 (Uyghur, record 14 — same 144-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 4 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2019; ISBN 978-601-318-195-0 (Uzbek edition). PDF pages: 144 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 2: Operations and data (arithmetic + − × ÷, remainder, rounding, square root; comparisons; joining text; operations nested inside say blocks) | Palestine, *Programming, Grade 8*, printed p. 53 |
@@ -22,8 +24,9 @@ countries: Palestine, Cuba, Bhutan, Kuwait
 | 7.4 Operator Blocks (filed as NEW LESSON NEEDED — programming/scratch-operator-blocks; stocked in this lesson because this lesson teaches Scratch's operator blocks — arithmetic, comparison and joining text) | Bhutan, *Literacy with ICT, Class VI*, printed p. 111 |
 | 9.3 Operator (filed as NEW LESSON NEEDED — programming/scratch-operator-blocks; stocked in this lesson because this lesson teaches Scratch's operator blocks — arithmetic, comparison and joining text) | Bhutan, *Literacy with ICT, Class VII*, printed p. 125 |
 | Unit 1: Variables and Operators — the operator blocks: comparisons and calculations in Scratch (filed as NEW LESSON NEEDED — programming/scratch-operators-comparing-and-calculating; stocked in this lesson because this lesson teaches Scratch operators — arithmetic, comparison and text joining — the same thing Kuwait's section teaches) | Kuwait Grade 6 Digital Intelligence T1, printed p. 37 |
+| §6: Comparison operators (filed as NEW LESSON NEEDED — programming/comparison-operators-in-scratch; stocked in this lesson because this lesson teaches operators in Scratch — arithmetic, comparison and text operators) | Kazakhstan Grade 4 Kobdikova ICT, printed p. 26 |
 
-**Acceptance count: taught in 4 countries (Palestine, Cuba, Bhutan, Kuwait).**
+**Acceptance count: taught in 5 countries (Palestine, Cuba, Bhutan, Kuwait, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/operators-in-scratch-arithmetic-comparison-and-text). It sits in the Programming title (programming/), following the book's own order.
 
@@ -39,4 +42,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Kuwait's own way (Grade 6 Digital Intelligence Term 1): the first intermediate year is entirely creative computing — a full advanced-Scratch ladder (sensing, variables, broadcasting, lists, cloning, custom blocks, AI extensions) framed by Kuwaiti themes (volunteer work, famous mosques, the governorates), followed by a complete virtual-robotics unit in Open Roberta Lab that ends in a Champions Challenge.
 
-Searchable tags: operators, arithmetic, remainder, rounding, square root, comparison, join, mean, scratch, palestine, grade 8, grade 9, cuba, grade 8, bhutan, class vi, class vii, kuwait, grade 6 digital intelligence term 1
+
+Kazakhstan's own way (Kobdikova G4 ICT): Grade 4 ICT deepens every primary strand at once: Scratch grows variables, logical and comparison operators on the way to "My game"; EV3 robotics is taught through its sensors (colour, ultrasonic) towards labyrinth and kegeling; video is a real subject in the NCH VideoPad editor; and the final part pairs e-mail file exchange with password reliability and "computers of the future". Augmented-reality markers (the AR+ app from arman-pv.kz) animate pictures through a phone.
+Searchable tags: operators, arithmetic, remainder, rounding, square root, comparison, join, mean, scratch, palestine, grade 8, grade 9, cuba, grade 8, bhutan, class vi, class vii, kuwait, grade 6 digital intelligence term 1, kazakhstan, kobdikova g4 ict

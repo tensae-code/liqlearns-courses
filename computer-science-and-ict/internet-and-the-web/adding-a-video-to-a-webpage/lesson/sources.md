@@ -1,6 +1,6 @@
 # Sources — Adding a video to a webpage
 
-countries: Ethiopia, Cuba, Greece, Jordan
+countries: Ethiopia, Cuba, Greece, Jordan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,12 @@ countries: Ethiopia, Cuba, Greece, Jordan
 
 **Book 5:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 6:** *Salgaraeva G10 Informatika, natural-science track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the natural-science and mathematics direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 497 (Kazakh, record 79 — read in full from its text layer), okulyk 523 (Russian, record 80 — text layer confirms the same book); both 240 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-228-5 (Kazakh edition). PDF pages: 240 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 7:** *Salgaraeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 554 (Kazakh, record 83 — read in full from its text layer), okulyk 576 (Russian, record 84 — text layer confirms the same book); both 176 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-218-6 (Kazakh edition). PDF pages: 176 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 8:** *Kolyeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Kolyeva N.S., Shevchuk E.V. Editions in this group: okulyk 552 (Kazakh, record 81 — read from page renders, image-only scan); a books.json record (record 87) points at the same file. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Mektep (Almaty); year 2019; no ISBN printed (publication no. ИБ №5920). PDF pages: 104 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The video element and its source | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 86–87 |
@@ -20,8 +26,12 @@ countries: Ethiopia, Cuba, Greece, Jordan
 | Capítulo 3.2 Multimedia en la página web (diseñar y editar páginas HTML) | Cuba, *Informática, Grade 8*, printed p. 98 |
 | Ch.11 HTML5 / Embedding (filed as NEW LESSON NEEDED — internet-and-the-web/html5-and-embedding-media; stocked in this lesson because this lesson teaches embedding media in a page with HTML5's video element — the element, its source, and its width/height/controls attributes — the embedding Greece's HTML5 section practises) | Greece Grade 10 Efarmoges Pliroforikis, printed p. 96 |
 | Lesson 6: adding video to a web page | Jordan Grade 10 G10T1 Student, printed p. 180 |
+| §46–47: Embedding multimedia | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 168 |
+| §48: Practicum — embedding multimedia | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 174 |
+| §20: Multimedia on a web page | Kazakhstan Grade 10 Salgaraeva G10 (humanities track), printed p. 109 |
+| §21–22: Multimedia on web pages | Kazakhstan Grade 10 Kolyeva G10 (humanities track), printed p. 63 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Greece, Jordan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cuba, Greece, Jordan, Kazakhstan).**
 
 Unit 4 figure references and captions repeatedly disagree in the student book (the elements text cites Figure 4.3 where the caption is 4.2; the document-structure text cites Figure 4.2 where the caption is 4.4; the align-attribute text cites Figure 4.4 where the caption is 4.5; the table example text cites Figure 4.5 where the caption is 4.11) and table numbers are reused (two different tables are each numbered 4.4/4.5). This lesson teaches from the pictured content and cites no figure or table number. "statment" is misspelled in review headings throughout the book; the correct spelling is taught. Guide-side faults: the guide prints "HMTL" for HTML in its §4.6 heading and Unit 4 topic lists; the correct HTML is taught.
 
@@ -31,4 +41,10 @@ Greece's own way (Grade 10, Efarmoges Pliroforikis A' Lykeiou): the older Lykeio
 
 Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
 
-Searchable tags: video element, controls attribute, width, height, Grade 11 ICT Ethiopia, cuba, grade 8, greece, grade 10 efarmoges pliroforikis lykeiou, jordan, grade 10 term 1 digital skills
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, natural-science track): in Grade 10 the subject splits by track; this natural-science book is the deepest in the set — networks with IP, domains and VPN, number systems and logic with truth tables and the computer's logical elements, procedures/functions, strings, files, sorting methods and graph algorithms, a full HTML/CSS/scripts web part, and information systems from Big Data to linking web pages with a database. Every topic is doubled with a practicum paragraph.
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, humanities track): the humanities-track Grade 10 book replaces programming and databases with media production: a short information-security part, then shooting and editing video as a project, design theory ("good design", graphics for the web, developing a site's design), and building, publishing and promoting a real website. Each part closes with sample summative-assessment tasks.
+
+Kazakhstan's own way (Kolyeva G10 Informatika, humanities track): Mektep's humanities-track Grade 10 book mirrors the Arman-PV one (information security, video content, design theory, web design) and adds a fifth part no other humanities book has: artificial intelligence and blockchain — machine-learning principles, how neural networks are organised and work, the fields where AI is used, and blockchain technology.
+Searchable tags: video element, controls attribute, width, height, Grade 11 ICT Ethiopia, cuba, grade 8, greece, grade 10 efarmoges pliroforikis lykeiou, jordan, grade 10 term 1 digital skills, kazakhstan, salgaraeva g10 informatika, natural-science track, salgaraeva g10 informatika, humanities track, kolyeva g10 informatika, humanities track

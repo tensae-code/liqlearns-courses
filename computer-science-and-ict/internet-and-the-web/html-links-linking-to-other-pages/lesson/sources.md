@@ -1,6 +1,6 @@
 # Sources — HTML links — linking to other pages
 
-countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan
+countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bang
 
 **Book 18:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
 
+**Book 19:** *Mukametzhanova G6 «Информатика»* (Kazakhstan) — Title as printed: Информатика — Учебник для 6 класса общеобразовательной школы Editions in this record set: 211.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 6 (student/teacher: STUDENT). Publisher: «Атамұра», Almaty; year 2018; ISBN 978-601-331-… (imprint truncated in the scan; authors Мухамбетжанова С. Т., Тен А. С., Кыдырбек О.). PDF pages: 192 (front contents, printed p. 3, read in full — six sections, 20 units). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The anchor element — reference and clickable text | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 87–89 |
@@ -60,8 +62,9 @@ countries: Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bang
 | Adding a Link | South Sudan Grade 11 S3 Student, printed p. 19 |
 | 3.8 Adding Links | South Sudan Grade 12 S4 Student, printed p. 134 |
 | Unit 5 §5.5 Define a Hyperlink (§5.5.1 create a hyperlink; §5.5.2 define an anchor; §5.5.3 anchor within a webpage; §5.5.4 graphical hyperlink) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 109 |
+| 6.2 Гиперссылки | Kazakhstan Grade 6 Mukametzhanova, printed p. 160 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan).**
+**Acceptance count: taught in 14 countries (Ethiopia, Belarus, Libya, Malaysia, Mongolia, Sri Lanka, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan, Kazakhstan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -97,4 +100,6 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 
 Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
-Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 11 s3 student, grade 12 s4 student, pakistan, grade 9 computer science 9
+
+Kazakhstan's own way (Mukametzhanova G6 «Информатика»): the whole second half of Grade 6 is one long game-development arc — idea, scenario, drawing scenes and characters (vector editor), realising the scenario, sound, a title screen, improving the project — and then documenting the game properly with footnotes, hyperlinks and an automatically built table of contents.
+Searchable tags: HTML links, anchor, href reference, target, URL, Ethiopian Airlines, Ethio-telecom, Commercial Bank of Ethiopia, Grade 11 ICT Ethiopia, belarus, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, malaysia, grade 7 ask tingkatan 1, mongolia, grade 11 it xi, sri lanka, grade 11 tamil, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 11 s3 student, grade 12 s4 student, pakistan, grade 9 computer science 9, kazakhstan, mukametzhanova g6 «информатика»

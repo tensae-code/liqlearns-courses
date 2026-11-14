@@ -1,17 +1,27 @@
 # Sources — Randomness — and a Rock-Paper-Scissors Game in Python
 
-countries: Greece
+countries: Greece, Kazakhstan
 
 **Book 1:** *Πληροφορική Γ΄ Τάξη Γυμνασίου — Βιβλίο Μαθητή (Pliroforiki C' Gymnasiou, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2024 (V2); ISBN 978-960-06-6487-4, book code 0-21-0227. 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
+**Book 2:** *Shaniev G8 «INFORMATICS»* (Kazakhstan) — Title as printed: INFORMATICS Grade 8 — Қостілді оқулық (bilingual textbook) Editions in this record set: 323.pdf (English, bilingual cover), 357.pdf (bilingual), 369.pdf (English textbook) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 8 (student/teacher: STUDENT). Publisher: Астана-кітап, Astana; year 2017; ISBN 978-601-7415-70-9 (authors Шаниев Е. and others). PDF pages: 206 (323.pdf), 203 (357.pdf), 205 (369.pdf) — contents pages read in full in all three and matched chapter by chapter and section by section (identical 4-chapter structure); the book is a Python-based course for bilingual/NIS-style schools. (Printed pages below are PDF pages: this book's contents lists no printed page numbers.). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 3:** *Zhunusov G7 «INFORMATICS»* (Kazakhstan) — Title as printed: INFORMATICS, Grade 7 (second edition) Editions in this record set: 1577.pdf (English) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: Астана-кітап (ASTANAKITAP), Almaty; year 2021; ISBN 978-601-7595-28-9 (authors Zhunussov A., Shaniyev Y., Gesen I.). PDF pages: 88 (front contents, printed p. 5, read in full from the cover-verified copy; the spreadsheet chapters are taught in Google Sheets). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 2 Luck helps the bold (randomness) / Playing rock-paper-scissors with the computer | Greece Grade 9 Pliroforiki C, printed p. 21 |
+| 4.7 Project work: Rock, Scissors and Paper game (filed as NEW LESSON NEEDED — programming/project-rock-scissors-paper; stocked in this lesson because this lesson teaches the rock-paper-scissors game in Python — random choice spent on the classic game) | Kazakhstan Grade 8 Shaniev, PDF p. 192 |
+| 5.3 Algorithm programming. Rock, Paper, Scissors (filed as NEW LESSON NEEDED — programming/project-rock-scissors-paper; stocked in this lesson because this lesson teaches the rock-paper-scissors game in Python — random choice spent on the classic game) | Kazakhstan Grade 7 Zhunusov, printed p. 68 |
 
-**Acceptance count: taught in 1 country (Greece).**
+**Acceptance count: taught in 2 countries (Greece, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/randomness-and-a-rock-paper-scissors-game-in-python). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Greece's own way (Grade 9, Pliroforiki C' Gymnasiou, 2024): Grade 9 is project-led — recursion first, then Python (EduBlocks and Thonny, rock-paper-scissors with randomness), physical computing (code for the International Space Station, micro:bit, Arduino with breadboard and Tinkercad), AI with App Inventor image recognition, collaboration in Greece's own +γραφίς (+grafis) document service, AI ethics/privacy/cookies/big and open data, and scientific programming (solving equations, exponential spread modelling).
 
-Searchable tags: python, randomness, random, rock paper scissors, game, programming, greece, grade 9 pliroforiki
+
+Kazakhstan's own way (Shaniev G8 «INFORMATICS»): an English-medium course in four chapters that runs spreadsheets and Python programming side by side, with «Check yourself» after every chapter and three full game projects at the end (Guess the Number, a quiz game, Rock–Scissors–Paper).
+
+Kazakhstan's own way (Zhunusov G7 «INFORMATICS»): the Astana-kitap Grade 7 English-medium book teaches spreadsheets in Google Sheets, files and archiving before networks, Python file work at the start of the programming chapter, and a practical chapter that builds three named games — a quiz, Rock Paper Scissors, a guessing game and a Camel game — each taken from problem statement to testing.
+Searchable tags: python, randomness, random, rock paper scissors, game, programming, greece, grade 9 pliroforiki, kazakhstan, shaniev g8 «informatics», zhunusov g7 «informatics»

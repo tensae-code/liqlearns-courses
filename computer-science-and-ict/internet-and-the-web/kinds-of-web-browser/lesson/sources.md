@@ -1,6 +1,6 @@
 # Sources — Kinds of web browser
 
-countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan
+countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan
 
 **Book 8:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 9:** *Kobdikova G1 Digital Literacy* (Kazakhstan) — Title as printed: Цифрлық сауаттылық / Цифрлиқ саватлиқ (Digital Literacy), textbook for Grade 1 of the primary education level; authors Kobdikova Zh.U., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 928 (Kazakh, record 3 — read fully from page renders, image-only scan), okulyk 1124 (Uyghur, record 1 — spot-checked: cover, contents and spreads identical, same pagination). Image-only: the text layer carries only the okulyk watermark. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2021; ISBN 978-601-318-347-3 (Kazakh edition). PDF pages: 80 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 10:** *Vyshkova & Zhurbenko G7 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 7, developed under the educational programme of the Nazarbayev Intellectual Schools together with the Institute of Education, University College London; authors Vyshkova E.A., Zhurbenko Z.M., Orazbekov S.K. Editions in this group: okulyk 1046 (Russian, record 38 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Astana); year 2018; ISBN 978-601-328-201-5. PDF pages: 136 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The five common browsers pictured | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.49 |
@@ -28,8 +32,10 @@ countries: Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan
 | Unit 3 Lesson 4, kinds of browser | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 16 |
 | Ch.3 Web searching: browsers (Internet Explorer, Firefox, Chrome, Opera) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 109 |
 | Unit 3 §3.11 Navigating the Internet: Web Browser | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 46 |
+| §2: browsers (Chrome, Firefox, Opera, Edge) | Kazakhstan Grade 1 Kobdikova G1, printed p. 12 |
+| 7.4: Web browsers and web sites | Kazakhstan Grade 7 NIS G7, printed p. 100 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Sudan, Egypt, Sri Lanka, Pakistan, Kazakhstan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -45,4 +51,8 @@ Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming cours
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
-Searchable tags: browsers, Internet Explorer, Firefox, Chrome, Safari, Opera, Grade 7 ICT Ethiopia, afghanistan, mauritania, grade 7, morocco, grade 2, sudan, grade 7, egypt, grade 5, sri lanka, grade 11 tamil, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Kobdikova G1 Digital Literacy): every keyword is given in three languages (Kazakh–Russian–English); the same national curriculum frame as the Almatykitap Grade 1 book (information etiquette / programming / robots, themes "Journey" and "Traditions and folklore") but this Arman-PV team teaches robotics on LEGO Mindstorms Education EV3 instead of WeDo 2.0, and Scratch through Kazakh folklore heroes (Aldar Kose, Makta Kyz) and national instruments (dombyra, kobyz, zhetigen); each project lesson is tiered A/B/C by difficulty.
+
+Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
+Searchable tags: browsers, Internet Explorer, Firefox, Chrome, Safari, Opera, Grade 7 ICT Ethiopia, afghanistan, mauritania, grade 7, morocco, grade 2, sudan, grade 7, egypt, grade 5, sri lanka, grade 11 tamil, pakistan, grade 6 computer science 6, kazakhstan, kobdikova g1 digital literacy, vyshkova & zhurbenko g7 informatics, nis

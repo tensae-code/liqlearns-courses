@@ -1,6 +1,6 @@
 # Sources — Social networks — connecting in virtual communities
 
-countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam, South Sudan, Pakistan
+countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam, South Sudan, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -51,6 +51,10 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 
 **Book 25:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 26:** *Kadirkulov G3 Digital Literacy* (Kazakhstan) — Title as printed: Цифровая грамотность / Цифрлық сауаттылық (Digital Literacy), textbook for Grade 3 of the general school; authors Kadirkulov R.A., Ryskulbekova A.D., Beristemova N.K. Editions in this group: okulyk 68 (Russian, record 11), okulyk 933 (Kazakh, record 12). Kazakh edition spot-checked: cover, contents and pagination identical, placed once here. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2021; ISBN 978-601-01-4575-7 (Russian edition), 978-601-01-4576-4 (Kazakh edition). PDF pages: 132 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 27:** *Kadirkulov G3 «Цифровая грамотность»* (Kazakhstan) — Title as printed: Цифровая грамотность — textbook for Grade 3 pupils of the general school Editions in this record set: 68.pdf (Russian), 933.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ, Almaty; year 2021; ISBN 978-601-01-4575-7 (authors Кадиркулов Р. А., Рыскулбекова А. Д., Беристемова Н. К.). PDF pages: 132 in each edition (back contents, printed pp. 130–131, read in full in the Russian edition 68.pdf, text-rich). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a social network is; the named platforms; the warning held for later | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
@@ -81,8 +85,10 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 | Unit 2 Social Networks / 2.0 Introduction | South Sudan Grade 11 S3 Student, printed p. 33 |
 | Unit 2: Social Networks — specific learning experiences (teaching introduction) | South Sudan Grade 11 S3 Teacher, printed p. 25 (teacher guide — evidence) |
 | Unit 5 §5.3.6 Uses of Internet in Social Networking | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 86 |
+| Lesson 6: Communicating online | Kazakhstan Grade 3 Kadirkulov G3, printed p. 21 |
+| 7. Социальные сети и мессенджеры (filed as NEW LESSON NEEDED — internet-and-the-web/social-networks-and-messengers; stocked in this lesson because this lesson teaches social networks — connecting in virtual communities, messengers among them) | Kazakhstan Grade 3 Kadirkulov, printed p. 25 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam, South Sudan, Pakistan).**
+**Acceptance count: taught in 16 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam, South Sudan, Pakistan, Kazakhstan).**
 
 Belarus's own way (Grade 10): social networks are taught inside one chapter-section with blogs, forums and chats (§ 20) — the virtual-community forms are compared together, not taken one tool at a time.
 
@@ -130,4 +136,8 @@ South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three un
 
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
-Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 7, grade 8, grade 12, grade 12, vietnam, grade 7 tin học 7, south sudan, grade 10 s2 student, grade 10 s2 teacher, grade 11 s3 student, grade 11 s3 teacher, pakistan, grade 7 computer science 7
+
+Kazakhstan's own way (Kadirkulov G3 Digital Literacy): Grade 3 is built around making a whole Scratch game (scenario, scenes, characters, costumes) and an EV3 robotics project, with Word and PowerPoint taught as the project's tools; "Check yourself! Creative tasks" lessons close each section (printed pp. 29, 59, 95, 126 — assessment pages, not placed).
+
+Kazakhstan's own way (Kadirkulov G3 «Цифровая грамотность»): the Almatykitap Grade 3 digital literacy book is built as projects: a Scratch game built scene by scene, then a robotics project that oddly starts in Word (the project document is written and illustrated first) before the robot arm moves, and a cleaner robot is built; presentations and a photo collection close the year.
+Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 7, grade 8, grade 12, grade 12, vietnam, grade 7 tin học 7, south sudan, grade 10 s2 student, grade 10 s2 teacher, grade 11 s3 student, grade 11 s3 teacher, pakistan, grade 7 computer science 7, kazakhstan, kadirkulov g3 digital literacy, kadirkulov g3 «цифровая грамотность»

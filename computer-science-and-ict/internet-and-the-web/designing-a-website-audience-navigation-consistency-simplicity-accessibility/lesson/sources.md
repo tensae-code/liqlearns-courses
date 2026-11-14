@@ -1,6 +1,6 @@
 # Sources — Designing a website — audience, navigation, consistency, simplicity, accessibility
 
-countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam, South Sudan
+countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -34,6 +34,12 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armeni
 
 **Book 16:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 17:** *Salgaraeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 554 (Kazakh, record 83 — read in full from its text layer), okulyk 576 (Russian, record 84 — text layer confirms the same book); both 176 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-218-6 (Kazakh edition). PDF pages: 176 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 18:** *Zhunusov G10 Computer Science, English-medium* (Kazakhstan) — Title as printed: Computer Science (record attribution: Zhunusov et al.); English-medium textbook for Grade 10, natural-science track. Editions in this group: okulyk 622 (English, record 84 — read in full from its partial text layer; contents gives no page numbers, so placements cite PDF pages located in the body text). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Astana Kitap (astanakitap.kz); year not stated in the extracted text; no ISBN in the extracted text. PDF pages: 291 (cover verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 19:** *Kolyeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Kolyeva N.S., Shevchuk E.V. Editions in this group: okulyk 552 (Kazakh, record 81 — read from page renders, image-only scan); a books.json record (record 87) points at the same file. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Mektep (Almaty); year 2019; no ISBN printed (publication no. ИБ №5920). PDF pages: 104 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What website design is | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 78–79 |
@@ -53,8 +59,12 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armeni
 | Bài 26 Liên kết và thanh điều hướng (Links and the navigation bar) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 144 |
 | Unit 3 / 3.0 Introduction to Web Design | South Sudan Grade 12 S4 Student, printed p. 104 |
 | Unit 3: Website Design | South Sudan Grade 12 S4 Teacher, printed p. 63 (teacher guide — evidence) |
+| §13–14: Developing the design of a site | Kazakhstan Grade 10 Salgaraeva G10 (humanities track), printed p. 74 |
+| §15–16: Practicum — developing the design of a site | Kazakhstan Grade 10 Salgaraeva G10 (humanities track), printed p. 79 |
+| Chapter 5. Web programming, 5.1: Intro to web programming | Kazakhstan Grade 10 Zhunusov G10 (English), PDF p. 218 |
+| §14–15: Developing the design of a site | Kazakhstan Grade 10 Kolyeva G10 (humanities track), printed p. 47 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam, South Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam, South Sudan, Kazakhstan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -88,4 +98,10 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, humanities track): the humanities-track Grade 10 book replaces programming and databases with media production: a short information-security part, then shooting and editing video as a project, design theory ("good design", graphics for the web, developing a site's design), and building, publishing and promoting a real website. Each part closes with sample summative-assessment tasks.
+
+Kazakhstan's own way (Zhunusov G10 Computer Science, English-medium): the English-medium Grade 10 book is the most technical of the wave: the CIA triad and three separate authentication lessons (passwords twice, biometrics), encoding standards, Python dictionaries, DFS/BFS graph traversal, and a full SQL chapter in MySQL (CREATE, INSERT, SELECT/WHERE, MIN/MAX, JOIN, GROUP BY, SELECT INTO) before a JavaScript chapter. (Its preface is the publisher's generic science template, left over from another book.)
+
+Kazakhstan's own way (Kolyeva G10 Informatika, humanities track): Mektep's humanities-track Grade 10 book mirrors the Arman-PV one (information security, video content, design theory, web design) and adds a fifth part no other humanities book has: artificial intelligence and blockchain — machine-learning principles, how neural networks are organised and work, the fields where AI is used, and blockchain technology.
+Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher, kazakhstan, salgaraeva g10 informatika, humanities track, zhunusov g10 computer science, english-medium, kolyeva g10 informatika, humanities track

@@ -1,6 +1,6 @@
 # Sources — Computer hardware — four categories
 
-countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indonesia, Pakistan
+countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indonesia, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indone
 
 **Book 9:** *Computer Science 6 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; year 2022 (SNC 2022; printed November 2022, Experimental Edition); no ISBN printed. Grade 6 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 10:** *Express Publishing G10 «ICT»* (Kazakhstan) — Title as printed: ICT — Grade 10 textbook (eICT series, with Student's Portfolio and Teacher's Book) Editions in this record set: 474.pdf (English) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 10 (student/teacher: STUDENT). Publisher: Express Publishing, Newbury, UK; year 2018; ISBN 978-1-4715-7625-2 (record 474.pdf; the scan carries the publisher's expresspublishing.kz watermark). PDF pages: 114 (front Contents, printed p. 5, lists the ten modules with their start pages; module openings spot-checked in the body). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Parts 1–2 — hardware and input devices | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 19–20 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indone
 | Unit 1.4 Types of computer hardware classified by function | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 11 |
 | Bab 5 A. Komponen sistem komputer | Indonesia Grade 8 G8 Informatika student, printed p. 189 |
 | Unit 2 §2.1 Basic Components of Computer | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 12 |
+| Module 1: Hardware peripherals and software | Kazakhstan Grade 10 Express ICT, printed p. 7 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indonesia, Pakistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indonesia, Pakistan, Kazakhstan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -51,4 +54,6 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
-Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5, fiji, years 7-8, indonesia, grade 8, pakistan, grade 6 computer science 6
+
+Kazakhstan's own way (Express Publishing G10 «ICT»): alongside the national publishers, Kazakhstan's English-medium Grade 10 classes use this imported Express Publishing ICT course — ten self-contained modules that include two topics the national books do not teach at this level: expert and control systems, and developing a mobile app.
+Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5, fiji, years 7-8, indonesia, grade 8, pakistan, grade 6 computer science 6, kazakhstan, express publishing g10 «ict»

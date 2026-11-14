@@ -1,6 +1,6 @@
 # Sources — What an information system is
 
-countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, Sri Lanka, Rwanda, Laos, Greece
+countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, S
 
 **Book 16:** *Εισαγωγή στις Αρχές της Επιστήμης των Η/Υ — Β΄ Λυκείου (Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou, Introduction to the Principles of Computer Science)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2014; ISBN 978-960-06-4895-9, book code 0-22-0230. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 17:** *Vyshkova & Zhurbenko G7 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 7, developed under the educational programme of the Nazarbayev Intellectual Schools together with the Institute of Education, University College London; authors Vyshkova E.A., Zhurbenko Z.M., Orazbekov S.K. Editions in this group: okulyk 1046 (Russian, record 38 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Astana); year 2018; ISBN 978-601-328-201-5. PDF pages: 136 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 18:** *Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)* (Kazakhstan) — Title as printed: Информатика — Учебник для 7 класса (developed under the Educational Programme of Nazarbayev Intellectual Schools) Editions in this record set: 1046.pdf (Russian). Record 1047.pdf is the defective calibre conversion filed as Book 9. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Astana; year 2018; ISBN 978-601-328-201-5 (authors Вьюшкова Е. А., Журбенко З. М., Оразбеков С. Қ.). PDF pages: 136 (front contents, printed p. 3, read in full — nine sections, 53 units; the scan is image-only, read via contents + cover/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an information system is (whole lesson) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed p. 6 (student placement item 7) |
@@ -50,8 +54,11 @@ countries: Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, S
 | Ch.2 §3 Information system | Laos Grade 6 ICT student, printed p. 23 |
 | Ch.1 §5 Information systems (systems, types, goals and benefits of an IS) | Laos Grade 10 ICT student, printed p. 5 |
 | Ch.3.2 What information systems are | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 83 |
+| 7.5: Information systems | Kazakhstan Grade 7 NIS G7, printed p. 102 |
+| 7.6: Information systems of the city of the future | Kazakhstan Grade 7 NIS G7, printed p. 104 |
+| 7.5 Информационные системы | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 102 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, Sri Lanka, Rwanda, Laos, Greece).**
+**Acceptance count: taught in 13 countries (Ethiopia, China, Belarus, Sudan, Uzbekistan, Egypt, Fiji, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Kazakhstan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -84,4 +91,8 @@ Laos's own way (Grade 10 ICT student book): the upper-secondary course turns con
 
 Greece's own way (Grade 11, Eisagogi stis Arches tis Epistimis ton H/Y B' Lykeiou): a theory-first introduction to computer science in three units — basic concepts (theoretical vs applied CS), theoretical CS (problem, algorithms in depth including complexity/computability, data structures operations, debugging logic errors and documentation, programming paradigms and structured programming, software life cycle), and applied CS (operating systems in depth, information systems with databases and SQL/XML, networks, AI).
 
-Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11, uzbekistan, grade 9, egypt, grade 10, fiji, year 13, mongolia, grade 10 it x, grade 12 it xii, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 10 ict student, greece, grade 11 eisagogi epistimis hy lykeiou
+
+Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
+
+Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
+Searchable tags: information system, collect process store share, school marks, reports, Ethiopia Grade 11 IT, china, belarus, mauritania, grade 7, papua new guinea, grade 11, sudan, grade 11, uzbekistan, grade 9, egypt, grade 10, fiji, year 13, mongolia, grade 10 it x, grade 12 it xii, sri lanka, grade 11 tamil, rwanda, grade 7 s1 ict student book, laos, grade 6 ict student, grade 10 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, kazakhstan, vyshkova & zhurbenko g7 informatics, nis, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition)

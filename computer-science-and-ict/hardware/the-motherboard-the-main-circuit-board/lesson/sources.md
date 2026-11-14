@@ -1,17 +1,28 @@
 # Sources — The Motherboard — the Main Circuit Board
 
-countries: Fiji
+countries: Fiji, Kazakhstan
 
 **Book 1:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 2:** *Adekenova & Pryanichnikova G9 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 9, developed under the NIS programme (this PDF is the project/draft version, watermarked ПРОЕКТНАЯ ВЕРСИЯ); authors Adekenova A.N., Ermekova A.A., Litvinova O.V., Pryanichnikova Yu.S. Editions in this group: okulyk 1089 (Russian, record 66 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 9 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Nur-Sultan); year 2019; ISBN 978-601-328-609-9. PDF pages: 216 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 3:** *Pryanichnikova team G9 «Информатика» NIS* (Kazakhstan) — Title as printed: Информатика 9 класс — textbook for Grade 9 of the Nazarbayev Intellectual Schools Editions in this record set: 1089.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 9 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы»; year 2019; ISBN 978-601-328-429-3 (authors Пряничникова Ю. С. and team). NOTE: the library file is the draft («ПРОЕКТНАЯ ВЕРСИЯ») printing of this book — see the group log debts. PDF pages: 216 (front contents, printed pp. 3–4, read in full from zoomed renders of the cover-verified copy; databases in Access, programming in C#). Verdict: COMPLETE (draft version — contents and structure read in full; the final published printing may differ in detail). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
 
 | Lesson part | Where it comes from |
 |---|---|
 | 1.2.3 Motherboard (system board connecting all components) | Fiji, *Computer Education, Year 11*, printed p. 19 |
+| 1.4: The internal devices of the computer (filed as NEW LESSON NEEDED — hardware/computer-components-and-the-motherboard; stocked in this lesson because this lesson teaches the motherboard — the main circuit board the computer's components plug into) | Kazakhstan Grade 9 NIS G9, printed p. 19 |
+| 1.5: The components of the motherboard (filed as NEW LESSON NEEDED — hardware/computer-components-and-the-motherboard; stocked in this lesson because this lesson teaches the motherboard — the main circuit board the computer's components plug into) | Kazakhstan Grade 9 NIS G9, printed p. 22 |
+| 1.5 Компоненты материнской платы (filed as NEW LESSON NEEDED — hardware/the-motherboard-and-its-components; stocked in this lesson because this lesson teaches the motherboard — the main circuit board and its components) | Kazakhstan Grade 9 NIS, printed p. 22 |
 
-**Acceptance count: taught in 1 country (Fiji).**
+**Acceptance count: taught in 2 countries (Fiji, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — hardware/the-motherboard-the-main-circuit-board). It sits in the Hardware title (hardware/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: the, motherboard, the, main, circuit, board, hardware, fiji, year 11
+
+Kazakhstan's own way (Adekenova & Pryanichnikova G9 Informatics, NIS): the NIS Grade 9 course is built around databases and object-oriented programming: computer architecture with logic circuits, coding raster images and sound, single-table then multi-table databases in Access (forms, queries, reports), five lessons introducing OOP, nine lessons developing applications in an OOP environment (C#), and a thirteen-lesson capstone — choosing a problem, designing the interface, programming, making a video instruction, testing, documenting and evaluating the project.
+
+Kazakhstan's own way (Pryanichnikova team G9 «Информатика» NIS): the NIS Grade 9 book is a step up in level: logic expressions, truth tables and logic circuits inside "computer architecture"; sound encoding beside raster encoding; single-table then multi-table databases in Access with forms, queries and reports; and a full object-oriented programming course in C# — components of OOP, multimedia applications, and a software-solution project with a video instruction and a slide show.
+Searchable tags: the, motherboard, the, main, circuit, board, hardware, fiji, year 11, kazakhstan, adekenova & pryanichnikova g9 informatics, nis, pryanichnikova team g9 «информатика» nis

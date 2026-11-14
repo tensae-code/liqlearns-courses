@@ -1,6 +1,6 @@
 # Sources — Variables in Scratch — Creating, Setting, Changing and Asking
 
-countries: Palestine
+countries: Palestine, Kazakhstan
 
 **Book 1:** *Programming (البرمجة), Grade 8* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "8" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 72 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -10,6 +10,8 @@ countries: Palestine
 
 **Book 4:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 6e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 34 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the final Scratch year: operators, variables, the Pen extension, and three applied projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 5:** *Kobdikova G4 ICT* (Kazakhstan) — Title as printed: Ахборот-коммуникацион технологиялар (Information and Communication Technologies), textbook for Grade 4 of the general school; authors Kobdikova Zh.U., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 1131 (Uzbek, record 13 — read from page renders, image-only scan), okulyk 1132 (Uyghur, record 14 — same 144-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 4 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2019; ISBN 978-601-318-195-0 (Uzbek edition). PDF pages: 144 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 2: variables (create a named variable, set/change by, show/hide; a variable keeps the last value in memory; ask-and-answer input from the keyboard; square area and rectangle perimeter programs) | Palestine, *Programming, Grade 8*, printed p. 53 |
@@ -18,8 +20,9 @@ countries: Palestine
 | U.D.3 Séance 1 Capturer une réponse (ask … and wait) (filed as programming/asking-a-question-and-capturing-the-answer-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 5 (ma-g5)*, printed p. 22 (teacher guide — evidence) |
 | U.D.2 Séance 3 Les variables (3) (filed as programming/incrementing-a-variable-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 19 (teacher guide — evidence) |
 | U.D.2 Séance 4 Les variables (4) (filed as programming/showing-hiding-renaming-and-deleting-a-variable-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 20 (teacher guide — evidence) |
+| Part 1. Programming, §1: Variables — creating a variable in the Data blocks; the "Stopwatch" project (filed as NEW LESSON NEEDED — programming/variables-in-scratch; stocked in this lesson because this lesson teaches variables in Scratch — creating, setting, changing and asking) | Kazakhstan Grade 4 Kobdikova ICT, printed p. 6 |
 
-**Acceptance count: taught in 1 country (Palestine).**
+**Acceptance count: taught in 2 countries (Palestine, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/variables-in-scratch-creating-setting-changing-and-asking). It sits in the Programming title (programming/), following the book's own order.
 
@@ -31,4 +34,6 @@ Morocco's own way (Grade 5): the Scratch spiral completes in Grade 5 with real p
 
 Morocco's own way (Grade 6): primary ICT ends by making things with code — a working calculator, a maths quiz and pen-drawn geometry — so the four-year Scratch spiral (Grades 3–6) finishes on operators, variables and extensions used for a purpose. (teacher guide — evidence)
 
-Searchable tags: variables, set, change by, show hide, ask and answer, grand total, scratch, palestine, grade 8, grade 9, morocco, grade 5, morocco, grade 6
+
+Kazakhstan's own way (Kobdikova G4 ICT): Grade 4 ICT deepens every primary strand at once: Scratch grows variables, logical and comparison operators on the way to "My game"; EV3 robotics is taught through its sensors (colour, ultrasonic) towards labyrinth and kegeling; video is a real subject in the NCH VideoPad editor; and the final part pairs e-mail file exchange with password reliability and "computers of the future". Augmented-reality markers (the AR+ app from arman-pv.kz) animate pictures through a phone.
+Searchable tags: variables, set, change by, show hide, ask and answer, grand total, scratch, palestine, grade 8, grade 9, morocco, grade 5, morocco, grade 6, kazakhstan, kobdikova g4 ict

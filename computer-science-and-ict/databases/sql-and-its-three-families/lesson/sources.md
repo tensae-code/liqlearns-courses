@@ -1,6 +1,6 @@
 # Sources — SQL — DDL, DML and DQL
 
-countries: Ethiopia, Nepal, North Macedonia, Malaysia, Greece, Bangladesh, Vietnam, South Sudan
+countries: Ethiopia, Nepal, North Macedonia, Malaysia, Greece, Bangladesh, Vietnam, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Nepal, North Macedonia, Malaysia, Greece, Bangladesh, Vietn
 
 **Book 9:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 10:** *Zhunusov G10 Computer Science, English-medium* (Kazakhstan) — Title as printed: Computer Science (record attribution: Zhunusov et al.); English-medium textbook for Grade 10, natural-science track. Editions in this group: okulyk 622 (English, record 84 — read in full from its partial text layer; contents gives no page numbers, so placements cite PDF pages located in the body text). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Astana Kitap (astanakitap.kz); year not stated in the extracted text; no ISBN in the extracted text. PDF pages: 291 (cover verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — SQL is the standard special-purpose language for accessing and manipulating relational databases such as Access | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 64–65 |
@@ -33,8 +35,13 @@ countries: Ethiopia, Nepal, North Macedonia, Malaysia, Greece, Bangladesh, Vietn
 | Bài 14 SQL – ngôn ngữ truy vấn có cấu trúc §1 (SQL, the structured query language) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 69 |
 | Bài 14 SQL §1 (SQL — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 69 |
 | 1.2.2 The Structured Query Language (SQL) | South Sudan Grade 12 S4 Student, printed p. 9 |
+| 4.8: Operations with select statement (filed as NEW LESSON NEEDED — databases/the-select-statement-and-where-clause; stocked in this lesson because this lesson teaches SQL and its families — the DQL family is the SELECT statement that asks for data, with WHERE choosing the rows) | Kazakhstan Grade 10 Zhunusov G10 (English), PDF p. 182 |
+| 4.9: Operators in where clause (filed as NEW LESSON NEEDED — databases/the-select-statement-and-where-clause; stocked in this lesson because this lesson teaches SQL and its families — the DQL family is the SELECT statement that asks for data, with WHERE choosing the rows) | Kazakhstan Grade 10 Zhunusov G10 (English), PDF p. 188 |
+| 4.10: Operators in where clause (filed as NEW LESSON NEEDED — databases/the-select-statement-and-where-clause; stocked in this lesson because this lesson teaches SQL and its families — the DQL family is the SELECT statement that asks for data, with WHERE choosing the rows) | Kazakhstan Grade 10 Zhunusov G10 (English), PDF p. 192 |
+| 4.11: Operators in where clause 2 (filed as NEW LESSON NEEDED — databases/the-select-statement-and-where-clause; stocked in this lesson because this lesson teaches SQL and its families — the DQL family is the SELECT statement that asks for data, with WHERE choosing the rows) | Kazakhstan Grade 10 Zhunusov G10 (English), PDF p. 195 |
+| 4.15: Select into statement (filed as NEW LESSON NEEDED — databases/select-into-creating-a-table-from-a-query; stocked in this lesson because this lesson teaches SQL's families — SELECT INTO belongs to the statement families that build new tables from asked-for data) | Kazakhstan Grade 10 Zhunusov G10 (English), PDF p. 210 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nepal, North Macedonia, Malaysia, Greece, Bangladesh, Vietnam, South Sudan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nepal, North Macedonia, Malaysia, Greece, Bangladesh, Vietnam, South Sudan, Kazakhstan).**
 
 Honesty: all parts are pupil-taught from the student book. No book error touches this lesson's parts.
 
@@ -52,4 +59,6 @@ Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 ar
 
 South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
 
-Searchable tags: SQL, Structured Query Language, DDL, DML, DQL, CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, Ethiopia Grade 12, nepal, north macedonia, grade 11, malaysia, grade 9 ask tingkatan 3, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student
+
+Kazakhstan's own way (Zhunusov G10 Computer Science, English-medium): the English-medium Grade 10 book is the most technical of the wave: the CIA triad and three separate authentication lessons (passwords twice, biometrics), encoding standards, Python dictionaries, DFS/BFS graph traversal, and a full SQL chapter in MySQL (CREATE, INSERT, SELECT/WHERE, MIN/MAX, JOIN, GROUP BY, SELECT INTO) before a JavaScript chapter. (Its preface is the publisher's generic science template, left over from another book.)
+Searchable tags: SQL, Structured Query Language, DDL, DML, DQL, CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, Ethiopia Grade 12, nepal, north macedonia, grade 11, malaysia, grade 9 ask tingkatan 3, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, kazakhstan, zhunusov g10 computer science, english-medium

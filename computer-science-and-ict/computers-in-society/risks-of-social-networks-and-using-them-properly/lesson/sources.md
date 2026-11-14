@@ -1,6 +1,6 @@
 # Sources — Risks of social networks — and using them properly
 
-countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam
+countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam
 
 **Book 11:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
 
+**Book 12:** *Kobdikova G1 Digital Literacy* (Kazakhstan) — Title as printed: Цифрлық сауаттылық / Цифрлиқ саватлиқ (Digital Literacy), textbook for Grade 1 of the primary education level; authors Kobdikova Zh.U., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 928 (Kazakh, record 3 — read fully from page renders, image-only scan), okulyk 1124 (Uyghur, record 1 — spot-checked: cover, contents and spreads identical, same pagination). Image-only: the text layer carries only the okulyk watermark. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 1 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2021; ISBN 978-601-318-347-3 (Kazakh edition). PDF pages: 80 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 13:** *Kadirkulov G3 Digital Literacy* (Kazakhstan) — Title as printed: Цифровая грамотность / Цифрлық сауаттылық (Digital Literacy), textbook for Grade 3 of the general school; authors Kadirkulov R.A., Ryskulbekova A.D., Beristemova N.K. Editions in this group: okulyk 68 (Russian, record 11), okulyk 933 (Kazakh, record 12). Kazakh edition spot-checked: cover, contents and pagination identical, placed once here. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2021; ISBN 978-601-01-4575-7 (Russian edition), 978-601-01-4576-4 (Kazakh edition). PDF pages: 132 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight risks, named; the closing question | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 76–77 |
@@ -38,8 +42,10 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam
 | Bài 9 Giao tiếp an toàn trên Internet (Communicating safely on the Internet) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 43 |
 | Bài 9 Giao tiếp an toàn trên Internet (Safe communication — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 43 |
 | Teaching social networks — ground rules on online safety, ethical issues, security and privacy (filed as NEW LESSON NEEDED — safety-security-and-care/online-safety-ethics-security-and-privacy-in-social-networks; stocked in this lesson because ground rules on online safety, ethics, security and privacy in social networks are this lesson's proper-use half (teacher guide — evidence)) | South Sudan Grade 11 S3 Teacher, printed p. 28 (teacher guide — evidence) |
+| §3: social networks (Facebook, VK, Instagram, YouTube) — their benefit and harm | Kazakhstan Grade 1 Kobdikova G1, printed p. 15 |
+| Lesson 7: Social networks and messengers | Kazakhstan Grade 3 Kadirkulov G3, printed p. 25 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam).**
+**Acceptance count: taught in 8 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam, Kazakhstan).**
 
 Nothing in this lesson claims a page the placements do not give; the one Tip box is LiqLearns' own, marked as such in the lesson and in the table above.
 
@@ -61,4 +67,8 @@ Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 ar
 
 South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
 
-Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 11 s3 teacher
+
+Kazakhstan's own way (Kobdikova G1 Digital Literacy): every keyword is given in three languages (Kazakh–Russian–English); the same national curriculum frame as the Almatykitap Grade 1 book (information etiquette / programming / robots, themes "Journey" and "Traditions and folklore") but this Arman-PV team teaches robotics on LEGO Mindstorms Education EV3 instead of WeDo 2.0, and Scratch through Kazakh folklore heroes (Aldar Kose, Makta Kyz) and national instruments (dombyra, kobyz, zhetigen); each project lesson is tiered A/B/C by difficulty.
+
+Kazakhstan's own way (Kadirkulov G3 Digital Literacy): Grade 3 is built around making a whole Scratch game (scenario, scenes, characters, costumes) and an EV3 robotics project, with Word and PowerPoint taught as the project's tools; "Check yourself! Creative tasks" lessons close each section (printed pp. 29, 59, 95, 126 — assessment pages, not placed).
+Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 11 s3 teacher, kazakhstan, kobdikova g1 digital literacy, kadirkulov g3 digital literacy

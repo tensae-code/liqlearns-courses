@@ -1,6 +1,6 @@
 # Sources — Designing a Relational Database
 
-countries: Malaysia, Indonesia
+countries: Malaysia, Indonesia, Kazakhstan
 
 **Book 1:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
@@ -8,13 +8,18 @@ countries: Malaysia, Indonesia
 
 **Book 3:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 4:** *Adekenova & Pryanichnikova G9 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 9, developed under the NIS programme (this PDF is the project/draft version, watermarked ПРОЕКТНАЯ ВЕРСИЯ); authors Adekenova A.N., Ermekova A.A., Litvinova O.V., Pryanichnikova Yu.S. Editions in this group: okulyk 1089 (Russian, record 66 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 9 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Nur-Sultan); year 2019; ISBN 978-601-328-609-9. PDF pages: 216 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | 2.2.3 Mereka Bentuk Pangkalan Data Hubungan | Malaysia Grade 10 SK Tingkatan 4, printed p. 225 |
 | Bab 5 C. Pemodelan data (filed as databases/data-modelling; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 186 |
 | Teaching database project: design a database for a local medical practice (filed as NEW LESSON NEEDED — databases/designing-a-database-for-a-local-medical-practice; stocked in this lesson because designing a database for a real local practice is relational database design applied to a real case — this lesson's subject (teacher guide — evidence)) | South Sudan Grade 12 S4 Teacher, printed p. 13 (teacher guide — evidence) |
+| Chapter 4. Multi-table databases, 4.1: Multi-table databases (filed as NEW LESSON NEEDED — databases/multi-table-relational-databases; stocked in this lesson because this lesson teaches designing a relational database — entities, attributes and keys becoming the linked tables of a multi-table database) | Kazakhstan Grade 9 NIS G9, printed p. 78 |
+| 4.2: Creating a multi-table database in Access (filed as NEW LESSON NEEDED — databases/multi-table-relational-databases; stocked in this lesson because this lesson teaches designing a relational database — entities, attributes and keys becoming the linked tables of a multi-table database) | Kazakhstan Grade 9 NIS G9, printed p. 81 |
+| 4.6: Solving practical tasks with a DBMS (filed as NEW LESSON NEEDED — databases/multi-table-relational-databases; stocked in this lesson because this lesson teaches designing a relational database — entities, attributes and keys becoming the linked tables of a multi-table database) | Kazakhstan Grade 9 NIS G9, printed p. 92 |
 
-**Acceptance count: taught in 2 countries (Malaysia, Indonesia).**
+**Acceptance count: taught in 3 countries (Malaysia, Indonesia, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Malaysia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — databases/designing-a-relational-database). It sits in the Databases title (databases/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Malaysia student book. Duplicate catalogue records of the same book (10 records / 5 distinct books in this expansion) are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -24,4 +29,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
 
-Searchable tags: relational database design, entities, attributes, keys, databases, malaysia, grade 10 sk tingkatan 4, indonesia, grade 10, south sudan, grade 12 s4 teacher
+
+Kazakhstan's own way (Adekenova & Pryanichnikova G9 Informatics, NIS): the NIS Grade 9 course is built around databases and object-oriented programming: computer architecture with logic circuits, coding raster images and sound, single-table then multi-table databases in Access (forms, queries, reports), five lessons introducing OOP, nine lessons developing applications in an OOP environment (C#), and a thirteen-lesson capstone — choosing a problem, designing the interface, programming, making a video instruction, testing, documenting and evaluating the project.
+Searchable tags: relational database design, entities, attributes, keys, databases, malaysia, grade 10 sk tingkatan 4, indonesia, grade 10, south sudan, grade 12 s4 teacher, kazakhstan, adekenova & pryanichnikova g9 informatics, nis

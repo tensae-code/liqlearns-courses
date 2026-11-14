@@ -1,6 +1,6 @@
 # Sources — Absolute cell references — $B$9
 
-countries: Ethiopia, Belarus, Rwanda, Vietnam, South Sudan
+countries: Ethiopia, Belarus, Rwanda, Vietnam, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Belarus, Rwanda, Vietnam, South Sudan
 
 **Book 7:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
+**Book 8:** *Kadirkulov G8 Informatika, Lazarus edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 766 (Kazakh, record 57 — read in full from its text layer), okulyk 767 (record 58 — same 184-page frame). A shorter Python-based edition of the same team's Grade 8 book is filed separately as Book 20. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-3976-3. PDF pages: 184 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 9:** *Kadirkulov G8 Informatika, Python edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 950 (Russian, record 60 — read in full from its text layer), okulyk 953 (Kazakh, record 63 — same contents in its text layer), okulyk 1299 (record 53 — same 152-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-4418-7 (Russian edition), 978-601-01-4421-7 (Kazakh edition). PDF pages: 152 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Absolute references — $ before column and row, or F4; stays constant when copied or moved | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 116–118 |
@@ -24,6 +28,10 @@ countries: Ethiopia, Belarus, Rwanda, Vietnam, South Sudan
 | Absolute and mixed cell references; references to another worksheet (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 117 (teacher guide — evidence) |
 | Cell references of another worksheet: copy-paste option and sheet reference | Rwanda Grade 8 S2 ICT Student Book, printed p. 190 |
 | Bài 5 Sử dụng bảng tính giải quyết bài toán thực tế §2 (Relative and absolute cell references when copying formulas) | Vietnam Grade 8 Tin học 8, printed p. 21 |
+| Part 3. Processing information in spreadsheets, 3.1: Statistical data — using absolute and relative references | Kazakhstan Grade 8 Kadirkulov G8 (Lazarus ed.), printed p. 43 |
+| 3.2: Using absolute and relative references in practice | Kazakhstan Grade 8 Kadirkulov G8 (Lazarus ed.), printed p. 49 |
+| Section III. Processing information in spreadsheets, 3.1: Statistical data — using absolute and relative references | Kazakhstan Grade 8 Kadirkulov G8 (Python ed.), printed p. 40 |
+| 3.2: Using absolute and relative references in solving practical tasks | Kazakhstan Grade 8 Kadirkulov G8 (Python ed.), printed p. 46 |
 
 **Book (Grade 10 summary growth):** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -31,7 +39,7 @@ countries: Ethiopia, Belarus, Rwanda, Vietnam, South Sudan
 | § 14 "Абсалютныя спасылкі" (absolute references) | Belarus, *Інфарматыка. 10 клас*, § 14, printed p. 92 |
 | 2.3.2 Absolute | South Sudan Grade 10 S2 Student, printed p. 47 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Rwanda, Vietnam, South Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Rwanda, Vietnam, South Sudan, Kazakhstan).**
 
 Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
@@ -45,4 +53,8 @@ Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calcula
 
 South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
 
-Searchable tags: absolute reference, $B$9, F4, dollar sign, bonus mark, mixed formula, Ethiopia Grade 9, belarus, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, vietnam, grade 8 tin học 8, south sudan, grade 10 s2 student
+
+Kazakhstan's own way (Kadirkulov G8 Informatika, Lazarus edition): Grade 8 by the Almatykitap team measures information two ways (the probabilistic and alphabetic approaches, with Hartley-formula problems), works Excel hard (absolute/relative references, built-in functions, data analysis, applied problems), and teaches programming in the Lazarus IDE — case, for, nested, repeat-until and while operators, tracing, and procedures and functions — before a final part that runs the whole problem-solving cycle from statement to tested program.
+
+Kazakhstan's own way (Kadirkulov G8 Informatika, Python edition): the newer, shorter Grade 8 edition from the same team keeps the measurement, health and Excel parts but replaces the Lazarus IDE with Python: for and while loops, nested loops, continue, break and loop-else, algorithm tracing, and a closing part on practical programming that ends with olympiad-style tasks.
+Searchable tags: absolute reference, $B$9, F4, dollar sign, bonus mark, mixed formula, Ethiopia Grade 9, belarus, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, vietnam, grade 8 tin học 8, south sudan, grade 10 s2 student, kazakhstan, kadirkulov g8 informatika, lazarus edition, kadirkulov g8 informatika, python edition

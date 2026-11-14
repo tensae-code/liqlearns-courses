@@ -1,6 +1,6 @@
 # Sources — Making a plain text file in Notepad
 
-countries: Ethiopia, Saudi Arabia, Moldova, South Sudan
+countries: Ethiopia, Saudi Arabia, Moldova, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Saudi Arabia, Moldova, South Sudan
 
 **Book 5:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
+**Book 6:** *Kobdikova G2 «Цифрлиқ саватлиқ»* (Kazakhstan) — Title as printed: Цифрлиқ саватлиқ — Башланғуч билим бериш басқучиниң 2-синип оқуғучилириға беғишланған дәрслик (Digital Literacy, textbook for Grade 2, Uyghur-language schools) Editions in this record set: 1125.pdf (Uyghur) — the Russian/Kazakh editions of this author team's Grade 2 book are not in this record set Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 2 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2022 (imprint: signed to print 08.09.22, article 802-006-001уй-22); ISBN not shown in the extracted imprint. PDF pages: 144 (title/imprint page verified: authors Жанар Уакитқызы Кобдикова, Гулдана Амангелдіқызы Көпеева, Әлия Әбунусұпқызы Қаптағаева, Айнагүл Ғалымжанқызы Юсупова; contents pages 141–142 read in full and matched § by § against the Grade 2 programme). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating a plain text file in Notepad | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Saudi Arabia, Moldova, South Sudan
 | Lecția 6 Primul meu text digital (typing and correcting text; Notepad lab) | Moldova Grade 2 Educație Digitală Clasa a II-a, printed p. 29 |
 | 3.6 Aplicația Notepad | Moldova Grade 7 Informatică, printed p. 55 |
 | 3.3 How to Make a Program Using Notepad | South Sudan Grade 11 S3 Student, printed p. 77 |
+| §28 Мәтинлик тәһрирда өз идеялирини йезиш (writing your ideas in a text editor) | Kazakhstan Grade 2 Kobdikova, printed p. 113 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Saudi Arabia, Moldova, South Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Saudi Arabia, Moldova, South Sudan, Kazakhstan).**
 
 No book error touches this lesson's content. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -31,4 +34,6 @@ Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real
 
 South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
 
-Searchable tags: Notepad, plain text file, txt extension, plaintext, text editor, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 3, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, south sudan, grade 11 s3 student
+
+Kazakhstan's own way (Kobdikova G2 «Цифрлиқ саватлиқ»): a second, parallel Grade 2 textbook from the Arman-PV team follows the same state programme as Book 2 but re-orders it (browser search before files, two sound-editing lessons, robotics taught as «Робототехника: сенсорлар») and writes project ideas in a text editor before building them.
+Searchable tags: Notepad, plain text file, txt extension, plaintext, text editor, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 3, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, south sudan, grade 11 s3 student, kazakhstan, kobdikova g2 «цифрлиқ саватлиқ»

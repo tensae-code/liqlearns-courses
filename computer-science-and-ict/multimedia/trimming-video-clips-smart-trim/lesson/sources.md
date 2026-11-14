@@ -1,6 +1,6 @@
 # Sources — Trimming video clips — smart trim
 
-countries: Ethiopia, Nepal, Bangladesh, Vietnam
+countries: Ethiopia, Nepal, Bangladesh, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nepal, Bangladesh, Vietnam
 
 **Book 6:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар / Информационно-коммуникационные технологии — textbook for Grade 4 Editions in this record set: 1122.pdf (Kazakh), 1123.pdf (Russian), 1131.pdf (Uzbek), 1132.pdf (Uyghur) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 4 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2019; ISBN 978-601-318-195-0 (Kazakh edition; authors Кобдикова Ж. У., Копеева Г. А., Қаптағаева А. А., Юсупова А. Ғ.). PDF pages: 144 in each edition (Kazakh edition 1122.pdf read in full — cover, preface and back contents pp. 141–142 verified; Russian edition 1123.pdf contents matched § by §; Uzbek 1131.pdf and Uyghur 1132.pdf spot-checked — same book, image-based scans with the same structure). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What trimming is | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 173–174 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Nepal, Bangladesh, Vietnam
 | Learning Experience 2, Sessions 7-8: Video Editing and Uploading (Practical) | Bangladesh Grade 9 Digital Technology, printed p. 55 |
 | Bài 10b Chuẩn bị dữ liệu và dựng video (Preparing material and assembling a video — track b) | Vietnam Grade 9 Tin học 9, printed p. 60 |
 | Bài 30 Biên tập phim (Editing a film) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 143 |
+| §18 Видеоны өңдеу (editing video) | Kazakhstan Grade 4 Kobdikova, printed p. 77 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Bangladesh, Vietnam).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Bangladesh, Vietnam, Kazakhstan).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -34,4 +37,6 @@ Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (Ph
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: trimming, smart trim, manual smart trim, automatic smart trim, Sceneline, Timeline, film editing, Premiere Elements, Ethiopia Grade 10, nepal, bangladesh, grade 9 digital technology, vietnam, grade 9 tin học 9, grade 11 tin học 11 tin học ứng dụng
+
+Kazakhstan's own way (Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»): Grade 4 ICT is five project-driven sections with cross-cutting patriotic/cultural themes: a Scratch game the pupil designs from scenario to finished game, LEGO robotics with colour and ultrasonic sensors ending in labyrinth and kegelring challenges, video making in VideoPad, presentations with sound/video/animation, and a closing «Компьютеры будущего» section that is really about sending data, e-mail attachments and password strength; AR (augmented reality) tasks run through the book via a companion CD/app.
+Searchable tags: trimming, smart trim, manual smart trim, automatic smart trim, Sceneline, Timeline, film editing, Premiere Elements, Ethiopia Grade 10, nepal, bangladesh, grade 9 digital technology, vietnam, grade 9 tin học 9, grade 11 tin học 11 tin học ứng dụng, kazakhstan, kobdikova g4 «ақпараттық-коммуникациялық технологиялар»

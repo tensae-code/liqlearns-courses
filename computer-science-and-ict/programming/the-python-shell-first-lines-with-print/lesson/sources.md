@@ -1,6 +1,6 @@
 # Sources - The Python shell - first lines with print()
 
-countries: Ethiopia, Egypt, Armenia
+countries: Ethiopia, Egypt, Armenia, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Egypt, Armenia
 
 **Book 4:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 5:** *Shaniev G8 «INFORMATICS»* (Kazakhstan) — Title as printed: INFORMATICS Grade 8 — Қостілді оқулық (bilingual textbook) Editions in this record set: 323.pdf (English, bilingual cover), 357.pdf (bilingual), 369.pdf (English textbook) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 8 (student/teacher: STUDENT). Publisher: Астана-кітап, Astana; year 2017; ISBN 978-601-7415-70-9 (authors Шаниев Е. and others). PDF pages: 206 (323.pdf), 203 (357.pdf), 205 (369.pdf) — contents pages read in full in all three and matched chapter by chapter and section by section (identical 4-chapter structure); the book is a Python-based course for bilingual/NIS-style schools. (Printed pages below are PDF pages: this book's contents lists no printed page numbers.). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - The >>> prompt (type at the prompt; Enter runs the line and brings the prompt back) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 135-136 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Egypt, Armenia
 | Sub lesson 3 - print() and IDLE's colours (print() displays a string; output blue, functions purple, strings green; practice: own full name) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 135-136 |
 | Lesson 6, first Python lines | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 62 |
 | 6.4 Secrets of program code (first Python code) | Armenia Grade 7 G7 student, printed p. 98 |
+| 3.2 Your First Program | Kazakhstan Grade 8 Shaniev, PDF p. 102 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Armenia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Armenia, Kazakhstan).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -26,4 +29,6 @@ Egypt's own way (Grade 7, Term 2 student book): Term 2 pivots from applications 
 
 Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
 
-Searchable tags: Python shell, prompt, print function, IDLE colours, syntax error in shell, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, armenia, grade 7
+
+Kazakhstan's own way (Shaniev G8 «INFORMATICS»): an English-medium course in four chapters that runs spreadsheets and Python programming side by side, with «Check yourself» after every chapter and three full game projects at the end (Guess the Number, a quiz game, Rock–Scissors–Paper).
+Searchable tags: Python shell, prompt, print function, IDLE colours, syntax error in shell, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, armenia, grade 7, kazakhstan, shaniev g8 «informatics»

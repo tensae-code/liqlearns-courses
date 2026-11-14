@@ -1,17 +1,27 @@
 # Sources — Artificial Intelligence and Virtual Reality — First Look
 
-countries: Fiji
+countries: Fiji, Kazakhstan
 
 **Book 1:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
+
+**Book 2:** *Ataeva & Vyshkova G8 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 8, developed under the NIS programme; authors Ataeva A.M., Vyshkova E.A., Zhurbenko Z.M., Oskenbayuly O. Editions in this group: okulyk 1073 (Russian, record 52 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Nur-Sultan); year 2019; ISBN 978-601-328-354-8. PDF pages: 144 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 3:** *Kolyeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Kolyeva N.S., Shevchuk E.V. Editions in this group: okulyk 552 (Kazakh, record 81 — read from page renders, image-only scan); a books.json record (record 87) points at the same file. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Mektep (Almaty); year 2019; no ISBN printed (publication no. ИБ №5920). PDF pages: 104 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
 
 | Lesson part | Where it comes from |
 |---|---|
 | 2.3 Advanced Application: artificial intelligence and virtual reality | Fiji, *Computer Education, Year 11*, printed p. 54 |
+| 9.10: Mini-project "Artificial intelligence" (filed as NEW LESSON NEEDED — new-technologies/artificial-intelligence-a-first-look; stocked in this lesson because this lesson is the first look at artificial intelligence — what AI is and where it is applied) | Kazakhstan Grade 8 NIS G8, printed p. 138 |
+| §29–30: The fields of application of artificial intelligence (filed as NEW LESSON NEEDED — new-technologies/artificial-intelligence-a-first-look; stocked in this lesson because this lesson is the first look at artificial intelligence — what AI is and where it is applied) | Kazakhstan Grade 10 Kolyeva G10 (humanities track), printed p. 86 |
 
-**Acceptance count: taught in 1 country (Fiji).**
+**Acceptance count: taught in 2 countries (Fiji, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Fiji, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — new-technologies/artificial-intelligence-and-virtual-reality-first-look). It sits in the New Technologies title (new-technologies/), following the book's own order. Provenance scope note: every placement stocked here is from a Fiji student book (all counted placements in this expansion are student books); duplicate catalogue records of the same book are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: artificial, intelligence, and, virtual, reality, first, new technologies, fiji, year 11
+
+Kazakhstan's own way (Ataeva & Vyshkova G8 Informatics, NIS): the NIS Grade 8 course is the most distinctive of the wave: vector graphics flows into geographic information systems (planning an excursion, making maps, visualising data in GIS), spreadsheets are used to solve logical problems, loops are taught through mathematics, physics, business and multimedia problems, and the year ends with a full project cycle — six stages, presentation, documentation, defence — plus a mini-project on artificial intelligence.
+
+Kazakhstan's own way (Kolyeva G10 Informatika, humanities track): Mektep's humanities-track Grade 10 book mirrors the Arman-PV one (information security, video content, design theory, web design) and adds a fifth part no other humanities book has: artificial intelligence and blockchain — machine-learning principles, how neural networks are organised and work, the fields where AI is used, and blockchain technology.
+Searchable tags: artificial, intelligence, and, virtual, reality, first, new technologies, fiji, year 11, kazakhstan, ataeva & vyshkova g8 informatics, nis, kolyeva g10 informatika, humanities track

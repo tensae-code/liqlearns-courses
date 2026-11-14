@@ -1,6 +1,6 @@
 # Sources — From data to information — processed data with meaning
 
-countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia, Indonesia, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia, Indonesia
 
 **Book 11:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
 
+**Book 12:** *Salgaraeva G9 «Информатика»* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 9 of the general school Editions in this record set: 395.pdf (Kazakh), 443.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 9 (student/teacher: STUDENT). Publisher: «Арман-ПВ», Nur-Sultan; year 2019; ISBN 978-601-318-238-4 (Russian edition; authors Салгараева Г. И., Калымова К. А., Орынтаева Ж. А.; scientific consultant Ж. У. Кобдикова). PDF pages: 176 in each edition (contents at printed pp. 173–174 read in full in both editions and matched § by §). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Information — data made meaningful | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 2–3 (student placement item 3) |
@@ -36,8 +38,9 @@ countries: Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia, Indonesia
 | §1 Information and the person | Armenia Grade 5 G5 student (Antares), printed p. 5 |
 | Bab 3 B. Pengolahan data, informasi, dan konten (mencari di buku cetak dan digital) | Indonesia Grade 7 G7 Informatika student, printed p. 105 |
 | Bab 5 I. Merangkum narasi dari konten digital | Indonesia Grade 8 G8 Informatika student, printed p. 235 |
+| §1 Свойства информации | Kazakhstan Grade 9 Salgaraeva, printed p. 6 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 9 countries (Ethiopia, China, Yemen, Laos, Greece, Bangladesh, Armenia, Indonesia, Kazakhstan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -57,4 +60,6 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
 
-Searchable tags: information, processed data, sales trend, who what when where, processing ladder, Davenport and Prusak, Ethiopia Grade 11 IT, china, yemen, laos, grade 6 ict student, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, armenia, grade 5, indonesia, grade 7, grade 8
+
+Kazakhstan's own way (Salgaraeva G9 «Информатика»): Grade 9 in the Arman-PV line is a maker's year: work with information (netiquette, shared documents), choosing and costing a real computer, databases built first in spreadsheets, then Python arrays, and a full PyGame 2D game — background, characters, sprite animation, keyboard control — built from a ready scenario.
+Searchable tags: information, processed data, sales trend, who what when where, processing ladder, Davenport and Prusak, Ethiopia Grade 11 IT, china, yemen, laos, grade 6 ict student, grade 10 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, armenia, grade 5, indonesia, grade 7, grade 8, kazakhstan, salgaraeva g9 «информатика»

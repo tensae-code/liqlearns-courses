@@ -1,6 +1,6 @@
 # Sources — HTML Text Formatting — Font Size, Style and Colour
 
-countries: Libya, Vietnam
+countries: Libya, Vietnam, Kazakhstan
 
 **Book 1:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
@@ -10,14 +10,18 @@ countries: Libya, Vietnam
 
 **Book 4:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
+**Book 5:** *Salgaraeva G10 Informatika, natural-science track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the natural-science and mathematics direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 497 (Kazakh, record 79 — read in full from its text layer), okulyk 523 (Russian, record 80 — text layer confirms the same book); both 240 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-228-5 (Kazakh edition). PDF pages: 240 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch 3, formatting texts in HTML: font size, font styles, background colour, font colour, combining font properties | Libya Grade 11 IT student Term 2, printed p. 39 |
 | Guide Ch 3, formatting texts (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 19 (teacher guide — evidence) |
 | Bài 8 Định dạng văn bản (Formatting text in HTML) (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-in-html; stocked in this lesson because this lesson teaches formatting text in HTML — the size, style and colour of text on a page) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 46 |
 | Bài 8 Định dạng văn bản (Formatting text in HTML — common core) (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-in-html; stocked in this lesson because this lesson teaches formatting text in HTML — the size, style and colour of text on a page) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 46 |
+| §38–39: Formatting text (font, paragraph, lists) (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-in-html-fonts-paragraphs-lists; stocked in this lesson because this lesson teaches formatting text in HTML — font size, style and colour, paragraphs and lists) | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 135 |
+| §40: Practicum — formatting text (filed as NEW LESSON NEEDED — internet-and-the-web/formatting-text-in-html-fonts-paragraphs-lists; stocked in this lesson because this lesson teaches formatting text in HTML — font size, style and colour, paragraphs and lists) | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 144 |
 
-**Acceptance count: taught in 2 countries (Libya, Vietnam).**
+**Acceptance count: taught in 3 countries (Libya, Vietnam, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Libya, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — internet-and-the-web/html-text-formatting-font-size-style-and-colour). It sits in the Internet and the Web title (internet-and-the-web/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Libya student book; teacher-guide placements are cited as (teacher guide — evidence) and counted nowhere on their own — each new lesson here also carries student-book placements, so Libya is counted once. Duplicate catalogue records of the same book (5 of the 15 records duplicate books) are cited once: 10 distinct books in this expansion. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -29,4 +33,6 @@ Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year
 
 Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
 
-Searchable tags: html, text formatting, font size, font style, colour, background colour, internet and the web, libya, grade 11 it, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, natural-science track): in Grade 10 the subject splits by track; this natural-science book is the deepest in the set — networks with IP, domains and VPN, number systems and logic with truth tables and the computer's logical elements, procedures/functions, strings, files, sorting methods and graph algorithms, a full HTML/CSS/scripts web part, and information systems from Big Data to linking web pages with a database. Every topic is doubled with a practicum paragraph.
+Searchable tags: html, text formatting, font size, font style, colour, background colour, internet and the web, libya, grade 11 it, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, kazakhstan, salgaraeva g10 informatika, natural-science track

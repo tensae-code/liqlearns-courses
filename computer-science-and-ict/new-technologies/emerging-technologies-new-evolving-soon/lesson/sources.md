@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — new, evolving, soon
 
-countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia, Pakistan
+countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia,
 
 **Book 8:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 9:** *Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар / Информационно-коммуникационные технологии — textbook for Grade 4 Editions in this record set: 1122.pdf (Kazakh), 1123.pdf (Russian), 1131.pdf (Uzbek), 1132.pdf (Uyghur) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 4 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2019; ISBN 978-601-318-195-0 (Kazakh edition; authors Кобдикова Ж. У., Копеева Г. А., Қаптағаева А. А., Юсупова А. Ғ.). PDF pages: 144 in each edition (Kazakh edition 1122.pdf read in full — cover, preface and back contents pp. 141–142 verified; Russian edition 1123.pdf contents matched § by §; Uzbek 1131.pdf and Uyghur 1132.pdf spot-checked — same book, image-based scans with the same structure). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Emerging technology defined; the five-to-ten-year window; significant social or economic effects | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed p. 29 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia,
 | 1.1.1 Development trends of ICT (e-, m- and u-systems, the Internet of Things, IPv6 address exhaustion, Web 3.0 semantic and Web 4.0 symbiotic webs, an RFID cow-tracking project) | Mongolia Grade 12 IT XII, printed p. 6 |
 | Lesson 5 Main directions of technology development (Theme 4) | Armenia Grade 10 G10 student, printed p. 28 |
 | Unit 1 §1.1 Emerging Technology (characteristics: innovation, fast growth, consistency, prominent impact) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 1 |
+| §32 Болашақтағы компьютерлер (computers of the future) | Kazakhstan Grade 4 Kobdikova, printed p. 128 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia, Pakistan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, China, North Macedonia, Libya, Mongolia, Armenia, Pakistan, Kazakhstan).**
 
 The student book's brainstorming numbering is duplicated in this unit (“Brainstorming 2.2” is used for both §2.1.2 and §2.2); no brainstorming number is reproduced in this lesson, so the duplication does not reach the learner.
 
@@ -44,4 +47,6 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
-Searchable tags: emerging technology, new technology, five to ten years, Unit 2 introduction, Grade 12 ICT Ethiopia, cambodia, china, north macedonia, grade 11, libya, grade 10 it student, mongolia, grade 12 it xii, armenia, grade 10, pakistan, grade 7 computer science 7
+
+Kazakhstan's own way (Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»): Grade 4 ICT is five project-driven sections with cross-cutting patriotic/cultural themes: a Scratch game the pupil designs from scenario to finished game, LEGO robotics with colour and ultrasonic sensors ending in labyrinth and kegelring challenges, video making in VideoPad, presentations with sound/video/animation, and a closing «Компьютеры будущего» section that is really about sending data, e-mail attachments and password strength; AR (augmented reality) tasks run through the book via a companion CD/app.
+Searchable tags: emerging technology, new technology, five to ten years, Unit 2 introduction, Grade 12 ICT Ethiopia, cambodia, china, north macedonia, grade 11, libya, grade 10 it student, mongolia, grade 12 it xii, armenia, grade 10, pakistan, grade 7 computer science 7, kazakhstan, kobdikova g4 «ақпараттық-коммуникациялық технологиялар»

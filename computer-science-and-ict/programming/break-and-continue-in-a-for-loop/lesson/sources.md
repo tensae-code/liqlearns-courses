@@ -1,6 +1,6 @@
 # Sources — break and continue — leave early, or skip one
 
-countries: Ethiopia, Bangladesh, Jordan
+countries: Ethiopia, Bangladesh, Jordan, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,16 @@ countries: Ethiopia, Bangladesh, Jordan
 
 **Book 4:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 5:** *Kadirkulov G8 Informatika, Python edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 950 (Russian, record 60 — read in full from its text layer), okulyk 953 (Kazakh, record 63 — same contents in its text layer), okulyk 1299 (record 53 — same 152-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-4418-7 (Russian edition), 978-601-01-4421-7 (Kazakh edition). PDF pages: 152 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 6:** *Salgaraeva G8 Informatika, updated edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the basic secondary level "on the updated content"; authors Salgaraeva G.I., Bekezhanova A.A., Bazaeva Zh.B. Editions in this group: okulyk 951 (Russian, record 61 — read from page renders, image-only scan), okulyk 954 (Kazakh, record 64 — cover verified, same 208-page frame). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Arman-PV; year 2021; no ISBN printed in the colophon (article 808-008-001р-21). PDF pages: 208 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 7:** *Mukhametzhanova G8 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Mukhambetzhanova S.T., Ten A.S., Demidova L.G. Editions in this group: okulyk 949 (Russian, record 59 — read from page renders, image-only scan), okulyk 952 (record 62 — same 176-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Atamura (Almaty); year 2021; ISBN 978-601-331-944-5 (Russian edition). PDF pages: 176 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 8:** *Zhunusov G8 Informatics, bilingual edition* (Kazakhstan) — Title as printed: INFORMATICS, Grade 8, 2nd edition, bilingual (Қостідді) edition; authors Zhunusov A., Shaniev E., Gesen I. Editions in this group: okulyk 955 (bilingual Kazakh–English, record 65 — read from page renders, image-only scan; lessons printed as Kazakh–English spreads). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Astana Kitap (Almaty); year 2021; ISBN 978-601-7595-24-1. PDF pages: 172 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 9:** *Zhunusov G8 Informatics, English-medium* (Kazakhstan) — Title as printed: INFORMATICS, Grade 8; authors Altynbek Zhunusov, Yerzhan Shaniyev, Ismail Gesen. Editions in this group: okulyk 1585 (English, record 54 — read from page renders, image-only scan). The printed contents gives chapter pages; lesson pages follow the book's two-page lesson pattern from the verified anchor (1.1 at printed p. 8). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Astana Kitap (Almaty); year 2021 (2nd-edition family); no ISBN visible in the rendered front matter. PDF pages: 84 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — break — stop the loop now | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 183–184 (student placement item 127) |
@@ -17,8 +27,18 @@ countries: Ethiopia, Bangladesh, Jordan
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed pp. 134–139 — see the honesty note below for exactly what is filed and where |
 | Chapter 5, 5.6: the continue statement in loops | Bangladesh HSC ICT, printed p. 173 |
 | Lesson 4: break, continue and else with for loops | Jordan Grade 11 G11T1 Student, printed p. 72 |
+| 4.4: Controlling a loop — continue | Kazakhstan Grade 8 Kadirkulov G8 (Python ed.), printed p. 90 |
+| 4.5: Controlling a loop — break | Kazakhstan Grade 8 Kadirkulov G8 (Python ed.), printed p. 94 |
+| §21: Controlling a loop — continue | Kazakhstan Grade 8 Salgaraeva G8 (updated ed.), printed p. 135 |
+| §22: Controlling a loop — break | Kazakhstan Grade 8 Salgaraeva G8 (updated ed.), printed p. 140 |
+| 4.3: Controlling a loop — break | Kazakhstan Grade 8 Mukhametzhanova G8, printed p. 112 |
+| 4.4: Controlling a loop — continue | Kazakhstan Grade 8 Mukhametzhanova G8, printed p. 117 |
+| 4.5: Loop control operators — break, continue | Kazakhstan Grade 8 Zhunusov G8 (bilingual), printed p. 50 |
+| 4.7: Loop control operators; practicum | Kazakhstan Grade 8 Zhunusov G8 (bilingual), printed p. 54 |
+| 4.5: Loop control statements — break, continue | Kazakhstan Grade 8 Zhunusov G8 (English), printed p. 50 |
+| 4.7: Loop control statements; practice | Kazakhstan Grade 8 Zhunusov G8 (English), printed p. 54 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bangladesh, Jordan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bangladesh, Jordan, Kazakhstan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) supports Sub lesson 1: a loop that never meets its break condition prints everything in the list — the contrast case (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -26,4 +46,14 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: break, continue, for loop, exit loop, skip iteration, Grade 12 ICT Ethiopia, Unit 6 programming, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills
+
+Kazakhstan's own way (Kadirkulov G8 Informatika, Python edition): the newer, shorter Grade 8 edition from the same team keeps the measurement, health and Excel parts but replaces the Lazarus IDE with Python: for and while loops, nested loops, continue, break and loop-else, algorithm tracing, and a closing part on practical programming that ends with olympiad-style tasks.
+
+Kazakhstan's own way (Salgaraeva G8 Informatika, updated edition): the updated-content revision of the Arman-PV Grade 8 book keeps the measurement, health and Excel parts of the 2018 edition (with a fuller glossary — digital reputation, worms, DoS/DDoS attacks, the Hartley formula) but replaces the Lazarus part with Python loops (while, for, continue, break, loop-else, tracing, typical errors) and ends with practical programming.
+
+Kazakhstan's own way (Mukhametzhanova G8 Informatika): the Atamura Grade 8 book is the leanest of the three publishers — five parts only, tasks ranked by Bloom's taxonomy, and a rich glossary that reaches from pivot tables, sparklines and data consolidation in Excel to botnets, phishing, cyberbullying and griefing in the safety part; Python loops include loop-else and trace tables.
+
+Kazakhstan's own way (Zhunusov G8 Informatics, bilingual edition): the bilingual Grade 8 book follows the updated national frame (measurement and coding, processor, networks and bandwidth; health; Excel statistics; Python while/for with break/continue/else and tracing) and ends its practical-programming part with a four-part worked game project, "Akkala".
+
+Kazakhstan's own way (Zhunusov G8 Informatics, English-medium): the English-medium twin of the bilingual Grade 8 book (Book 40) — same five chapters; the practical-programming game project is the "Melting Snowman" game in four parts.
+Searchable tags: break, continue, for loop, exit loop, skip iteration, Grade 12 ICT Ethiopia, Unit 6 programming, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, kazakhstan, kadirkulov g8 informatika, python edition, salgaraeva g8 informatika, updated edition, mukhametzhanova g8 informatika, zhunusov g8 informatics, bilingual edition, zhunusov g8 informatics, english-medium

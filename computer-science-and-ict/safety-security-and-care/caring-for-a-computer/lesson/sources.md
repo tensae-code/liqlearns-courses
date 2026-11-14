@@ -1,6 +1,6 @@
 # Sources — Caring for a computer — safety before cleaning
 
-countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda, Moldova
+countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda, Moldova, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -31,6 +31,10 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan,
 **Book 14:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (1re–2e)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 1–2 (Cycle 1, 1re–2e). 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 15:** *<DÉ>CODAGE — Éducation numérique au cycle 1 (3e–4e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 3–4 (Cycle 1, 3e–4e). 366 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 16:** *Kopeeva G3 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар — textbook for Grade 3 of the general school Editions in this record set: 1121.pdf (Kazakh), 1128.pdf (Uyghur, ISBN 978-601-318-187-5) — parallel spot-checked (cover, imprint and contents match) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: «Арман-ПВ», Astana; year 2018; ISBN 978-601-318-088-5 (authors Көпеева Г. А., Ділманова Ү. М.). PDF pages: 128 (back contents read in full: five sections, 34 paragraphs). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 17:** *Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)* (Kazakhstan) — Title as printed: Информатика — Учебник для 7 класса (developed under the Educational Programme of Nazarbayev Intellectual Schools) Editions in this record set: 1046.pdf (Russian). Record 1047.pdf is the defective calibre conversion filed as Book 9. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Astana; year 2018; ISBN 978-601-328-201-5 (authors Вьюшкова Е. А., Журбенко З. М., Оразбеков С. Қ.). PDF pages: 136 (front contents, printed p. 3, read in full — nine sections, 53 units; the scan is image-only, read via contents + cover/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Harms of wrong use to user and device | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.58 |
@@ -49,8 +53,10 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan,
 | Lecția 11 Să avem grijă de prietenii noștri digitali (care rules; battery care) | Moldova Grade 1 Educație Digitală Clasa I, printed p. 37 |
 | Parcours: Prendre soin du matériel numérique de la classe | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 10 (Parcours) (teacher guide — evidence) |
 | Parcours: Prendre soin du matériel numérique | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 10 (Parcours) (teacher guide — evidence) |
+| §2 Қауіпсіздік техникасы (safety technique) | Kazakhstan Grade 3 Kopeeva, printed p. 9 |
+| 1.2 Как сохранить компьютер в рабочем состоянии | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 8 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda, Moldova).**
+**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda, Moldova, Kazakhstan).**
 
 Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
 
@@ -70,4 +76,8 @@ Switzerland's own way (Grades 1–2, Décodage 1re–2e): Vaud's Romandie digita
 
 Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repeats the 1re–2e unplugged activities at a higher level (loops and debugging join the robot and crane games and the sorting machine) and adds three new strands: Thymio robotics, a full ScratchJr scenario, and media “parcours” — Parcours des bestioles (how images influence emotions), Parcours du partage (image rights, digital traces, thinking before sharing) and Parcours de la pub (recognising and creating advertising). Pixel paravent introduces binary coding as transmitting a black-and-white image across a screen with an agreed code; Deviner la carte teaches the conditional through a magic trick and its logigramme.
 
-Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34
+
+Kazakhstan's own way (Kopeeva G3 «Ақпараттық-коммуникациялық технологиялар»): Grade 3 ICT is a tools year organised by cross-cutting themes («Менің мектебім», «Сәулет», «Өнер»…): text, then sound, then computer pictures in a graphics editor, then a mixed document that combines them, then internet safety/search and presentations — with a practicum closing almost every section.
+
+Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
+Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, rwanda, grade 7 s1 ict student book, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, kazakhstan, kopeeva g3 «ақпараттық-коммуникациялық технологиялар», vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition)

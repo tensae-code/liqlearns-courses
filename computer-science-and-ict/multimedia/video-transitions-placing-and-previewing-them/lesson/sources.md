@@ -1,6 +1,6 @@
 # Sources — Video transitions — placing and previewing them
 
-countries: Ethiopia, Vietnam
+countries: Ethiopia, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Vietnam
 
 **Book 3:** *Tin học 9 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (2nd reprint); ISBN 978-604-0-39233-6. Grade 9 (student book). 94 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 4:** *Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар / Информационно-коммуникационные технологии — textbook for Grade 4 Editions in this record set: 1122.pdf (Kazakh), 1123.pdf (Russian), 1131.pdf (Uzbek), 1132.pdf (Uyghur) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 4 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2019; ISBN 978-601-318-195-0 (Kazakh edition; authors Кобдикова Ж. У., Копеева Г. А., Қаптағаева А. А., Юсупова А. Ғ.). PDF pages: 144 in each edition (Kazakh edition 1122.pdf read in full — cover, preface and back contents pp. 141–142 verified; Russian edition 1123.pdf contents matched § by §; Uzbek 1131.pdf and Uyghur 1132.pdf spot-checked — same book, image-based scans with the same structure). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Transitions and how they sit on clips | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 161–164 |
 | Sub lesson 2 — Choosing and setting a transition | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 161–164 |
 | Unit 1, Lesson 3: Motion effects and transitions between shots (fade in / fade out; not over-using effects) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 34 (teacher guide — evidence) |
 | Bài 13b Biên tập và xuất video (Editing, adding transitions and exporting the video — track b) | Vietnam Grade 9 Tin học 9, printed p. 73 |
+| §19 Видеоны өңдеу. Жоба құру (video editing, project) | Kazakhstan Grade 4 Kobdikova, printed p. 82 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Vietnam).**
+**Acceptance count: taught in 3 countries (Ethiopia, Vietnam, Kazakhstan).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -23,4 +26,6 @@ Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is tau
 
 Vietnam's own way (Grade 9 Tin học 9): Grade 9 teaches simulation software (PhET, Geometer's Sketchpad) as a way to learn by experiment, and its applied fork is advanced Excel (data validation, COUNTIF/SUMIF/IF, a family-finance workbook project) versus a full video-production track in Video Editor from storyboard to export.
 
-Searchable tags: video transitions, cross dissolve, page turn, pinwheel, double-sided, single-sided, fade to black, Premiere Elements 9, Monitor panel, Ethiopia Grade 10, saudi arabia, grade 8, vietnam, grade 9 tin học 9
+
+Kazakhstan's own way (Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»): Grade 4 ICT is five project-driven sections with cross-cutting patriotic/cultural themes: a Scratch game the pupil designs from scenario to finished game, LEGO robotics with colour and ultrasonic sensors ending in labyrinth and kegelring challenges, video making in VideoPad, presentations with sound/video/animation, and a closing «Компьютеры будущего» section that is really about sending data, e-mail attachments and password strength; AR (augmented reality) tasks run through the book via a companion CD/app.
+Searchable tags: video transitions, cross dissolve, page turn, pinwheel, double-sided, single-sided, fade to black, Premiere Elements 9, Monitor panel, Ethiopia Grade 10, saudi arabia, grade 8, vietnam, grade 9 tin học 9, kazakhstan, kobdikova g4 «ақпараттық-коммуникациялық технологиялар»

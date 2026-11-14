@@ -1,6 +1,6 @@
 # Sources — Four ways to sort networks
 
-countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, South Sudan
+countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, South Sudan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -27,6 +27,8 @@ countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, Sout
 
 **Book 13:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
+**Book 14:** *Kadirkulov G7 «Информатика»* (Kazakhstan) — Title as printed: ИНФОРМАТИКА — Учебник для учащихся 7 класса общеобразовательной школы Editions in this record set: 1289.pdf (Russian), 1293.pdf (Kazakh, ISBN 978-602-02-1234-0), 943.pdf (Russian), 947.pdf (Kazakh) — parallels spot-checked, contents identical unit for unit. The 2019 pair (1290.pdf Russian, 1294.pdf Kazakh) is a different, earlier edition of this author line and is filed separately as Book 27. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ; year 2023; ISBN 978-602-02-1235-7 (authors Кадыркулов Р. А., Рыскулбекова А. Д., Нурмуханбетова Г. К.). PDF pages: 176 (back contents, printed pp. 174–175, read in full — five sections, 28 unit entries; image-based scan read via contents + title/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four perspectives | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 46 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, Sout
 | Bab 4 B. Klasifikasi jaringan komputer (berdasarkan area: LAN, MAN, WAN, internet; kelas IP Address) | Indonesia Grade 12 G12 Informatika student, printed p. 91 |
 | 1.2 Types of computer networks | South Sudan Grade 10 S2 Student, printed p. 7 |
 | Types of computer networks (PAN, LAN, WAN, MAN) | South Sudan Grade 10 S2 Teacher, printed p. 7 (teacher guide — evidence) |
+| 2.1 Компьютерные сети и их классификация | Kazakhstan Grade 7 Kadirkulov, printed p. 24 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, South Sudan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, South Sudan, Kazakhstan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -71,4 +74,6 @@ South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer s
 
 South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
 
-Searchable tags: classifying networks, medium, size, topology, access, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 12, south sudan, grade 10 s2 student, grade 10 s2 teacher
+
+Kazakhstan's own way (Kadirkulov G7 «Информатика»): the Almatykitap Grade 7 course pairs every theory section with «Творческие задания» and test tasks, teaches spreadsheets up to conditional formatting and process modelling, and does its Python through files: reading/writing files and file functions come before branching, nested and compound conditions.
+Searchable tags: classifying networks, medium, size, topology, access, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 12, south sudan, grade 10 s2 student, grade 10 s2 teacher, kazakhstan, kadirkulov g7 «информатика»

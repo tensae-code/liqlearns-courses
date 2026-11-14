@@ -1,6 +1,6 @@
 # Sources — Creating two linked tables — DEPARTMENT and COURSE
 
-countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakistan
+countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakista
 
 **Book 8:** *A Textbook of Computer Science for Class 12* (cover: Computer Science 12, 2016-17) (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; approved by the Federal Ministry of Education, Curriculum Wing (2006); authors Syed Zulqurnain Jaffery, Ms. Shahina Naz and Mr. Asif Ali Magsi; editor Mirza Mubashar Baig; 1st edition, printed May 2016 by Frontier Publishing Company, Lahore; no ISBN printed. Freebooks.pk scan. Grade 12 (student book). 258 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 9:** *Pryanichnikova team G9 «Информатика» NIS* (Kazakhstan) — Title as printed: Информатика 9 класс — textbook for Grade 9 of the Nazarbayev Intellectual Schools Editions in this record set: 1089.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 9 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы»; year 2019; ISBN 978-601-328-429-3 (authors Пряничникова Ю. С. and team). NOTE: the library file is the draft («ПРОЕКТНАЯ ВЕРСИЯ») printing of this book — see the group log debts. PDF pages: 216 (front contents, printed pp. 3–4, read in full from zoomed renders of the cover-verified copy; databases in Access, programming in C#). Verdict: COMPLETE (draft version — contents and structure read in full; the final published printing may differ in detail). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — DEPARTMENT created: D_Name, D_Number as primary key, D_Location | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 71–72 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakista
 | Unit 1, Lesson 2 Creating Related Tables: the parent and child tables and the FOREIGN KEY constraint in SQLite (the landmarks and regions tables) | Kuwait Grade 11 Information Technology T2, printed p. 27 |
 | Bài 22 Thực hành cập nhật bảng dữ liệu có tham chiếu (Practical: updating data with references between tables) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 105 |
 | Chapter 6 §6.6 Table Relationships (the Relationships window; referential integrity in Access; cascade update and cascade delete; relationships and joins; subdatasheets) | Pakistan (Punjab) Grade 12 Computer Science 12, printed p. 79 |
+| 4.1 Многотабличные базы данных | Kazakhstan Grade 9 NIS, printed p. 78 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakistan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Sudan, Uzbekistan, Libya, Kuwait, Vietnam, Pakistan, Kazakhstan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -50,4 +53,6 @@ Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 ar
 
 
 Pakistan's own way (Grade 12 Computer Science 12): the older-curriculum Grade 12 book is two courses in one binding: seven chapters of database theory and Microsoft Access practice (normalization worked to 3NF with Pakistani college examples, NADRA and CRICKINFO as the distributed-database examples) followed by seven chapters of C in the Turbo C++ IDE, ending in file handling and strings — the contacts-file programs (names and phone numbers separated by "!") carry the whole second half's examples.
-Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2, vietnam, grade 11 tin học 11 tin học ứng dụng, pakistan, grade 12 computer science 12
+
+Kazakhstan's own way (Pryanichnikova team G9 «Информатика» NIS): the NIS Grade 9 book is a step up in level: logic expressions, truth tables and logic circuits inside "computer architecture"; sound encoding beside raster encoding; single-table then multi-table databases in Access with forms, queries and reports; and a full object-oriented programming course in C# — components of OOP, multimedia applications, and a software-solution project with a video instruction and a slide show.
+Searchable tags: DEPARTMENT, COURSE, foreign key, REFERENCES, matching data types, CREATE TABLE, Ethiopia Grade 12, belarus, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, kuwait, grade 11 information technology term 2, vietnam, grade 11 tin học 11 tin học ứng dụng, pakistan, grade 12 computer science 12, kazakhstan, pryanichnikova team g9 «информатика» nis

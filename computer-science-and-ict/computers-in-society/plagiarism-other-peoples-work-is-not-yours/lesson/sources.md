@@ -1,6 +1,6 @@
 # Sources — Plagiarism — other people's work is not yours
 
-countries: Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan
+countries: Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan
 
 **Book 7:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 8:** *Salgaraeva G6 «Информатика»* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 6 of the general school Editions in this record set: 184.pdf, 185.pdf (Kazakh), 212.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 6 (student/teacher: STUDENT). Publisher: Издательство «Арман-ПВ», Astana; year 2018; ISBN 978-601-318-117-2 (authors Салгараева Г. И., Илиясова Г. Б., Маханова А. С.). PDF pages: 176 in each edition (back contents, printed pp. 174–175, read in full in both editions — 185.pdf Kazakh, 212.pdf Russian, both text-rich). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 9:** *Kadirkulov G6 «Информатика»* (Kazakhstan) — Title as printed: Информатика — textbook for Grade 6 pupils of the general school Editions in this record set: 740.pdf (Kazakh), 741.pdf (Russian), 1281.pdf, 1286.pdf Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 6 (student/teacher: STUDENT). Publisher: Алматыкітап баспасы, Almaty; signed to print 02.07.2020 (authors Кадиркулов Р. А., Нурмуханбетова Г. К.). PDF pages: 136 in each edition (back contents, printed p. 134, read in full in the Kazakh edition 740.pdf, text-rich; Russian edition 741.pdf the same). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What plagiarism is — and what it costs | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 7 (student placement item 11) |
@@ -27,8 +31,10 @@ countries: Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan
 | Bab 2 B (pelanggaran HAKI dan plagiarisme) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 120 |
 | Unit 6 §6.5 Plagiarism and §6.5.1 its types (global, paraphrasing, patchwork, self) | Pakistan (Punjab) Grade 6 Computer Science 6, printed p. 89 |
 | Unit 5 §5.5 Plagiarism and types of plagiarism (global, paraphrasing, patchwork, self-plagiarism) | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 86 |
+| §29 Понятие об авторском праве и плагиате | Kazakhstan Grade 6 Salgaraeva, printed p. 148 |
+| 4.4 Интернеттегі авторлық құқық және плагиат мәселелері | Kazakhstan Grade 6 Kadirkulov, printed p. 115 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Bangladesh, Indonesia, Pakistan, Kazakhstan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -42,4 +48,8 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 tu
 Pakistan's own way (Grade 6 Computer Science 6): every unit opens with Students Learning Outcomes, is dotted with "Do you Know?", "Extra Bit!" and "Tips" boxes, and closes with Summary, MCQ/short/detailed exercises, project-based and activity-based questions, with an answers key at the back. Digital skills (Windows desktop, file management, Paint 3D, a typing tutor) are taught hands-on BEFORE programming; digital citizenship is framed through Pakistani citizenship first; the entrepreneurship unit teaches from Pakistani founders (Foodpanda/EatOye, Shopsy.pk, Zero Makeup, Investors Lounge).
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
-Searchable tags: plagiarism, acknowledgement, citation, reference list, plagiarism checker, 21st-century skills, Ethiopia Grade 12 IT, bhutan, class vi, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 10, pakistan, grade 6 computer science 6, grade 7 computer science 7
+
+Kazakhstan's own way (Salgaraeva G6 «Информатика»): the Arman-PV Grade 6 book is a game-making year wrapped in document skills: ergonomics and wireless networks first, then binary coding and encryption, vector graphics (drawing a «Жайлау» summer pasture), a Scratch game designed, built and given a sound track and title screen — and the year ends with footnotes, hyperlinks, copyright and plagiarism, a table of contents and the written documentation for the game.
+
+Kazakhstan's own way (Kadirkulov G6 «Информатика»): the Almatykitap Grade 6 book follows the same state programme as the Arman-PV book (Book 24) — ergonomics, wireless networks, footnotes and hyperlinks, copyright, contents, report — but swaps vector graphics for a whole 3D-printing section in a SketchUp-style editor (cone, cylinder and sphere models, print setup) and swaps the Scratch game for a first Python course: IDE, alphabet and syntax, data types, arithmetic expressions, number input and output, linear algorithms.
+Searchable tags: plagiarism, acknowledgement, citation, reference list, plagiarism checker, 21st-century skills, Ethiopia Grade 12 IT, bhutan, class vi, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 10, pakistan, grade 6 computer science 6, grade 7 computer science 7, kazakhstan, salgaraeva g6 «информатика», kadirkulov g6 «информатика»

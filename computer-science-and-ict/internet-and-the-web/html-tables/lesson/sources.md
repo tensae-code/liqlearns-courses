@@ -1,6 +1,6 @@
 # Sources — HTML tables
 
-countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan
+countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, 
 
 **Book 14:** *Computer Science & IT 9* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; author Dr. Muhammad Atif Chattha (Associate Professor, Dept. of Computer Sciences & IT, The University of Lahore); editor Amjad Riaz; 1st edition, 1st impression, printed March 2019 by Malik House, Publishers & Printers, Lahore; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly. The record's "SNC" label does not match the held edition — the held book is the pre-SNC "Computer Science & IT" Class 9 — carried as filed.
 
+**Book 15:** *Salgaraeva G10 Informatika, natural-science track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the natural-science and mathematics direction; authors Salgaraeva G.I., Bazaeva Zh.B., Makhanova A.S. Editions in this group: okulyk 497 (Kazakh, record 79 — read in full from its text layer), okulyk 523 (Russian, record 80 — text layer confirms the same book); both 240 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Arman-PV; year 2019; ISBN 978-601-318-228-5 (Kazakh edition). PDF pages: 240 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a table is for, and its four tags | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 91–92 |
@@ -47,8 +49,10 @@ countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, 
 | Bài 9 Tạo danh sách, bảng §2 (Tables — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 52 |
 | 3.10.5 Adding a Table to Your Page | South Sudan Grade 12 S4 Student, printed p. 146 |
 | Unit 5 §5.6 Creating Tables (table, tr, th, td; border; colspan; rowspan; Activity 5.6 population of Pakistan's largest cities) | Pakistan (Punjab) Grade 9 Computer Science 9, printed p. 110 |
+| §41–42: Tables | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 146 |
+| §43: Practicum — creating a table | Kazakhstan Grade 10 Salgaraeva G10 (science track), printed p. 152 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan, Pakistan, Kazakhstan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -76,4 +80,6 @@ South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a
 
 
 Pakistan's own way (Grade 9 Computer Science 9): Grade 9 is a full problem-solving course before any coding — candid solutions, the 5 Ws of problem analysis, test data in five types, trace tables, verification vs validation — then number systems carried through to Boolean algebra with truth tables, networks taught through the postal-system analogy for TCP/IP layers, a data-and-privacy unit built on Code.org cipher widgets, NADRA and Pakistan's NR3C cybercrime centre, and a first website built page by page as "Pakistan.html".
-Searchable tags: HTML tables, table row header data tags, border attribute, Ethiopian mountains, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 12 s4 student, pakistan, grade 9 computer science 9
+
+Kazakhstan's own way (Salgaraeva G10 Informatika, natural-science track): in Grade 10 the subject splits by track; this natural-science book is the deepest in the set — networks with IP, domains and VPN, number systems and logic with truth tables and the computer's logical elements, procedures/functions, strings, files, sorting methods and graph algorithms, a full HTML/CSS/scripts web part, and information systems from Big Data to linking web pages with a database. Every topic is doubled with a practicum paragraph.
+Searchable tags: HTML tables, table row header data tags, border attribute, Ethiopian mountains, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 12 s4 student, pakistan, grade 9 computer science 9, kazakhstan, salgaraeva g10 informatika, natural-science track

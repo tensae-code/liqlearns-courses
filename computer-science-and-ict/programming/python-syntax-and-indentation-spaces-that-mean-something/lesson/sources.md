@@ -1,6 +1,6 @@
 # Sources — Indentation in Python — spaces that mean something
 
-countries: Ethiopia, Indonesia
+countries: Ethiopia, Indonesia, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -8,17 +8,32 @@ countries: Ethiopia, Indonesia
 
 **Book 3:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 4:** *Kadirkulov G6 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 6 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 740 (Kazakh, record 34 — read in full from its text layer; Almatykitap 2020), okulyk 741 (record 35 — same 136-page frame), okulyk 1281 (Russian, record 29 — 2023 printing, cover verified) and okulyk 1286 (record 30 — same frame); all 136 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2020 (2023 reprint); ISBN 978-601-01-4366-1 (Kazakh edition). PDF pages: 136 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 5:** *Salgaraeva & Kopeeva G6 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 6 of the general school; authors Salgaraeva G.I., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 1140 (Russian, record 27 — read from page renders, image-only scan), okulyk 1141 (Kazakh, record 28 — same 160-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2020; ISBN 978-601-318-309-1 (Russian edition). PDF pages: 160 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 6:** *Mukhametzhanova G6 Informatika, 2020 edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 6 of the general school; authors Mukhambetzhanova S.T., Ten A.S., Komova I.V. Editions in this group: okulyk 742 (Kazakh, record 36 — read from page renders, image-only scan), okulyk 743 (Russian, record 37 — cover verified, same 149-page frame). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Atamura (Almaty); year 2020; no ISBN printed (publication no. ИБ №183). PDF pages: 149 each (cover/title pages verified against the record titles). Verdict: COMPLETE (the PDF's front "Оглавление" is a broken auto-index listing page1–page144; the real contents is printed at the back, p. 142, and the body was checked across all four parts). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The colon rule — and brackets you may leave off | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 171–173 (student placement item 121) |
 | Sub lesson 2 — Indentation — a block is its spaces | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 171–173 (student placement item 121) |
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed pp. 122–128 — see the honesty note below for exactly what is filed and where |
 | Bab 3 E. Aturan penulisan kode Arduino: titik koma, kurung kurawal, #define, #include | Indonesia Grade 12 G12 Informatika student, printed p. 70 |
+| 3.2: The alphabet of the language; syntax | Kazakhstan Grade 6 Kadirkulov G6, printed p. 77 |
+| §16: The alphabet of the language; syntax | Kazakhstan Grade 6 Salgaraeva G6 (2020), printed p. 86 |
+| 3.2: The alphabet of the language; syntax | Kazakhstan Grade 6 Mukhametzhanova G6 (2020), printed p. 71 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Indonesia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Kazakhstan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed diagnosis that indentation is the usual culprit and that at least one indented statement must follow an if (guide printed pp. 122–128). All code claims in this lesson were checked in Python 3. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: indentation, colon, syntax, block, Grade 12 ICT Ethiopia, Unit 6 programming, indonesia, grade 12
+
+Kazakhstan's own way (Kadirkulov G6 Informatika): Grade 6 by the Almatykitap team drops the Scratch-game strand of the 2018 books: after systems/networks (including a lesson on Internet addiction) it teaches 3D modelling and 3D printing, a first Python course (IDE, syntax, data types, input/output, linear programs), and academic Word work — footnotes, hyperlinks, an automatic table of contents, copyright and plagiarism, and how to write a referat.
+
+Kazakhstan's own way (Salgaraeva & Kopeeva G6 Informatika): the Arman-PV Grade 6 book follows the newer programme (systems and networks, 3D printing, Python, academic Word work) in 30 paragraphs with a test after each section; the 3D editor is SketchUp (the book's resource list points to gsketchup.ru and python.org), the history of computing is split into two paragraphs, and almost every topic is doubled with a "creating a project" paragraph.
+
+Kazakhstan's own way (Mukhametzhanova G6 Informatika, 2020 edition): the 2020 Atamura Grade 6 book drops the game project of its 2018 predecessor and follows the newer programme in four parts; its 3D strand is taught in Paint 3D (with Remix 3D models, the Mixed Reality Viewer and 3D-printer safety rules), and the Python part works in IDLE with type conversion (int/float) given its own space.
+Searchable tags: indentation, colon, syntax, block, Grade 12 ICT Ethiopia, Unit 6 programming, indonesia, grade 12, kazakhstan, kadirkulov g6 informatika, salgaraeva & kopeeva g6 informatika, mukhametzhanova g6 informatika, 2020 edition

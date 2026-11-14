@@ -1,6 +1,6 @@
 # Sources - Writing and running a Python script
 
-countries: Ethiopia, Nepal, Egypt, Malaysia, Jordan, Vietnam
+countries: Ethiopia, Nepal, Egypt, Malaysia, Jordan, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,14 @@ countries: Ethiopia, Nepal, Egypt, Malaysia, Jordan, Vietnam
 
 **Book 8:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 9:** *Kadirkulov G6 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 6 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 740 (Kazakh, record 34 — read in full from its text layer; Almatykitap 2020), okulyk 741 (record 35 — same 136-page frame), okulyk 1281 (Russian, record 29 — 2023 printing, cover verified) and okulyk 1286 (record 30 — same frame); all 136 pages. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2020 (2023 reprint); ISBN 978-601-01-4366-1 (Kazakh edition). PDF pages: 136 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 10:** *Kadirkulov G8 Informatika, Python edition* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 8 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 950 (Russian, record 60 — read in full from its text layer), okulyk 953 (Kazakh, record 63 — same contents in its text layer), okulyk 1299 (record 53 — same 152-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 8 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-4418-7 (Russian edition), 978-601-01-4421-7 (Kazakh edition). PDF pages: 152 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 11:** *Salgaraeva & Kopeeva G6 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 6 of the general school; authors Salgaraeva G.I., Kopeeva G.A., Kaptagaeva A.A., Yusupova A.G. Editions in this group: okulyk 1140 (Russian, record 27 — read from page renders, image-only scan), okulyk 1141 (Kazakh, record 28 — same 160-page frame, cover verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 6 (student/teacher: STUDENT). Publisher: Arman-PV (Nur-Sultan); year 2020; ISBN 978-601-318-309-1 (Russian edition). PDF pages: 160 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 12:** *Kadirkulov G7 Informatika* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 7 of the general school; authors Kadirkulov R.A., Nurmukhanbetova G.K. Editions in this group: okulyk 943 (Russian, record 47 — read in full from its text layer), okulyk 947 (record 50 — text layer confirms the same book), okulyk 1289 (record 39), okulyk 1293 (record 41) and okulyk 1294 (record 42) — same 176/192-page frames, covers verified. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; ISBN 978-601-01-4427-9 (Russian edition). PDF pages: 176 (943/947) (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - New File and writing in the editor (File menu of the interpreter window; editor window; no >>> prompt; script and script file) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 136-138 |
@@ -29,8 +37,13 @@ countries: Ethiopia, Nepal, Egypt, Malaysia, Jordan, Vietnam
 | 4.2.6 Atur Cara Gabungan Struktur Kod Arahan bagi Menyelesaikan Masalah | Malaysia Grade 9 ASK Tingkatan 3, printed p. 200 |
 | Lesson 2: writing a Python program and saving it | Jordan Grade 11 G11T1 Student, printed p. 25 |
 | Bài 32 Ôn tập lập trình Python (Python programming review) | Vietnam Grade 10 Tin học 10, printed p. 153 |
+| 3.9: Practical work (Python) | Kazakhstan Grade 6 Kadirkulov G6, printed p. 101 |
+| 4.8–4.9: Learning programming — final practical tasks | Kazakhstan Grade 8 Kadirkulov G8 (Python ed.), printed p. 107 |
+| 4.10: Project work in programming | Kazakhstan Grade 8 Kadirkulov G8 (Python ed.), printed p. 111 |
+| §23: Programming linear algorithms — creating a project | Kazakhstan Grade 6 Salgaraeva G6 (2020), printed p. 115 |
+| 4.9–4.10: Practical tasks (Python) | Kazakhstan Grade 7 Kadirkulov G7, printed p. 137 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, Egypt, Malaysia, Jordan, Vietnam).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, Egypt, Malaysia, Jordan, Vietnam, Kazakhstan).**
 
 The worked script is written with pi = 3.14 and radius * radius so it runs exactly as printed in Python 3 and gives the book's result, 28.26 (verified by running it). No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -44,4 +57,12 @@ Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE 
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: Python script, script file, .py, Run Module, New File, IDLE editor, circle area, Grade 11 ICT Ethiopia, Unit 6 programming, nepal, egypt, grade 10, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, jordan, grade 11 term 1 digital skills, vietnam, grade 10 tin học 10
+
+Kazakhstan's own way (Kadirkulov G6 Informatika): Grade 6 by the Almatykitap team drops the Scratch-game strand of the 2018 books: after systems/networks (including a lesson on Internet addiction) it teaches 3D modelling and 3D printing, a first Python course (IDE, syntax, data types, input/output, linear programs), and academic Word work — footnotes, hyperlinks, an automatic table of contents, copyright and plagiarism, and how to write a referat.
+
+Kazakhstan's own way (Kadirkulov G8 Informatika, Python edition): the newer, shorter Grade 8 edition from the same team keeps the measurement, health and Excel parts but replaces the Lazarus IDE with Python: for and while loops, nested loops, continue, break and loop-else, algorithm tracing, and a closing part on practical programming that ends with olympiad-style tasks.
+
+Kazakhstan's own way (Salgaraeva & Kopeeva G6 Informatika): the Arman-PV Grade 6 book follows the newer programme (systems and networks, 3D printing, Python, academic Word work) in 30 paragraphs with a test after each section; the 3D editor is SketchUp (the book's resource list points to gsketchup.ru and python.org), the history of computing is split into two paragraphs, and almost every topic is doubled with a "creating a project" paragraph.
+
+Kazakhstan's own way (Kadirkulov G7 Informatika): Grade 7 by the Almatykitap team is measurement and memory first (units, file formats and file sizes), then networks with antivirus security and the user interface, a long spreadsheet part that ends in modelling processes in Excel, and Python taught through files and branching — nested and compound conditions included. The creative-tasks lesson 2.4 (printed p. 40) is not placed.
+Searchable tags: Python script, script file, .py, Run Module, New File, IDLE editor, circle area, Grade 11 ICT Ethiopia, Unit 6 programming, nepal, egypt, grade 10, malaysia, grade 8 ask tingkatan 2, malaysia, grade 9 ask tingkatan 3, jordan, grade 11 term 1 digital skills, vietnam, grade 10 tin học 10, kazakhstan, kadirkulov g6 informatika, kadirkulov g8 informatika, python edition, salgaraeva & kopeeva g6 informatika, kadirkulov g7 informatika

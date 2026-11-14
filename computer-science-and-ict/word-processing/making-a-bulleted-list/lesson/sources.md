@@ -1,6 +1,6 @@
 # Sources — Making a bulleted list
 
-countries: Ethiopia, Greece, Moldova, Vietnam, Pakistan
+countries: Ethiopia, Greece, Moldova, Vietnam, Pakistan, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Greece, Moldova, Vietnam, Pakistan
 
 **Book 7:** *Computer Science 7 — Based on Single National Curriculum 2022* (student book, English) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore; printed 2022, Experimental Edition; author Jahanzaib Khan; no ISBN printed. Grade 7 (student book). 113 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/pakistan-placements.md. Read from the record's Drive source (the book is recorded as pushed but no secured copy is retrievable from GitHub — library debt, carried as filed); the downloaded byte size matched the record exactly.
 
+**Book 8:** *Vyshkova & Zhurbenko G7 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 7, developed under the educational programme of the Nazarbayev Intellectual Schools together with the Institute of Education, University College London; authors Vyshkova E.A., Zhurbenko Z.M., Orazbekov S.K. Editions in this group: okulyk 1046 (Russian, record 38 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Astana); year 2018; ISBN 978-601-328-201-5. PDF pages: 136 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bulleted lists: select the text, Home → the drop-down beside Bullets, hover for live preview, click the style; the worked list is the "12 Principles of Business Ethics"; removal by clicking the command again; Enter and Enter-twice behaviour; ruler markers adjust list indentation and the bullet-text gap | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 87-89 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Greece, Moldova, Vietnam, Pakistan
 | 1.5 Liste și tabele (lists) | Moldova Grade 8 Informatică, printed p. 22 |
 | Bài 8a Làm việc với danh sách dạng liệt kê và hình ảnh trong văn bản §1 (Bulleted and numbered lists in a text — track a) | Vietnam Grade 8 Tin học 8, printed p. 36 |
 | Unit 2 §2.1.10 creating a bulleted list | Pakistan (Punjab) Grade 7 Computer Science 7, printed p. 24 |
+| 3.3: Lists in business documents (filed as NEW LESSON NEEDED — word-processing/lists-in-documents; stocked in this lesson because this lesson teaches making a bulleted list — lists in documents) | Kazakhstan Grade 7 NIS G7, printed p. 36 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Greece, Moldova, Vietnam, Pakistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Greece, Moldova, Vietnam, Pakistan, Kazakhstan).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
@@ -39,4 +42,6 @@ Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calcula
 
 
 Pakistan's own way (Grade 7 Computer Science 7): Grade 7 opens with emerging technologies and a deep ports-and-peripherals hardware treatment, then teaches email all the way to DKIM/SPF/DMARC authentication and POP3/IMAP/SMTP protocols; binary data representation (ASCII/Unicode, RGB colour, sound sampling) is taught inside the Programming unit, and entrepreneurship becomes business-plan craft — promotion, value proposition, quality assurance, SEO and platform business models, with Twitter and Snapchat origin stories.
-Searchable tags: bulleted list, Bullets drop-down, live preview, 12 Principles of Business Ethics, Define New Bullet, Wingdings, Symbol font, Font Color, Grade 9 ICT Ethiopia, saudi arabia, grade 4, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, vietnam, grade 8 tin học 8, pakistan, grade 7 computer science 7
+
+Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
+Searchable tags: bulleted list, Bullets drop-down, live preview, 12 Principles of Business Ethics, Define New Bullet, Wingdings, Symbol font, Font Color, Grade 9 ICT Ethiopia, saudi arabia, grade 4, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, vietnam, grade 8 tin học 8, pakistan, grade 7 computer science 7, kazakhstan, vyshkova & zhurbenko g7 informatics, nis

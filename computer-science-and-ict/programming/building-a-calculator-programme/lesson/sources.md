@@ -1,17 +1,22 @@
 # Sources — Building a Calculator Programme
 
-countries: Bangladesh
+countries: Bangladesh, Kazakhstan
 
 **Book 1:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
+
+**Book 2:** *Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)* (Kazakhstan) — Title as printed: Информатика — Учебник для 7 класса (developed under the Educational Programme of Nazarbayev Intellectual Schools) Editions in this record set: 1046.pdf (Russian). Record 1047.pdf is the defective calibre conversion filed as Book 9. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы», Astana; year 2018; ISBN 978-601-328-201-5 (authors Вьюшкова Е. А., Журбенко З. М., Оразбеков С. Қ.). PDF pages: 136 (front contents, printed p. 3, read in full — nine sections, 53 units; the scan is image-only, read via contents + cover/verso + section openers). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Learning Experience 4, Session 7: Let us Create a Calculator Programme | Bangladesh Grade 9 Digital Technology, printed p. 132 |
+| 9.5 Давай сделаем наш собственный калькулятор (filed as NEW LESSON NEEDED — programming/project-build-your-own-calculator; stocked in this lesson because this lesson teaches building a calculator programme — your own calculator) | Kazakhstan Grade 7 NIS Zhurbenko, printed p. 126 |
 
-**Acceptance count: taught in 1 country (Bangladesh).**
+**Acceptance count: taught in 2 countries (Bangladesh, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Bangladesh, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/building-a-calculator-programme). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every placement stocked here is from a Bangladesh student book (all five distinct books in this expansion are student books, National Curriculum and Textbook Board (NCTB), Bangladesh; no ISBN printed; each read in the English Version with the Bangla Version parallel spot-checked — the English edition is cited, both editions named in the book entries). Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: calculator programme, python, selection, building, programming, bangladesh, grade 9
+
+Kazakhstan's own way (Vyushkova/Zhurbenko/Orazbekov G7 «Информатика» (NIS student book, Russian edition)): the NIS Grade 7 book is organised around data: measuring and representing information (including the von Neumann architecture), business documents, spreadsheets that grow into databases (error checking, sorting/filtering, protecting data from change), raster graphics and logo design, a whole modelling section (modelling games, school life and social problems, forecasting from data), networks and information systems, and linear-structure programming that ends with building your own calculator.
+Searchable tags: calculator programme, python, selection, building, programming, bangladesh, grade 9, kazakhstan, vyushkova/zhurbenko/orazbekov g7 «информатика» (nis student book, russian edition)

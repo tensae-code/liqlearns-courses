@@ -1,17 +1,27 @@
 # Sources — What an Algorithm and a Program Are
 
-countries: Moldova
+countries: Moldova, Kazakhstan
 
 **Book 1:** *EDUCAȚIE DIGITALĂ — Clasa I (Educație digitală. Clasa I: Suport didactic pentru elevi și cadre didactice)* (student book, Romanian) — Moldova, Chișinău, no publisher named (S. n.); year 2018; ISBN: no ISBN printed (multimedia edition, 60 p., produced under the 2018 digital-education memorandum with Tekwill). Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 60 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
+
+**Book 2:** *Kopeeva G5 Informatika* (Kazakhstan) — Title as printed: Информатика / Informatika, textbook for Grade 5 of the general school; authors Kopeeva G.A., Dilmanova U.M.; scientific consultant Kobdikova Zh.U. Editions in this group: okulyk 129 (Kazakh, record 19 — read in full from its text layer), okulyk 1133 (Uyghur, record 15) and okulyk 1134 (Uzbek, record 16) — image-only scans of the same 192-page frame (covers verified). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 5 (student/teacher: STUDENT). Publisher: Arman-PV; year 2017; ISBN 978-601-318-011-3 (Kazakh edition). PDF pages: 192 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 3:** *Vyshkova & Zhurbenko G7 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 7, developed under the educational programme of the Nazarbayev Intellectual Schools together with the Institute of Education, University College London; authors Vyshkova E.A., Zhurbenko Z.M., Orazbekov S.K. Editions in this group: okulyk 1046 (Russian, record 38 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Astana); year 2018; ISBN 978-601-328-201-5. PDF pages: 136 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Lecția 13 Algoritm și Program (a shoe-tying algorithm; a program to find the treasure) | Moldova Grade 1 Educație Digitală Clasa I, printed p. 44 |
+| Chapter IV. Algorithms in our life, §14: The concept of an algorithm (filed as programming/what-is-an-algorithm; stocked in this lesson because this lesson teaches the first definitions — an algorithm as the ordered plan of instructions for solving a task) | Kazakhstan Grade 5 Kopeeva G5, printed p. 82 |
+| 9.2: Algorithms and their types (filed as programming/what-is-an-algorithm; stocked in this lesson because this lesson teaches the first definitions — an algorithm as the ordered plan of instructions for solving a task) | Kazakhstan Grade 7 NIS G7, printed p. 120 |
 
-**Acceptance count: taught in 1 country (Moldova).**
+**Acceptance count: taught in 2 countries (Moldova, Kazakhstan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Moldova, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/what-an-algorithm-and-a-program-are). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Moldova student book (all seven books in this expansion are student books). Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Moldova's own way (Grade 1, Educație Digitală): digital education starts at age 6–7 with no keyboard skills assumed — information, devices and staying safe first, told through two child guides (Ana and Ștefan), and programming introduced unplugged (instructions, algorithm, a first maze program, debugging) before any real software. The Digital Education module sits inside Technological Education in the early grades.
 
-Searchable tags: algorithm, program, executor, programming, educatie digitala, grade 1, moldova, grade 1 educatie digitala
+
+Kazakhstan's own way (Kopeeva G5 Informatika): Grade 5 Informatika (the older, pre-"Digital Literacy" subject name) is built around Scratch as a "game programming environment": a whole chapter runs from a first program through blocks, animation graphics, sound effects and dialogue to linear/branching/cyclic commands; earlier chapters pair Internet safety with data protection, and the year ends with print-ready project work — a Word newspaper page with WordArt and columns, presented as slides.
+
+Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
+Searchable tags: algorithm, program, executor, programming, educatie digitala, grade 1, moldova, grade 1 educatie digitala, kazakhstan, kopeeva g5 informatika, vyshkova & zhurbenko g7 informatics, nis

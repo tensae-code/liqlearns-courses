@@ -1,6 +1,6 @@
 # Sources — Searching for a file
 
-countries: Ethiopia, Cuba, Sri Lanka
+countries: Ethiopia, Cuba, Sri Lanka, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Cuba, Sri Lanka
 
 **Book 8:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Kadirkulov G3 Digital Literacy* (Kazakhstan) — Title as printed: Цифровая грамотность / Цифрлық сауаттылық (Digital Literacy), textbook for Grade 3 of the general school; authors Kadirkulov R.A., Ryskulbekova A.D., Beristemova N.K. Editions in this group: okulyk 68 (Russian, record 11), okulyk 933 (Kazakh, record 12). Kazakh edition spot-checked: cover, contents and pagination identical, placed once here. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 3 (student/teacher: STUDENT). Publisher: Almatykitap Baspasy; year 2021; ISBN 978-601-01-4575-7 (Russian edition), 978-601-01-4576-4 (Kazakh edition). PDF pages: 132 each (cover/title pages verified against the record titles). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 10:** *Kadirkulov G3 «Цифровая грамотность»* (Kazakhstan) — Title as printed: Цифровая грамотность — textbook for Grade 3 pupils of the general school Editions in this record set: 68.pdf (Russian), 933.pdf (Kazakh) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: АЛМАТЫКІТАП БАСПАСЫ, Almaty; year 2021; ISBN 978-601-01-4575-7 (authors Кадиркулов Р. А., Рыскулбекова А. Д., Беристемова Н. К.). PDF pages: 132 in each edition (back contents, printed pp. 130–131, read in full in the Russian edition 68.pdf, text-rich). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
+**Book 11:** *Kadirkulov G3 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Информационно-коммуникационные технологии — textbook for Grade 3 pupils of the general school Editions in this record set: 1229.pdf (Russian) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 3 (student/teacher: STUDENT). Publisher: Алматыкітап баспасы, Almaty; signed to print 06.06.2018 (authors Кадиркулов Р. А., Рыскулбекова А. Д.). PDF pages: 96 (back contents, printed pp. 94–95, read in full from the cover-verified copy 1229.pdf). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Searching for a file | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 23–24 |
@@ -28,8 +34,12 @@ countries: Ethiopia, Cuba, Sri Lanka
 | Capítulo 2.4 Buscando información | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 55 |
 | Ch.2 File attributes configuration and searching files | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 14 |
 | Panduan Khusus Bab 5: panduan pembelajaran berkas dan folder (filed as files-and-folders/searching-for-files-and-folders; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 198 (teacher guide — evidence) |
+| Lesson 21: Searching for information on the computer and in a document | Kazakhstan Grade 3 Kadirkulov G3, printed p. 78 |
+| 21. Поиск информации на компьютере и в документе (filed as NEW LESSON NEEDED — files-and-folders/searching-for-information-on-the-computer; stocked in this lesson because this lesson teaches searching for a file — Windows finding a file from part of its name) | Kazakhstan Grade 3 Kadirkulov, printed p. 78 |
+| 21. Творческие задания «Поиск информации, набор текста, рисование» (filed as NEW LESSON NEEDED — files-and-folders/searching-for-information-on-the-computer; stocked in this lesson because this lesson teaches searching for a file — Windows finding a file from part of its name) | Kazakhstan Grade 3 ICT Kadirkulov, printed p. 53 |
+| 22. Поиск информации (filed as NEW LESSON NEEDED — files-and-folders/searching-for-information-on-the-computer; stocked in this lesson because this lesson teaches searching for a file — Windows finding a file from part of its name) | Kazakhstan Grade 3 ICT Kadirkulov, printed p. 55 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cuba, Sri Lanka).**
+**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Sri Lanka, Kazakhstan).**
 
 No book error touches this lesson's content. Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
@@ -47,4 +57,10 @@ Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
 
-Searchable tags: search for a file, Windows key search, Search field, This PC, part of name, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, morocco, grade 1, cuba, grade 5, cuba, grade 5, cuba, grade 5, sri lanka, grade 8 reading book, indonesia, grade 7
+
+Kazakhstan's own way (Kadirkulov G3 Digital Literacy): Grade 3 is built around making a whole Scratch game (scenario, scenes, characters, costumes) and an EV3 robotics project, with Word and PowerPoint taught as the project's tools; "Check yourself! Creative tasks" lessons close each section (printed pp. 29, 59, 95, 126 — assessment pages, not placed).
+
+Kazakhstan's own way (Kadirkulov G3 «Цифровая грамотность»): the Almatykitap Grade 3 digital literacy book is built as projects: a Scratch game built scene by scene, then a robotics project that oddly starts in Word (the project document is written and illustrated first) before the robot arm moves, and a cleaner robot is built; presentations and a photo collection close the year.
+
+Kazakhstan's own way (Kadirkulov G3 «Ақпараттық-коммуникациялық технологиялар»): the older Almatykitap Grade 3 ICT book (2018, a different book from the 2021 Digital Literacy, Book 23) is organised by cross-curricular themes — Living Nature, What is Good and What is Bad, Time, Architecture, Art, Outstanding People, Water is the Source of Life, Culture of Rest — and teaches sound (playback, effects, recording, processing) and the graphics editor inside them, ending every theme with a defended mini-project.
+Searchable tags: search for a file, Windows key search, Search field, This PC, part of name, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, morocco, grade 1, cuba, grade 5, cuba, grade 5, cuba, grade 5, sri lanka, grade 8 reading book, indonesia, grade 7, kazakhstan, kadirkulov g3 digital literacy, kadirkulov g3 «цифровая грамотность», kadirkulov g3 «ақпараттық-коммуникациялық технологиялар»

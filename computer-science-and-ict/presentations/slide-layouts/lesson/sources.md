@@ -1,6 +1,6 @@
 # Sources — Slide layouts
 
-countries: Ethiopia, Cuba, Fiji, Laos
+countries: Ethiopia, Cuba, Fiji, Laos, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Cuba, Fiji, Laos
 
 **Book 5:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Textbook, ICT, Secondary Year 7)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2016; ISBN: no ISBN printed. 274 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 6:** *Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар / Информационно-коммуникационные технологии — textbook for Grade 4 Editions in this record set: 1122.pdf (Kazakh), 1123.pdf (Russian), 1131.pdf (Uzbek), 1132.pdf (Uyghur) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 4 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2019; ISBN 978-601-318-195-0 (Kazakh edition; authors Кобдикова Ж. У., Копеева Г. А., Қаптағаева А. А., Юсупова А. Ғ.). PDF pages: 144 in each edition (Kazakh edition 1122.pdf read in full — cover, preface and back contents pp. 141–142 verified; Russian edition 1123.pdf contents matched § by §; Uzbek 1131.pdf and Uyghur 1132.pdf spot-checked — same book, image-based scans with the same structure). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Layouts — the arrangement of a slide's items; chosen from the gallery, captioned by type; content kinds | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 123–124 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Cuba, Fiji, Laos
 | Capítulo 1.2 Características generales de las presentaciones con diapositivas | Cuba, *Informática, Grade 8*, printed p. 4 |
 | Unit 4.3.5 Change layout of slide | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 126 |
 | Ch.5 §I.3 Setting up the slides | Laos Grade 12 ICT student, printed p. 194 |
+| §22 Презентация слайдының макеті (slide layout) | Kazakhstan Grade 4 Kobdikova, printed p. 91 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cuba, Fiji, Laos).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cuba, Fiji, Laos, Kazakhstan).**
 
 No book error touches this part.
 
@@ -30,4 +33,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Laos's own way (Grade 12 ICT student book): the final year is a modern, applied course — problem-solving method, a long English-titled internet-safety sequence (Internet Safety, Email Tips for Scams and Spam, Smart Social Networking, Cyber harassment/Stalking/Addiction), data summaries and PivotTables for decision-making, copyright and Creative Commons licensing, a full PowerPoint course, and choosing technology for your future occupation.
 
-Searchable tags: slide layout, layout gallery, Thumbnail pane, Home Layout, arrangement, Ethiopia Grade 9, cuba, grade 8, fiji, years 7-8, laos, grade 12 ict student
+
+Kazakhstan's own way (Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»): Grade 4 ICT is five project-driven sections with cross-cutting patriotic/cultural themes: a Scratch game the pupil designs from scenario to finished game, LEGO robotics with colour and ultrasonic sensors ending in labyrinth and kegelring challenges, video making in VideoPad, presentations with sound/video/animation, and a closing «Компьютеры будущего» section that is really about sending data, e-mail attachments and password strength; AR (augmented reality) tasks run through the book via a companion CD/app.
+Searchable tags: slide layout, layout gallery, Thumbnail pane, Home Layout, arrangement, Ethiopia Grade 9, cuba, grade 8, fiji, years 7-8, laos, grade 12 ict student, kazakhstan, kobdikova g4 «ақпараттық-коммуникациялық технологиялар»

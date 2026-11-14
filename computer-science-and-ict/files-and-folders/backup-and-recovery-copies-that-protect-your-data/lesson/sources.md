@@ -1,6 +1,6 @@
 # Sources — Backup and recovery — copies that protect your data
 
-countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia, Vietnam
+countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia,
 
 **Book 13:** *Chuyên đề học tập Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39255-8. Grade 12 (student book). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 14:** *Vyshkova & Zhurbenko G7 Informatics, NIS* (Kazakhstan) — Title as printed: Информатика (Informatics), textbook for Grade 7, developed under the educational programme of the Nazarbayev Intellectual Schools together with the Institute of Education, University College London; authors Vyshkova E.A., Zhurbenko Z.M., Orazbekov S.K. Editions in this group: okulyk 1046 (Russian, record 38 — read from page renders, image-only scan). No parallel edition in my record set. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 7 (student/teacher: STUDENT). Publisher: АОО «Назарбаев Интеллектуальные школы» (Astana); year 2018; ISBN 978-601-328-201-5. PDF pages: 136 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — backup and recovery defined, what a backup copies, separate system or medium, the four dangers, restoring | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 20, 22 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia,
 | Bài 24 Thực hành sao lưu dữ liệu (Practical: backing up data) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 113 |
 | Chuyên đề 2, Bài 8 Bảo đảm an toàn dữ liệu (Ensuring data safety) | Vietnam Grade 12 Chuyên đề Tin học 12 Ứng dụng, printed p. 42 |
 | Chuyên đề 2, Bài 9 Thực hành bảo vệ dữ liệu (Practical: protecting data) | Vietnam Grade 12 Chuyên đề Tin học 12 Ứng dụng, printed p. 47 |
+| 1.3: How to protect data (reserve copying) | Kazakhstan Grade 7 NIS G7, printed p. 10 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia, Vietnam, Kazakhstan).**
 
 The backup introduction on the student book's printed p. 20 numbers its first practical steps 4 and 5; those steps belong to the next lesson (Backing up files in Windows), where they are taught in their true order from 1 and the misnumbering is flagged in full. This lesson's pages carry no other error.
 
@@ -69,4 +72,6 @@ Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 ar
 
 Vietnam's own way (Grade 12 Chuyên đề Tin học 12 Ứng dụng): three workplace crafts — project management in the open-source GanttProject (schedule, people, budget, progress), installing/uninstalling software and an operating system with data protection, and a real statistics course inside the spreadsheet: probability and random sampling, measures of centre and spread, PivotTables, correlation and hypothesis testing.
 
-Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5, bhutan, class vii, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica, indonesia, grade 7, vietnam, grade 11 tin học 11 tin học ứng dụng, grade 12 chuyên đề tin học 12 ứng dụng
+
+Kazakhstan's own way (Vyshkova & Zhurbenko G7 Informatics, NIS): the Nazarbayev Intellectual Schools course is a different programme from the national one: business documents, databases inside the information-processing part, logo design and GIF animation in raster graphics, a whole chapter on modelling the world (including forecasting social problems from data), client–server networks, utilities, and linear-structure programming ending in building your own calculator. Lessons run two pages each with research-style tasks.
+Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5, bhutan, class vii, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica, indonesia, grade 7, vietnam, grade 11 tin học 11 tin học ứng dụng, grade 12 chuyên đề tin học 12 ứng dụng, kazakhstan, vyshkova & zhurbenko g7 informatics, nis

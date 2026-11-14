@@ -1,6 +1,6 @@
 # Sources — Machine Learning — computers that learn from data
 
-countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan, Vietnam
+countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan, Vietnam, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Ban
 
 **Book 18:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
+**Book 19:** *Kolyeva G10 Informatika, humanities track* (Kazakhstan) — Title as printed: Информатика (Informatika), textbook for Grade 10 of the social-humanities direction; authors Kolyeva N.S., Shevchuk E.V. Editions in this group: okulyk 552 (Kazakh, record 81 — read from page renders, image-only scan); a books.json record (record 87) points at the same file. Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Mektep (Almaty); year 2019; no ISBN printed (publication no. ИБ №5920). PDF pages: 104 (cover/title pages verified against the record title). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Machine Learning defined; train on sample data, build a model, predict for decisions; the four applications | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed p. 29 |
@@ -54,8 +56,9 @@ countries: Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Ban
 | Chapter 1, 1.3.1: machine learning — supervised, unsupervised and reinforcement learning, neural networks and deep learning | Bangladesh HSC ICT, printed p. 16 |
 | Lesson: Machine Learning — what machine learning is | Jordan Grade 11 G11T2 Student, printed p. 92 |
 | Bài 25 Làm quen với Học máy (Getting to know machine learning) (filed as NEW LESSON NEEDED — new-technologies/machine-learning-first-ideas; stocked in this lesson because this lesson teaches the first ideas of machine learning — computers that learn from data instead of fixed instructions) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 134 |
+| Part V. Artificial intelligence and blockchain technology, §25–26: The principles of machine learning (filed as NEW LESSON NEEDED — new-technologies/machine-learning-how-computers-learn; stocked in this lesson because this lesson teaches machine learning — computers that learn from data and improve without being explicitly programmed) | Kazakhstan Grade 10 Kolyeva G10 (humanities track), printed p. 73 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan, Vietnam).**
+**Acceptance count: taught in 11 countries (Ethiopia, Germany, Nepal, North Macedonia, Egypt, Kuwait, Greece, Bangladesh, Jordan, Vietnam, Kazakhstan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -92,4 +95,6 @@ Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught thro
 
 Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
 
-Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills, vietnam, grade 12 tin học 12 khoa học máy tính
+
+Kazakhstan's own way (Kolyeva G10 Informatika, humanities track): Mektep's humanities-track Grade 10 book mirrors the Arman-PV one (information security, video content, design theory, web design) and adds a fifth part no other humanities book has: artificial intelligence and blockchain — machine-learning principles, how neural networks are organised and work, the fields where AI is used, and blockchain technology.
+Searchable tags: machine learning, model, training data, prediction, fraud detection, recommendation, spam detection, speech recognition, Grade 11 ICT Ethiopia, germany, nepal, north macedonia, grade 11, papua new guinea, grade 10, egypt, grade 8, grade 9, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills, vietnam, grade 12 tin học 12 khoa học máy tính, kazakhstan, kolyeva g10 informatika, humanities track

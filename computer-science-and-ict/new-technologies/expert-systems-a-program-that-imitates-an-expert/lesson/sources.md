@@ -1,6 +1,6 @@
 # Sources — Expert systems — a program that imitates an expert
 
-countries: Ethiopia, China, Laos, Jordan
+countries: Ethiopia, China, Laos, Jordan, Kazakhstan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, China, Laos, Jordan
 
 **Book 5:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 11 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-725-6. Grade 11 (student book). 169 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 6:** *Heathcote ICT Grade 10* (Kazakhstan) — Title as printed: ICT — Information and Communication Technology, Grade 10 (Grammar Schools series); authors P. Heathcote, S. Heathcote, with Saule... (Kazakhstan adaptation team named on the title page); printed in Kazakhstan. Editions in this group: okulyk 474 (English, record 77 — read from page renders, image-only scan; the file's near-empty text layer is only the watermark). Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: Grade 10 (student/teacher: STUDENT). Publisher: Express Publishing; year 2018; ISBN 978-1-4715-… (final digits cut off on the rendered imprint page). PDF pages: 114 (cover/title pages verified against the record title). Verdict: COMPLETE — placements are at module level, the book's own teaching units. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements.md (reader group A).
+
+**Book 7:** *Express Publishing G10 «ICT»* (Kazakhstan) — Title as printed: ICT — Grade 10 textbook (eICT series, with Student's Portfolio and Teacher's Book) Editions in this record set: 474.pdf (English) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 10 (student/teacher: STUDENT). Publisher: Express Publishing, Newbury, UK; year 2018; ISBN 978-1-4715-7625-2 (record 474.pdf; the scan carries the publisher's expresspublishing.kz watermark). PDF pages: 114 (front Contents, printed p. 5, lists the ten modules with their start pages; module openings spot-checked in the body). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Expert systems defined; fields; the three components — interface, knowledge base of if–then–else rules, inference engine; performance depends on the knowledge base | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 31–32 |
@@ -22,8 +26,10 @@ countries: Ethiopia, China, Laos, Jordan
 | Ch.4 §6.2 Expert systems as a branch of AI (second treatment) | Laos Grade 10 ICT student, printed p. 89 |
 | Unit 2 Artificial Intelligence, Lesson: Expert Systems — the expert system and its components | Jordan Grade 11 G11T2 Student, printed p. 76 |
 | Expert Systems: importance, advantages, disadvantages and uses of expert systems | Jordan Grade 11 G11T2 Student, printed p. 82 |
+| Module 8: Expert and control systems (filed as NEW LESSON NEEDED — new-technologies/expert-systems-and-control-systems; stocked in this lesson because this lesson teaches expert systems — a program that imitates an expert, the expert half of expert and control systems) | Kazakhstan Grade 10 Heathcote ICT G10, printed p. 78 |
+| Module 8: Expert and Control systems (filed as NEW LESSON NEEDED — new-technologies/expert-and-control-systems; stocked in this lesson because this lesson teaches expert systems — a program that imitates an expert, the expert half of expert and control systems) | Kazakhstan Grade 10 Express ICT, printed p. 78 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Laos, Jordan).**
+**Acceptance count: taught in 5 countries (Ethiopia, China, Laos, Jordan, Kazakhstan).**
 
 No book error touches this lesson. The guide's keyed application examples are labelled teacher evidence.
 
@@ -31,4 +37,8 @@ Laos's own way (Grade 10 ICT student book): the upper-secondary course turns con
 
 Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught through the two commercial providers students can actually open — Microsoft Azure and Google Cloud — before data security in the cloud; the AI unit goes from expert systems through machine learning and NLP to modelling and simulation.
 
-Searchable tags: expert system, knowledge base, inference engine, user interface, if-then-else, MYCIN, Grade 11 ICT Ethiopia, china, laos, grade 10 ict student, jordan, grade 11 term 2 digital skills
+
+Kazakhstan's own way (Heathcote ICT Grade 10): an imported British ICT course (Express Publishing's Grammar Schools series) adapted for Kazakhstan — ten modules that include two topics the national books do not teach at all: expert and control systems, and developing a mobile app.
+
+Kazakhstan's own way (Express Publishing G10 «ICT»): alongside the national publishers, Kazakhstan's English-medium Grade 10 classes use this imported Express Publishing ICT course — ten self-contained modules that include two topics the national books do not teach at this level: expert and control systems, and developing a mobile app.
+Searchable tags: expert system, knowledge base, inference engine, user interface, if-then-else, MYCIN, Grade 11 ICT Ethiopia, china, laos, grade 10 ict student, jordan, grade 11 term 2 digital skills, kazakhstan, heathcote ict grade 10, express publishing g10 «ict»

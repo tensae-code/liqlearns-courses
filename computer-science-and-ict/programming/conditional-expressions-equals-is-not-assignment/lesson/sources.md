@@ -1,6 +1,6 @@
 # Sources — Conditional expressions — == is not =
 
-countries: Ethiopia, Malaysia, Sri Lanka, Moldova
+countries: Ethiopia, Malaysia, Sri Lanka, Moldova, Kazakhstan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Malaysia, Sri Lanka, Moldova
 **Book 5:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 **Book 6:** *INFORMATICĂ — Manual pentru clasa a 10-a (Informatică, Grade 10)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-234-0. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 212 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 7:** *Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»* (Kazakhstan) — Title as printed: Ақпараттық-коммуникациялық технологиялар / Информационно-коммуникационные технологии — textbook for Grade 4 Editions in this record set: 1122.pdf (Kazakh), 1123.pdf (Russian), 1131.pdf (Uzbek), 1132.pdf (Uyghur) Kazakhstan — all books are from okulyk.kz (OKULYK), recommended by the Ministry of Education and Science of the Republic of Kazakhstan. Grade: 4 (student/teacher: STUDENT). Publisher: Арман-ПВ; year 2019; ISBN 978-601-318-195-0 (Kazakh edition; authors Кобдикова Ж. У., Копеева Г. А., Қаптағаева А. А., Юсупова А. Ғ.). PDF pages: 144 in each edition (Kazakh edition 1122.pdf read in full — cover, preface and back contents pp. 141–142 verified; Russian edition 1123.pdf contents matched § by §; Uzbek 1131.pdf and Uyghur 1132.pdf spot-checked — same book, image-based scans with the same structure). Verdict: COMPLETE. Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kazakhstan-placements-b.md (reader group B).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Tests that answer true or false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed p. 166 (student placement item 118) |
@@ -22,8 +24,9 @@ countries: Ethiopia, Malaysia, Sri Lanka, Moldova
 | Ch.1 Mathematical, conditional and logical operators; operator precedence | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 37 |
 | 3.5 Instrucțiunea de atribuire (assignment) | Moldova Grade 8 Informatică, printed p. 98 |
 | 3.6 Instrucțiunea de atribuire (Pascal/C++) | Moldova Grade 10 Informatică, printed p. 112 |
+| §6 Салыстыру операторлары (comparison operators) | Kazakhstan Grade 4 Kobdikova, printed p. 26 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Sri Lanka, Moldova).**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Sri Lanka, Moldova, Kazakhstan).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed sample evaluations and the assignment-versus-comparison distinction (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -35,4 +38,6 @@ Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Wor
 
 Moldova's own way (Grade 10, Informatică): the manual teaches Pascal and C++ side by side — each school chooses one or both — and upper-secondary programming is language-formal: BNF metalanguage and syntax diagrams, ordinal types, type conversions, every concept given in Pascal for teaching and in C++ for a technology career.
 
-Searchable tags: conditional expressions, comparison operators, ==, assignment, Boolean, Grade 12 ICT Ethiopia, Unit 6 programming, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, moldova, grade 8 informatica, moldova, grade 10 informatica
+
+Kazakhstan's own way (Kobdikova G4 «Ақпараттық-коммуникациялық технологиялар»): Grade 4 ICT is five project-driven sections with cross-cutting patriotic/cultural themes: a Scratch game the pupil designs from scenario to finished game, LEGO robotics with colour and ultrasonic sensors ending in labyrinth and kegelring challenges, video making in VideoPad, presentations with sound/video/animation, and a closing «Компьютеры будущего» section that is really about sending data, e-mail attachments and password strength; AR (augmented reality) tasks run through the book via a companion CD/app.
+Searchable tags: conditional expressions, comparison operators, ==, assignment, Boolean, Grade 12 ICT Ethiopia, Unit 6 programming, malaysia, grade 8 ask tingkatan 2, sri lanka, grade 11 tamil, moldova, grade 8 informatica, moldova, grade 10 informatica, kazakhstan, kobdikova g4 «ақпараттық-коммуникациялық технологиялар»
