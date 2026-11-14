@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -129,3 +129,19 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 **Acceptance count unchanged: taught in 4 countries (Nauru, Tuvalu, Niue, Serbia).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, caring for our environment, kujdesi per mjedisin tone
+
+## Ghana growth (2026-11-13, General Science expansion)
+
+**Book (Ghana — JHS):** *Science Curriculum for Junior High Schools* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2021. Title as printed: Science Curriculum for Junior High Schools. PDF 170 pages. Verdict: COMPLETE. Record: the G7 record = 1 distinct book (1,526,380 bytes), cited ONCE here. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 5 Humans and the Environment: waste management (curriculum evidence) (Ghana, Basic 7) | Ghana, *Science Curriculum for Junior High Schools* — printed p. 44 |
+
+**Acceptance count: unchanged — Ghana is named as curriculum evidence only (its NaCCA curriculum documents — teacher/curriculum evidence, with NO pupil textbook in Ghana's set), not added to this count.**
+
+Placement choice, on the record: the Ghana placement was filed for `our-environment/recycling-reusing-and-reducing-waste`, which does not exist in the course; it is stocked into this lesson, which teaches caring for surroundings, disposing of waste properly and telling apart materials that can be reused or recycled, with the original slug recorded here.
+
+Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
+
+Searchable tags: ghana, ghana nacca science curriculum, ghana five strands

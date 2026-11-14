@@ -1,6 +1,6 @@
 # Sources — Health and wellbeing — what it means
 
-countries: Cook Islands, Guatemala (teacher-guide evidence only)
+countries: Cook Islands, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only)
 
 **Book 1:** *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition* (student book) — Cook Islands, Jacquie Bay and Delaney Yaqona; © University of Auckland, Cook Islands Ministry of Health and Cook Islands Ministry of Education, 2015; published for the Liggins Institute by Read Pacific Publishing Ltd, Auckland; ISBN 978-0-9941267-7-1. As printed: *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition, Student Book, Cook Islands Edition*. Filed as Grade 8, student book, in Cook Islands Māori and English. Record: TSV release record (EPUB asset). Fetched copy: 59,156,535 bytes, EPUB with 102 pages (printed pp. i–96). Verdict: COMPLETE — read in full from the EPUB's text (every page's content checked against the printed contents and unit map). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cook-islands-placements.md.
 
@@ -37,3 +37,19 @@ Placement note, on the record: both Guatemala placements were filed against the 
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, integral health, salud integral, traditional medicine, medicinal herbs
+
+## Ghana growth (2026-11-13, General Science expansion)
+
+**Book (Ghana — JHS):** *Science Curriculum for Junior High Schools* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2021. Title as printed: Science Curriculum for Junior High Schools. PDF 170 pages. Verdict: COMPLETE. Record: the G7 record = 1 distinct book (1,526,380 bytes), cited ONCE here. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 5 Humans and the Environment: human health (curriculum evidence) (Ghana, Basic 7) | Ghana, *Science Curriculum for Junior High Schools* — printed p. 45 |
+
+**Acceptance count: unchanged — Ghana is named as curriculum evidence only (its NaCCA curriculum documents — teacher/curriculum evidence, with NO pupil textbook in Ghana's set), not added to this count.**
+
+Placement choice, on the record: the Ghana placement was filed for `keeping-healthy/keeping-healthy-whole`, which does not exist in the course; the placement's subject is human health as a whole, so it is stocked into this lesson, which teaches what health and wellbeing mean, with the original slug recorded here.
+
+Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
+
+Searchable tags: ghana, ghana nacca science curriculum, ghana five strands

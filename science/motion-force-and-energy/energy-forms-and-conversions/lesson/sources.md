@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -152,3 +152,21 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — Term 3 opens with the power of wind, the good and bad things wind does, and transport that works on human power, taught in Bislama — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, power of wind, human power transport
+
+## Ghana growth (2026-11-13, General Science expansion)
+
+**Book (Ghana — Basic 1–3):** *Science Curriculum for Primary Schools (Basic 1–3)* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2019. Title as printed: Science Curriculum for Primary Schools (Basic 1–3), September 2019. PDF 72 pages. Verdict: COMPLETE. Records: 3 (the G1, G2 and G3 records) = 1 distinct book — the same file (883,120 bytes) filed under successive grades, cited ONCE here. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+**Book (Ghana — JHS):** *Science Curriculum for Junior High Schools* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2021. Title as printed: Science Curriculum for Junior High Schools. PDF 170 pages. Verdict: COMPLETE. Record: the G7 record = 1 distinct book (1,526,380 bytes), cited ONCE here. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 4 Forces and Energy: sources and forms of energy (curriculum evidence) (Ghana, Basic 1) | Ghana, *Science Curriculum for Primary Schools (Basic 1–3)* — printed p. 33 |
+| Strand 4 Forces and Energy: energy (curriculum evidence) (Ghana, Basic 7) | Ghana, *Science Curriculum for Junior High Schools* — printed p. 26 |
+| Strand 4 Forces and Energy: conversion and conservation of energy (curriculum evidence) (Ghana, Basic 7) | Ghana, *Science Curriculum for Junior High Schools* — printed p. 33 |
+
+**Acceptance count: unchanged — Ghana is named as curriculum evidence only (its NaCCA curriculum documents — teacher/curriculum evidence, with NO pupil textbook in Ghana's set), not added to this count.**
+
+Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
+
+Searchable tags: ghana, ghana nacca science curriculum, ghana five strands

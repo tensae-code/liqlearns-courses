@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -47,3 +47,20 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, human body systems, motor digestive respiratory
+
+## Ghana growth (2026-11-13, General Science expansion)
+
+**Book (Ghana — Basic 4–6):** *Science Curriculum for Primary Schools (Basic 4–6)* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2019. Title as printed: Science Curriculum for Primary Schools (Basic 4–6). PDF 70 pages. Verdict: COMPLETE. Records: 3 (the G4, G5 and G6 records) = 1 distinct book — the same file (847,690 bytes) filed under successive grades, cited ONCE here. This document's contents restart pagination at Basic 4, p. 1. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+**Book (Ghana — JHS):** *Science Curriculum for Junior High Schools* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2021. Title as printed: Science Curriculum for Junior High Schools. PDF 170 pages. Verdict: COMPLETE. Record: the G7 record = 1 distinct book (1,526,380 bytes), cited ONCE here. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 3 Systems: the human body systems (curriculum evidence) (Ghana, Basic 4) | Ghana, *Science Curriculum for Primary Schools (Basic 4–6)* — printed p. 8 |
+| Strand 3 Systems: the human body system (curriculum evidence) (Ghana, Basic 7) | Ghana, *Science Curriculum for Junior High Schools* — printed p. 16 |
+
+**Acceptance count: unchanged — Ghana is named as curriculum evidence only (its NaCCA curriculum documents — teacher/curriculum evidence, with NO pupil textbook in Ghana's set), not added to this count.**
+
+Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
+
+Searchable tags: ghana, ghana nacca science curriculum, ghana five strands

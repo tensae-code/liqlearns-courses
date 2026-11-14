@@ -1,6 +1,6 @@
 # Sources — Motion — displacement and velocity
 
-countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), United States, Cambodia, Yemen, Afghanistan, Bhutan, Mozambique, Mauritania
+countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), United States, Cambodia, Yemen, Afghanistan, Bhutan, Mozambique, Mauritania, Ghana (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -55,3 +55,17 @@ Record note: the library also holds a second Ecuador file recorded as *Física, 
 Placement: Student item 80 — g07-student-placements.md (Unit 7). This lesson rests on the student book only.
 
 Searchable tags: displacement velocity distance-time graph slope grade 7 unit 7 ethiopia, ecuador, united states, cambodia, yemen, mozambique
+
+## Ghana growth (2026-11-13, General Science expansion)
+
+**Book (Ghana — JHS):** *Science Curriculum for Junior High Schools* (curriculum document) — Ghana, National Council for Curriculum and Assessment (NaCCA), Ministry of Education, Republic of Ghana, © 2021. Title as printed: Science Curriculum for Junior High Schools. PDF 170 pages. Verdict: COMPLETE. Record: the G7 record = 1 distinct book (1,526,380 bytes), cited ONCE here. Kind as verified: curriculum document (record kind: teacher) — cited as the curriculum evidence it is, outside the acceptance count; Ghana's library set holds NO pupil textbook. Printed pages are the document's own contents-page numbers. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/ghana-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 4 Forces and Energy: force and motion (curriculum evidence) (Ghana, Basic 7) | Ghana, *Science Curriculum for Junior High Schools* — printed p. 35 |
+
+**Acceptance count: unchanged — Ghana is named as curriculum evidence only (its NaCCA curriculum documents — teacher/curriculum evidence, with NO pupil textbook in Ghana's set), not added to this count.**
+
+Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
+
+Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
